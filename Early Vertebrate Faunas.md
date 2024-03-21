@@ -1,230 +1,14 @@
 **Early Vertebrate Faunas and Sites**
 
 # Silurian
+## Llandovery
 
+## Wenlock
+
+## Ludlow - Pridoli
 
 # Devonian
 ## Early Devonian
- 
- 
- \*Gogo Formation Lagerstatte\*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (\*hermanni\* Zone) to early Frasnian (\*falsiovalis\* to \*punctata\* conodont Zones), based on revision of the conodont fauna and radiolarians
-
-from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the \*transitans\* conodont Zone." Here we adopte the \*\*early Frasnian\*\* age.
-
-The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around \*\*50\*\* species. Arthrodires include \*Holonema westolli\* Miles 1971; \*Latocamurus coulthardi\* Long, 1988; \*Mcnamaraspis kaprios\* Long, 1995; \*Incisoscutum ritchiei\* Dennis and Miles, 1981; etc. \*\*Count how many?\*\*
-
-| Gogo Station | Gogo Formation (Lower Frasnian) | *Bruntonichthys multidens*    | early Frasnian |
-|--------------|---------------------------------|-------------------------------|----------------|
-|              |                                 | *Bullerichthys fascidens*     | early Frasnian |
-|              |                                 | *Camuropiscis concinnus*      | early Frasnian |
-|              |                                 | *Camuropiscis laidlawi*       | early Frasnian |
-|              |                                 | *Compagopiscis croucheri*     | early Frasnian |
-|              |                                 | *Eastmanosteus calliaspis*    | early Frasnian |
-|              |                                 | *Fallacosteus turnerae*       | early Frasnian |
-|              |                                 | *Harrytoombsia elegans*       | early Frasnian |
-|              |                                 | *Holonema westolli*           | early Frasnian |
-|              |                                 | *Incisoscutum ritchiei*       | early Frasnian |
-|              |                                 | *Incisoscutum sarahae*        | early Frasnian |
-|              |                                 | *Kimberleyichthys bispicatus* | early Frasnian |
-|              |                                 | *Kimberleyichthys whybrowi*   | early Frasnian |
-|              |                                 | *Latocamurus coulthardi*      | early Frasnian |
-|              |                                 | *Mcnamaraspis kaprios*        | early Frasnian |
-|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
-|              |                                 | *Rolfosteus canningensis*     | early Frasnian |
-|              |                                 | *Simosteus tuberculatus*      | early Frasnian |
-|              |                                 | *Torosteus pulchellus*        | early Frasnian |
-|              |                                 | *Torosteus tuberculatus*      | early Frasnian |
-|              |                                 | *Tubonasus lennardensis*      | early Frasnian |
-|              |                                 | *Kendrickichthys cavernosus*  | early Frasnian |
-|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
-
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-
-Campbellodus decipiens
-Ctenurella gardineri
-Austroptyctodus gardinieri
-Bothriolepis sp.
-Mimia toombsi
-Moythomasia durgaringa
-Onychodontidae
-Onychodus sp.
-Gogodipterus paddyensis
-Chirodipterus australis
-Holodipterus gogoensis
-Holodipterus longi
-Pillararhynchus longi
-Griphognathus whitei
-Gogonasus andrewsi
-
-
-
-*Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
-The arthrodires comprise 
-*Brontichthys	clarki*, 
-*Bungartius	perissus*, 
-*Callognathus	regularis*, 
-*Coccosteus	cuyahogae*, 
-*Diplognathus	mirabilis*, 
-*Dunkleosteus	terrelli*, 
-*Glyptaspis	verrucosus*, 
-*Gorgonichthys	clarki*, 
-*Gymnotrachelus	hydei*, 
-*Heintzichthys	gouldii*, 
-*Holdenius	holdeni*, 
-*Hussakofia	minor*, 
-*Hlavinichthys	jacksoni*, 
-*Mylostoma	eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
-*Paramylostoma	arcualis*, 
-*Selenosteus	brevis*, 
-*Steneosteus	angustopectus*, *Steneosteus  glaber*，
-*Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
-*Trachosteus	clarki*，
-| Cleveland Shale | Cleveland Formation (Upper Famennian) | *Bungartius_perissus*      | late/end Famennian |
-|-----------------|---------------------------------------|----------------------------|--------------------|
-|                 |                                       | *Callognathus regularis*   | late/end Famennian |
-|                 |                                       | *Coccosteus cuyahogae*     | late/end Famennian |
-|                 |                                       | *Dinichthys herzeri*       | upper Famennian    |
-|                 |                                       | *Mylostoma eurhinus*       | late/end Famennian |
-|                 |                                       | *Diplognathus mirabilis*   | late/end Famennian |
-|                 |                                       | *Dunkleosteus raveri*      | late/end Famennian |
-|                 |                                       | *Dunkleosteus terrelli*    | late/end Famennian |
-|                 |                                       | *Glyptaspis verrucosa*     | late/end Famennian |
-|                 |                                       | *Gorgonichthys clarki*     | late/end Famennian |
-|                 |                                       | *Gymnotrachelus hydei*     | late/end Famennian |
-|                 |                                       | *Heintzichthys gouldii*    | late/end Famennian |
-|                 |                                       | *Hlavinichthys jacksoni*   | Famennian          |
-|                 |                                       | *Holdenius holdeni*        | late/end Famennian |
-|                 |                                       | *Hussakofia minor*         | late/end Famennian |
-|                 |                                       | *Mylostoma newberryi*      | late/end Famennian |
-|                 |                                       | *Mylostoma variabile*      | late/end Famennian |
-|                 |                                       | *Paramylostoma arcualis*   | late/end Famennian |
-|                 |                                       | *Selenosteus brevis*       | late/end Famennian |
-|                 |                                       | *Stenognathus corrugatus*  | upper Famennian    |
-|                 |                                       | *Stenosteus angustopectus* | late/end Famennian |
-|                 |                                       | *Stenosteus glaber*        | late/end Famennian |
-|                 |                                       | *Titanichthys agassizi*    | late/end Famennian |
-|                 |                                       | *Titanichthys attenuatus*  | late/end Famennian |
-|                 |                                       | *Titanichthys clarkii*     | late/end Famennian |
-|                 |                                       | *Titanichthys hussakofi*   | late/end Famennian |
-|                 |                                       | *Titanichthys kozlowskii*  | late Famennian     |
-|                 |                                       | *Titanichthys rectus*      | late/end Famennian |
-|                 |                                       | *Trachosteus clarki*       | late/end Famennian |
-
-Cladoselache acanthopterygius
-C. brachypterygius
-C. clarki
-C. desmopterygius
-C. fyleri
-C.magnificus
-C. newberri
-Diademodus hydei
-Stetacanthus clevelandensis
-Ctenacanthus clarki
-C. compressus
-Phœbodus politus
-Tegeolepis clarki
-Kentuckia hlavini
-Chagrinia enodis
-Proceratodus wagneri
-
-
-*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
-
-Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone)51.0867, 9.1317
-
-Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, *R. eximius*, *R. wildungensis*, *Epipetalichthys wildungensis*, *Brachydeirus carinatus*, *B. bicarinatus*, *B. gracilis*, 
-*B. grandis*, 
-*B. magnus*, 
-*B. minor*, 
-*Oxyosteus rostratus*, 
-*O. magnus*, 
-*Synauchenia coalescens*, 
-*Leptosteus bickensis*, 
-*Pholidosteus friedeli*, 
-*P. laevior*, 
-*P. pygmaeus*, 
-*Tapinosteus heintzi*, 
-*Hadrosteus rapax*, 
-*Erromenosteus lucifer*, 
-*E. brachyrostris*, 
-*E. concavus*, 
-*E. diensti*, 
-*E. inflatus*, 
-*E. koeneni*, 
-*E. platycephalus*, 
-*Belosteus elegans*, 
-*Brachyosteus dietrichi*, 
-*Parabelosteus inflatus*, 
-*P. acuticeps*, 
-*P. tuberculatus*, 
-*Trematosteus fontanella*, 
-*Braunosteus schmidti*, 
-*Enseosteus jaekeli*, 
-*E. hermanni*, 
-*E. pachyosteides*, 
-*Microsteus angusticeps*, 
-*M. dubius*, 
-*M. gracilis*, 
-*Rhinosteus traquairi*, 
-*R. parvulus*, 
-*R. tuberculatus*, 
-*Pachyosteus bulla*, 
-*Aspidichthys ingens*, 
-*Lepadolepis stensioei*, 
-
-*Protacrodus vetustus*, *Cladodus wildungensis*, *C. hassiacus*, 
-*Homacanthus jaekeli*，*Moythomasia laevigata*, *M. striata*, ***Onychodus jaekeli***, *Diplocercides jaekeli*, ***D. kayseri***, *Chirodipterus wildungensis*, *Devonosteus proteus*, ?*Glyptopomus traquairi*
-
-| Bad Wildungen site, Germany | Kellwasserkalk Formation (Upper Frasnian) | *Aspidichthys ingens*         | Frasnian                    |
-|-----------------------------|-------------------------------------------|-------------------------------|-----------------------------|
-|                             |                                           | *Belosteus elegans*           | late Frasnian               |
-|                             |                                           | *Belosteus major*             | late Frasnian               |
-|                             |                                           | *Brachydeirus bicarinatus*    | late Frasnian               |
-|                             |                                           | *Brachydeirus carinatus*      | late Frasnian               |
-|                             |                                           | *Brachydeirus gracilis*       | late Frasnian               |
-|                             |                                           | *Brachydeirus grandis*        | Frasnian                    |
-|                             |                                           | *Brachydeirus magnus*         | late Frasnian               |
-|                             |                                           | *Brachydeirus minor*          | late Frasnian               |
-|                             |                                           | *Brachyosteus dietrichi*      | late Frasnian               |
-|                             |                                           | *Braunosteus schmidti*        | late Frasnian               |
-|                             |                                           | *Cyrtosteus inflatus*         | late Frasnian               |
-|                             |                                           | *Enseosteus hermanni*         | late Frasnian               |
-|                             |                                           | *Enseosteus jaekeli*          | late Frasnian               |
-|                             |                                           | *Enseosteus marocanensis*     | late Frasnian               |
-|                             |                                           | *Enseosteus pachyostoides*    | late Frasnian               |
-|                             |                                           | *Erromenosteus brachyrostris* | late Frasnian               |
-|                             |                                           | *Erromenosteus concavus*      | late Frasnian               |
-|                             |                                           | *Erromenosteus diensti*       | late Frasnian               |
-|                             |                                           | *Erromenosteus inflatus*      | late Frasnian               |
-|                             |                                           | *Erromenosteus koeneni*       | late Frasnian               |
-|                             |                                           | *Erromenosteus lucifer*       | late Frasnian               |
-|                             |                                           | *Erromenosteus platycephalus* | late Frasnian               |
-|                             |                                           | *Hadrosteus rapax*            | late Frasnian               |
-|                             |                                           | *Leptosteus bickensis*        | late Frasnian               |
-|                             |                                           | *Microsteus angusticeps*      | late Frasnian               |
-|                             |                                           | *Microsteus dubius*           | late Frasnian               |
-|                             |                                           | *Microsteus gracilis*         | late Frasnian               |
-|                             |                                           | *Oxyosteus magnus*            | Frasnian                    |
-|                             |                                           | *Oxyosteus rostratus*         | Frasnian                    |
-|                             |                                           | *Pachyosteus bulla*           | Frasnian to early Famennian |
-|                             |                                           | *Parabelosteus acuticeps*     | late Frasnian               |
-|                             |                                           | *Parabelosteus pusillus*      | late Frasnian               |
-|                             |                                           | *Parabelosteus tuberculatus*  | late Frasnian               |
-|                             |                                           | *Pholidosteus friedeli*       | late Frasnian               |
-|                             |                                           | *Pholidosteus laevior*        | late Frasnian               |
-|                             |                                           | *Rhinosteus parvulus*         | late Frasnian               |
-|                             |                                           | *Rhinosteus traquairi*        | late Frasnian               |
-|                             |                                           | *Rhinosteus tuberculatus*     | late Frasnian               |
-|                             |                                           | *Synauchenia coalescens*      | late Frasnian               |
-|                             |                                           | *Tapinosteus heintzi*         | late Frasnian               |
-|                             |                                           | *Trematosteus fontanellus*    | late Frasnian               |
-|                             |                                           | *Walterosteus grossi*         | Frasnian                    |
-
-
-La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
-
 *Svalbard Wood Bay Formation fauna*: Pragian to lower Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
@@ -368,6 +152,8 @@ Porolepis brevis
 P. spitsbergensis
 P. elongata
 Heimenia ensis
+ 
+## Middle Devonian
 Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
 Ctenurella gladbachensis
 Gyroplacosteus sp.
@@ -471,3 +257,224 @@ Barwickia downunda
 Glyptolepis sp.
 Marsdenichthys longioccipitus
 Beelarongia patrichae
+
+## Late Devonian
+ \*Gogo Formation Lagerstatte\*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (\*hermanni\* Zone) to early Frasnian (\*falsiovalis\* to \*punctata\* conodont Zones), based on revision of the conodont fauna and radiolarians
+
+from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the \*transitans\* conodont Zone." Here we adopte the \*\*early Frasnian\*\* age.
+
+The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around \*\*50\*\* species. Arthrodires include \*Holonema westolli\* Miles 1971; \*Latocamurus coulthardi\* Long, 1988; \*Mcnamaraspis kaprios\* Long, 1995; \*Incisoscutum ritchiei\* Dennis and Miles, 1981; etc. \*\*Count how many?\*\*
+
+| Gogo Station | Gogo Formation (Lower Frasnian) | *Bruntonichthys multidens*    | early Frasnian |
+|--------------|---------------------------------|-------------------------------|----------------|
+|              |                                 | *Bullerichthys fascidens*     | early Frasnian |
+|              |                                 | *Camuropiscis concinnus*      | early Frasnian |
+|              |                                 | *Camuropiscis laidlawi*       | early Frasnian |
+|              |                                 | *Compagopiscis croucheri*     | early Frasnian |
+|              |                                 | *Eastmanosteus calliaspis*    | early Frasnian |
+|              |                                 | *Fallacosteus turnerae*       | early Frasnian |
+|              |                                 | *Harrytoombsia elegans*       | early Frasnian |
+|              |                                 | *Holonema westolli*           | early Frasnian |
+|              |                                 | *Incisoscutum ritchiei*       | early Frasnian |
+|              |                                 | *Incisoscutum sarahae*        | early Frasnian |
+|              |                                 | *Kimberleyichthys bispicatus* | early Frasnian |
+|              |                                 | *Kimberleyichthys whybrowi*   | early Frasnian |
+|              |                                 | *Latocamurus coulthardi*      | early Frasnian |
+|              |                                 | *Mcnamaraspis kaprios*        | early Frasnian |
+|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
+|              |                                 | *Rolfosteus canningensis*     | early Frasnian |
+|              |                                 | *Simosteus tuberculatus*      | early Frasnian |
+|              |                                 | *Torosteus pulchellus*        | early Frasnian |
+|              |                                 | *Torosteus tuberculatus*      | early Frasnian |
+|              |                                 | *Tubonasus lennardensis*      | early Frasnian |
+|              |                                 | *Kendrickichthys cavernosus*  | early Frasnian |
+|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
+
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+
+Campbellodus decipiens
+Ctenurella gardineri
+Austroptyctodus gardinieri
+Bothriolepis sp.
+Mimia toombsi
+Moythomasia durgaringa
+Onychodontidae
+Onychodus sp.
+Gogodipterus paddyensis
+Chirodipterus australis
+Holodipterus gogoensis
+Holodipterus longi
+Pillararhynchus longi
+Griphognathus whitei
+Gogonasus andrewsi
+
+*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
+
+Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone)51.0867, 9.1317
+
+Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, *R. eximius*, *R. wildungensis*, *Epipetalichthys wildungensis*, *Brachydeirus carinatus*, *B. bicarinatus*, *B. gracilis*, 
+*B. grandis*, 
+*B. magnus*, 
+*B. minor*, 
+*Oxyosteus rostratus*, 
+*O. magnus*, 
+*Synauchenia coalescens*, 
+*Leptosteus bickensis*, 
+*Pholidosteus friedeli*, 
+*P. laevior*, 
+*P. pygmaeus*, 
+*Tapinosteus heintzi*, 
+*Hadrosteus rapax*, 
+*Erromenosteus lucifer*, 
+*E. brachyrostris*, 
+*E. concavus*, 
+*E. diensti*, 
+*E. inflatus*, 
+*E. koeneni*, 
+*E. platycephalus*, 
+*Belosteus elegans*, 
+*Brachyosteus dietrichi*, 
+*Parabelosteus inflatus*, 
+*P. acuticeps*, 
+*P. tuberculatus*, 
+*Trematosteus fontanella*, 
+*Braunosteus schmidti*, 
+*Enseosteus jaekeli*, 
+*E. hermanni*, 
+*E. pachyosteides*, 
+*Microsteus angusticeps*, 
+*M. dubius*, 
+*M. gracilis*, 
+*Rhinosteus traquairi*, 
+*R. parvulus*, 
+*R. tuberculatus*, 
+*Pachyosteus bulla*, 
+*Aspidichthys ingens*, 
+*Lepadolepis stensioei*, 
+
+*Protacrodus vetustus*, *Cladodus wildungensis*, *C. hassiacus*, 
+*Homacanthus jaekeli*，*Moythomasia laevigata*, *M. striata*, ***Onychodus jaekeli***, *Diplocercides jaekeli*, ***D. kayseri***, *Chirodipterus wildungensis*, *Devonosteus proteus*, ?*Glyptopomus traquairi*
+
+| Bad Wildungen site, Germany | Kellwasserkalk Formation (Upper Frasnian) | *Aspidichthys ingens*         | Frasnian                    |
+|-----------------------------|-------------------------------------------|-------------------------------|-----------------------------|
+|                             |                                           | *Belosteus elegans*           | late Frasnian               |
+|                             |                                           | *Belosteus major*             | late Frasnian               |
+|                             |                                           | *Brachydeirus bicarinatus*    | late Frasnian               |
+|                             |                                           | *Brachydeirus carinatus*      | late Frasnian               |
+|                             |                                           | *Brachydeirus gracilis*       | late Frasnian               |
+|                             |                                           | *Brachydeirus grandis*        | Frasnian                    |
+|                             |                                           | *Brachydeirus magnus*         | late Frasnian               |
+|                             |                                           | *Brachydeirus minor*          | late Frasnian               |
+|                             |                                           | *Brachyosteus dietrichi*      | late Frasnian               |
+|                             |                                           | *Braunosteus schmidti*        | late Frasnian               |
+|                             |                                           | *Cyrtosteus inflatus*         | late Frasnian               |
+|                             |                                           | *Enseosteus hermanni*         | late Frasnian               |
+|                             |                                           | *Enseosteus jaekeli*          | late Frasnian               |
+|                             |                                           | *Enseosteus marocanensis*     | late Frasnian               |
+|                             |                                           | *Enseosteus pachyostoides*    | late Frasnian               |
+|                             |                                           | *Erromenosteus brachyrostris* | late Frasnian               |
+|                             |                                           | *Erromenosteus concavus*      | late Frasnian               |
+|                             |                                           | *Erromenosteus diensti*       | late Frasnian               |
+|                             |                                           | *Erromenosteus inflatus*      | late Frasnian               |
+|                             |                                           | *Erromenosteus koeneni*       | late Frasnian               |
+|                             |                                           | *Erromenosteus lucifer*       | late Frasnian               |
+|                             |                                           | *Erromenosteus platycephalus* | late Frasnian               |
+|                             |                                           | *Hadrosteus rapax*            | late Frasnian               |
+|                             |                                           | *Leptosteus bickensis*        | late Frasnian               |
+|                             |                                           | *Microsteus angusticeps*      | late Frasnian               |
+|                             |                                           | *Microsteus dubius*           | late Frasnian               |
+|                             |                                           | *Microsteus gracilis*         | late Frasnian               |
+|                             |                                           | *Oxyosteus magnus*            | Frasnian                    |
+|                             |                                           | *Oxyosteus rostratus*         | Frasnian                    |
+|                             |                                           | *Pachyosteus bulla*           | Frasnian to early Famennian |
+|                             |                                           | *Parabelosteus acuticeps*     | late Frasnian               |
+|                             |                                           | *Parabelosteus pusillus*      | late Frasnian               |
+|                             |                                           | *Parabelosteus tuberculatus*  | late Frasnian               |
+|                             |                                           | *Pholidosteus friedeli*       | late Frasnian               |
+|                             |                                           | *Pholidosteus laevior*        | late Frasnian               |
+|                             |                                           | *Rhinosteus parvulus*         | late Frasnian               |
+|                             |                                           | *Rhinosteus traquairi*        | late Frasnian               |
+|                             |                                           | *Rhinosteus tuberculatus*     | late Frasnian               |
+|                             |                                           | *Synauchenia coalescens*      | late Frasnian               |
+|                             |                                           | *Tapinosteus heintzi*         | late Frasnian               |
+|                             |                                           | *Trematosteus fontanellus*    | late Frasnian               |
+|                             |                                           | *Walterosteus grossi*         | Frasnian                    |
+
+
+La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
+
+*Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
+The arthrodires comprise 
+*Brontichthys	clarki*, 
+*Bungartius	perissus*, 
+*Callognathus	regularis*, 
+*Coccosteus	cuyahogae*, 
+*Diplognathus	mirabilis*, 
+*Dunkleosteus	terrelli*, 
+*Glyptaspis	verrucosus*, 
+*Gorgonichthys	clarki*, 
+*Gymnotrachelus	hydei*, 
+*Heintzichthys	gouldii*, 
+*Holdenius	holdeni*, 
+*Hussakofia	minor*, 
+*Hlavinichthys	jacksoni*, 
+*Mylostoma	eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
+*Paramylostoma	arcualis*, 
+*Selenosteus	brevis*, 
+*Steneosteus	angustopectus*, *Steneosteus  glaber*，
+*Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
+*Trachosteus	clarki*，
+| Cleveland Shale | Cleveland Formation (Upper Famennian) | *Bungartius_perissus*      | late/end Famennian |
+|-----------------|---------------------------------------|----------------------------|--------------------|
+|                 |                                       | *Callognathus regularis*   | late/end Famennian |
+|                 |                                       | *Coccosteus cuyahogae*     | late/end Famennian |
+|                 |                                       | *Dinichthys herzeri*       | upper Famennian    |
+|                 |                                       | *Mylostoma eurhinus*       | late/end Famennian |
+|                 |                                       | *Diplognathus mirabilis*   | late/end Famennian |
+|                 |                                       | *Dunkleosteus raveri*      | late/end Famennian |
+|                 |                                       | *Dunkleosteus terrelli*    | late/end Famennian |
+|                 |                                       | *Glyptaspis verrucosa*     | late/end Famennian |
+|                 |                                       | *Gorgonichthys clarki*     | late/end Famennian |
+|                 |                                       | *Gymnotrachelus hydei*     | late/end Famennian |
+|                 |                                       | *Heintzichthys gouldii*    | late/end Famennian |
+|                 |                                       | *Hlavinichthys jacksoni*   | Famennian          |
+|                 |                                       | *Holdenius holdeni*        | late/end Famennian |
+|                 |                                       | *Hussakofia minor*         | late/end Famennian |
+|                 |                                       | *Mylostoma newberryi*      | late/end Famennian |
+|                 |                                       | *Mylostoma variabile*      | late/end Famennian |
+|                 |                                       | *Paramylostoma arcualis*   | late/end Famennian |
+|                 |                                       | *Selenosteus brevis*       | late/end Famennian |
+|                 |                                       | *Stenognathus corrugatus*  | upper Famennian    |
+|                 |                                       | *Stenosteus angustopectus* | late/end Famennian |
+|                 |                                       | *Stenosteus glaber*        | late/end Famennian |
+|                 |                                       | *Titanichthys agassizi*    | late/end Famennian |
+|                 |                                       | *Titanichthys attenuatus*  | late/end Famennian |
+|                 |                                       | *Titanichthys clarkii*     | late/end Famennian |
+|                 |                                       | *Titanichthys hussakofi*   | late/end Famennian |
+|                 |                                       | *Titanichthys kozlowskii*  | late Famennian     |
+|                 |                                       | *Titanichthys rectus*      | late/end Famennian |
+|                 |                                       | *Trachosteus clarki*       | late/end Famennian |
+
+Cladoselache acanthopterygius
+C. brachypterygius
+C. clarki
+C. desmopterygius
+C. fyleri
+C.magnificus
+C. newberri
+Diademodus hydei
+Stetacanthus clevelandensis
+Ctenacanthus clarki
+C. compressus
+Phœbodus politus
+Tegeolepis clarki
+Kentuckia hlavini
+Chagrinia enodis
+Proceratodus wagneri
+
+
+
+
+
