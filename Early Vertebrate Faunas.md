@@ -9,6 +9,9 @@
 
 # Devonian
 ## Early Devonian
+**MOTH fauna**: Lochkovian.
+
+
 ***Svalbard Wood Bay Formation fauna***: Pragian to lower Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
@@ -31,49 +34,38 @@
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
 |-----------|------------------------------------------|----------------------------|-----------------------|
-|arthrodires|                                          | *Sigaspis lepidophora*     | Pragian               |
-|arthrodires|                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
+|Arthrodira | Pragian                                  | *Sigaspis lepidophora*     | Pragian               |
+|Arthrodira |                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis polaris*    | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis typicus*    | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis angulatus*  | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis stensioei*  | Lower Emsian(Pragian) |
 |           |                                          | *Elegantaspis reticornis*  | Lower Emsian(Pragian) |
-|           |                                          | *Lehmanosteus hyperboreus* | Pragian               |
+|           | Pragian                                  | *Lehmanosteus hyperboreus* | Pragian               |
 |           |                                          | *Actinolepis sp.*          | Lower Emsian(Pragian) |
 |           |                                          | *Arctaspis kiaeri*         | Lower Emsian(Pragian) |
 |           |                                          | *Arctaspis holtedahli*     | Lower Emsian(Pragian) |
 |           |                                          | *Arctaspis hoeli*          | Lower Emsian(Pragian) |
 |           |                                          | *Arctaspis minor*          | Lower Emsian(Pragian) |
 |           |                                          | *Arctaspis hoegi*          | Lower Emsian(Pragian) |
-|           |                                          | *Arctaspis maxima*         | Lower Emsian(Pragian) |
-|           |                                          | *Dicksonosteus arcticus*   | Lower Emsian(Pragian) |
-|           |                                          | *Heintzosteus brevis*      | Lower Emsian(Pragian) |
-|           |                                          | *Arctolepis decipiens*     | Lower Emsian(Pragian) |
+|           | Pragian-Early Emsian                     | *Arctaspis sp.*            |                       |
+|           | Early Emsian                             | *Arctaspis maxima*         | Lower Emsian(Pragian) |
+|           | Pragian                                  | *Dicksonosteus arcticus*   | Lower Emsian(Pragian) |
+|           | Early Emsian                             | *Dicksonosteus sp.*        |                       |
+|           | Pragian                                  | *Heintzosteus brevis*      | Lower Emsian(Pragian) |
+|           | Pragian                                  | *Heintzosteus sp.*         |                       |
+|           | Early Emsian                             | *Arctolepis decipiens*     | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis lata*          | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis lewini*        | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis longicornis*   | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
 
-Sigaspis lepidophora
-Svalbardaspis rotundus
-Elegantaspis reticornis
-Lehmanosteus hyperboreus
-Actinolepis sp.
-Arctaspis maxima
-A. kiaeri
-A. holtedahli
-Dicksonosteus arcticus
-Heintzosteus brevis
-Arctolepis decipiens
 
-Monaspididae
+
 Heterogaspis gigantea
-Euleptaspididae
 Euleptaspididae gen. et sp. indet.
-Heterosteidae
 Herasmius granulatus
 Homosteus arcticus
-Brachythoraci incertae sedis
 Arctonema crassum
 
 Agnathes Heterostraci (4)
@@ -155,29 +147,9 @@ P. elongata
 Heimenia ensis
  
 ## Middle Devonian
-Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
-Ctenurella gladbachensis
-Gyroplacosteus sp.
-Torosteus submarginatus
-Rachiosteus pterygiatus
-Atopacanthus sp.
-Protogonacanthus juergeni
-Moythomasia nitida
-Strunius walteri
-Diplocercides heiligenstockiensis
-Dipterus oervigi
-D. sp. cf. D. valenciennesi
-Rhinodipterus ulrichi
-Rhynchodipteridae
-Griphognathus scultpta
-Latvius deckerti
-L. niger
-L. sp.
-Thursius ? sp.
-Holopterygius nudus
+**Achanarras fish beds**: upper Eifelian, 389.6, 387.7
+> Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
-Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-upper Eifelian, 389.6, 387.7
 *Achanarella*, 
 *Coccosteus cuspidatus*, 
 *Homostius milleri*, 
@@ -197,11 +169,9 @@ upper Eifelian, 389.6, 387.7
 *Osteolepis macrolepidotus*
 *Gyroptychius agassizi*
 
-Gauja Formation, Lode Quarry, Latvia. 
-
-upper Givetian, 384.4, 382.7
-
-Used to be of Late Devonian age. 
+**Gauja Formation fauna***: upper Givetian, 384.4, 382.7
+> Gauja Formation, Lode Quarry, Latvia.
+> - Used to be of Late Devonian age. 
 
 Psammosteus sp. (ganensis)
 Psammolepis abavica
@@ -231,9 +201,8 @@ Osteolepididae
 Osteolepis sp.
 Panderichthys rhombolepis
 
-Mount Howitt, Victoria, Australia – Avon River Group
-> uppermost Givetian, 384.37, 382.7 (Long 1999)
-> - Avon River Group; Mount Howitt, Victoria, Australia.
+**Mount Howitt Fauna**: uppermost Givetian, 384.37, 382.7 (Long 1999)
+> Avon River Group; Mount Howitt, Victoria, Australia.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
 Austrophyllolepis ritchiei
@@ -260,11 +229,33 @@ Marsdenichthys longioccipitus
 Beelarongia patrichae
 
 ## Late Devonian
- \*Gogo Formation Lagerstatte\*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (\*hermanni\* Zone) to early Frasnian (\*falsiovalis\* to \*punctata\* conodont Zones), based on revision of the conodont fauna and radiolarians
+***Bergisch-Gladbach fauna**: lower Frasnian, 382.7, 379.2
+> Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
+Ctenurella gladbachensis
+Gyroplacosteus sp.
+Torosteus submarginatus
+Rachiosteus pterygiatus
+Atopacanthus sp.
+Protogonacanthus juergeni
+Moythomasia nitida
+Strunius walteri
+Diplocercides heiligenstockiensis
+Dipterus oervigi
+D. sp. cf. D. valenciennesi
+Rhinodipterus ulrichi
+Rhynchodipteridae
+Griphognathus scultpta
+Latvius deckerti
+L. niger
+L. sp.
+Thursius ? sp.
+Holopterygius nudus
 
-from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the \*transitans\* conodont Zone." Here we adopte the \*\*early Frasnian\*\* age.
+***Gogo Formation Lagerstatte***: lower Frasnian, 382.7, 379.2
+> Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 
-The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around \*\*50\*\* species. Arthrodires include \*Holonema westolli\* Miles 1971; \*Latocamurus coulthardi\* Long, 1988; \*Mcnamaraspis kaprios\* Long, 1995; \*Incisoscutum ritchiei\* Dennis and Miles, 1981; etc. \*\*Count how many?\*\*
+> -The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
 
 | Gogo Station | Gogo Formation (Lower Frasnian) | *Bruntonichthys multidens*    | early Frasnian |
 |--------------|---------------------------------|-------------------------------|----------------|
@@ -291,10 +282,6 @@ The arthrodire placoderms exhibit the highest diversity and abundance (Long and 
 |              |                                 | *Kendrickichthys cavernosus*  | early Frasnian |
 |              |                                 | *Pinguosteus thulborni*       | early Frasnian |
 
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-
 Campbellodus decipiens
 Ctenurella gardineri
 Austroptyctodus gardinieri
@@ -311,9 +298,8 @@ Pillararhynchus longi
 Griphognathus whitei
 Gogonasus andrewsi
 
-*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
-
-Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone)51.0867, 9.1317
+***Bad Wildungen fauna***: upper Frasnian. 
+> Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
 
 Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, *R. eximius*, *R. wildungensis*, *Epipetalichthys wildungensis*, *Brachydeirus carinatus*, *B. bicarinatus*, *B. gracilis*, 
 *B. grandis*, 
@@ -406,7 +392,8 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
-*Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
+***Cleveland Shale fauna***: upper Famennian. 
+> The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
 *Brontichthys	clarki*, 
 *Bungartius	perissus*, 
