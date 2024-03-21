@@ -9,7 +9,7 @@
 
 # Devonian
 ## Early Devonian
-*Svalbard Wood Bay Formation fauna*: Pragian to lower Emsian.
+***Svalbard Wood Bay Formation fauna***: Pragian to lower Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
 > Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
@@ -24,14 +24,15 @@
 >
 > For the age, either Pragian or Early Emsian, check from which member of the formation the taxon comes.
 
-> Pragian: *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+> - Pragian: *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
 
-> Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
+> - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 
 
-| Spitsberg | Wood Bay Formation(Pragian-Lower Emsian) | *Sigaspis lepidophora*     | Pragian               |
+| clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
 |-----------|------------------------------------------|----------------------------|-----------------------|
-|           |                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
+|arthrodires|                                          | *Sigaspis lepidophora*     | Pragian               |
+|arthrodires|                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis polaris*    | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis typicus*    | Lower Emsian(Pragian) |
 |           |                                          | *Svalbardaspis angulatus*  | Lower Emsian(Pragian) |
