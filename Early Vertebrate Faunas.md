@@ -147,7 +147,7 @@ P. elongata
 Heimenia ensis
  
 ## Middle Devonian
-**Achanarras fish beds**: upper Eifelian, 389.6, 387.7
+***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
 *Achanarella*, 
@@ -169,7 +169,7 @@ Heimenia ensis
 *Osteolepis macrolepidotus*
 *Gyroptychius agassizi*
 
-**Gauja Formation fauna***: upper Givetian, 384.4, 382.7
+***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
 > Gauja Formation, Lode Quarry, Latvia.
 > - Used to be of Late Devonian age. 
 
@@ -201,7 +201,7 @@ Osteolepididae
 Osteolepis sp.
 Panderichthys rhombolepis
 
-**Mount Howitt Fauna**: uppermost Givetian, 384.37, 382.7 (Long 1999)
+***Mount Howitt Fauna***: uppermost Givetian, 384.37, 382.7 (Long 1999)
 > Avon River Group; Mount Howitt, Victoria, Australia.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
