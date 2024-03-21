@@ -1,10 +1,10 @@
 **Early Vertebrate Faunas and Sites**
 
-#Silurian
+# Silurian
 
 
-#Devonian**
-##Early Dev
+# Devonian
+## Early Devonian
  
  
  \*Gogo Formation Lagerstatte\*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (\*hermanni\* Zone) to early Frasnian (\*falsiovalis\* to \*punctata\* conodont Zones), based on revision of the conodont fauna and radiolarians
