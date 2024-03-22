@@ -414,6 +414,7 @@ The arthrodires comprise
 *Steneosteus	angustopectus*, *Steneosteus  glaber*，
 *Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
 *Trachosteus	clarki*，
+
 | Cleveland Shale | Cleveland Formation (Upper Famennian) | *Bungartius_perissus*      | late/end Famennian |
 |-----------------|---------------------------------------|----------------------------|--------------------|
 |                 |                                       | *Callognathus regularis*   | late/end Famennian |
