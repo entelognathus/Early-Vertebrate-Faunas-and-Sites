@@ -68,7 +68,10 @@
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
 > MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 
+ ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian or early-middle Pragian
+> Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
 
+> Powichthys thorsteinssoni,
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > 
@@ -199,6 +202,7 @@
 |                |                 | *Porolepis brevis*                   |
 |                |                 | *P. spitsbergensis*                  |
 |                |                 | *P. elongata*                        |
+|                | Sigurdfjellet   | *Powichthys spitsbergensis*          |
 |                | Verdalen Mb     | *Heimenia ensis*                     |
 
  
