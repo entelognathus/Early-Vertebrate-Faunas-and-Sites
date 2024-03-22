@@ -70,7 +70,7 @@
 
 | Clade           |                          | taxa                            |
 |-----------------|--------------------------|---------------------------------|
-| Thelodonti      | Arthrodira               | *Thelodus sinensis*             |
+| Thelodonti      |                          | *Thelodus sinensis*             |
 | Galeaspida      |                          | *Dunyu longiforus*              |
 |                 |                          | *Dunyu xiushanensis*            |
 | Placoderm       |                          | *Wangolepis sinensis*           |
