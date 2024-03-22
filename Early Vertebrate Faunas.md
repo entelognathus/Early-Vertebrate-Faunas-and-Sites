@@ -446,59 +446,59 @@ Elpistostege watsoni
 
 | Clade          |                               | taxa                           |
 |----------------|-------------------------------|--------------------------------|
-| Placoderm      | Arthrodira                    | *Aspidichthys_ingens*          |
-|                |                               | *Belosteus_elegans*            |
-|                |                               | *Belosteus_major*              |
-|                |                               | *Brachydeirus_bicarinatus*     |
-|                |                               | *Brachydeirus_carinatus*       |
-|                |                               | *Brachydeirus_gracilis*        |
-|                |                               | *Brachydeirus_grandis*         |
-|                |                               | *Brachydeirus_magnus*          |
-|                |                               | *Brachydeirus_minor*           |
-|                |                               | *Brachyosteus_dietrichi*       |
-|                |                               | *Braunosteus_schmidti*         |
-|                |                               | *Cyrtosteus_inflatus*          |
-|                |                               | *Enseosteus_hermanni*          |
-|                |                               | *Enseosteus_jaekeli*           |
-|                |                               | *Enseosteus_marocanensis*      |
-|                |                               | *Enseosteus_pachyostoides*     |
-|                |                               | *Erromenosteus_brachyrostris*  |
-|                |                               | *Erromenosteus_concavus*       |
-|                |                               | *Erromenosteus_diensti*        |
-|                |                               | *Erromenosteus_inflatus*       |
-|                |                               | *Erromenosteus_koeneni*        |
-|                |                               | *Erromenosteus_lucifer*        |
-|                |                               | *Erromenosteus_platycephalus*  |
-|                |                               | *Hadrosteus_rapax*             |
-|                |                               | *Leptosteus_bickensis*         |
-|                |                               | *Microsteus_angusticeps*       |
-|                |                               | *Microsteus_dubius*            |
-|                |                               | *Microsteus_gracilis*          |
-|                |                               | *Oxyosteus_magnus*             |
-|                |                               | *Oxyosteus_rostratus*          |
-|                |                               | *Pachyosteus_bulla*            |
-|                |                               | *Parabelosteus_acuticeps*      |
-|                |                               | *Parabelosteus_pusillus*       |
-|                |                               | *Parabelosteus_tuberculatus*   |
-|                |                               | *Pholidosteus_friedeli*        |
-|                |                               | *Pholidosteus_laevior*         |
-|                |                               | *Rhinosteus_parvulus*          |
-|                |                               | *Rhinosteus_traquairi*         |
-|                |                               | *Rhinosteus_tuberculatus*      |
-|                |                               | *Synauchenia_coalescens*       |
-|                |                               | *Tapinosteus_heintzi*          |
-|                |                               | *Trematosteus_fontanellus*     |
-|                |                               | *Walterosteus_grossi*          |
+| Placoderm      | Arthrodira                    | *Aspidichthys ingens*          |
+|                |                               | *Belosteus elegans*            |
+|                |                               | *Belosteus major*              |
+|                |                               | *Brachydeirus bicarinatus*     |
+|                |                               | *Brachydeirus carinatus*       |
+|                |                               | *Brachydeirus gracilis*        |
+|                |                               | *Brachydeirus grandis*         |
+|                |                               | *Brachydeirus magnus*          |
+|                |                               | *Brachydeirus minor*           |
+|                |                               | *Brachyosteus dietrichi*       |
+|                |                               | *Braunosteus schmidti*         |
+|                |                               | *Cyrtosteus inflatus*          |
+|                |                               | *Enseosteus hermanni*          |
+|                |                               | *Enseosteus jaekeli*           |
+|                |                               | *Enseosteus marocanensis*      |
+|                |                               | *Enseosteus pachyostoides*     |
+|                |                               | *Erromenosteus brachyrostris*  |
+|                |                               | *Erromenosteus concavus*       |
+|                |                               | *Erromenosteus diensti*        |
+|                |                               | *Erromenosteus inflatus*       |
+|                |                               | *Erromenosteus koeneni*        |
+|                |                               | *Erromenosteus lucifer*        |
+|                |                               | *Erromenosteus platycephalus*  |
+|                |                               | *Hadrosteus rapax*             |
+|                |                               | *Leptosteus bickensis*         |
+|                |                               | *Microsteus angusticeps*       |
+|                |                               | *Microsteus dubius*            |
+|                |                               | *Microsteus gracilis*          |
+|                |                               | *Oxyosteus magnus*             |
+|                |                               | *Oxyosteus rostratus*          |
+|                |                               | *Pachyosteus bulla*            |
+|                |                               | *Parabelosteus acuticeps*      |
+|                |                               | *Parabelosteus pusillus*       |
+|                |                               | *Parabelosteus tuberculatus*   |
+|                |                               | *Pholidosteus friedeli*        |
+|                |                               | *Pholidosteus laevior*         |
+|                |                               | *Rhinosteus parvulus*          |
+|                |                               | *Rhinosteus traquairi*         |
+|                |                               | *Rhinosteus tuberculatus*      |
+|                |                               | *Synauchenia coalescens*       |
+|                |                               | *Tapinosteus heintzi*          |
+|                |                               | *Trematosteus fontanellus*     |
+|                |                               | *Walterosteus grossi*          |
 |                | Rhenanida                     | *Jagorina pandora*             |
 |                | Ptyctodontida                 | *Rhynchodus tetrodon*          |
 |                |                               | *R. eximius*                   |
 |                |                               | *R. wildungensis*              |
-|                | Petalichthy                   | *Epipetalichthys wildungensis* |
+|                | Petalichthyida                | *Epipetalichthys wildungensis* |
 |                | Antiarcha                     | *Lepadolepis stensioei*        |
 | Acanthodii     |                               | *Homacanthus jaekeli*          |
 | Chondrichthyes |                               | *Protacrodus vetustus*         |
-|                | Chrondichthyes incertae sedis | *« Cladodus » wildungensis*    |
-|                |                               | *« C. » hassiacus*             |
+|                | Chrondichthyes incertae sedis | *'Cladodus' wildungensis*    |
+|                |                               | *'C.' hassiacus*             |
 | Osteichthyes   | Actinopterygii                | *Moythomasia laevigata*        |
 |                |                               | *M. striata*                   |
 |                | Sarcopterygii                 | *Onychodus jaekeli*            |
@@ -509,8 +509,10 @@ Elpistostege watsoni
 |                |                               | *? Glyptopomus traquairi*      |
 
 
-
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
+
+
+
 
 ***Okse Bay Formation fauna***: Franian?
 > Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
