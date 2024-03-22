@@ -225,12 +225,16 @@ Lunaspis broili Broili, 1929
 |                | Verdalen Mb     | *Heimenia ensis*                     |
 
 
-***Buchan fauna***: Emsian, 407.6, 393.3
-> Buchan, Victoria
+***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
+> Buchan, Victoria; Taemas, New South Wales, Australia.
+
+***Wuttagoonaspis fauna***: late Emsian to early Eifelian.
+> Mulga Downs Group; western New South Wales, Australia.
+> See Young (1993) for the age constraints.
 
 
- 
 ## Middle Devonian
+
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian.
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
@@ -266,6 +270,9 @@ Lunaspis broili Broili, 1929
 ***Burtnieki Formation fauna**: lower Givetian
 > Burtnieki Formation, Baltic.
 > 
+
+***Aztec fauna***: Givetian?
+> Aztec Sandstone, Southern Victoria Land, Antarctica.
 
 **John o'Groats Sandstones and Eday Flagstones fauna**: middle Givetian, 386.0, 384.4
 > John o'Groats Sandstones and Eday Flagstones, Scotland.
