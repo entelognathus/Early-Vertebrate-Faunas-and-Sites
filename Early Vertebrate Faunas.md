@@ -70,8 +70,10 @@
 
  ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian or early-middle Pragian
 > Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
+>
+> The fish fossils come from the Upper Member of the Peel Sound Formation on the Prince of Wales Island and its correlatives, the Drake Bay Formation of the Prince of Wales Island, and the Snowblind Bay Formation of the Cornwallis Island.
 
-> Powichthys thorsteinssoni,
+> Powichthys thorsteinssoni, Baringaspis (Miles, 1973), Eskimaspis (Dineley and Liu, 1984), 
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > 
