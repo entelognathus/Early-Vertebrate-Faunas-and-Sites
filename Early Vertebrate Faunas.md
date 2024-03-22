@@ -79,7 +79,7 @@
 > Dineley and Loeffler (1993): "The faunas as a whole suggest correlation with the crouchi zone of the Anglo-Welsh vertebrate succession, the vogti horizon of Vestspitsbergen and the Czortkov horizon of Podolia, and can be dated as late Gedinnian to early Siegenian (Lochkovian-Pragian) from associated invertebrates (Elliott, 1984)." The age as late Lochkovian is appropriate.
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
-> 
+> Ben Nevis Formation, Red Bay Group; Spitsbergen.
 
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
