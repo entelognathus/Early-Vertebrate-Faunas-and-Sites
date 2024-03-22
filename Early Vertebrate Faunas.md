@@ -68,12 +68,13 @@
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
 > MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 
- ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian or early-middle Pragian
+ ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian
 > Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
 >
 > The fish fossils come from the Upper Member of the Peel Sound Formation on the Prince of Wales Island and its correlatives, the Drake Bay Formation of the Prince of Wales Island, and the Snowblind Bay Formation of the Cornwallis Island.
 
-> Powichthys thorsteinssoni, Baringaspis (Miles, 1973), Eskimaspis (Dineley and Liu, 1984), 
+> *Powichthys thorsteinssoni*, *Baringaspis* (Miles, 1973), *Eskimaspis* (Dineley and Liu, 1984),
+> Dineley and Loeffler (1993): "The faunas as a whole suggest correlation with the crouchi zone of the Anglo-Welsh vertebrate succession, the vogti horizon of Vestspitsbergen and the Czortkov horizon of Podolia, and can be dated as late Gedinnian to early Siegenian (Lochkovian-Pragian) from associated invertebrates (Elliott, 1984)." The age as late Lochkovian is appropriate.
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > 
