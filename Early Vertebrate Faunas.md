@@ -228,9 +228,9 @@ Lunaspis broili Broili, 1929
 ***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
 > Buchan, Victoria; Taemas, New South Wales, Australia.
 
-***Wuttagoonaspis fauna***: late Emsian to early Eifelian.
+***Wuttagoonaspis fauna***: Emsian to early Eifelian.
 > Mulga Downs Group; western New South Wales, Australia.
-> See Young (1993) for the age constraints.
+> See Young (1993, 2000) for the age constraints.
 
 
 ## Middle Devonian
