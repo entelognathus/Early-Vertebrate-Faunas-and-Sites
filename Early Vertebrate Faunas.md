@@ -9,7 +9,7 @@
 
 # Devonian
 ## Early Devonian
-**MOTH fauna**: Lochkovian.
+***MOTH fauna***: Lochkovian.
 
 
 ***Svalbard Wood Bay Formation fauna***: Pragian to lower Emsian.
@@ -229,7 +229,7 @@ Marsdenichthys longioccipitus
 Beelarongia patrichae
 
 ## Late Devonian
-***Bergisch-Gladbach fauna**: lower Frasnian, 382.7, 379.2
+***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
 > Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
 Ctenurella gladbachensis
 Gyroplacosteus sp.
