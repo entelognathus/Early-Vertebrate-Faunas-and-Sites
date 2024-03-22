@@ -59,197 +59,203 @@
 |           |                                          | *Arctolepis lewini*        | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis longicornis*   | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
+|           | late Emsian                              | *Homostius arcticus*       | Emsian                |
+|           | late Emsian                              | *Homostius cf arcticus*    | Emsian                |
+ 
 
 
-
-Heterogaspis gigantea
-Euleptaspididae gen. et sp. indet.
-Herasmius granulatus
-Homosteus arcticus
-Arctonema crassum
-
-Agnathes Heterostraci (4)
-Doryaspis nathorsti
-Zascinaspis laticephala
-Gigantaspis bocki
-Ennosveaspis minor
-Agnathes Osteostraci (46)
-Atelaspis tessellata
-Aceraspis robustus
-B. rostata
-Cephalaspididae
-? Cephalaspis producta
-? C. curta
-? C. watneliei
-? C. acuticornis
-Hildenaspis digitalis
-Meteoraspis oblonga
-M. lanternaria
-M. moythomasi
-M. semicircularis
-M. menoides
-M.caroli
-M. gigas
-M. lata
-M. oberon
-P. gigas
-P. lanternaria
-P. sp. cf. P. lata
-Parameteoraspis hoegi
-Kiaeraspididae
-Axinaspis whitei
-Gustavaspis trinodis
-Nectaspis areolata
-Norselaspis glacialis
-Benneviaspididae
-Benneviaspis holtedahli
-B. lövgreeni
-Boreaspis ceratops
-B. robusta
-B. rostrata
-B. macrorhynchus
-B. ceratops
-B. ginsburgi
-B. batoides
-Belonaspis puella
-B. minuta
-Dicranaspis curtirostris
-D. circinus
-D. spinicornis
-Hoelaspis angulata
-Spatulaspis robusta
-S. costata
-Scolenaspididae
-Diademaspis poplinae
-D. jarviki
-Machairaspis isachseni
-M. battaili
-Thelodonti (3)
-Turinia pagei
-Sigurdia
-Amaltheolepis winsneri
-
-Chondrichthyes (1)
-Chondrichthyes gen. et sp. indet.
-Acanthodii (5)
-Nostolepis sp.
-Gomphonchus
-« Onchus » overathensis
-Xylacanthus grandis
-X. minutus
-Actinopterygii (1)
-Orvikuina sp.
-Sarcopterygii (4)
-Porolepididae
-Porolepis brevis
-P. spitsbergensis
-P. elongata
-Heimenia ensis
+| Heterostraci   |                 | *Doryaspis nathorsti*                |
+|                |                 | *Zascinaspis laticephala*            |
+|                |                 | *Gigantaspis bocki*                  |
+|                |                 | *Ennosveaspis minor*                 |
+| Osteostraci    |                 | *Atelaspis tessellata*               |
+|                |                 | *Aceraspis robustus*                 |
+|                |                 | *B. rostata*                         |
+|                |                 | *? Cephalaspis producta*             |
+|                |                 | *? C. curta*                         |
+|                |                 | *? C. watneliei*                     |
+|                |                 | *? C. acuticornis*                   |
+|                |                 | *Hildenaspis digitalis*              |
+|                |                 | *Meteoraspis oblonga*                |
+|                |                 | *M. lanternaria*                     |
+|                |                 | *M. moythomasi*                      |
+|                |                 | *M. semicircularis*                  |
+|                |                 | *M. menoides*                        |
+|                |                 | *M.caroli*                           |
+|                |                 | *M. gigas*                           |
+|                |                 | *M. lata*                            |
+|                |                 | *M. oberon*                          |
+|                |                 | *P. gigas*                           |
+|                |                 | *P. lanternaria*                     |
+|                |                 | *P. sp. cf. P. lata*                 |
+|                |                 | *Parameteoraspis hoegi*              |
+|                |                 | *Axinaspis whitei*                   |
+|                |                 | *Gustavaspis trinodis*               |
+|                |                 | *Nectaspis areolata*                 |
+|                |                 | *Norselaspis glacialis*              |
+|                |                 | *Benneviaspis holtedahli*            |
+|                |                 | *B. lövgreeni*                       |
+|                |                 | *Boreaspis ceratops*                 |
+|                |                 | *B. robusta*                         |
+|                |                 | *B. rostrata*                        |
+|                |                 | *B. macrorhynchus*                   |
+|                |                 | *B. ceratops*                        |
+|                |                 | *B. ginsburgi*                       |
+|                |                 | *B. batoides*                        |
+|                |                 | *Belonaspis puella*                  |
+|                |                 | *B. minuta*                          |
+|                |                 | *Dicranaspis curtirostris*           |
+|                |                 | *D. circinus*                        |
+|                |                 | *D. spinicornis*                     |
+|                |                 | *Hoelaspis angulata*                 |
+|                |                 | *Spatulaspis robusta*                |
+|                |                 | *S. costata*                         |
+|                |                 | *Diademaspis poplinae*               |
+|                |                 | *D. jarviki*                         |
+|                |                 | *Machairaspis isachseni*             |
+|                |                 | *M. battaili*                        |
+| Thelodonti     |                 | *Turinia pagei*                      |
+|                |                 | *Sigurdia*                           |
+|                |                 | *Amaltheolepis winsneri*             |
+| Placoderm      | Arthrodira      | *Heterogaspis gigantea*              |
+|                |                 | *Euleptaspididae gen. et sp. indet.* |
+|                |                 | *Herasmius granulatus*               |
+|                |                 | *Arctonema crassum*                  |
+|                |                 | *Sigaspis lepidophora*               |
+|                |                 | *Svalbardaspis rotundus*             |
+|                |                 | *Svalbardaspis polaris*              |
+|                |                 | *Svalbardaspis typicus*              |
+|                |                 | *Svalbardaspis angulatus*            |
+|                |                 | *Svalbardaspis stensioei*            |
+|                |                 | *Elegantaspis reticornis*            |
+|                |                 | *Lehmanosteus hyperboreus*           |
+|                |                 | *Actinolepis sp.*                    |
+|                |                 | *Arctaspis kiaeri*                   |
+|                |                 | *Arctaspis holtedahli*               |
+|                |                 | *Arctaspis hoeli*                    |
+|                |                 | *Arctaspis minor*                    |
+|                |                 | *Arctaspis hoegi*                    |
+|                |                 | *Arctaspis maxima*                   |
+|                |                 | *Dicksonosteus arcticus*             |
+|                |                 | *Heintzosteus brevis*                |
+|                |                 | *Arctolepis decipiens*               |
+|                |                 | *Arctolepis lata*                    |
+|                |                 | *Arctolepis lewini*                  |
+|                |                 | *Arctolepis longicornis*             |
+|                |                 | *Arctolepis solnoerdali*             |
+| Chondrichthyes |                 | *Chondrichthyes gen. et sp. indet.*  |
+| Acanthodii     |                 | *Nostolepis sp.*                     |
+|                |                 | *Gomphonchus*                        |
+|                |                 | *« Onchus » overathensis*            |
+|                |                 | *Xylacanthus grandis*                |
+|                |                 | *X. minutus*                         |
+| Osteichthyes   | Actinopterygii  | *Orvikuina sp.*                      |
+|                | Sarcopterygii   | *Porolepis brevis*                   |
+|                |                 | *P. spitsbergensis*                  |
+|                |                 | *P. elongata*                        |
+|                |                 | *Heimenia ensis*                     |
  
 ## Middle Devonian
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
-*Achanarella*, 
-*Coccosteus cuspidatus*, 
-*Homostius milleri*, 
-*Pterichthyodes milleri*, 
-*Rhamphodopsis threiplandi*, 
-*R. trispinatus*, 
-*Diplacanthus striatus*,
-*Rhadinacanthus longispinus*,
-*Cheiracanthus murchisoni*, 
-*C. latus*, 
-*Mesacanthus peachi*,
-*Cheirolepis trailli*, 
-*Dipterus valenciennesi*
-*Pentlandia macroptera*
-*Glyptolepis paucidens*
-*G. leptopterus*
-*Osteolepis macrolepidotus*
-*Gyroptychius agassizi*
+| Placoderm       | Arthrodira               | *Coccosteus cuspidatus*         |
+|                 |                          | *Homostius milleri*             |
+|                 |                          | *Actinolepis magn*              |
+|                 | Antiarcha                | *Pterichthyodes milleri*        |
+|                 | Ptyctodontida            | *Rhamphodopsis threiplandi*     |
+|                 |                          | *R. trispinatus*                |
+|                 | Placoderm incertae sedis | *Palaeospondylus gunni*         |
+| Acanthodii      |                          | *Diplacanthus striatus*         |
+|                 |                          | *Rhadinacanthus longispinus*    |
+|                 |                          | *Cheiracanthus murchisoni*      |
+|                 |                          | *C. latus*                      |
+|                 |                          | *Mesacanthus peachi*            |
+| Actinopterygii  |                          | *Cheirolepis trailli*           |
+| Sarcopterygii   |                          | *Dipterus valenciennesi*        |
+|                 |                          | *Pentlandia macroptera*         |
+|                 |                          | *Glyptolepis paucidens*         |
+|                 |                          | *G. leptopterus*                |
+|                 |                          | *Osteolepis macrolepidotus*     |
+|                 |                          | *Gyroptychius agassizi*         |
 
 ***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
 > Gauja Formation, Lode Quarry, Latvia.
 > - Used to be of Late Devonian age. 
 
-Psammosteus sp. (ganensis)
-Psammolepis abavica
-P. paradoxa
-P. alata
-P. heteraster
-P. venyukovi
-« Coccosteus » panderi
-Livosteus grandis
-Watsonosteus sp.
-Plourdosteus livonicus
-Bothriolepis sp.
-Asterolepis ornata
-A. cristata
-A. sp. (essica)
-Hybosteus mirabilis
-Lodeacanthus gaujicus
-Devononchus concinnus
-Haplacanthus ehrmanensis
-Nodacosta pauli
-Strunius sp.
-Grossipterus crassus
-Glyptolepis baltica
-G. sp.
-Laccognathus panderi
-Osteolepididae
-Osteolepis sp.
-Panderichthys rhombolepis
+| Heterostraci  |                           | *Psammosteus sp. (ganensis)*  |
+|               |                           | *Psammolepis abavica*         |
+|               |                           | *P. paradoxa*                 |
+|               |                           | *P. alata*                    |
+|               |                           | *P. heteraster*               |
+|               |                           | *P. venyukovi*                |
+| Placodermi    | Arthrodira                | *« Coccosteus » panderi*      |
+|               |                           | *Livosteus grandis*           |
+|               |                           | *Watsonosteus sp.*            |
+|               |                           | *Plourdosteus livonicus*      |
+|               | Antiarcha                 | *Bothriolepis sp.*            |
+|               |                           | *Asterolepis ornata*          |
+|               |                           | *A. cristata*                 |
+|               |                           | *A. sp. (essica)*             |
+|               | Placodermi incertae sedis | *Hybosteus mirabilis*         |
+| Acanthodii    |                           | *Lodeacanthus gaujicus*       |
+|               |                           | *Devononchus concinnus*       |
+|               |                           | *Haplacanthus ehrmanensis*    |
+|               |                           | *Nodacosta pauli*             |
+| Osteichthyes  | Sarcopterygii             | *Strunius sp.*                |
+|               |                           | *Grossipterus crassus*        |
+|               |                           | *Glyptolepis baltica*         |
+|               |                           | *G. sp.*                      |
+|               |                           | *Laccognathus panderi*        |
+|               |                           | *Osteolepis sp.*              |
+|               |                           | *Panderichthys rhombolepis*   |
+
 
 ***Mount Howitt Fauna***: uppermost Givetian, 384.37, 382.7 (Long 1999)
 > Avon River Group; Mount Howitt, Victoria, Australia.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
-Austrophyllolepis ritchiei
-A. youngi
-Groenlandaspis sp.
-Bothriolepis gippslandiensis
-B. cullodenensis
-B. fergusoni
-B. bindareei
-Culmacanthus stewarti
-Howittacanthus kentoni
-Howqualepis rostridens
-Actinistia gen. et sp. indet.
-Howidipterus donnae
-Barwickia downunda
-Glyptolepis sp.
-Marsdenichthys longioccipitus
-Beelarongia patrichae
-Actinistia gen. et sp. indet.
-Howidipterus donnae
-Barwickia downunda
-Glyptolepis sp.
-Marsdenichthys longioccipitus
-Beelarongia patrichae
+| Placodermi   | Arthrodira      | *Austrophyllolepis ritchiei*    |
+|              |                 | *A. youngi*                     |
+|              |                 | *Groenlandaspis sp.*            |
+|              | Antiarcha       | *Bothriolepis gippslandiensis*  |
+|              |                 | *B. cullodenensis*              |
+|              |                 | *B. fergusoni*                  |
+|              |                 | *B. bindareei*                  |
+| Acanthodii   |                 | *Culmacanthus stewarti*         |
+|              |                 | *Howittacanthus kentoni*        |
+| Osteichthyes | Actinopterygii  | *Howqualepis rostridens*        |
+|              | Sarcopterygii   | *Actinistia gen. et sp. indet.* |
+|              |                 | *Howidipterus donnae*           |
+|              |                 | *Barwickia downunda*            |
+|              |                 | *Glyptolepis sp.*               |
+|              |                 | *Marsdenichthys longioccipitus* |
+|              |                 | *Beelarongia patrichae*         |
 
 ## Late Devonian
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
 > Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
-Ctenurella gladbachensis
-Gyroplacosteus sp.
-Torosteus submarginatus
-Rachiosteus pterygiatus
-Atopacanthus sp.
-Protogonacanthus juergeni
-Moythomasia nitida
-Strunius walteri
-Diplocercides heiligenstockiensis
-Dipterus oervigi
-D. sp. cf. D. valenciennesi
-Rhinodipterus ulrichi
-Rhynchodipteridae
-Griphognathus scultpta
-Latvius deckerti
-L. niger
-L. sp.
-Thursius ? sp.
-Holopterygius nudus
+
+| Placodermi    | Arthrodira      | *Gyroplacosteus sp.*                |
+|               |                 | *Torosteus submarginatus*           |
+|               |                 | *Rachiosteus pterygiatus*           |
+|               | Ptyctodontida   | *Ctenurella gladbachensis*          |
+| Acanthodii    |                 | *Atopacanthus sp.*                  |
+|               |                 | *Protogonacanthus juergeni*         |
+| Osteichthyes  | Actinopterygii  | *Moythomasia nitida*                |
+|               | Sarcopterygii   | *Strunius walteri*                  |
+|               |                 | *Diplocercides heiligenstockiensis* |
+|               |                 | *Dipterus oervigi*                  |
+|               |                 | *D. sp. cf. D. valenciennesi*       |
+|               |                 | *Rhinodipterus ulrichi*             |
+|               |                 | *Griphognathus scultpta*            |
+|               |                 | *Latvius deckerti*                  |
+|               |                 | *L. niger*                          |
+|               |                 | *L. sp.*                            |
+|               |                 | *Thursius ? sp.*                    |
+|               |                 | *Osteolepididae gen. et sp. indet.* |
+| Pisces indet. |                 | *Holopterygius nudus*               |
+
 
 ***Gogo Formation Lagerstatte***: lower Frasnian, 382.7, 379.2
 > Gogo Formation; Canning Basin, Australia. -17.75, 125.17
@@ -257,137 +263,109 @@ Holopterygius nudus
 
 > -The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
 
-| Gogo Station | Gogo Formation (Lower Frasnian) | *Bruntonichthys multidens*    | early Frasnian |
-|--------------|---------------------------------|-------------------------------|----------------|
-|              |                                 | *Bullerichthys fascidens*     | early Frasnian |
-|              |                                 | *Camuropiscis concinnus*      | early Frasnian |
-|              |                                 | *Camuropiscis laidlawi*       | early Frasnian |
-|              |                                 | *Compagopiscis croucheri*     | early Frasnian |
-|              |                                 | *Eastmanosteus calliaspis*    | early Frasnian |
-|              |                                 | *Fallacosteus turnerae*       | early Frasnian |
-|              |                                 | *Harrytoombsia elegans*       | early Frasnian |
-|              |                                 | *Holonema westolli*           | early Frasnian |
-|              |                                 | *Incisoscutum ritchiei*       | early Frasnian |
-|              |                                 | *Incisoscutum sarahae*        | early Frasnian |
-|              |                                 | *Kimberleyichthys bispicatus* | early Frasnian |
-|              |                                 | *Kimberleyichthys whybrowi*   | early Frasnian |
-|              |                                 | *Latocamurus coulthardi*      | early Frasnian |
-|              |                                 | *Mcnamaraspis kaprios*        | early Frasnian |
-|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
-|              |                                 | *Rolfosteus canningensis*     | early Frasnian |
-|              |                                 | *Simosteus tuberculatus*      | early Frasnian |
-|              |                                 | *Torosteus pulchellus*        | early Frasnian |
-|              |                                 | *Torosteus tuberculatus*      | early Frasnian |
-|              |                                 | *Tubonasus lennardensis*      | early Frasnian |
-|              |                                 | *Kendrickichthys cavernosus*  | early Frasnian |
-|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
 
-Campbellodus decipiens
-Ctenurella gardineri
-Austroptyctodus gardinieri
-Bothriolepis sp.
-Mimia toombsi
-Moythomasia durgaringa
-Onychodontidae
-Onychodus sp.
-Gogodipterus paddyensis
-Chirodipterus australis
-Holodipterus gogoensis
-Holodipterus longi
-Pillararhynchus longi
-Griphognathus whitei
-Gogonasus andrewsi
+
+| Placoderm    | Arthrodira      | *Bruntonichthys_multidens*    |
+|              |                 | *Bullerichthys_fascidens*     |
+|              |                 | *Camuropiscis_concinnus*      |
+|              |                 | *Camuropiscis_laidlawi*       |
+|              |                 | *Compagopiscis_croucheri*     |
+|              |                 | *Eastmanosteus_calliaspis*    |
+|              |                 | *Fallacosteus_turnerae*       |
+|              |                 | *Harrytoombsia_elegans*       |
+|              |                 | *Holonema_westolli*           |
+|              |                 | *Incisoscutum_ritchiei*       |
+|              |                 | *Incisoscutum_sarahae*        |
+|              |                 | *Kimberleyichthys_bispicatus* |
+|              |                 | *Kimberleyichthys_whybrowi*   |
+|              |                 | *Latocamurus_coulthardi*      |
+|              |                 | *Mcnamaraspis_kaprios*        |
+|              |                 | *Pinguosteus_thulborni*       |
+|              |                 | *Rolfosteus_canningensis*     |
+|              |                 | *Simosteus_tuberculatus*      |
+|              |                 | *Torosteus_pulchellus*        |
+|              |                 | *Torosteus_tuberculatus*      |
+|              |                 | *Tubonasus_lennardensis*      |
+|              |                 | *Kendrickichthys_cavernosus*  |
+|              |                 | *Pinguosteus_thulborni*       |
+|              | Ptyctodontida   | *Campbellodus decipiens*      |
+|              |                 | *Ctenurella gardineri*        |
+|              |                 | *Austroptyctodus gardinieri*  |
+| Osteichthyes | Actinopterygii  | *Mimia toombsi*               |
+|              |                 | *Moythomasia durgaringa*      |
+|              | Sarcopterygii   | *Onychodus sp.*               |
+|              |                 | *Chirodipterus australis*     |
+|              |                 | *Holodipterus gogoensis*      |
+|              |                 | *Holodipterus longi*          |
+|              |                 | *Pillararhynchus longi*       |
+|              |                 | *Griphognathus whitei*        |
+|              |                 | *Gogonasus andrewsi*          |
 
 ***Bad Wildungen fauna***: upper Frasnian. 
 > Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
 
-Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, *R. eximius*, *R. wildungensis*, *Epipetalichthys wildungensis*, *Brachydeirus carinatus*, *B. bicarinatus*, *B. gracilis*, 
-*B. grandis*, 
-*B. magnus*, 
-*B. minor*, 
-*Oxyosteus rostratus*, 
-*O. magnus*, 
-*Synauchenia coalescens*, 
-*Leptosteus bickensis*, 
-*Pholidosteus friedeli*, 
-*P. laevior*, 
-*P. pygmaeus*, 
-*Tapinosteus heintzi*, 
-*Hadrosteus rapax*, 
-*Erromenosteus lucifer*, 
-*E. brachyrostris*, 
-*E. concavus*, 
-*E. diensti*, 
-*E. inflatus*, 
-*E. koeneni*, 
-*E. platycephalus*, 
-*Belosteus elegans*, 
-*Brachyosteus dietrichi*, 
-*Parabelosteus inflatus*, 
-*P. acuticeps*, 
-*P. tuberculatus*, 
-*Trematosteus fontanella*, 
-*Braunosteus schmidti*, 
-*Enseosteus jaekeli*, 
-*E. hermanni*, 
-*E. pachyosteides*, 
-*Microsteus angusticeps*, 
-*M. dubius*, 
-*M. gracilis*, 
-*Rhinosteus traquairi*, 
-*R. parvulus*, 
-*R. tuberculatus*, 
-*Pachyosteus bulla*, 
-*Aspidichthys ingens*, 
-*Lepadolepis stensioei*, 
+| Placoderm      | Arthrodira                    | *Aspidichthys_ingens*          |
+|                |                               | *Belosteus_elegans*            |
+|                |                               | *Belosteus_major*              |
+|                |                               | *Brachydeirus_bicarinatus*     |
+|                |                               | *Brachydeirus_carinatus*       |
+|                |                               | *Brachydeirus_gracilis*        |
+|                |                               | *Brachydeirus_grandis*         |
+|                |                               | *Brachydeirus_magnus*          |
+|                |                               | *Brachydeirus_minor*           |
+|                |                               | *Brachyosteus_dietrichi*       |
+|                |                               | *Braunosteus_schmidti*         |
+|                |                               | *Cyrtosteus_inflatus*          |
+|                |                               | *Enseosteus_hermanni*          |
+|                |                               | *Enseosteus_jaekeli*           |
+|                |                               | *Enseosteus_marocanensis*      |
+|                |                               | *Enseosteus_pachyostoides*     |
+|                |                               | *Erromenosteus_brachyrostris*  |
+|                |                               | *Erromenosteus_concavus*       |
+|                |                               | *Erromenosteus_diensti*        |
+|                |                               | *Erromenosteus_inflatus*       |
+|                |                               | *Erromenosteus_koeneni*        |
+|                |                               | *Erromenosteus_lucifer*        |
+|                |                               | *Erromenosteus_platycephalus*  |
+|                |                               | *Hadrosteus_rapax*             |
+|                |                               | *Leptosteus_bickensis*         |
+|                |                               | *Microsteus_angusticeps*       |
+|                |                               | *Microsteus_dubius*            |
+|                |                               | *Microsteus_gracilis*          |
+|                |                               | *Oxyosteus_magnus*             |
+|                |                               | *Oxyosteus_rostratus*          |
+|                |                               | *Pachyosteus_bulla*            |
+|                |                               | *Parabelosteus_acuticeps*      |
+|                |                               | *Parabelosteus_pusillus*       |
+|                |                               | *Parabelosteus_tuberculatus*   |
+|                |                               | *Pholidosteus_friedeli*        |
+|                |                               | *Pholidosteus_laevior*         |
+|                |                               | *Rhinosteus_parvulus*          |
+|                |                               | *Rhinosteus_traquairi*         |
+|                |                               | *Rhinosteus_tuberculatus*      |
+|                |                               | *Synauchenia_coalescens*       |
+|                |                               | *Tapinosteus_heintzi*          |
+|                |                               | *Trematosteus_fontanellus*     |
+|                |                               | *Walterosteus_grossi*          |
+|                | Rhenanida                     | *Jagorina pandora*             |
+|                | Ptyctodontida                 | *Rhynchodus tetrodon*          |
+|                |                               | *R. eximius*                   |
+|                |                               | *R. wildungensis*              |
+|                | Petalichthy                   | *Epipetalichthys wildungensis* |
+|                | Antiarcha                     | *Lepadolepis stensioei*        |
+| Acanthodii     |                               | *Homacanthus jaekeli*          |
+| Chondrichthyes |                               | *Protacrodus vetustus*         |
+|                | Chrondichthyes incertae sedis | *« Cladodus » wildungensis*    |
+|                |                               | *« C. » hassiacus*             |
+| Osteichthyes   | Actinopterygii                | *Moythomasia laevigata*        |
+|                |                               | *M. striata*                   |
+|                | Sarcopterygii                 | *Onychodus jaekeli*            |
+|                |                               | *Diplocercides jaekeli*        |
+|                |                               | *D. kayseri*                   |
+|                |                               | *Chirodipterus wildungensis*   |
+|                |                               | *Devonosteus proteus*          |
+|                |                               | *? Glyptopomus traquairi*      |
 
-*Protacrodus vetustus*, *Cladodus wildungensis*, *C. hassiacus*, 
-*Homacanthus jaekeli*，*Moythomasia laevigata*, *M. striata*, ***Onychodus jaekeli***, *Diplocercides jaekeli*, ***D. kayseri***, *Chirodipterus wildungensis*, *Devonosteus proteus*, ?*Glyptopomus traquairi*
-
-| Bad Wildungen site, Germany | Kellwasserkalk Formation (Upper Frasnian) | *Aspidichthys ingens*         | Frasnian                    |
-|-----------------------------|-------------------------------------------|-------------------------------|-----------------------------|
-|                             |                                           | *Belosteus elegans*           | late Frasnian               |
-|                             |                                           | *Belosteus major*             | late Frasnian               |
-|                             |                                           | *Brachydeirus bicarinatus*    | late Frasnian               |
-|                             |                                           | *Brachydeirus carinatus*      | late Frasnian               |
-|                             |                                           | *Brachydeirus gracilis*       | late Frasnian               |
-|                             |                                           | *Brachydeirus grandis*        | Frasnian                    |
-|                             |                                           | *Brachydeirus magnus*         | late Frasnian               |
-|                             |                                           | *Brachydeirus minor*          | late Frasnian               |
-|                             |                                           | *Brachyosteus dietrichi*      | late Frasnian               |
-|                             |                                           | *Braunosteus schmidti*        | late Frasnian               |
-|                             |                                           | *Cyrtosteus inflatus*         | late Frasnian               |
-|                             |                                           | *Enseosteus hermanni*         | late Frasnian               |
-|                             |                                           | *Enseosteus jaekeli*          | late Frasnian               |
-|                             |                                           | *Enseosteus marocanensis*     | late Frasnian               |
-|                             |                                           | *Enseosteus pachyostoides*    | late Frasnian               |
-|                             |                                           | *Erromenosteus brachyrostris* | late Frasnian               |
-|                             |                                           | *Erromenosteus concavus*      | late Frasnian               |
-|                             |                                           | *Erromenosteus diensti*       | late Frasnian               |
-|                             |                                           | *Erromenosteus inflatus*      | late Frasnian               |
-|                             |                                           | *Erromenosteus koeneni*       | late Frasnian               |
-|                             |                                           | *Erromenosteus lucifer*       | late Frasnian               |
-|                             |                                           | *Erromenosteus platycephalus* | late Frasnian               |
-|                             |                                           | *Hadrosteus rapax*            | late Frasnian               |
-|                             |                                           | *Leptosteus bickensis*        | late Frasnian               |
-|                             |                                           | *Microsteus angusticeps*      | late Frasnian               |
-|                             |                                           | *Microsteus dubius*           | late Frasnian               |
-|                             |                                           | *Microsteus gracilis*         | late Frasnian               |
-|                             |                                           | *Oxyosteus magnus*            | Frasnian                    |
-|                             |                                           | *Oxyosteus rostratus*         | Frasnian                    |
-|                             |                                           | *Pachyosteus bulla*           | Frasnian to early Famennian |
-|                             |                                           | *Parabelosteus acuticeps*     | late Frasnian               |
-|                             |                                           | *Parabelosteus pusillus*      | late Frasnian               |
-|                             |                                           | *Parabelosteus tuberculatus*  | late Frasnian               |
-|                             |                                           | *Pholidosteus friedeli*       | late Frasnian               |
-|                             |                                           | *Pholidosteus laevior*        | late Frasnian               |
-|                             |                                           | *Rhinosteus parvulus*         | late Frasnian               |
-|                             |                                           | *Rhinosteus traquairi*        | late Frasnian               |
-|                             |                                           | *Rhinosteus tuberculatus*     | late Frasnian               |
-|                             |                                           | *Synauchenia coalescens*      | late Frasnian               |
-|                             |                                           | *Tapinosteus heintzi*         | late Frasnian               |
-|                             |                                           | *Trematosteus fontanellus*    | late Frasnian               |
-|                             |                                           | *Walterosteus grossi*         | Frasnian                    |
 
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
@@ -395,73 +373,53 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 ***Cleveland Shale fauna***: upper Famennian. 
 > The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
-*Brontichthys	clarki*, 
-*Bungartius	perissus*, 
-*Callognathus	regularis*, 
-*Coccosteus	cuyahogae*, 
-*Diplognathus	mirabilis*, 
-*Dunkleosteus	terrelli*, 
-*Glyptaspis	verrucosus*, 
-*Gorgonichthys	clarki*, 
-*Gymnotrachelus	hydei*, 
-*Heintzichthys	gouldii*, 
-*Holdenius	holdeni*, 
-*Hussakofia	minor*, 
-*Hlavinichthys	jacksoni*, 
-*Mylostoma	eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
-*Paramylostoma	arcualis*, 
-*Selenosteus	brevis*, 
-*Steneosteus	angustopectus*, *Steneosteus  glaber*，
-*Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
-*Trachosteus	clarki*，
 
-| Cleveland Shale | Cleveland Formation (Upper Famennian) | *Bungartius_perissus*      | late/end Famennian |
-|-----------------|---------------------------------------|----------------------------|--------------------|
-|                 |                                       | *Callognathus regularis*   | late/end Famennian |
-|                 |                                       | *Coccosteus cuyahogae*     | late/end Famennian |
-|                 |                                       | *Dinichthys herzeri*       | upper Famennian    |
-|                 |                                       | *Mylostoma eurhinus*       | late/end Famennian |
-|                 |                                       | *Diplognathus mirabilis*   | late/end Famennian |
-|                 |                                       | *Dunkleosteus raveri*      | late/end Famennian |
-|                 |                                       | *Dunkleosteus terrelli*    | late/end Famennian |
-|                 |                                       | *Glyptaspis verrucosa*     | late/end Famennian |
-|                 |                                       | *Gorgonichthys clarki*     | late/end Famennian |
-|                 |                                       | *Gymnotrachelus hydei*     | late/end Famennian |
-|                 |                                       | *Heintzichthys gouldii*    | late/end Famennian |
-|                 |                                       | *Hlavinichthys jacksoni*   | Famennian          |
-|                 |                                       | *Holdenius holdeni*        | late/end Famennian |
-|                 |                                       | *Hussakofia minor*         | late/end Famennian |
-|                 |                                       | *Mylostoma newberryi*      | late/end Famennian |
-|                 |                                       | *Mylostoma variabile*      | late/end Famennian |
-|                 |                                       | *Paramylostoma arcualis*   | late/end Famennian |
-|                 |                                       | *Selenosteus brevis*       | late/end Famennian |
-|                 |                                       | *Stenognathus corrugatus*  | upper Famennian    |
-|                 |                                       | *Stenosteus angustopectus* | late/end Famennian |
-|                 |                                       | *Stenosteus glaber*        | late/end Famennian |
-|                 |                                       | *Titanichthys agassizi*    | late/end Famennian |
-|                 |                                       | *Titanichthys attenuatus*  | late/end Famennian |
-|                 |                                       | *Titanichthys clarkii*     | late/end Famennian |
-|                 |                                       | *Titanichthys hussakofi*   | late/end Famennian |
-|                 |                                       | *Titanichthys kozlowskii*  | late Famennian     |
-|                 |                                       | *Titanichthys rectus*      | late/end Famennian |
-|                 |                                       | *Trachosteus clarki*       | late/end Famennian |
-
-Cladoselache acanthopterygius
-C. brachypterygius
-C. clarki
-C. desmopterygius
-C. fyleri
-C.magnificus
-C. newberri
-Diademodus hydei
-Stetacanthus clevelandensis
-Ctenacanthus clarki
-C. compressus
-Phœbodus politus
-Tegeolepis clarki
-Kentuckia hlavini
-Chagrinia enodis
-Proceratodus wagneri
+| Placoderm         | Arthrodira     | *Bungartius_perissus*            |
+|                   |                | *Callognathus_regularis*         |
+|                   |                | *Coccosteus_cuyahogae*           |
+|                   |                | *Dinichthys_herzeri*             |
+|                   |                | *Mylostoma_eurhinus*             |
+|                   |                | *Diplognathus_mirabilis*         |
+|                   |                | *Dunkleosteus_raveri*            |
+|                   |                | *Dunkleosteus_terrelli*          |
+|                   |                | *Glyptaspis_verrucosa*           |
+|                   |                | *Gorgonichthys_clarki*           |
+|                   |                | *Gymnotrachelus_hydei*           |
+|                   |                | *Heintzichthys_gouldii*          |
+|                   |                | *Hlavinichthys_jacksoni*         |
+|                   |                | *Holdenius_holdeni*              |
+|                   |                | *Hussakofia_minor*               |
+|                   |                | *Mylostoma_newberryi*            |
+|                   |                | *Mylostoma_variabile*            |
+|                   |                | *Paramylostoma_arcualis*         |
+|                   |                | *Selenosteus_brevis*             |
+|                   |                | *Stenognathus_corrugatus*        |
+|                   |                | *Stenosteus_angustopectus*       |
+|                   |                | *Stenosteus_glaber*              |
+|                   |                | *Titanichthys_agassizi*          |
+|                   |                | *Titanichthys_attenuatus*        |
+|                   |                | *Titanichthys_clarkii*           |
+|                   |                | *Titanichthys_hussakofi*         |
+|                   |                | *Titanichthys_kozlowskii*        |
+|                   |                | *Titanichthys_rectus*            |
+|                   |                | *Trachosteus_clarki*             |
+| Placodermi indet. |                | *Dentognathus curvatus*          |
+| Chondrichthyes    |                | *Cladoselache acanthopterygius*  |
+|                   |                | *C. brachypterygius*             |
+|                   |                | *C. clarki*                      |
+|                   |                | *C. desmopterygius*              |
+|                   |                | *C. fyleri*                      |
+|                   |                | *C.magnificus*                   |
+|                   |                | *C. newberri*                    |
+|                   |                | *Diademodus hydei*               |
+|                   |                | *Stetacanthus clevelandensis*    |
+|                   |                | *Ctenacanthus clarki*            |
+|                   |                | *C. compressus*                  |
+|                   |                | *Phoebodus politus*              |
+| Osteichthyes      | Actinopterygii | *Tegeolepis clarki*              |
+|                   |                | *Kentuckia hlavini*              |
+|                   | Sarcopterygii  | *Chagrinia enodis*               |
+|                   |                | *Proceratodus wagneri*           |
 
 
 
