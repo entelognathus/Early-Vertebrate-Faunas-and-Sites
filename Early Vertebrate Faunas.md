@@ -65,6 +65,8 @@
 
 # Devonian
 ## Early Devonian
+> For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
+
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
 > MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 
