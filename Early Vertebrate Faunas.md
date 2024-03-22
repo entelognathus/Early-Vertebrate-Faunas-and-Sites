@@ -1,7 +1,63 @@
-**Early Vertebrate Faunas and Sites**
+![image](https://github.com/entelognathus/Early-Vertebrate-Faunas-and-Sites/assets/151889888/d4865c74-2cbf-4960-a424-77d2fba3a396)**Early Vertebrate Faunas and Sites**
 
 # Silurian
 ## Llandovery
+***Zhangjiajie vertebrate fauna***: Telychian.
+> areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
+
+> Horizons: three horizons, lower Telychian including Rongxi Formation, Qingshui Formation, Kangshan Formation, Houchiatang Formation, and Tataertag formation; middle Telychian including Xiushan Formation and Fentou Formation; upper Telychian including Xikeng Formation and Huixingshao Formation.
+
+>  Assemblages: the fauna is divided into Wentang Assemblage (early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
+>
+| sites        |  Formation                      | species                       | age             |
+|--------------|---------------------------------|-------------------------------|---------------- |
+| Zhangjiajie  | Rongxi                          | *Dayongaspis hunanensis*      | early Telychian |
+|              |                                 | *Konoceraspis grandoculus*    | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+|              |                                 | *Neosinacanthus planispinatus*| early Telychian |
+|              |                                 | *Neosinacanthus* sp.1         | early Telychian |
+|              |                                 | *Neosinacanthus* sp.2         | early Telychian |
+|              |                                 | *Tarimacanthus bachuensis*    | early Telychian |
+|              |                                 | *Eosinacanthus shanmenensis*  | early Telychian |
+|              |                                 | *Hunanacanthus lixianensis*   | early Telychian |
+|              |                                 | *Neosinacanthus* sp.          | early Telychian |
+|              |                                 | *Sinacanthus* sp.             | early Telychian |
+| Jiujiang     | Qingshui                        | *Xiyuichthys lixiensis*       | early Telychian |
+|              |                                 | *Qingshuiaspis junqingi*      | early Telychian |
+|              |                                 | *Anjiaspis ericius*           | early Telychian |
+|              |                                 | *Jiangxialepis jiujiangensis* | early Telychian |
+|              |                                 | *Neosinacanthus* sp.          | early Telychian |
+| Changxing    | Kangshan                        | *Changxingaspis gui*          | early Telychian |
+|              |                                 | *Shuyu zhejiangensis*         | early Telychian |
+|              |                                 | *Meishanaspis lehmani*        | early Telychian |
+|              |                                 | *Anjiaspis reticularis *      | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+|              |                                 | *Neosinacanthus* sp.1         | early Telychian |
+| Chaohu       | Houchiatang                     | *Latirostraspis chaohuensis * | early Telychian |
+|              |                                 | *Neosiacanthus wanzhongensis* | early Telychian |
+| Wuhan        | Qingshui                        |*Hanyangaspis guodingshanensis*| early Telychian |
+|              |                                 | *Jiangxialepis retrospina*    | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+| Aksu         | Tataertag                       | *Kalpinolepis tarimensis*     | early Telychian |
+|              |                                 | *Microphymaspis pani*         | early Telychian |
+|              |                                 | *Platylomaspis serratus*      | early Telychian |
+|              |                                 | *Xiyuichthys zhangi*          | early Telychian |
+|              |                                 | *Changxingaspis nianzhongi*   | early Telychian |
+|              |                                 | *Jiangxialepis rongi*         | early Telychian |
+|              |                                 | *Nanjiangaspis kalpinensis*   | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+|              |                                 | *Tarimacanthus bachuensis*    | early Telychian |
+|              |                                 | *Tielikewatielepis sinensis*  | early Telychian |
+|              |                                 | *Xiaohaizilepis liui*         | early Telychian |
+|Zhangjiajie   | Xiushan                         | *Dayongaspis colubra*         | middle Telychian|
+|Wuhan         | Fentou                          |*Hanyangaspis guodingshanensis*| middle Telychian|
+|              |                                 | *Sinacanthus wuchangensis*    | middle Telychian|
+|Wuwei         | Fentou                          | *Geraspis rare*               | middle Telychian|
+|Jiujiang      | Xikeng                          | *Xiushuiaspis jiangxiensis*   | upper Telychian |
+|              |                                 | *Xiushuiaspis ganbeiensis*    | upper Telychian |
+|              |                                 | *Sinogaleaspis shankouensis*  | upper Telychian |
+|              |                                 | *Rumporostralis xikengensis*  | upper Telychian |
+|              |                                 | *Rumporostralis shipanensis*  | upper Telychian |
 
 ## Wenlock
 
