@@ -11,8 +11,10 @@
 ## Early Devonian
 ***MOTH fauna***: Lochkovian.
 
+***Svalbard Red Bay Group fauna***: Lochkovian
+> 
 
-***Svalbard Wood Bay Formation fauna***: Pragian to lower Emsian.
+***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
 > Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
@@ -30,6 +32,8 @@
 > - Pragian: *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
 
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
+>
+> - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969
 
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
@@ -64,9 +68,8 @@
 
 Heterogaspis gigantea
 Euleptaspididae gen. et sp. indet.
-Herasmius granulatus
-Homosteus arcticus
-Arctonema crassum
+*Homosteus arcticus*
+*Arctonema crassum*
 
 Agnathes Heterostraci (4)
 Doryaspis nathorsti
@@ -127,7 +130,6 @@ M. battaili
 Thelodonti (3)
 Turinia pagei
 Sigurdia
-Amaltheolepis winsneri
 
 Chondrichthyes (1)
 Chondrichthyes gen. et sp. indet.
@@ -144,9 +146,12 @@ Porolepididae
 Porolepis brevis
 P. spitsbergensis
 P. elongata
-Heimenia ensis
+
  
 ## Middle Devonian
+***Svalbard Lykta Formation fauna***: Eifelian.
+
+
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
