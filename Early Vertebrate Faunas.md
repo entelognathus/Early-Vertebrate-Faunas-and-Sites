@@ -81,6 +81,20 @@
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > Ben Nevis Formation, Red Bay Group; Spitsbergen.
 
+***Lower Old Red Sandstone fauna***: Lochkovian, 419.2, 410.8
+> Lower Old Red Sandstone, Farnell and Tealing, Midland Valley, Scotland.
+
+***Beartooth Butte Formation fauna****: Pragian, 410.8, 407.6
+> - Beartooth Butte Formation; Wyoming, USA.
+*Uranolophus wyomingensis*
+
+
+
+***Hunsrückschiefer fauna***: upper Pragian to lower Emsian, 409.2, 400.45
+> Hunsrückschiefer; Rheinland, Germany.
+> Gemuendina stuertzi Traquair, 1903
+Lunaspis broili Broili, 1929
+
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
@@ -90,7 +104,7 @@
 
 > The Norsk Polarinstitutt geological map describes three members for the Wood Bay Formation, viz., from base to top: the Austfjorden, Dicksonfjorden and Verdalen members (Dallmann et al. 2002; Blomeier et al. 2003a).
 
-> The Austfjorden Member roughly corresponds to the Sigurdfjellet and Kapp Kjeldsen faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
+> The Austfjorden Member roughly corresponds to the Sigurdfjellet (early Pragian); and Kapp Kjeldsen (late Pragian) faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
 
 > Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian.
 >
@@ -209,6 +223,11 @@
 |                |                 | *P. elongata*                        |
 |                | Sigurdfjellet   | *Powichthys spitsbergensis*          |
 |                | Verdalen Mb     | *Heimenia ensis*                     |
+
+
+***Buchan fauna***: Emsian, 407.6, 393.3
+> Buchan, Victoria
+
 
  
 ## Middle Devonian
