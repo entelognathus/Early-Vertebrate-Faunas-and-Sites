@@ -1,4 +1,4 @@
-**Early Vertebrate Faunas and Sites**
+![image](https://github.com/entelognathus/Early-Vertebrate-Faunas-and-Sites/assets/151889888/e639a96f-6f2a-417f-b057-62c2f1b8ec6f)![image](https://github.com/entelognathus/Early-Vertebrate-Faunas-and-Sites/assets/151889888/dc674398-dffd-49d0-8a8c-4eef332e9c52)**Early Vertebrate Faunas and Sites**
 
 # Silurian
 ## Llandovery
@@ -62,6 +62,33 @@
 ## Wenlock
 
 ## Ludlow - Pridoli
+***Xiaoxiang Vertebrate Fauna***: Ludfordian to Pridoli.
+> The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow), lasting for about 2.6 million years.
+
+> Horizons: Kuanti, Miaogao, and Yulungssu formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
+
+
+| Clade           |                          | taxa                            |
+|-----------------|--------------------------|---------------------------------|
+| Thelodonti      | Arthrodira               | *Thelodus sinensis*             |
+| Galeaspida      |                          | *Dunyu longiforus*              |
+|                 |                          | *Dunyu xiushanensis*            |
+| Placoderm       |                          | *Wangolepis sinensis*           |
+|                 |                          | *Silurolepis platydorsalis*     |
+|                 |                          | *Entelognathus primordialis*    |
+|                 |                          | *Qilinyu rostrata*              |
+|                 |                          | *Shimenolepis graniferus*       |
+| Acanthodii      |                          | *Gomphonchus*sp.                |
+|                 |                          | *Poracanthodes qujingensis*     |
+|                 |                          | *Hanilepis wangi*               |
+|                 |                          | *Nostolepis striata*            |
+|                 |                          | *Nostolepis sinica*             |
+| Osteichthyes    |                          | *Ligulalepis yunnanensis*       |
+|                 |                          | *Naxilepis gracilis*            |
+|                 |                          | *Kawalepis comptus*             |
+|                 |                          | *Guiyu oneiros*                 |
+|                 |                          | *Megamastax amblyodus*          |
+|                 |                          | *Sparalepis tingi*              |
 
 # Devonian
 ## Early Devonian
