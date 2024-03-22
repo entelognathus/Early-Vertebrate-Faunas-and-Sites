@@ -124,7 +124,15 @@
 |           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
 |           | late Emsian                              | *Homostius arcticus*       | Emsian                |
 |           | late Emsian                              | *Homostius cf arcticus*    | Emsian                |
- 
+|           |                                          | *Heterogaspis gigantea*    |                       |
+|           |                                          | Euleptaspididae gen. et sp. indet.   |
+|           |                                          | *Herasmius granulatus*               |
+|           |                                          | *Arctonema crassum*                  |
+|           |                                          | *Elegantaspis reticornis*            |
+
+
+
+
 
 
 | Clade          |                 | taxa                                 |
@@ -182,32 +190,6 @@
 | Thelodonti     |                 | *Turinia pagei*                      |
 |                |                 | *Sigurdia*                           |
 |                |                 | *Amaltheolepis winsneri*             |
-| Placoderm      | Arthrodira      | *Heterogaspis gigantea*              |
-|                |                 | *Euleptaspididae gen. et sp. indet.* |
-|                |                 | *Herasmius granulatus*               |
-|                |                 | *Arctonema crassum*                  |
-|                |                 | *Sigaspis lepidophora*               |
-|                |                 | *Svalbardaspis rotundus*             |
-|                |                 | *Svalbardaspis polaris*              |
-|                |                 | *Svalbardaspis typicus*              |
-|                |                 | *Svalbardaspis angulatus*            |
-|                |                 | *Svalbardaspis stensioei*            |
-|                |                 | *Elegantaspis reticornis*            |
-|                |                 | *Lehmanosteus hyperboreus*           |
-|                |                 | *Actinolepis sp.*                    |
-|                |                 | *Arctaspis kiaeri*                   |
-|                |                 | *Arctaspis holtedahli*               |
-|                |                 | *Arctaspis hoeli*                    |
-|                |                 | *Arctaspis minor*                    |
-|                |                 | *Arctaspis hoegi*                    |
-|                |                 | *Arctaspis maxima*                   |
-|                |                 | *Dicksonosteus arcticus*             |
-|                |                 | *Heintzosteus brevis*                |
-|                |                 | *Arctolepis decipiens*               |
-|                |                 | *Arctolepis lata*                    |
-|                |                 | *Arctolepis lewini*                  |
-|                |                 | *Arctolepis longicornis*             |
-|                |                 | *Arctolepis solnoerdali*             |
 | Chondrichthyes |                 | *Chondrichthyes gen. et sp. indet.*  |
 | Acanthodii     |                 | *Nostolepis sp.*                     |
 |                |                 | *Gomphonchus*                        |
