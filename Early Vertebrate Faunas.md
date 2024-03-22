@@ -552,8 +552,8 @@ Proceratodus wagneri
 ***Ketleri Formation fauna***: upper Famennian.
 > Ketleri Formation, Pavari, Latvia
 
-***Catskill Formation fauna**: Famennian.
+***Catskill Formation fauna***: Famennian.
 > Catskill Formation; Red Hill, Pennsylvania, USA.
 >
-***Canowindra fauna**: Famennian
+***Canowindra fauna***: Famennian
 > Mandagery Sandstone, Canowindra, NSW, Australia.
