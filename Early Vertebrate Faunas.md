@@ -92,7 +92,7 @@
 
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 >
-> - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969
+> - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
 
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
@@ -125,7 +125,7 @@
 |           | late Emsian                              | *Homostius arcticus*       | Emsian                |
 |           | late Emsian                              | *Homostius cf arcticus*    | Emsian                |
 |           |                                          | *Heterogaspis gigantea*    |                       |
-|           |                                          | Euleptaspididae gen. et sp. indet.   |
+|           |                                          | Euleptaspidid B                      |
 |           |                                          | *Herasmius granulatus*               |
 |           |                                          | *Arctonema crassum*                  |
 |           |                                          | *Elegantaspis reticornis*            |
@@ -205,7 +205,7 @@
  
 ## Middle Devonian
 ***Svalbard Lykta Formation fauna***: Eifelian.
-
+> Euleptaspidid A
 
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
