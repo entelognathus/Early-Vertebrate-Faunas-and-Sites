@@ -9,7 +9,10 @@
 
 # Devonian
 ## Early Devonian
-***MOTH fauna***: Lochkovian.
+***MOTH fauna***: Lochkovian, 419.2, 410.8
+> MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
+
+
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > 
@@ -174,6 +177,19 @@ P. elongata
 *Osteolepis macrolepidotus*
 *Gyroptychius agassizi*
 
+***Aruküla Formation fauna***: upper Eifeilian 
+> Aruküla Formation, Baltic.
+
+
+***Burtnieki Formation fauna**: lower Givetian
+> Burtnieki Formation, Baltic.
+> 
+
+**John o'Groats Sandstones and Eday Flagstones fauna**: middle Givetian, 386.0, 384.4
+> John o'Groats Sandstones and Eday Flagstones, Scotland.
+> Comprising Tristichopterus, Watsonosteus, Microbrachius.
+
+
 ***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
 > Gauja Formation, Lode Quarry, Latvia.
 > - Used to be of Late Devonian age. 
@@ -206,9 +222,6 @@ Osteolepididae
 Osteolepis sp.
 Panderichthys rhombolepis
 
-
-
-> 
 ***Mount Howitt Fauna***: uppermost Givetian, 384.37, 382.7 (Long 1999)
 > Avon River Group; Mount Howitt, Victoria, Australia.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
