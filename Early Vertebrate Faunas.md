@@ -127,6 +127,8 @@
  
 
 
+| Clade          |                 | taxa                                 |
+|----------------|-----------------|--------------------------------------|
 | Heterostraci   |                 | *Doryaspis nathorsti*                |
 |                |                 | *Zascinaspis laticephala*            |
 |                |                 | *Gigantaspis bocki*                  |
@@ -226,6 +228,8 @@
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
+| Clade           |                          | taxa                            |
+|-----------------|--------------------------|---------------------------------|
 | Placoderm       | Arthrodira               | *Coccosteus cuspidatus*         |
 |                 |                          | *Homostius milleri*             |
 |                 |                          | *Actinolepis magn*              |
@@ -261,8 +265,10 @@
 
 ***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
 > Gauja Formation, Lode Quarry, Latvia.
-> - Used to be of Late Devonian age. 
+> - Used to be of Late Devonian age.
 
+| Clade         |                           | taxa                          |
+|---------------|---------------------------|-------------------------------|
 | Heterostraci  |                           | *Psammosteus sp. (ganensis)*  |
 |               |                           | *Psammolepis abavica*         |
 |               |                           | *P. paradoxa*                 |
@@ -295,6 +301,8 @@
 > Avon River Group; Mount Howitt, Victoria, Australia.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
+| Clade        |                 | taxa                            |
+|--------------|-----------------|---------------------------------|
 | Placodermi   | Arthrodira      | *Austrophyllolepis ritchiei*    |
 |              |                 | *A. youngi*                     |
 |              |                 | *Groenlandaspis sp.*            |
@@ -316,6 +324,8 @@
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
 > Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
 
+| Clade         |                 | taxa                                |
+|---------------|-----------------|-------------------------------------|
 | Placodermi    | Arthrodira      | *Gyroplacosteus sp.*                |
 |               |                 | *Torosteus submarginatus*           |
 |               |                 | *Rachiosteus pterygiatus*           |
@@ -344,7 +354,8 @@
 > -The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
 
 
-
+| Clade        |                 | taxa                          |
+|--------------|-----------------|-------------------------------|
 | Placoderm    | Arthrodira      | *Bruntonichthys_multidens*    |
 |              |                 | *Bullerichthys_fascidens*     |
 |              |                 | *Camuropiscis_concinnus*      |
@@ -433,6 +444,8 @@ Elpistostege watsoni
 ***Bad Wildungen fauna***: upper Frasnian. 
 > Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
 
+| Clade          |                               | taxa                           |
+|----------------|-------------------------------|--------------------------------|
 | Placoderm      | Arthrodira                    | *Aspidichthys_ingens*          |
 |                |                               | *Belosteus_elegans*            |
 |                |                               | *Belosteus_major*              |
@@ -527,6 +540,8 @@ Osteolepis sp.
 > The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
 
+| Clade             |                | taxa                             |
+|-------------------|----------------|----------------------------------|
 | Placoderm         | Arthrodira     | *Bungartius_perissus*            |
 |                   |                | *Callognathus_regularis*         |
 |                   |                | *Coccosteus_cuyahogae*           |
