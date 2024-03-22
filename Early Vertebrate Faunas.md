@@ -127,7 +127,6 @@
 |           |                                          | *Heterogaspis gigantea*    |                       |
 |           |                                          | Euleptaspidid B                      |
 |           |                                          | *Herasmius granulatus*               |
-|           |                                          | *Arctonema crassum*                  |
 |           |                                          | *Elegantaspis reticornis*            |
 
 
@@ -205,7 +204,7 @@
  
 ## Middle Devonian
 ***Svalbard Lykta Formation fauna***: Eifelian.
-> Euleptaspidid A
+> Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
