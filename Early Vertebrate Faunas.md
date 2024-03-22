@@ -201,6 +201,9 @@ Osteolepididae
 Osteolepis sp.
 Panderichthys rhombolepis
 
+
+
+> 
 ***Mount Howitt Fauna***: uppermost Givetian, 384.37, 382.7 (Long 1999)
 > Avon River Group; Mount Howitt, Victoria, Australia.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
@@ -298,6 +301,55 @@ Pillararhynchus longi
 Griphognathus whitei
 Gogonasus andrewsi
 
+***Amata Formation fauna***: lower Frasnian, 382.7, 379.2
+> Amata Formation, Pasta muiza, Latvia.
+> Amata Regional stage
+
+
+***Miguasha fauna***： middle Frasnian, 379.2, 375.7
+> Escuminac Formation; Miguasha, Quebec, Canada.
+Agnathe (5)
+Endeiolepididae
+Endeiolepis aneri
+Euphaneropidae
+Euphanerops longaevus
+Legendrelepis parenti
+Escuminaspididae
+Escuminaspis laticeps
+Levesquaspis patteni
+Placodermi (2)
+Bothriolepididae
+Bothriolepis canadensis
+Plourdosteidae
+Plourdosteus canadensis
+Acanthodii (4)
+Diplacanthidae
+Diplacanthus ellsi
+D. horridus
+Homalacanthus concinnus
+Mesacanthidae
+Triazeugacanthus affinis
+Actinopterygii (1)
+Cheirolepididae
+Cheirolepis canadensis
+Sarcopterygii (9)
+Miguashaiidae
+Miguashaia bureaui
+Phaneropleuridae
+Scaumenacia curta
+Fleurantiidae
+Fleurantia denticulata
+Holoptychiidae
+Holoptychius jarviki
+Quebecius quebecensis
+Holoptychiidae gen. et sp. indet.
+Tristichopteridae
+Eusthenopteron foordi
+Osteolepiformes indet.
+Callistiopterus clappi
+Elpistostegidae
+Elpistostege watsoni
+
 ***Bad Wildungen fauna***: upper Frasnian. 
 > Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
 
@@ -392,6 +444,30 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
+***Okse Bay Formation fauna***: Franian?
+> Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
+
+Agnathe (3)
+Psammosteidae
+Psammosteus articus
+P. complicatus
+P. kiaeri
+Placodermi (2)
+Coccosteomorphi gen. et sp. indet.
+Bothriolepididae
+Bothriolepis spp.
+Sarcopterygii (5)
+Holoptychiidae
+Glyptolepis sp. cf. G. paucidens
+Holoptychius scheii
+H. sp. cf. H. tuberculatus
+Glyptolepis sp. or Holoptychius sp.
+Osteolepididae
+Osteolepis sp.
+
+
+
+
 ***Cleveland Shale fauna***: upper Famennian. 
 > The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
@@ -464,5 +540,14 @@ Proceratodus wagneri
 
 
 
+***East Greenland Upper Devonian fauna***: Famennian.
+> Britta Dal and Aina Dal Formations; East Greenland, Denmark.
 
+***Ketleri Formation fauna***: upper Famennian.
+> Ketleri Formation, Pavari, Latvia
 
+***Catskill Formation fauna**: Famennian.
+> Catskill Formation; Red Hill, Pennsylvania, USA.
+>
+***Canowindra fauna**: Famennian
+> Mandagery Sandstone, Canowindra, NSW, Australia.
