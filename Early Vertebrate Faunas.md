@@ -2,6 +2,62 @@
 
 # Silurian
 ## Llandovery
+***Zhangjiajie vertebrate fauna***: Telychian.
+> areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
+
+> Horizons: three horizons, lower Telychian including Rongxi Formation, Qingshui Formation, Kangshan Formation, Houchiatang Formation, and Tataertag formation; middle Telychian including Xiushan Formation and Fentou Formation; upper Telychian including Xikeng Formation and Huixingshao Formation.
+
+>  Assemblages: the fauna is divided into Wentang Assemblage (early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
+>
+| sites        |  Formation                      | species                       | age             |
+|--------------|---------------------------------|-------------------------------|---------------- |
+| Zhangjiajie  | Rongxi                          | *Dayongaspis hunanensis*      | early Telychian |
+|              |                                 | *Konoceraspis grandoculus*    | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+|              |                                 | *Neosinacanthus planispinatus*| early Telychian |
+|              |                                 | *Neosinacanthus* sp.1         | early Telychian |
+|              |                                 | *Neosinacanthus* sp.2         | early Telychian |
+|              |                                 | *Tarimacanthus bachuensis*    | early Telychian |
+|              |                                 | *Eosinacanthus shanmenensis*  | early Telychian |
+|              |                                 | *Hunanacanthus lixianensis*   | early Telychian |
+|              |                                 | *Neosinacanthus* sp.          | early Telychian |
+|              |                                 | *Sinacanthus* sp.             | early Telychian |
+| Jiujiang     | Qingshui                        | *Xiyuichthys lixiensis*       | early Telychian |
+|              |                                 | *Qingshuiaspis junqingi*      | early Telychian |
+|              |                                 | *Anjiaspis ericius*           | early Telychian |
+|              |                                 | *Jiangxialepis jiujiangensis* | early Telychian |
+|              |                                 | *Neosinacanthus* sp.          | early Telychian |
+| Changxing    | Kangshan                        | *Changxingaspis gui*          | early Telychian |
+|              |                                 | *Shuyu zhejiangensis*         | early Telychian |
+|              |                                 | *Meishanaspis lehmani*        | early Telychian |
+|              |                                 | *Anjiaspis reticularis *      | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+|              |                                 | *Neosinacanthus* sp.1         | early Telychian |
+| Chaohu       | Houchiatang                     | *Latirostraspis chaohuensis * | early Telychian |
+|              |                                 | *Neosiacanthus wanzhongensis* | early Telychian |
+| Wuhan        | Qingshui                        |*Hanyangaspis guodingshanensis*| early Telychian |
+|              |                                 | *Jiangxialepis retrospina*    | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+| Aksu         | Tataertag                       | *Kalpinolepis tarimensis*     | early Telychian |
+|              |                                 | *Microphymaspis pani*         | early Telychian |
+|              |                                 | *Platylomaspis serratus*      | early Telychian |
+|              |                                 | *Xiyuichthys zhangi*          | early Telychian |
+|              |                                 | *Changxingaspis nianzhongi*   | early Telychian |
+|              |                                 | *Jiangxialepis rongi*         | early Telychian |
+|              |                                 | *Nanjiangaspis kalpinensis*   | early Telychian |
+|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
+|              |                                 | *Tarimacanthus bachuensis*    | early Telychian |
+|              |                                 | *Tielikewatielepis sinensis*  | early Telychian |
+|              |                                 | *Xiaohaizilepis liui*         | early Telychian |
+|Zhangjiajie   | Xiushan                         | *Dayongaspis colubra*         | middle Telychian|
+|Wuhan         | Fentou                          |*Hanyangaspis guodingshanensis*| middle Telychian|
+|              |                                 | *Sinacanthus wuchangensis*    | middle Telychian|
+|Wuwei         | Fentou                          | *Geraspis rare*               | middle Telychian|
+|Jiujiang      | Xikeng                          | *Xiushuiaspis jiangxiensis*   | upper Telychian |
+|              |                                 | *Xiushuiaspis ganbeiensis*    | upper Telychian |
+|              |                                 | *Sinogaleaspis shankouensis*  | upper Telychian |
+|              |                                 | *Rumporostralis xikengensis*  | upper Telychian |
+|              |                                 | *Rumporostralis shipanensis*  | upper Telychian |
 
 ## Wenlock
 
@@ -9,10 +65,15 @@
 
 # Devonian
 ## Early Devonian
-***MOTH fauna***: Lochkovian.
+***MOTH fauna***: Lochkovian, 419.2, 410.8
+> MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 
 
-***Svalbard Wood Bay Formation fauna***: Pragian to lower Emsian.
+
+***Svalbard Red Bay Group fauna***: Lochkovian
+> 
+
+***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
 > Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
@@ -30,6 +91,8 @@
 > - Pragian: *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
 
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
+>
+> - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969
 
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
@@ -154,8 +217,12 @@
 |                |                 | *P. spitsbergensis*                  |
 |                |                 | *P. elongata*                        |
 |                |                 | *Heimenia ensis*                     |
+
  
 ## Middle Devonian
+***Svalbard Lykta Formation fauna***: Eifelian.
+
+
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
@@ -178,6 +245,19 @@
 |                 |                          | *G. leptopterus*                |
 |                 |                          | *Osteolepis macrolepidotus*     |
 |                 |                          | *Gyroptychius agassizi*         |
+
+***Aruküla Formation fauna***: upper Eifeilian 
+> Aruküla Formation, Baltic.
+
+
+***Burtnieki Formation fauna**: lower Givetian
+> Burtnieki Formation, Baltic.
+> 
+
+**John o'Groats Sandstones and Eday Flagstones fauna**: middle Givetian, 386.0, 384.4
+> John o'Groats Sandstones and Eday Flagstones, Scotland.
+> Comprising Tristichopterus, Watsonosteus, Microbrachius.
+
 
 ***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
 > Gauja Formation, Lode Quarry, Latvia.
@@ -301,6 +381,55 @@
 |              |                 | *Griphognathus whitei*        |
 |              |                 | *Gogonasus andrewsi*          |
 
+***Amata Formation fauna***: lower Frasnian, 382.7, 379.2
+> Amata Formation, Pasta muiza, Latvia.
+> Amata Regional stage
+
+
+***Miguasha fauna***： middle Frasnian, 379.2, 375.7
+> Escuminac Formation; Miguasha, Quebec, Canada.
+Agnathe (5)
+Endeiolepididae
+Endeiolepis aneri
+Euphaneropidae
+Euphanerops longaevus
+Legendrelepis parenti
+Escuminaspididae
+Escuminaspis laticeps
+Levesquaspis patteni
+Placodermi (2)
+Bothriolepididae
+Bothriolepis canadensis
+Plourdosteidae
+Plourdosteus canadensis
+Acanthodii (4)
+Diplacanthidae
+Diplacanthus ellsi
+D. horridus
+Homalacanthus concinnus
+Mesacanthidae
+Triazeugacanthus affinis
+Actinopterygii (1)
+Cheirolepididae
+Cheirolepis canadensis
+Sarcopterygii (9)
+Miguashaiidae
+Miguashaia bureaui
+Phaneropleuridae
+Scaumenacia curta
+Fleurantiidae
+Fleurantia denticulata
+Holoptychiidae
+Holoptychius jarviki
+Quebecius quebecensis
+Holoptychiidae gen. et sp. indet.
+Tristichopteridae
+Eusthenopteron foordi
+Osteolepiformes indet.
+Callistiopterus clappi
+Elpistostegidae
+Elpistostege watsoni
+
 ***Bad Wildungen fauna***: upper Frasnian. 
 > Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
 
@@ -370,6 +499,30 @@
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
+***Okse Bay Formation fauna***: Franian?
+> Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
+
+Agnathe (3)
+Psammosteidae
+Psammosteus articus
+P. complicatus
+P. kiaeri
+Placodermi (2)
+Coccosteomorphi gen. et sp. indet.
+Bothriolepididae
+Bothriolepis spp.
+Sarcopterygii (5)
+Holoptychiidae
+Glyptolepis sp. cf. G. paucidens
+Holoptychius scheii
+H. sp. cf. H. tuberculatus
+Glyptolepis sp. or Holoptychius sp.
+Osteolepididae
+Osteolepis sp.
+
+
+
+
 ***Cleveland Shale fauna***: upper Famennian. 
 > The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
@@ -423,5 +576,14 @@ The arthrodires comprise
 
 
 
+***East Greenland Upper Devonian fauna***: Famennian.
+> Britta Dal and Aina Dal Formations; East Greenland, Denmark.
 
+***Ketleri Formation fauna***: upper Famennian.
+> Ketleri Formation, Pavari, Latvia
 
+***Catskill Formation fauna***: Famennian.
+> Catskill Formation; Red Hill, Pennsylvania, USA.
+>
+***Canowindra fauna***: Famennian
+> Mandagery Sandstone, Canowindra, NSW, Australia.
