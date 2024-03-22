@@ -207,7 +207,7 @@
 
  
 ## Middle Devonian
-***Svalbard Lykta Formation fauna***: Eifelian.
+***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian.
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
