@@ -134,7 +134,7 @@
 
 
 
-| Clade          |                 | taxa                                 |
+| Clade          |  Formation      | taxa                                 |
 |----------------|-----------------|--------------------------------------|
 | Heterostraci   |                 | *Doryaspis nathorsti*                |
 |                |                 | *Zascinaspis laticephala*            |
@@ -195,11 +195,11 @@
 |                |                 | *« Onchus » overathensis*            |
 |                |                 | *Xylacanthus grandis*                |
 |                |                 | *X. minutus*                         |
-| Osteichthyes   | Actinopterygii  | *Orvikuina sp.*                      |
-|                | Sarcopterygii   | *Porolepis brevis*                   |
+| Osteichthyes   |                 | *Orvikuina sp.*                      |
+|                |                 | *Porolepis brevis*                   |
 |                |                 | *P. spitsbergensis*                  |
 |                |                 | *P. elongata*                        |
-|                |                 | *Heimenia ensis*                     |
+|                | Verdalen Mb     | *Heimenia ensis*                     |
 
  
 ## Middle Devonian
