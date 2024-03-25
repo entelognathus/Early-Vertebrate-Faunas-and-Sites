@@ -298,8 +298,15 @@ Lunaspis broili Broili, 1929
 > Burtnieki Formation, Baltic.
 > 
 
-***Aztec fauna***: Givetian?
+***Aztec fauna***: Givetian.
 > Aztec Sandstone, Southern Victoria Land, Antarctica.
+> - Agnatha: *Thurinia antarctica* Turner and Young, 1992.
+> - Acannthodii: Cheircanthoides comptus; Gyracanthides warreni White, 1968; Antarctonchus glacialis White, 1968; Byssacanthoides debenhami Woodwardi, 1921; Culmacanthus antarctica Young, 1989.
+> - Placodermi: *Bothriolepis antarctica* Woodward, 1921; *Bothriolepis alexi* Young, 1988; *Bothriolepis barretti* Young, 1988;*Bothriolepis karawaka* Young, 1988; *Bothriolepis kohni* Young, 1988; *Bothriolepis macphersoni* Young, 1988; *Bothriolepis portalensis* Young, 1988; *Bothriolepis vuwae* Young, 1988; *Bothriolepis* sp. indet. 1-13; *Pambulalepis antarctica* Young, 1988; *Groenlandaspis antarcticus* Ritchie, 1975; *Groenlandaspis* spp.; phlyctaeniid spp.; *Austrophyllolepis* sp.; *Antaractaspis mcmurdoensis* White, 1968.
+> - Chondrichthyes: Mcmurdodus featherensis White, 1968; Antarctilamna prisca Young, 1982; xencanathids spp.
+> - Osteichthyes: ?ctenodontid Campbell and Barwick, 1987; ?*Eoctenodus* sp.; *Gyroptychius? antarcticus* (Woodward, 1921); *Koharalepis jarviki* Young *et al*., 1992; *Mahalalepis resima* Young *et al*., 1992; *Pltyethmoidea antarcticus* Young *et al*., 1992; *Vorobjevaia dolonodon* Young *et al*., 1992; *Notorhizodon mackelveyi* Young *et al*., 1992; eusthenopterid indet.; rhizondontid indet.; palaeniscoid indet.
+
+
 
 **John o'Groats Sandstones and Eday Flagstones fauna**: middle Givetian, 386.0, 384.4
 > John o'Groats Sandstones and Eday Flagstones, Scotland.
