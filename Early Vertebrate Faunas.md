@@ -361,26 +361,30 @@ Lunaspis broili Broili, 1929
 
 ***Mount Howitt Fauna***: uppermost Givetian, 384.37, 382.7 (Long 1999)
 > Avon River Group; Mount Howitt, Victoria, Australia.
+> Also Taggerty locality, Blue Range Formation, near Taggerty, Victoria.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
 | Clade        |                 | taxa                            |
 |--------------|-----------------|---------------------------------|
 | Placodermi   | Arthrodira      | *Austrophyllolepis ritchiei*    |
-|              |                 | *A. youngi*                     |
+|              |                 | *AAustrophyllolepis youngi*     |
 |              |                 | *Groenlandaspis sp.*            |
 |              | Antiarcha       | *Bothriolepis gippslandiensis*  |
-|              |                 | *B. cullodenensis*              |
-|              |                 | *B. fergusoni*                  |
-|              |                 | *B. bindareei*                  |
+|              |                 | *Bothriolepis cullodenensis*    |
+|              |                 | *Bothriolepis fergusoni*        |
+|              |                 | *Bothriolepis bindareei*        |
 | Acanthodii   |                 | *Culmacanthus stewarti*         |
 |              |                 | *Howittacanthus kentoni*        |
 | Osteichthyes | Actinopterygii  | *Howqualepis rostridens*        |
-|              | Sarcopterygii   | *Actinistia gen. et sp. indet.* |
+|              | Sarcopterygii   | Actinistia gen. et sp. indet.   |
 |              |                 | *Howidipterus donnae*           |
 |              |                 | *Barwickia downunda*            |
-|              |                 | *Glyptolepis sp.*               |
+|              |                 | *Glyptolepis* sp.               |
 |              |                 | *Marsdenichthys longioccipitus* |
 |              |                 | *Beelarongia patrichae*         |
+
+
+
 
 ## Late Devonian
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
