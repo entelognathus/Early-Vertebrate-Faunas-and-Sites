@@ -295,9 +295,11 @@ Lunaspis broili Broili, 1929
 > Aruküla Formation, Baltic.
 
 
-***Burtnieki Formation fauna**: lower Givetian
+***Burtnieki Formation fauna***: lower Givetian
 > Burtnieki Formation, Baltic.
 > 
+
+
 
 ***Aztec fauna***: Givetian.
 > Aztec Sandstone, Southern Victoria Land, Antarctica.
@@ -311,18 +313,16 @@ Lunaspis broili Broili, 1929
 **Rousay Formation fauna**: early Givetian
 > Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
 >
-> above it：Lower Eday Sandstone (Orkney) or John o'Groats Sandstone (Caithness); below it: Sandwick fish bed (Orknay) or Achanarras fish bed (Caithness)
+> above it：Lower Eday Sandstone (Orkney) or John o'Groats Sandstone (Caithness); below it: Sandwick fish bed (Orkney) or Achanarras fish bed (Caithness)
 >
-> - Upper Stromness Flagstone: *Dickosteus threiplandi*; Gyroptychius milleri Jarvik; Dipterus valenciennesi Sedgwick and Murchison; Homostius milleri Traquair; Glyptolepis paucidens Agassiz and G. milleri
-> - Lower Rousay: *Osteolepis panderi*, *Thursius pholidotus*; Dipterus valenciennesi; Asterolepis orcadensis; Homostius milleri; Asperocephalus milleri Ahlberg, 1989; Glyptolepis paucidens; Rhadinacanthus longispinus Agassiz, 1844; Cheiracanthus murchisoni Agassiz, 1835; Cheirolepis sp.; Diplacanthus crassisimus Duff, 1842.
-> - Middle Rousay: *Millerosteus minor*, *Thursius pholidotus*; Homostius milleri, Glyptolepis paucidens Agassiz; Dipterus valenciennesi; Rhadinacanthus longispinus
-> - Upper Roysay: *Asterolepis orcadensis*; Thursius pholidotus
-
-
+> - Upper Stromness Flagstone: *Dickosteus threiplandi*; *Gyroptychius milleri* Jarvik; *Dipterus valenciennesi* Sedgwick and Murchison; *Homostius milleri* Traquair; *Glyptolepis paucidens* Agassiz and *G. milleri*
+> - Lower Rousay: *Osteolepis panderi*, *Thursius pholidotus*; *Dipterus valenciennesi*; *Asterolepis orcadensis*; *Homostius milleri*; *Asperocephalus milleri* Ahlberg, 1989; *Glyptolepis paucidens*; *Rhadinacanthus longispinus* Agassiz, 1844; *Cheiracanthus murchisoni* Agassiz, 1835; *Cheirolepis* sp.; *Diplacanthus crassisimus* Duff, 1842.
+> - Middle Rousay: *Millerosteus minor*, *Thursius pholidotus*; *Homostius milleri*, *Glyptolepis paucidens* Agassiz; *Dipterus valenciennesi*; *Rhadinacanthus longispinus*
+> - Upper Roysay: *Asterolepis orcadensis*; *Thursius pholidotus*
 
 **John o'Groats Sandstones and Eday Flagstones fauna**: middle Givetian, 386.0, 384.4
-> John o'Groats Sandstones and Eday Flagstones, Scotland.
-> Comprising Tristichopterus, Watsonosteus, Microbrachius.
+> John o'Groats Sandstones (John o' Groats Sandstone Group, Caithness) and Eday Flagstones (Eday Group, Orkney), Scotland.
+> Comprising *Tristichopterus alatus* Egerton, 1861; *Watsonosteus fletti*, *Microbrachius dicki*.
 
 
 ***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
