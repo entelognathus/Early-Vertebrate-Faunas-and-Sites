@@ -309,7 +309,14 @@ Lunaspis broili Broili, 1929
 
 
 **Rousay Formation fauna**: early Givetian
-> Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone. above：Lower Eday Sandstone (Orkney) or John o'Groats Sandstone (Caithness); below: Sandwick fish bed (Orknay) or Achanarras fish bed (Caithness)
+> Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
+>
+> above it：Lower Eday Sandstone (Orkney) or John o'Groats Sandstone (Caithness); below it: Sandwick fish bed (Orknay) or Achanarras fish bed (Caithness)
+>
+> - Upper Stromness Flagstone: *Dickosteus threiplandi*; Gyroptychius milleri Jarvik; Dipterus valenciennesi Sedgwick and Murchison; Homostius milleri Traquair; Glyptolepis paucidens Agassiz and G. milleri
+> - Lower Rousay: *Osteolepis panderi*, *Thursius pholidotus*; Dipterus valenciennesi; Asterolepis orcadensis; Homostius milleri; Asperocephalus milleri Ahlberg, 1989; Glyptolepis paucidens; Rhadinacanthus longispinus Agassiz, 1844; Cheiracanthus murchisoni Agassiz, 1835; Cheirolepis sp.; Diplacanthus crassisimus Duff, 1842.
+> - Middle Rousay: *Millerosteus minor*, *Thursius pholidotus*; Homostius milleri, Glyptolepis paucidens Agassiz; Dipterus valenciennesi; Rhadinacanthus longispinus
+> - Upper Roysay: *Asterolepis orcadensis*; Thursius pholidotus
 
 
 
