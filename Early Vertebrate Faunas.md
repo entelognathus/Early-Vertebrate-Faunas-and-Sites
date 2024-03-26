@@ -206,7 +206,7 @@ Lunaspis broili Broili, 1929
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
-> Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
+> Site: Spotsbergen (including two areas：**Woodfjorden area and Dicksonfjorden-Austfjorden area**).
 
 > For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the Sigurdfjellet, Kapp Kjeldsen, Keltiefjellet (“Lykta fauna”) and Stjørdalen faunal divisions.
 
@@ -223,6 +223,50 @@ Lunaspis broili Broili, 1929
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 >
 > - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+> - 
+**From Pernègre and Blieck (2016)**
+| Area                            | Clade           | Genus | Speices                                            | References               |
+|---------------------------------|-----------------|-------|----------------------------------------------------|--------------------------|
+| Woodfjorden area                | Pteraspidiforms |       | *Doryaspis arctica*                                | Pernègre, 2002           |
+| Woodfjorden area                | Pteraspidiforms |       | *Gigantaspis minima*                               | Pernègre & Goujet, 2007  |
+| Woodfjorden area                | Pteraspidiforms |       | *Xylaspis prima*                                   | Pernègre, 2003           |
+| Woodfjorden area                | Pteraspidiforms |       | *Woodfjordaspis felixi*                            | Pernègre, 2006           |
+| Woodfjorden area                | Pteraspidiforms |       | *Gigantaspis isachseni*                            | Heintz, 1962             |
+| Woodfjorden area                | Pteraspidiforms |       | *Gigantaspis bocki*                                | Heintz, 1962             |
+| Woodfjorden area                | Pteraspidiforms |       | *Doryaspis nathorsti*                              | Lankester, 1884          |
+| Woodfjorden area                | Pteraspidiforms |       | *Doryaspis lyktensis*                              | Heintz, 1960             |
+| Woodfjorden area                | Placoderms      |       | *Sigaspis lepidophora*                             | Goujet, 1973             |
+| Woodfjorden area                | Placoderms      |       | *Arctaspis* sp.                                    |                          |
+| Woodfjorden area                | Placoderms      |       | *Heintzosteus* sp.                                 |                          |
+| Woodfjorden area                | Placoderms      |       | *Arctolepis decipiens*                             | Woodward, 1891           |
+| Woodfjorden area                | Placoderms      |       | *Arctaspis maxima*                                 | Heintz, 1929             |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis rostrata*                               | Stensiö, 1927            |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis intermedia*                             | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis ceratops*                               | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis ginsburgi*                              | Janvier, 1977            |
+| Woodfjorden area                | Osteostracans   |       | *Cephalaspis curta*                                | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Norselaspis glacialis*                            | Janvier, 1981            |
+| Woodfjorden area                | Osteostracans   |       | *Axinaspis whitei *                                | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Diademaspis poplinae *                            | Janvier, 1985            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis moythomasi*                       | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis lanternaria*                      | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis oblongata*                        | Stensiö, 1927            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis* sp.                              |                          |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis groenhorgensis*Doryaspis groenhorgensis |                          |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Gigantaspis laticephala*                          | Blieck & Goujet, 1983    |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis nathorsti*                              | Lankester, 1884          |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis lyktensis*                              | Heintz, 1960             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Dicksonosteus arcticus*                           | Goujet, 1975             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Heintzosteus brevis*                              | Heintz, 1929             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Lehmanosteus hyperboreus*                         | Lehmanosteus hyperboreus |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Arctaspis maxima*                                 | Heintz, 1929             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Dicksonosteus * sp.                               |                          |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Arctolepis decipiens*                             | Woodward, 1891           |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Nectaspis areolata *                              | Wängsjö, 1952            |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Hildenaspis* sp                                   |                          |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Parameteoraspis lanternaria*                      | Wängsjö, 1952            |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Diademaspis poplinae*                             | Janvier, 1985            |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Nectaspis peltata*                                | Wängsjö, 1952            |
 
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
