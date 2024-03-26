@@ -452,7 +452,10 @@ Lunaspis broili Broili, 1929
 
 ## Middle Devonian
 
-***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian.
+***Wee Jasper/Burrinjuck Fauna***: Emsian, Burrinjuck, Australia.
+(Young 2011)
+
+***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
