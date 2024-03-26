@@ -92,6 +92,84 @@
 
 # Devonian
 ## Early Devonian
+| Site         | clade           | Age        | Formation | Species                                | Chines Name | References             |
+|--------------|-----------------|------------|-----------|----------------------------------------|-------------|------------------------|
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | Polybranchiaspis liaojiaoshanensis     | 廖角山多鳃鱼      | 刘玉海, 1965              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Polybranchiaspis minor                 | 小甲多鳃鱼       | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Polybranchiaspis yulongssus            | 玉龙寺多鳃鱼      | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Polybranchiaspis zhanyiensis           | 沾益多鳃鱼       | 潘江和王士涛, 1978           |
+| Yunnan,China |                 | Lochkovian | Xitun     | Polybranchiaspis miandiancunensis      | 面店村多鳃鱼      | 潘江和王士涛, 1978           |
+| Yunnan,China |                 | Lochkovian | Xitun     | Eugaleaspis changi                     | 张氏真盔甲鱼      | 刘玉海, 1965              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Eugaleaspis xujiachongensis            | 徐家冲真盔甲鱼     | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Laxaspis qujingensis                   | 曲靖宽甲鱼       | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Laxaspis yulongssus                    | 玉龙寺宽甲鱼      | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Pseudolaxaspis rostrata                | 长吻假宽甲鱼      | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Diandongaspis xishancunensis           | 西山村滇东鱼      | 刘玉海, 1975              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nanpanaspis microculus                 | 小眼南盘鱼       | 刘玉海, 1965              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Dongfangaspis qujingensis              | 曲靖东方鱼       | 潘江和王士涛, 1981           |
+| Yunnan,China |                 | Lochkovian | Xitun     | Sanchaspis magalarostrata              | 宽大吻突三岔鱼     | 潘江和王士涛, 1981           |
+| Yunnan,China |                 | Lochkovian | Xitun     | Yunnanogaleaspis major                 | 硕大云南盔甲鱼     | 潘江和王士涛, 1981           |
+| Yunnan,China |                 | Lochkovian | Xitun     | Damaspis vartus                        | 变异坝鱼        | 王念忠和王俊卿, 1982          |
+| Yunnan,China |                 | Lochkovian | Xitun     | Pterogonaspis yuhaii                   | 玉海翼角鱼       | 朱敏, 1992               |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nochelaspis maeandrine                 | 漫游憨鱼        | 朱敏, 1992               |
+| Yunnan,China |                 | Lochkovian | Xitun     | Gantarostrataspis geni                 | 耿氏鸭吻鱼       | 王念忠和王俊卿, 1992          |
+| Yunnan,China |                 | Lochkovian | Xitun     | Pentathyraspis pelta                   | 盾状五窗鱼       | Pan, 1992              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Microhoplonaspis microthyris           | 小孔微盔鱼       | Pan, 1992              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Hyperaspis acclivis                    | 陡背耸刺鱼       | Pan, 1992              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Stephaspis dipteriga                   | 双翼王冠鱼       | Gai and Zhu, 2007      |
+| Yunnan,China |                 | Lochkovian | Xitun     | Altigibbaspis huiqingae                | 惠清驼背鱼       | Liu et al., 2018       |
+| Yunnan,China |                 | Lochkovian | Xitun     | Qushiaspis elaia                       | 橄榄纹曲师鱼      | Jiang et al., 2021     |
+| Yunnan,China |                 | Lochkovian | Xitun     | Falxcornus liui                        | 刘氏镰角鱼       | Meng and Gai, 2021     |
+| Yunnan,China |                 | Lochkovian | Xitun     | Xitunaspis magnus                      | 硕大西屯鱼       | Sun et al., 2022       |
+| Yunnan,China |                 | Lochkovian | Xitun     | Siyingia perlatuspinosa                | 宽棘四营鱼       | Si et al., 2015        |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | Parathelodus scitulus                  | 雅致副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus asiatica                  | 亚洲副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus catalatus                 | 次翼副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus corniformis               | 角状副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus trilobatus                | 三裂副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus xitunensis                | 西屯副花鳞鱼      | Cui et al., 2020       |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus wangi                     | 王氏副花鳞鱼      | Cui et al., 2020       |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parathelodus liaokuoensis              | 寥廓副花鳞鱼      | Cui et al., 2020       |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | Yunnanolepis chii                      | 计氏云南鱼       | Liu, 1963              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Yunnanolepis parvus                    | 小云南鱼        | 张国瑞, 1978              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Yunnanolepis porifera                  | 多孔云南鱼       | Zhu, 1996              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Yunnanolepis sp.                       | 云南鱼未定种      | Zhu, 1996              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Heteroyunnanolepis qujingensis         | 曲靖异云南鱼      | 王中山, 1994              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Parayunnanolepis xitunensis            | 西屯副云南鱼      | 张国瑞等, 2001             |
+| Yunnan,China |                 | Lochkovian | Xitun     | Phymolepis cuifengshanensis            | 翠峰山长瘤鱼      | 张国瑞, 1978              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Phymolepis guoruii                     | 国瑞长瘤鱼       | Zhu, 1996              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Chuchinolepis gracilis                 | 秀丽曲靖鱼       | 张国瑞, 1978              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Chuchinolepis qujingensis              | 曲靖曲靖鱼       | 张国瑞, 1984              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Chuchinolepis sulcate                  | 浅沟曲靖鱼       | Zhu, 1996              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Chuchinolepis robusta                  | 粗壮曲靖鱼       | Zhu, 1996              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Zhanjilepis aspratilis                 | 粗纹沾益鱼       | 张国瑞, 1978              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Szelepis yunnanensis                   | 云南斯氏鱼       | 刘玉海, 1979              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Mizia longhuaensis                     | 龙华山米字鱼      | Zhu, 1996              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Minicrania lirouyii                    | 李柔义小头鱼      | Zhu and Janvier, 1996  |
+| Yunnan,China |                 | Lochkovian | Xitun     | Holopetalichthys longhuaensis          | 龙华全瓣鱼       | 朱敏和王俊卿, 1996           |
+| Yunnan,China |                 | Lochkovian | Xitun     | Diandongpetalichthys liaojiaoshanensis | 廖角山滇东瓣甲鱼    | 潘江和王士涛, 1978           |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | Yunnanacanthus cuifengshanensis        | 翠峰山云南棘鱼     | 刘时藩, 1973              |
+| Yunnan,China |                 | Lochkovian | Xitun     | Youngacanthus gracilis                 | 秀丽杨氏棘鱼      | Wang, 1984             |
+| Yunnan,China |                 | Lochkovian | Xitun     | Hanilepis wangi                        | 王氏哈尼鱼       | 王念忠和董致中, 1989          |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nostolepis striata                     | 条纹背棘鱼       | Li et al., 2021        |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nostolepis amplifica                   | 扩展背棘鱼       | Li et al., 2021        |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nostolepis consueta                    | 平凡背棘鱼       | Li et al., 2021        |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nostolepis qujingensis                 | 曲靖背棘鱼       | Li et al., 2021        |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nostolepis digitus                     | 指状背棘鱼       | Li et al., 2021        |
+| Yunnan,China |                 | Lochkovian | Xitun     | Nostolepis sp.                         | 背棘鱼未定种      | Wang, 1984             |
+| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | Gualepis elegans                       | 精美郭氏鱼       | Wang, 1984             |
+| Yunnan,China |                 | Lochkovian | Xitun     | Changolepis tricuspidus                | 三尖张氏鱼       | Wang, 1984             |
+| Yunnan,China |                 | Lochkovian | Xitun     | Peilepis solida                        | 密肋裴氏鱼       | Wang, 1984             |
+| Yunnan,China |                 | Lochkovian | Xitun     | Ohiolepis Xitunensis                   | 西屯俄亥俄鱼      | Wang, 1984             |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | Psarolepis romeri                      | 罗氏斑鳞鱼       | Yu, 1998               |
+| Yunnan,China |                 | Lochkovian | Xitun     | Psarolepis sp.                         | 斑鳞鱼未定种      | Zhu and Schultze, 1997 |
+| Yunnan,China |                 | Lochkovian | Xitun     | Achoania jarviki                       | 雅氏无孔鱼       | Zhu et al., 2001       |
+| Yunnan,China |                 | Lochkovian | Xitun     | Youngolepis praecursor                 | 先驱杨氏鱼       | Chang and Yu, 1981     |
+| Yunnan,China |                 | Lochkovian | Xitun     | Youngolepis sp.                        | 杨氏鱼未定种      | Chang and Yu, 1991     |
+| Yunnan,China |                 | Lochkovian | Xitun     | Diabolichthys speratus                 | 希望奇异鱼       | Chang and Yu, 1984     |
+| Yunnan,China |                 | Lochkovian | Xitun     | Styloichthys change                    | 张氏蝶柱鱼       | Zhu and Yu, 2002       |
+| Yunnan,China |                 | Lochkovian | Xitun     | Meemannia eos                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
+
 > For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
 
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
