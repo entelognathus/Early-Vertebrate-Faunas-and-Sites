@@ -92,7 +92,7 @@
 
 # Devonian
 ## Early Devonian
-| Site         | clade           | Age        | Formation | Species                                | Chines Name | References             |
+| Site         | clade           | Age        | Formation | Species                                | Chinese Name | References             |
 |--------------|-----------------|------------|-----------|----------------------------------------|-------------|------------------------|
 | Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis liaojiaoshanensis*     | 廖角山多鳃鱼      | 刘玉海, 1965              |
 | Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis minor*                 | 小甲多鳃鱼       | 刘玉海, 1975              |
