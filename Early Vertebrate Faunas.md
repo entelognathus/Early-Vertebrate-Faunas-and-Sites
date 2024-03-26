@@ -67,7 +67,6 @@
 
 > Horizons: Kuanti, Miaogao, and Yulungssu formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
 
-
 | Clade           |                          | taxa                            |
 |-----------------|--------------------------|---------------------------------|
 | Thelodonti      |                          | *Thelodus sinensis*             |
@@ -92,7 +91,11 @@
 
 # Devonian
 ## Early Devonian
-| Site         | clade           | Age        | Formation | Species                                | Chinese Name | References             |
+***Xitun Vertebrate Fauna***: Pridoli to Pragian.
+This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Huananaspidiformes, Yunnanolepidoidei, and crown sarcopterygians. The following seven assemblages are recognized based on the different tectonic backgrounds and facies.
+Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Qujing, Yunnan.
+
+| Site         | Clade           | Age        | Formation | Species                                | Chinese Name | References             |
 |--------------|-----------------|------------|-----------|----------------------------------------|-------------|------------------------|
 | Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis liaojiaoshanensis*     | 廖角山多鳃鱼      | 刘玉海, 1965              |
 | Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis minor*                 | 小甲多鳃鱼       | 刘玉海, 1975              |
