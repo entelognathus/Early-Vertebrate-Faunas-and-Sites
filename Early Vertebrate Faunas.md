@@ -178,6 +178,71 @@ Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Quji
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
 > MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 
+(Wilson et al., 2000)
+| Formation | Clade            | Genus | Speices                                     | References                                           |
+|-----------|------------------|-------|---------------------------------------------|------------------------------------------------------|
+|           | Heterostraci     |       | *AserotOJpis canadensis*                    | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Lepidaspis urrata*                         | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | cf. *Lepidaspis* sp. indet., Type 1         | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | cf. *Lepidaspis* sp. indet., Type 2         | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Dinaspidella elizabethae*                  | Bueck and Heintz, 1983                               |
+|           | Heterostraci     |       | *Nahanniaspis mackenziei*                   | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Pionaspis amplissima*                      | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Poraspis polaris *                         | KIAER and Heintz, 1935, Dineley and Loeffler, 1976   |
+|           | Heterostraci     |       | *Poraspis* sp. indet.                       | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | Poraspidoidei gen. et sp. indet.            |                                                      |
+|           | Heterostraci     |       | *Cyathaspidinae* gen. et sp. indet., Type I | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Canadapterarpis alocostomata*              | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | ?*Protopterapis* sp. nov.                   |                                                      |
+|           | Heterostraci     |       | Pteraspidinae gen. et sp. indet.            | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | Pteraspidiformes gen. et sp. indet. 1       |                                                      |
+|           | Heterostraci     |       | Pteraspidiformes gen. et sp. indet. 2       |                                                      |
+|           | Heterostraci     |       | Heterostraci gen. et sp,. indet., Type 6    | Dineley and Loeffler, 1976                           |
+|           | Furcacaudiformes |       | *Cometicercus talimaaae *                   | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | *Drepanolepis maerssae*                     | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | *Sphenonectris turnerae*                    | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | *Furcacduda Heintzae *                      | Dineley and Loeffler, 1976;Wilson and Caldwell, 1998 |
+|           | Furcacaudiformes |       | *Furcacauda fredholmae *                    | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | Furcacaudiformes gen. et sp. nov.           | Wilson and Caldwell, 1998                            |
+|           | Osteostraci      |       | *Superciliaspis gabrielsei*                 | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | *Waengsjoeaspis mahanniensis*               | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | *Diademaspis mackenziensis*                 | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 1      | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 2      | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 3      | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 4      | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 5      | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | Osteostraci gen. et sp. nov. 1              | Wilson et al., 2000                                  |
+|           | Osteostraci      |       | Osteostraci gen. et sp. nov. 2              | Wilson et al., 2000                                  |
+|           | Osteostraci      |       | Osteostraci gen. et sp. nov. 3              | Wilson et al., 2000                                  |
+|           | Placoderms       |       | *Romundina stellina*                        | "Ørvig, 1975                                         |
+| "         |
+|           | Acanthodians     |       | *Lupopsyrus pygmaeus*                       | Bernacsek and Dineley, 1977                          |
+|           | Acanthodians     |       | cf. *Lupopsyrus* sp.                        | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Brochoadmones milesi*                      | Bernacsek and Dineley, 1977                          |
+|           | Acanthodians     |       | *Brochoadmones* sp.                         | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Nostolepis striata*                        | Pander, 1856                                         |
+|           | Acanthodians     |       | *Gladiobranchus probaton*                   | Bernacsek and Dineley, 1977                          |
+|           | Acanthodians     |       | *Tetanopsyrus lindoei*                      | Gagnier et al., 1999                                 |
+|           | Acanthodians     |       | *Tetanopsyrus* sp.                          | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Ischnacanthus* cf. I. gracilis             | Egerton, 1861                                        |
+|           | Acanthodians     |       | *Mesacanthidae gen. et sp. nov.             | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Cassidiceps vermiculatus*                  | Gagnier and Wilson, 1996                             |
+|           | Acanthodians     |       | Acanthodii gen. et sp. nov. 1               | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | Acanthodii gen. et sp. nov. 2               | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | *Kathemacanthus rosulentus*                 | Gagnier and Wilson, 1996                             |
+|           | Cbondrichthyans  |       | *Seretolepis elegans*                       | Karatajūtė-Talimaa, 1997                             |
+|           | Cbondrichthyans  |       | *Altholepis composita*                      | Karatajūtė-Talimaa, 1997                             |
+|           | Cbondrichthyans  |       | *Altholepis* sp. nov. 1                     | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | *Altholepis* sp. nov. 2                     | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | *Polymerolepis whitei*                      | Karatajūtė-Talimaa, 1968                             |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 1           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 2           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 3           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 4           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 5           | Wilson et al., 2000                                  |
+**Not complete. Need supplement the species after 2000.**
+
  ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian
 > Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
 >
