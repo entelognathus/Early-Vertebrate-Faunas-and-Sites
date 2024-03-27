@@ -114,13 +114,16 @@ MAV15, Grenfell fauna, late Famennian;
 
 ***Xitun Vertebrate Fauna***: Pridoli to Pragian.
 This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Huananaspidiformes, Yunnanolepidoidei, and crown sarcopterygians. The following seven assemblages are recognized based on the different tectonic backgrounds and facies.
-Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Qujing, Yunnan.
+Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunnan.
 
-***_Yulungssu Formation_***
+**Yulungssu Formation**: Pridoli
+> 
 
+**Xishancun Formation**: lower Lochkovian
+> 
 
-**Xia
-
+**Xitun Formation**: upper Lochkovian
+> **only use English**, delete age, formation, site, Chinese names, which are redundant here.
 
 
 | Site         | Clade           | Age        | Formation | Species                                | Chinese Name | References             |
@@ -200,6 +203,14 @@ Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Quji
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Diabolichthys speratus*                 | 希望奇异鱼       | Chang and Yu, 1984     |
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Styloichthys change*                    | 张氏蝶柱鱼       | Zhu and Yu, 2002       |
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Meemannia eos*                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
+
+**Guijiatun Formation**: lower Pragian
+> 
+
+**Xujiachong Formation**: upper Prgian
+> 
+
+
 
 
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
