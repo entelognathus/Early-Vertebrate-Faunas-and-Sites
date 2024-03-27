@@ -508,8 +508,6 @@ Lunaspis broili Broili, 1929
 > 
 
 
-
-
 **Rousay Formation fauna**: early Givetian
 > Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
 >
@@ -628,6 +626,29 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 |               |                 | Osteolepididae gen. et sp. indet. |
 | Pisces indet. |                 | *Holopterygius nudus*               |
 
+
+***Amata fauna***, lower Frasnian
+> Amata Regional Stage, Staritsa and Podsnetogorskie beds, Main Devonian Field, East European Platform.
+> - The north-western region of the East European Platform is also called the Main Devonian Field, due to the large exposure of Devonian deposits. It includes regions of the northern part of Belarus, Lithuania, Latvia, Estonia and the north-west part of Russia (Pskov, Leningrad, Novgorod and Vologda regions). 
+> - The Frasnian of the Main Devonian Field (the East European platform) is subdivided into the Amata, Pļaviņas, Dubnik, Daugava, Snezha and Prilovat regional stages. The position of the Givetian/Frasnian boundary on the East European Platform has not been determined precisely. However, the Amata Regional Stage probably belongs to the Frasnian (Ivanov et al., 2005). 
+> - *Plourdosteus livoniscus*, *Asterolepis radiata*
+
+***Pļaviņas fauna***, lower Frasnian
+> Pļaviņas Regional Stage, Snetnaya Gora, Pskov and Chudovo beds, Main Devonian Field, East European Platform.
+> - The Pļaviņas Regional Stage has been subdivided into the Snetnaya Gora, Pskov and Chudovo beds (or substages). The Amata Regional Stage and Snetnaya Gora Beds have been dated as the Early Frasnian based on the presence of *Polygnathus lanei* (Ivanov et al., 2005; Mark-Kurik and Poldvere, 2012), which is equivalent to the *M. falsiovalis* – early *Pa. transitans* zones of the Standard conodont zonations (Ziegler and Sandberg, 1990).
+> - The *Bothriolepis cellulosa* placoderm Zone belongs to the Snetnaya Gora - Pskov interval.
+> - *Psammosteus maeandrinus* Agassiz 1844; *Plourdosteus mironovi* Obruchev 1933; *Bothriolepis cellulosa* (Pander in Keyserling 1846), *Grossilepis tuberculata* Gross 1941; *Haplacanthus perseensis* Gross 1942; *Latvius grenwingki* Gross 1933; *Eusthenopteron saevesoederberghi* Jarvik 1944; *Rhinodipterus secans* Gross 1956: *Moythomasia perforata* Gross 1942.
+> - *Meeksiella pskovensis* (Obruchev, 1947),*Strunius rolandi* Gross 1956 and *Griphognathus minutidens* Gross 1956; were recorded only in the Snetnaya Gora Beds.
+
+***Daugava fauna***, middle Frasnian
+> Daugava Regional Stage, Porkhov, Svinord, Limen and Buregi beds, Main Devonian Field, East European Platform.
+> - Corresponding to the *Bothriolepis trautscholdti* placoderm Zone.
+> - **Pleurosteus trautscholdti*, *Holonema radiatum*, *Gyroplacosteus panderi*, *Eastmanosteus egloni*.
+
+***Snezha and Prilovat fauna***, upper Frasnian
+> Snezha and Prilovat Regional Stages, Main Devonian Field, East European Platform.
+> - *Bothriolepis evaldi*.
+
 ***Pambula River fauna***, lower Frasnian, 382.7, 379.2
 > Pambula River, Victoria; Gogo Formation; Canning Basin, Western Australia, Australia. MAV10.  
 > - *Pambulalepis cobandrahensis* Young, 1983; *Culmacanthus pambulensis* Young, 1989.
@@ -682,6 +703,7 @@ Materpiscis attenborouigh
 Gogoselachus lynbeazleyae
 
  > - **Taxa to be complemented.**
+
 
 ***Nettletons Creek fauna***, lower Frasnian, 382.7, 379.2
 > - MAV11.
