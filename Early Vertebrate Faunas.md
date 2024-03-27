@@ -308,6 +308,8 @@ Lunaspis broili Broili, 1929
 > - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
 > - 
 **From Pernègre and Blieck (2016)**
+> **check from which faunal division the taxon comes. Otherwise, the age is problematic. The gnathostomes above are checked, see above. However, the agnathans remain mixed.**
+
 | Area                            | Clade           | Genus | Speices                                            | References               |
 |---------------------------------|-----------------|-------|----------------------------------------------------|--------------------------|
 | Woodfjorden area                | Pteraspidiforms |       | *Doryaspis arctica*                                | Pernègre, 2002           |
