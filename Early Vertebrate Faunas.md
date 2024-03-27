@@ -109,9 +109,19 @@ MAV15, Grenfell fauna, late Famennian;
 
 # Devonian
 ## Early Devonian
+
+> For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
+
 ***Xitun Vertebrate Fauna***: Pridoli to Pragian.
 This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Huananaspidiformes, Yunnanolepidoidei, and crown sarcopterygians. The following seven assemblages are recognized based on the different tectonic backgrounds and facies.
 Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Qujing, Yunnan.
+
+***_Yulungssu Formation_***
+
+
+**Xia
+
+
 
 | Site         | Clade           | Age        | Formation | Species                                | Chinese Name | References             |
 |--------------|-----------------|------------|-----------|----------------------------------------|-------------|------------------------|
@@ -191,7 +201,6 @@ Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Quji
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Styloichthys change*                    | 张氏蝶柱鱼       | Zhu and Yu, 2002       |
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Meemannia eos*                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
 
-> For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
 
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
 > MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
