@@ -128,36 +128,35 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > Devonian Macrovertebrate Assemblage II of China based on Zhu (2000) 
 
 > **only use English**, delete age, formation, site, Chinese names, which are redundant here.
-| species                       | 
-|-------------------------------|
-| *Polybranchiaspis liaojiaoshanensis*   刘玉海, 1965              |
-|*Polybranchiaspis minor*            刘玉海, 1975              |
-|*Polybranchiaspis yulongssus*         刘玉海, 1975              |
-|*Polybranchiaspis zhanyiensis*           | 沾益多鳃鱼       | 潘江和王士涛, 1978           |
-|*Polybranchiaspis miandiancunensis*      | 面店村多鳃鱼      | 潘江和王士涛, 1978           |
-|*Eugaleaspis changi*                     | 张氏真盔甲鱼      | 刘玉海, 1965              |
-|*Eugaleaspis xujiachongensis*            | 徐家冲真盔甲鱼     | 刘玉海, 1975              |
-|*Laxaspis qujingensis*                   | 曲靖宽甲鱼       | 刘玉海, 1975              |
-|*Laxaspis yulongssus*                    | 玉龙寺宽甲鱼      | 刘玉海, 1975              |
-|*Pseudolaxaspis rostrata*                | 长吻假宽甲鱼      | 刘玉海, 1975              |
-|*Diandongaspis xishancunensis*           | 西山村滇东鱼      | 刘玉海, 1975              |
-|*Nanpanaspis microculus*                 | 小眼南盘鱼       | 刘玉海, 1965              |
-|*Dongfangaspis qujingensis*              | 曲靖东方鱼       | 潘江和王士涛, 1981           |
-|*Sanchaspis magalarostrata*              | 宽大吻突三岔鱼     | 潘江和王士涛, 1981           |
-|*Yunnanogaleaspis major*                 | 硕大云南盔甲鱼     | 潘江和王士涛, 1981           |
-|*Damaspis vartus*                        | 变异坝鱼        | 王念忠和王俊卿, 1982          |
-|*Pterogonaspis yuhaii*                   | 玉海翼角鱼       | 朱敏, 1992               |
-|*Nochelaspis maeandrine*                 | 漫游憨鱼        | 朱敏, 1992               |
-|*Gantarostrataspis geni*                 | 耿氏鸭吻鱼       | 王念忠和王俊卿, 1992          |
-|*Pentathyraspis pelta*                   | 盾状五窗鱼       | Pan, 1992              |
-|*Microhoplonaspis microthyris*           | 小孔微盔鱼       | Pan, 1992              |
-|*Hyperaspis acclivis*                    | 陡背耸刺鱼       | Pan, 1992              |
-|*Stephaspis dipteriga*                   | 双翼王冠鱼       | Gai and Zhu, 2007      |
-|*Altigibbaspis huiqingae*                | 惠清驼背鱼       | Liu et al., 2018       |
-|*Qushiaspis elaia*                       | 橄榄纹曲师鱼      | Jiang et al., 2021     |
-|*Falxcornus liui*                        | 刘氏镰角鱼       | Meng and Gai, 2021     |
-|*Xitunaspis magnus*                      | 硕大西屯鱼       | Sun et al., 2022       |
-|*Siyingia perlatuspinosa*                | 宽棘四营鱼       | Si et al., 2015        |
+> **Note, not all the taxa below come from the Xitun Formation. Some of them from the Xishancun Formation。**
+*Polybranchiaspis liaojiaoshanensis*   刘玉海, 1965
+*Polybranchiaspis minor*            刘玉海, 1975
+*Polybranchiaspis yulongssus*         刘玉海, 1975
+*Polybranchiaspis zhanyiensis*          潘江和王士涛, 1978
+*Polybranchiaspis miandiancunensis*    潘江和王士涛, 1978
+*Eugaleaspis changi*                     刘玉海, 1965
+*Eugaleaspis xujiachongensis*         刘玉海, 1975
+*Laxaspis qujingensis*              刘玉海, 1975
+*Laxaspis yulongssus*                刘玉海, 1975
+*Pseudolaxaspis rostrata*           刘玉海, 1975
+*Diandongaspis xishancunensis*      刘玉海, 1975
+*Nanpanaspis microculus*           刘玉海, 1965
+*Dongfangaspis qujingensis*          潘江和王士涛, 1981
+*Sanchaspis magalarostrata*        潘江和王士涛, 1981
+*Yunnanogaleaspis major*            潘江和王士涛, 1981
+*Damaspis vartus*                    王念忠和王俊卿, 1982
+*Pterogonaspis yuhaii*                 朱敏, 1992
+*Nochelaspis maeandrine*               朱敏, 1992
+*Gantarostrataspis geni*           王念忠和王俊卿, 1992
+*Pentathyraspis pelta*               Pan, 1992
+*Microhoplonaspis microthyris*      Pan, 1992
+*Hyperaspis acclivis* Pan, 1992
+*Stephaspis dipteriga* Gai and Zhu, 2007
+*Altigibbaspis huiqingae* Liu et al., 2018
+*Qushiaspis elaia* Jiang et al., 202
+*Falxcornus liui* Meng and Gai, 2021
+*Xitunaspis magnus* Sun et al., 2022
+*Siyingia perlatuspinosa* Si et al., 2015
 
 
 
