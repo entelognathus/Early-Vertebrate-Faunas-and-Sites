@@ -481,7 +481,7 @@ Lunaspis broili Broili, 1929
 
 
 ***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
-> Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
+> Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
 
 ***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
 > Mulga Downs Group; western New South Wales, Australia. MAV2.
@@ -576,9 +576,20 @@ Lunaspis broili Broili, 1929
 
 
 
-MAV3, Hatchery Creek-?Cravens Peak fauna, Eifelian;
-MAV4, *Wurungulepis* fauna, late Eifelian;
-MAV5, *Nawagiaspis* fauna, early Givetian;
+****Hatchery Creek-?Cravens Peak fauna****, Eifelian;
+> Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia. MAV3,
+> - The Hatchery Creek Group comprises Hatchery the Wee Jasper Formation (below) and the Corradigbee Formation (above), underlain by the Murrumbidgee Group limestones.
+> - Thelodontida: *Turinia* sp. cf. *T. hutkensis* Blieck & Goujet (Young & Gorter, 1981)
+> - Acanthodii: climatiid gen. et sp. indet., ?diplacanthiform gen. et sp. indet., *Tareyacanthus* sp. cf. *T. magnificus* Valiukevicius (Burrow
+2002), *Watsonacanthus*? sp. (Burrow 2002)
+> - cf. Kenichthys [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
+> - Placodermi: Edgellaspis gorteri Hunt & Young 2011; Denisonosteus weejasperensis Young & Gorter 1981; cf. Denisonosteus sp. nov. (Hunt 2005); coccosteomorph cf. Coccosteus (Hunt 2008); Sherbonaspis hillsi Young & Gorter 1981; cf. Sherbonaspis sp. nov. (Hunt 2005); Monarolepis verrucosa (Young & Gorter) Young 1988
+
+***Wurungulepis fauna***, upper Eifelian;
+> MAV4, 
+
+***Nawagiaspis fauna***, lower Givetian;
+> MAV5, 
 
 ***Aztec fauna***: Givetian.
 > Aztec Sandstone, Southern Victoria Land, Antarctica. MAV6.
@@ -594,8 +605,8 @@ MAV5, *Nawagiaspis* fauna, early Givetian;
 > - Chondrichthyes: *Mcmurdodus featherensis* White, 1968; *Antarctilamna prisca* Young, 1982; *Anareodus statei* Long and Young, 1995; *Aztecodus harmsenae* Long and Young, 1995; *Portalodus bradshawae* Long & Young, 1995; ?Elasmobranchii gen. et sp. indet. Burrow et al., 2009
 > - Acanthodii: *Gyracanthides warreni* White, 1968; *Antarctonchus glacialis* White, 1968; *Byssacanthoides debenhami* Woodward, 1921; *Culmacanthus antarctica* Young, 1989; *Milesacanthus antarctica* Young & Burrow, 2004; *Pechoralepis juozasi* Burrow, Long & Trinajstic, 2009; *Nostolepis* sp. cf. *N. gaujensis* Burrow et al., 2009; acanthodid? gen. et sp. indet. Burrow et al., 2009
 
-MAV7, Tatong-South Blue Range fauna, late Givetian;
-
+***Tatong-South Blue Range fauna***, upper Givetian, 384.37, 382.7
+> MAV7, 
 
 ***Taggerty-Mount Howitt Fauna***: upper Givetian, 384.37, 382.7
 > Avon River Group, Mount Howitt; Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
