@@ -509,14 +509,6 @@ Lunaspis broili Broili, 1929
 
 
 
-***Aztec fauna***: Givetian.
-> Aztec Sandstone, Southern Victoria Land, Antarctica.
-> - Agnatha: *Thurinia antarctica* Turner and Young, 1992.
-> - Acannthodii: Cheircanthoides comptus; Gyracanthides warreni White, 1968; Antarctonchus glacialis White, 1968; Byssacanthoides debenhami Woodwardi, 1921; Culmacanthus antarctica Young, 1989.
-> - Placodermi: *Bothriolepis antarctica* Woodward, 1921; *Bothriolepis alexi* Young, 1988; *Bothriolepis barretti* Young, 1988;*Bothriolepis karawaka* Young, 1988; *Bothriolepis kohni* Young, 1988; *Bothriolepis macphersoni* Young, 1988; *Bothriolepis portalensis* Young, 1988; *Bothriolepis vuwae* Young, 1988; *Bothriolepis* sp. indet. 1-13; *Pambulalepis antarctica* Young, 1988; *Groenlandaspis antarcticus* Ritchie, 1975; *Groenlandaspis* spp.; phlyctaeniid spp.; *Austrophyllolepis* sp.; *Antaractaspis mcmurdoensis* White, 1968.
-> - Chondrichthyes: Mcmurdodus featherensis White, 1968; Antarctilamna prisca Young, 1982; xencanathids spp.
-> - Osteichthyes: ?ctenodontid Campbell and Barwick, 1987; ?*Eoctenodus* sp.; *Gyroptychius? antarcticus* (Woodward, 1921); *Koharalepis jarviki* Young *et al*., 1992; *Mahalalepis resima* Young *et al*., 1992; *Pltyethmoidea antarcticus* Young *et al*., 1992; *Vorobjevaia dolonodon* Young *et al*., 1992; *Notorhizodon mackelveyi* Young *et al*., 1992; eusthenopterid indet.; rhizondontid indet.; palaeniscoid indet.
-
 
 **Rousay Formation fauna**: early Givetian
 > Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
@@ -567,9 +559,24 @@ Lunaspis broili Broili, 1929
 |               |                           | *Panderichthys rhombolepis*   |
 
 
-***Mount Howitt Fauna***: uppermost Givetian, 384.37, 382.7 (Long 1999)
-> Avon River Group; Mount Howitt, Victoria, Australia.
-> Also Taggerty locality, Blue Range Formation, near Taggerty, Victoria.
+
+MAV3, Hatchery Creek-?Cravens Peak fauna, Eifelian;
+MAV4, *Wurungulepis* fauna, late Eifelian;
+MAV5, *Nawagiaspis* fauna, early Givetian;
+
+***Aztec fauna***: Givetian.
+> Aztec Sandstone, Southern Victoria Land, Antarctica. MAV6.
+> - Agnatha: *Thurinia antarctica* Turner and Young, 1992.
+> - Acannthodii: Cheircanthoides comptus; Gyracanthides warreni White, 1968; Antarctonchus glacialis White, 1968; Byssacanthoides debenhami Woodwardi, 1921; Culmacanthus antarctica Young, 1989.
+> - Placodermi: *Bothriolepis antarctica* Woodward, 1921; *Bothriolepis alexi* Young, 1988; *Bothriolepis barretti* Young, 1988;*Bothriolepis karawaka* Young, 1988; *Bothriolepis kohni* Young, 1988; *Bothriolepis macphersoni* Young, 1988; *Bothriolepis portalensis* Young, 1988; *Bothriolepis vuwae* Young, 1988; *Bothriolepis* sp. indet. 1-13; *Pambulalepis antarctica* Young, 1988; *Groenlandaspis antarcticus* Ritchie, 1975; *Groenlandaspis* spp.; phlyctaeniid spp.; *Austrophyllolepis* sp.; *Antaractaspis mcmurdoensis* White, 1968.
+> - Chondrichthyes: Mcmurdodus featherensis White, 1968; Antarctilamna prisca Young, 1982; xencanathids spp.
+> - Osteichthyes: ?ctenodontid Campbell and Barwick, 1987; ?*Eoctenodus* sp.; *Gyroptychius? antarcticus* (Woodward, 1921); *Koharalepis jarviki* Young *et al*., 1992; *Mahalalepis resima* Young *et al*., 1992; *Pltyethmoidea antarcticus* Young *et al*., 1992; *Vorobjevaia dolonodon* Young *et al*., 1992; *Notorhizodon mackelveyi* Young *et al*., 1992; eusthenopterid indet.; rhizondontid indet.; palaeniscoid indet.
+
+MAV7, Tatong-South Blue Range fauna, late Givetian;
+
+
+***Taggerty-Mount Howitt Fauna***: upper Givetian, 384.37, 382.7
+> Avon River Group, Mount Howitt; Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
 | Clade        |                 | taxa                            |
@@ -592,6 +599,7 @@ Lunaspis broili Broili, 1929
 |              |                 | *Beelarongia patrichae*         |
 
 
+MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 
 
 ## Late Devonian
