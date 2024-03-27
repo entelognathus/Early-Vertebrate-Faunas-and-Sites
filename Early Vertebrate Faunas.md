@@ -936,8 +936,8 @@ The arthrodires comprise
 > Catskill Formation; Red Hill, Pennsylvania, USA.
 >
 
-***Worange Point fauna***, lower Famennian.
-> Worange Point Formation, Eden-Pambula region, MAV14
+***Worange Point fauna***: lower Famennian.
+> - Worange Point Formation, Eden-Pambula region, MAV14
 > - 
 
 ***Grenfell fauna***, upper Famennian;
