@@ -284,10 +284,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
  ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian
 > Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
 
-> The fish fossils come from the Upper Member of the Peel Sound Formation on the Prince of Wales Island and its correlatives, the Drake Bay Formation of the Prince of Wales Island, and the Snowblind Bay Formation of the Cornwallis Island.
+> - The fish fossils come from the Upper Member of the Peel Sound Formation on the Prince of Wales Island and its correlatives, the Drake Bay Formation of the Prince of Wales Island, and the Snowblind Bay Formation of the Cornwallis Island.
 
-> *Powichthys thorsteinssoni*, *Baringaspis* (Miles, 1973), *Eskimaspis* (Dineley and Liu, 1984),
-> Dineley and Loeffler (1993): "The faunas as a whole suggest correlation with the crouchi zone of the Anglo-Welsh vertebrate succession, the vogti horizon of Vestspitsbergen and the Czortkov horizon of Podolia, and can be dated as late Gedinnian to early Siegenian (Lochkovian-Pragian) from associated invertebrates (Elliott, 1984)." The age as late Lochkovian is appropriate.
+> - *Powichthys thorsteinssoni*, *Baringaspis* (Miles, 1973), *Eskimaspis* (Dineley and Liu, 1984),
+> - Dineley and Loeffler (1993): "The faunas as a whole suggest correlation with the crouchi zone of the Anglo-Welsh vertebrate succession, the vogti horizon of Vestspitsbergen and the Czortkov horizon of Podolia, and can be dated as late Gedinnian to early Siegenian (Lochkovian-Pragian) from associated invertebrates (Elliott, 1984)." The age as late Lochkovian is appropriate.
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > Ben Nevis Formation, Red Bay Group; Spitsbergen.
@@ -297,9 +297,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 ***Beartooth Butte Formation fauna****: Pragian, 410.8, 407.6
 > - Beartooth Butte Formation; Wyoming, USA.
-*Uranolophus wyomingensis*
-
-
+> - *Uranolophus wyomingensis*
 
 ***Hunsrückschiefer fauna***: upper Pragian to lower Emsian, 409.2, 400.45
 > Hunsrückschiefer; Rheinland, Germany.
@@ -490,8 +488,6 @@ Lunaspis broili Broili, 1929
 > See Young (1993, 2000) for the age constraints.
 
 ## Middle Devonian
-
-
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
