@@ -1,4 +1,22 @@
-![image](https://github.com/entelognathus/Early-Vertebrate-Faunas-and-Sites/assets/151889888/e639a96f-6f2a-417f-b057-62c2f1b8ec6f)![image](https://github.com/entelognathus/Early-Vertebrate-Faunas-and-Sites/assets/151889888/dc674398-dffd-49d0-8a8c-4eef332e9c52)**Early Vertebrate Faunas and Sites**
+**Early Vertebrate Faunas and Sites**
+
+> MAV 1-15 of Australian vertebrate zonations based on YOung (1993, 1995, 2000) and Young et al. (2010).
+> - MAV1, Taemas-Buchan fauna, Emsian; 
+MAV2, Wuttagoonaspis fauna, Emsian;
+MAV3, Hatchery Creek-?Cravens Peak fauna, Eifelian;
+MAV4, Wurungulepis fauna, late Eifelian;
+MAV5, Nawagiaspis fauna, early Givetian;
+MAV6, Aztec fuana, Givetian;
+MAV7, Tatong-South Blue Range fauna, late Givetian;
+MAV8, Taggerty-Mt. Howitta fauna, late Givetian;
+MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
+MAV10, Pambula River fauna, early Frasnian;
+MAV11, Nettletons Creek fauna, early Frasnian;
+MAV12, Twofold Bay fauna, late Frasnian;
+MAV13, Jamalong-Canowindra fauna, late Frasnian;
+MAV14, Worange Point fauna, early Famennian;
+MAV15, Grenfell fauna, late Famennian;
+
 
 # Silurian
 ## Llandovery
