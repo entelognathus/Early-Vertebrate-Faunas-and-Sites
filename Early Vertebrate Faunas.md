@@ -1,11 +1,11 @@
 **Early Vertebrate Faunas and Sites**
 
-> MAV 1-15 of Australian vertebrate zonations based on YOung (1993, 1995, 2000) and Young et al. (2010).
+> MAV 1-15 of Australian vertebrate zonations based on Young (1993, 1995, 2000) and Young et al. (2010).
 > - MAV1, Taemas-Buchan fauna, Emsian; 
-MAV2, Wuttagoonaspis fauna, Emsian;
+MAV2, *Wuttagoonaspis* fauna, Emsian;
 MAV3, Hatchery Creek-?Cravens Peak fauna, Eifelian;
-MAV4, Wurungulepis fauna, late Eifelian;
-MAV5, Nawagiaspis fauna, early Givetian;
+MAV4, *Wurungulepis* fauna, late Eifelian;
+MAV5, *Nawagiaspis* fauna, early Givetian;
 MAV6, Aztec fuana, Givetian;
 MAV7, Tatong-South Blue Range fauna, late Givetian;
 MAV8, Taggerty-Mt. Howitta fauna, late Givetian;
