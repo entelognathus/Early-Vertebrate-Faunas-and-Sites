@@ -13,7 +13,7 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 MAV10, Pambula River fauna, early Frasnian;
 MAV11, Nettletons Creek fauna, early Frasnian;
 MAV12, Twofold Bay fauna, late Frasnian;
-MAV13, Jamalong-Canowindra fauna, late Frasnian;
+MAV13, Jamalong-Canowindra fauna, late Frasnian to early Famennian;
 MAV14, Worange Point fauna, early Famennian;
 MAV15, Grenfell fauna, late Famennian;
 
@@ -628,9 +628,13 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 |               |                 | *Osteolepididae gen. et sp. indet.* |
 | Pisces indet. |                 | *Holopterygius nudus*               |
 
+***Pambula River fauna***, lower Frasnian, 382.7, 379.2
+> Pambula River, Victoria; Gogo Formation; Canning Basin, Western Australia, Australia. MAV10.  
+> - *Pambulalepis cobandrahensis* Young, 1983; *Culmacanthus pambulensis* Young, 1989.
 
 ***Gogo Formation Lagerstatte***: lower Frasnian, 382.7, 379.2
-> Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> Gogo Formation; Canning Basin, Australia. -17.75, 125.17. part of MAV10.
+
 > - Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 
 > -The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
@@ -673,6 +677,20 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 |              |                 | *Pillararhynchus longi*       |
 |              |                 | *Griphognathus whitei*        |
 |              |                 | *Gogonasus andrewsi*          |
+
+***Nettletons Creek fauna***, lower Frasnian, 382.7, 379.2
+> - MAV11.
+> - *Placolepis budwawangensis* Ritchie, 1984 .
+
+
+****Twofold Bay fauna***, upper Frasnian
+> - MAV12.
+> -  
+
+***Jamalong-Canowindra fauna***, upper Frasnian to lower Famennian
+> - Mandagery Sandstone, Canowindra, New South Wales, Australia. MAV13
+> - 
+
 
 ***Amata Formation fauna***: lower Frasnian, 382.7, 379.2
 > Amata Formation, Pasta muiza, Latvia.
@@ -794,8 +812,6 @@ Elpistostege watsoni
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
 
-
-
 ***Okse Bay Formation fauna***: Franian?
 > Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
 
@@ -816,8 +832,6 @@ H. sp. cf. H. tuberculatus
 Glyptolepis sp. or Holoptychius sp.
 Osteolepididae
 Osteolepis sp.
-
-
 
 
 ***Cleveland Shale fauna***: upper Famennian. 
@@ -874,7 +888,6 @@ The arthrodires comprise
 |                   |                | *Proceratodus wagneri*           |
 
 
-
 ***East Greenland Upper Devonian fauna***: Famennian.
 > Britta Dal and Aina Dal Formations; East Greenland, Denmark.
 
@@ -884,5 +897,11 @@ The arthrodires comprise
 ***Catskill Formation fauna***: Famennian.
 > Catskill Formation; Red Hill, Pennsylvania, USA.
 >
-***Canowindra fauna***: Famennian
-> Mandagery Sandstone, Canowindra, NSW, Australia.
+
+***Worange Point fauna***, lower Famennian.
+> Worange Point Formation, Eden-Pambula region, MAV14
+> - 
+
+***Grenfell fauna***, upper Famennian;
+> Hunter Siltstone, Hervey Group, Grenfell, MAV15.
+> *Grenfellaspis branagani* Ritchie et al., 1992 
