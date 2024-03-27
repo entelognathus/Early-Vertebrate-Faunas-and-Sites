@@ -128,14 +128,15 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > Devonian Macrovertebrate Assemblage II of China based on Zhu (2000) 
 
 > **only use English**, delete age, formation, site, Chinese names, which are redundant here.
-
- *Polybranchiaspis liaojiaoshanensis*|   刘玉海, 1965              |
- *Polybranchiaspis minor*           | 刘玉海, 1975              |
- *Polybranchiaspis yulongssus*            | 玉龙寺多鳃鱼      | 刘玉海, 1975              |
- *Polybranchiaspis zhanyiensis*           | 沾益多鳃鱼       | 潘江和王士涛, 1978           |
- *Polybranchiaspis miandiancunensis*      | 面店村多鳃鱼      | 潘江和王士涛, 1978           |
- *Eugaleaspis changi*                     | 张氏真盔甲鱼      | 刘玉海, 1965              |
- *Eugaleaspis xujiachongensis*            | 徐家冲真盔甲鱼     | 刘玉海, 1975              |
+| species                       | 
+|-------------------------------|
+| *Polybranchiaspis liaojiaoshanensis*   刘玉海, 1965              |
+|*Polybranchiaspis minor*            刘玉海, 1975              |
+|*Polybranchiaspis yulongssus*         刘玉海, 1975              |
+| *Polybranchiaspis zhanyiensis*           | 沾益多鳃鱼       | 潘江和王士涛, 1978           |
+| *Polybranchiaspis miandiancunensis*      | 面店村多鳃鱼      | 潘江和王士涛, 1978           |
+| *Eugaleaspis changi*                     | 张氏真盔甲鱼      | 刘玉海, 1965              |
+|*Eugaleaspis xujiachongensis*            | 徐家冲真盔甲鱼     | 刘玉海, 1975              |
  *Laxaspis qujingensis*                   | 曲靖宽甲鱼       | 刘玉海, 1975              |
  *Laxaspis yulongssus*                    | 玉龙寺宽甲鱼      | 刘玉海, 1975              |
  *Pseudolaxaspis rostrata*                | 长吻假宽甲鱼      | 刘玉海, 1975              |
