@@ -706,8 +706,12 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 |              |                 | *Gogonasus andrewsi*          |
 
 *Materpiscis attenborouigh*; 
+
 *Gogoselachus lynbeazleyae* Long et al., 2015; 
+
 *Pickeringius acanthophorus* Choo et al., 2018; 
+
+*Halimacanthodes ahlbergi* Burrow et al., 2012
 
  > - **Taxa to be complemented.**
 
