@@ -564,11 +564,17 @@ MAV5, *Nawagiaspis* fauna, early Givetian;
 
 ***Aztec fauna***: Givetian.
 > Aztec Sandstone, Southern Victoria Land, Antarctica. MAV6.
+
 > - Agnatha: *Thurinia antarctica* Turner and Young, 1992.
-> - Acannthodii: Cheircanthoides comptus; Gyracanthides warreni White, 1968; Antarctonchus glacialis White, 1968; Byssacanthoides debenhami Woodwardi, 1921; Culmacanthus antarctica Young, 1989.
-> - Placodermi: *Bothriolepis antarctica* Woodward, 1921; *Bothriolepis alexi* Young, 1988; *Bothriolepis barretti* Young, 1988;*Bothriolepis karawaka* Young, 1988; *Bothriolepis kohni* Young, 1988; *Bothriolepis macphersoni* Young, 1988; *Bothriolepis portalensis* Young, 1988; *Bothriolepis vuwae* Young, 1988; *Bothriolepis* sp. indet. 1-13; *Pambulalepis antarctica* Young, 1988; *Groenlandaspis antarcticus* Ritchie, 1975; *Groenlandaspis* spp.; phlyctaeniid spp.; *Austrophyllolepis* sp.; *Antaractaspis mcmurdoensis* White, 1968.
-> - Chondrichthyes: Mcmurdodus featherensis White, 1968; Antarctilamna prisca Young, 1982; xencanathids spp.
-> - Osteichthyes: ?ctenodontid Campbell and Barwick, 1987; ?*Eoctenodus* sp.; *Gyroptychius? antarcticus* (Woodward, 1921); *Koharalepis jarviki* Young *et al*., 1992; *Mahalalepis resima* Young *et al*., 1992; *Pltyethmoidea antarcticus* Young *et al*., 1992; *Vorobjevaia dolonodon* Young *et al*., 1992; *Notorhizodon mackelveyi* Young *et al*., 1992; eusthenopterid indet.; rhizondontid indet.; palaeniscoid indet.
+
+> - Placodermi: *Bothriolepis antarctica* Woodward, 1921; *Bothriolepis alexi* Young, 1988; *Bothriolepis askinae* Young, 1988; *Bothriolepis barretti* Young, 1988;*Bothriolepis karawaka* Young, 1988; *Bothriolepis kohni* Young, 1988; *Bothriolepis macphersoni* Young, 1988; *Bothriolepis mawsoni* Young, 1988; *Bothriolepis portalensis* Young, 1988; *Bothriolepis vuwae* Young, 1988; *Bothriolepis* sp. indet. 1-13; *Pambulalepis antarctica* Young, 1988; *Venezuelepis antarctica* Young & Moody, 2002；*Antarctolepis gunni* White, 1968; *Barwickosteus antarcticus* Young and Long, 2014; *Groenlandaspis antarcticus* Ritchie, 1975; *Groenlandaspis* spp.; *Antaractaspis mcmurdoensis* White, 1968; *Boomeraspis goujeti* Long, 1995; *Grifftaylor antarcticus*Young and Long, 2014; ?*Mulgaspis* sp. indet.; ?*Turrisaspis* sp. indet.; *Austrophyllolepis quiltyi* Young & Long, 2005; *Placolepis tingeyi* Young & Long, 2005; *Yurammia* sp. nov. Young, 2005
+
+> - Dipnoi: ?*Eoctenodus* sp.; *Howidipterus* sp.; ?ctenodontid indet. Campbell and Barwick, 1987
+> - Rhipidistia: *Gyroptychius? antarcticus* (Woodward 1921);  *Koharalepis jarviki* Young *et al*., 1992; *Mahalalepis resima* Young *et al*., 1992; *Pltyethmoidea antarcticus* Young *et al*., 1992; *Vorobjevaia dolonodon* Young *et al*., 1992; *Notorhizodon mackelveyi* Young *et al*., 1992; *Aztecia mahalae* Johanson & Ahlberg, 2001; porolepiform indet.
+> - Actinopterygii: *Donnrosenia schaefferi* Long et al., 2008; ?palaeoniscoid indet. [type III of White 1968]
+
+> - Chondrichthyes: *Mcmurdodus featherensis* White, 1968; *Antarctilamna prisca* Young, 1982; *Anareodus statei* Long and Young, 1995; *Aztecodus harmsenae* Long and Young, 1995; *Portalodus bradshawae* Long & Young, 1995; ?Elasmobranchii gen. et sp. indet. Burrow et al., 2009
+> - Acanthodii: *Gyracanthides warreni* White, 1968; *Antarctonchus glacialis* White, 1968; *Byssacanthoides debenhami* Woodward, 1921; *Culmacanthus antarctica* Young, 1989; *Milesacanthus antarctica* Young & Burrow, 2004; *Pechoralepis juozasi* Burrow, Long & Trinajstic, 2009; *Nostolepis* sp. cf. *N. gaujensis* Burrow et al., 2009; acanthodid? gen. et sp. indet. Burrow et al., 2009
 
 MAV7, Tatong-South Blue Range fauna, late Givetian;
 
@@ -699,8 +705,9 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 |              |                 | *Griphognathus whitei*        |
 |              |                 | *Gogonasus andrewsi*          |
 
-Materpiscis attenborouigh
-Gogoselachus lynbeazleyae
+*Materpiscis attenborouigh*; 
+*Gogoselachus lynbeazleyae* Long et al., 2015; 
+*Pickeringius acanthophorus* Choo et al., 2018; 
 
  > - **Taxa to be complemented.**
 
