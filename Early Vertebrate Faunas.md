@@ -483,6 +483,98 @@ Lunaspis broili Broili, 1929
 ***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
 > Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
 
+AGNATHA
+Thelodontida
+1. Turinia sp. cf. T. australiensis Basden, 1999
+GNATHOSTOMATA
+ACANTHODII
+2. Cheiracanthoides comptus Giffi n, 1980
+3. Cheiracanthoides sp. cf. C. wangi [Basden, 2001]
+4. Taemasacanthus erroli Long, 1986
+5. Taemasacanthus porca Lindley, 2000
+6. Taemasacanthus narrengullenensis Lindley, 2002a
+7. Taemasacanthus cooradigbeensis Lindley, 2002a
+8. Cavanacanthus warrooensis Lindley, 2000
+9. Cambaracanthus goodhopensis Lindley, 2000
+10. Nostolepis guangxiensis Wang, 1992 [Basden, 2001]
+11. Nostolepoides platymarginata Burrow, 1997 [Basden, 2001]
+12. Trundlelepis cervicostulata Burrow, 1997 [Basden, 2001]
+13. Gomphonchus? bogongensis Burrow, 1997 [Basden, 2001]
+OSTEICHTHYES
+Actinopterygii
+14. Ligulalepis toombsi Schultze, 1968 
+Sarcopterygii
+15. Onychodus yassensis Lindley, 2002b
+16. ?osteolepid indet. Lindley, 2002b
+17. porolepiform indet. Young, 1985
+Dipnoi
+Dipnorhynchidae
+18. Dipnorhynchus sussmilchi (Etheridge) Hills, 1941
+19. D. kurikae Campbell and Barwick, 1985, 2000 
+20. D.(Placorhynchus) cathlesae Campbell and Barwick, 1999; Campbell et al., 2009 
+21. Speonesydrion iani Campbell and Barwick, 1983
+22. Cathlorhynchus trismodipterus Campbell, Barwick and Senden, 2009 
+CHONDRICHTHYES
+23. Ohiolepis sp. Ørvig, 1969
+24. Skamolepis fragilis Giffi n, 1980
+PLACODERMI
+Arthrodira
+25. Buchanosteus confertituberculatus Young, 1979
+26. Parabuchanosteus murrumbidgeensis White and Toombs, 1972
+27. buchanosteid n. sp. [ridged ornament] ANU 49387 [skull, braincase]
+28. buchanosteid n. sp. [anterior nasal openings] ANU V2418 [rostral capsule]
+29. Burrinjucosteus asymmetricus White, 1978
+30. Goodradigbeeon australianum White, 1978
+31. Taemasosteus novaustrocambricus White, 1952
+32. Toombsosteus denisoni White, 1978
+33. Arenipiscis westolli Young, 1981
+34. Errolosteus goodradigbeensis Young, 1981
+35. Williamsaspis bedfordi White, 1952
+36. Cavanosteus australis (McCoy) Young, 2004a
+37. Cathlesichthys weejasperensis Young, 2004b
+38. Dhanguura johnstoni Young, 2004b
+39. Bimbianga burrinjuckensis Young, 2005
+40. ?holonematid n. g. [?Bimbianga sp. 2] ANU V2933 [SO plate]
+41. Elvaspis tuberculata Young, 2009
+42. Elvaspis whitei Young, 2009
+43. small brachythoracid n. g. ANU 49384 [complete skeletons]
+44. brachythoracid n.g. 1‘highly arched’ (Young, 2009, p. 76) ANU V114 [PNu plate]
+45. brachythoracid n.g. 2 [long para-articular process] ANU V156 [PNu plate]
+46. brachythoracid n.g. 3 [MD contacts vertebral column] ANU V3118 [MD plate]
+47. brachythoracid n.g. 4 [MD rounded carinal process; ANU V1059, 2386, 2403, 35332]
+48. ?heterostiid n.g. [long cheek] ANU V79 [SO plate]
+49. ?Antineosteus n.sp. ANU V1970 [SO plate]
+50. ?Atlantidosteus n.sp. ANU V2946 [SO plate]
+51. ‘coccosteid’ [lacking median spine] ANU V2899 [MD plate]
+52. ‘coccosteid’ [posterior median spine] sp. 1 ANU V124, 1209, 2447 [MD plates]
+53. ‘coccosteid’ [smooth posterior median spine] sp. 2 ANU V 3244 [MD]
+54. ‘coccosteid’ [no spine; posterior carinal process] ANU V1863 [MD] 
+Acanthothoraci
+55. Weejasperaspis gavini White, 1978
+56. weejasperaspid n.g. [long spinal] ANU V38 [shoulder girdle]
+57. Brindabellaspis stensioi Young, 1980
+58. brindabellaspid n.g. [with spines] ANU V1062, 1264, 1883, 2925 [shoulder girdles, spines]
+59. Murrindalaspis wallacei Long and Young, 1988
+Rhenanida
+60. rhenanid n.g. ANU V1077 [skull and braincase]
+Petalichthyida
+61. Notopetalichthys hillsi Woodward, 1941
+62. Wijdeaspis warrooensis Young, 1978
+63. Shearsbyaspis oepiki Young, 1985
+64. Lunaspis sp. Young, 1985
+65. petalichthyid n.g. ANU V2859 [skull and braincase]
+Ptyctodontida
+66. ptyctodontid n.g. Young, 1976
+67. ?ptyctodontid n. g. ANU V2902 [skull and braincase]
+Placodermi incertae sedis
+68. placoderm n.g. [reverse neckjoint articulation] ANU V2392 [ADL plate]
+69. placoderm n.g. [indet. bone] ANU V3123 [shoulder girdle plate]
+Gnathostomata incertae sedis
+70. new genus and species [‘fi sh vertebrae’; Zapaznik and Johnston, 1984]
+Incertae Sedis
+71. Ohioaspis tumulosa Giffi n, 1980
+
+
 ***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
 > Mulga Downs Group; western New South Wales, Australia. MAV2.
 > See Young (1993, 2000) for the age constraints.
