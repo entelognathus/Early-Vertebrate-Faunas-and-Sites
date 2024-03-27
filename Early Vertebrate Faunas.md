@@ -15,8 +15,9 @@ MAV11, Nettletons Creek fauna, early Frasnian;
 MAV12, Twofold Bay fauna, late Frasnian;
 MAV13, Jamalong-Canowindra fauna, late Frasnian to early Famennian;
 MAV14, Worange Point fauna, early Famennian;
-MAV15, Grenfell fauna, late Famennian;
+MAV15, Grenfell fauna, late Famennian
 
+> Devonian Macrovertebrate Assemblages I-XI of China based on Zhu (2000) 
 
 # Silurian
 ## Llandovery
@@ -117,12 +118,15 @@ This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Hu
 Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunnan.
 
 **Yulungssu Formation**: Pridoli
-> 
+> ???
 
 **Xishancun Formation**: lower Lochkovian
+> Devonian Macrovertebrate Assemblages I of China based on Zhu (2000) 
 > 
 
 **Xitun Formation**: upper Lochkovian
+> Devonian Macrovertebrate Assemblage II of China based on Zhu (2000) 
+
 > **only use English**, delete age, formation, site, Chinese names, which are redundant here.
 
 
@@ -204,12 +208,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Styloichthys change*                    | 张氏蝶柱鱼       | Zhu and Yu, 2002       |
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Meemannia eos*                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
 
-**Guijiatun Formation**: lower Pragian
-> 
-
-**Xujiachong Formation**: upper Prgian
-> 
-
+**Guijiatun and Xujiachong Formations**: Pragian
+> > Devonian Macrovertebrate Assemblage III of China based on Zhu (2000) 
 
 
 
