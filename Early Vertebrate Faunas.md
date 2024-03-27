@@ -209,7 +209,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 | Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Meemannia eos*                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
 
 **Guijiatun and Xujiachong Formations**: Pragian
-> > Devonian Macrovertebrate Assemblage III of China based on Zhu (2000) 
+> Devonian Macrovertebrate Assemblage III of China based on Zhu (2000) 
 
 
 
@@ -283,7 +283,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
  ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian
 > Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
->
+
 > The fish fossils come from the Upper Member of the Peel Sound Formation on the Prince of Wales Island and its correlatives, the Drake Bay Formation of the Prince of Wales Island, and the Snowblind Bay Formation of the Cornwallis Island.
 
 > *Powichthys thorsteinssoni*, *Baringaspis* (Miles, 1973), *Eskimaspis* (Dineley and Liu, 1984),
