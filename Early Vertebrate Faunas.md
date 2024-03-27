@@ -67,7 +67,6 @@
 
 > Horizons: Kuanti, Miaogao, and Yulungssu formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
 
-
 | Clade           |                          | taxa                            |
 |-----------------|--------------------------|---------------------------------|
 | Thelodonti      |                          | *Thelodus sinensis*             |
@@ -92,10 +91,157 @@
 
 # Devonian
 ## Early Devonian
+***Xitun Vertebrate Fauna***: Pridoli to Pragian.
+This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Huananaspidiformes, Yunnanolepidoidei, and crown sarcopterygians. The following seven assemblages are recognized based on the different tectonic backgrounds and facies.
+Horizons: Yulungssu,  Xishancun, Xiun, Guijiatun, Xujiachong, formations in Qujing, Yunnan.
+
+| Site         | Clade           | Age        | Formation | Species                                | Chinese Name | References             |
+|--------------|-----------------|------------|-----------|----------------------------------------|-------------|------------------------|
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis liaojiaoshanensis*     | 廖角山多鳃鱼      | 刘玉海, 1965              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis minor*                 | 小甲多鳃鱼       | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis yulongssus*            | 玉龙寺多鳃鱼      | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis zhanyiensis*           | 沾益多鳃鱼       | 潘江和王士涛, 1978           |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Polybranchiaspis miandiancunensis*      | 面店村多鳃鱼      | 潘江和王士涛, 1978           |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Eugaleaspis changi*                     | 张氏真盔甲鱼      | 刘玉海, 1965              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Eugaleaspis xujiachongensis*            | 徐家冲真盔甲鱼     | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Laxaspis qujingensis*                   | 曲靖宽甲鱼       | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Laxaspis yulongssus*                    | 玉龙寺宽甲鱼      | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Pseudolaxaspis rostrata*                | 长吻假宽甲鱼      | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Diandongaspis xishancunensis*           | 西山村滇东鱼      | 刘玉海, 1975              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Nanpanaspis microculus*                 | 小眼南盘鱼       | 刘玉海, 1965              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Dongfangaspis qujingensis*              | 曲靖东方鱼       | 潘江和王士涛, 1981           |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Sanchaspis magalarostrata*              | 宽大吻突三岔鱼     | 潘江和王士涛, 1981           |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Yunnanogaleaspis major*                 | 硕大云南盔甲鱼     | 潘江和王士涛, 1981           |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Damaspis vartus*                        | 变异坝鱼        | 王念忠和王俊卿, 1982          |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Pterogonaspis yuhaii*                   | 玉海翼角鱼       | 朱敏, 1992               |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Nochelaspis maeandrine*                 | 漫游憨鱼        | 朱敏, 1992               |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Gantarostrataspis geni*                 | 耿氏鸭吻鱼       | 王念忠和王俊卿, 1992          |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Pentathyraspis pelta*                   | 盾状五窗鱼       | Pan, 1992              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Microhoplonaspis microthyris*           | 小孔微盔鱼       | Pan, 1992              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Hyperaspis acclivis*                    | 陡背耸刺鱼       | Pan, 1992              |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Stephaspis dipteriga*                   | 双翼王冠鱼       | Gai and Zhu, 2007      |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Altigibbaspis huiqingae*                | 惠清驼背鱼       | Liu et al., 2018       |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Qushiaspis elaia*                       | 橄榄纹曲师鱼      | Jiang et al., 2021     |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Falxcornus liui*                        | 刘氏镰角鱼       | Meng and Gai, 2021     |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Xitunaspis magnus*                      | 硕大西屯鱼       | Sun et al., 2022       |
+| Yunnan,China | Galeaspis       | Lochkovian | Xitun     | *Siyingia perlatuspinosa*                | 宽棘四营鱼       | Si et al., 2015        |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus scitulus*                  | 雅致副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus asiatica*                  | 亚洲副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus catalatus*                 | 次翼副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus corniformis*               | 角状副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus trilobatus*                | 三裂副花鳞鱼      | 王念忠, 1997              |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus xitunensis*                | 西屯副花鳞鱼      | Cui et al., 2020       |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus wangi*                     | 王氏副花鳞鱼      | Cui et al., 2020       |
+| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus liaokuoensis*              | 寥廓副花鳞鱼      | Cui et al., 2020       |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis chii*                      | 计氏云南鱼       | Liu, 1963              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis parvus*                    | 小云南鱼        | 张国瑞, 1978              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis porifera*                  | 多孔云南鱼       | Zhu, 1996              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis* sp.                       | 云南鱼未定种      | Zhu, 1996              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Heteroyunnanolepis qujingensis*         | 曲靖异云南鱼      | 王中山, 1994              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Parayunnanolepis xitunensis*            | 西屯副云南鱼      | 张国瑞等, 2001             |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Phymolepis cuifengshanensis*            | 翠峰山长瘤鱼      | 张国瑞, 1978              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Phymolepis guoruii*                     | 国瑞长瘤鱼       | Zhu, 1996              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis gracilis*                 | 秀丽曲靖鱼       | 张国瑞, 1978              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis qujingensis*              | 曲靖曲靖鱼       | 张国瑞, 1984              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis sulcate*                  | 浅沟曲靖鱼       | Zhu, 1996              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis robusta*                  | 粗壮曲靖鱼       | Zhu, 1996              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Zhanjilepis aspratilis*                 | 粗纹沾益鱼       | 张国瑞, 1978              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Szelepis yunnanensis*                   | 云南斯氏鱼       | 刘玉海, 1979              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Mizia longhuaensis*                     | 龙华山米字鱼      | Zhu, 1996              |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Minicrania lirouyii*                    | 李柔义小头鱼      | Zhu and Janvier, 1996  |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Holopetalichthys longhuaensis*          | 龙华全瓣鱼       | 朱敏和王俊卿, 1996           |
+| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Diandongpetalichthys liaojiaoshanensis* | 廖角山滇东瓣甲鱼    | 潘江和王士涛, 1978           |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Yunnanacanthus cuifengshanensis*        | 翠峰山云南棘鱼     | 刘时藩, 1973              |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Youngacanthus gracilis*                 | 秀丽杨氏棘鱼      | Wang, 1984             |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Hanilepis wangi*                        | 王氏哈尼鱼       | 王念忠和董致中, 1989          |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis striata*                     | 条纹背棘鱼       | Li et al., 2021        |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis amplifica*                   | 扩展背棘鱼       | Li et al., 2021        |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis consueta*                    | 平凡背棘鱼       | Li et al., 2021        |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis qujingensis*                 | 曲靖背棘鱼       | Li et al., 2021        |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis digitus*                     | 指状背棘鱼       | Li et al., 2021        |
+| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis* sp.                         | 背棘鱼未定种      | Wang, 1984             |
+| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Gualepis elegans*                       | 精美郭氏鱼       | Wang, 1984             |
+| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Changolepis tricuspidus*                | 三尖张氏鱼       | Wang, 1984             |
+| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Peilepis solida*                        | 密肋裴氏鱼       | Wang, 1984             |
+| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Ohiolepis Xitunensis*                   | 西屯俄亥俄鱼      | Wang, 1984             |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Psarolepis romeri*                      | 罗氏斑鳞鱼       | Yu, 1998               |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Psarolepis* sp.                         | 斑鳞鱼未定种      | Zhu and Schultze, 1997 |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Achoania jarviki*                       | 雅氏无孔鱼       | Zhu et al., 2001       |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Youngolepis praecursor*                 | 先驱杨氏鱼       | Chang and Yu, 1981     |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Youngolepis* sp.                        | 杨氏鱼未定种      | Chang and Yu, 1991     |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Diabolichthys speratus*                 | 希望奇异鱼       | Chang and Yu, 1984     |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Styloichthys change*                    | 张氏蝶柱鱼       | Zhu and Yu, 2002       |
+| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Meemannia eos*                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
+
 > For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
 
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
 > MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
+
+(Wilson et al., 2000)
+| Formation | Clade            | Genus | Speices                                     | References                                           |
+|-----------|------------------|-------|---------------------------------------------|------------------------------------------------------|
+|           | Heterostraci     |       | *AserotOJpis canadensis*                    | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Lepidaspis urrata*                         | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | cf. *Lepidaspis* sp. indet., Type 1         | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | cf. *Lepidaspis* sp. indet., Type 2         | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Dinaspidella elizabethae*                  | Bueck and Heintz, 1983                               |
+|           | Heterostraci     |       | *Nahanniaspis mackenziei*                   | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Pionaspis amplissima*                      | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Poraspis polaris *                         | KIAER and Heintz, 1935, Dineley and Loeffler, 1976   |
+|           | Heterostraci     |       | *Poraspis* sp. indet.                       | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | Poraspidoidei gen. et sp. indet.            |                                                      |
+|           | Heterostraci     |       | *Cyathaspidinae* gen. et sp. indet., Type I | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | *Canadapterarpis alocostomata*              | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | ?*Protopterapis* sp. nov.                   |                                                      |
+|           | Heterostraci     |       | Pteraspidinae gen. et sp. indet.            | Dineley and Loeffler, 1976                           |
+|           | Heterostraci     |       | Pteraspidiformes gen. et sp. indet. 1       |                                                      |
+|           | Heterostraci     |       | Pteraspidiformes gen. et sp. indet. 2       |                                                      |
+|           | Heterostraci     |       | Heterostraci gen. et sp,. indet., Type 6    | Dineley and Loeffler, 1976                           |
+|           | Furcacaudiformes |       | *Cometicercus talimaaae *                   | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | *Drepanolepis maerssae*                     | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | *Sphenonectris turnerae*                    | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | *Furcacduda Heintzae *                      | Dineley and Loeffler, 1976;Wilson and Caldwell, 1998 |
+|           | Furcacaudiformes |       | *Furcacauda fredholmae *                    | Wilson and Caldwell, 1998                            |
+|           | Furcacaudiformes |       | Furcacaudiformes gen. et sp. nov.           | Wilson and Caldwell, 1998                            |
+|           | Osteostraci      |       | *Superciliaspis gabrielsei*                 | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | *Waengsjoeaspis mahanniensis*               | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | *Diademaspis mackenziensis*                 | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 1      | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 2      | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 3      | Dineley and Loeffler, 1976                           |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 4      | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | Osteostraci gen. et sp. indet., Type 5      | Adrain and Wilson, 1994                              |
+|           | Osteostraci      |       | Osteostraci gen. et sp. nov. 1              | Wilson et al., 2000                                  |
+|           | Osteostraci      |       | Osteostraci gen. et sp. nov. 2              | Wilson et al., 2000                                  |
+|           | Osteostraci      |       | Osteostraci gen. et sp. nov. 3              | Wilson et al., 2000                                  |
+|           | Placoderms       |       | *Romundina stellina*                        | "Ørvig, 1975                                         |
+| "         |
+|           | Acanthodians     |       | *Lupopsyrus pygmaeus*                       | Bernacsek and Dineley, 1977                          |
+|           | Acanthodians     |       | cf. *Lupopsyrus* sp.                        | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Brochoadmones milesi*                      | Bernacsek and Dineley, 1977                          |
+|           | Acanthodians     |       | *Brochoadmones* sp.                         | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Nostolepis striata*                        | Pander, 1856                                         |
+|           | Acanthodians     |       | *Gladiobranchus probaton*                   | Bernacsek and Dineley, 1977                          |
+|           | Acanthodians     |       | *Tetanopsyrus lindoei*                      | Gagnier et al., 1999                                 |
+|           | Acanthodians     |       | *Tetanopsyrus* sp.                          | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Ischnacanthus* cf. I. gracilis             | Egerton, 1861                                        |
+|           | Acanthodians     |       | *Mesacanthidae gen. et sp. nov.             | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | *Cassidiceps vermiculatus*                  | Gagnier and Wilson, 1996                             |
+|           | Acanthodians     |       | Acanthodii gen. et sp. nov. 1               | Wilson et al., 2000                                  |
+|           | Acanthodians     |       | Acanthodii gen. et sp. nov. 2               | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | *Kathemacanthus rosulentus*                 | Gagnier and Wilson, 1996                             |
+|           | Cbondrichthyans  |       | *Seretolepis elegans*                       | Karatajūtė-Talimaa, 1997                             |
+|           | Cbondrichthyans  |       | *Altholepis composita*                      | Karatajūtė-Talimaa, 1997                             |
+|           | Cbondrichthyans  |       | *Altholepis* sp. nov. 1                     | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | *Altholepis* sp. nov. 2                     | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | *Polymerolepis whitei*                      | Karatajūtė-Talimaa, 1968                             |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 1           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 2           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 3           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 4           | Wilson et al., 2000                                  |
+|           | Cbondrichthyans  |       | Chondrichthyes gen. et sp. nov. 5           | Wilson et al., 2000                                  |
+**Not complete. Need supplement the species after 2000.**
 
  ***Drake Bay / Peel Sound Formation fauna***：late Lochkovian
 > Drake Bay / Peel Sound Formation; Prince of Wales Island, Arctic Canada
@@ -125,7 +271,7 @@ Lunaspis broili Broili, 1929
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
-> Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
+> Site: Spotsbergen (including two areas：**Woodfjorden area and Dicksonfjorden-Austfjorden area**).
 
 > For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the Sigurdfjellet, Kapp Kjeldsen, Keltiefjellet (“Lykta fauna”) and Stjørdalen faunal divisions.
 
@@ -142,6 +288,50 @@ Lunaspis broili Broili, 1929
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 >
 > - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+> - 
+**From Pernègre and Blieck (2016)**
+| Area                            | Clade           | Genus | Speices                                            | References               |
+|---------------------------------|-----------------|-------|----------------------------------------------------|--------------------------|
+| Woodfjorden area                | Pteraspidiforms |       | *Doryaspis arctica*                                | Pernègre, 2002           |
+| Woodfjorden area                | Pteraspidiforms |       | *Gigantaspis minima*                               | Pernègre & Goujet, 2007  |
+| Woodfjorden area                | Pteraspidiforms |       | *Xylaspis prima*                                   | Pernègre, 2003           |
+| Woodfjorden area                | Pteraspidiforms |       | *Woodfjordaspis felixi*                            | Pernègre, 2006           |
+| Woodfjorden area                | Pteraspidiforms |       | *Gigantaspis isachseni*                            | Heintz, 1962             |
+| Woodfjorden area                | Pteraspidiforms |       | *Gigantaspis bocki*                                | Heintz, 1962             |
+| Woodfjorden area                | Pteraspidiforms |       | *Doryaspis nathorsti*                              | Lankester, 1884          |
+| Woodfjorden area                | Pteraspidiforms |       | *Doryaspis lyktensis*                              | Heintz, 1960             |
+| Woodfjorden area                | Placoderms      |       | *Sigaspis lepidophora*                             | Goujet, 1973             |
+| Woodfjorden area                | Placoderms      |       | *Arctaspis* sp.                                    |                          |
+| Woodfjorden area                | Placoderms      |       | *Heintzosteus* sp.                                 |                          |
+| Woodfjorden area                | Placoderms      |       | *Arctolepis decipiens*                             | Woodward, 1891           |
+| Woodfjorden area                | Placoderms      |       | *Arctaspis maxima*                                 | Heintz, 1929             |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis rostrata*                               | Stensiö, 1927            |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis intermedia*                             | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis ceratops*                               | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Boreaspis ginsburgi*                              | Janvier, 1977            |
+| Woodfjorden area                | Osteostracans   |       | *Cephalaspis curta*                                | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Norselaspis glacialis*                            | Janvier, 1981            |
+| Woodfjorden area                | Osteostracans   |       | *Axinaspis whitei *                                | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Diademaspis poplinae *                            | Janvier, 1985            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis moythomasi*                       | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis lanternaria*                      | Wängsjö, 1952            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis oblongata*                        | Stensiö, 1927            |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis* sp.                              |                          |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis groenhorgensis*Doryaspis groenhorgensis |                          |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Gigantaspis laticephala*                          | Blieck & Goujet, 1983    |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis nathorsti*                              | Lankester, 1884          |
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis lyktensis*                              | Heintz, 1960             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Dicksonosteus arcticus*                           | Goujet, 1975             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Heintzosteus brevis*                              | Heintz, 1929             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Lehmanosteus hyperboreus*                         | Lehmanosteus hyperboreus |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Arctaspis maxima*                                 | Heintz, 1929             |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Dicksonosteus * sp.                               |                          |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Arctolepis decipiens*                             | Woodward, 1891           |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Nectaspis areolata *                              | Wängsjö, 1952            |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Hildenaspis* sp                                   |                          |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Parameteoraspis lanternaria*                      | Wängsjö, 1952            |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Diademaspis poplinae*                             | Janvier, 1985            |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Nectaspis peltata*                                | Wängsjö, 1952            |
 
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
@@ -262,7 +452,10 @@ Lunaspis broili Broili, 1929
 
 ## Middle Devonian
 
-***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian.
+***Wee Jasper/Burrinjuck Fauna***: Emsian, Burrinjuck, Australia.
+(Young 2011)
+
+***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
