@@ -461,17 +461,14 @@ Lunaspis broili Broili, 1929
 
 
 ***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
-> Buchan, Victoria; Taemas, New South Wales, Australia.
+> Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
 
-***Wuttagoonaspis fauna***: Emsian to early Eifelian.
-> Mulga Downs Group; western New South Wales, Australia.
+***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
+> Mulga Downs Group; western New South Wales, Australia. MAV2.
 > See Young (1993, 2000) for the age constraints.
-
 
 ## Middle Devonian
 
-***Wee Jasper/Burrinjuck Fauna***: Emsian, Burrinjuck, Australia.
-(Young 2011)
 
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
