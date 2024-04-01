@@ -295,14 +295,13 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 ***Lower Old Red Sandstone fauna***: Lochkovian, 419.2, 410.8
 > Lower Old Red Sandstone, Farnell and Tealing, Midland Valley, Scotland.
 
-***Beartooth Butte Formation fauna****: Pragian, 410.8, 407.6
-> - Beartooth Butte Formation; Wyoming, USA.
+***Beartooth Butte Formation fauna***: Pragian, 410.8, 407.6
+> Beartooth Butte Formation; Wyoming, USA.
 > - *Uranolophus wyomingensis*
 
 ***Hunsrückschiefer fauna***: upper Pragian to lower Emsian, 409.2, 400.45
 > Hunsrückschiefer; Rheinland, Germany.
-> Gemuendina stuertzi Traquair, 1903
-Lunaspis broili Broili, 1929
+> - *Gemuendina stuertzi* Traquair, 1903; *Lunaspis broili* Broili, 1929
 
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
