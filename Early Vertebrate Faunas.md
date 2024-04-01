@@ -279,7 +279,13 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 ***Beartooth Butte Formation fauna***: Pragian, 410.8, 407.6
 > Beartooth Butte Formation; Wyoming, USA.
+> - For the correlation of Early Devonian Sequence of the west-central USA, see Blieck et al. (2000).
+> - Roughly, the Beartooth Butte Formation (at Cottonwood Canyon), and the Holland Quarry Shale, are of Pragian age.
+> - The Windmill Limestone in central Nevada is of late Lochkovian. The lower Grassy Flat Member of the Water Canyon Formation, the Sandy Member of Sevy Dolomite, Cherty Argillaceous Unit, are of Emsian.
+> - Noteworthy is the age of the Beartooth Butte Formation at Beartooth Butte, which is referred to as the Emsian by Blieck *et al*. (2000). Here we assign two localities of the Beartooth Butte Formation fauna as contemporaneous.
 > - *Uranolophus wyomingensis*
+> - *Anarthraspis chamberlini*, *Anarthraspis montana*, *Bryantolepis brachycephala*, *Bryantolepis crista*, *Onchus peracutus*, *Onchus penetrans*
+> - *Simblaspis* sp., *Aethaspis* sp. 
 
 ***Hunsrückschiefer fauna***: upper Pragian to lower Emsian, 409.2, 400.45
 > Hunsrückschiefer; Rheinland, Germany.
