@@ -86,28 +86,12 @@ MAV15, Grenfell fauna, late Famennian
 
 > Horizons: Kuanti, Miaogao, and Yulungssu formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
 
-| Clade           |                          | taxa                            |
-|-----------------|--------------------------|---------------------------------|
-| Thelodonti      |                          | *Thelodus sinensis*             |
-| Galeaspida      |                          | *Dunyu longiforus*              |
-|                 |                          | *Dunyu xiushanensis*            |
-| Placoderm       |                          | *Wangolepis sinensis*           |
-|                 |                          | *Silurolepis platydorsalis*     |
-|                 |                          | *Entelognathus primordialis*    |
-|                 |                          | *Qilinyu rostrata*              |
-|                 |                          | *Shimenolepis graniferus*       |
-| Acanthodii      |                          | *Gomphonchus*sp.                |
-|                 |                          | *Poracanthodes qujingensis*     |
-|                 |                          | *Hanilepis wangi*               |
-|                 |                          | *Nostolepis striata*            |
-|                 |                          | *Nostolepis sinica*             |
-| Osteichthyes    |                          | *Ligulalepis yunnanensis*       |
-|                 |                          | *Naxilepis gracilis*            |
-|                 |                          | *Kawalepis comptus*             |
-|                 |                          | *Guiyu oneiros*                 |
-|                 |                          | *Megamastax amblyodus*          |
-|                 |                          | *Sparalepis tingi*              |
-
+> - Thelodonti: *Thelodus sinensis*
+> - Galeaspida: *Dunyu longiforus*; *Dunyu xiushanensis*
+> - Placodermi: *Wangolepis sinensis*;*Silurolepis platydorsalis*; *Entelognathus primordialis*; *Qilinyu rostrata*; *Shimenolepis graniferus*
+> - Acanthodii: *Gomphonchus*sp.; *Poracanthodes qujingensis*; *Hanilepis wangi*; *Nostolepis striata*; *Nostolepis sinica*
+> - Osteichthyes: *Ligulalepis yunnanensis*; *Naxilepis gracilis*; *Kawalepis comptus*; *Guiyu oneiros*; *Megamastax amblyodus*; *Sparalepis tingi*              |
+> 
 # Devonian
 ## Early Devonian
 
@@ -158,55 +142,53 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 *Xitunaspis magnus* Sun et al., 2022
 *Siyingia perlatuspinosa* Si et al., 2015
 
-
-
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus scitulus*                  | 雅致副花鳞鱼      | 王念忠, 1997              |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus asiatica*                  | 亚洲副花鳞鱼      | 王念忠, 1997              |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus catalatus*                 | 次翼副花鳞鱼      | 王念忠, 1997              |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus corniformis*               | 角状副花鳞鱼      | 王念忠, 1997              |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus trilobatus*                | 三裂副花鳞鱼      | 王念忠, 1997              |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus xitunensis*                | 西屯副花鳞鱼      | Cui et al., 2020       |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus wangi*                     | 王氏副花鳞鱼      | Cui et al., 2020       |
-| Yunnan,China | Thelodonts      | Lochkovian | Xitun     | *Parathelodus liaokuoensis*              | 寥廓副花鳞鱼      | Cui et al., 2020       |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis chii*                      | 计氏云南鱼       | Liu, 1963              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis parvus*                    | 小云南鱼        | 张国瑞, 1978              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis porifera*                  | 多孔云南鱼       | Zhu, 1996              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Yunnanolepis* sp.                       | 云南鱼未定种      | Zhu, 1996              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Heteroyunnanolepis qujingensis*         | 曲靖异云南鱼      | 王中山, 1994              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Parayunnanolepis xitunensis*            | 西屯副云南鱼      | 张国瑞等, 2001             |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Phymolepis cuifengshanensis*            | 翠峰山长瘤鱼      | 张国瑞, 1978              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Phymolepis guoruii*                     | 国瑞长瘤鱼       | Zhu, 1996              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis gracilis*                 | 秀丽曲靖鱼       | 张国瑞, 1978              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis qujingensis*              | 曲靖曲靖鱼       | 张国瑞, 1984              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis sulcate*                  | 浅沟曲靖鱼       | Zhu, 1996              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Chuchinolepis robusta*                  | 粗壮曲靖鱼       | Zhu, 1996              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Zhanjilepis aspratilis*                 | 粗纹沾益鱼       | 张国瑞, 1978              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Szelepis yunnanensis*                   | 云南斯氏鱼       | 刘玉海, 1979              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Mizia longhuaensis*                     | 龙华山米字鱼      | Zhu, 1996              |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Minicrania lirouyii*                    | 李柔义小头鱼      | Zhu and Janvier, 1996  |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Holopetalichthys longhuaensis*          | 龙华全瓣鱼       | 朱敏和王俊卿, 1996           |
-| Yunnan,China | Placoderms      | Lochkovian | Xitun     | *Diandongpetalichthys liaojiaoshanensis* | 廖角山滇东瓣甲鱼    | 潘江和王士涛, 1978           |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Yunnanacanthus cuifengshanensis*        | 翠峰山云南棘鱼     | 刘时藩, 1973              |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Youngacanthus gracilis*                 | 秀丽杨氏棘鱼      | Wang, 1984             |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Hanilepis wangi*                        | 王氏哈尼鱼       | 王念忠和董致中, 1989          |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis striata*                     | 条纹背棘鱼       | Li et al., 2021        |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis amplifica*                   | 扩展背棘鱼       | Li et al., 2021        |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis consueta*                    | 平凡背棘鱼       | Li et al., 2021        |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis qujingensis*                 | 曲靖背棘鱼       | Li et al., 2021        |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis digitus*                     | 指状背棘鱼       | Li et al., 2021        |
-| Yunnan,China | Acanthodians    | Lochkovian | Xitun     | *Nostolepis* sp.                         | 背棘鱼未定种      | Wang, 1984             |
-| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Gualepis elegans*                       | 精美郭氏鱼       | Wang, 1984             |
-| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Changolepis tricuspidus*                | 三尖张氏鱼       | Wang, 1984             |
-| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Peilepis solida*                        | 密肋裴氏鱼       | Wang, 1984             |
-| Yunnan,China | Chondrichthyans | Lochkovian | Xitun     | *Ohiolepis Xitunensis*                   | 西屯俄亥俄鱼      | Wang, 1984             |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Psarolepis romeri*                      | 罗氏斑鳞鱼       | Yu, 1998               |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Psarolepis* sp.                         | 斑鳞鱼未定种      | Zhu and Schultze, 1997 |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Achoania jarviki*                       | 雅氏无孔鱼       | Zhu et al., 2001       |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Youngolepis praecursor*                 | 先驱杨氏鱼       | Chang and Yu, 1981     |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Youngolepis* sp.                        | 杨氏鱼未定种      | Chang and Yu, 1991     |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Diabolichthys speratus*                 | 希望奇异鱼       | Chang and Yu, 1984     |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Styloichthys change*                    | 张氏蝶柱鱼       | Zhu and Yu, 2002       |
-| Yunnan,China | Osteichthyans   | Lochkovian | Xitun     | *Meemannia eos*                          | 晨晓弥曼鱼       | Zhu et al., 2006       |
+*Parathelodus scitulus* 王念忠, 1997 
+*Parathelodus asiatica* 王念忠, 1997
+*Parathelodus catalatus*   王念忠, 1997
+*Parathelodus corniformis*  王念忠, 1997
+*Parathelodus trilobatus*  王念忠, 1997
+*Parathelodus xitunensis*  Cui et al., 2020
+*Parathelodus wangi*  Cui et al., 2020
+*Parathelodus liaokuoensis* Cui et al., 2020
+*Yunnanolepis chii*  Liu, 1963
+*Yunnanolepis parvus*  张国瑞, 1978
+*Yunnanolepis porifera*  Zhu, 1996
+*Yunnanolepis* sp.Zhu, 1996
+*Heteroyunnanolepis qujingensis* 王中山, 1994
+*Parayunnanolepis xitunensis* 张国瑞等, 2001
+*Phymolepis cuifengshanensis*  张国瑞, 1978
+*Phymolepis guoruii*  Zhu, 1996
+*Chuchinolepis gracilis* 张国瑞, 1978
+*Chuchinolepis qujingensis* 张国瑞, 1984
+*Chuchinolepis sulcate*  Zhu, 1996
+*Chuchinolepis robusta*  Zhu, 1996
+*Zhanjilepis aspratilis* 张国瑞, 1978
+*Szelepis yunnanensis* 刘玉海, 1979
+*Mizia longhuaensis* Zhu, 1996
+*Minicrania lirouyii* Zhu and Janvier, 1996
+*Holopetalichthys longhuaensis* 朱敏和王俊卿, 1996
+*Diandongpetalichthys liaojiaoshanensis* 潘江和王士涛, 1978
+*Yunnanacanthus cuifengshanensis*  刘时藩, 1973
+*Youngacanthus gracilis* Wang, 1984
+*Hanilepis wangi* 王念忠和董致中, 1989
+*Nostolepis striata* Li et al., 2021
+*Nostolepis amplifica* Li et al., 2021
+*Nostolepis consueta* Li et al., 2021
+*Nostolepis qujingensis* Li et al., 2021
+*Nostolepis digitus* Li et al., 2021
+*Nostolepis* sp. Wang, 1984
+*Gualepis elegans*   Wang, 1984
+*Changolepis tricuspidus*  Wang, 1984
+*Peilepis solida* Wang, 1984
+*Ohiolepis Xitunensis*  Wang, 1984
+*Psarolepis romeri* Yu, 1998
+*Psarolepis* sp. Zhu and Schultze, 1997
+*Achoania jarviki*  Zhu et al., 2001
+*Youngolepis praecursor* hang and Yu, 1981
+*Youngolepis* sp. Chang and Yu, 1991
+*Diabolichthys speratus*  hang and Yu, 1984
+*Styloichthys changae* Zhu and Yu, 2002
+*Meemannia eos* Zhu et al., 2006
 
 **Guijiatun and Xujiachong Formations**: Pragian
 > Devonian Macrovertebrate Assemblage III of China based on Zhu (2000) 
@@ -338,8 +320,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 | Woodfjorden area                | Pteraspidiforms |       | *Doryaspis nathorsti*                              | Lankester, 1884          |
 | Woodfjorden area                | Pteraspidiforms |       | *Doryaspis lyktensis*                              | Heintz, 1960             |
 | Woodfjorden area                | Placoderms      |       | *Sigaspis lepidophora*                             | Goujet, 1973             |
-| Woodfjorden area                | Placoderms      |       | *Arctaspis* sp.                                    |                          |
-| Woodfjorden area                | Placoderms      |       | *Heintzosteus* sp.                                 |                          |
+| Woodfjorden area                | Placoderms      |       | *Arctaspis* sp.                                   
+| Woodfjorden area                | Placoderms      |       | *Heintzosteus* sp.                                
 | Woodfjorden area                | Placoderms      |       | *Arctolepis decipiens*                             | Woodward, 1891           |
 | Woodfjorden area                | Placoderms      |       | *Arctaspis maxima*                                 | Heintz, 1929             |
 | Woodfjorden area                | Osteostracans   |       | *Boreaspis rostrata*                               | Stensiö, 1927            |
@@ -353,8 +335,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 | Woodfjorden area                | Osteostracans   |       | *Parameteoraspis moythomasi*                       | Wängsjö, 1952            |
 | Woodfjorden area                | Osteostracans   |       | *Parameteoraspis lanternaria*                      | Wängsjö, 1952            |
 | Woodfjorden area                | Osteostracans   |       | *Parameteoraspis oblongata*                        | Stensiö, 1927            |
-| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis* sp.                              |                          |
-| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis groenhorgensis*Doryaspis groenhorgensis |                          |
+| Woodfjorden area                | Osteostracans   |       | *Parameteoraspis* sp.                             
+| Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis groenhorgensis*Doryaspis groenhorgensis
 | Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Gigantaspis laticephala*                          | Blieck & Goujet, 1983    |
 | Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis nathorsti*                              | Lankester, 1884          |
 | Dicksonfjorden-Austfjorden area | Pteraspidiforms |       | *Doryaspis lyktensis*                              | Heintz, 1960             |
@@ -362,10 +344,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 | Dicksonfjorden-Austfjorden area | Placoderms      |       | *Heintzosteus brevis*                              | Heintz, 1929             |
 | Dicksonfjorden-Austfjorden area | Placoderms      |       | *Lehmanosteus hyperboreus*                         | Lehmanosteus hyperboreus |
 | Dicksonfjorden-Austfjorden area | Placoderms      |       | *Arctaspis maxima*                                 | Heintz, 1929             |
-| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Dicksonosteus * sp.                               |                          |
+| Dicksonfjorden-Austfjorden area | Placoderms      |       | *Dicksonosteus * sp.                              
 | Dicksonfjorden-Austfjorden area | Placoderms      |       | *Arctolepis decipiens*                             | Woodward, 1891           |
 | Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Nectaspis areolata *                              | Wängsjö, 1952            |
-| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Hildenaspis* sp                                   |                          |
+| Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Hildenaspis* sp                                  
 | Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Parameteoraspis lanternaria*                      | Wängsjö, 1952            |
 | Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Diademaspis poplinae*                             | Janvier, 1985            |
 | Dicksonfjorden-Austfjorden area | Osteostracans   |       | *Nectaspis peltata*                                | Wängsjö, 1952            |
@@ -586,27 +568,27 @@ Incertae Sedis
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > Also Sandwick-Achanarras fauna.
 
-| Clade           |                          | taxa                            |
+| Clade           taxa                            |
 |-----------------|--------------------------|---------------------------------|
 | Placoderm       | Arthrodira               | *Coccosteus cuspidatus*         |
-|                 |                          | *Homostius milleri*             |
-|                 |                          | *Actinolepis magn*              |
+|                 *Homostius milleri*             |
+|                 *Actinolepis magn*              |
 |                 | Antiarcha                | *Pterichthyodes milleri*        |
 |                 | Ptyctodontida            | *Rhamphodopsis threiplandi*     |
-|                 |                          | *R. trispinatus*                |
+|                 *R. trispinatus*                |
 |                 | Placoderm incertae sedis | *Palaeospondylus gunni*         |
-| Acanthodii      |                          | *Diplacanthus striatus*         |
-|                 |                          | *Rhadinacanthus longispinus*    |
-|                 |                          | *Cheiracanthus murchisoni*      |
-|                 |                          | *C. latus*                      |
-|                 |                          | *Mesacanthus peachi*            |
-| Actinopterygii  |                          | *Cheirolepis trailli*           |
-| Sarcopterygii   |                          | *Dipterus valenciennesi*        |
-|                 |                          | *Pentlandia macroptera*         |
-|                 |                          | *Glyptolepis paucidens*         |
-|                 |                          | *G. leptopterus*                |
-|                 |                          | *Osteolepis macrolepidotus*     |
-|                 |                          | *Gyroptychius agassizi*         |
+| Acanthodii      *Diplacanthus striatus*         |
+|                 *Rhadinacanthus longispinus*    |
+|                 *Cheiracanthus murchisoni*      |
+|                 *C. latus*                      |
+|                 *Mesacanthus peachi*            |
+| Actinopterygii  *Cheirolepis trailli*           |
+| Sarcopterygii   *Dipterus valenciennesi*        |
+|                 *Pentlandia macroptera*         |
+|                 *Glyptolepis paucidens*         |
+|                 *G. leptopterus*                |
+|                 *Osteolepis macrolepidotus*     |
+|                 *Gyroptychius agassizi*         |
 
 ***Aruküla Formation fauna***: upper Eifeilian 
 > Aruküla Formation, Baltic.
