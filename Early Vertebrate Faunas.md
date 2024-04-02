@@ -996,7 +996,8 @@ The arthrodires comprise
 |                   |                | *Kentuckia hlavini*              |
 |                   | Sarcopterygii  | *Chagrinia enodis*               |
 |                   |                | *Proceratodus wagneri*           |
-***East Greenland Eifelian fauna***: Eifelian.
+
+***East Greenland Middle Devonian fauna***: upprt Eifelian to lower Givetian.
 > Vilddal Group or Nathorst Fjord Group; East Greenland, Denmark.
 
 > - *Heterostius groenlandicus* Stensiö & Säve-Söderbergh, 1938; *Homostius kochi* Stensiö & Säve-Söderbergh, 1938; *Psammolepis groenlandica* Tarlo, 1964; *Asterolepis saevesoederberghi* Stensiö & Säve-Söderbergh, 1938; Acanthodii gen. et sp. indet. 1 (spine) (Onchus sp.); Acanthodii gen. et sp. indet. 2 (scales); *Gyroptychius groenlandicus* Jarvik, 1950; *Gyropthychius dolichotatus* Jarvik, 1985; *Glyptolepis groenlandica* Jarvik, 1972; *Dipterus* sp.?; Porolepiformes gen. et sp. indet.
