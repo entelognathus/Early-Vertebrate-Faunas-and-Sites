@@ -845,47 +845,11 @@ MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
 
 ***Miguasha fauna***： middle Frasnian, 379.2, 375.7
 > Escuminac Formation; Miguasha, Quebec, Canada.
-Agnathe (5)
-Endeiolepididae
-Endeiolepis aneri
-Euphaneropidae
-Euphanerops longaevus
-Legendrelepis parenti
-Escuminaspididae
-Escuminaspis laticeps
-Levesquaspis patteni
-Placodermi (2)
-Bothriolepididae
-Bothriolepis canadensis
-Plourdosteidae
-Plourdosteus canadensis
-Acanthodii (4)
-Diplacanthidae
-Diplacanthus ellsi
-D. horridus
-Homalacanthus concinnus
-Mesacanthidae
-Triazeugacanthus affinis
-Actinopterygii (1)
-Cheirolepididae
-Cheirolepis canadensis
-Sarcopterygii (9)
-Miguashaiidae
-Miguashaia bureaui
-Phaneropleuridae
-Scaumenacia curta
-Fleurantiidae
-Fleurantia denticulata
-Holoptychiidae
-Holoptychius jarviki
-Quebecius quebecensis
-Holoptychiidae gen. et sp. indet.
-Tristichopteridae
-Eusthenopteron foordi
-Osteolepiformes indet.
-Callistiopterus clappi
-Elpistostegidae
-Elpistostege watsoni
+> - Agnatha: *Endeiolepis aneri*; *Euphanerops longaevus*; *Legendrelepis parenti*; *Escuminaspis laticeps*; *Levesquaspis patteni*
+> - Placodermi: *Bothriolepis canadensis*; *Plourdosteus canadensis*
+> - Acanthodii: *Diplacanthus ellsi*; *D. horridus*; *Homalacanthus concinnus*; *Triazeugacanthus affinis*
+> - Actinopterygii: *Cheirolepis canadensis*
+> - Sarcopterygii: *Miguashaia bureaui*; *Scaumenacia curta*; *Fleurantia denticulata*; *Holoptychius jarviki*; *Quebecius quebecensis*; Holoptychiidae gen. et sp. indet.; *Eusthenopteron foordi*; Osteolepiformes indet.; *Callistiopterus clappi*; *Elpistostege watsoni*
 
 ***Bad Wildungen fauna***: upper Frasnian. 
 > Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
