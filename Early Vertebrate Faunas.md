@@ -996,78 +996,21 @@ The arthrodires comprise
 |                   |                | *Kentuckia hlavini*              |
 |                   | Sarcopterygii  | *Chagrinia enodis*               |
 |                   |                | *Proceratodus wagneri*           |
+***East Greenland Eifelian fauna***: Eifelian.
+> Vilddal Group or Nathorst Fjord Group; East Greenland, Denmark.
 
+> - *Heterostius groenlandicus* Stensiö & Säve-Söderbergh, 1938; *Homostius kochi* Stensiö & Säve-Söderbergh, 1938; *Psammolepis groenlandica* Tarlo, 1964; *Asterolepis saevesoederberghi* Stensiö & Säve-Söderbergh, 1938; Acanthodii gen. et sp. indet. 1 (spine) (Onchus sp.); Acanthodii gen. et sp. indet. 2 (scales); *Gyroptychius groenlandicus* Jarvik, 1950; *Gyropthychius dolichotatus* Jarvik, 1985; *Glyptolepis groenlandica* Jarvik, 1972; *Dipterus* sp.?; Porolepiformes gen. et sp. indet.
+>
+***East Greenland Early Frasnian fauna***: lower Frasnian.
+> upper and lower parts of the Sofia Sund Formation; and the Rødebjerg Formation (Olsen & Larsen 1993), Kap Kolthoff Group; East Greenland, Denmark.
 
-***East Greenland Upper Devonian Famennian fauna***: Famennian.
+> - *Clarkeosteus* cf. *C. halmodeus* (Clarke, 1893); Arthrodira gen. et sp. indet. 1; *Asterolepis* cf. *A. saevesoederberghi* Stensiö & Säve-Söderbergh, 1938; *Thursius? minor* Jarvik, 1985; *Spodichthys buetleri* Jarvik, 1985; *Remigolepis? tuberculata* Stensiö, 1931; *Holoptychius* spp.; *Panderichthys* sp.?
+
+***East Greenland Famennian fauna***: Famennian.
 > mainly Britta Dal and Aina Dal Formations, Celsius Bjerg Group; East Greenland, Denmark.
 > The underlying Kap Graah Group is also referred to the Famennian.
 > - For details, see Blom et al. (2007).
-> - 
-
-
-Heterostraci
-Psammolepis groenlandica Tarlo, 1964
-Chondrichthyes
-*Cladodus* (tooth)
-**Chondrichthyes gen. et sp. indet. 1 (spine)**
-Placodermi
-Chondrichthyes gen. et sp. indet. 2 (spine)
-Homostius kochi Stensiö & Säve-Söderbergh, 1938
-Heterostius groenlandicus Stensiö & Säve-Söderbergh, 1938
-Clarkeosteus cf. C. halmodeus (Clarke, 1893)
-*Phyllolepis orvini* Heintz, 1930
-Phyllolepis nielseni Stensiö, 1939
-Groenlandaspis mirabilis Heintz, 1932
-Arthrodira gen. et sp. indet. 1
-Arthrodira gen. et sp. indet. 2
-Arthrodira gen. et sp. indet. 3
-Asterolepis saevesoederberghi Stensiö & Säve-Söderbergh, 
-1938
-Asterolepis cf. A. saevesoederberghi Stensiö & Säve-Söderbergh, 1938
-*Bothriolepis groenlandica* Heintz, 1930
-*Bothriolepis jarviki* Stensiö, 1948
-Bothriolepis nielseni Stensiö, 1948
-Remigolepis incisa (Woodward, 1900)
-Remigolepis cristata Stensiö, 1931
-Remigolepis acuta Stensiö, 1931
-Remigolepis kochi Stensiö, 1931
-Remigolepis kullingi Stensiö, 1931
-Remigolepis? tuberculata Stensiö, 1931
-Remigolepis emarginata Säve-Söderbergh, 1932 (nomen 
-nudum)
-Acanthodii
-Acanthodii gen. et sp. indet. 1 (spine) (Onchus sp.)
-Acanthodii gen. et sp. indet. 2 (scales)
-Actinopterygii
-Acanthodidae gen. et sp. indet. (spines + scales)
-Cuneognathus gardineri Friedman & Blom, 2006
-Porolepiformes
-Glyptolepis groenlandica Jarvik, 1972
-*Holoptychius* spp.
-Porolepiformes gen. et sp. indet.
-Dipnoi
-Dipterus sp.?
-*Nilsenia nordica* Lehman, 1959
-Soederberghia groenlandica Lehman, 1959 
-?Soederberghia sp. 
-Jarvikia arctica Lehman, 1959
-Oervigia nordica Lehman, 1959
-Osteolepiformes
-Dipnoi gen. et sp. indet.
-Gyroptychius groenlandicus Jarvik, 1950
-Gyropthychius dolichotatus Jarvik, 1985
-Thursius? minor Jarvik, 1985
-Spodichthys buetleri Jarvik, 1985
-Eusthenodon waengsjoei Jarvik, 1952
-Tristichopteridae sp.
-Panderichthys sp.?
-Tetrapoda
-Acanthostega gunnari Jarvik, 1952 
-Ichthyostega stensioei Säve-Söderbergh, 1932 
-Ichthyostega watsoni Säve-Söderbergh, 1932
-Ichthyostega eigili Säve-Söderbergh, 1932
-Tetrapoda n. gen. et sp.
-
+> - *Cladodus* (tooth); Chondrichthyes gen. et sp. indet. 1 (spine); Chondrichthyes gen. et sp. indet. 2 (spine); *Phyllolepis orvini* Heintz, 1930; *Phyllolepis nielseni* Stensiö, 1939; *Groenlandaspis mirabilis* Heintz, 1932; Arthrodira gen. et sp. indet. 2; Arthrodira gen. et sp. indet. 3; *Bothriolepis groenlandica* Heintz, 1930; *Bothriolepis jarviki* Stensiö, 1948; *Bothriolepis nielseni* Stensiö, 1948; *Remigolepis incisa* (Woodward, 1900); *Remigolepis cristata* Stensiö, 1931; *Remigolepis acuta* Stensiö, 1931; *Remigolepis koch*i Stensiö, 1931; *Remigolepis kullingi* Stensiö, 1931; *Remigolepis? tuberculata* Stensiö, 1931; *Remigolepis emarginata* Säve-Söderbergh, 1932 (nomen nudum); Acanthodidae gen. et sp. indet. (spines + scales); *Cuneognathus gardineri* Friedman & Blom, 2006*Holoptychius* spp.; *Nilsenia nordica* Lehman, 1959; *Soederberghia groenlandica* Lehman, 1959; ?*Soederberghia* sp.;  *Jarvikia arctica* Lehman, 1959; *Oervigia nordica* Lehman, 1959; Dipnoi gen. et sp. indet.; *Eusthenodon waengsjoei* Jarvik, 1952; Tristichopteridae sp.; *Acanthostega gunnari* Jarvik, 1952;  *Ichthyostega stensioei* Säve-Söderbergh, 1932;  *Ichthyostega watsoni* Säve-Söderbergh, 1932; *Ichthyostega eigili* Säve-Söderbergh, 1932; Tetrapoda n. gen. et sp.
 
 ***Ketleri Formation fauna***: upper Famennian.
 > Ketleri Formation, Pavari, Latvia
