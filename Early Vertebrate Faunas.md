@@ -288,8 +288,11 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - *Simblaspis* sp., *Aethaspis* sp. 
 
 ***Hunsrückschiefer fauna***: upper Pragian to lower Emsian, 409.2, 400.45
-> Hunsrückschiefer; Rheinland, Germany.
+> Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
+
 > - *Gemuendina stuertzi* Traquair, 1903; *Lunaspis broili* Broili, 1929
+>
+> - *Stuertzaspis germanica* (Traquair, 1890); *Tityosteus rieversae* Gross, 1960; *Stensioella heintzi* (Broili, 1933); *Nessariostoma granulosum* Broili, 1933; *Drepanaspis gemuendensis* Schlüter; *Rhinopteraspis dunensis*; *Paraplesiobatis heinrichsi* Broili, 1933; *Westollrhynchus lehmanni* (Westoll, 1949); *Machaeracanthus peracutus* Newberry, 1857.
 
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
