@@ -571,13 +571,19 @@ Incertae Sedis
 > - See Young (1993, 2000) for the age constraints.
 
 ***Crevens Peak Beds and Dulcie Sandstone fauna***: late Emsian to early Eifelian.
-> Crevens Peak Beds and Dulcie Sandstone; Amadeus and Georgina Basins, central Australia. MAV2 or MAV3.
-> - Young and Goujet (2003) erected seven new arthrodire genera (Lurapullaspis, Toombaslepis, Tnoralaspis, Ethabukaspis, Tokolepis, Cravenaspis, Mithakaspis), with a second Wuttagoonaspis species (W. milligani), and a new species of Huginaspis.
-> - Mount Winter, Amadeus Basin, and southern Toomba Range, Georgina Basin, central Australia.
+> Crevens Peak Beds of the Toko Syncline (Georgina Basin，western Queensland) and lower Dulcie Sandstone of the Dulcie Syncline (Amadeus Basin, Northern Territory), central Australia. MAV2 or MAV3.
+
+> - Young and Goujet (2003) erected seven new arthrodire genera (Lurapullaspis, Toombalepis, Tnoralaspis, Ethabukaspis, Tokolepis, Cravenaspis, Mithakaspis), with a second Wuttagoonaspis species (W. milligani), and a new species of Huginaspis.
+> - *Lurapullaspis johannseni* Young and Goujet, 2003, *Toombalepis tuberculata* Young and Goujet, 2003, *Tnoralaspis petercooki* Young and Goujet, 2003, *Ethabukaspis leios* Young and Goujet, 2003, *Tokolepis ulpe* Young and Goujet, 2003, *Cravenaspis trmatosus* Young and Goujet, 2003, *Mithakaspis lyentye* Young and Goujet, 2003
+> - *Wuttagoonaspis milligani* Young and Goujet, 2003
+> - *Huginaspis australis* Young and Goujet, 2003
+
+> - Mount Winter, Amadeus Basin  (Northern Territory), and southern Toomba Range, Georgina Basin (western Queensland), central Australia.
 > - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005 from Amadeus Basin.
 > - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
-> - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (central Australia) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
-> - 
+> - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (western Queensland) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
+
+
 ## Middle Devonian
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
