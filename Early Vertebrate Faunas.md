@@ -564,10 +564,9 @@ Gnathostomata incertae sedis
 Incertae Sedis
 71. Ohioaspis tumulosa Giffi n, 1980
 
-
 ***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
 > Mulga Downs Group; Amadeus Basin, western New South Wales, Australia. MAV2.
-> The taxa not identified in the Mulga Downs Groou but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
+> - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (central Australia) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
 > - See Young (1993, 2000) for the age constraints.
 
 ## Middle Devonian
