@@ -781,11 +781,12 @@ Incertae Sedis
 > - *Bothriolepis evaldi*.
 
 ***Pambula River fauna***, lower Frasnian, 382.7, 379.2
-> Pambula River, Victoria; Gogo Formation; Canning Basin, Western Australia, Australia. MAV10.  
+> Pambula River, Victoria, Australia. part of MAV10.  
 > - *Pambulalepis cobandrahensis* Young, 1983; *Culmacanthus pambulensis* Young, 1989.
 
 ***Gogo Formation Lagersttäte***: lower Frasnian, 382.7, 379.2
 > Gogo Formation; Canning Basin, Australia. -17.75, 125.17. part of MAV10.
+> Also Gnuedna Formation and Manubia Sandstone, Western Australia. 
 
 > - Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 
@@ -843,16 +844,18 @@ Incertae Sedis
 
 ***Nettletons Creek fauna***, lower Frasnian, 382.7, 379.2
 > - MAV11.
-> - *Placolepis budwawangensis* Ritchie, 1984 .
+> - *Placolepis budwawangensis* Ritchie, 1984.
 
 
-****Twofold Bay fauna***, upper Frasnian
-> - MAV12.
+***Twofold Bay fauna***, upper Frasnian
+> Twofold Bay Formation, Eden, NSW, Australia. MAV12.
+
 > -  
 
 ***Jamalong-Canowindra fauna***, upper Frasnian to lower Famennian
-> - Mandagery Sandstone, Canowindra, New South Wales, Australia. MAV13
-> - 
+> Mandagery Sandstone, Canowindra, New South Wales, Australia. MAV13
+
+> - *Canowindara grossi* Thompson, 1973. 
 
 
 ***Amata Formation fauna***: lower Frasnian, 382.7, 379.2
@@ -1038,7 +1041,8 @@ The arthrodires comprise
 >
 
 ***Worange Point fauna***: lower Famennian.
-> - Worange Point Formation, Eden-Pambula region, MAV14
+> Worange Point Formation, Eden-Pambula region, MAV14
+
 > - 
 
 ***Grenfell fauna***, upper Famennian;
