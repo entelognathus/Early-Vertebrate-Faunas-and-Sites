@@ -700,7 +700,8 @@ Incertae Sedis
 > - Acanthodii: *Gyracanthides warreni* White, 1968; *Antarctonchus glacialis* White, 1968; *Byssacanthoides debenhami* Woodward, 1921; *Culmacanthus antarctica* Young, 1989; *Milesacanthus antarctica* Young & Burrow, 2004; *Pechoralepis juozasi* Burrow, Long & Trinajstic, 2009; *Nostolepis* sp. cf. *N. gaujensis* Burrow et al., 2009; acanthodid? gen. et sp. indet. Burrow et al., 2009
 
 ***Tatong-South Blue Range fauna***, upper Givetian, 384.37, 382.7
-> MAV7, 
+> Tatong, eastern Victoria, Australia. MAV7,
+> - *Bothriolepis tatongensis* Long and Werdelin, 1986.
 
 ***Taggerty-Mount Howitt Fauna***: upper Givetian, 384.37, 382.7
 > Avon River Group, Mount Howitt; Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
@@ -709,12 +710,11 @@ Incertae Sedis
 | Clade        |                 | taxa                            |
 |--------------|-----------------|---------------------------------|
 | Placodermi   | Arthrodira      | *Austrophyllolepis ritchiei*    |
-|              |                 | *AAustrophyllolepis youngi*     |
+|              |                 | *Austrophyllolepis youngi*     |
 |              |                 | *Groenlandaspis sp.*            |
 |              | Antiarcha       | *Bothriolepis gippslandiensis*  |
 |              |                 | *Bothriolepis cullodenensis*    |
 |              |                 | *Bothriolepis fergusoni*        |
-|              |                 | *Bothriolepis bindareei*        |
 | Acanthodii   |                 | *Culmacanthus stewarti*         |
 |              |                 | *Howittacanthus kentoni*        |
 | Osteichthyes | Actinopterygii  | *Howqualepis rostridens*        |
@@ -726,8 +726,10 @@ Incertae Sedis
 |              |                 | *Beelarongia patrichae*         |
 
 
-MAV9, Bindaree Road-Freestone Creek fauna, late Givetian;
+***Bindaree Road-Freestone Creek fauna***, upper Givetian, 384.37, 382.7
+> Bindaree Road-Freestone Creek, Victoria, Australia. MAV9.
 
+> - *Bothriolepis bindareei* Long, 1983, *Briagakeous warrenti* (Long, 1983).  
 
 ## Late Devonian
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
