@@ -565,11 +565,19 @@ Incertae Sedis
 71. Ohioaspis tumulosa Giffi n, 1980
 
 ***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
-> Mulga Downs Group; western New South Wales, Australia. MAV2.
-> Amadeus and Georgina Basins, central Australia. 
-> - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (central Australia) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
+> Mulga Downs Group (sandstones); Darling Basin, western New South Wales, Australia. MAV2.
+> - *Wuttagoonaspis fletcheri* Ritchie, 1993; *Mulgaspis* Ritchie, 2004; 
+
 > - See Young (1993, 2000) for the age constraints.
 
+***Crevens Peak Beds and Dulcie Sandstone fauna***: late Emsian to early Eifelian.
+> Crevens Peak Beds and Dulcie Sandstone; Amadeus and Georgina Basins, central Australia. MAV2 or MAV3.
+> - Young and Goujet (2003) erected seven new arthrodire genera (Lurapullaspis, Toombaslepis, Tnoralaspis, Ethabukaspis, Tokolepis, Cravenaspis, Mithakaspis), with a second Wuttagoonaspis species (W. milligani), and a new species of Huginaspis.
+> - Mount Winter, Amadeus Basin, and southern Toomba Range, Georgina Basin, central Australia.
+> - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005 from Amadeus Basin.
+> - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
+> - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (central Australia) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
+> - 
 ## Middle Devonian
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
@@ -658,21 +666,24 @@ Incertae Sedis
 |               |                           | *Panderichthys rhombolepis*   |
 
 
-
-****Hatchery Creek-?Cravens Peak fauna****, Eifelian;
+****Hatchery Creek fauna****, Eifelian;
 > Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia. MAV3,
 > - The Hatchery Creek Group comprises Hatchery the Wee Jasper Formation (below) and the Corradigbee Formation (above), underlain by the Murrumbidgee Group limestones.
 > - Thelodontida: *Turinia* sp. cf. *T. hutkensis* Blieck & Goujet (Young & Gorter, 1981)
 > - Acanthodii: climatiid gen. et sp. indet., ?diplacanthiform gen. et sp. indet., *Tareyacanthus* sp. cf. *T. magnificus* Valiukevicius (Burrow
 2002), *Watsonacanthus*? sp. (Burrow 2002)
-> - cf. Kenichthys [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
-> - Placodermi: Edgellaspis gorteri Hunt & Young 2011; Denisonosteus weejasperensis Young & Gorter 1981; cf. Denisonosteus sp. nov. (Hunt 2005); coccosteomorph cf. Coccosteus (Hunt 2008); Sherbonaspis hillsi Young & Gorter 1981; cf. Sherbonaspis sp. nov. (Hunt 2005); Monarolepis verrucosa (Young & Gorter) Young 1988
+> - cf. *Kenichthys* [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
+> - Placodermi: *Edgellaspis gorteri* Hunt & Young 2011; *Denisonosteus weejasperensis* Young & Gorter 1981; cf. *Denisonosteus* sp. nov. (Hunt 2005); coccosteomorph cf. *Coccosteus* (Hunt 2008); *Sherbonaspis hillsi* Young & Gorter 1981; cf. *Sherbonaspis* sp. nov. (Hunt 2005); *Monarolepis verrucosa* (Young & Gorter) Young 1988
 
 ***Wurungulepis fauna***, upper Eifelian;
-> MAV4, 
+> Broken River Formation, Queensland, Australia. MAV4
+
+> - *Wurungulepis denisoni* Young, 1990; *Atlantidosteus* sp.
 
 ***Nawagiaspis fauna***, lower Givetian;
-> MAV5, 
+> Broken River Formation, Queensland, Australia. MAV5, 
+
+> - *Nawagiaspis wadeae* Young, 1990.
 
 ***Aztec fauna***: Givetian.
 > Aztec Sandstone, Southern Victoria Land, Antarctica. MAV6.
