@@ -287,6 +287,17 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - *Anarthraspis chamberlini*, *Anarthraspis montana*, *Bryantolepis brachycephala*, *Bryantolepis crista*, *Onchus peracutus*, *Onchus penetrans*
 > - *Simblaspis* sp., *Aethaspis* sp. 
 
+***lower Grassy Flat Member of Water Canyon Formation fauna***: Emsian, 407.6, 393.3
+> the lower Grassy Flat Member of the Water Canyon Formation, the Sandy Member of Sevy Dolomite, Cherty Argillaceous Unit; USA.
+
+> - *Bryantolepis williamsi* Elliott and Carr, 2009; 
+
+
+***Kemeri Regional Stage fauna***: Pragian to lower Emsian, 410.8, 400.45
+> - *Actinolepis spinosa* Mark-Kurik, 1985
+> - *Latviacanthus ventspilsensis* Schu1tze and Zidek, 1982
+
+
 ***Hunsrückschiefer fauna***: upper Pragian to lower Emsian, 409.2, 400.45
 > Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
 
@@ -531,6 +542,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                 *G. leptopterus*                |
 |                 *Osteolepis macrolepidotus*     |
 |                 *Gyroptychius agassizi*         |
+
+
+***Pärnu Regional Stage fauna***: lower Eifelian.
+
 
 ***Aruküla Formation fauna***: upper Eifeilian 
 > Aruküla Formation, Baltic.
