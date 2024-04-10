@@ -327,8 +327,9 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 >
 > - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
-> - 
-> - 
+
+> - Austfjord Member: BD, BD’, and BS . We find in our samples from BD and BD’ the pteraspidiforms *Doryaspis sp. nov.* and *Gigantaspis laticephala*, in association with the well preserved placoderms *Dicksonosteus arcticus*, *Heintzosteus brevis*, and *Lehmanosteus hyperboreus* (Goujet 1984). The same *Doryaspis* species with *Nectaspis areolata* and *Hildenaspis digitalis* is present in the BS samples. The fauna identified in this member is easily correlateable with the equivalent one of the Sigurdfjellet - Kapp Kjeldsen divisions(mainly the association *Doryaspis* – *Gigantaspis* with the occurrence of *Heintzosteus* for Kapp Kjeldsen).
+
 **From Pernègre and Blieck (2016)**
 > **check from which faunal division the taxon comes. Otherwise, the age is problematic. The gnathostomes above are checked, see above. However, the agnathans remain mixed.**
 
@@ -409,7 +410,6 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |           |                                          | Euleptaspidid B                      |
 |           |                                          | *Herasmius granulatus*               |
 |           |                                          | *Elegantaspis reticornis*            |
-
 
 
 
