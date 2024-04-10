@@ -316,6 +316,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 > The Austfjorden Member roughly corresponds to the Sigurdfjellet (early Pragian); and Kapp Kjeldsen (late Pragian) faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
 
+> Dicksonfjord Member: *Doryaspis nathorsti*, *Doryaspis lyktensis*, *Diademaspis poplinae* (osteostracan), *Arctaspis maxima*, *Nectaspis peltata*, *Arctolepis decipiens (placoderms)*.
+
 > Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian.
 >
 > For the age, either Pragian or Early Emsian, check from which member of the formation the taxon comes.
@@ -325,6 +327,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 >
 > - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+> - 
 > - 
 **From Pernègre and Blieck (2016)**
 > **check from which faunal division the taxon comes. Otherwise, the age is problematic. The gnathostomes above are checked, see above. However, the agnathans remain mixed.**
