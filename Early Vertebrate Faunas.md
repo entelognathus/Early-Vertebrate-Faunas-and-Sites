@@ -673,6 +673,12 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 > - *Bothriolepis bindareei* Long, 1983, *Briagakeous warrenti* (Long, 1983).  
 
+***Merriganowry fauna***, upper Givetian, 384.37, 382.7 
+> Merriganowry Shale Member, near Cowra, New South Wales, Australia.
+
+> - Merriganowry Shale Member overlies the Hervey Group.
+> - *Cowralepis mclachlani* Ritchie, 2005.
+
 ## Late Devonian
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
 > Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
