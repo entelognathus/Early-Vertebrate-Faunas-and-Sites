@@ -373,6 +373,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 > The data in the table below from Cloutier and Lelievre (1998). Some of the taxa are from the Lochkovian Red Bay Group (Ben Nevis Formation).
 
+> http://www.paleofile.com/Fish/Fish%20lists/Agnatha.asp
 
 
 | Clade          |  Formation      | taxa                                 |
