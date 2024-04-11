@@ -308,27 +308,36 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
-> Site: Spotsbergen (including two areas：**Woodfjorden area and Dicksonfjorden-Austfjorden area**).
+> - **Woodfjorden area and Dicksonfjorden-Austfjorden area**, Svalbard (Spitsbergen).
 
-> For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the Sigurdfjellet, Kapp Kjeldsen, Keltiefjellet (“Lykta fauna”) and Stjørdalen faunal divisions.
+> - For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the [Sigurdfjellet], [Kapp Kjeldsen], [Keltiefjellet] (“Lykta fauna”) and [Stjørdalen] faunal divisions.
 
-> The Norsk Polarinstitutt geological map describes three members for the Wood Bay Formation, viz., from base to top: the Austfjorden, Dicksonfjorden and Verdalen members (Dallmann et al. 2002; Blomeier et al. 2003a).
+> - The Norsk Polarinstitutt geological map describes three members for the Wood Bay Formation, viz., from base to top: the [Austfjorden], [Dicksonfjorden] and [Verdalen] members (Dallmann *et al*. 2002; Blomeier *et al*. 2003a).
 
-> The Austfjorden Member roughly corresponds to the Sigurdfjellet (early Pragian); and Kapp Kjeldsen (late Pragian) faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
+> - The Austfjorden Member roughly corresponds to the Sigurdfjellet (early Pragian) and Kapp Kjeldsen (late Pragian) faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
 
-> Dicksonfjord Member: *Doryaspis nathorsti*, *Doryaspis lyktensis*, *Diademaspis poplinae* (osteostracan), *Arctaspis maxima*, *Nectaspis peltata*, *Arctolepis decipiens (placoderms)*.
+> - Dicksonfjord Member: *Doryaspis nathorsti*, *Doryaspis lyktensis*, *Diademaspis poplinae* (osteostracan), *Arctaspis maxima*, *Nectaspis peltata*, *Arctolepis decipiens (placoderms)*.
 
-> Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian.
+> - Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian.
 >
-> For the age, either Pragian or Early Emsian, check from which member of the formation the taxon comes.
+> - For the age, either Pragian or Early Emsian, check from which member of the formation the taxon comes.
 
-> - Pragian: *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+> - Pragian (Austfjorden Member, Sigurdfjellet and Kapp Kjeldsen faunal divisions): *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+> - Early Pragian (Sigurdfjellet faunal division，Assemblage 1 in Pernègre and Blieck, 2016)
+> - - Doryaspis arctica Pernègre, 2002; Gigantaspis minima Pernègre & Goujet, 2007; Xylaspis prima (Pernègre, 2003); Woodfjordaspis felixi Pernègre, 2006
 
-> - Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
->
-> - Late Emsian from the Verdalen Member: *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
 
-> - Austfjord Member: BD, BD’, and BS . We find in our samples from BD and BD’ the pteraspidiforms *Doryaspis sp. nov.* and *Gigantaspis laticephala*, in association with the well preserved placoderms *Dicksonosteus arcticus*, *Heintzosteus brevis*, and *Lehmanosteus hyperboreus* (Goujet 1984). The same *Doryaspis* species with *Nectaspis areolata* and *Hildenaspis digitalis* is present in the BS samples. The fauna identified in this member is easily correlateable with the equivalent one of the Sigurdfjellet - Kapp Kjeldsen divisions(mainly the association *Doryaspis* – *Gigantaspis* with the occurrence of *Heintzosteus* for Kapp Kjeldsen).
+> - Late Pragian ([Kapp Kjeldsen faunal division，Assemblages 2, 3, and 6 in Pernègre and Blieck, 2016)
+
+
+
+> - Early Emsian (Dicksonfjorden Member, Keltiefjellet faunal division): *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
+
+
+
+> - Late Emsian (Verdalen Member, Stjørdalen faunal division): *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+
+
 
 **From Pernègre and Blieck (2016)**
 > **check from which faunal division the taxon comes. Otherwise, the age is problematic. The gnathostomes above are checked, see above. However, the agnathans remain mixed.**
