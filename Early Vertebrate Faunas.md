@@ -371,6 +371,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 
 
+> The data in the table below from Cloutier and Lelievre (1998).
+
 
 
 | Clade          |  Formation      | taxa                                 |
