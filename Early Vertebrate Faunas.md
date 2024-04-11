@@ -329,7 +329,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 > - Early Emsian (Dicksonfjorden Member, Keltiefjellet faunal division, Assemblages 4, 5, 7, 8 in Pernègre and Blieck, 2016)
 > - - Pteraspidiforms: *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis lyktensis* (Heintz, 1960); *Doryaspis* sp.
->   - Osteostracans：*Parameteoraspis lanternaria* (Wängsjö, 1952); *Parameteoraspis oblongata* (Stensiö, 1927); *Parameteoraspis* sp.; *Diademaspis poplinae* Janvier, 1985; *Nectaspis peltata* Wängsjö, 1952.
+>   - Osteostracans：*Parameteoraspis lanternaria* (Wängsjö, 1952); *Parameteoraspis oblonga* (Stensiö, 1927); *Parameteoraspis* sp.; *Diademaspis poplinae* Janvier, 1985; *Nectaspis peltata* Wängsjö, 1952.
 >   - Placoderms：*Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp.
 
 > - Late Emsian (Verdalen Member, Stjørdalen faunal division): *Doryaspis minor* (Heintz, 1960); *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
@@ -381,18 +381,18 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                | upper part of Austfjorden Member; now as *Gigantaspis laticephala* (Blieck & Goujet, 1983)| *Zascinaspis laticephala* |
 |                | upper part of Austfjorden Member| *Gigantaspis bocki* |
 |                | Verdalen Member, now as *Doryaspis minor* (Heintz, 1960)| *Ennosveaspis minor*|
-| Osteostraci    |                 | *Atelaspis tessellata*               |
-|                |                 | *Aceraspis robustus*                 |
-|                |                 | *B. rostata*                         |
+| Osteostraci    | wrong citation, in Scotland| *Ateleaspis tessellata*|
+|                | wrong citation| *Aceraspis robustus* Kiaer, 1911|
+|                | typo error| *B. rostata* |
 |                |                 | *? Cephalaspis producta*             |
 |                |                 | *? C. curta*                         |
 |                |                 | *? C. watneliei*                     |
 |                |                 | *? C. acuticornis*                   |
-|                |                 | *Hildenaspis digitalis*              |
-|                |                 | *Meteoraspis oblonga*                |
-|                |                 | *M. lanternaria*                     |
-|                |                 | *M. moythomasi*                      |
-|                |                 | *M. semicircularis*                  |
+|                |wrong citation, in Germany| *Hildenaspis digitalis* Janvier, 1976|
+|                |Dicksonfjorden Member, now as *Parameteoraspis oblonga* (Stensiö, 1927)| *Meteoraspis oblonga* |
+|                |Dicksonfjorden Member, now as *Parameteoraspis lanternaria* (Wängsjö, 1952)| *M. lanternaria* |
+|                |upper part of Austfjorden Member, now as *Parameteoraspis moythomasi* (Wängsjö, 1952)| *M. moythomasi*|
+|                |now as *Parameteoraspis semicircularis* (Wängsjø 1952) |*M. semicircularis*                  |
 |                |                 | *M. menoides*                        |
 |                |                 | *M.caroli*                           |
 |                |                 | *M. gigas*                           |
@@ -410,7 +410,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                |                 | *B. lövgreeni*                       |
 |                |                 | *Boreaspis ceratops*                 |
 |                |                 | *B. robusta*                         |
-|                |                 | *B. rostrata*                        |
+|                |lower part of Austfjorden Member| *B. rostrata*                        |
 |                |                 | *B. macrorhynchus*                   |
 |                |                 | *B. ceratops*                        |
 |                |                 | *B. ginsburgi*                       |
