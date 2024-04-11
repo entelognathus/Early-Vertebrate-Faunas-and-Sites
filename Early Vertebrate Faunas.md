@@ -332,7 +332,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 >   - Osteostracans：*Parameteoraspis lanternaria* (Wängsjö, 1952); *Parameteoraspis oblongata* (Stensiö, 1927); *Parameteoraspis* sp.; *Diademaspis poplinae* Janvier, 1985; *Nectaspis peltata* Wängsjö, 1952.
 >   - Placoderms：*Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp.
 
-> - Late Emsian (Verdalen Member, Stjørdalen faunal division): *Doryaspis minor* Heintz, 1960; *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+> - Late Emsian (Verdalen Member, Stjørdalen faunal division): *Doryaspis minor* (Heintz, 1960); *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
 
 
 | clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
@@ -377,10 +377,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 | Clade          |  Formation      | taxa                                 |
 |----------------|-----------------|--------------------------------------|
-| Heterostraci   | upper part of Austfjorden Member; Dicksonfjorden Member| *Doryaspis nathorsti*                |
-|                | upper part of Austfjorden Member; now as *Gigantaspis laticephala* (Blieck & Goujet, 1983)| *Zascinaspis laticephala*            |
-|                | upper part of Austfjorden Member| *Gigantaspis bocki*                  |
-|                |                 | *Ennosveaspis minor* (Heintz, 1960)                |
+| Heterostraci   | upper part of Austfjorden Member; Dicksonfjorden Member| *Doryaspis nathorsti*|
+|                | upper part of Austfjorden Member; now as *Gigantaspis laticephala* (Blieck & Goujet, 1983)| *Zascinaspis laticephala* |
+|                | upper part of Austfjorden Member| *Gigantaspis bocki* |
+|                | Verdalen Member, now as *Doryaspis minor* (Heintz, 1960)| *Ennosveaspis minor*|
 | Osteostraci    |                 | *Atelaspis tessellata*               |
 |                |                 | *Aceraspis robustus*                 |
 |                |                 | *B. rostata*                         |
