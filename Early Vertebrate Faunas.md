@@ -394,40 +394,40 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                |Dicksonfjorden Member, now as *Parameteoraspis lanternaria* (Wängsjö, 1952)| *M. lanternaria* |
 |                |upper part of Austfjorden Member, now as *Parameteoraspis moythomasi* (Wängsjö, 1952)| *M. moythomasi*|
 |                |now as *Parameteoraspis semicircularis* (Wängsjø 1952) |*M. semicircularis*                  |
-|                |                 | *M. menoides*                        |
-|                |                 | *M.caroli*                           |
-|                |                 | *M. gigas*                           |
-|                |                 | *M. lata*                            |
-|                |                 | *M. oberon*                          |
-|                |                 | *P. gigas*                           |
-|                |                 | *P. lanternaria*                     |
+|                |now as *Parameteoraspis menoides* (Wängsjø 1952)| *M. menoides*                        |
+|                |now as *Parameteoraspis caroli* (Wängsjø 1952)| *M.caroli*                           |
+|                |now as *Parameteoraspis gigas* (Wängsjø 1952)| *M. gigas*                           |
+|                |now as *Parameteoraspis lata* (Stensio, 1927)| *M. lata*|
+|                |now as *Parameteoraspis oberon* (Janvier, 1985)| *M. oberon*|
+|                |*Parameteoraspis gigas* (Wängsjø 1952)| *P. gigas*                           |
+|                |upper part of Austfjorden Member| *P. lanternaria*                     |
 |                |                 | *P. sp. cf. P. lata*                 |
-|                |                 | *Parameteoraspis hoegi*              |
-|                |                 | *Axinaspis whitei*                   |
+|                | *Parameteoraspis hoegi* (Stensio, 1927)| *Parameteoraspis hoegi*              |
+|                |lower part of Austfjorden Member| *Axinaspis whitei*                   |
 |                |                 | *Gustavaspis trinodis*               |
-|                |                 | *Nectaspis areolata*                 |
-|                |                 | *Norselaspis glacialis*              |
+|                |upper part of Austfjorden Member| *Nectaspis areolata*                 |
+|                |lower part of Austfjorden Member| *Norselaspis glacialis*              |
 |                |                 | *Benneviaspis holtedahli*            |
-|                |                 | *B. lövgreeni*                       |
-|                |                 | *Boreaspis ceratops*                 |
-|                |                 | *B. robusta*                         |
-|                |lower part of Austfjorden Member| *B. rostrata*                        |
-|                |                 | *B. macrorhynchus*                   |
-|                |                 | *B. ceratops*                        |
-|                |                 | *B. ginsburgi*                       |
-|                |                 | *B. batoides*                        |
-|                |                 | *Belonaspis puella*                  |
-|                |                 | *B. minuta*                          |
+|                |                 | *Benneviaspis loevgreeni*                       |
+|                |lower part of Austfjorden Member| *Boreaspis ceratops*                 |
+|                |now as *Spatulaspis robusta* | *Boreaspis robusta*|
+|                |lower part of Austfjorden Member| *Boreaspis rostrata*                        |
+|                |                 | *Boreaspis macrorhynchus*                   |
+|                |                 | *Boreaspis ceratops*                        |
+|                |                 | *Boreaspis ginsburgi*                       |
+|                |                 | *Boreaspis batoides*                        |
+|                |*Belonaspis puella* (Wängsjø 1952)| *Belonaspis puella*|
+|                |*Belonaspis minuta* Janvier 1985 | *Belonaspis minuta* |
 |                |                 | *Dicranaspis curtirostris*           |
 |                |                 | *D. circinus*                        |
 |                |                 | *D. spinicornis*                     |
 |                |                 | *Hoelaspis angulata*                 |
-|                |                 | *Spatulaspis robusta*                |
-|                |                 | *S. costata*                         |
-|                |                 | *Diademaspis poplinae*               |
-|                |                 | *D. jarviki*                         |
-|                |                 | *Machairaspis isachseni*             |
-|                |                 | *M. battaili*                        |
+|                |                 | *Spatulaspis robusta*|
+|                |                 | *Spatulaspis costata*|
+|                |upper part of Austfjorden Member; Dicksonfjorden Member| *Diademaspis poplinae*|
+|                |*Diademaspis jarviki* (Wängsjø 1952) |*Diademaspis jarviki*|
+|                |*Machairaspis isachseni* (Stensiö 1927)|*Machairaspis isachseni*|
+|                |*Machairaspis battaili* Janvier 1980| *Machairaspis battaili*|
 | Thelodonti     |                 | *Turinia pagei*                      |
 |                |                 | *Sigurdia*                           |
 |                |                 | *Amaltheolepis winsneri*             |
