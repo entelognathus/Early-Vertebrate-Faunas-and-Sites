@@ -371,7 +371,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 
 
-> The data in the table below from Cloutier and Lelievre (1998). Some of the taxa are from the Lochkovian Red Bay Group (Ben Nevis Formation).
+> The data in the table below from Cloutier and Lelievre (1998), many errors to be checked.
 
 > http://www.paleofile.com/Fish/Fish%20lists/Agnatha.asp
 
@@ -411,17 +411,17 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                |                 | *Benneviaspis loevgreeni*                       |
 |                |lower part of Austfjorden Member| *Boreaspis ceratops*                 |
 |                |now as *Spatulaspis robusta* | *Boreaspis robusta*|
-|                |lower part of Austfjorden Member| *Boreaspis rostrata*                        |
-|                |                 | *Boreaspis macrorhynchus*                   |
-|                |                 | *Boreaspis ceratops*                        |
-|                |                 | *Boreaspis ginsburgi*                       |
-|                |                 | *Boreaspis batoides*                        |
+|                |lower part of Austfjorden Member| *Boreaspis rostrata*|
+|                |                 | *Boreaspis macrorhynchus*|
+|                |                 | *Boreaspis ceratops*|
+|                |                 | *Boreaspis ginsburgi*|
+|                |                 | *Boreaspis batoides*|
 |                |*Belonaspis puella* (Wängsjø 1952)| *Belonaspis puella*|
 |                |*Belonaspis minuta* Janvier 1985 | *Belonaspis minuta* |
-|                |                 | *Dicranaspis curtirostris*           |
-|                |                 | *D. circinus*                        |
-|                |                 | *D. spinicornis*                     |
-|                |                 | *Hoelaspis angulata*                 |
+|                |                 | *Dicranaspis curtirostris* (Wängsjø 1952)|
+|                |                 | *Dicranaspis circinus* (Wängsjø 1952)|
+|                |                 | *Dicranaspis spinicornis* (Wängsjø 1952)|
+|                |                 | *Hoelaspis angulata* Stensiö 1927|
 |                |                 | *Spatulaspis robusta*|
 |                |                 | *Spatulaspis costata*|
 |                |upper part of Austfjorden Member; Dicksonfjorden Member| *Diademaspis poplinae*|
