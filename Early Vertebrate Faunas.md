@@ -371,15 +371,15 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 
 
-> The data in the table below from Cloutier and Lelievre (1998).
+> The data in the table below from Cloutier and Lelievre (1998). Some of the taxa are from the Lochkovian Red Bay Group (Ben Nevis Formation).
 
 
 
 | Clade          |  Formation      | taxa                                 |
 |----------------|-----------------|--------------------------------------|
-| Heterostraci   |                 | *Doryaspis nathorsti*                |
+| Heterostraci   | upper part of Austfjorden Member; Dicksonfjorden Member| *Doryaspis nathorsti*                |
 |                |                 | *Zascinaspis laticephala*            |
-|                |                 | *Gigantaspis bocki*                  |
+|                | upper part of Austfjorden Member| *Gigantaspis bocki*                  |
 |                |                 | *Ennosveaspis minor*                 |
 | Osteostraci    |                 | *Atelaspis tessellata*               |
 |                |                 | *Aceraspis robustus*                 |
