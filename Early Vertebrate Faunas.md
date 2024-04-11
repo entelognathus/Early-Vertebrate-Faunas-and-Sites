@@ -378,9 +378,9 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 | Clade          |  Formation      | taxa                                 |
 |----------------|-----------------|--------------------------------------|
 | Heterostraci   | upper part of Austfjorden Member; Dicksonfjorden Member| *Doryaspis nathorsti*                |
-|                |                 | *Zascinaspis laticephala*            |
+|                | upper part of Austfjorden Member; now as *Gigantaspis laticephala* (Blieck & Goujet, 1983)| *Zascinaspis laticephala*            |
 |                | upper part of Austfjorden Member| *Gigantaspis bocki*                  |
-|                |                 | *Ennosveaspis minor*                 |
+|                |                 | *Ennosveaspis minor* (Heintz, 1960)                |
 | Osteostraci    |                 | *Atelaspis tessellata*               |
 |                |                 | *Aceraspis robustus*                 |
 |                |                 | *B. rostata*                         |
