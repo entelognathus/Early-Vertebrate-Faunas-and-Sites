@@ -428,21 +428,21 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                |*Diademaspis jarviki* (Wängsjø 1952) |*Diademaspis jarviki*|
 |                |*Machairaspis isachseni* (Stensiö 1927)|*Machairaspis isachseni*|
 |                |*Machairaspis battaili* Janvier 1980| *Machairaspis battaili*|
-| Thelodonti     |                 | *Turinia pagei*                      |
-|                |                 | *Sigurdia*                           |
-|                |                 | *Amaltheolepis winsneri*             |
-| Chondrichthyes |                 | *Chondrichthyes gen. et sp. indet.*  |
-| Acanthodii     |                 | *Nostolepis sp.*                     |
-|                |                 | *Gomphonchus*                        |
-|                |                 | *« Onchus » overathensis*            |
-|                |                 | *Xylacanthus grandis*                |
-|                |                 | *X. minutus*                         |
-| Osteichthyes   |                 | *Orvikuina sp.*                      |
-|                |                 | *Porolepis brevis*                   |
-|                |                 | *P. spitsbergensis*                  |
-|                |                 | *P. elongata*                        |
-|                | Sigurdfjellet   | *Powichthys spitsbergensis*          |
-|                | Verdalen Mb     | *Heimenia ensis*                     |
+| Thelodonti     |                 | *Turinia pagei*|
+|                |                 | *Sigurdia*|
+|                |Verdalen Member|*Amaltheolepis winsnesi* Ørvig 1969|
+| Chondrichthyes |                 | Chondrichthyes gen. et sp. indet.|
+| Acanthodii     |                 | *Nostolepis* sp. |
+|                |                 | *Gomphonchus* |
+|                |                 | *«Onchus» overathensis* |
+|                |                 | *Xylacanthus grandis*|
+|                |                 | *Xylacanthus minutus*|
+| Osteichthyes   |                 | *Orvikuina* sp.|
+|                |                 | *Porolepis brevis*|
+|                |                 | *Porolepis spitsbergensis* Jarvik, 1937|
+|                |                 | *Porolepis elongata*|
+|                |lower part of Austfjorden Member| *Powichthys spitsbergensis*|
+|                |Verdalen Member| *Heimenia ensis* |
 
 
 ***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
