@@ -316,16 +316,15 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 > - The Austfjorden Member roughly corresponds to the Sigurdfjellet (early Pragian) and Kapp Kjeldsen (late Pragian) faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
 
-> - Pragian (Austfjorden Member, Sigurdfjellet and Kapp Kjeldsen faunal divisions): *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
 > - Early Pragian (lower part of Austfjorden Member, Sigurdfjellet faunal division，Assemblage 1 in Pernègre and Blieck, 2016)
 > - - Pteraspidiforms: *Doryaspis arctica* Pernègre, 2002; *Gigantaspis minima* Pernègre & Goujet, 2007; *Xylaspis prima* (Pernègre, 2003); *Woodfjordaspis felixi* Pernègre, 2006
->   - Osteostracans：
->   - Placoderms： 
-
+>   - Osteostracans：*Boreaspis rostrata* Stensiö, 1927; *Boreaspis intermedia* Wängsjö, 1952; *Boreaspis ceratops* Wängsjö, 1952; *Boreaspis ginsburgi* Janvier, 1977; *Cephalaspis curta* Wängsjö, 1952; *Norselaspis glacialis* Janvier, 1981; *Axinaspis whitei* Wängsjö, 1952; *Diademaspis* sp.
+>   - Placoderms：*Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp. 
 
 > - Late Pragian (upper part of Austfjorden Member, [Kapp Kjeldsen faunal division，Assemblages 2, 3, and 6 in Pernègre and Blieck, 2016)
-
-
+> - - Pteraspidiforms: *Doryaspis arctica* Pernègre, 2002; *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis groenhorgensis* Pernègre, 2005; *Doryaspis lyktensis* (Heintz, 1960); *Gigantaspis isachseni* Heintz, 1962; *Gigantaspis bocki* Heintz, 1962; *Gigantaspis laticephala* (Blieck & Goujet, 1983).
+>   - Osteostracans：*Diademaspis poplinae* Janvier, 1985; *Parameteoraspis moythomasi* (Wängsjö, 1952); *Nectaspis areolata* Wängsjö, 1952; Hildenaspis sp.
+>   -  Placoderms：*Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
 
 > - Early Emsian (Dicksonfjorden Member, Keltiefjellet faunal division, Assemblages 4, 5, 7, 8 in Pernègre and Blieck, 2016): *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 > - Dicksonfjord Member: *Doryaspis nathorsti*, *Doryaspis lyktensis*, *Diademaspis poplinae* (osteostracan), *Arctaspis maxima*, *Nectaspis peltata*, *Arctolepis decipiens (placoderms)*.
