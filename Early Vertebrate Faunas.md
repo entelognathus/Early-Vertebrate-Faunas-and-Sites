@@ -272,7 +272,11 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - Dineley and Loeffler (1993): "The faunas as a whole suggest correlation with the crouchi zone of the Anglo-Welsh vertebrate succession, the vogti horizon of Vestspitsbergen and the Czortkov horizon of Podolia, and can be dated as late Gedinnian to early Siegenian (Lochkovian-Pragian) from associated invertebrates (Elliott, 1984)." The age as late Lochkovian is appropriate.
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
-> Ben Nevis Formation, Red Bay Group; Spitsbergen.
+> Fraenkelryggen Formation and Ben Nevis Formation, Red Bay Group; Svalbard (Spitsbergen).
+
+
+
+
 
 ***Lower Old Red Sandstone fauna***: Lochkovian, 419.2, 410.8
 > Lower Old Red Sandstone, Farnell and Tealing, Midland Valley, Scotland.
