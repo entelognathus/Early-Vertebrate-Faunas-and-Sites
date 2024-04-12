@@ -276,7 +276,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - *Nikolvia*; *Turinia*; *Apalolepis*
 > - *Davelaspis*; *Traquairaspis*; *Corvaspis*; *Protopteraspis*; *Poraspis*; *Dinaspidella*; *Lapidaspis*; *Anglaspis*; *Homalaspidella*; *Canadapterespis?*; *Miltaspis*; *Larnoraspis*; *Ctenaspis*; *Weigeltaspis*; *Irregulareaspis*; *Doryaspis*
 > - *Cephalaspis*; *Macheiraspis*; *Pattenaspis*; *Ectinaspis*; *Wangsjoeaspis*; *Himetaspis*; *'Securiaspis'*; *Tegaspis*; *Benneviaspis*; *Kiaeraspis*; *Hoelaspis*; *Scolenaspis*; *Zenaspis*; *Parameteoraspis*
-> - *'Nostolepis'*; *'Protodus'*; *'Gomphonchus'*; *'Onchus*.
+> - *'Nostolepis'*; *'Protodus'*; *'Gomphonchus'*; *'Onchus'*.
 
 
 ***Lower Old Red Sandstone fauna***: Lochkovian, 419.2, 410.8
