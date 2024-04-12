@@ -275,7 +275,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > Fraenkelryggen Formation and Ben Nevis Formation, Red Bay Group; Svalbard (Spitsbergen).
 > - *Nikolvia*; *Turinia*; *Apalolepis*
 > - *Davelaspis*; *Traquairaspis*; *Corvaspis*; *Protopteraspis*; *Poraspis*; *Dinaspidella*; *Lapidaspis*; *Anglaspis*; *Homalaspidella*; *Canadapterespis?*; *Miltaspis*; *Larnoraspis*; *Ctenaspi5*; *Weigeltaspis*; *Irregulareaspis*; *Doryaspis*
-> - *Cephalaspis*; *MacheiraspiS*; *Pattenaspis*; *Ectinaspis*; *Wangsjoeaspis*; *Himetaspis*; *'Securiaspis'*; *Tegaspis*; *Benneviaspis*; *Kiaeraspis*; *Hoelaspis*; *Scolenaspis*; *Zenaspis*; *Parameteoraspis*
+> - *Cephalaspis*; *Macheiraspis*; *Pattenaspis*; *Ectinaspis*; *Wangsjoeaspis*; *Himetaspis*; *'Securiaspis'*; *Tegaspis*; *Benneviaspis*; *Kiaeraspis*; *Hoelaspis*; *Scolenaspis*; *Zenaspis*; *Parameteoraspis*
 > - *'Nostolepis'*; *'Protodus'*; *'Gomphonchus'*; *'Onchus*.
 
 
