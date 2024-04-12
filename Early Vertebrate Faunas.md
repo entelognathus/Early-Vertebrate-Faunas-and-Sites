@@ -273,9 +273,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > Fraenkelryggen Formation and Ben Nevis Formation, Red Bay Group; Svalbard (Spitsbergen).
-
-
-
+> - *Nikolvia*; *Turinia*; *Apalolepis*
+> - *Davelaspis*; *Traquairaspis*; *Corvaspis*; *Protopteraspis*; *Poraspis*; *Dinaspidella*; *Lapidaspis*; *Anglaspis*; *Homalaspidella*; *Canadapterespis?*; *Miltaspis*; *Larnoraspis*; *Ctenaspi5*; *Weigeltaspis*; *Irregulareaspis*; *Doryaspis*
+> - *Cephalaspis*; *MacheiraspiS*; *Pattenaspis*; *Ectinaspis*; *Wangsjoeaspis*; *Himetaspis*; *'Securiaspis'*; *Tegaspis*; *Benneviaspis*; *Kiaeraspis*; *Hoelaspis*; *Scolenaspis*; *Zenaspis*; *Parameteoraspis*
+> - *'Nostolepis'*; *'Protodus'*; *'Gomphonchus'*; *'Onchus*.
 
 
 ***Lower Old Red Sandstone fauna***: Lochkovian, 419.2, 410.8
