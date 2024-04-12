@@ -274,8 +274,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > Fraenkelryggen Formation and Ben Nevis Formation, Red Bay Group; Svalbard (Spitsbergen).
 > - *Nikolvia*; *Turinia*; *Apalolepis*
-> - *Davelaspis*; *Traquairaspis*; *Corvaspis*; *Protopteraspis*; *Poraspis*; *Dinaspidella*; *Lapidaspis*; *Anglaspis*; *Homalaspidella*; *Canadapterespis?*; *Miltaspis*; *Larnoraspis*; *Ctenaspis*; *Weigeltaspis*; *Irregulareaspis*; *Doryaspis*
-> - *Cephalaspis*; *Macheiraspis*; *Pattenaspis*; *Ectinaspis*; *Wangsjoeaspis*; *Himetaspis*; *'Securiaspis'*; *Tegaspis*; *Benneviaspis*; *Kiaeraspis*; *Hoelaspis*; *Scolenaspis*; *Zenaspis*; *Parameteoraspis*
+> - *Davelaspis tuberculata* Blieck, 1983; *Traquairaspis cf. T. pocoki* (White, 1946); *Corvaspis kingi* Woodward, 1934; *Protopteraspis primaeva* (Kiaer, 1928); *Poraspis polaris* Kiaer, 1930; *Poraspis brevis* Kiaer, 1932; *Dinaspidella robusta* Kiaer, 1932; *Lapidaspis* Borchsenius & Williams, 1963; *Anglaspis heintzi* Kiaer, 1932; *Anglaspis insignis* Kiaer, 1932; *Anglaspis platostriata* Kiaer, 1932; *Anglaspis elongata* Blieck, 1983; *Homalaspidella nitida* Kiaer, 1932; *Canadapteraspis ovalis* Blieck, 1983; *Miltaspis*; *Larnoraspis*; *Ctenaspis*; *Weigeltaspis*; *Irregulareaspis*; *Doryaspis*
+> - *Cephalaspis*; *Machairaspis corystis* (Wängsjø 1952); *Machairaspis hastata* (Wängsjø 1952); *Pattenaspis*; *Ectinaspis*; *Wangsjoeaspis*; *Himetaspis*; *'Securiaspis'*; *Tegaspis*; *Benneviaspis*; *Kiaeraspis*; *Hoelaspis*; *Scolenaspis*; *Zenaspis*; *Parameteoraspis*
 > - *'Nostolepis'*; *'Protodus'*; *'Gomphonchus'*; *'Onchus'*.
 
 
