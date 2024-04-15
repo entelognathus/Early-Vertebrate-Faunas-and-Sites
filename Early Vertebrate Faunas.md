@@ -330,7 +330,8 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - Late Pragian (upper part of Austfjorden Member, Kapp Kjeldsen faunal division，Assemblages 2, 3, and 6 in Pernègre and Blieck, 2016)
 > - - Pteraspidiforms: *Doryaspis arctica* Pernègre, 2002; *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis groenhorgensis* Pernègre, 2005; *Doryaspis lyktensis* (Heintz, 1960); *Gigantaspis isachseni* Heintz, 1962; *Gigantaspis bocki* Heintz, 1962; *Gigantaspis laticephala* (Blieck & Goujet, 1983).
 >   - Osteostracans：*Diademaspis poplinae* Janvier, 1985; *Parameteoraspis moythomasi* (Wängsjö, 1952); *Nectaspis areolata* Wängsjö, 1952; Hildenaspis sp.
->   -  Placoderms：*Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+>   - Placoderms：*Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+>   - crown gnathostomes: *Porolepis spitsbergensis* Jarvik, 1937
 
 > - Early Emsian (Dicksonfjorden Member, Keltiefjellet faunal division, Assemblages 4, 5, 7, 8 in Pernègre and Blieck, 2016)
 > - - Pteraspidiforms: *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis lyktensis* (Heintz, 1960); *Doryaspis* sp.
