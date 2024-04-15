@@ -478,7 +478,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - *Huginaspis australis* Young and Goujet, 2003
 
 > - Mount Winter, Amadeus Basin  (Northern Territory), and southern Toomba Range, Georgina Basin (western Queensland), central Australia.
-> - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005 from Amadeus Basin.
+> - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005, *Harajicadipterus youngi* Clement, 2009 from Amadeus Basin.
 > - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
 > - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (western Queensland) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
 
@@ -637,6 +637,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |              |                 | *Glyptolepis* sp.               |
 |              |                 | *Marsdenichthys longioccipitus* |
 |              |                 | *Beelarongia patrichae*         |
+|              |                 | *Eoctenodus microsoma*          |
 
 
 ***Bindaree Road-Freestone Creek fauna***, upper Givetian, 384.37, 382.7
@@ -668,7 +669,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |               |                 | *Dipterus oervigi*                  |
 |               |                 | *D. sp. cf. D. valenciennesi*       |
 |               |                 | *Rhinodipterus ulrichi*             |
-|               |                 | *Griphognathus scultpta*            |
+|               |                 | *Griphognathus sculpta*            |
 |               |                 | *Latvius deckerti*                  |
 |               |                 | *L. niger*                          |
 |               |                 | *L. sp.*                            |
@@ -951,6 +952,7 @@ The arthrodires comprise
 > The underlying Kap Graah Group is also referred to the Famennian.
 > - For details, see Blom et al. (2007).
 > - *Cladodus* (tooth); Chondrichthyes gen. et sp. indet. 1 (spine); Chondrichthyes gen. et sp. indet. 2 (spine); *Phyllolepis orvini* Heintz, 1930; *Phyllolepis nielseni* Stensiö, 1939; *Groenlandaspis mirabilis* Heintz, 1932; Arthrodira gen. et sp. indet. 2; Arthrodira gen. et sp. indet. 3; *Bothriolepis groenlandica* Heintz, 1930; *Bothriolepis jarviki* Stensiö, 1948; *Bothriolepis nielseni* Stensiö, 1948; *Remigolepis incisa* (Woodward, 1900); *Remigolepis cristata* Stensiö, 1931; *Remigolepis acuta* Stensiö, 1931; *Remigolepis koch*i Stensiö, 1931; *Remigolepis kullingi* Stensiö, 1931; *Remigolepis? tuberculata* Stensiö, 1931; *Remigolepis emarginata* Säve-Söderbergh, 1932 (nomen nudum); Acanthodidae gen. et sp. indet. (spines + scales); *Cuneognathus gardineri* Friedman & Blom, 2006*Holoptychius* spp.; *Nilsenia nordica* Lehman, 1959; *Soederberghia groenlandica* Lehman, 1959; ?*Soederberghia* sp.;  *Jarvikia arctica* Lehman, 1959; *Oervigia nordica* Lehman, 1959; Dipnoi gen. et sp. indet.; *Celsiodon ahlbergi* Clack *et al*., 2019; *Eusthenodon waengsjoei* Jarvik, 1952; Tristichopteridae sp.; *Acanthostega gunnari* Jarvik, 1952;  *Ichthyostega stensioei* Säve-Söderbergh, 1932;  *Ichthyostega watsoni* Säve-Söderbergh, 1932; *Ichthyostega eigili* Säve-Söderbergh, 1932; Tetrapoda n. gen. et sp.
+> - *Nielsenia nordica*, Lehman, 1959
 
 ***Ketleri Formation fauna***: upper Famennian.
 > Ketleri Formation, Pavari, Latvia
