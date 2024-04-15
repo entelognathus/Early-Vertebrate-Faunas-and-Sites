@@ -636,6 +636,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |              |                 | *Glyptolepis* sp.               |
 |              |                 | *Marsdenichthys longioccipitus* |
 |              |                 | *Beelarongia patrichae*         |
+|              |                 | *Eoctenodus microsoma*          |
 
 
 ***Bindaree Road-Freestone Creek fauna***, upper Givetian, 384.37, 382.7
