@@ -481,6 +481,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
 > - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (western Queensland) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
 
+***Michigan basin***
+> - Middle and Late Devonian
+> - see Stack and Sallan, 2018
+
 
 ## Middle Devonian
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
