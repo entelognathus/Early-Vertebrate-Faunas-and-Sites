@@ -468,7 +468,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 
 > - See Young (1993, 2000) for the age constraints.
 
-***Crevens Peak Beds and Dulcie Sandstone fauna***: late Emsian to early Eifelian.
+***Crevens Peak Beds and Dulcie Sandstone fauna***: late Emsian to early Eifelian. 400.45,391.43.
 > Crevens Peak Beds of the Toko Syncline (Georgina Basin，western Queensland) and lower Dulcie Sandstone of the Dulcie Syncline (Amadeus Basin, Northern Territory), central Australia. MAV2 or MAV3.
 
 > - Young and Goujet (2003) erected seven new arthrodire genera (Lurapullaspis, Toombalepis, Tnoralaspis, Ethabukaspis, Tokolepis, Cravenaspis, Mithakaspis), with a second Wuttagoonaspis species (W. milligani), and a new species of Huginaspis.
@@ -480,6 +480,10 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 > - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005 from Amadeus Basin.
 > - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
 > - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (western Queensland) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
+
+***Michigan basin***
+> - Middle and Late Devonian
+> - see Stack and Sallan, 2018
 
 
 ## Middle Devonian
@@ -952,7 +956,7 @@ The arthrodires comprise
 
 ***Catskill Formation fauna***: Famennian.
 > Catskill Formation; Red Hill, Pennsylvania, USA.
->
+> - Apatorhynchus opistheretmus(Friedman and Daeschler, 2006) Late Devonian, Famennian (Fa2b).
 
 ***Worange Point fauna***: lower Famennian.
 > Worange Point Formation, Eden-Pambula region, MAV14
