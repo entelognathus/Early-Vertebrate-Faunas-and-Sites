@@ -511,7 +511,7 @@ Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qu
 |                 *Mesacanthus peachi*            |
 | Actinopterygii  *Cheirolepis trailli*           |
 | Sarcopterygii   *Dipterus valenciennesi*        |
-|                 *Pentlandia macroptera*         |
+|                 *Pentlandia macroptera* (note: middle Givetian, 384.99, 387.30 (Jude et al., 2014) )        |
 |                 *Glyptolepis paucidens*         |
 |                 *G. leptopterus*                |
 |                 *Osteolepis macrolepidotus*     |
