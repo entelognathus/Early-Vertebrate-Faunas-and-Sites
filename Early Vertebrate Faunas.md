@@ -29,62 +29,20 @@ MAV15, Grenfell fauna, late Famennian
 >  Assemblages: the fauna is divided into Wentang Assemblage (early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
 
 >  -  **lower Telychian**
->  - -  *Dayongaspis hunanensis*  
+>  - -  Rongxi Formation, Zhangjiajie: *Dayongaspis hunanensis*   *Konoceraspis grandoculus* *Sinacanthus wuchangensis*  *Neosinacanthus planispinatus* *Neosinacanthus* sp.1  *Neosinacanthus* sp.2   *Tarimacanthus bachuensis*  *Eosinacanthus shanmenensis**Hunanacanthus lixianensis* *Neosinacanthus* sp.   *Sinacanthus* sp.
+>    -   Qingshui Formation, Jiujiang:  *Xiyuichthys lixiensis*  *Qingshuiaspis junqingi*   *Anjiaspis ericius*  *Jiangxialepis jiujiangensis* *Neosinacanthus* sp.
+>    -   Kangshan Formation (formerly referred to as the Maoshan Formation), Changxing: *Changxingaspis gui*  *Shuyu zhejiangensis*  *Meishanaspis lehmani* *Anjiaspis reticularis *  *Sinacanthus wuchangensis* *Neosinacanthus* sp.1
+>    -    Houchiatang Formation, Chaohu: *Latirostraspis chaohuensis* *Neosiacanthus wanzhongensis*
+>    -    Qingshui Formation (Guidingshan Formation), Wuhan:*Hanyangaspis guodingshanensis* *Jiangxialepis retrospina* *Sinacanthus wuchangensis*
+>    -    Tataertag Formation, Aksu, Xinjiang:  *Kalpinolepis tarimensis* *Microphymaspis pani*  *Platylomaspis serratus**Xiyuichthys zhangi* *Changxingaspis nianzhongi*    *Jiangxialepis rongi*  *Nanjiangaspis kalpinensis**Sinacanthus wuchangensis*  *Tarimacanthus bachuensis* *Tielikewatielepis sinensis*   *Xiaohaizilepis liui*  
 
 >  -  **middle Telychian**
-
+>  - -   Xiushan Formation, Zhangjiajie: *Dayongaspis colubra*
+>    -   Fentou Formation, Wuhan:   *Hanyangaspis guodingshanensis**Sinacanthus wuchangensis*
+>    -   Fentou Formation, Wuwei: *Geraspis rare*
 
 >  -  **upper Telychian**
-
-| sites        |  Formation                      | species                       | age             |
-|--------------|---------------------------------|-------------------------------|---------------- |
-| Zhangjiajie  | Rongxi                          |    | early Telychian |
-|              |                                 | *Konoceraspis grandoculus*    | early Telychian |
-|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
-|              |                                 | *Neosinacanthus planispinatus*| early Telychian |
-|              |                                 | *Neosinacanthus* sp.1         | early Telychian |
-|              |                                 | *Neosinacanthus* sp.2         | early Telychian |
-|              |                                 | *Tarimacanthus bachuensis*    | early Telychian |
-|              |                                 | *Eosinacanthus shanmenensis*  | early Telychian |
-|              |                                 | *Hunanacanthus lixianensis*   | early Telychian |
-|              |                                 | *Neosinacanthus* sp.          | early Telychian |
-|              |                                 | *Sinacanthus* sp.             | early Telychian |
-| Jiujiang     | Qingshui                        | *Xiyuichthys lixiensis*       | early Telychian |
-|              |                                 | *Qingshuiaspis junqingi*      | early Telychian |
-|              |                                 | *Anjiaspis ericius*           | early Telychian |
-|              |                                 | *Jiangxialepis jiujiangensis* | early Telychian |
-|              |                                 | *Neosinacanthus* sp.          | early Telychian |
-| Changxing    | Kangshan                        | *Changxingaspis gui*          | early Telychian |
-|              |                                 | *Shuyu zhejiangensis*         | early Telychian |
-|              |                                 | *Meishanaspis lehmani*        | early Telychian |
-|              |                                 | *Anjiaspis reticularis *      | early Telychian |
-|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
-|              |                                 | *Neosinacanthus* sp.1         | early Telychian |
-| Chaohu       | Houchiatang                     | *Latirostraspis chaohuensis * | early Telychian |
-|              |                                 | *Neosiacanthus wanzhongensis* | early Telychian |
-| Wuhan        | Qingshui                        |*Hanyangaspis guodingshanensis*| early Telychian |
-|              |                                 | *Jiangxialepis retrospina*    | early Telychian |
-|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
-| Aksu         | Tataertag                       | *Kalpinolepis tarimensis*     | early Telychian |
-|              |                                 | *Microphymaspis pani*         | early Telychian |
-|              |                                 | *Platylomaspis serratus*      | early Telychian |
-|              |                                 | *Xiyuichthys zhangi*          | early Telychian |
-|              |                                 | *Changxingaspis nianzhongi*   | early Telychian |
-|              |                                 | *Jiangxialepis rongi*         | early Telychian |
-|              |                                 | *Nanjiangaspis kalpinensis*   | early Telychian |
-|              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
-|              |                                 | *Tarimacanthus bachuensis*    | early Telychian |
-|              |                                 | *Tielikewatielepis sinensis*  | early Telychian |
-|              |                                 | *Xiaohaizilepis liui*         | early Telychian |
-|Zhangjiajie   | Xiushan                         | *Dayongaspis colubra*         | middle Telychian|
-|Wuhan         | Fentou                          |*Hanyangaspis guodingshanensis*| middle Telychian|
-|              |                                 | *Sinacanthus wuchangensis*    | middle Telychian|
-|Wuwei         | Fentou                          | *Geraspis rare*               | middle Telychian|
-|Jiujiang      | Xikeng                          | *Xiushuiaspis jiangxiensis*   | upper Telychian |
-|              |                                 | *Xiushuiaspis ganbeiensis*    | upper Telychian |
-|              |                                 | *Sinogaleaspis shankouensis*  | upper Telychian |
-|              |                                 | *Rumporostralis xikengensis*  | upper Telychian |
-|              |                                 | *Rumporostralis shipanensis*  | upper Telychian |
+>  - -   Xikeng Formation, Jiujiang:  *Xiushuiaspis jiangxiensis**Xiushuiaspis ganbeiensis* *Sinogaleaspis shankouensis**Rumporostralis xikengensis*  *Rumporostralis shipanensis* 
 
 ## Wenlock
 
