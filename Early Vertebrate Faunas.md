@@ -47,11 +47,11 @@ MAV15, Grenfell fauna, late Famennian
 
 ## Wenlock
 
-## Ludlow - Pridoli
-***Xiaoxiang Vertebrate Fauna***: Ludfordian to Pridoli.
+## Ludlow
+***Xiaoxiang Vertebrate Fauna***: Ludfordian, late Ludlow.
 > The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow, 425.6, 423.0), lasting for about 2.6 million years.
 
-> Horizons: Kuanti, Miaogao, and Yulungssu formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
+> Horizons: Kuanti, Miaogao, and Yulungssu (lower part) formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
 
 > - Thelodonti: *Thelodus sinensis*
 > - Galeaspida: [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012; [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986); [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
@@ -59,17 +59,18 @@ MAV15, Grenfell fauna, late Famennian
 > - Acanthodii: *Gomphonchus*sp.; *Poracanthodes qujingensis*; *Hanilepis wangi*; *Nostolepis striata*; *Nostolepis sinica*
 > - Osteichthyes: *Ligulalepis yunnanensis*; *Naxilepis gracilis*; *Kawalepis comptus*; *Guiyu oneiros*; *Megamastax amblyodus*; *Sparalepis tingi*              |
 > 
+
+## Pridoli
+***Liaojiaoshan Assemblage of Xitun Vertebrate Fauna***: Pridoli
+> upper part of the Yulungssu Formation, Qujing, Yunnan.
+
 # Devonian
 ## Early Devonian
-
 > For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
 
-***Xitun Vertebrate Fauna***: Pridoli to Pragian.
+***Xitun Vertebrate Fauna (Xishancun to Xujiachong formations)***: Lochkovian to Pragian.
 This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Huananaspidiformes, Yunnanolepidoidei, and crown sarcopterygians. The following seven assemblages are recognized based on the different tectonic backgrounds and facies.
-Horizons: Yulungssu, Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunnan.
-
-**Yulungssu Formation**: Pridoli
-> ???
+Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunnan.
 
 **Xishancun Formation**: lower Lochkovian
 > Devonian Macrovertebrate Assemblages I of China based on Zhu (2000) 
