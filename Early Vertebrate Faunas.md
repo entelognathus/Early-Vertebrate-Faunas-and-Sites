@@ -33,17 +33,21 @@ MAV15, Grenfell fauna, late Famennian
 >    -   Qingshui Formation, Jiujiang:  *Xiyuichthys lixiensis*; *Qingshuiaspis junqingi* Shan *et al*., 2022; *Anjiaspis ericius* Shan et al., 2022; *Jiangxialepis jiujiangensis* Shan *et al*., 2023; *Neosinacanthus* sp.
 >    -   Kangshan Formation (formerly referred to as the Maoshan Formation), Changxing and Anji, Zhejiang: *Changxingaspis gui* Wang, 1991; *Shuyu zhejiangensis*(Pan, 1986); *Meishanaspis lehmani* Wang, 1991; *Anjiaspis reticularis* Gai and Zhu, 2005; *Sinacanthus wuchangensis*; *Neosinacanthus* sp.1
 >    -    Houchiatang Formation, Chaohu: *Latirostraspis chaohuensis* Wang *et al*., 1980; *Neosiacanthus wanzhongensis*
->    -    Qingshui Formation (Guidingshan Formation), Wuhan: *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021; *Sinacanthus wuchangensis*
+>    -    Qingshui Formation (Guidingshan Formation), Wuhan: *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021; [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023; *Sinacanthus wuchangensis*
 >    -    Tataertag Formation, Aksu, Xinjiang:  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi*; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*  
 
 >  -  **middle Telychian**, 436.8, 435.1
 >  - -   Xiushan Formation, Zhangjiajie: [*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 >    -   Fentou Formation, Wuhan:   *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021; *Sinacanthus wuchangensis*
->    -   Fentou Formation, Wuwei: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993 
+>    -   Fentou Formation, Wuwei: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993
+>    -    Ymogantau Formation; Kalpin County, Xinjiang: [*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
 
 >  -  **upper Telychian**, 435.1, 433.4
 >  - -   Xikeng Formation, Jiujiang:  [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; 51. [*Sinogaleaspis shankouensis*](https://deepbone.org/public/#/explor?s_id=320&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980; [*Rumporostralis xikengensis*](https://deepbone.org/public/#/explor?s_id=326&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1980);  [*Rumporostralis shipanensis*](https://deepbone.org/public/#/explor?s_id=83050&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2020
 >    -  Huixingshao Formation, Xiushan, Chongqing; Huayuan, Hunan: [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., in prep.; Xiushanaspis, Shenacanthus
+>    -  Kezirtag Formation; Kalpin County, Xinjiang: [*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019
+
+
 
 ## Wenlock
 
@@ -85,12 +89,41 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 **Guijiatun Formation**: uppermost Lochkovian?
 > - 
 
+**Lianhuashan Formation**: upper Lochkovian
+> - Galeaspida: [*Eugaleaspis lianhuashanensis*](https://deepbone.org/public/#/explor?s_id=386&functionId=Deepbone_header_searchResultOpen) Liu, 1986
+
 **Xujiachong Formation**: Pragian
 > Devonian Macrovertebrate Assemblage III of China based on Zhu (2000)
 > - Galeaspida: [*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975;  [*Sanchaspis magalarostrata*](https://deepbone.org/public/#/explor?s_id=515&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981; [*Pterogonaspis yuhaii*](https://deepbone.org/public/#/explor?s_id=403&functionId=Deepbone_header_searchResultOpen) Zhu, 1992; [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Qushiaspis elaia*](https://deepbone.org/public/#/explor?s_id=76898&functionId=Deepbone_header_searchResultOpen) Jiang *et al*., 2021
 
+
 **Posongchong Formation**: Pragian
-> - Galeaspida: [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
+> - Galeaspida: [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979; [*Macrothyraspis longicornis*](https://deepbone.org/public/#/explor?s_id=596&functionId=Deepbone_header_searchResultOpen) Pan, 1992; [*Qingmenaspis microculus*](https://deepbone.org/public/#/explor?s_id=607&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981; [*Rhegmaspis xiphoidea*](https://deepbone.org/public/#/explor?s_id=73756&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2015; [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao *et al*., 2002； [*Zhaotongaspis janvieri*](https://deepbone.org/public/#/explor?s_id=509&functionId=Deepbone_header_searchResultOpen) Wang and Zhu, 1994; [*Sanqiaspis zhaotongensis*](https://deepbone.org/public/#/explor?s_id=535&functionId=Deepbone_header_searchResultOpen) Liu, 1975  
+
+**Nakaoiling Formation**: Pragian
+> - Galeaspida: [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975; [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973; [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986 (bottom of Yukiang Formation); 
+
+**Pingyipu Formation**: Pragian
+> - Galeaspida: [*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975;  [*Lungmenshanaspis kiangyouensis*](https://deepbone.org/public/#/explor?s_id=551&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1975; [*Sanqiaspis rostrata*](https://deepbone.org/public/#/explor?s_id=534&functionId=Deepbone_header_searchResultOpen) Liu, 1975；  [*Sinoszechuanaspis yanmenpaensis*](https://deepbone.org/public/#/explor?s_id=601&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+
+**Xiaoshan Formation**: Pragian
+> - Galeaspida: [*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
+
+**Shujiaping Formation**: upper Emsian, 400.45, 393.3
+> - Galeaspida: [*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+
+**Danlin Formation**: lower Emsian, 407.6, 400.45
+> - Galeaspida: [*Paraduyunaspis hezhangensis*](https://deepbone.org/public/#/explor?s_id=457&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+
+**Wudang Formation**: Emsian, 407.6, 393.3
+> - Galeaspida: [*Neoduyunaspis minuta*](https://deepbone.org/public/#/explor?s_id=461&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+
+**Hexian Formation**: Emsian, 407.6, 393.3
+> - Galeaspida: [*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2001
+
+**Suotoushan Formation**: upper Emsian, 400.45, 393.3
+> - Galeaspida: [*Wumengshanaspis cuntianensis*](https://deepbone.org/public/#/explor?s_id=530&functionId=Deepbone_header_searchResultOpen) Wang and Lan, 1984
+
 
 > **Note, not all the taxa below come from the Xitun Formation. Some of them from the Xishancun Formation。**
 
@@ -438,6 +471,12 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 
 ## Middle Devonian
+***Xindu Formation fauna***: Eifelian, 393.3, 387.7 
+> Santan, Bobai, Guangxi, China
+> - [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
+
+
+
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
 
