@@ -63,6 +63,8 @@ MAV15, Grenfell fauna, late Famennian
 ## Pridoli
 ***Liaojiaoshan Assemblage of Xitun Vertebrate Fauna***: Pridoli
 > upper part of the Yulungssu Formation, Qujing, Yunnan.
+> - [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1978
+
 
 # Devonian
 ## Early Devonian
@@ -74,16 +76,17 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 **Xishancun Formation**: lower Lochkovian
 > Devonian Macrovertebrate Assemblages I of China based on Zhu (2000) 
-> 
+> - Galeaspida: [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965; [*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 
 **Xitun Formation**: upper Lochkovian
 > Devonian Macrovertebrate Assemblage II of China based on Zhu (2000) 
+> - Galeaspida: [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
+
 
 > **only use English**, delete age, formation, site, Chinese names, which are redundant here.
 > **Note, not all the taxa below come from the Xitun Formation. Some of them from the Xishancun Formation。**
-*Polybranchiaspis liaojiaoshanensis*   刘玉海, 1965
 *Polybranchiaspis minor*            刘玉海, 1975
-*Polybranchiaspis yulongssus*         刘玉海, 1975
+
 *Polybranchiaspis zhanyiensis*          潘江和王士涛, 1978
 *Polybranchiaspis miandiancunensis*    潘江和王士涛, 1978
 *Eugaleaspis changi*                     刘玉海, 1965
