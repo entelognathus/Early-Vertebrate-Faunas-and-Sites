@@ -49,12 +49,12 @@ MAV15, Grenfell fauna, late Famennian
 
 ## Ludlow - Pridoli
 ***Xiaoxiang Vertebrate Fauna***: Ludfordian to Pridoli.
-> The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow), lasting for about 2.6 million years.
+> The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow, 425.6, 423.0), lasting for about 2.6 million years.
 
 > Horizons: Kuanti, Miaogao, and Yulungssu formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
 
 > - Thelodonti: *Thelodus sinensis*
-> - Galeaspida: *Dunyu longiforus*; *Dunyu xiushanensis*
+> - Galeaspida: [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012; [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986); [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
 > - Placodermi: *Wangolepis sinensis*;*Silurolepis platydorsalis*; *Entelognathus primordialis*; *Qilinyu rostrata*; *Shimenolepis graniferus*
 > - Acanthodii: *Gomphonchus*sp.; *Poracanthodes qujingensis*; *Hanilepis wangi*; *Nostolepis striata*; *Nostolepis sinica*
 > - Osteichthyes: *Ligulalepis yunnanensis*; *Naxilepis gracilis*; *Kawalepis comptus*; *Guiyu oneiros*; *Megamastax amblyodus*; *Sparalepis tingi*              |
