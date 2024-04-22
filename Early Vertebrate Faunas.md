@@ -24,13 +24,21 @@ MAV15, Grenfell fauna, late Famennian
 ***Zhangjiajie vertebrate fauna***: Telychian.
 > areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
 
-> Horizons: three horizons, lower Telychian including Rongxi Formation, Qingshui Formation, Kangshan Formation, Houchiatang Formation, and Tataertag formation; middle Telychian including Xiushan Formation and Fentou Formation; upper Telychian including Xikeng Formation and Huixingshao Formation.
+> Horizons: three horizons, **lower Telychian** including Rongxi Formation, Qingshui Formation, Kangshan Formation, Houchiatang Formation, and Tataertag formation; **middle Telychian** including Xiushan Formation and Fentou Formation; **upper Telychian** including Xikeng Formation and Huixingshao Formation.
 
 >  Assemblages: the fauna is divided into Wentang Assemblage (early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
->
+
+>  -  **lower Telychian**
+>  - -  *Dayongaspis hunanensis*  
+
+>  -  **middle Telychian**
+
+
+>  -  **upper Telychian**
+
 | sites        |  Formation                      | species                       | age             |
 |--------------|---------------------------------|-------------------------------|---------------- |
-| Zhangjiajie  | Rongxi                          | *Dayongaspis hunanensis*      | early Telychian |
+| Zhangjiajie  | Rongxi                          |    | early Telychian |
 |              |                                 | *Konoceraspis grandoculus*    | early Telychian |
 |              |                                 | *Sinacanthus wuchangensis*    | early Telychian |
 |              |                                 | *Neosinacanthus planispinatus*| early Telychian |
