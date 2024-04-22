@@ -21,14 +21,14 @@ MAV15, Grenfell fauna, late Famennian
 
 # Silurian
 ## Llandovery
-***Zhangjiajie vertebrate fauna***: Telychian.
+***Zhangjiajie vertebrate fauna***: Telychian, 443.8, 433.4
 > areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
 
 > Horizons: three horizons, **lower Telychian** including Rongxi Formation, Qingshui Formation, Kangshan Formation, Houchiatang Formation, and Tataertag formation; **middle Telychian** including Xiushan Formation and Fentou Formation; **upper Telychian** including Xikeng Formation and Huixingshao Formation.
 
 >  Assemblages: the fauna is divided into Wentang Assemblage (early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
 
->  -  **lower Telychian**
+>  -  **lower Telychian**, 443.8, 440.3
 >  - -  Rongxi Formation, Zhangjiajie: *Dayongaspis hunanensis*   *Konoceraspis grandoculus* *Sinacanthus wuchangensis*  *Neosinacanthus planispinatus* *Neosinacanthus* sp.1  *Neosinacanthus* sp.2   *Tarimacanthus bachuensis*  *Eosinacanthus shanmenensis**Hunanacanthus lixianensis* *Neosinacanthus* sp.   *Sinacanthus* sp.
 >    -   Qingshui Formation, Jiujiang:  *Xiyuichthys lixiensis*  *Qingshuiaspis junqingi*   *Anjiaspis ericius*  *Jiangxialepis jiujiangensis* *Neosinacanthus* sp.
 >    -   Kangshan Formation (formerly referred to as the Maoshan Formation), Changxing: *Changxingaspis gui*  *Shuyu zhejiangensis*  *Meishanaspis lehmani* *Anjiaspis reticularis *  *Sinacanthus wuchangensis* *Neosinacanthus* sp.1
@@ -36,12 +36,12 @@ MAV15, Grenfell fauna, late Famennian
 >    -    Qingshui Formation (Guidingshan Formation), Wuhan:*Hanyangaspis guodingshanensis* *Jiangxialepis retrospina* *Sinacanthus wuchangensis*
 >    -    Tataertag Formation, Aksu, Xinjiang:  *Kalpinolepis tarimensis* *Microphymaspis pani*  *Platylomaspis serratus**Xiyuichthys zhangi* *Changxingaspis nianzhongi*    *Jiangxialepis rongi*  *Nanjiangaspis kalpinensis**Sinacanthus wuchangensis*  *Tarimacanthus bachuensis* *Tielikewatielepis sinensis*   *Xiaohaizilepis liui*  
 
->  -  **middle Telychian**
+>  -  **middle Telychian**, 440.3, 436.9
 >  - -   Xiushan Formation, Zhangjiajie: *Dayongaspis colubra*
 >    -   Fentou Formation, Wuhan:   *Hanyangaspis guodingshanensis**Sinacanthus wuchangensis*
 >    -   Fentou Formation, Wuwei: *Geraspis rare*
 
->  -  **upper Telychian**
+>  -  **upper Telychian**, 436.9, 433.4
 >  - -   Xikeng Formation, Jiujiang:  *Xiushuiaspis jiangxiensis**Xiushuiaspis ganbeiensis* *Sinogaleaspis shankouensis**Rumporostralis xikengensis*  *Rumporostralis shipanensis* 
 
 ## Wenlock
