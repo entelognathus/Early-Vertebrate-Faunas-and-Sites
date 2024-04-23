@@ -91,18 +91,19 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 **Xitun Formation**: upper Lochkovian
 > Devonian Macrovertebrate Assemblage II of China based on Zhu (2000) 
 > - Galeaspida: [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965; [*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978 (Cuifengshan Group, Zhuojihe, to be clarified in which formation, most likely Xitun Formation); [*Microhoplonaspis microthyris*](https://deepbone.org/public/#/explor?s_id=452&functionId=Deepbone_header_searchResultOpen) Pan, 1992;  [*Hyperaspis acclivis*](https://deepbone.org/public/#/explor?s_id=623&functionId=Deepbone_header_searchResultOpen) Pan, 1992; [*Xitunaspis magnus*](https://deepbone.org/public/#/explor?s_id=166500&functionId=Deepbone_header_searchResultOpen) Sun *et al*., 2022; [*Siyingia perlatuspinosa*](https://deepbone.org/public/#/explor?s_id=73821&functionId=Deepbone_header_searchResultOpen) Si *et al*., 2015; [*Siyingia altuspinosa*](https://deepbone.org/public/#/explor?s_id=476functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
-> - Placodermi: *Yunnanolepis porifera* Zhu，1996
+> - Placodermi: antiarchs *Yunnanolepis chii* Liu，1963;*Yunnanolepis porifera* Zhu，1996; *Yunnanolepis* sp. Zhu，1996; *Phymolepis cuifengshanensis* Chang 1978; *Phymolepis guoruii* Zhu 1996; *Chuchinolepis gracilis* Chang，1978; *Chuchinolepis qujingensis* Zhang，1984; *Chuchinolepis sulcata* Zhu，1996; *Chuchinolepis robusta* Zhu，1996; 
+*Zhanjilepis aspratilis* Zhang，1978; Arthrodires *Szelepis yunnanensis* Liu, 1979;*Gavinaspis convergens* Dupret et Zhu, 2008
 > - Chondrichthyes including 'Acanthodii':
 > - Osteichthyes: 
 
 **Guijiatun Formation**: uppermost Lochkovian?
-> - Placodermi:
+> - Placodermi:*Yunnanolepis chii* Liu，1963;
 > - Chondrichthyes including 'Acanthodii':
 > - Osteichthyes: 
 
 **Lianhuashan Formation**: upper Lochkovian
 > - Galeaspida: [*Eugaleaspis lianhuashanensis*](https://deepbone.org/public/#/explor?s_id=386&functionId=Deepbone_header_searchResultOpen) Liu, 1986
-> - Placodermi: *Chuchinolepis gracilis* Chang，1978; *Zhanjilepis* sp. Liu，1992;*Yunnanolepis chii* Liu，1963;*Yunnanolepis* sp. Liu 1974
+> - Placodermi: *Chuchinolepis gracilis* Chang，1978; *Zhanjilepis* sp. Liu，1992;*Yunnanolepis chii* Liu，1963;*Yunnanolepis* sp. Liu 1974; *Parawilliamsaspis yujiangensis* Liu，1980; *Asiacanthus kaoi* P’an 1964; *Asiacanthus suni* P’an 1964
 > - Chondrichthyes including 'Acanthodii':
 > - Osteichthyes:
 
@@ -117,7 +118,11 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Galeaspida: [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979; [*Macrothyraspis longicornis*](https://deepbone.org/public/#/explor?s_id=596&functionId=Deepbone_header_searchResultOpen) Pan, 1992; [*Qingmenaspis microculus*](https://deepbone.org/public/#/explor?s_id=607&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981; [*Rhegmaspis xiphoidea*](https://deepbone.org/public/#/explor?s_id=73756&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2015; [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao *et al*., 2002； [*Zhaotongaspis janvieri*](https://deepbone.org/public/#/explor?s_id=509&functionId=Deepbone_header_searchResultOpen) Wang and Zhu, 1994; [*Sanqiaspis zhaotongensis*](https://deepbone.org/public/#/explor?s_id=535&functionId=Deepbone_header_searchResultOpen) Liu, 1975  
 
 **Nahkaoiling Formation**: Pragian
-> - Galeaspida: [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975; [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973; [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986 (bottom of Yukiang Formation); 
+> - Galeaspida: [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975; [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973; [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986 (bottom of Yukiang Formation);
+
+
+
+
 
 **Pingyipu Formation**: Pragian
 > - Galeaspida: [*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975;  [*Lungmenshanaspis kiangyouensis*](https://deepbone.org/public/#/explor?s_id=551&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1975; [*Sanqiaspis rostrata*](https://deepbone.org/public/#/explor?s_id=534&functionId=Deepbone_header_searchResultOpen) Liu, 1975；  [*Sinoszechuanaspis yanmenpaensis*](https://deepbone.org/public/#/explor?s_id=601&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
