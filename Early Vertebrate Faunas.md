@@ -137,6 +137,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 *Parathelodus xitunensis*  Cui et al., 2020
 *Parathelodus wangi*  Cui et al., 2020
 *Parathelodus liaokuoensis* Cui et al., 2020
+
 *Yunnanolepis chii*  Liu, 1963
 *Yunnanolepis parvus*  张国瑞, 1978
 *Yunnanolepis porifera*  Zhu, 1996
@@ -156,6 +157,8 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 *Holopetalichthys longhuaensis* 朱敏和王俊卿, 1996
 *Diandongpetalichthys liaojiaoshanensis* 潘江和王士涛, 1978
 *Yunnanacanthus cuifengshanensis*  刘时藩, 1973
+
+
 *Youngacanthus gracilis* Wang, 1984
 *Hanilepis wangi* 王念忠和董致中, 1989
 *Nostolepis striata* Li et al., 2021
@@ -168,6 +171,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 *Changolepis tricuspidus*  Wang, 1984
 *Peilepis solida* Wang, 1984
 *Ohiolepis Xitunensis*  Wang, 1984
+
 *Psarolepis romeri* Yu, 1998
 *Psarolepis* sp. Zhu and Schultze, 1997
 *Achoania jarviki*  Zhu et al., 2001
@@ -176,8 +180,6 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 *Diabolichthys speratus*  hang and Yu, 1984
 *Styloichthys changae* Zhu and Yu, 2002
 *Meemannia eos* Zhu et al., 2006
-
-
 
 
 ***MOTH fauna***: Lochkovian, 419.2, 410.8
