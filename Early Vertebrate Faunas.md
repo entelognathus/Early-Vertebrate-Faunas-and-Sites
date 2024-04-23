@@ -346,43 +346,6 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 > - Late Emsian (Verdalen Member, Stjørdalen faunal division): *Doryaspis minor* (Heintz, 1960); *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
 
-
-| clade     |To be updated in deepbone                 | taxa                       | present in deepbone   |
-|-----------|------------------------------------------|----------------------------|-----------------------|
-|Arthrodira | Pragian                                  | *Sigaspis lepidophora*     | Pragian               |
-|Arthrodira |                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
-|           |                                          | *Svalbardaspis polaris*    | Lower Emsian(Pragian) |
-|           |                                          | *Svalbardaspis typicus*    | Lower Emsian(Pragian) |
-|           |                                          | *Svalbardaspis angulatus*  | Lower Emsian(Pragian) |
-|           |                                          | *Svalbardaspis stensioei*  | Lower Emsian(Pragian) |
-|           |                                          | *Elegantaspis reticornis*  | Lower Emsian(Pragian) |
-|           | Pragian                                  | *Lehmanosteus hyperboreus* | Pragian               |
-|           |                                          | *Actinolepis sp.*          | Lower Emsian(Pragian) |
-|           |                                          | *Arctaspis kiaeri*         | Lower Emsian(Pragian) |
-|           |                                          | *Arctaspis holtedahli*     | Lower Emsian(Pragian) |
-|           |                                          | *Arctaspis hoeli*          | Lower Emsian(Pragian) |
-|           |                                          | *Arctaspis minor*          | Lower Emsian(Pragian) |
-|           |                                          | *Arctaspis hoegi*          | Lower Emsian(Pragian) |
-|           | Pragian-Early Emsian                     | *Arctaspis sp.*            |                       |
-|           | Early Emsian                             | *Arctaspis maxima*         | Lower Emsian(Pragian) |
-|           | Pragian                                  | *Dicksonosteus arcticus*   | Lower Emsian(Pragian) |
-|           | Early Emsian                             | *Dicksonosteus sp.*        |                       |
-|           | Pragian                                  | *Heintzosteus brevis*      | Lower Emsian(Pragian) |
-|           | Pragian                                  | *Heintzosteus sp.*         |                       |
-|           | Early Emsian                             | *Arctolepis decipiens*     | Lower Emsian(Pragian) |
-|           |                                          | *Arctolepis lata*          | Lower Emsian(Pragian) |
-|           |                                          | *Arctolepis lewini*        | Lower Emsian(Pragian) |
-|           |                                          | *Arctolepis longicornis*   | Lower Emsian(Pragian) |
-|           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
-|           | late Emsian                              | *Homostius arcticus*       | Emsian                |
-|           | late Emsian                              | *Homostius cf arcticus*    | Emsian                |
-|           |                                          | *Heterogaspis gigantea*    |                       |
-|           |                                          | Euleptaspidid B                      |
-|           |                                          | *Herasmius granulatus*               |
-|           |                                          | *Elegantaspis reticornis*            |
-
-
-
 > The data in the table below from Cloutier and Lelievre (1998), many errors to be checked.
 
 > http://www.paleofile.com/Fish/Fish%20lists/Agnatha.asp
