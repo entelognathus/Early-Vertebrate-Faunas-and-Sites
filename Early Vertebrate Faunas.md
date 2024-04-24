@@ -83,7 +83,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 **Xishancun Formation**: lower Lochkovian
 > Devonian Macrovertebrate Assemblages I of China based on Zhu (2000) 
 > - Galeaspida: [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965; [*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen) Liu, 1975; [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) Liu, 1965; [*Laxaspis yulongssus*](https://deepbone.org/public/#/explor?s_id=484&functionId=Deepbone_header_searchResultOpen) Liu, 1975; [*Laxaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=480&functionId=Deepbone_header_searchResultOpen) Liu, 1975; [*Pseudolaxaspis rostrata*](https://deepbone.org/public/#/explor?s_id=83163&functionId=Deepbone_header_searchResultOpen) (Liu, 1975); [*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975; [*Nanpanaspis microculus*](https://deepbone.org/public/#/explor?s_id=548&functionId=Deepbone_header_searchResultOpen) Liu, 1965; [*Yunnanogaleaspis major*](https://deepbone.org/public/#/explor?s_id=41389&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980; [*Damaspis vartus*](https://deepbone.org/public/#/explor?s_id=487&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982; [*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1981); [*Nochelaspis maeandrine*](https://deepbone.org/public/#/explor?s_id=410&functionId=Deepbone_header_searchResultOpen) Zhu, 1992; [*Pentathyraspis pelta*](https://deepbone.org/public/#/explor?s_id=450&functionId=Deepbone_header_searchResultOpen) Pan, 1992; [*Stephaspis dipteriga*](https://deepbone.org/public/#/explor?s_id=613&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2007; [*Altigibbaspis huiqingae*](https://deepbone.org/public/#/explor?s_id=73601functionId=Deepbone_header_searchResultOpen)  Liu *et al*., 2018;  [*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
-> - Placodermi:*Yunnanolepis chii* Liu，1963, *Yunnanolepis porifera* Zhu，1996, *Heteroyunnanolepis qujingensis* Wang，1994, *Chuchinolepis gracilis* Chang，1978, *Zhanjilepis aspratilis* Zhang，1978, *Minicrania lirouyii* Zhu et Janvier，1996; *Szelepis* sp. (Zhu et al., 2000); [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen)
+> - Placodermi:*Yunnanolepis chii* Liu，1963, *Yunnanolepis porifera* Zhu，1996, *Heteroyunnanolepis qujingensis* Wang，1994, *Chuchinolepis gracilis* Chang，1978, *Zhanjilepis aspratilis* Zhang，1978, *Minicrania lirouyii* Zhu et Janvier，1996; *Szelepis* sp. (Zhu et al., 2000); [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978.
 > - Chondrichthyes including 'Acanthodii':
 > - Osteichthyes: 
 
@@ -108,7 +108,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 **Xujiachong Formation**: Pragian
 > Devonian Macrovertebrate Assemblage III of China based on Zhu (2000)
 > - Galeaspida: [*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975;  [*Sanchaspis magalarostrata*](https://deepbone.org/public/#/explor?s_id=515&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981; [*Pterogonaspis yuhaii*](https://deepbone.org/public/#/explor?s_id=403&functionId=Deepbone_header_searchResultOpen) Zhu, 1992; [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Qushiaspis elaia*](https://deepbone.org/public/#/explor?s_id=76898&functionId=Deepbone_header_searchResultOpen) Jiang *et al*., 2021
-> - Placodermi:
+> - Placodermi: [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > - Chondrichthyes including 'Acanthodii':
 > - Osteichthyes:      
 
@@ -124,14 +124,18 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 **Xiaoshan Formation**: Pragian
 > - Galeaspida: [*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
 
+**Chuandong Formation**: upper Emsian, 400.45, 393.3
+> - [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
+
 **Shujiaping Formation**: upper Emsian, 400.45, 393.3
 > - Galeaspida: [*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 
 **Danlin Formation**: lower Emsian, 407.6, 400.45
 > - Galeaspida: [*Paraduyunaspis hezhangensis*](https://deepbone.org/public/#/explor?s_id=457&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 
-**Wudang Formation**: Emsian, 407.6, 393.3
-> - Galeaspida: [*Neoduyunaspis minuta*](https://deepbone.org/public/#/explor?s_id=461&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+**Wudang Formation**: lower Emsian, 407.6, 400.45
+> - Galeaspida: [*Neoduyunaspis minuta*](https://deepbone.org/public/#/explor?s_id=461&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978;
+> - [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 
 **Hexian Formation**: Emsian, 407.6, 393.3
 > - Galeaspida: [*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2001
@@ -167,7 +171,6 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 *Szelepis yunnanensis* 刘玉海, 1979
 *Mizia longhuaensis* Zhu, 1996
 *Minicrania lirouyii* Zhu and Janvier, 1996
-*Holopetalichthys longhuaensis* 朱敏和王俊卿, 1996
 *Yunnanacanthus cuifengshanensis*  刘时藩, 1973
 
 
@@ -449,11 +452,30 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - see Stack and Sallan, 2018
 
 ## Middle Devonian
-***Xindu Formation fauna***: Eifelian, 393.3, 387.7 
+***Tiaomajian fauna***: Eifelian, 393.3, 387.7 
+**Tiaomajian Formation** 
+> Changsha, Hunan, China
+> - [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
+
+**Xindu Formation** 
 > Santan, Bobai, Guangxi, China
-> - [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
+> - [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993; [*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 
+**Shangshuanhe Formation**
+> 
+> -
 
+***Haikou fauna***: Givetian,
+**Haikou Formation** 
+> 
+> - [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
+
+**Xichong Formation**
+> 
+> - [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
+
+**Qujing Formation**
+> 
 
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
