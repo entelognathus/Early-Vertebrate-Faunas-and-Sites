@@ -114,18 +114,21 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 **Posongchong Formation**: Pragian
 > - Galeaspida: [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992; [*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979; [*Macrothyraspis longicornis*](https://deepbone.org/public/#/explor?s_id=596&functionId=Deepbone_header_searchResultOpen) Pan, 1992; [*Qingmenaspis microculus*](https://deepbone.org/public/#/explor?s_id=607&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981; [*Rhegmaspis xiphoidea*](https://deepbone.org/public/#/explor?s_id=73756&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2015; [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao *et al*., 2002； [*Zhaotongaspis janvieri*](https://deepbone.org/public/#/explor?s_id=509&functionId=Deepbone_header_searchResultOpen) Wang and Zhu, 1994; [*Sanqiaspis zhaotongensis*](https://deepbone.org/public/#/explor?s_id=535&functionId=Deepbone_header_searchResultOpen) Liu, 1975  
+> - Placodermi:[*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
+
 
 **Nahkaoiling Formation**: Pragian
 > - Galeaspida: [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975; [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973; [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986 (bottom of Yukiang Formation);
 
 **Pingyipu Formation**: Pragian
 > - Galeaspida: [*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975;  [*Lungmenshanaspis kiangyouensis*](https://deepbone.org/public/#/explor?s_id=551&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1975; [*Sanqiaspis rostrata*](https://deepbone.org/public/#/explor?s_id=534&functionId=Deepbone_header_searchResultOpen) Liu, 1975；  [*Sinoszechuanaspis yanmenpaensis*](https://deepbone.org/public/#/explor?s_id=601&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> - Placodermi: [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973; [*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978; [*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
 
 **Xiaoshan Formation**: Pragian
 > - Galeaspida: [*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
 
 **Chuandong Formation**: upper Emsian, 400.45, 393.3
-> - [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
+> - [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015; 
 
 **Shujiaping Formation**: upper Emsian, 400.45, 393.3
 > - Galeaspida: [*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
