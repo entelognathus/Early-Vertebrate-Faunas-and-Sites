@@ -63,7 +63,7 @@ MAV15, Grenfell fauna, late Famennian
 > - Galeaspida: [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012; [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986); [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
 > - Placodermi: *Wangolepis sinensis*;*Silurolepis platydorsalis*; *Entelognathus primordialis*; *Qilinyu rostrata*; *Shimenolepis graniferus*
 > - Acanthodii: *Gomphonchus*sp.; *Poracanthodes qujingensis*; *Hanilepis wangi*; *Nostolepis striata*; *Nostolepis sinica*
-> - Osteichthyes: *Ligulalepis yunnanensis*; *Naxilepis gracilis*; *Kawalepis comptus*; *Guiyu oneiros*; *Megamastax amblyodus*; *Sparalepis tingi*              |
+> - Osteichthyes: [*Ligulalepis yunnanensis*](https://deepbone.org/public/#/explor?s_id=7854&functionId=Deepbone_header_searchResultOpen) Wang and Dong, 1989; [*Naxilepis gracilis*](https://deepbone.org/public/#/explor?s_id=7849&functionId=Deepbone_header_searchResultOpen) Wang and Dong,1989; [*Kawalepis comptus*](https://deepbone.org/public/#/explor?s_id=7852&functionId=Deepbone_header_searchResultOpen) Wang and Dong, 1989; [*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2009; [*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen) Choo *et ai*., 2014; [*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen)  Choo *et al*., 2017            |
 > 
 
 ## Pridoli
