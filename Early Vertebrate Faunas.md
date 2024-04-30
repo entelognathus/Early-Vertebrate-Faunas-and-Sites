@@ -700,7 +700,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 ***Pambula River fauna***, lower Frasnian, 382.7, 379.2
 > Pambula River, Victoria, Australia. part of MAV10.  
-> - *Pambulalepis cobandrahensis* Young, 1983; *Culmacanthus pambulensis* Young, 1989.
+> - *Pambulalepis cobandrahensis* Young, 1983; *Culmacanthus pambulensis* Young, 1989; *Cobandrahlepis petyrwardi* Young, 2005; *Yurammia browni* Young, 2005.
 
 ***Gogo Formation Lagersttäte***: lower Frasnian, 382.7, 379.2
 > Gogo Formation; Canning Basin, Australia. -17.75, 125.17. part of MAV10.
