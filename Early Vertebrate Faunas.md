@@ -596,6 +596,9 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 > - *Nawagiaspis wadeae* Young, 1990.
 
+***Rockport Quarry Limestone***:early  Givetian.
+> - The fishes found in the Rockport Quarry Limestone include the arthrodires *Protitanicthys rockportensis* Case, 1931, *?Holonema rugosum* Claypole, 1883, *Holonema sp.* Newberry, 1889, *Dunkleosteus sp.* Lehman, 1956, *Mylostoma sp.* Newberry, 1883 and *Dinomylostoma sp.* Eastman, 1906, the ptyctodont *Ptyctodus sp.*, the acanthodian *?Machaeracanthus sp.*,and the chondrichthyan *?Tamiobatis sp.* Eastman, 1897a. 
+
 ***Aztec fauna***: Givetian.
 > Aztec Sandstone, Southern Victoria Land, Antarctica. MAV6.
 
