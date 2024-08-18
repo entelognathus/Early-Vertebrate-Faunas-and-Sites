@@ -652,12 +652,18 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Merriganowry Shale Member overlies the Hervey Group.
 > - *Cowralepis mclachlani* Ritchie, 2005.
 
-***Valentia Slate Formation***, Givetian, 384.9±0.7, 385.0±2.9
+***Valentia Slate Formation***, Givetian, 
 > the oldest division of the Devonian Old Red Sandstone succesion in the Iveragh Peninsula, Southwest Ireland.
 > - [Dupret, 2023a](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/621947/document.pdf?sequence=3); [Dupret, 2023b](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280208)
 > - Placodermi: *Bothrolepis* sp.; *Bothrolepis dairbhrensis* Dupret, 2023;
 > - Sarcopterygii: *Sauripterus* scales; Rhizodontida croronoid fangs; *Holopptychius* sp. scales; Dipnoi lower jaw tooth plate 
 
+***upper Bokkeveld Group fauna**, Givtian
+> Adolphspoort Formation (Traka Subgroup, Bokkeveld Group) and Klipbokkop Formation (Bidouw Subgroup, Bokkeveld Group), South Africa
+
+> -  Gess, 2016
+> - Placodermi:*Barrydalaspis theroni* (Chaloner et al. 1980)
+> - Chondrichththyes: 
 
 ## Late Devonian
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
@@ -972,8 +978,13 @@ The arthrodires comprise
 ***Worange Point fauna***: lower Famennian.
 > Worange Point Formation, Eden-Pambula region, MAV14
 
-> - 
+> -
 
 ***Grenfell fauna***, upper Famennian;
 > Hunter Siltstone, Hervey Group, Grenfell, MAV15.
-> *Grenfellaspis branagani* Ritchie et al., 1992 
+> - *Grenfellaspis branagani* Ritchie et al., 1992 
+
+***Waterloo Farm lagerstätten**, Famennian.
+> Witpoort Formation, Witteberg Group, South Africa
+
+> - 
