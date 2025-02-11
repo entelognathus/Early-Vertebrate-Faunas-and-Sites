@@ -1204,5 +1204,8 @@ Middle Anisian.
 
 ### Longobardian, Late Ladinian
 Romano (2021):
+
 ## Late Triassic
+Lockatong Formation Fauna (Late Triassic):
+
 
