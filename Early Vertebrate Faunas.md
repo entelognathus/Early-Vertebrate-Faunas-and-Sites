@@ -988,7 +988,8 @@ The arthrodires comprise
 > Witpoort Formation, Witteberg Group, South Africa
 
 > - 
-Triassic:
+# Triassic:
+## Early Triassic
 **Griesbachian, Induan, Early Triassic**
 
 **Greenland**: Previously undescribed specimens of Saurichthys from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. Saurichthys aff. dayi (Raymond, 1925)
@@ -1033,13 +1034,18 @@ China: Nanlinghu Formation in eastern China (Anhui Province), a perleidid (Chaoh
 
 From Romania, cranial remains of the actinistian Dobrogeria have been described (Cavin and Gr˘adinaru 2014), and material of additional taxa is currently under study (work in progress). From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
 
-MIDDLE Triassic: 
-Aegean. Early Anisian
+## MIDDLE Triassic: 
+
+### Aegean. Early Anisian
+
 Bithynian, early Middle Anisian
+
 Pelsonian, late Middle Anisian
+
 Illyrian, Late Anisian
 
 Fassanian, Early Ladinian
 Longobardian, Late Ladinian
 
+## Late Triassic
 
