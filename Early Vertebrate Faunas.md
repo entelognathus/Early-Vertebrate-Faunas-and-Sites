@@ -988,7 +988,42 @@ The arthrodires comprise
 > Witpoort Formation, Witteberg Group, South Africa
 
 > - 
+Triassic:
+**Griesbachian, Induan, Early Triassic**
 
+**Greenland**: Previously undescribed specimens of Saurichthys from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. Saurichthys aff. dayi (Raymond, 1925)
 
+The Early Triassic fishes of East Greenland originate from six horizons (Nielsen 1942; Nielsen 1949; Perch-Nielsen et al., 1974), the lower five of which(“fish-zones” I–V) aredated as early to late Griesbachian (Surlyk et al., 2017), whereas the sixth horizon is early Dienerian in age (see below). 
+
+Although the ichthyofaunal compositions of these six horizons differ (Nielsen 1961), collectively they show that all of the typical Early Triassic taxa were already present in the Griesbachian: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), (Platysiagidae), parasemionotids Parasemionotus, ??Errolichthys, (Broughia, Helmolepis Ospia, ? Watsonulus) Pteronisculus, Saurichthys, ? Teffichthys (“Perleidus”; Marramà et al., 2017), Sassenia, and Whiteia (Stensiö 1932; Nielsen 1936; Nielsen 1942; Nielsen 1949; Nielsen 1952; Nielsen 1955; Nielsen 1961; Nybelin 1977; Mutter 2005; Kogan 2011; Argyriou et al., 2018). These taxa are  part of Tintori et al. (2014a)’s “Triassic Early Fish Fauna” (TEFF).
+
+Pteronisculus gunnari, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
+
+**Dienerian, Induan,Early Triassic**
+**Madagascar**: 
 Middle Sakamena Group in northwestern Madagascar
 Dienerian, Induan,Early Triassic
+By Lehman (1952) for the Dienerian Saurichthys madagascariensis Piveteau, 1944-45
+
+
+**Greenland**:
+ In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes (“stegocephalian-horizon” of Nielsen 1942; Nielsen 1949; “Zone VI” of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). In addition, two western Canadian occurrences have been dated as Dienerian: a parasemionotid collected in Alberta (Davies et al., 1997) and a bobasatraniid reported from British Columbia (Wignall and Newton 2003). There are also occurrences of possibly Dienerian aged actinopterygians in Idaho, United States (Tanner 1936; Romano et al., 2012).
+
+
+Smithian，Olenekian, Early Triassic
+Spitzbergen (Svalbard):  
+The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus 
+ammonoid zones (Hammer et al., 2019; Kear et al., 2023). 
+The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions 
+between 1912 and 1918 from the Fish Niveau.
+
+
+Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus Stensiö, 1925 from the Smithian of Spitzbergen.
+
+Spathian，Olenekian, Early Triassic 
+Spitzbergen (Svalbard):  
+The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
+Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the Vikinghøgda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
+
+
+In Greenland, Stensiö (1932a) described a new genus and species of coelacanth, named Laugia grönlandica, from the Early Triassic of the East Greenland locations of Cape Stoch and Hird’s fox farm. Later, Nielsen (1935) regarded this material as originating from the Fish Zone 1 and 2 out of the six vertebrate-bearing beds they recognized in the greater Godthab Gulf area. Additionally, Nielsen (1936) added some preliminary descriptions of the coelacanth material in the area, placing several within previously described genera (such as Sassenia Stensiö, 1921). They were, however, reluctant to place them within a described or new species, a task which was not completed until the work of Forey (1998) (see Table 1).
