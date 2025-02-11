@@ -990,7 +990,7 @@ The arthrodires comprise
 > - 
 # Triassic:
 ## Early Triassic
-**Griesbachian, Induan, Early Triassic**
+### Griesbachian, Induan, Early Triassic
 
 **Greenland**: Previously undescribed specimens of Saurichthys from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. Saurichthys aff. dayi (Raymond, 1925)
 
@@ -1000,7 +1000,7 @@ Although the ichthyofaunal compositions of these six horizons differ (Nielsen 19
 
 Pteronisculus gunnari, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
 
-**Dienerian, Induan,Early Triassic**
+### Dienerian, Induan,Early Triassic
 **Madagascar**: 
 Middle Sakamena Group in northwestern Madagascar
 Dienerian, Induan,Early Triassic
@@ -1011,7 +1011,7 @@ By Lehman (1952) for the Dienerian Saurichthys madagascariensis Piveteau, 1944-4
  In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes (“stegocephalian-horizon” of Nielsen 1942; Nielsen 1949; “Zone VI” of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). In addition, two western Canadian occurrences have been dated as Dienerian: a parasemionotid collected in Alberta (Davies et al., 1997) and a bobasatraniid reported from British Columbia (Wignall and Newton 2003). There are also occurrences of possibly Dienerian aged actinopterygians in Idaho, United States (Tanner 1936; Romano et al., 2012).
 
 
-**Smithian，Olenekian, Early Triassic**
+### Smithian，Olenekian, Early Triassic
 Spitzbergen (Svalbard):  
 The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus 
 ammonoid zones (Hammer et al., 2019; Kear et al., 2023). 
@@ -1021,7 +1021,7 @@ between 1912 and 1918 from the Fish Niveau.
 
 Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus Stensiö, 1925 from the Smithian of Spitzbergen.
 
-**Spathian，Olenekian, Early Triassic** 
+### Spathian，Olenekian, Early Triassic
 
 Spitzbergen (Svalbard):
 The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
@@ -1038,14 +1038,15 @@ From Romania, cranial remains of the actinistian Dobrogeria have been described 
 
 ### Aegean. Early Anisian
 
-Bithynian, early Middle Anisian
+### Bithynian, early Middle Anisian
 
-Pelsonian, late Middle Anisian
+### Pelsonian, late Middle Anisian
 
-Illyrian, Late Anisian
+### Illyrian, Late Anisian
 
-Fassanian, Early Ladinian
-Longobardian, Late Ladinian
+### Fassanian, Early Ladinian
+
+### Longobardian, Late Ladinian
 
 ## Late Triassic
 
