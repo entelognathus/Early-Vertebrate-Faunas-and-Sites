@@ -1194,10 +1194,22 @@ Lockatong Formation Fauna (Late Triassic):
 
 # Jurassic
 ## Early Jurassic
+### Hettangian
+### Sinemurian
+### Pliensbachian
+### Toarcian
+
 
 ## Middle Jurassic
-
+### Aalenian
+### Bajocian
+### Bathonian
+### Callovian
 ## Late Jurassic
+### Oxfordian
+### Kimmeridgian
+### Tithonian
+
 
 # Cretaceous
 ## Early Cretaceous
