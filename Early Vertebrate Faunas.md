@@ -1164,6 +1164,20 @@ Romano (2021):
 Lockatong Formation Fauna (Late Triassic):
 
 # Cretaceous
+## Early Cretaceous
+### Berriasian, Early Cretaceous
+
+### Valanginian, Early Cretaceous
+
+### Hauterivian, Early Cretaceous
+
+### Barremian, Early Cretaceous
+
+### Aptian, Early Cretaceous
+
+### Albian, Early Cretaceous
+
+
 ## Late Cretaceous
 
 
