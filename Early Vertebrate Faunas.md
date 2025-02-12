@@ -996,6 +996,9 @@ The arthrodires comprise
 ### Visean, Middle Mississipian, Carboniferous
 
 ### Serpukhovian, Late Mississipian, Carboniferous
+**Bear Gulch Limestone Lagerstatte**
+
+
 
 ## Pennsylvanian 
 
@@ -1008,6 +1011,30 @@ The arthrodires comprise
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 
 # Permian
+## Cisuralian (Early Permian)
+
+### Asselian, Cisuralian, Permian
+
+### Sakmarian, Cisuralian, Permian
+
+### Artinskian, Cisuralian, Permian
+
+### Kungurian, Cisuralian, Permian
+
+## Guadalupian
+
+### Roadian, Guadalupian, Permian
+
+### Wordian, Guadalupian, Permian
+
+### Capitanian, Guadalupian, Permian
+
+
+## Lopingian	
+
+### Wuchiapingian, Lopingian, Permian
+
+### Changhsingian, Lopingian, Permian
 
 
 # Triassic:
