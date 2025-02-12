@@ -1096,32 +1096,8 @@ From Germany, Werneburg et al. (2014) described small species of Saurichthys. Th
 The Velika Planina Horizon (Slovenia), whose precise age is not known but is thought to be pre-Pelsonian, has produced specimens of Eosemionotus, Placopleurus, and Saurichthys (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016). The Velika Planina Horizon is herein treated as Bithynian in age, although an Aegean age cannot currently be confidently excluded. Apart from Saurichthys, all other genera listed above have their first appearance datum in this interval.
 
 ### Pelsonian, late Middle Anisian
-Romano (2021): Localities in Europe (Italy, Slovenia) and China produce
-Pelsonian bony fishes, many of which have been studied
-intensively during recent years. The Strelovec Formation of
-Slovenia has yielded fossils of Eosemionotus, Habroichthys,
-Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus,
-possibly Colobodus, and other actinopterygians (Hitij et al.,
-2010; Tintori et al., 2014a; Tintori et al., 2016). The Strelovec
-Formation has been treated as Pelsonian by several
-paleoichthyologists, and I provisionally follow this
-interpretation here; however, note that Miklavc et al. (2016)
-consider this formation as Illyrian aged because index fossils
-supporting a Pelsonian age are lacking.
-In Italy, a new locality in the Dolomites (Prà della Vacca/
-Kühwiesenkopf) has produced specimens of Bobasatrania,
-Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus,
-Ptycholepis, and Saurichthys (Tintori et al., 2016).
-A rich ichthyofauna is known from two horizons in South
-China, which became famous as the Luoping Biota and Panxian
-Biota, respectively, both being almost the same age (Upper
-Member of the Guanling Formation; Benton et al., 2013). Sun
-et al. (2012) suggested a Pelsonian age for the Luoping fish beds
-and I herein follow these authors’ interpretation, although Tintori
-et al. (2016) argued for a younger (Illyrian?) age. Sun et al. (2016a)
-presented evidence for a Pelsonian age of the Panxian biota. The
-Panxian-Luoping fauna comprises the following
-actinopterygians: Altisolepis, Birgeria, Colobodus,
+> Romano (2021): Localities in Europe (Italy, Slovenia) and China produce Pelsonian bony fishes, many of which have been studied intensively during recent years. The Strelovec Formation of Slovenia has yielded fossils of Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016). The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking. In Italy, a new locality in the Dolomites (Prà della Vacca/Kühwiesenkopf) has produced specimens of Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys (Tintori et al., 2016).
+> A rich ichthyofauna is known from two horizons in South China, which became famous as the Luoping Biota and Panxian Biota, respectively, both being almost the same age (Upper Member of the Guanling Formation; Benton et al., 2013). Sun et al. (2012) suggested a Pelsonian age for the Luoping fish beds and I herein follow these authors’ interpretation, although Tintori et al. (2016) argued for a younger (Illyrian?) age. Sun et al. (2016a) presented evidence for a Pelsonian age of the Panxian biota. The Panxian-Luoping fauna comprises the following actinopterygians: Altisolepis, Birgeria, Colobodus,
 Diandongperleidus, Eosemionotus, Ferroxichthys, Frodoichthys,
 Fuyuanichthys, Fuyuanperleidus, Gimlichthys, Gymnoichthys,
 Habroichthys, Kyphosichthys, Louwoichthys, Luopingichthys,
