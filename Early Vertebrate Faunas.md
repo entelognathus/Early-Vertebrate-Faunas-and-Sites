@@ -1188,6 +1188,9 @@ Romano (2021):
 ## Late Triassic
 Lockatong Formation Fauna (Late Triassic):
 
+### Carnian, Late Triassic
+### Norian, Late Triassic
+### Rhaetian, Late Triassic
 
 # Jurassic
 ## Early Jurassic
