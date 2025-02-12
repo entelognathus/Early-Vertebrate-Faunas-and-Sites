@@ -1208,4 +1208,21 @@ Romano (2021):
 ## Late Triassic
 Lockatong Formation Fauna (Late Triassic):
 
+# Cretaceous
+## Late Cretaceous
 
+
+### Cenomanian, Late Cretaceous
+**Sannine Formation Fauna (Lebanon)** 
+> Macropomoides orientalis
+
+### Turonian
+
+### Coniacian
+
+### Santonian
+**Sahel Alma Fauna (Lebanon) late Santonian**
+
+### Campanian
+
+### Maastrichtian
