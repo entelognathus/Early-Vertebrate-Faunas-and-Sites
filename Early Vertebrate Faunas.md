@@ -988,6 +988,28 @@ The arthrodires comprise
 > Witpoort Formation, Witteberg Group, South Africa
 
 > - 
+
+# Carboniferous
+## Mississipian
+### Tournaisian, Early Mississipian, Carboniferous
+
+### Visean, Middle Mississipian, Carboniferous
+
+### Serpukhovian, Late Mississipian, Carboniferous
+
+## Pennsylvanian 
+
+### Bashkirian, Early Pennsylvanian, Carboniferous
+
+### Moscovian, Middle Pennsylvanian, Carboniferous 
+
+### Kasimovian, Late Pennsylvanian, Carboniferous 
+
+### Gzhelian, Late Pennsylvanian, Carboniferous 
+
+# Permian
+
+
 # Triassic:
 ## Early Triassic
 ### Griesbachian, Induan, Early Triassic
@@ -1162,6 +1184,14 @@ Romano (2021):
 
 ## Late Triassic
 Lockatong Formation Fauna (Late Triassic):
+
+
+# Jurassic
+## Early Jurassic
+
+## Middle Jurassic
+
+## Late Jurassic
 
 # Cretaceous
 ## Early Cretaceous
