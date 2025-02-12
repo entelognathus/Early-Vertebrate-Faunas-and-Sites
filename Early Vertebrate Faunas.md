@@ -452,7 +452,8 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - *Huginaspis australis* Young and Goujet, 2003
 
 > - Mount Winter, Amadeus Basin  (Northern Territory), and southern Toomba Range, Georgina Basin (western Queensland), central Australia.
-> - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005, *Harajicadipterus youngi* Clement, 2009 from Amadeus Basin.
+> - *Muranjilepis winterensis* Young and Schultze, 2005, *Amadeodipterus kencampbelli* Young and Schultze, 2005,
+> - *Harajicadipterus youngi* Clement, 2009 from Amadeus Basin should be Givetian.
 > - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
 > - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (western Queensland) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
 
