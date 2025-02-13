@@ -282,6 +282,13 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - *Powichthys thorsteinssoni*, *Baringaspis* (Miles, 1973), *Eskimaspis* (Dineley and Liu, 1984),
 > - Dineley and Loeffler (1993): "The faunas as a whole suggest correlation with the crouchi zone of the Anglo-Welsh vertebrate succession, the vogti horizon of Vestspitsbergen and the Czortkov horizon of Podolia, and can be dated as late Gedinnian to early Siegenian (Lochkovian-Pragian) from associated invertebrates (Elliott, 1984)." The age as late Lochkovian is appropriate.
 
+***De Long Strait fauna,***: Lochkovian
+> Tectonically, the outcrops as a component of the Arctic Alaska – Chukotka Terrane (Till et al. 2010). Arctic Russia.
+> Enmakaj Formation (early Lochkovian) and Pil’hikaj Formation (late Lochkovian)
+>
+> 
+
+
 ***Svalbard Red Bay Group fauna***: Lochkovian
 > Fraenkelryggen Formation and Ben Nevis Formation, Red Bay Group; Svalbard (Spitsbergen).
 > - *Nikolvia*; *Turinia*; *Apalolepis*
