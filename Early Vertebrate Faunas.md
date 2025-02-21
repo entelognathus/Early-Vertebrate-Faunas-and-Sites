@@ -535,6 +535,14 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > Burtnieki Formation, Baltic.
 > 
 
+1. Gyroptychius elgae Vorobyeva, 1977 | Burtnieki Stage (middle Givetian)
+2. Gyroptychius grossi Vorobyeva, 1981 | Narva Stage (late Eifelian)
+3. Gyroptychius latvicus Vorobyeva, 1981 | Pärnu Stage (early Eifelian)
+4. Gyroptychius milleri Jarvik, 1948 | Aruküla Stage (early Givitian)
+5. Gyroptychius pauli Vorobyeva, 1977 | Aruküla Stage (early Givetian)
+Gauja stage (late Givetian)
+
+
 
 **Rousay Formation fauna**: early Givetian
 > Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
