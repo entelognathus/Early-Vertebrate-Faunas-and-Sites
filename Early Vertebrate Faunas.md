@@ -621,6 +621,12 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Chondrichthyes: *Mcmurdodus featherensis* White, 1968; *Antarctilamna prisca* Young, 1982; *Anareodus statei* Long and Young, 1995; *Aztecodus harmsenae* Long and Young, 1995; *Portalodus bradshawae* Long & Young, 1995; ?Elasmobranchii gen. et sp. indet. Burrow et al., 2009
 > - Acanthodii: *Gyracanthides warreni* White, 1968; *Antarctonchus glacialis* White, 1968; *Byssacanthoides debenhami* Woodward, 1921; *Culmacanthus antarctica* Young, 1989; *Milesacanthus antarctica* Young & Burrow, 2004; *Pechoralepis juozasi* Burrow, Long & Trinajstic, 2009; *Nostolepis* sp. cf. *N. gaujensis* Burrow et al., 2009; acanthodid? gen. et sp. indet. Burrow et al., 2009
 
+***Harajica fauna***: Givetian.
+> Harajica Sandstone Member of the Parke Siltstone, part of the non-marine Pertnjara Group of the Amadeus Basin in the Northern Territory (Jones, 1972, 1991).
+
+> - Choo et al. (2024): Taking into account other microvertebrate evidence, Young and Turner (2000: fig. 4) correlated the Harajica fauna with the Antarctic Aztec fish assemblage (Macrovertebrate zone 6d), of probable Givetian age.
+
+
 ***Tatong-South Blue Range fauna***, upper Givetian, 384.37, 382.7
 > Tatong, eastern Victoria, Australia. MAV7,
 > - *Bothriolepis tatongensis* Long and Werdelin, 1986.
