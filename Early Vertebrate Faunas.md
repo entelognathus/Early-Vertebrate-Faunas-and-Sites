@@ -1014,23 +1014,32 @@ The arthrodires comprise
 # Carboniferous
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
+> Early Dinantian in NW Europe
 
+The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
+> 
 ### Visean, Middle Mississipian, Carboniferous
-
+> Late Dinantian in NW Europe 
 ### Serpukhovian, Late Mississipian, Carboniferous
+> Early Namurian in NW Europe
 **Bear Gulch Limestone Lagerstatte**
 
 
 
 ## Pennsylvanian 
-
 ### Bashkirian, Early Pennsylvanian, Carboniferous
+> Late Namurian in NW Europe
 
-### Moscovian, Middle Pennsylvanian, Carboniferous 
+
+### Moscovian, Middle Pennsylvanian, Carboniferous
+> Westphalian in NW Europe
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
+> 
+
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
+> 
 
 # Permian
 ## Cisuralian (Early Permian)
