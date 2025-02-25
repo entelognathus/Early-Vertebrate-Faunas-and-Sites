@@ -810,8 +810,15 @@ Gauja stage (late Givetian)
 
 ***Jamalong-Canowindra fauna***, upper Frasnian to lower Famennian
 > Mandagery Sandstone, Canowindra, New South Wales, Australia. MAV13
+> early Famennian in DeepBone.
 
 > - *Canowindara grossi* Thompson, 1973. 
+Mandageria fairfaxi
+
+
+
+
+
 
 
 ***Amata Formation fauna***: lower Frasnian, 382.7, 379.2
