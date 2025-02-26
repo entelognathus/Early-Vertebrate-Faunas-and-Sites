@@ -1033,7 +1033,13 @@ The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
 
 
 
-## Pennsylvanian 
+## Pennsylvanian
+
+Mazon Creek lagerstätte
+
+Francis Creek shale, late Moscovian
+
+
 ### Bashkirian, Early Pennsylvanian, Carboniferous
 > Late Namurian in NW Europe
 
