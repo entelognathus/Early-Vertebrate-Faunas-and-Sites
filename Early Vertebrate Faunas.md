@@ -1047,6 +1047,10 @@ Francis Creek shale, late Moscovian
 ### Moscovian, Middle Pennsylvanian, Carboniferous
 > Westphalian in NW Europe
 
+> Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2–315.2 Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
+
+
+
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > 
 
