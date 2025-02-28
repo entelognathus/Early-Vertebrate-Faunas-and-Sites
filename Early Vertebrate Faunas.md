@@ -829,6 +829,7 @@ Mandageria fairfaxi
 ***Miguasha fauna***： middle Frasnian, 379.2, 375.7
 > Escuminac Formation; Miguasha, Quebec, Canada.
 > - Agnatha: *Endeiolepis aneri*; *Euphanerops longaevus*; *Legendrelepis parenti*; *Escuminaspis laticeps*; *Levesquaspis patteni*
+> - Legendrelepis parenti Arsenault & Janvier 1991 was recognized as a junior synonym of Euphanerops longaevus (Janvier 1996b; Janvier and Arsenault 2007).
 > - Placodermi: *Bothriolepis canadensis*; *Plourdosteus canadensis*
 > - Acanthodii: *Diplacanthus ellsi*; *D. horridus*; *Homalacanthus concinnus*; *Triazeugacanthus affinis*
 > - Actinopterygii: *Cheirolepis canadensis*
