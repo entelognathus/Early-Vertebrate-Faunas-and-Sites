@@ -1235,7 +1235,13 @@ a longer temporal range than previously thought
 Romano (2021):
 
 ## Late Triassic
-Lockatong Formation Fauna (Late Triassic):
+***Lockatong Formation Fauna (Late Triassic)***
+> Pennsylvania, New Jersey, and New York, USA
+> Tetrapods: Eupelor durus; Gwyneddosaurus erici; Hypuronector limnaios; Icarosaurus siefkeri; Rhabdopelix longispinis; Rutiodon carolinensis; Tanytrachelos ahynis
+>
+> Fishes: Carinacanthus jepseni; Cionichthys sp.; Diplurus longicaudatus; Osteopleurus newarki; Lysorocephalus gwynnedensis
+
+
 
 ### Carnian, Late Triassic
 ### Norian, Late Triassic
