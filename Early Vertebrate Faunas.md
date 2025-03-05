@@ -54,6 +54,12 @@ MAV15, Grenfell fauna, late Famennian
 ## Wenlock
 
 ## Ludlow
+
+***Ringerike Group fauna, Oslo, Noway***: 
+> Davis et al. (2005): The Ringerike Group comprises the Sundvollen Formation (early Ludlow), the Stubdal Formation (late Ludlow to Pridoli), the Store Arøya Formation (Ludlow to early Pridoli), and the Holmestrand Formation (late Prodoli). The base of
+the Ringerike Group is diachronous, being younger to the south. The base of the group lies conformably on top of the limestones and marls of the Wenlock Steinsfjorden Formation, and thus marks the cessation of marine carbonate deposition in the Silurian of the Oslo Region.
+
+
 ***Xiaoxiang Vertebrate Fauna***: Ludfordian, late Ludlow.
 > The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow, 425.6, 423.0), lasting for about 2.6 million years.
 
