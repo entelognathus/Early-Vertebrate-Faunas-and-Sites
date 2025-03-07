@@ -21,11 +21,11 @@ MAV15, Grenfell fauna, late Famennian
 
 # Silurian
 ## Llandovery
-***The Valyalepis crista Zone**, Rhuddanian to early Aeronian
+**The Valyalepis crista Zone**, Rhuddanian to early Aeronian
 > Clemville Formation, Chaleurs Group; Petit Port Daniel River section, west of Clemville, GaspÈ Peninsula, QuÈbec, eastern Canada.
 > Valyalepis  crista; Loganellia scotica-type and L. sibirica-type thelodonts.  Turner & Nowlan 1995
 
-***The Loganellia aldridgei Zone***, late Aeronian to middle Telychian
+**The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
 > Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley 
 formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
 > Loganellia aldridgei, another L. scotica-type loganelliid.
@@ -66,6 +66,18 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 > - [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., in prep.; [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022; [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022.
 
 ## Wenlock
+
+**The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
+> Cape Phillips Formation, lower Sheinwoodian, lower Wenlock; sample at 90.0 m 
+in the Baillie-Hamilton BH1 section, which corresponds 
+to a level in the Monograptus riccartonensisñMonograptus belophorus GZ as determined by the carbon isotope 
+curve pattern (M‰rss et al. 1998a).
+
+
+**The Loganellia grossi Zone**: late Sheinwoodian
+> Maasi Beds (except their lower part) of the Jaagarahu Stage, upper Sheinwoodian, Lower Wenlock; interval 68.4ñ79.0 m of the Sakla core, Saaremaa, Estonia.
+
+
 
 J2M ¼ Maasi Beds of Jaagarahu Stage; K1 ¼
 Rootsiku¨la Stage; K1Kn ¼ Kuusno˜mme Beds; K1Vs ¼ Vesiku
