@@ -21,6 +21,11 @@ MAV15, Grenfell fauna, late Famennian
 
 # Silurian
 ## Llandovery
+***The Valyalepis crista Zone** Rhuddann
+
+> 
+
+
 ***Zhangjiajie vertebrate fauna***: Telychian, 438.5, 433.4
 > areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
 
@@ -52,6 +57,17 @@ MAV15, Grenfell fauna, late Famennian
 > - [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., in prep.; [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022; [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022.
 
 ## Wenlock
+
+J2M ¼ Maasi Beds of Jaagarahu Stage; K1 ¼
+Rootsiku¨la Stage; K1Kn ¼ Kuusno˜mme Beds; K1Vs ¼ Vesiku
+Beds of Rootsiku¨la Stage; K1Vt ¼ Viita Beds; K2H ¼ Himmiste
+Beds; K2S ¼ Sauvere Beds; K2U ¼ Uduvere Beds of Paadla
+Stage; K3a ¼ Kuressaare Stage; K3aK ¼ Kudjape Beds of
+THE SILURIAN OSTEOSTRACAN BIODIVERSITY 145
+Kuressaare Stage; K3aT ¼ Tahula Beds; K3b ¼ Kaugatuma
+Stage; K4 ¼ Ohesaare Stage.
+
+
 
 ## Ludlow
 
