@@ -21,10 +21,19 @@ MAV15, Grenfell fauna, late Famennian
 
 # Silurian
 ## Llandovery
-***The Valyalepis crista Zone** Rhuddann
+***The Valyalepis crista Zone**, Rhuddanian to early Aeronian
+> Clemville Formation, Chaleurs Group; Petit Port Daniel River section, west of Clemville, GaspÈ Peninsula, QuÈbec, eastern Canada.
+> Valyalepis  crista; Loganellia scotica-type and L. sibirica-type thelodonts.  Turner & Nowlan 1995
 
+***The Loganellia aldridgei Zone***, late Aeronian to middle Telychian
+> Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley 
+formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
+> Loganellia aldridgei, another L. scotica-type loganelliid.
 > 
 
+**The Loganellia scotica Zone**, late Telychian
+> Patrick Burn Formation, Priesthill Group, upper Telychian, Upper Llandovery; Logan Water section, Lesmahagow, Scotland. Ree Burn Formation, Hagshaw, Scotland; Lafayette Bugt Formation, North Greenland; Wych Formation and upper part of the Purple Shale Formation, Worcester and Hereford, Welsh Borderland; Anse aux Cascons and Anse a Pierre Loiselle formations, QuÈbec, eastern Canada; Cape Phillips Formation, Cornwallis and Baillie-Hamilton islands, Arctic Canada.
+> Ainiktozoon loganense, Jamoytius kerwoodi, L. scotica
 
 ***Zhangjiajie vertebrate fauna***: Telychian, 438.5, 433.4
 > areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
