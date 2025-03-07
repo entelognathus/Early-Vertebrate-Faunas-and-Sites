@@ -68,34 +68,67 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 ## Wenlock
 
 **The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
-> Cape Phillips Formation, lower Sheinwoodian, lower Wenlock; sample at 90.0 m 
-in the Baillie-Hamilton BH1 section, which corresponds 
-to a level in the Monograptus riccartonensisñMonograptus belophorus GZ as determined by the carbon isotope 
-curve pattern (M‰rss et al. 1998a).
+> Cape Phillips Formation, lower Sheinwoodian, lower Wenlock; sample at 90.0 m in the Baillie-Hamilton BH1 section, which corresponds to a level in the Monograptus riccartonensis - Monograptus belophorus GZ as determined by the carbon isotope curve pattern (Marss et al. 1998a).
+> Cape Phillips Formation, Sheinwoodian, Cornwallis Island, and the north shore of Baumann Fiord on Ellesmere Island; Road River Formation, 1 R Member, Sheinwoodian, lower Wenlock, Avalanche Lake sections, Mackenzie Mountains, northern Canada.
 
+> -  Archipelepis bifurcata, L. sulcata, Shielia parca, S. gibba, Phillipsilepis crassa, Frigorilepis caldwelli, Lanarkia cf. horrida in the Baillie-Hamilton BH1 section;
+> -  Arch. turbinata, Lanarkia cf. horrida, a yet undescribed Loganellia (L. cf. sulcata herein) in the Avalanche Lake sections.
 
-**The Loganellia grossi Zone**: late Sheinwoodian
+**The Loganellia grossi Zone**: late Sheinwoodian (early to middle late Sheinwoodian)
 > Maasi Beds (except their lower part) of the Jaagarahu Stage, upper Sheinwoodian, Lower Wenlock; interval 68.4ñ79.0 m of the Sakla core, Saaremaa, Estonia.
+> Sundvollen  Formation, Lower Ringerike Group, Wenlock, Ringerike Area, Norway; lower part of the Kap Morton Formation, mid-Wenlock, Kap Lucie Marie, Washington Land, North Greenland; Cape Phillips Formation, upper Sheinwoodian of Baillie- Hamilton  Island,  Arctic   Canada;  Wenlock,   Timan- Pechora Region and northern Urals; upper half of the Samojlovich  Formation,  Matusevich  River,  October Revolution Island, Severnaya Zemlya Archipelago.
 
+> -  Loganellia grossi, Thelodus sp., Rhyncholepis parvula.
 
+**The Overia adraini Zone**: late Sheinwoodian (late late Sheinwoodian)
+> Cape Phillips Formation, upper Sheinwoodian, Wenlock; interval 140.0ñ144.5 m in the Baillie-Hamilton 1 section, Arctic Canada.
+> Delorme Formation (Member 1D) of Avalanche Lake, Mackenzie Mountains, northern Canada.
 
-J2M ¼ Maasi Beds of Jaagarahu Stage; K1 ¼
-Rootsiku¨la Stage; K1Kn ¼ Kuusno˜mme Beds; K1Vs ¼ Vesiku
-Beds of Rootsiku¨la Stage; K1Vt ¼ Viita Beds; K2H ¼ Himmiste
-Beds; K2S ¼ Sauvere Beds; K2U ¼ Uduvere Beds of Paadla
-Stage; K3a ¼ Kuressaare Stage; K3aK ¼ Kudjape Beds of
-THE SILURIAN OSTEOSTRACAN BIODIVERSITY 145
-Kuressaare Stage; K3aT ¼ Tahula Beds; K3b ¼ Kaugatuma
-Stage; K4 ¼ Ohesaare Stage.
+> - Frigorilepis caldwelli, Lanarkia horrida.
 
+**The Loganellia einari Zone**: late Sheinwoodian (late late Sheinwoodian) to early Homerian
+> Tagavere Beds of the Jaagarahu Formation (Jaagarahu Stage), Sheinwoodian, lower Wenlock; interval 58.20ñ62.7 m in the Sakla core, Saaremaa, Estonia.
+> Sundvollen Formation, Lower Ringerike Group, Wenlock, Ringerike Area, Norway. In the Ostrovets sections 7ts, 73 and  195 in Belarus, L. grossi and L. einari have been found together.
 
+> - Thelodus sp., L. grossi,L. einari in the Riksu-803 and Vesiku-507 drill cores.
+
+**The Paralogania martinssoni Zone**: late Homerian to early Gorstian
+> Viita Beds, Rootsik¸la Stage, upper Homerian, uppermost Wenlock; interval 143.67ñ153.20 m in the Ohesaare core section, Estonia.
+> Rootsik¸la and lower Paadla stages, respectively upper Homerian (uppermost Wenlock) and lower Gorstian (lowermost Ludlow), Estonia; Halla, Mulde and Klinteberg beds, and Hemse unit a, Homerian (upper Wenlock) and lower Gorstian (Ludlow), Gotland. 1D Member  of the  Delorme Group  in  the  Avalanche  Lake  sections,  Mackenzie Mountains,  Cape  Phillips  Formation,  Homerian,  on Baillie-Hamilton  Island,  the  uppermost  Wenlock  or lowermost Ludlow, Prince of Wales Island, Northern Canada; Bed 10, upper Wenlock, Ringerike, Norway; upper  Voron′ya  Beds,  upper  Wenlock  Mikhajlovsk Pond area, Central Urals, Russia; lower part of the Ust′- Spokojnaya  Formation,  Wenlock,  Matusevich  River section, October Revolution Island, Severnaya Zemlya, Russia; middle Elton Formation, lower Gorstian, lower Ludlow of Welsh Borderland, southern Britain.
+
+> - Par. martinssoni, Thelodus  laevis, Tremataspis schmidti, Tremataspis milleri,  Saaremaaspis mickwitzi, Oeselaspis pustulata, Witaaspis schrenkii, Thyestes verrucosus, Rhyncholepis parvula, R. butriangula, Birkenia robusta, Pterygolepis nitida, Vesikulepis funiforma, Rytidolepis quenstedtii.
 
 ## Ludlow
+**The Phlebolepis  ornata  Zone**: late Gorstian
+> Sauvere Beds (excluding the lowermost part) of the Paadla Stage, Gorstian, lower Ludlow, interval 111.80ñ112.25 m in the Ohesaare core section, Saaremaa, Estonia. The zone has been recognized only in the sections on Saaremaa and Gotland islands, in the middle  and upper parts of the  Sauvere Beds, Paadla Stage, and in units band c of the Hemse Beds, respectively.
 
-***Ringerike Group fauna, Oslo, Noway***: 
-> Davis et al. (2005): The Ringerike Group comprises the Sundvollen Formation (early Ludlow), the Stubdal Formation (late Ludlow to Pridoli), the Store Arøya Formation (Ludlow to early Pridoli), and the Holmestrand Formation (late Prodoli). The base of
-the Ringerike Group is diachronous, being younger to the south. The base of the group lies conformably on top of the limestones and marls of the Wenlock Steinsfjorden Formation, and thus marks the cessation of marine carbonate deposition in the Silurian of the Oslo Region.
+> - Phlebolepis ornata, Thelodus sp. and Par. martinssoni.
 
+**The Phlebolepis elegans Zone**: late Gorstian
+> Himmiste Beds (except their lower half) of the Paadla Stage, upper Gorstianñ lower Ludfordian, Ludlow, interval 105.03ñ108.30 m in the Ohesaare core section, Saaremaa. Saaremaa, western mainland of Estonia (middle and upper Himmiste Beds and lower Uduvere Beds of the Paadla  Stage), Gotland,  Sweden (the uppermost part of unit c and the lower half of unit d of the Hemse limestones and the corresponding interval of the Hemse marlsin NW Gotland).
+> Upper Bringewood  and  lower Leintwardine  formations,  Gorstian  and  Ludfordian  of the Welsh Borderland, southern Britain; upper Mielnik Stage, Ludlow, eastern Poland; middle Gerd″yu Stage, upper Gorstian and lower Ludfordian, western slope of the North and Central Urals; Velikaya River Formation, Ludlow,  Timan-Pechora  Region;  middle  part  of the Ust′-Spokojnaya Formation, Ludlow, Matusevich River, and lower part of the same formation in the Spokojnaya River section, October Revolution Island,  Severnaya Zemlya.
+
+> - Phl. elegans, Thelodus laevis, T. carinatus  (Pander), Par. martinssoni, Tremataspis mammillata Patten, Tremataspis  milleri, Dartmuthia gemmifera  Patten, Oeselaspis  pustulata, Witaaspis schrenkii, Thyestes verrucosus, Procephalaspis oeselensis (Robertson),  Vesikulepis funiforma , Silmalepis erinacea, Rytidolepis? quenstedtii.
+
+**The Andreolepis hedei Zone**: early to middle Ludfordian
+> Mituva Formation, Paadla Stage, Ludfordian, Ludlow, interval 472.4ñ484.5 m in the Ventspils-D3 core section, western Latvia.
+> Upper (excluding the uppermost part) of the Ust′-Spokojnaya Formation, Ludlow, October Revolution, Pioneer and Komsomolets islands, Severnaya Zemlya; uppermost part of the West Khatanzej Formation, Ludlow, Khatanzej Peninsula, Novaya Zemlya; Velikaya River  Formation,  Gerd″yu  Stage,  Ludlow,  Velikaya River, northern Timan; upper part of the Kuba Beds, lower Ludfordian, Ludlow, of the southern Mikhajlovsk Pond section, Mikhajlovsk Subzone, Central Urals.
+>
+> - Thelodus laevis, T. carinatus,  Par. martinssoni,  Par. kaarmisensis, Phl. elegans; Archegonaspis sp.; Nostolepis  striata and Gomphonchus sandelensis.
+
+**The Thelodus sculptilis Zone**: late Ludfordian
+> Lower  part  of  the Tahula Beds of the Kuressaare Stage, upper Ludfordian, Ludlow; interval  83.10ñ95.17 m  in the  Ohesaare  core section, Saaremaa.
+> Lower part  of the  Tahula Beds  of  the  Kuressaare  Stage,  upper  Ludfordian  in western Latvia and Estonia; upper Pagegiai Formation, upper Ludlow, Lithuania; Burgsvik Formation, Ludfordian, Gotland, Sweden.
+> ÷ved  Sandstone  Formation, ÷ved-RamsÂsa Beds, SkÂne, southern Sweden; uppermost Gerd″yu Stage, upper Ludlow, Timan-Pechora Region, Tabuska Beds; upper Ludlow or lower Přidoli (see above about the Tabuska Beds), Central Urals; Greben′ Stage, upper Ludlow, Novaya Zemlya Archipelago, Russia.
+> 
+> - Thelodus sculptilis, T. parvidens Agassiz,  T. traquairi  (Gross), Loganellia cuneata (Gross), Par. ludlowiensis (Gross), Par. perensae M‰rss, Nethertonodus laadjalaensis M‰rss,  Trimerolepis tricava (Gross), Longodus acicularis M‰rss; heterostracan Archegonaspis sp.;  osteostracan  Zenaspis? sp.;  anaspid Tahulalepis elongituberculata Blom, M‰rss & Miller; acanthodians Nostolepis striata Pander,  Gomphonchus sandelensis (Pander), Poracanthodes porosus Brotzen
+
+**The Thelodus admirabilis Zone**: late Ludfordian
+> Uppermost part of the Tahula  and  Kudjape  beds  of  the  Kuressaare  Stage, uppermost Ludfordian, upper Ludlow; interval 64.65ñ 83.10 m in the Ohesaare core section, Saaremaa.
+> Upper Tahula and Kudjape beds, Kuressaare Stage, upper Ludlow, and the lower ƒigu  Beds,  Kaugatuma  Stage,  lower  Přidoli,  Latvia and Estonia; upper Pagegiai Formation, upper Ludlow, Central Lithuania.
+>  ÷ved Sandstone Formation, ÷ved RamsÂsa Group, lower Přidoli, SkÂne, southern Sweden.
+
+> - 
 
 ***Xiaoxiang Vertebrate Fauna***: Ludfordian, late Ludlow.
 > The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow, 425.6, 423.0), lasting for about 2.6 million years.
@@ -110,6 +143,26 @@ the Ringerike Group is diachronous, being younger to the south. The base of the 
 > 
 
 ## Pridoli
+**The Nostolepis gracilis Zone**: early Pridoli
+> Upper ƒigu and Lıo beds (excluding the uppermost part) of the Kaugatuma Stage, Přidoli, interval 55.6ñ94.8 m in the Sırve-514 drill core, Saaremaa.
+> Upper ƒigu and Lıo beds (excluding the uppermost part) of the Kaugatuma Stage, Přidoli, Estonia  and Latvia; most of the Kaugatuma Stage (excluding the lower part), Kaliningrad District; upper Minija and lower Jūra formations, Lithuania. Middle  Downton  (Holdgate Group), Welsh Borderland, southern Britain.
+
+> - N. gracilis, T. parvidens,  T. traquairi,  L. cuneata, Trimerolepis tricava, Tolypelepis undulata, G. sandelensis, Por. porosus and Lophosteus connexus.
+
+**The Poracanthodes punctatus Zone**: late Pridoli
+> Uppermost Kaugatuma Stage and most of the Ohesaare Stage, interval 276.2ñ 325.2 m in the Ventspils-D3 drill core, Latvia.
+> Uppermost Kaugatuma Stage and most of the Ohesaare Stage, Estonia, Latvia, Lithuania and the Kaliningrad District.
+> Barlow Inlet Formation, Přidoli, Read Bay southern section, Cornwallis Island, Arctic Canada.
+
+> - T. parvidens,  T. traquairi,  L. cuneata,  Tr. tricava, N. striata and G. sandelensis, as well as those of the Ohesaare (uppermost Silurian) and Tilûe (Lower Devonian) stages, (Goniporus alatus (Gross), Tolypelepis undulata Pander,  Oniscolepis  dentata  Pander,  Gomphonchus hoppei  Gross, Lophosteus superbus  Pander,  Tylodus deltoides Rohon).
+
+**The Trimerolepis timanica Zone**: latest Pridoli
+> Uppermost Ohesaare Stage, Přidoli; interval 269.5ñ276.2 m in the Ventspils- D3 drill core, Latvia.
+> Uppermost Ohesaare Stage, Latvia (Tr. timanica) and Lithuania (Tr. lithuanica); in Estonia, the sedimentary rocks of this age are missing.
+> Uppermost Přidoli in the Timan- Pechora region, NW  Russia  (with both  Tr. timanica and Tr. lithuanica present); Ledbury Formation, Welsh Borderland, southern Britain (Tr. cf. timanica, see remarks below).
+
+> - L. cuneata,  Goniporus alatus, heterostracans Tol. undulata, Oniscolepis dentata, acanthodians N. striata, N. alta,  Gomphonchus sandelensis, Por. punctatus.
+
 ***Liaojiaoshan Assemblage of Xitun Vertebrate Fauna***: Pridoli
 > upper part of the Yulungssu Formation, Qujing, Yunnan.
 > - [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
@@ -118,6 +171,8 @@ the Ringerike Group is diachronous, being younger to the south. The base of the 
 # Devonian
 ## Early Devonian
 > For the Early Devonian Vertebrate Assemblages of the ORS continent, see Blieck and Cloutier (2000).
+
+**The Turinia pagei Zone**: Earliest Lockkovian
 
 ***Xitun Vertebrate Fauna (Xishancun to Xujiachong formations)***: Lochkovian to Pragian.
 This fish fauna is characterized by the radiation of Polybranchiaspidiformes, Huananaspidiformes, Yunnanolepidoidei, and crown sarcopterygians. The following seven assemblages are recognized based on the different tectonic backgrounds and facies.
