@@ -1094,6 +1094,11 @@ Francis Creek shale, late Moscovian
 
 # Triassic:
 ## Early Triassic
+### Induan, Early Triassic
+**Blina Shale, Kimberley region, Northwest Australia**
+> Batrachosuchus henwoodi, Deltasaurus kimberleyensis, Erythrobatrachus noonkanbahensis, Saurichthys.
+> Aphelodus anapes
+
 ### Griesbachian, Induan, Early Triassic
 **Greenland**: 
 Previously undescribed specimens of Saurichthys from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. Saurichthys aff. dayi (Raymond, 1925)
@@ -1103,6 +1108,9 @@ The Early Triassic fishes of East Greenland originate from six horizons (Nielsen
 Although the ichthyofaunal compositions of these six horizons differ (Nielsen 1961), collectively they show that all of the typical Early Triassic taxa were already present in the Griesbachian: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), (Platysiagidae), parasemionotids Parasemionotus, ??Errolichthys, (Broughia, Helmolepis Ospia, ? Watsonulus) Pteronisculus, Saurichthys, ? Teffichthys (“Perleidus”; Marramà et al., 2017), Sassenia, and Whiteia (Stensiö 1932; Nielsen 1936; Nielsen 1942; Nielsen 1949; Nielsen 1952; Nielsen 1955; Nielsen 1961; Nybelin 1977; Mutter 2005; Kogan 2011; Argyriou et al., 2018). These taxa are  part of Tintori et al. (2014a)’s “Triassic Early Fish Fauna” (TEFF).
 
 Pteronisculus gunnari, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
+
+
+
 
 ### Dienerian, Induan, Early Triassic
 **Madagascar**: 
