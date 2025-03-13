@@ -1231,9 +1231,12 @@ China: Nanlinghu Formation in eastern China (Anhui Province), a perleidid (Chaoh
 From Romania, cranial remains of the actinistian Dobrogeria have been described (Cavin and Gr˘adinaru 2014), and material of additional taxa is currently under study (work in progress). From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
 
 **Sulphur Mountain Formation Fauna** Olenekian, Early Triassic
+
 > Wapiti Lake locality, British Columbian, Canada
-> Chondrichthyes: Paredestus bricircum, Fadenia, Caseodus, Hybodonts 
-> Rebellatrix, Helmolepis and Birgeria 
+
+> Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
+
+> Rebellatrix divaricerca, Helmolepis and Birgeria 
 
 
 
