@@ -1133,12 +1133,6 @@ The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
 
 
 ## Pennsylvanian
-
-Mazon Creek lagerstätte
-
-Francis Creek shale, late Moscovian
-
-
 ### Bashkirian, Early Pennsylvanian, Carboniferous
 > Late Namurian in NW Europe
 
@@ -1147,6 +1141,13 @@ Francis Creek shale, late Moscovian
 > Westphalian in NW Europe
 
 > Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2–315.2 Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
+
+**Mazon Creek lagerstätte**
+> Francis Creek shale Member of the Carbondale Formation, late Moscovian
+> This is dated as late Moscovian (Westphalian D; Pfefferkorn, 1979; Heckel and Clayton, 2006) within the Pennsylvanian (∼308–310 Ma; Gradstein et al., 2012).
+> - Mazon Creek fauna: *Bandringa rayi* (=*Bandringa herdinae*),
+> - Essex biota: *Tullimonstrum gregarium*
+> - Braidwood biota: *Illiniichthys cozarti*
 
 
 
