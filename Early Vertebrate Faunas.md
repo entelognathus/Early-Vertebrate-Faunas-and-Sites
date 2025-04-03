@@ -1123,8 +1123,9 @@ The arthrodires comprise
 > Early Dinantian in NW Europe
 >
 > The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
-> East Lothian, Scotland; the coast of Burnmouth, the banks of the Whiteadder Water near Chirnside, the River Tweed near Coldstream, and the rocks near Tantallon Castle alongside the Firth of Forth
+> Granton Shrimp Bed：the coast of Burnmouth, the banks of the Whiteadder Water near Chirnside, the River Tweed near Coldstream, and the rocks near Tantallon Castle alongside the Firth of Forth
 
+> East Lothian, Scotland; 
 > Blue Beach, Nova Scotia
 
 
