@@ -1121,11 +1121,20 @@ The arthrodires comprise
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
 > Early Dinantian in NW Europe
+>
+> The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
+> East Lothian, Scotland; the coast of Burnmouth, the banks of the Whiteadder Water near Chirnside, the River Tweed near Coldstream, and the rocks near Tantallon Castle alongside the Firth of Forth
 
-The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
-> 
+> Blue Beach, Nova Scotia
+
+
 ### Visean, Middle Mississipian, Carboniferous
 > Late Dinantian in NW Europe 
+
+> East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
+
+
+
 
 ### Serpukhovian, Late Mississipian, Carboniferous
 > Early Namurian in NW Europe
