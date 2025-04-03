@@ -1145,6 +1145,11 @@ The arthrodires comprise
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
 > Late Namurian in NW Europe
+>
+> Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
+
+
+
 
 
 ### Moscovian, Middle Pennsylvanian, Carboniferous
@@ -1166,7 +1171,10 @@ The arthrodires comprise
 
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
-> 
+> Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
+
+
 
 # Permian
 ## Cisuralian (Early Permian)
