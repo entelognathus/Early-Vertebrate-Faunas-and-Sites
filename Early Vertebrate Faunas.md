@@ -1126,6 +1126,7 @@ The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
 > 
 ### Visean, Middle Mississipian, Carboniferous
 > Late Dinantian in NW Europe 
+
 ### Serpukhovian, Late Mississipian, Carboniferous
 > Early Namurian in NW Europe
 **Bear Gulch Limestone Lagerstatte**
@@ -1146,8 +1147,8 @@ The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
 > Francis Creek shale Member of the Carbondale Formation, late Moscovian
 > This is dated as late Moscovian (Westphalian D; Pfefferkorn, 1979; Heckel and Clayton, 2006) within the Pennsylvanian (∼308–310 Ma; Gradstein et al., 2012).
 > - Mazon Creek fauna: *Bandringa rayi* (=*Bandringa herdinae*),
-> - Essex biota: *Tullimonstrum gregarium*
-> - Braidwood biota: *Illiniichthys cozarti*
+> - Essex biota (marine): *Tullimonstrum gregarium*
+> - Braidwood biota (freshwater): *Illiniichthys cozarti*
 
 
 
