@@ -1168,7 +1168,7 @@ The arthrodires comprise
 
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
-> 
+> The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
 
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
