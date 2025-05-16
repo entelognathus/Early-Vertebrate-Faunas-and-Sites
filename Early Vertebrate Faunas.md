@@ -562,6 +562,13 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - *Luckeus abudda* Young and Schultze, 2005, *Turinia gavinyoungi* Turner, 1997, *Mcmurdodus whitei* Turner & Young, 1987, *Teneracanthus toombaensis* Burrow & Young, 2005, *Machaeracanthus pectinatus* Burrow & Young, 2005 from Georgina Basin.
 > - The taxa not identified in the Mulga Downs Group but associated with *Wuttagoonaspis* in the Cravens Peak Beds of the Georgina Basin (western Queensland) include asterolepidoid antiarchs,  the shark *McMurdodus*, and the new agnathans *Pituiriaspis* and *Neeyambaspis*.
 
+***Belan Formation Bolivia Fauna***: late Emsian to early Eifelian. 400.45,391.43.
+> Janvier and Maisey (2010): all the vertebrate remains are collected in this formation immediately below or above the Condoriquina quartzite, and are accompanied by invertebrate assemblages that suggest a late Emsian to early Eifelian age.
+> Placodermi: Bolivosteus chacomensis
+> Pucapampella spp.
+> Zamponiopteron spp.
+
+
 ***Michigan basin***
 > - Middle and Late Devonian
 > - see Stack and Sallan, 2018
