@@ -34,7 +34,12 @@ MAV15, Grenfell fauna, late Famennian
 the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature."
 > - *Pircanchaspis rinconensis* Erdtmann et al., 2000
 
-## Middle Ordovician
+## Darriwilian, Middle Ordovician
+**Amdeh Formation, Oman**
+> *Sacabambaspis* sp. (Sansom et al., 2009), Dapingian? to early Darriwilian.
+
+
+
 
 ## Late Ordovician
 
