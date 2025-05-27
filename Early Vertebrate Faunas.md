@@ -20,6 +20,20 @@ MAV15, Grenfell fauna, late Famennian
 > Devonian Macrovertebrate Assemblages I-XI of China based on Zhu (2000) 
 
 # Ordovician
+## Flioan, Early Ordovician
+**Rowena Formation, Australia**
+> Mutawintji National Park, far western NSW.
+> The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin.
+> *Arandaspis* sp. indet. (Young, 2009)
+
+**Parcoota Sandstone and Horn Vally Siltstone, Amadeus Basin, central Australia**
+> *Porophoraspis* sp. indet. (Young, 1997)
+
+**Pircancha Formation, Bolivia**
+> Sansom and Andreev (2019): "More contentiously, the Pircanha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of
+the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature."
+> *Pircanchaspis rinconensis* Erdtmann et al., 2000
+
 ## Middle Ordovician
 
 ## Late Ordovician
