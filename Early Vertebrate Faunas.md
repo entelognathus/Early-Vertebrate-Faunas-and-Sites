@@ -20,7 +20,7 @@ MAV15, Grenfell fauna, late Famennian
 > Devonian Macrovertebrate Assemblages I-XI of China based on Zhu (2000) 
 
 # Ordovician
-## Flioan, Early Ordovician
+## Floian, Early Ordovician
 **Rowena Formation, Australia**
 > Mutawintji National Park, far western NSW.
 > - The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin.
