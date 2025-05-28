@@ -72,24 +72,24 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 
 > - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
 
-> - Gull River Formation, St. Joseph Island, Ontario, Canada, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
+> - Gull River Formation, St. Joseph Island, Ontario, Canada, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
 >
 > - - shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
 
 ## Katian, Late Ordovician
 **Niil Formation, Western Australia**
 > - (Sansom et al., 2013)
-> - Ritchieichthys
+> - *Ritchieichthys*
 
 ## Hirnantian, Late Ordovician 
 **Soom Shale, South Africa**
 > - what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
-Ozernaya Formation, Russia
+**Ozernaya Formation, Russia**
 
-Stronaya Formation, Russia
+**Stronaya Formation, Russia**
 
-The post-Sandbian record sees the appearance of a number of thelodont taxa (Sandivia and Stroinolepis) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
+> - The post-Sandbian record sees the appearance of a number of thelodont taxa (Sandivia and Stroinolepis) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
 
 
 # Silurian
