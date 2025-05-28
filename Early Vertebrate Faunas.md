@@ -57,11 +57,6 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 **Anzaldo Formation, Bolivia**
 > - (Gagnier et al., 1986; Gagnier, 1989; 1993a)
 
-## Katian, Late Ordovician
-**Niil Formation, Western Australia**
-> - (Sansom et al., 2013)
-> - Ritchieichthys
-
 **Harding Fish Fauna**
 > - Harding Sandstone, Sansom et al., 2001
 
@@ -77,6 +72,10 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 
 > - Gull River Formation, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
 
+## Katian, Late Ordovician
+**Niil Formation, Western Australia**
+> - (Sansom et al., 2013)
+> - Ritchieichthys
 
 ## Hirnantian, Late Ordovician 
 **Soom Shale, South Africa**
