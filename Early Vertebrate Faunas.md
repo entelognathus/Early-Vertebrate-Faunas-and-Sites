@@ -40,9 +40,11 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 
 **Stokes Siltstone, Amadeus Basin, central Australia**
 > - (Young, 1997; 2009 and Sansom et al., 2013)
+> - - *Areyongalepis oervigi* (Young, 1997, 2000), shark-like scale
 
 **Stairway Sandstone, Amadeus Basin, central Australia**
 > - (Ritchie and Gilbert-Tomlinson, 1977)
+> - - *Tantalepis gatehousei* (Sansom et al., 2012), shark-like scale
 
 **Sepulturas Formation, Argentina**
 > - (Albanesi et al., 1995; Albanesi and Astini 2002)
@@ -70,7 +72,9 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 
 > - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
 
-> - Gull River Formation, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
+> - Gull River Formation, St. Joseph Island, Ontario, Canada, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
+>
+> - - shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
 
 ## Katian, Late Ordovician
 **Niil Formation, Western Australia**
