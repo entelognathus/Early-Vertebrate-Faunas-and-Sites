@@ -63,7 +63,7 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 > - Ritchieichthys
 
 **Harding Fish Fauna**
-> - Harding Sandstone
+> - Harding Sandstone, Sansom et al., 2001
 
 > - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
 
@@ -75,7 +75,7 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 
 > - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
 
-> - Gull River Formation
+> - Gull River Formation, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
 
 
 ## Hirnantian, Late Ordovician 
