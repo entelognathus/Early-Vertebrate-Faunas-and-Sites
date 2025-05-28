@@ -65,11 +65,11 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 **Harding Fish Fauna**
 > - Harding Sandstone
 
-> - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
+> - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
 
-> - South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
+> - South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
-> - Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
+> - Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
 > - Lowville Formation, Ontario, Canada (Eliuk, 1973; Turner et al.,2004)
 
