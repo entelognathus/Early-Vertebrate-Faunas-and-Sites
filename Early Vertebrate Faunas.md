@@ -59,7 +59,7 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 
 ## Katian, Late Ordovician
 **Niil Formation, Western Australia**
-> - (Sansom et al., 2013)
+> - (Sansom et al., 2013)
 > - Ritchieichthys
 
 **Harding Fish Fauna**
