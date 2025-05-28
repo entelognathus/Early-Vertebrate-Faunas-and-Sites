@@ -38,11 +38,44 @@ the solitary specimen and the absence of clear arandaspid features renders this 
 **Amdeh Formation, Oman**
 > *Sacabambaspis* sp. (Sansom et al., 2009), Dapingian? to early Darriwilian.
 
+Stokes Siltstone, Australia
 
+Stairway Sandstone, Australia
 
+Sepulturas Formation, Argentine
+
+Trapiche Group, Argentine
 
 ## Late Ordovician
+Sandbian
+Carmichael Sandstone, Australia
 
+Anzaldo Formation, Bolivia
+
+Katian
+Niil Formation, Australia
+
+Harding Sandstone
+
+Viola Limestone
+
+South Piney
+
+Icebox Shale
+
+Lowville Formation
+
+Black River Group
+
+Gull River Formation
+
+
+Hirnantian
+Soom Shale, South Africa
+
+Ozernaya Formation, Russia
+
+Stronaya Formation, Russia
 # Silurian
 ## Llandovery
 **The Valyalepis crista Zone**, Rhuddanian to early Aeronian
