@@ -30,52 +30,65 @@ MAV15, Grenfell fauna, late Famennian
 > - *Porophoraspis* sp. indet. (Young, 1997)
 
 **Pircancha Formation, Bolivia**
-> Sansom and Andreev (2019): "More contentiously, the Pircanha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of
+> - Sansom and Andreev (2019): "More contentiously, the Pircanha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of
 the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature."
 > - *Pircanchaspis rinconensis* Erdtmann et al., 2000
 
 ## Darriwilian, Middle Ordovician
 **Amdeh Formation, Oman**
-> *Sacabambaspis* sp. (Sansom et al., 2009), Dapingian? to early Darriwilian.
+> - *Sacabambaspis* sp. (Sansom et al., 2009), Dapingian? to early Darriwilian.
 
-Stokes Siltstone, Australia
+**Stokes Siltstone, Amadeus Basin, central Australia**
+> - (Young, 1997; 2009 and Sansom et al., 2013)
 
-Stairway Sandstone, Australia
+**Stairway Sandstone, Amadeus Basin, central Australia**
+> - (Ritchie and Gilbert-Tomlinson, 1977)
 
-Sepulturas Formation, Argentine
+**Sepulturas Formation, Argentina**
+> - (Albanesi et al., 1995; Albanesi and Astini 2002)
 
-Trapiche Group, Argentine
+**Trapiche Group, Argentina**
+> - (Albanesi et al., 1995; Albanesi and Astini 2002)
 
-## Late Ordovician
-Sandbian
-Carmichael Sandstone, Australia
+## Sandbian, Late Ordovician
+**Carmichael Sandstone, Amadeus Basin, central Australia**
+> - (Young, 1997) Sacabambaspis sp.
 
-Anzaldo Formation, Bolivia
+**Anzaldo Formation, Bolivia**
+> - (Gagnier et al., 1986; Gagnier, 1989; 1993a)
 
-Katian
-Niil Formation, Australia
+## Katian, Late Ordovician
+**Niil Formation, Western Australia**
+> - (Sansom et al., 2013)
+> - Ritchieichthys
 
-Harding Sandstone
+**Harding Fish Fauna**
+> - Harding Sandstone
 
-Viola Limestone
+> - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
 
-South Piney
+> - South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
-Icebox Shale
+> - Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
-Lowville Formation
+> - Lowville Formation, Ontario, Canada (Eliuk, 1973; Turner et al.,2004)
 
-Black River Group
+> - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
 
-Gull River Formation
+> - Gull River Formation
 
 
-Hirnantian
-Soom Shale, South Africa
+## Hirnantian, Late Ordovician 
+**Soom Shale, South Africa**
+> - what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
 Ozernaya Formation, Russia
 
 Stronaya Formation, Russia
+
+The post-Sandbian record sees the appearance of a number of thelodont taxa (Sandivia and Stroinolepis) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
+
+
 # Silurian
 ## Llandovery
 **The Valyalepis crista Zone**, Rhuddanian to early Aeronian
