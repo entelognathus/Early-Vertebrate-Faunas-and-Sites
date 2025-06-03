@@ -683,29 +683,13 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > Also Sandwick-Achanarras fauna.
-
-| Clade           taxa                            |
-|-----------------|--------------------------|---------------------------------|
-| Placoderm       | Arthrodira               | *Coccosteus cuspidatus*         |
-|                 *Homostius milleri*             |
-|                 *Actinolepis magn*              |
-|                 | Antiarcha                | *Pterichthyodes milleri*        |
-|                 | Ptyctodontida            | *Rhamphodopsis threiplandi*     |
-|                 *R. trispinatus*                |
-|                 | Placoderm incertae sedis | *Palaeospondylus gunni*         |
-| Acanthodii      *Diplacanthus striatus*         |
-|                 *Rhadinacanthus longispinus*    |
-|                 *Cheiracanthus murchisoni*      |
-|                 *C. latus*                      |
-|                 *Mesacanthus peachi*            |
-| Actinopterygii  *Cheirolepis trailli*           |
-| Sarcopterygii   *Dipterus valenciennesi*        |
-|                 *Pentlandia macroptera* (note: middle Givetian, 384.99, 387.30 (Jude et al., 2014) )        |
-|                 *Glyptolepis paucidens*         |
-|                 *G. leptopterus*                |
-|                 *Osteolepis macrolepidotus*     |
-|                 *Gyroptychius agassizi*         |
-
+> - Arthrodira, *Coccosteus cuspidatus*, *Homostius milleri*, *Actinolepis magn*
+> - Antiarcha, *Pterichthyodes milleri*
+> - Ptyctodontida, *Rhamphodopsis threiplandi*, *R. trispinatus*
+> - Placoderm incertae sedis, *Palaeospondylus gunni*
+> - Acanthodii, *Diplacanthus striatus*, *Rhadinacanthus longispinus*, *Cheiracanthus murchisoni*, *C. latus*, *Mesacanthus peachi*
+> - Actinopterygii  *Cheirolepis trailli*
+> - Sarcopterygii   *Dipterus valenciennesi*, *Pentlandia macroptera* (note: middle Givetian, 384.99, 387.30 (Jude et al., 2014)), *Glyptolepis paucidens*, *G. leptopterus*, *Osteolepis macrolepidotus*, *Gyroptychius agassizi*
 
 ***Pärnu Regional Stage fauna***: lower Eifelian.
 
