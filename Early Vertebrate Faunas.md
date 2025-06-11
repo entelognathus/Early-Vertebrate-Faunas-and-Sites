@@ -1209,7 +1209,7 @@ The arthrodires comprise
 ### Serpukhovian, Late Mississipian, Carboniferous
 > Early Namurian in NW Europe
 **Bear Gulch Limestone Lagerstatte**
-
+> late Serpukhovian: Wendyichthys dicksoni, Guildayichthys carnegiei, Discoserra pectinodon
 
 
 ## Pennsylvanian
