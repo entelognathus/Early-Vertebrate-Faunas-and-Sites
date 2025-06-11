@@ -1196,6 +1196,14 @@ The arthrodires comprise
 
 > East Lothian, Scotland; 
 > Blue Beach, Nova Scotia
+>
+> USA: Salem Limestone; Burlington limestone;
+> Waugh Member, Genevieve Formation
+
+
+
+
+
 
 
 ### Visean, Middle Mississipian, Carboniferous
