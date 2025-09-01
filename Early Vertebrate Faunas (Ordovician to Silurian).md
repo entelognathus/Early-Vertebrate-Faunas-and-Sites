@@ -458,4 +458,14 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 229. 	E. J. Loeffler, B. Jones, Additional late Silurian ostracoderms from the Leopold Formation of Somerset Island, North West Territories, Canada. Palaeontology 20_part34, 661–667 (1977).
 230. 	A. D. Miall, J. W. Kerr, Phanerozoic stratigraphy and sedimentology of Somerset Island and northeastern Boothia Peninsula. Geological Survey of Canada Paper (1977).
 231. 	G. F. Matthew, “On Some Remarkable Organisms of the Silurian and Devonian Rocks in Southern New Brunswick” in Ott. Nat., A. H. (Henry Marc), Ed. (Ottawa, Ottawa Field-Naturalists’ Club, 1889)vol. 3, pp. 74–77.
-232. 	G. F. Matthew, A new genus and a new species of Silurian fish. 
+232. 	G. F. Matthew, A new genus and a new species of Silurian fish. Transactions of the Royal Society of Canada 3rd series, 7–11 (1907).
+233. 	R. H. Denison, S. K. Roy, L. A. Ross, A Review of the Habitat of the Earliest Vertebrates (Chicago Natural History Museum Press, 1956)vol. 11:no.8 (1956).
+234. 	C. J. Burrow, A partial articulated acanthodian from the Silurian of New Brunswick, Canada. Can. J. Earth Sci. 48, 1329–1341 (2011).
+235. 	D. K. Elliott, S. Swift, A new species ofAriaspis(Agnatha, Heterostraci) from the Late Silurian of the Canadian Arctic. J. Vertebr. Paleontol. 30, 1874–1878 (2010).
+236. 	E. J. Loeffler, D. L. Dineley, ncw specics Corvaspis from Peel Sound Formation Somerset Island. Palaeontology 19, 757–766 (1976).
+237. 	D. Miall, J. W. Kerr, M. R. Gibling, Somerset Is- land Formation: Upper Silurian ?Lower Devonian inter- tidal/supratidal succession, Boothia Uplift region, Arctic Canada. Arctic Canada. Canadian Journal Earth Sciences 15, 81–189 (1978).
+238. 	L. I. Novitskaya, Evolution of generic and species diversity in agnathans (Heterostraci: Orders Cyathaspidiformes, Pteraspidiformes). Paleontological Journal 41, 268–280 (2007).
+239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
+240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
+241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
