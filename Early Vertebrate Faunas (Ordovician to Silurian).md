@@ -2,18 +2,23 @@
 
 # Ordovician
 ## Floian, Early Ordovician
-**Rowena Formation, Australia**
-> Mutawintji National Park, far western NSW.
-> - The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin.
-> - *Arandaspis* sp. indet. (Young, 2009)
-
 **Parcoota Sandstone and Horn Vally Siltstone, Amadeus Basin, central Australia**
-> - **Age**: Early Flioan.
+> - **Age**: _Early Flioan_.
 > - **Taxa**: *Porophoraspis* sp. indet. (Young, 1997)
+
 > Pacoota Sandstone Formation, Amadeus Basin/ Western end of Gardiner Range, on southern limb of Gardiner Range Anticline, Northern Territory, Australia. (Locality 7 in figure 1 of Young, 1997), CPC 33539-33540
 > 
 > Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia. (Locality 5 in figure 1 of Young, 1997), CPC 33541
 >
+> - **References**: 
+
+**Rowena Formation, Australia**
+> - **Age**: _Late Flioan_.
+> - **Taxa**: *Arandaspis* sp. indet. (Young, 2009)
+
+> Mutawintji National Park, far western NSW.
+> - The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin.
+
 > - **References**: 
 
 **Pircancha Formation, Bolivia**
@@ -478,6 +483,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
