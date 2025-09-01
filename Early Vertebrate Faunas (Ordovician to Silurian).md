@@ -40,11 +40,29 @@
 > - **References**:
 
 ## Dapingian to Darriwilian, Middle Ordovician
-**Amdeh Formation, Oman**
+**Amdeh Formation AM4, Oman**
 > - **Age**: latestest Dapingian to Early Darriwilian
 > - **Taxa**: *Sacabambaspis* sp. (Sansom et al., 2009),
 
-> Wadi Daiqa (Am4) and Wadi Qahza (Am5), Saih Hatat region of northern Oman.
+> Wadi Daiqa (Am4), Saih Hatat region of northern Oman.
+
+> - **References**:
+
+**Amdeh Formation AM5, Saih Hatat region, Oman**
+> - **Age**: Darriwilian.
+> - **Taxa**: *Sacabambaspis* sp. (Sansom et al., 2009),
+
+> Wadi Qahza (Am5), Saih Hatat region of northern Oman.
+
+> Hayl al Quwasim (AM5), Saih Hatat region of northern Oman.
+
+> - **References**:
+
+**Amdeh Formation AM5, Sultanate region, Oman**
+> - **Age**: late Darriwilian.
+> - **Taxa**: *Sacabambaspis* sp. (Sansom et al., 2009),
+
+> Al Fleij (Am5), Sultanate region of northeast Oman.
 
 > - **References**:
 
@@ -501,6 +519,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
