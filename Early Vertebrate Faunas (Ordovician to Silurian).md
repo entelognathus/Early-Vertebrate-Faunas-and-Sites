@@ -8,8 +8,12 @@
 > - *Arandaspis* sp. indet. (Young, 2009)
 
 **Parcoota Sandstone and Horn Vally Siltstone, Amadeus Basin, central Australia**
-> Pacoota Sandstone Formation, Amadeus Basin/ Western end of Gardiner Range, on southern limb of Gardiner Range Anticline, Central Australia.
-> Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia.
+> Pacoota Sandstone Formation, Amadeus Basin/ Western end of Gardiner Range, on southern limb of Gardiner Range Anticline, Northern Territory, Australia. (Locality 7 in figure 1 of Young, 1997), CPC 33539-33540
+> 
+> Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia. (Locality 5 in figure 1 of Young, 1997), CPC 33541
+>
+> middle part of Stairway Sandstone, Johnny's Creek Anticline, near Dry Creek, north of King's Canyon, Northern Territory, Australia. (Locality 8 in figure 1 of Young, 1997), CPC 33542
+> 
 > - *Porophoraspis* sp. indet. (Young, 1997)
 
 **Pircancha Formation, Bolivia**
@@ -470,5 +474,6 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
