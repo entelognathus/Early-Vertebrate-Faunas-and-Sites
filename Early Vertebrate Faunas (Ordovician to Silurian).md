@@ -1,4 +1,9 @@
 # Early Vertebrate Faunas and Sites Ordovician to Silurian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 # Ordovician
 ## Floian, Early Ordovician
@@ -12,7 +17,7 @@
 **Horn Vally Siltstone, Amadeus Basin, central Australia**
 > - **Age**: Early Flioan.
 > - **Taxa**: *Porophoraspis* sp. indet.
-> - **Locality and horizon**: Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia. (Locality 5 in figure 1 of Young, 1997), CPC 33541
+> - **Locality and horizon**: Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia. (Locality 5 in figure 1 of Young, 1997), CPC 33541.
 > - **References**: (Young, 1997)
 > - **Comments**: 
 
@@ -44,27 +49,41 @@
 > - **Locality and horizon**: 1) Wadi Qahza (Am5), Saih Hatat region of northern Oman; 2) Hayl al Quwasim (AM5), Saih Hatat region of northern Oman.
 > - **References**: (Sansom et al., 2009)
 > - **Comments**:
-> - 
+
 **Amdeh Formation AM5, Sultanate region, Oman**
 > - **Age**: late Darriwilian.
 > - **Taxa**: *Sacabambaspis* sp.
 > - **Locality and horizon**: Al Fleij (Am5), Sultanate region of northeast Oman.
 > - **References**: (Sansom et al., 2009)
 > - **Comments**: 
+> - Heward et al. (2013, 2018) to be added in deepbone.
 
 **Stairway Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Early to Middle Darriwilian.
 > - **Taxa**: Arandaspida: *Arandaspis prionotolepis*, *Arandaspis* sp., *Porphoraspis crenulata*, *Porphoraspis* sp. indet. Unknown: *Tantalepis gatehousei*.
 > - **Locality and horizon**: Stairway Sandstone, Amadeus Basin (James ‘B’ Anticline, Mt Watt, Mt Charlottea and Maloney Hill), Northern Territory, Australia.
 > - **References**:(Ritchie and Gilbert-Tomlinson, 1977)
-> - **Comments**: *Porophoraspis* sp. indet. (Young, 1997) in the middle part of Stairway Sandstone, Johnny's Creek Anticline, near Dry Creek, north of King's Canyon, Northern Territory, Australia. (Locality 8 in figure 1 of Young, 1997), CPC 33542. *Tantalepis gatehousei* (Sansom et al., 2012), shark-like scale
+> - **Comments**: *Porophoraspis* sp. indet. (Young, 1997) in the middle part of Stairway Sandstone, Johnny's Creek Anticline, near Dry Creek, north of King's Canyon, Northern Territory, Australia. (Locality 8 in figure 1 of Young, 1997), CPC 33542. *Tantalepis gatehousei* (Sansom et al., 2012), shark-like scale.
 
 **Stokes Siltstone, Amadeus Basin, central Australia**
 > - (Young, 1997; 2009 and Sansom et al., 2013)
 > - - *Areyongalepis oervigi* (Young, 1997, 2000), shark-like scale
 
+**Mamyry Formation, Siberia, Russia**
+> - **Age**: Late Darriwilian.
+> - **Taxa**: Astraspida: *Kodinskaspis angarensis*.
+> - **Locality and horizon**: Mamyry Formation, Angara River, Irkutsk Basin of Siberia, Russia.
+> - **References**:
+> - **Comments**:
+> - To be added in Deepbone. 
+
 **Sepulturas Formation, Argentina**
-> - (Albanesi et al., 1995; Albanesi and Astini 2002)
+> - **Age**: Late Darriwilian.
+> - **Taxa**: *Sacabambaspis janvieri*.
+> - **Locality and horizon**: Sepulturas Formation, West of Alto del Condor, Jujuy Province, Argentina.
+> - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)
+> - **Comments**: 
+> - 
 
 **Trapiche Group, Argentina**
 > - (Albanesi et al., 1995; Albanesi and Astini 2002)
@@ -504,6 +523,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
