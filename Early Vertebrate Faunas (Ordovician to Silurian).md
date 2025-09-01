@@ -21,13 +21,6 @@
 > - **References**: (Young, 1997)
 > - **Comments**: 
 
-**Rowena Formation, Australia**
-> - **Age**: Flioan.
-> - **Taxa**: *Arandaspis* sp. indet.
-> - **Locality and horizon**: Mutawintji National Park, far western New South Wales, Australia.
-> - **References**: (Young, 2009)
-> - **Comments**: The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin. Horizon unknown, probably from the middle to upper part of the Rowena Formation. ANU 36481.
-
 **Pircancha Formation, Bolivia**
 > - **Age**: Flioan.
 > - **Taxa**: *Pircanchaspis rinconensis*
@@ -65,9 +58,19 @@
 > - **References**:(Ritchie and Gilbert-Tomlinson, 1977)
 > - **Comments**: *Porophoraspis* sp. indet. (Young, 1997) in the middle part of Stairway Sandstone, Johnny's Creek Anticline, near Dry Creek, north of King's Canyon, Northern Territory, Australia. (Locality 8 in figure 1 of Young, 1997), CPC 33542. *Tantalepis gatehousei* (Sansom et al., 2012), shark-like scale.
 
+**Rowena Formation, Australia**
+> - **Age**: Darriwilian.
+> - **Taxa**: *Arandaspis* sp. indet.
+> - **Locality and horizon**: Split Rock, Mutawintji National Park, far western New South Wales, Australia.
+> - **References**: 
+> - **Comments**: Young (2009):'The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin. The new occurrence of *Arandaspis* is consistent with the Middle Ordovician (Darriwilian) age for the upper part of the Rowena Formation indicated by recent studies of trilobites.' ANU 36481.
+
 **Stokes Siltstone, Amadeus Basin, central Australia**
-> - (Young, 1997; 2009 and Sansom et al., 2013)
-> - - *Areyongalepis oervigi* (Young, 1997, 2000), shark-like scale
+> - **Age**: Late Darriwilian.
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp.; Astraspida: *Apedolepis tomlinsonae*; Unknown: *Areyongalepis oervigi* (shark-like scale), Indet.
+> - **Locality and horizon**: Stokes Formation, Amadeus Basin (Areyonga Creek), Northern Territory, Australia.
+> - **References**: (Young, 1997; 2009 and Sansom et al., 2013)
+> - **Comments**: 
 
 **Mamyry Formation, Siberia, Russia**
 > - **Age**: Late Darriwilian.
@@ -83,10 +86,17 @@
 > - **Locality and horizon**: Sepulturas Formation, West of Alto del Condor, Jujuy Province, Argentina.
 > - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)
 > - **Comments**: 
-> - 
 
 **Trapiche Group, Argentina**
 > - (Albanesi et al., 1995; Albanesi and Astini 2002)
+
+**Winneshiek Lagerstätte，Iowa, USA**
+> - **Age**: Darriwilian.
+> - **Taxa**: *Astraspis* sp.
+> - **Locality and horizon**: St. Peter Formation (Winneshiek Lagerstätte), Decorah, Iowa, USA.
+> - **References**: Briggs et al. (2018).
+> - **Comments**: 
+> - To be added in Deepbone. 
 
 ## Sandbian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
@@ -523,6 +533,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
