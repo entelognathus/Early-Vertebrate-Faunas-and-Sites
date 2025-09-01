@@ -8,6 +8,8 @@
 
 > Pacoota Sandstone Formation, Amadeus Basin/ Western end of Gardiner Range, on southern limb of Gardiner Range Anticline, Northern Territory, Australia. (Locality 7 in figure 1 of Young, 1997), CPC 33539-33540
 >
+> The Pacoota Sandstone Formation underlies the Horn Valley Siltstone Formation.
+>
 > - **References**: 
 
 **Horn Vally Siltstone, Amadeus Basin, central Australia**
@@ -28,9 +30,14 @@
 > - **References**: (Young, 2009)
 
 **Pircancha Formation, Bolivia**
-> - Sansom and Andreev (2019): "More contentiously, the Pircanha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of
-the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature."
-> - *Pircanchaspis rinconensis* Erdtmann et al., 2000
+> - **Age**: Flioan.
+> - **Taxa**: *Pircanchaspis rinconensis* Erdtmann et al., 2000
+
+> - A layer of silty mudstone outcropping at a small hill named 'Rincon', about 100 m north of the 'Escuela Seccional de Puesto Grande' (District of Tarija, S Bolivia) along the main road from Potosı to Tarija. The mudstones belong to the Pircancha Formation (local stratigraphy).
+
+> - Sansom and Andreev (2019): "More contentiously, the Pircancha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature.......It is possible that the mouldic material that comprises *Pircanchaspis rinconensis* (Erdtmann et al., 2000) falls into the arandaspids, but we share, along with the original authors, caution over the vertebrate assignment of this material."
+
+> - **References**:
 
 ## Darriwilian, Middle Ordovician
 **Amdeh Formation, Oman**
@@ -489,6 +496,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
