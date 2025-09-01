@@ -27,7 +27,7 @@
 > - **Age**: Flioan.
 > - **Taxa**: *Pircanchaspis rinconensis* Erdtmann et al., 2000
 > - **Locality and horizon**: A layer of silty mudstone outcropping at a small hill named 'Rincon', about 100 m north of the 'Escuela Seccional de Puesto Grande' (District of Tarija, S Bolivia) along the main road from Potosı to Tarija. The mudstones belong to the Pircancha Formation (local stratigraphy).
-> - **Comments**: Sansom and Andreev (2019): "More contentiously, the Pircancha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature.......It is possible that the mouldic material that comprises *Pircanchaspis rinconensis* (Erdtmann et al., 2000) falls into the arandaspids, but we share, along with the original authors, caution over the vertebrate assignment of this material."
+> - **Comments**: Sansom and Andreev (2019): "More contentiously, the Pircancha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature.......It is possible that the mouldic material that comprises *Pircanchaspis rinconensis* (Erdtmann et al., 2000) falls into the arandaspids, but we share, along with the original authors, caution over the vertebrate assignment of this material."
 > - **References**:
 
 ## Dapingian to Darriwilian, Middle Ordovician
@@ -40,15 +40,13 @@
 **Amdeh Formation AM5, Saih Hatat region, Oman**
 > - **Age**: Darriwilian.
 > - **Taxa**: *Sacabambaspis* sp. (Sansom et al., 2009),
-> - **Locality and horizon**: Wadi Qahza (Am5), Saih Hatat region of northern Oman.
-> - Hayl al Quwasim (AM5), Saih Hatat region of northern Oman.
+> - **Locality and horizon**: 1) Wadi Qahza (Am5), Saih Hatat region of northern Oman; 2) Hayl al Quwasim (AM5), Saih Hatat region of northern Oman.
 > - **References**:
 
 **Amdeh Formation AM5, Sultanate region, Oman**
 > - **Age**: late Darriwilian.
 > - **Taxa**: *Sacabambaspis* sp. (Sansom et al., 2009),
 > - **Locality and horizon**: Al Fleij (Am5), Sultanate region of northeast Oman.
-
 > - **References**:
 
 **Stairway Sandstone, Amadeus Basin, central Australia**
@@ -504,6 +502,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
