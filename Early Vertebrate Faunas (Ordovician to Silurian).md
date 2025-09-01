@@ -33,15 +33,20 @@
 > - **Age**: Flioan.
 > - **Taxa**: *Pircanchaspis rinconensis* Erdtmann et al., 2000
 
-> - A layer of silty mudstone outcropping at a small hill named 'Rincon', about 100 m north of the 'Escuela Seccional de Puesto Grande' (District of Tarija, S Bolivia) along the main road from Potosı to Tarija. The mudstones belong to the Pircancha Formation (local stratigraphy).
+> A layer of silty mudstone outcropping at a small hill named 'Rincon', about 100 m north of the 'Escuela Seccional de Puesto Grande' (District of Tarija, S Bolivia) along the main road from Potosı to Tarija. The mudstones belong to the Pircancha Formation (local stratigraphy).
 
 > - Sansom and Andreev (2019): "More contentiously, the Pircancha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature.......It is possible that the mouldic material that comprises *Pircanchaspis rinconensis* (Erdtmann et al., 2000) falls into the arandaspids, but we share, along with the original authors, caution over the vertebrate assignment of this material."
 
 > - **References**:
 
-## Darriwilian, Middle Ordovician
+## Dapingian to Darriwilian, Middle Ordovician
 **Amdeh Formation, Oman**
-> - *Sacabambaspis* sp. (Sansom et al., 2009), Dapingian? to early Darriwilian.
+> - **Age**: latestest Dapingian to Early Darriwilian
+> - **Taxa**: *Sacabambaspis* sp. (Sansom et al., 2009),
+
+> Wadi Daiqa (Am4) and Wadi Qahza (Am5), Saih Hatat region of northern Oman.
+
+> - **References**:
 
 **Stairway Sandstone, Amadeus Basin, central Australia**
 > - (Ritchie and Gilbert-Tomlinson, 1977)
@@ -496,6 +501,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
