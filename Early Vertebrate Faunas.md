@@ -1,4 +1,10 @@
 # Early Vertebrate Faunas and Sites
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 
 > MAV 1-15 of Australian vertebrate zonations based on Young (1993, 1995, 2000) and Young et al. (2010).
 > - MAV1, Taemas-Buchan fauna, Emsian; 
@@ -1284,4 +1290,5 @@ Romano (2021):
 ### Campanian
 
 ### Maastrichtian
+
 
