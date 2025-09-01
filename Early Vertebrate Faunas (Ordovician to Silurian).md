@@ -2,11 +2,17 @@
 
 # Ordovician
 ## Floian, Early Ordovician
-**Parcoota Sandstone and Horn Vally Siltstone, Amadeus Basin, central Australia**
-> - **Age**: Early Flioan.
+**Parcoota Sandstone, Amadeus Basin, central Australia**
+> - **Age**: Late Tremadocian to Early Flioan.
 > - **Taxa**: *Porophoraspis* sp. indet. (Young, 1997)
 
 > Pacoota Sandstone Formation, Amadeus Basin/ Western end of Gardiner Range, on southern limb of Gardiner Range Anticline, Northern Territory, Australia. (Locality 7 in figure 1 of Young, 1997), CPC 33539-33540
+>
+> - **References**: 
+
+**Horn Vally Siltstone, Amadeus Basin, central Australia**
+> - **Age**: Early Flioan.
+> - **Taxa**: *Porophoraspis* sp. indet. (Young, 1997)
 > 
 > Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia. (Locality 5 in figure 1 of Young, 1997), CPC 33541
 >
@@ -483,6 +489,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
