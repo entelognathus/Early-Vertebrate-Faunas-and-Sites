@@ -143,7 +143,7 @@ Chondrichthyes: *Canyonlepis smithae*, *Solinalepis levis*, *Tezakia hardingensi
 Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Locality and horizon**: Harding Formation, Canon City, Colorado, USA.
 > - **References**:
-> - **Comments**: 
+> - **Comments**: shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
 
 **Viola limestone, USA**
 > - **Age**: Katian.
@@ -180,33 +180,54 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **References**:
 > - **Comments**: 
 
-
-
-> - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
-
-
->
-> - - shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
+**Niil Formation, Western Australia**
+> - **Age**: Katian.
+> - **Taxa**: Astraspida: *Richieichthys nibili*.
+> - **Locality and horizon**: Nibil Formation, Subsurface Kidson 1 core, Western Australia.
+> - **References**:(Sansom et al., 2013)
+> - **Comments**:
 
 **Anzaldo Formation, Bolivia**
-> - (Gagnier et al., 1986; Gagnier, 1989; 1993a)
-
-**Niil Formation, Western Australia**
-> - (Sansom et al., 2013)
-> - *Ritchieichthys*
+> - **Age**: Katian.
+> - **Taxa**: Arandaspida: *Sacabambaspis janvieri*.
+> - **Locality and horizon**: Anzaldo Formation, Cochabamba Province, Bolivia.
+> - **References**: (Gagnier et al., 1986; Gagnier, 1989; 1993a)
+> - **Comments**: 
 
 **Ozernaya Formation, Russia**
+> - **Age**: Katian.
+> - **Taxa**: *Stroinolepis maenniki*.
+> - **Locality and horizon**: Upper Ozernaya Formation, Strojnaya River, October Revolution Island, Russia.
+> - **References**:
+> - **Comments**: 
 
 **Khoreiver and Muker Formation, Russia**
-
-**Soom Shale, South Africa**
-> - what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
-
+> - **Age**: Katian to Hirnantian.
+> - **Taxa**: Thelodonti: *Sandivia augusta*, *Sandivia melnikovi*.
+> - **Locality and horizon**: Khoreiver and Muker Formation, Timan-Pechora, Russia.
+> - **References**:
+> - **Comments**: The post-Sandbian record sees the appearance of a number of thelodont taxa (Sandivia and Stroinolepis) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
 
 **Stronaya Formation, Russia**
+> - **Age**: Hirnantian.
+> - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
+> - **Locality and horizon**: Strojnaya Formation, Strojnaya River, October Revolution Island, Russia.
+> - **References**:
+> - **Comments**: 
 
-> - The post-Sandbian record sees the appearance of a number of thelodont taxa (Sandivia and Stroinolepis) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
+**Tchunia River, Russia**
+> - **Age**: Hirnantian to Llandovery (Silurian)
+> - **Taxa**: *Tesakoviaspis concentrica*.
+> - **Locality and horizon**: Tchunia (Tchunku) River, Nizhniaya (Silurian of Russian Federation), Siberian Platform, Russia.
+> - **References**:
+> - **Comments**: 
 
+**Soom Shale, South Africa**
+> - **Age**: Late Hirnantian.
+> - **Taxa**: nakedanaspid.
+> - **Locality and horizon**: Soom Shale Lagerstätte, South Africa.
+> - **References**:
+> - **Comments**: what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
 # Silurian
 ## Llandovery
@@ -603,6 +624,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
