@@ -219,7 +219,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Age**: Hirnantian to Llandovery (Silurian)
 > - **Taxa**: *Tesakoviaspis concentrica*.
 > - **Locality and horizon**: Tchunia (Tchunku) River, Nizhniaya (Silurian of Russian Federation), Siberian Platform, Russia.
-> - **References**: (Märss et al., 2007)
+> - **References**:
 > - **Comments**: 
 
 **Soom Shale, South Africa**
@@ -481,7 +481,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 82. X. Shan, W. Zhao, Z. Gai, A new species of Jiangxialepis (Galeaspida) from the lower Telychian (Silurian) of Jiangxi and its biostratigraphic significance. Acta Geol. Sin. - Engl. Ed. 97, 393–403 (2023).
 83. W. Liu, X. Shan, X. Lin, Y. Shen, Y. Liu, Z. Zhang, Z. Gai, The first Eugaleaspiforme fish from the Silurian of the Tarim Basin reveals a close relationship between the Tarim and South China blocks at 438 mya. Palaeogeogr. Palaeoclimatol. Palaeoecol. 628, 111774 (2023).
 84. Y.-L. Liu, J.-Y. Yin, R.-Y. Fan, R.-W. Zong, Y.-M. Gong, New data on Silurian (Llandovery) sinacanthids from Wuhan, South China and their biostratigraphic and paleobiogeographic implications. Palaeoworld 33, 1242–1255 (2024).
-85. 	S. Turner, Thelodus macintoshi Stetson 1928, the largest known thelodont (Agnatha: Thelodonti). Breviora 486, 1–18 (1986).
+85. S. Turner, Thelodus macintoshi Stetson 1928, the largest known thelodont (Agnatha: Thelodonti). Breviora 486, 1–18 (1986).
 86. N. Wang, S. Zhang, J. Wang, M. Zhu, Early Silurian chondrichthyan microfossils from Bachu County, Xinjiang, China. 36, 257–267 (1998).
 87. J. Q. Wang, N. Z. Wang, G. R. Zhang, S. T. Wang, M. Zhu, Agnathans from Llandovery (Silurian) of Kalpin, Xinjiang, China. Vertebrata PalAsi- atica 40, 245–256 (2002).
 88. Liwu L., Jiang P., Lijun Z., New findings of middle Paleozoic agnatha and fishes from kalpin, xinjiang. Diqiu Xuebao (Acta Geosci. Sin.), 143–147 (2007).
@@ -638,6 +638,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
