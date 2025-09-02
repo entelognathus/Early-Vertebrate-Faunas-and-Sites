@@ -115,7 +115,7 @@
 
 **Winnipeg Formation, USA**
 > - **Age**: Sandbian to Katian.
-> - **Taxa**: Pteraspidomorpha: *Pycnaspis splendens*, *Pycnaspis cf. splendens*. Astraspida: *Astraspis desiderata*, *Eriptychiidae americanus*, Eriptychiidae sp. indet.
+> - **Taxa**: Pteraspidomorpha: *Pycnaspis splendens*, *Pycnaspis cf. splendens*. Astraspida: *Astraspis desiderata*, *Eriptychius americanus*, *Eriptychius* sp. indet.
 Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 > - **Locality and horizon**: Winnipeg Formation; 1) Bighorn Mountains, Northern Central Wyoming; 2) Shell Pine Unit No.1, Wibaux County, Williston Basin, Eastern Montana, USA; 3) Murphy E Poplar 1, Roosevelt County, Williston Basin, Eastern Montana, USA
 > - **References**:
@@ -130,9 +130,9 @@ Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 
 **Gull River Formation, Canada**
 > - **Age**: Sandbian to Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Taxa**: Astraspida: *Astraspis desiderata*, *Eriptychius* sp.; Thelodonti: *Larolepis darbyi*.
+> - **Locality and horizon**: Gull River Formation, St Joseph Island, Ontario, Canada.
+> - **References**: Sansom and Elliott, 2002
 > - **Comments**:
 >
 **Harding Formation, USA**
@@ -186,7 +186,7 @@ Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 
 > - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
 
-> - Gull River Formation, St. Joseph Island, Ontario, Canada, thelodont *Larolepis darbyi*; Sansom and Elliott, 2002
+
 >
 > - - shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
 
@@ -605,6 +605,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
