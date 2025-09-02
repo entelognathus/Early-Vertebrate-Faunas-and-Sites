@@ -111,70 +111,72 @@
 > - **Comments**: 
 > - To be added in Deepbone. 
 
+**Harding Fish Fauna**
+
 **Winnipeg Formation, USA**
-> - **Age**:
+> - **Age**: Sandbian to Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Lowville Formation, USA**
-> - **Age**:
+> - **Age**: Sandbian to Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Gull River Formation, Canada**
-> - **Age**:
+> - **Age**: Sandbian to Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
 >
 **Harding Formation, USA**
-> - **Age**:
+> - **Age**: Sandbian to Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Viola limestone, USA**
-> - **Age**:
+> - **Age**: Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Basal Trenton Group, Canada**
-> - **Age**:
+> - **Age**: Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Upper-most Pamelia Formation, Canada**
-> - **Age**:
+> - **Age**: Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Lower Leray Formation–Lowville Formation, Canada**
-> - **Age**:
+> - **Age**: Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 **Whitewood Formation, Canada**
-> - **Age**:
+> - **Age**: Katian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**Harding Fish Fauna**
+
 > - Harding Sandstone, Sansom et al., 2001
 
 > - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
@@ -606,6 +608,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
