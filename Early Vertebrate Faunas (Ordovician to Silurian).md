@@ -87,13 +87,7 @@
 > - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)
 > - **Comments**: 
 
-**Trapiche Group, Argentina**
-> - **Age**: Darriwilian.
-> - **Taxa**: *Sacabambaspis* sp.
-> - **Locality and horizon**: Trapiche Group, Argentine Precordillera terrane, San Juan Province, Argentina.
-> - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)
-> - **Comments**: 
-> - To be added in Deepbone. 
+
 
 **Winneshiek Lagerstätte，Iowa, USA**
 > - **Age**: Darriwilian.
@@ -105,7 +99,19 @@
 
 ## Sandbian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
-> - (Young, 1997) Sacabambaspis sp.
+> - **Age**: Sandbian.
+> - **Taxa**: *Sacabambaspis* sp.
+> - **Locality and horizon**: Carmichael Sandstone, Amadeus Basin (Johnny's Creek Anticline), Northern Territory, Australia.
+> - **References**: (Young, 1997)
+> - **Comments**:
+
+**Trapiche Group, Argentina**
+> - **Age**: Sandbian.
+> - **Taxa**: *Sacabambaspis janvieri*
+> - **Locality and horizon**: Trapiche Group, Argentine Precordillera terrane, San Juan Province, Argentina.
+> - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)
+> - **Comments**: 
+> - To be added in Deepbone. 
 
 **Anzaldo Formation, Bolivia**
 > - (Gagnier et al., 1986; Gagnier, 1989; 1993a)
@@ -538,6 +544,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
