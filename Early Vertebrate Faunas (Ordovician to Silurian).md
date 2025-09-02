@@ -230,7 +230,21 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
 # Silurian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 ## Llandovery
+
+**Melichan Formation, Russia**
+> - **Age**:Rhuddanian (Khaastyrian, Moyerocanian, and Agidyan Regional Stages).
+> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*.
+> - **Locality and horizon**: Melichan Formation, Niuya-Beresovo District, Russia.
+> - **References**:
+> - **Comments**:
+>
 **The Valyalepis crista Zone**, Rhuddanian to early Aeronian
 > Clemville Formation, Chaleurs Group; Petit Port Daniel River section, west of Clemville, GaspÈ Peninsula, QuÈbec, eastern Canada.
 > Valyalepis  crista; Loganellia scotica-type and L. sibirica-type thelodonts.  Turner & Nowlan 1995
@@ -624,6 +638,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
