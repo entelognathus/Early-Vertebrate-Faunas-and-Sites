@@ -121,12 +121,12 @@ Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 > - **References**:
 > - **Comments**:  South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States; Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
-**Lowville Formation, USA**
+**Lowville Formation, Canada**
 > - **Age**: Sandbian to Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+> - **Taxa**: Astraspida: *Astraspis* sp.
+> - **Locality and horizon**: Lowville Formation, Sand Point, Ontario, Canada.
+> - **References**: (Eliuk, 1973; Turner et al.,2004)
+> - **Comments**:
 
 **Gull River Formation, Canada**
 > - **Age**: Sandbian to Katian.
@@ -183,7 +183,6 @@ Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 > - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
 
 
-> - Lowville Formation, Ontario, Canada (Eliuk, 1973; Turner et al.,2004)
 
 > - Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)
 
@@ -606,6 +605,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
