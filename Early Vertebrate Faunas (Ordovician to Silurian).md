@@ -147,43 +147,38 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 
 **Viola limestone, USA**
 > - **Age**: Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: *Eriptychius americanus*.
+> - **Locality and horizon**: Viola Limestone, Arbuckle Mountains, Southern Oklahoma, USA.
 > - **References**:
-> - **Comments**: 
+> - **Comments**: (Ossian and Halseth, 1976)
 
 **Basal Trenton Group, Canada**
 > - **Age**: Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: *Astraspis* sp.
+> - **Locality and horizon**: Basal Trenton beds, La Malbaie, on the north shore of the St. Lawrence River in Quebec, Canada.
 > - **References**:
 > - **Comments**: 
 
 **Upper-most Pamelia Formation, Canada**
 > - **Age**: Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: *Astraspis* sp. or *desiderata*?
+> - **Locality and horizon**: Upper-most Pamelia Formation, Ouareau River, Quebec, Canada.
 > - **References**:
 > - **Comments**: 
 
 **Lower Leray Formation–Lowville Formation, Canada**
 > - **Age**: Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: *Astraspis* sp. or *desiderata*?
+> - **Locality and horizon**: Lower Leray Formation–Lowville Formation, Pont-Rouge, Quebec, Canada.
 > - **References**:
 > - **Comments**: 
 
 **Whitewood Formation, Canada**
 > - **Age**: Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: *Astraspis* sp. or *desiderata*?; Pteraspidomorpha: Pycnaspis cf. splendens.
+> - **Locality and horizon**: Whitewood Formation, Bighorn Group, Sheep Mountain, Spearfish Canyon, Black Hills region, South Dakota, USA.
 > - **References**:
 > - **Comments**: 
-
-
-> - Harding Sandstone, Sansom et al., 2001
-
-> - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
 
 
 
@@ -608,6 +603,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
