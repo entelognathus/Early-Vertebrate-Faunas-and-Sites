@@ -87,8 +87,6 @@
 > - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)
 > - **Comments**: 
 
-
-
 **Winneshiek Lagerstätte，Iowa, USA**
 > - **Age**: Darriwilian.
 > - **Taxa**: *Astraspis* sp.
@@ -97,7 +95,7 @@
 > - **Comments**: 
 > - To be added in Deepbone. 
 
-## Sandbian, Late Ordovician
+## Sandbian to Hirnantian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Sandbian.
 > - **Taxa**: *Sacabambaspis* sp.
@@ -113,8 +111,68 @@
 > - **Comments**: 
 > - To be added in Deepbone. 
 
-**Anzaldo Formation, Bolivia**
-> - (Gagnier et al., 1986; Gagnier, 1989; 1993a)
+**Winnipeg Formation, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Lowville Formation, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Gull River Formation, Canada**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+>
+**Harding Formation, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Viola limestone, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Basal Trenton Group, Canada**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Upper-most Pamelia Formation, Canada**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Lower Leray Formation–Lowville Formation, Canada**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Whitewood Formation, Canada**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 **Harding Fish Fauna**
 > - Harding Sandstone, Sansom et al., 2001
@@ -133,16 +191,20 @@
 >
 > - - shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
 
-## Katian, Late Ordovician
+**Anzaldo Formation, Bolivia**
+> - (Gagnier et al., 1986; Gagnier, 1989; 1993a)
+
 **Niil Formation, Western Australia**
 > - (Sansom et al., 2013)
 > - *Ritchieichthys*
 
-## Hirnantian, Late Ordovician 
+**Ozernaya Formation, Russia**
+
+**Khoreiver and Muker Formation, Russia**
+
 **Soom Shale, South Africa**
 > - what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
-**Ozernaya Formation, Russia**
 
 **Stronaya Formation, Russia**
 
@@ -544,6 +606,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
