@@ -137,8 +137,11 @@ Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 >
 **Harding Formation, USA**
 > - **Age**: Sandbian to Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: Astraspida: *Astraspis desiderata*, *Astraspis* sp., *Eriptychius americanus*.
+Thelodonti: Indet.
+Chondrichthyes: *Canyonlepis smithae*, *Solinalepis levis*, *Tezakia hardingensis*, Indet.
+Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
+> - **Locality and horizon**: Harding Formation, Canon City, Colorado, USA.
 > - **References**:
 > - **Comments**: 
 
@@ -605,6 +608,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
