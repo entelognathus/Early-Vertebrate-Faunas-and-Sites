@@ -111,14 +111,15 @@
 > - **Comments**: 
 > - To be added in Deepbone. 
 
-**Harding Fish Fauna**
+***Harding Fish Fauna***
 
 **Winnipeg Formation, USA**
 > - **Age**: Sandbian to Katian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: Pteraspidomorpha: *Pycnaspis splendens*, *Pycnaspis cf. splendens*. Astraspida: *Astraspis desiderata*, *Eriptychiidae americanus*, Eriptychiidae sp. indet.
+Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
+> - **Locality and horizon**: Winnipeg Formation; 1) Bighorn Mountains, Northern Central Wyoming; 2) Shell Pine Unit No.1, Wibaux County, Williston Basin, Eastern Montana, USA; 3) Murphy E Poplar 1, Roosevelt County, Williston Basin, Eastern Montana, USA
 > - **References**:
-> - **Comments**: 
+> - **Comments**:  South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States; Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
 **Lowville Formation, USA**
 > - **Age**: Sandbian to Katian.
@@ -181,9 +182,6 @@
 
 > - Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976)
 
-> - South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
-
-> - Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
 > - Lowville Formation, Ontario, Canada (Eliuk, 1973; Turner et al.,2004)
 
@@ -608,6 +606,7 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 239. 	J. Valiukevicius, New Late Silurian Middle Devonian Acanthodians Timan-Pechora Region (Acta Geologica Polonica, 2003)vol. 53. 3. pp209–245.
 240. 	A. C. Lenz, Llandoverian Graptolites of the Northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae (Royal Ontario Museum, Toronto, 1982).
 241. 	A. Blieck, P. Janvier, Silurian vertebrates. Spec. Pap. Palaeontol. 44, 345–389 (1991).
+
 
 
 
