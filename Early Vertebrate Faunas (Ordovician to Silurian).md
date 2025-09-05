@@ -112,6 +112,9 @@
 > - To be added in Deepbone. 
 
 ***Harding Fish Fauna***
+> - Sansom and Andreev (2019): "These include the Lowville Formation, Ontario, Canada (Eliuk, 1973; Turner et al., 2004); Viola Limestone, Arbuckle Mountains of Oklahoma, United States (Ossian and Halseth, 1976); the Icebox Shale (Darton, 1909; Ørvig, 1958) and South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) members of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States; and the Black River Group, Quebec and Ontario, Canada (Eliuk, 1973; Lehtola 1973; Darby, 1982; Sansom and Elliott, 2002)." 
+>
+> - Age of Harding fish fauna: Sansom and Andreev (2019) referred it to as the the Sandbian or *late Sandbian*. Sansom and Smith (2005): middle Caradoc. Caradocian is traditionally divided into early, middle, and late portions, which are now more specifically defined by the Sandbian and Katian stages. 
 
 **Winnipeg Formation, USA**
 > - **Age**: Sandbian to Katian.
@@ -998,6 +1001,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
