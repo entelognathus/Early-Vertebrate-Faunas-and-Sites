@@ -53,7 +53,7 @@
 
 **Stairway Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Early to Middle Darriwilian.
-> - **Taxa**: Arandaspida: *Arandaspis prionotolepis*, *Arandaspis* sp., *Porphoraspis crenulata*, *Porphoraspis* sp. indet. Unknown: *Tantalepis gatehousei*.
+> - **Taxa**: Arandaspida: *Arandaspis prionotolepis*, *Arandaspis* sp. indet., *Porphoraspis crenulata*, *Porphoraspis* sp. indet. Unknown: *Tantalepis gatehousei*.
 > - **Locality and horizon**: Stairway Sandstone, Amadeus Basin (James ‘B’ Anticline, Mt Watt, Mt Charlottea and Maloney Hill), Northern Territory, Australia.
 > - **References**: (Boucot and Janis, 1983; Davies and Sansom, 2009; Davies et al., 2011; Ritchie and Gilbert-Tomlinson, 1977; Sansom and Andreev, 2019; Sansom et al., 2012; Young, 1997)
 > - **Comments**: *Porophoraspis* sp. indet. (Young, 1997) in the middle part of Stairway Sandstone, Johnny's Creek Anticline, near Dry Creek, north of King's Canyon, Northern Territory, Australia. (Locality 8 in figure 1 of Young, 1997), CPC 33542. *Tantalepis gatehousei* (Sansom et al., 2012), shark-like scale.
@@ -67,7 +67,7 @@
 
 **Stokes Siltstone, Amadeus Basin, central Australia**
 > - **Age**: Late Darriwilian.
-> - **Taxa**: Arandaspida: *Sacabambaspis* sp.; Astraspida: *Apedolepis tomlinsonae*; Unknown: *Areyongalepis oervigi* (shark-like scale), Indet.
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp. indet.; Astraspida: *Apedolepis tomlinsonae*; Unknown: *Areyongalepis oervigi* (shark-like scale), ?Chondrichthyes gen. et sp. indet.
 > - **Locality and horizon**: Stokes Formation, Amadeus Basin (Areyonga Creek), Northern Territory, Australia.
 > - **References**: (Andreev et al., 2017; Boucot and Janis, 1983; Davies and Sansom, 2009; Davies et al., 2011; Sansom and Andreev, 2019; Sansom et al., 2013; Young, 1997; 2009 )
 > - **Comments**: 
@@ -98,7 +98,7 @@
 ## Sandbian to Hirnantian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Sandbian.
-> - **Taxa**: Arandaspida: *Sacabambaspis* sp.
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp. indet.
 > - **Locality and horizon**: Carmichael Sandstone, Amadeus Basin (Johnny's Creek Anticline), Northern Territory, Australia.
 > - **References**: (Boucot and Janis, 1983; Davies and Sansom, 2009; Sansom et al., 2013; Young, 1997)
 > - **Comments**:
@@ -1001,6 +1001,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
