@@ -264,12 +264,12 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**: (Aldridge et al., 1996; Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sennikov et al., 2015; Sepkoski, 1998)
 > - **Comments**:
 >
-**Petit River Port Daniel, Canada**
+**Clemville Formation, Quebec, Canada**
 > - **Age**: Rhuddanian to Aeronian.
-> - **Taxa**: Thelodonti: Valyalepis crista.
-> - **Locality and horizon**: Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
+> - **Taxa**: Thelodonti: *Valyalepis crista*.
+> - **Locality and horizon**: Clemville Formation, Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
 > - **References**: (Turner and Nowland, 1995)
-> - **Comments**: 
+> - **Comments**: 2m below the top of the Clemville Formation, Chaleurs Group.
 
 **Formation**
 > - **Age**:
@@ -926,4 +926,5 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
