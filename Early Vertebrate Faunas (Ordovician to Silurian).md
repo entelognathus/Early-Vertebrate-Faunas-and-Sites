@@ -265,11 +265,74 @@ Unknown: Tesakoviaspis concentrica.
 > - **Comments**:
 >
 **Clemville Formation, Quebec, Canada**
-> - **Age**: Rhuddanian to Aeronian.
+> - **Age**: Rhuddanian to early Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Clemville Formation, Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
 > - **References**: (Turner and Nowland, 1995)
-> - **Comments**: 2m below the top of the Clemville Formation, Chaleurs Group.
+> - **Comments**: 2m below the top of the Clemville Formation, Chaleurs Group. The *Valyalepis crista* Zone, Valyalepis crista; Loganellia scotica-type and L. sibirica-type thelodonts.
+
+**Hendricks Formation, Door County, Wisconsin, USA**
+> - **Age**: Aeronian.
+> - **Taxa**: Thelodonti: *Valyalepis crista*.
+> - **Locality and horizon**: Hendricks Formation, Door County, Wisconsin, USA.
+> - **References**: (Turner et al., 1999; Turner and Nowland, 1995)
+> - **Comments**: 
+
+**Hendricks Formation, Sturgeon Bay, Wisconsin, USA**
+> - **Age**: Aeronian.
+> - **Taxa**: Thelodonti: Zuegelepis potanus.
+> - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Sturgeon Bay, Wisconsin, USA.
+> - **References**: (Turner et al., 1999)
+> - **Comments**: 
+
+**Hendricks Formation, Michigan, USA**
+> - **Age**: Aeronian.
+> - **Taxa**: Thelodonti: *Zuegelepis potanus*.
+> - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Fayette State Park, Michigan, USA.
+> - **References**: (Turner et al., 1999)
+> - **Comments**: 
+
+**Byron Formation, Michigan, USA.**
+> - **Age**: Aeronian.
+> - **Taxa**: Thelodonti: *Zuegelepis potanus*.
+> - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
+> - **References**: (Turner et al., 1999)
+> - **Comments**: 
+
+**Upper Saelabonn Formation, Norway**
+> - **Age**: middle Aeronian.
+> - **Taxa**: Thelodonti: Loganellia cf. aldridgei.
+> - **Locality and horizon**: Upper Saelabonn Formation, Bjellum, Hadeland, Oslo, Norway.
+> - **References**: (Bremer et al., 2019)
+> - **Comments**: 
+
+**Jogeva Beds, Estonia.**
+> - **Age**: Aeronian (Raikkula Regional Stage).
+> - **Taxa**: Osteostraci: Kalanaspis delectabilis.
+> - **Locality and horizon**: Jogeva Beds, Kalana Quarry, Estonia.
+> - **References**: (Tinn and Märss, 2018)
+> - **Comments**: 
+
+**Rongxi Formation, Guizhou, China**
+> - **Age**: Late Aeronian.
+> - **Taxa**: Chondrichthyes: Fanjingshania renovate, Qianodus duplicis.
+> - **Locality and horizon**: Rongxi Formation, Shiqian–Tunping section at Leijiatun Village, Guizhou Province, China.
+> - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
+> - **Comments**: 
+
+**Golomyannyj Formation, Russia**
+> - **Age**: Aeronian.
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia matura, Loganellia sibirica.
+> - **Locality and horizon**: Golomyannyj Formation, Srednii Island, Sedova Archipelago, Russia.
+> - **References**: (Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002)
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 **Formation**
 > - **Age**:
@@ -285,6 +348,19 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**:
 > - **Comments**: 
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 **Formation**
 > - **Age**:
@@ -294,10 +370,6 @@ Unknown: Tesakoviaspis concentrica.
 > - **Comments**: 
 
 
-
-**The Valyalepis crista Zone**, Rhuddanian to early Aeronian
-> Clemville Formation, Chaleurs Group; Petit Port Daniel River section, west of Clemville, GaspÈ Peninsula, QuÈbec, eastern Canada.
-> Valyalepis  crista; Loganellia scotica-type and L. sibirica-type thelodonts.  Turner & Nowlan 1995
 
 **The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
 > Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley 
@@ -926,5 +998,6 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
