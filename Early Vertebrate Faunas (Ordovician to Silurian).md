@@ -9,21 +9,21 @@
 ## Floian, Early Ordovician
 **Parcoota Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Late Tremadocian to Early Flioan.
-> - **Taxa**: *Porophoraspis* sp. indet.
+> - **Taxa**: Arandaspida: *Porophoraspis* sp. indet.
 > - **Locality and horizon**: Pacoota Sandstone Formation, Amadeus Basin/ Western end of Gardiner Range, on southern limb of Gardiner Range Anticline, Northern Territory, Australia. (Locality 7 in figure 1 of Young, 1997), CPC 33539-33540
 > - **References**: (Davies and Sansom, 2009; Edgoose and Munson, 2013; Sansom et al., 2013; Young, 1997)
 > - **Comments**: The Pacoota Sandstone Formation underlies the Horn Valley Siltstone Formation.
  
 **Horn Vally Siltstone, Amadeus Basin, central Australia**
 > - **Age**: Early Flioan.
-> - **Taxa**: *Porophoraspis* sp. indet.
+> - **Taxa**: Arandaspida: *Porophoraspis* sp. indet.
 > - **Locality and horizon**: Horn Valley Siltstone Formation, Amadeus Basin/ Eastern Gardiner Range, Areyonga Creek Section, Northern Territory, Australia. (Locality 5 in figure 1 of Young, 1997), CPC 33541.
 > - **References**: (Davies and Sansom, 2009; Sansom et al., 2013; Young, 1997)
 > - **Comments**: 
 
 **Pircancha Formation, Bolivia**
 > - **Age**: Flioan.
-> - **Taxa**: *Pircanchaspis rinconensis*
+> - **Taxa**: Pteraspidomorpha: *Pircanchaspis rinconensis*
 > - **Locality and horizon**: A layer of silty mudstone outcropping at a small hill named 'Rincon', about 100 m north of the 'Escuela Seccional de Puesto Grande' (District of Tarija, S Bolivia) along the main road from Potosı to Tarija. The mudstones belong to the Pircancha Formation (local stratigraphy).
 > - **References**: (Davies and Sansom, 2009; Erdtmann et al., 2000; Sansom et al., 2009)
 > - **Comments**: Sansom and Andreev (2019): "More contentiously, the Pircancha Formation of southern Bolivia has yielded what may be the headshield of an unknown agnathan (Erdtmann et al., 2000), but the mouldic nature of the solitary specimen and the absence of clear arandaspid features renders this record somewhat ambiguous in nature.......It is possible that the mouldic material that comprises *Pircanchaspis rinconensis* (Erdtmann et al., 2000) falls into the arandaspids, but we share, along with the original authors, caution over the vertebrate assignment of this material."
@@ -31,14 +31,14 @@
 ## Dapingian to Darriwilian, Middle Ordovician
 **Amdeh Formation AM4, Oman**
 > - **Age**: latestest Dapingian to Early Darriwilian
-> - **Taxa**: *Sacabambaspis* sp. 
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp. 
 > - **Locality and horizon**: Wadi Daiqa (Am4), Saih Hatat region of northern Oman.
 > - **References**: (Davies and Sansom, 2009; Heward et al., 2023; Sansom et al., 2009)
 > - **Comments**:
 > - 
 **Amdeh Formation AM5, Saih Hatat region, Oman**
 > - **Age**: Darriwilian.
-> - **Taxa**: *Sacabambaspis* sp.
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp.
 > - **Locality and horizon**: 1) Wadi Qahza (Am5), Saih Hatat region of northern Oman; 2) Hayl al Quwasim (AM5), Saih Hatat region of northern Oman.
 > - **References**: (Heward et al., 2018; Heward et al., 2023; Sansom et al., 2009)
 > - **Comments**:
@@ -60,7 +60,7 @@
 
 **Rowena Formation, Australia**
 > - **Age**: Darriwilian.
-> - **Taxa**: *Arandaspis* sp. indet.
+> - **Taxa**: Arandaspida: *Arandaspis* sp. indet.
 > - **Locality and horizon**: Split Rock, Mutawintji National Park, far western New South Wales, Australia.
 > - **References**: (Davies and Sansom, 2009; Webby, 1983; Young, 2009)
 > - **Comments**: Young (2009):'The Rowena Formation has previously been correlated with units underlying the Stairway Sandstone (Pacoota Sandstone, Horn Valley Siltstone) in the Amadeus Basin. The new occurrence of *Arandaspis* is consistent with the Middle Ordovician (Darriwilian) age for the upper part of the Rowena Formation indicated by recent studies of trilobites.' ANU 36481.
@@ -82,14 +82,14 @@
 
 **Sepulturas Formation, Argentina**
 > - **Age**: Late Darriwilian.
-> - **Taxa**: *Sacabambaspis janvieri*.
+> - **Taxa**: Arandaspida: *Sacabambaspis janvieri*.
 > - **Locality and horizon**: Sepulturas Formation, West of Alto del Condor, Jujuy Province, Argentina.
 > - **References**: (Albanesi et al., 1995; Albanesi and Astini 2002)(Davies and Sansom, 2009; Dzik and Moskalenko, 2016)
 > - **Comments**: 
 
 **Winneshiek Lagerstätte，Iowa, USA**
 > - **Age**: Darriwilian.
-> - **Taxa**: *Astraspis* sp.
+> - **Taxa**: Astraspida: *Astraspis* sp.
 > - **Locality and horizon**: St. Peter Formation (Winneshiek Lagerstätte), Decorah, Iowa, USA.
 > - **References**: Briggs et al. (2018). (Liu et al., 2009; Liu et al., 2006)
 > - **Comments**: 
@@ -98,14 +98,14 @@
 ## Sandbian to Hirnantian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Sandbian.
-> - **Taxa**: *Sacabambaspis* sp.
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp.
 > - **Locality and horizon**: Carmichael Sandstone, Amadeus Basin (Johnny's Creek Anticline), Northern Territory, Australia.
 > - **References**: (Boucot and Janis, 1983; Davies and Sansom, 2009; Sansom et al., 2013; Young, 1997)
 > - **Comments**:
 
 **Trapiche Group, Argentina**
 > - **Age**: Sandbian.
-> - **Taxa**: *Sacabambaspis janvieri*
+> - **Taxa**: Arandaspida: *Sacabambaspis janvieri*
 > - **Locality and horizon**: Trapiche Group, Argentine Precordillera terrane, San Juan Province, Argentina.
 > - **References**: (Aceñolaza et al., 2002; Albanesi et al., 1995; Davies and Sansom, 2009; Sansom et al., 2009)
 > - **Comments**: 
@@ -150,35 +150,35 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 
 **Viola limestone, USA**
 > - **Age**: Katian.
-> - **Taxa**: *Eriptychius americanus*.
+> - **Taxa**: Astraspida: *Eriptychius americanus*.
 > - **Locality and horizon**: Viola Limestone, Arbuckle Mountains, Southern Oklahoma, USA.
 > - **References**: (Alberstadt, 1973; Amsden, 1983; Boucot and Janis, 1983; Gao et al., 1996; Ossian and Halseth, 1976; Sansom and Smith, 2005)
 > - **Comments**: (Ossian and Halseth, 1976)
 
 **Basal Trenton Group, Canada**
 > - **Age**: Katian.
-> - **Taxa**: *Astraspis* sp.
+> - **Taxa**: Astraspida: *Astraspis* sp.
 > - **Locality and horizon**: Basal Trenton beds, La Malbaie, on the north shore of the St. Lawrence River in Quebec, Canada.
 > - **References**: (Salad Hersi and Dix, 1999; Sinclair, 1958)
 > - **Comments**: 
 
 **Upper-most Pamelia Formation, Canada**
 > - **Age**: Katian.
-> - **Taxa**: *Astraspis* sp. or *desiderata*?
+> - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?
 > - **Locality and horizon**: Upper-most Pamelia Formation, Ouareau River, Quebec, Canada.
 > - **References**: (Eliuk, 1973; Salad Hersi and Dix, 1999)
 > - **Comments**: 
 
 **Lower Leray Formation–Lowville Formation, Canada**
 > - **Age**: Katian.
-> - **Taxa**: *Astraspis* sp. or *desiderata*?
+> - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?
 > - **Locality and horizon**: Lower Leray Formation–Lowville Formation, Pont-Rouge, Quebec, Canada.
 > - **References**: (Eliuk, 1973; Salad Hersi and Dix, 1999)
 > - **Comments**: 
 
 **Whitewood Formation, Canada**
 > - **Age**: Katian.
-> - **Taxa**: *Astraspis* sp. or *desiderata*?; Pteraspidomorpha: Pycnaspis cf. splendens.
+> - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?; Pteraspidomorpha: *Pycnaspis* cf. *splendens*.
 > - **Locality and horizon**: Whitewood Formation, Bighorn Group, Sheep Mountain, Spearfish Canyon, Black Hills region, South Dakota, USA.
 > - **References**: (Boucot and Janis, 1983; Fahrenbach et al., 2017; Ørvig, 1958)
 > - **Comments**: 
@@ -209,7 +209,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Taxa**: Thelodonti: *Sandivia augusta*, *Sandivia melnikovi*.
 > - **Locality and horizon**: Khoreiver and Muker Formation, Timan-Pechora, Russia.
 > - **References**: (Karatajuté-Talimaa, 1997; Märss, 2019; Märss and Karatajūtē-Talimaa, 2002; Sansom and Elliott, 2003)
-> - **Comments**: The post-Sandbian record sees the appearance of a number of thelodont taxa (Sandivia and Stroinolepis) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
+> - **Comments**: The post-Sandbian record sees the appearance of a number of thelodont taxa (*Sandivia* and *Stroinolepis*) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
 
 **Stronaya Formation, Russia**
 > - **Age**: Hirnantian.
@@ -1001,6 +1001,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
