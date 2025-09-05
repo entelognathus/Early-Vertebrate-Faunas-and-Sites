@@ -230,6 +230,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
 # Silurian
+**Formation**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -242,9 +243,58 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Age**:Rhuddanian (Khaastyrian, Moyerocanian, and Agidyan Regional Stages).
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*.
 > - **Locality and horizon**: Melichan Formation, Niuya-Beresovo District, Russia.
-> - **References**:
+> - **References**: (Karatajuté-Talimaa and Smith, 2003; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**:
+
+**Elegest Formation, Tuva, Russia**
+> - **Age**: Rhuddanian to Aeronian (Alash and Kyzyl-Tchiraa Regional Stages).
+> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia sibirica, Talimaalepis kadvoiensis.
+Acanthodii: Tchunacanthus obruchevi.
+> - **Locality and horizon**: Alash and Kyzyl-Tchiraa (Charaa) Horizon, Elegest Formation, Kyzyl-Tchiraa, Tuva, Russia.
+> - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: 
+
+**Moyerochan Formation, Russia**
+> - **Age**: Rhuddanian to Aeronian.
+> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia asiatica, Loganellia sibirica.
+Acanthodii: Lenacanthus priscus, Tchunacanthus obruchevi.
+Chondrichthyes: Elegestolepis conica.
+Unknown: Tesakoviaspis concentrica.
+> - **Locality and horizon**: Moyerochan Formation, Moyero River, Moyerocanian, Krasnoyarsk Territory, Russia.
+> - **References**: (Aldridge et al., 1996; Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sennikov et al., 2015; Sepkoski, 1998)
 > - **Comments**:
 >
+**Petit River Port Daniel, Canada**
+> - **Age**: Rhuddanian to Aeronian.
+> - **Taxa**: Thelodonti: Valyalepis crista.
+> - **Locality and horizon**: Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
+> - **References**: (Turner and Nowland, 1995)
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+
 **The Valyalepis crista Zone**, Rhuddanian to early Aeronian
 > Clemville Formation, Chaleurs Group; Petit Port Daniel River section, west of Clemville, GaspÈ Peninsula, QuÈbec, eastern Canada.
 > Valyalepis  crista; Loganellia scotica-type and L. sibirica-type thelodonts.  Turner & Nowlan 1995
@@ -876,3 +926,4 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
