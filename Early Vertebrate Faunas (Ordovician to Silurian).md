@@ -398,283 +398,481 @@ formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, 
 
 # References
 Aceñolaza, F.G., Miller, H. and Toselli, A.J., 2002. Proterozoic - Early Paleozoic evolution in western South America - a discussion. Tectonophysics, 354(1-2): 121-137.
+
 Albanesi, G.L., Benedetto, J.L. and Gagnier, P.-Y., 1995. Sacabambaspis janvieri (Vertebrata) y conodontes del Llandeiliano temprano en la Formacion La Cantera, Precordillera de San Juan, Argentina. Boletin de la Academia Nacional de Ciencias, Córdoba, Argentina, 60: 519-543.
+
 Alberstadt, L.P., 1973. Articulate brachiopods of the Viola Formation (Ordovician) in the Arbuckle Mountains, Oklahoma. Oklahoma Geological Survey Bulletin, 117: 1-90.
+
 Aldridge, R.J., Turner, S., Jones, G.L. and Harper, D.A.T., 1996. Late Llandovery thelodonts and conodonts from the Kilbride Formation, Co. Galway, western Ireland. Geological Journal, 31: 359-367.
+
 Allulee, J.L. and Holland, S.M., 2005. The sequence stratigraphic and environmental context of primitive vertebrates: Harding Sandstone, Upper Ordovician, Colorado.
+
 Amsden, T.W., 1983. The Late Ordovician brachiopod genera Lepidocyclus and Hiscobeccus. Oklahoma Geological Survey Bulletin, 132: 36-44.
+
 Andreev, P., Coates, M.I., Karatajute-Talimaa, V., Shelton, R.M., Cooper, P.R., Wang, N.Z. and Sansom, I.J., 2016. The systematics of the Mongolepidida (Chondrichthyes) and the Ordovician origins of the clade. PeerJ, 4: e1850.
+
 Andreev, P.S., Coates, M.I., Karatajūtė-Talimaa, V., Shelton, R.M., Cooper, P.R. and Sansom, I.J., 2017. Elegestolepis and its kin, the earliest monodontode chondrichthyans. Journal of Vertebrate Paleontology, 37(1): e1245664.
+
 Andreev, P.S., Sansom, I.J., Li, Q., Zhao, W., Wang, J., Wang, C.C., Peng, L., Jia, L., Qiao, T. and Zhu, M., 2022a. The oldest gnathostome teeth. Nature, 609(7929): 964-968.
+
 Andreev, P.S., Sansom, I.J., Li, Q., Zhao, W., Wang, J., Wang, C.C., Peng, L., Jia, L., Qiao, T. and Zhu, M., 2022b. Spiny chondrichthyan from the lower Silurian of South China. Nature, 609(7929): 969-974.
+
 Andreev, P.S., Zhao, W.J., Wang, N.Z., Smith, M.M., Li, Q., Cui, X.D., Zhu, M. and Sansom, I.J., 2020. Early Silurian chondrichthyans from the Tarim Basin (Xinjiang, China). PLoS One, 15(2): e0228589.
+
 Antia, D.D.J., 1980. Shell laminae and shell orientation in the upper Silurian, Overton Formation, U.K. Palaeogeography, Palacoclimatology, Palaeoecology, 32: 119-133.
+
 Antia, D.D.J., 1981. Temeside Bone-Bed associated sediments from Wales Welsh Borderlands. Mercian Geologist, 8: 163-215.
 Bassett, M.G. and Rong, J., 2002. Brachiopods. In: C.H. Holland and M.G. Bassett (Editors), Telychian rocks of the British Isles and China (Silurian, Llandovery Series): An experiment to test precision in stratigraphy. National Museum Wales, pp. 124-135.
+
 Blieck, A. and Janvier, P., 1991. Silurian vertebrates. Special Papers in Palaeontology, 44: 345-389.
+
 Blieck, A., Karatajūte-Talimaa, V.N. and Mark-Kurik, E., 2002. Upper Silurian and Devonian heterostracan pteraspidomorphs (Vertebrata) from Severnaya Zemlya (Russia); a preliminary report with biogeographical and biostratigraphical implications. Geodiversitas, 24: 805-820.
+
 Blom, H., 1999. Vertebrate remains from Upper Silurian - Lower Devonian beds of Hall Land, North Greenland. Grønlands Geologiske Undersøgelse Bulletin, 182: 1-80.
+
 Blom, H., Marss, T. and Miller, C.G., 2002. Silurian and earliest Devonian birkeniid anaspids from the Northern Hemisphere. Transactions of the Royal Society of Edinburgh: Earth Sciences, 92: 263-323.
+
 Boucot, A.J. and Janis, C., 1983. Environment of the Early Paleozoic vertebrates. Palaeogeography, Palaeoclimatology, Palaeoecology, 41(3-4): 251-287.
+
 Bowman, C.N., Young, S.A., Kaljo, D., Eriksson, M.E., Them, T.R., Hints, O., Martma, T. and Owens, J.D., 2019. Linking the progressive expansion of reducing conditions to a stepwise mass extinction event in the late Silurian oceans. Geology, 47(10): 968-972.
+
 Bremer, O., 2017. Silurian vertebrates of Gotland (Sweden) and the Baltic Basin, Acta Universitatis Upsaliensis.
+
 Bremer, O. and Blom, H., 2015. An updated stratigraphic and environmental framework for the distribution of Silurian vertebrates on Gotland. Estonian Journal of Earth Sciences, 64(1): 13.
+
 Bremer, O., Jarochowska, E. and Märss, T., 2020. Vertebrate remains and conodonts in the upper Silurian Hamra and Sundre formations of Gotland, Sweden. GFF, 142(1): 52-80.
+
 Bremer, O., Niedźwiedzki, G., H, B., Dec, M. and Kozłowski, W., 2018. Vertebrate microremains from the upper Silurian Winnica Formation of the Holy Cross Mountains, Poland. Geological Magazine, 155(7): 1523 - 1541.
+
 Bremer, O., Turner, S., Märss, T. and Blom, H., 2019. Silurian vertebrate remains from the Oslo Region, Norway, and their implications for regional biostratigraphy. Norw. J. Geol.
+
 Broad, D.S. and Dineley, D.L., 1973. New Upper Silurian Lower Devonian Genus Cyathaspididae (Ostracodermi) from Arctic Canada. Geological Survey of Canada Bulletin, 222: 53–90.
+
 Broad, D.S. and Lenz, A.C., 1972. A new Upper Silurian species of Vernonaspis (Heterostraci) from Yukon Territory, Canada. Journal of Paleontology, 46(3): 415-420.
+
 Bryant, W.L., 1926. On the structure of "Palaeaspis" and on the occurrence in the United States of fossil fishes belonging to the family Pteraspidae. Proceedings of the American Philosophical Society, 65(4): 256-271.
+
 Burrow, C.J., 2011. A partial articulated acanthodian from the Silurian of New Brunswick, Canada. Canadian Journal of Earth Sciences, 48(9): 1329-1341.
+
 Burrow, C.J. and Rudkin, D., 2014. Oldest near-complete acanthodian: the first vertebrate from the Silurian Bertie Formation Konservat-Lagerstatte, Ontario. PLoS One, 9(8): e104171.
+
 Burrow, C.J., Turner, S., Nowlan, G.S. and Denison, R.H., 2013. Vertebrate microremains from the Late Silurian of Arisaig, Nova Scotia, Canada. Journal of Paleontology, 87(6): 1041-1059.
+
 Burrow, C.J., Turner, S. and Young, G.C., 2010. Middle Palaeozoic microvertebrate assemblages and biogeography of East Gondwana (Australasia, Antarctica). Palaeoworld, 19(1-2): 37-54.
+
 Cai, J.-C., Zhao, W.-J. and Zhu, M., 2020. Subdivision and age of the Silurian fish-bearing Kuanti Formation in Qujing, Yunnan Province. Vertebrata PalAsiatica, 58(4): 249-266.
+
 Calner, M., Jeppsson, L. and Munnecke, A., 2004. The Silurian of Gotland—Part I: Review of the stratigraphic framework, event stratigraphy, and stable carbon and oxygen isotope development. Erlanger Geologische Abhandlungen, 5.
+
 Cameron, B. and Mangion, S., 1977. Depositional environments and revised stratigraphy along the Black River-Trenton boundary in New York and Ontario. American Journal of Science, 277(4): 486-502.
+
 Carroll, A.R., Graham, S., Chang, E.Z. and McKnight, C., 2001. Sinian through Permian tectonostratigraphic evolution of the northwestern Tarim basin, China. Memoir of the Geological Society of America, 194.
+
 Chen, L.D., Chen, X.H. and Li, Z.H., 2002. Protect of Precious Geological Remains and Archean Eon-Mesozoic Stratigraphical Multidivisions as Well as Sea Level Changes (in Chinese). Geological Publishing House, Beijing.
+
 Chen, P., Jin, J. and Lenz, A.C., 2012. Palaeoecology of transported brachiopod assemblages embedded in black shale, Cape Phillips Formation (Silurian), Arctic Canada. Palaeogeogr. Palaeoclimatol. Palaeoecol., 367-368: 104-120.
+
 Chen, Y., Gai, Z., Li, Q., Wang, J., Peng, L., Wei, G. and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. Acta Geologica Sinica - English Edition, 96(2): 430-439.
+
 Chen, Y., Li, Q., Zhou, Z.-D., Shan, X.-R., Zhu, Y.-A., Wang, Q., Wei, G.-B. and Zhu, M., 2024a. A new genus of galeaspids (jawless stem-Gnathostomata) from the early Silurian Chongqing Lagerstätte, China. Vertebrata Palasiatica, 62(4): 245-261.
+
 Chen, Z., Chen, Q., Wang, G., Fang, X., Tang, P., Yan, G., Yuan, W., Huang, B., Zhang, X., Yan, K., Zhang, Y. and Wang, Y., 2024b. Silurian integrative stratigraphy, biotas, and paleogeographical evolution of the Qinghai-Tibetan Plateau and its surrounding areas. Sci. China Earth Sci., 67(4): 1005-1035.
+
 Cherns, L., 1999. Silurian chitons as indicators of rocky shores and lowstand on Gotland, Sweden. Palaios, 14(2): 172.
+
 Choo, B., Zhu, M., Qu, Q., Yu, X., Jia, L. and Zhao, W., 2017. A new osteichthyan from the late Silurian of Yunnan, China. PLoS One, 12(3): e0170929.
+
 Cocks, L.R.M., McKerrow, W.S. and Verniers, J., 2003. The Silurian of Avalonia. New York State Museum Bulletin, 493: 35-53.
+
 Davies, N., Turner, P. and Sansom, I., 2005. A revised stratigraphy for the Ringerike Group (Upper Silurian, Oslo Region).
+
 Davies, N.S. and Sansom, I.J., 2009. Ordovician vertebrate habitats: a Gondwanan perspective. Palaios, 24(10): 717-722.
+
 Davies, N.S., Sansom, I.J., Nicoll, R.S. and Ritchie, A., 2011. Ichnofacies of the Stairway Sandstone fish-fossil beds (Middle Ordovician, Northern Territory, Australia). Alcheringa: An Australasian Journal of Palaeontology, 35(4): 553-569.
+
 Davies, N.S., Sansom, I.J. and Turner, P., 2006. Trace fossils and paleoenvironments of a late Silurian marginal-marine/alluvial system: The ringerike group (lower old red sandstone), Oslo region, Norway. Palaios, 21(1): 46-62.
+
 Denison, R.H., 1956. A review of the habitat of the earliest vertebrates. Fieldiana Geology, 11(8): 359-457.
+
 Denison, R.H., 1964. The Cyathaspididae: a family of Silurian and Devonian jawless vertebrates. Fieldiana Geology, 13: 309-473.
+
 Dineley, D.L., 1963. The "red stratum" of the Silurian arisaig series, Nova Scotia, Canada. J. Geol., 71(4): 523-524.
+
 Dineley, D.L. and Metcalf, S., 1999. Fossil Fishes of Great Britain, 16. Joint Nature Conservation Committee, 675 pp.
+
 Dzik, J. and Moskalenko, T.A., 2016. Problematic scale-like fossils from the Ordovician of Siberia with possible affinities to vertebrates. Neues Jahrb. Geol. Palaontol. Abh., 279(3): 251-260.
+
 Eastman, C.R., 1907. Devonic fishes of the New York Formation. Mem. N.Y. St. Mus., 10: 1-235.
+
 Edgoose, C.J. and Munson, T.J., 2013. Geology and mineral resources of the Northern Territory: Warburton Basin.
+
 Einasto, R., 1990. Locality 7:3 Kaugatuma cliff. In: D. Kaljo and H. Nestor (Editors), Field Meeting Estonia 1990. An Excursion Guidebook. Estonian Academy of Sciences, pp. 174–175.
+
 Eliuk, L.S., 1973. Middle Ordovician fish-bearing beds from the St. Lawrence Lowlands of Quebec. Canadian Journal of Earth Sciences, 10(6): 954-960.
+
 Elliott, D., 1984. A new subfamily of the Pteraspididae (Agnatha, Heterostraci) from the upper Silurian and Lower Devonian of Arctic Canada. Palaeontology, 27(1): 169-197.
+
 Elliott, D.K., 1983. New Pteraspididae (Agnatha, Heterostraci) from the Lower Devonian of Northwest Territories, Canada. Journal of Vertebrate Paleontology, 2(4): 389-406.
+
 Elliott, D.K. and Dineley, D.L., 1983. New species of Protopteraspis (Agnatha, Heterostraci) from the (?) Upper Silurian to Lower Devonian of Northwest Territories, Canada. Journal of Paleontology: 474-494.
+
 Elliott, D.K. and Swift, S., 2010. A new species of Ariaspis (Agnatha, Heterostraci) from the Late Silurian of the Canadian Arctic. Journal of Vertebrate Paleontology, 30(6): 1874-1878.
+
 Emig C, C., 2006. Dignomia munsterii (Brachiopoda, Lingulata) from the Ordovician of Bolivia, with redescription of the genus. Geodiversitas(2): 227-237.
+
 Erdtmann, B.D., Weber, B., Schultze, H.P. and Egenhoff, S., 2000. A possible agnathan plate from the Lower Arenig (Lower Ordovician) of South Bolivia. Journal of Vertebrate Paleontology, 20(2): 394-399.
+
 Eriksson, M.E., Nilsson, E.K. and Jeppsson, L., 2009. Vertebrate extinctions and reorganizations during the Late Silurian Lau Event. Geology, 37(8): 739-742.
+
 Fahrenbach, M.D., Steece, F.V., Sawyer, J.F., McCormick, K.A., McGillivray, G.L., Schulz, L.D. and Redden, J.A., 2017. South Dakota Stratigraphic Correlation Chart. South Dakota geological Survey. Oil and Gas Investigation1.
+
 Fillmore, D.L., Simpson, E.L., Lucas, S.G., Szajna, M.J., Ireland, S. and Bouknight, A.J., 2020. Continental ichnofossil assemblage from the upper Silurian of Laurentia: The Bloomsburg Formation of eastern Pennsylvania. Palaeogeography, Palacoclimatology, Palaeoecology, 547(109693): 109693.
+
 Flower, R.H. and Wayland-Smith, R., 1952. Cyathaspid fishes from the Vernon Shale of New York. Bulletin of the Museum of Comparative Zoology, 107: 355-387.
+
 Fredholm, D., 1990. Agnathan vertebrates in the lower Silurian of Gotland, Sweden. Geol. Foereningan Stockh. Foerhandlingar, 112(1): 61-80.
+
 Gagnier, P.Y., 1992. Fosiles y facies de Bolivia. I. Vertebrados. Revista Técnica de YPFB, 12: 371-379.
+
 Gai, Z., Lu, L., Zhao, W. and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. PLoS One, 13(9): e0202217.
+
 Gao, G., Dworkin, S.I., Land, L.S. and Elmore, R.D., 1996. Geochemistry of late Ordovician viola limestone, Oklahoma: Implications for marine carbonate mineralogy and isotopic compositions. J. Geol., 104(3): 359-367.
+
 Giffin, E.Y.B., 1979. Silurian Vertebrates from Pennsylvania. Palaeontology, 53(2): 438-445.
+
 Graffin, G., 1992. A new locality of fossiliferous harding sandstone: evidence for freshwater Ordovician Vertebrates. Journal of Vertebrate Paleontology, 12(1): 1-10.
+
 Gross, W., 1968. Fragliche Actinopterygier-schuppen aus dem Silur Gotlands. Lethaia, 1: 184-218.
+
 Hairapetian, V., Blom, H. and Miller, C.G., 2008. Silurian thelodonts from the Niur Formation, central Iran. Acta Palaeontologica Polonica, 53(1): 85-95.
+
 Heward, A.P., Booth, G.A., Fortey, R.A., Miller, C.G. and Sansom, I.J., 2018. Darriwilian shallow-marine deposits from the Sultanate of Oman, a poorly known portion of the Arabian margin of Gondwana. Geol. Mag., 155(1): 59-84.
+
 Heward, A.P., Fortey, R.A., Miller, C.G. and Booth, G.A., 2023. New Middle Ordovician (Darriwilian) faunas from the Sultanate of Oman. Proc. Geol. Assoc., 134(3): 251-268.
+
 Holland, C.H. and Bassett, M.G., 2002. Telychian Rocks of the British Isles and China (Silurian, Llandovery Series: An Experiment to Test Precision in Stratigraphy. Geological Series. National Museums & Galleries of Wales, Cardiff.
+
 Houée, G., Bardin, J., Germain, D., Janvier, P. and Goudemand, N., 2023. Developmental models shed light on the earliest dental tissues, using Astraspis as an example. Palaeontology, 66(6).
+
 Hurst, J.M., 1975. Wenlock carbonate, level bottom, brachiopod-dominated communities from Wales and the Welsh Borderland. Palaeogeography, Palacoclimatology, Palaeoecology, 17(3): 227-255.
+
 Janvier, P. and Lelievre, H., 1994. A new tremataspid osteostracan Aestiaspis viitaensis n.g., n.sp., from the Silurian od Saaremaa, Estonia. Estonian J. Earth Sci., 43(3): 122.
+
 Jiang, Z., Wang, Y. and Wei, C., 2009. Hemipelagic deposition of the Silurian Kepingtage formation in Tarim basin and its sedimentologic significance. Journal of Earth Science, 20(6): 921.
+
 Jones, B. and Dixon, O.A., 1977. Stratigraphy and sedimentology of Upper Silurian rocks, northern Somerset Island, Arctic Canada. Can. J. Earth Sci., 14(6): 1427-1452.
+
 Karatajuté-Talimaa, V., 1997. Taxonomy of Loganiid thelodonts. Modern Geology, 21: 1-15.
+
 Karatajūtė-Talimaa, V., 1990. Vertebrates. In: N.P. Kul′kov and V.N. Tubatolov (Editors), In Silur i devon Yugo-Vostoka Zapadno-Sibirskoj plity, pp. 1–15.
+
 Karatajūte-Talimaa, V. and Märss, T., 2002. Upper Silurian thelodonts from Severnaya Zemlya Archipelago (Russia). Geodiversitas, 24(2): 405-443.
+
 Karatajute-Talimaa, V. and Smith, M.M., 2004. Tesakoviaspis concentrica: microskeletal remains of a new order of vertebrate from the Upper Ordovician and Lower Silurian of Siberia. In: G. Arratia, M.V.H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates. Pfeil, München, pp. 53-64.
+
 Karatajuté-Talimaa, V. and Smith, M.M., 2003. Early acanthodians from the Lower Silurian of Asia. Transactions of the Royal Society of Edinburgh: Earth Sciences, 93(03): 277-299.
+
 Karatajūte-Talimaa, V.N., 1973. Elegestolepis grossi gen. et sp. nov., ein neuer Typ der Placoidschuppe aus dem oberen Silur der Tuwa. Palaeontographica Abt. A, 143: 35-50.
+
 Kiaer, J., 1932. The Downtonian and Devonian vertebrates of Spitsbergen IV. Suborder Cyathaspida. Skrifter om Svalbard og Ishavet, 52: 1-26.
+
 Kiipli, T., Einasto, R., Kallaste, T., Nestor, V., Perens, H. and Siir, S., 2011. Geochemistry and correlation of volcanic ash beds from the Rootsiküla Stage (Wenlock–Ludlow) in the eastern Baltic. Est. J. Earth Sci., 60(4): 207.
+
 Kunth, A., 1872. Ueber Pteraspis, 24. Geologischen Gesellschaft, Zeitschrift der Deutschen.
+
 Lamsdell, J.C., Isotalo, P.A., Rudkin, D.M. and Martin, M.J., 2023. A new species of the Ordovician horseshoe crab Lunataspis. Geological Magazine, 160(1): 167-171.
+
 Lehtola, K.A., 1973. Ordovician vertebrates from Ontario. Contributions from the Museum of Paleontology, The University of Michigan, 24: 23-30.
+
 Lemierre, A. and Germain, D., 2019. A new mineralized tissue in the early vertebrate Astraspis. Journal of anatomy, 235(6): 1105-1113.
+
 Lenz, A.C., 1982. Llandoverian graptolites of the northern Canadian Cordillera : Petalograptus, Cephalograptus, Rhaphidograptus, Dimorphograptus, Retiolitidae, and Monograptidae. Royal Ontario Museum, Toronto.
+
 Li, Q., Zhu, Y.-a., Lu, J., Chen, Y., Wang, J., Peng, L., Wei, G. and Zhu, M., 2021. A new Silurian fish close to the common ancestor of modern gnathostomes. Current Biology, 31(16): 3613-3620. e2.
+
 Li, X., Zhang, Y., Lin, X., Zhu, M., Zhao, W., Tang, L., Shan, X. and Gai, Z., 2024. New findings of Changxingaspis (Xiushuiaspidae, Galeaspida) from the Silurian of Tarim Basin and Zhejiang Province, China. Acta Geol. Sin. - Engl. Ed., 98(3): 531-540.
+
 Liu, H.-b., McKay, R.M., Witzke, B.J. and Briggs, D.E.G., 2009. The Winneshiek Lagerstatte, Iowa, USA and its depositional environments. Geological Journal of China Universities, 15(3): 285.
+
 Liu, H., Wang, B.-D., Chen, L., Huang, F., Zeng, Y.-C. and Wang, L.-Q., 2021. Silurian intermediate–felsic complex in the Xiangtaohu area of central Qiangtang, northern Tibet: Evidence for southward subduction of the Longmuco–Shuanghu Prototethys oceanic plate. Lithos, 404-405(106465): 106465.
+
 Liu, H.B.P., McKay, R.M., Young, J.N., Witzke, B.J., McVey, K.J. and Liu, X.Y., 2006. A new Lagerstatte from the Middle Ordovician St. Peter Formation in northeast Iowa, USA. Geology, 34(11): 969-972.
+
 Liu, W., Shan, X., Lin, X., Shen, Y., Liu, Y., Zhang, Z. and Gai, Z., 2023. The first eugaleaspiforme fish from the Silurian of the Tarim Basin reveals a close relationship between the Tarim and South China blocks at 438 mya. Palaeogeogr. Palaeoclimatol. Palaeoecol., 628(111774): 111774.
+
 Liu, Y.-L., Yin, J.-Y., Fan, R.-Y., Zong, R.-W. and Gong, Y.-M., 2024. New data on Silurian (Llandovery) sinacanthids from Wuhan, South China and their biostratigraphic and paleobiogeographic implications. Palaeoworld, 33(5): 1242-1255.
+
 Liu, Y., Zhu, M., Lin, X., Lu, L.-W. and Gai, Z.-K., 2019. A reappraisal of the Silurian galeaspids (stem-Gnathostomata) from Tarim Basin, Xinjiang. Vertebrata PalAsiatica, 57(4): 253-273.
+
 Loeffler, E. and Dineley, D.L., 1976. A new species of Corvaspis (Agnatha, Heterostraci) from the upper Silurian to Lower or Middle Devonian of the North-west Territories, Canada. Palaeontology, 19(4): 757-766.
+
 Loeffler, E.J. and Jones, B., 1977. Additional Late Silurian ostracoderms from the Leopold Formation of Somerset Island, North West Territories, Canada. Palaeontology, 20(3): 661-674.
+
 Lu, L.-W., Pan, J. and Zhao, L.-J., 2007. New findings of Middle Paleozoic Agnatha and fishes from Kalpin, Xinjiang. Acta Geoscientica Sinica, 28: 143-147.
+
 Maguire, C.K. and Graham, J.R., 1995. Sedimentation and palaeogeographical significance of the Silurian rocks of the Louisburgh–Clare Island succession, western Ireland. Trans. R. Soc. Edinb. Earth Sci., 86(2): 123-136.
+
 Männik, P., Bogolepova, O., Põldvere, A. and Gubanov, A., 2009. New data on Ordovician–Silurian conodonts and stratigraphy from the Severnaya Zemlya archipelago, Russian Arctic. Geological Magazine, 146(4): 497-516.
+
 Mannik, P., Bogolepova, O.K., Pıldvere, A. and Gubanov, A.P., 2009. New data on Ordovician-Silurian conodonts and stratigraphy from the Severnaya Zemlya archipelago. Russian Arctic. Geological Magazine: 497-519.
+
 Männik, P., Menner, V., Matukhin, R. and Kuršs, V., 2002. Silurian and Devonian strata on the Severnaya Zemlya and Sedov archipelagos (Russia). Geodiversitas, 24(1): 99-121.
+
 Mark-Kurik, E., 1969. Distribution of vertebrates in  the Silurian of Estonia. Lethaia, 2(2): 145-152.
+
 Marss, T., 1996. Loganellia (Thelodonti, Agnatha) from the Jaagarahu stage, Weniock, Estonia. Proceedings of the Estonian Academy of Sciences: Geology, 45(4): 189-202.
+
 Märss, T., 1977. The Upper Silurian cyathaspid Archegonaspis from the East Baltic. Proceedings of the Estonian Academy of Sciences: Geology, 1977(2): 129-133.
+
 Märss, T., 1986. Squamation of the thelodont agnathan Phlebolepis. Journal of Vertebrate Paleontology, 6(1): 1-11.
+
 Märss, T., 2001. Andreolepis (Actinopterygii) in the Upper Silurian of northern Eurasia. Proceedings of the Estonian Academy of Sciences: Geology, 50: 174-189.
+
 Märss, T., 2003. Paralogania from the Rootsiküla (Wenlock) and Paadla (Ludlow) stages of Estonia. Proceedings of the Estonian Academy of Sciences: Geology, 52: 98-112.
+
 Märss, T., 2019. Silurian cyathaspidid heterostracans of Northern Eurasia. Estonian Journal of Earth Sciences, 68(3): 113-146.
+
 Märss, T., Afanassieva, O. and Blom, H., 2015. Biodiversity of the Silurian osteostracans of the East Baltic. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 105(02): 73-148.
+
 Märss, T. and Karatajūte-Talimaa, V., 2009. Late Silurian-Early Devonian tessellated heterostraean Oniscolepis Pander, 1856 from the East Baltic and North Timan. Estonian Journal of Earth Sciences, 58(1).
+
 Märss, T. and Karatajūtē-Talimaa, V., 2002. Ordovician and Lower Silurian thelodonts from Severnaya Zemlya Archipelago (Russia). Geodiversitas, 24(2): 381-404.
+
 Märss, T. and Männik, P., 2013. Revision of Silurian vertebrate biozones and their correlation with the conodont succession. Estonian Journal of Earth Sciences, 62(4).
+
 Märss, T., Mannik, P., Martma, T. and Goujet, D., 1997. Distribution of Silurian vertebrate micro remains in Baillie-Hamilton and Cornwallis Island sections, Circum-Arctic Palaeozoic Vertebrates: Biological and Geological Significance.
+
 Märss, T. and Miller, C.G., 2004. Thelodonts and distribution of associated conodonts from the Llandovery-Lowermost Lochkovian of the Welsh Borderland. Palaeontology, 47(5): 1211-1265.
+
 Märss, T., Perens, H. and Klaos, T., 2003. Sedimentation of the Himmiste-Kuigu fish bed (Ludlow of Estonia) and taphonomy of the Phlebolepis elegans Pander (Thelodinti) shoal. Proceedings of the Estonian Academy of Sciences: Geology, 52(4): 239-265.
+
 Märss, T. and Ritchie, A., 1998. Articulated thelodonts (Agnatha) of Scotland. Transactions of the Royal Society of Edinburgh: Earth Sciences, 88: 143-195.
+
 Märss, T., Wilson, M.V.H. and Thorsteinsson, R., 2002. New thelodont (Agnatha) and possible chondrichthyan (Gnathostomata) taxa established in the Silurian and Lower Devonian of the Canadian Arctic Archipelago. Proceedings of the Estonian Academy of Sciences: Geology, 51(2): 88-120.
+
 Märss, T., Wilson, M.V.H. and Thorsteinsson, R., 2006. Silurian and Lower Devonian thelodonts and putative chondrichthyans from the Canadian Arctic Archipelago. Special Papers in Palaeontology, 75: 1-144.
+
 Martinsson, A., 1966. Beyrichiacean ostracodes associated earliest Silurian vertebrates from Gotland. Geol. Foren. Stockholm Forh. 88. Stockholm.
+
 Matthew, G.F., 1889. On some remarkable organisms of the Silurian and Devonian rocks in southern New Brunswick. In: A. Henry (Editor), Ott. Nat. Ottawa, Ottawa Field-Naturalists' Club, pp. 74-77.
+
 Matthew, G.F., 1907. A new genus and a new species of Silurian fish. Transactions of the Royal Society of Canada, 3rd series, 1(4): 7-11.
+
 Mehlqvist, K., Larsson, K. and Vajda, V., 2014. Linking upper Silurian terrestrial and marine successions—Palynological study from Skåne, Sweden. Rev. Palaeobot. Palynol., 202: 1-14.
+
 Miall, A.D. and Kerr, J.W., 1977. Phanerozoic stratigraphy and sedimentology of Somerset Island and northeastern Boothia Peninsula. Geological Survey of Canada Paper.
+
 Miall, D., Kerr, J.W. and Gibling, M.R., 1978. Somerset Island Formation: Upper Silurian ?Lower Devonian intertidal/supratidal succession, Boothia Uplift region, Arctic Canada. Arctic Canada. Canadian Journal Earth Sciences, 15: 81-189.
+
 Miller, C., Märss, T. and Blom, H., 2004. New anaspid material from the Late Silurian of Britain and Estonia. Acta Universitatis Latviensis, 679: 46-56.
+
 Mu, E.-Z., Boucot, A.J., Chen, X. and Rong, J.-Y., 1986. Correlation of the Silurian rocks of China. Geological Society of America Special Paper, 202: 1-80.
+
 Musteikis, P.J.J., 1999. Brachiopod communities of the Lithuanian Silurian. In: A.J.J.D. Boucot (Editor), Paleocommunities - a case study from the Silurian and lower Devonian. Cambridge Univ. Press, pp. 305-326.
+
 Novitskaya, L.I., 2007. Evolution of Generic and Species Diversity in Agnathans (Heterostraci: Orders Cyathaspidiformes, Pteraspidiformes). Paleontological Journal, 41(3): 268-280.
+
 Oliver, W.A., Jr., Pedder, A.E.H., Weiland, R.J. and van Ufford, A.Q., 1995. Middle Palaeozoic corals from the southern slope of the Central Ranges of Irian Jaya, Indonesia. Alcheringa, 19(1): 1-15.
+
 Ørvig, T., 1958. Pycnaspis splendens, new genus, new species, a new ostracoderm from the Upper Ordovician of North America. Proc. U. S. Nat. Mus., 108(3391): 1-23.
+
 Ossian, C.R. and Halseth, M.A., 1976. Discovery of Ordovician vertebrates in the Arbuckle Mountains of Oklahoma. Journal of Paleontology, 50(5): 773-777.
+
 Palmer, D., Johnston, J.D., Dooley, T. and Maguire, K., 1989. The Silurian of Clew Bay, Ireland: part of the Midland Valley of Scotland? J. Geol. Soc. London, 146(3): 385-388.
+
 Pan, J., 1986. Note on Silurian vertebrates of China. Bulletin of the Chinese Academy of Geological Sciences, 15: 161-190.
 Pan, J. and Chen, L.Z., 1993. Geraspididae, a new family of Polybranchiaspidida (Agnatha) from Silurian of Northern Anhui. Vertebrata PalAsiatica, 31(3): 225-230.
+
 Pan, J. and Dineley, D.L., 1988. A review of early (Silurian and Devonian) vertebrate biogeography and biostratigraphy of China. Proceedings of the Royal Society of London Series B-Biological Sciences, 235(1278): 29-61.
+
 Pan, J. and Wang, S.T., 1983. Xiushuiaspidae, a new family of Polybranchiaspformes from Xiushui of Jiangxi Province. Acta Palaeontologica Sinica, 22(5): 505-509.
+
 Pickerill, R.K. and Harland, T.L., 1988. Trace fossils from Silurian slope deposits, North Greenland. rapggu, 137: 119-133.
+
 Plax, D. and Märss, T., 2011. Thelodonts (Agnatha) from the Lower Silurian (Wenlock) deposits of the northwest of Belarus. Lithosphere, 34(1): 69-81.
+
 Plotnick, R.E., 1999. Habitat of Llandoverian-Lochkovian eurypterids. World and Regional Geology(Cambridge University Press): 106–131.
+
 Pradel, A., Sansom, I.J., Gagnier, P.Y., Cespedes, R. and Janvier, P., 2007. The tail of the Ordovician fish Sacabambaspis. Biology Letters, 3(1): 73-76.
+
 Qu, Q., Blom, H., Sanchez, S. and Ahlberg, P., 2015. Three-dimensional virtual histology of Silurian osteostracan scales revealed by synchrotron radiation microtomography. Journal of Morphology, 276(8): 873-888.
+
 Ritchie, A., 1980. The Late Silurian anaspid genus Rhyncholepis from Oesel, Estonia, and Ringerike, Norway. American Museum Novitates, 2699: 1-18.
+
 Ritchie, A., 1985. Ainiktozoon loganensis Scourfield, a protochordate? from the Silurian of Scotland. Alcheringa, 9(2): 117-142.
+
 Ritchie, A. and Gilbert-Tomlinson, J., 1977. First Ordovician vertebrates from the Southern Hemisphere. Alcheringa, 1(4): 351-368.
+
 Robertson, G.M., 1938. New genera of ostracoderms from the Upper Silurian of Oesel. Journal of Paleontology, 12(5): 486-493.
+
 Robertson, G.M., 1939. The status of cephalaspis schrenckii pander from the upper Silurian of Oesel. J. Geol., 47(6): 649-657.
+
 Robertson, G.M., 1941. The Ostracoderm order Anaspida, with descrip- tion of some Upper Silurian material. Trans. Kans. Acad. Sc, 44: 314-317.
+
 Robertson, G.M., 1945. Cephalaspids from the Upper Silurian of Oesel, with a discussion of cephalaspid genera. American Journal of Science, 5th series, 243: 169-191.
+
 Robertson, G.M., 1950. Some paleoecoloical speculations regarding the earliest vertebrates. Proceedings of the Iowa Academy of Science, 57(1): 491–497.
+
 Rong, J., Wang, Y., Zhan, R., Fan, J., Huang, B., Tang, P., Li, Y., Zhang, X., Wu, R., Wang, G. and Wei, X., 2019. Silurian integrative stratigraphy and timescale of China. Science China Earth Sciences, 62(1): 89-111.
+
 Rong, J., Wang, Y. and Zhang, X., 2012. Tracking shallow marine red beds through geological time as exemplified by the lower Telychian (Silurian) in the Upper Yangtze Region, South China. Science China Earth Sciences, 55(5): 699-713.
+
 Ross, R.J., Jr., 1957. Ordovician Fossils From Wells in the Williston Basin Eastern Montana. U.S. Geol. Survey, Bull., 1021-M(USGS Numbered Series, Bulletin, 1021): 439-510.
+
 Rozman, K.H.S., 1999. Silurian Brachiopod Communities Mongolia. In: J. Boucot and J.D. Lawson (Editors), Paleocommunities: Case Study from Silurian Lower Devonian. Cambridge University Press, Cambridge, pp. 164-176.
+
 Salad Hersi, O. and Dix, G.R., 1999. Blackriveran (lower Mohawkian, Upper Ordovician) lithostratigraphy, rhythmicity, and paleogeography: Ottawa Embayment, eastern. Can. J. Earth Sci., 36: 2033-2050.
+
 Sansom, I.J., Aldridge, R.J. and Smith, M.M., 2000. A microvertebrate fauna from the Llandovery of South China. Transactions of the Royal Society of Edinburgh: Earth Sciences, 90: 255-272.
+
 Sansom, I.J. and Andreev, P.S., 2019. The Ordovician enigma: fish, first appearances and phylogenetic controversies. In: Z. Johanson, C. Underwood and M. Richter (Editors), Evolution and Development of Fishes. Cambridge University Press, Cambridge, pp. 59-70.
+
 Sansom, I.J., Davies, N.S., Coates, M.I., Nicoll, R.S. and Ritchie, A., 2012. Chondrichthyan-like scales from the Middle Ordovician of Australia. Palaeontology, 55(2): 243-247.
+
 Sansom, I.J. and Elliott, D.K., 2003. A thelodont from the Ordovician of Canada. Journal of Vertebrate Paleontology, 22(4): 867-870.
+
 Sansom, I.J., Haines, P.W., Andreev, P. and Nicoll, R.S., 2013. A new pteraspidomorph from the Nibil Formation (Katian, Late Ordovician) of the Canning Basin, Western Australia. Journal of Vertebrate Paleontology, 33(4): 764-769.
+
 Sansom, I.J., Miller, C.G., Heward, A., Davies, N.S., Booth, G.A., Fortey, R.A. and Paris, F., 2009. Ordovician Fish from the Arabian Peninsula. Palaeontology, 52(2): 337-342.
+
 Sansom, I.J., Smith, M.M. and Smith, M.P., 2001. The Ordovician radiation of vertebrates. In: P. Ahlberg (Editor), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development. Taylor Francis, London, pp. 156-171.
+
 Sansom, I.J. and Smith, M.P., 2005. Late Ordovician vertebrates from the Bighorn Mountains of Wyoming, USA. Palaeontology, 48: 31-48.
+
 Sansom, I.J., Smith, M.P. and Smith, M.M., 1996. Scales of thelodont and shark-like fishes from the Ordovician of Colorado. Nature, 379: 628-630.
+
 Sansom, I.J., Smith, M.P., Smith, M.M. and Turner, P., 1997. Astraspis  -  the anatomy and histology of an Ordovician fish. Palaeontology, 40: 625-643.
+
 Sennikov, N.V., Rodina, O.A., Izokh, N.G. and Obut, O.T., 2015. New data on Silurian vertebrates of southern Siberia. Palaeoworld, 24(1-2): 231-242.
+
 Sepkoski, J.J., 1998. Rates of speciation in the fossil record. Philosophical Transactions of the Royal Society of London, Series B, 353(1366): 315-326.
+
 Shan, X., Zhao, W. and Gai, Z., 2023. A new species of Jiangxialepis (Galeaspida) from the lower Telychian (Silurian) of Jiangxi and its biostratigraphic significance. Acta Geol. Sin. - Engl. Ed., 97(2): 393-403.
+
 Shan, X., Zhao, W., Lin, X., Chen, Y., Li, Q., Zhu, M. and Gai, Z., 2022. The correlations of the lower red beds of early Telychian (Llandovery, Silurian) in China from the palaeoichthyological evidence. Journal of Stratigraphy, 46(2): 138-153.
+
 Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L. and Gai, Z.K., 2020. A new genus of sinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian Period in Jiangxi, China. PeerJ, 8: e9008.
+
 Sinclair, W., 1958. Occurrence of fish in the Ordovician of Canada. Bull. Geol. Soc. America, 69.
+
 Siveter, D.J. and Turner, S., 1982. A new Silurian microvertebrate assemblage from the Tortworth inlier, Avon, England. Alcheringa, 6: 35-41.
+
 Smith, M.M. and Sansom, I.J., 1997. Exoskeletal micro-remains of an Ordovician fish from the Harding Sandstone of Colorado. Palaeontology, 40: 645-658.
+
 Smith, M.P., Donoghue, P.C.J. and Sansom, I.J., 2002. The spatial and temporal diversification of Early Palaeozoic vertebrates. In: J.A. Crame and A.W. Owen (Editors), Palaeobiogeography and biodiversity change: the Ordovician and Mesozoic-Cenozoic radiations. Geological Society Special Publication No. 194. The Geological Society, London, pp. 69-83.
+
 Soehn, K.L., Märss, T., Caldwell, M.W. and Wilson, M.V.H., 2001. New and biostratigraphically useful thelodonts from the Silurian of the Mackenzie Mountains, Northwest Territories, Canada. Journal of Vertebrate Paleontology, 21(4): 651-659.
+
 Soehn, K.L., Märss, T., Hanke, G.F. and Wilson, M.V.H., 2000. Preliminary vertebrate biostratigraphy of the Avalanche Lake sections (Wenlock, Silurian), southern Mackenzie Mountains, N.W.T., and review of northwestern Canadian vertebrate localities of Silurian age. Courier Forschungsinstitut Senckenberg, 223: 129-156.
+
 Stetson, H.C., 1931. Studies on the morphology of the Heterostraci. Journal of Geology, 39: 141-154.
+
 Su, R., 2022. New Birkeniid Anaspid from the Silurian of the Canadian Arctic, Uppsala University, Disciplinary Domain of Science and Technology, Biology, Biology Education Centre.
+
 Talent, J.A., R, M. and A, S., 2003. Silurian of Australia and New Guinea: Biostratigraphic Correlationsand Paleogeography. In: L. E and M.E. Johnson (Editors), Silurian lands and seas. New York State Museum Bulletin. University of State of New York, USA, pp. 181–220.
+
 Tang, P., Wang, J., Wang, C.-Y., Wu, R.-C., Yan, K., Liang, Y. and Wang, X., 2015. Microfossils across the Llandovery–Wenlock boundary in Ziyang–Langao region, Shaanxi, NW China. Palaeoworld, 24(1): 221-230.
+
 Tesakov, A.S., 2004. Biostratigraphy of the Middle Pliocene-Eopleistocene of Eastern Europe. Transactions of the Geological Institute, 554: 1-247.
+
 Tinn, O. and Märss, T., 2018. The earliest osteostracan Kalanaspis delectabilis gen. et sp. nov. from the mid-Aeronian (mid-Llandovery, lower Silurian) of Estonia. Journal of Vertebrate Paleontology, 38(1): e1425212.
+
 Traquair, R.H., 1898a. Notes on Palaeozoic fishes. No. II. Annals and Magazine of Natural History, 2: 67-70.
+
 Traquair, R.H., 1898b. Report on fossil fishes, Her Majesty's Stationery Office, London.
+
 Turner, S., 1986. Thelodus macintoshi Stetson 1928, the largest known thelodont (Agnatha: Thelodonti). Breviora, 486: 1-18.
+
 Turner, S., 2000. New Llandovery to early Pridoli microvertebrates including Lower Silurian zone fossil, Loganellia avonia nov. sp., from Britain. Courier Forschungsinstitut Senckenberg, 223: 91-127.
+
 Turner, S., Blieck, A. and Nowlan, G.S., 2004. Vertebrates (Agnathans and Gnathostomes). In: B.D. Webby, F. Paris, M.L. Droser and I.G. Percival (Editors), The Great Ordovician Biodiversification Event. Columbia University Press, New York, pp. 327-335.
+
 Turner, S. and Burrow, C.J., 2018. Microvertebrates from the Silurian–Devonian boundary beds of the Eastport Formation, Maine, eastern USA. Atlantic Geology, 54: 171-187.
+
 Turner, S., Kuglitsch, J.J. and Clark, D.L., 1999. Llandoverian thelodont scales from the Burnt Bluff Group of Wisconsin and Michigan. Journal of Paleontology, 73(4): 667-676.
+
 Turner, S. and Nowland, G.S., 1995. Early Silurian microvertebrates of eastern Canada. Bulletin du Muséum national d'Histoire naturelle, Paris, 17: 513-529.
+
 Turner, S. and Peel, J.S., 1986. Silurian thelodont scales from North Greenland. 132: 79-88.
+
 Turner, S., Vergoossen, J.M.J. and Young, G.C., 1995. Fish microfossils from Irian Jaya. Memoirs of the Association of Australasian Palaeontologists, 18: 165-178.
+
 Valiukevicius, J., 2003. New Late Silurian to Middle Devonian acanthodians of the Timan-Pechora region. Acta Geologica Polonica, 53(3): 209-245.
+
 Valiukevicius, J. and Burrow, C.J., 2005. Diversity of tissues in acanthodians with Nostolepis−type histological structure. Acta Palaeontologica Polonica, 50(3): 635-649.
+
 Vergoossen, J.M.J., 2002. Late Silurian fish microfossils from Klinta and Rinnebäcks Bro (Scania, south Sweden), with remarks on the morphology of Nostolepis striata trunk scales. Scripta Geologica, 123: 71-92.
+
 Vergoossen, J.M.J., 2004. Fish microfossils from Ramsasa, site E, Scania, southern Sweden (mid Palaeozoic). Scripta Geologica: 1-70.
+
 Vladimirskaya, E.V. and Kulkov, N.P., 1999. Silurian brachiopod communities Tuva Paleocommunities Case Study from Silurian Lower Devonian. Press, 11: 545-548.
+
 Walcott, C.D., 1892. Preliminary notes on the discovery of a vertebrate fauna in Silurian (Ordovician) strata. Bulletin of the geological Society of America, 3(1): 153-172.
+
 Walton, E.K. and Oliver, G.J.H., 1991. Lower Palaeozoic - stratigraphy, Geology Scotland. Scottish Academic Press, Craig, G.Y.; Edinburgh, pp. 161-193.
+
 Wang, J.-Q., Wang, N.-Z., Zhang, G.-R., Wang, S.-T. and Zhu, M., 2002. Agnathans from Llandovery (Silurian) of Kalpin, Xinjiang, China. Vertebrata PalAsiatica, 40(4): 245-256.
+
 Wang, N.-Z., 1991. Two new Silurian galeaspids (jawless craniates) from Zhejiang Province, China, with a discussion of galeaspid-gnathostome relationships. In: M.M. Chang, Y.H. Liu and G.R. Zhang (Editors), Early Vertebrates and Related Problems of Evolutionary Biology. Science Press, Beijing, pp. 41-66.
+
 Wang, N. and Dong, Z.-Z., 1989. Discovery of Late Silurian microfossils of Agnatha and fishes from Yunnan, China. Acta Palaeontologica Sinica, 28(2): 192-206.
+
 Wang, N., Wang, J., Zhang, G. and Wang, S., 1998a. The first discovery of Silurian and Early Devonian acanthodians from Zoige and Tewo counties, west Qinling Mountains. Vertebrata PalAsiatica, 36(4): 268-281.
+
 Wang, N., Zhang, S., Wang, J. and Zhu, M., 1998b. Early Silurian chondrichthyan microfossils from Bachu County, Xinjiang, China. Vertebrata PalAsiatica, 36(4): 257-267.
+
 Wang, S.-T., Dong, Z.-Z. and Turner, S., 1986. Discovery of Middle Devonian Turiniidae (Thelodonti: Agnatha) from western Yunnan, China. Alcheringa, 10: 315-325.
+
 Wang, Y., Boucot, A.J., Rong, J.-y. and Yang, X.-c., 1987. Community Paleoecology as a geologic tool: The Chinese Ashgillian-Eifelian (latest Ordovician through early Middle Devonian) as an example. 211: 1-100.
+
 Webby, B.D., 1983. Lower Ordovician arthropod Trace Fossils from western New South Wales. Proceedings of the Linnean Society of New South Wales, 107(Sydney Linnean Society of New South Wales): 59-–74.
+
 Wellman, C.H. and Richardson, J.B., 1993. Terrestrial plant microfossils from Silurian inliers of the Midland Valley of Scotland. Palaeontology, 36: 155-193.
+
 Wilson, M.V.H. and Caldwell, M.W., 1998. The Furcacaudiformes: a new order of jawless vertebrates with thelodont scales, based on articulated Silurian and Devonian fossils from northern Canada. Journal of Vertebrate Paleontology, 18(1): 10-29.
+
 Wilson, M.V.H. and Soehn, K.L., 1990. Discovery of complete Silurian fish, oldest heterostracan tail has dermal fin "rays". Naturwissenschaften, 77: 328-330.
+
 Young, G.C., 1997. Ordovician microvertebrate remains from the Amadeus Basin, Central Australia. Journal of Vertebrate Paleontology, 17: 1-25.
+
 Young, G.C., 2009. An Ordovician vertebrate from western New South Wales, with comments on Cambro-Ordovician vertebrate distribution patterns. Alcheringa, 33(1): 79-89.
+
 Zhao, W.-J., Wang, N.-Z., Zhu, M. and Jia, L.-T., 2012. The microvertebrate remains and assemblage sequences across the Silurian/Devonian transition in West Qinling, China. Vertebrata Palasiatica, 50(4): 309-321.
+
 Zhao, W.-j., Wang, S.-t., Wang, J.-q. and Zhu, M., 2009. The subdivision and correlation of the Silurian fish-bearing strata and Caledonian movement in Kalpin and Bachu regions , the Tarim Basin, Xinjiang. Journal of stratigraphy, 33(3): 225-240.
+
 Zhao, W., 2010. The trip on tracing the Silurian fishes. China Nature (5): 66-70.
+
 Zhao, W. and Zhu, M., 2010. Siluro-Devonian vertebrate biostratigraphy and biogeography of China. Palaeoworld, 19(1-2): 4-26.
+
 Zhao, W. and Zhu, M., 2015. A review of Silurian fishes from Yunnan, China and related biostratigraphy. Palaeoworld, 24(1-2): 243-250.
+
 Zhao, W., Zhu, M., Gai, Z., Pan, Z., Cui, X. and Cai, J., 2018. A review of Silurian fishes from north-western Hunan, China and related biostratigraphy. Acta Geologica Polonica, 68(3): 475–486.
+
 Zhao, W., Zhu, M., Liu, S., Pan, Z. and Jia, L., 2016. A new look at the Silurian fish-bearing strata around the Shanmen Reservoir in Lixian, Hunan province. Journal of Stratigraphy, 40(4): 341-350.
+
 Zhu, M., Ahlberg, P.E., Pan, Z., Zhu, Y., Qiao, T., Zhao, W., Jia, L. and Lu, J., 2016. A Silurian maxillate placoderm illuminates jaw evolution. Science, 354(6310): 334-336.
+
 Zhu, M. and Gai, Z.K., 2007. Phylogenetic relationships of galeaspids (Agnatha) -FBC. Frontiers of Biology in China, 2(1): 1-19.
+
 Zhu, M. and Wang, J.-Q., 2000. Silurian vertebrate assemblages of China. Courier Forschungsinstitut Senckenberg, 223: 161-168.
+
 Zhu, M., Yu, X., Ahlberg, P.E., Choo, B., Lu, J., Qiao, T., Qu, Q., Zhao, W., Jia, L., Blom, H. and Zhu, Y.-A., 2013. A Silurian placoderm with osteichthyan-like marginal jaw bones. Nature, 502(7470): 188-193.
+
 Zhu, M., Zhao, W., Jia, L., Lu, J., Qiao, T. and Qu, Q., 2009. The oldest articulated osteichthyan reveals mosaic gnathostome characters. Nature, 458(7237): 469-474.
+
 Zhu, Y.A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, Y., Ahlberg, P.E. and Zhu, M., 2022. The oldest complete jawed vertebrates from the early Silurian of China. Nature, 609(7929): 954-958.
+
 Zhu, Y.A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm Silurolepis and insights into the dermal neck joint evolution. Royal Society Open Science, 6(9): 191181.
+
 Žigaitė, Ž., 2004. A new thelodont from Lower Silurian of Tuva and north-west Mongolia. Acta Universitatis Latviensis, 679: 158-165.
+
 Žigaitė, Ž., 2013. Endemic thelodonts (Vertebrata: Thelodonti) from the Lower Silurian of central Asia and southern Siberia. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 104(02): 123-143.
+
 Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Silurian thelodonts from central Asia  and southern Siberia. GFF, 128: 203-206.
+
 Žigaitė, Ž. and Goujet, D., 2012. New observations on the squamation patterns of articulated specimens of Loganellia scotica (Traquair, 1898) (Vertebrata: Thelodonti) from the Lower Silurian of Scotland. Geodiversitas, 34(2): 253-270.
+
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
+
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
