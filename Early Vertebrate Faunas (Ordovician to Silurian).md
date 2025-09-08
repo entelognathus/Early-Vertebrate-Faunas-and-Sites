@@ -95,6 +95,11 @@
 > - **Comments**: 
 > - To be added in Deepbone. 
 
+
+Bagan Formation, Timan-Pechora Region, Middle-Upper Ordovician,
+uppermost beds of the Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Middle-Upper Ordovician
+
+
 ## Sandbian to Hirnantian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
 > - **Age**: Sandbian.
@@ -207,11 +212,12 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 **Khoreiver and Muker Formation, Russia**
 > - **Age**: Katian to Hirnantian.
 > - **Taxa**: Thelodonti: *Sandivia augusta*, *Sandivia melnikovi*.
-> - **Locality and horizon**: Khoreiver and Muker Formation, Timan-Pechora, Russia.
+> - **Locality and horizon**: Khoreiver and Muker Formations, Timan-Pechora, Russia.
 > - **References**: (Karatajuté-Talimaa, 1997; Märss, 2019; Märss and Karatajūtē-Talimaa, 2002; Sansom and Elliott, 2003)
 > - **Comments**: The post-Sandbian record sees the appearance of a number of thelodont taxa (*Sandivia* and *Stroinolepis*) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
+> - Märss and Karatajūtē-Talimaa, 2002: "The first definite Ordovician thelodonts, *Sandivia melnikovi* Karatajūtē-Talimaa, 1997 and *S. angusta* Karatajūtē-Talimaa, 1997, have been described from the **Bagan Formation**, Middle-Upper Ordovician, and Muker and Khoreiver formations, Upper Ordovician, from 14 bore core sections of Timan-Pechora Region by Karatajūtē-Talimaa (1997)."
 
-**Stronaya Formation, Russia**
+**Strojnaya Formation, Russia**
 > - **Age**: Hirnantian.
 > - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
 > - **Locality and horizon**: Strojnaya Formation, Strojnaya River, October Revolution Island, Russia.
@@ -251,7 +257,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 
 2) **Elegest Formation, Tuva, Russia**
 > - **Age**: Rhuddanian to Aeronian (Alash and Kyzyl-Tchiraa Regional Stages).
-> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia sibirica, Talimaalepis kadvoiensis.
+> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica, Talimaalepis kadvoiensis.
 Acanthodii: Tchunacanthus obruchevi.
 > - **Locality and horizon**: Alash and Kyzyl-Tchiraa (Charaa) Horizon, Elegest Formation, Kyzyl-Tchiraa, Tuva, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
@@ -375,8 +381,7 @@ Unknown: Tesakoviaspis concentrica.
 
 
 **The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
-> Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley 
-formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
+> Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
 > Loganellia aldridgei, another L. scotica-type loganelliid.
 > 
 
@@ -1001,6 +1006,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
