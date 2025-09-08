@@ -340,89 +340,54 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
 > - **Comments**: 
 
-12) **Golomyannyj Formation, Severnaya Zemlya Archipelago, Russia** 12, 17
+12) **Golomyannyj Formation, Severnaya Zemlya Archipelago, Russia** 12, 17, 19
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia matura*, *Loganellia sibirica*, *Paralogania klubovi*.
-> - **Locality and horizon**: Golomyannyj Formation, 1) Srednii Island, Sedova Archipelago; 2) Pioneer Island, Severnaya Zemlya Archipelago, Russia.
+> - **Locality and horizon**: Golomyannyj Formation, 1) Srednii Island, Sedova Archipelago; 2) Pioneer Island; 3) Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Männik et al., 2002; Männik et al., 2009; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: 
 
-13) **Raasokha Formation, Russia**
+13) **Raasokha Formation?, Russia** 13
 > - **Age**: Aeronian to Telychian. 
-> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *scotica*.
+> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *scotica*. 
 > - **Locality and horizon**: Raasokha Formation?, Angara-Ilim, Irkutsk Territory, Russia.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999)
+> - **Comments**: This locality and horizon should be wrong.
+
+14) **Raasokha and Talikit Formations, Russia** 14 
+> - **Age**: Aeronian to Telychian (Moyerocanian, Agidyan, and Khaastyrian Regional Stages).
+> - **Taxa**: *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*, Loganellia sp. indet., *Talimaalepis kadvoiensis*.
+> - **Locality and horizon**: Raasokha and Talikit Formations, Ilim District, Irkutsk Territory, Russia.
+> - **References**:(Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-13. Angara-Ilim Region
-Stratigraphy/Location. Raasokha Formation?/ Angara-Ilim, Irkutsk Territory, Russia.
-Age. Llandovery (Telychian and Aeronian).
-Environment. ?
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. scotica.
-References. (12), (53), (66), (67), (77), (78)(Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999)
-
-
-10. Schoolcraft County
-Stratigraphy/Location. Byron Formation, Burnt Bluff Group/ Schoolcraft County, Michigan, USA.
-Age. Llandovery (Aeronian).
-Environment. BA1
-Taxa
-Thelodonti: Zuegelepis potanus.
-References. (70)(Turner et al., 1999)
-
-14. Ilim District
-Stratigraphy/Location. Raasokha and Talikit Formations/ Ilim District, Russia.
-Age. Llandovery (Aeronian–Telychian), Moyerocanian, Agidyan, and Khaastyrian Regional Stages.
-Environment. BA1–3
-Taxa
-Thelodonti: Angaralepis moskalenkoae, Loganellia asiatica, Loganellia sibirica, Loganellia sp. indet., Talimaalepis kadvoiensis.
-References. (59), (61), (62)(Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
-15. Kochumdek District
-Stratigraphy/Location. Kulinna, Kochumdek, and Razvilka Formations/ Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
-Age. Llandovery (Telychian and Aeronian), Khaastyrian, Moyerocanian and Agidyan Regional Stages.
-Environment. BA0–1
-Taxa
-Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia asiatica, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica, Loganellia sp. indet.
-References. (53), (59), (62), (66), (67), (68), (77), (78), (79)(Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
-
-16. Niuya-Beresovo District
-Stratigraphy/Location. Utakan Formations/ Niuya-Beresovo District, Russia.
-Age. Llandovery (Aeronian–Telychian), Agidyan Regional Stage.
-Environment. BA0–1
-Taxa
-Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (53), (59), (62), (66), (67), (68)(Aldridge et al., 1996; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
-
-18. Shropshire
-Stratigraphy/Location. Minsterley, Purple Shales, and Venusbank Formation/ Shropshire, UK.
-Age. Llandovery (Aeronian and Telychian).
-Environment. BA3–
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (12), (53), (66), (67), (68), (80), (81)(Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Karatajūtē-Talimaa, 2002; Märss and Männik, 2013; Märss and Miller, 2004; Sepkoski, 1998; Turner, 2000)
-
-
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+15) **Kulinna, Kochumdek, and Razvilka Formations, Russia** 15
+> - **Age**: Aeronian to Telychian (Khaastyrian, Moyerocanian and Agidyan Regional Stages).
+> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia asiatica, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica, Loganellia sp. indet.
+> - **Locality and horizon**: Kulinna, Kochumdek, and Razvilka Formations, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
+> - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+16) **Utakan Formation, Niuya-Beresovo District, Russia**
+> - **Age**: Aeronian to Telychian (Agidyan Regional Stage).
+> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, Russia.
+> - **References**: (Aldridge et al., 1996; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+17) **Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK** 18
+> - **Age**: Aeronian to Telychian.
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK.
+> - **References**:(Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Karatajūtē-Talimaa, 2002; Märss and Männik, 2013; Märss and Miller, 2004; Sepkoski, 1998; Turner, 2000)
+> - **Comments**: The *Loganellia aldridgei* Zone, late Aeronian to middle Telychian.
+> - Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
+
+18) **Byron Formation, Michigan, USA** 10
+> - **Age**: Aeronian.
+> - **Taxa**:Thelodonti: Zuegelepis potanus.
+> - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
+> - **References**:(Turner et al., 1999)
 > - **Comments**: 
 
 **Formation**
@@ -442,7 +407,6 @@ References. (12), (53), (66), (67), (68), (80), (81)(Aldridge et al., 1996; Bouc
 
 
 **The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
-> Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
 > Loganellia aldridgei, another L. scotica-type loganelliid.
 > 
 
@@ -1067,6 +1031,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
