@@ -242,14 +242,14 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 
 ## Llandovery
 
-**Melichan Formation, Russia**
+1) **Melichan Formation, Russia**
 > - **Age**:Rhuddanian (Khaastyrian, Moyerocanian, and Agidyan Regional Stages).
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*.
 > - **Locality and horizon**: Melichan Formation, Niuya-Beresovo District, Russia.
 > - **References**: (Karatajuté-Talimaa and Smith, 2003; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:
 
-**Elegest Formation, Tuva, Russia**
+2) **Elegest Formation, Tuva, Russia**
 > - **Age**: Rhuddanian to Aeronian (Alash and Kyzyl-Tchiraa Regional Stages).
 > - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia sibirica, Talimaalepis kadvoiensis.
 Acanthodii: Tchunacanthus obruchevi.
@@ -257,7 +257,7 @@ Acanthodii: Tchunacanthus obruchevi.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-**Moyerochan Formation, Russia**
+3) **Moyerochan Formation, Russia**
 > - **Age**: Rhuddanian to Aeronian.
 > - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia asiatica, Loganellia sibirica.
 Acanthodii: Lenacanthus priscus, Tchunacanthus obruchevi.
@@ -267,74 +267,74 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**: (Aldridge et al., 1996; Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sennikov et al., 2015; Sepkoski, 1998)
 > - **Comments**:
 >
-**Clemville Formation, Quebec, Canada**
+4) **Clemville Formation, Quebec, Canada**
 > - **Age**: Rhuddanian to early Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Clemville Formation, Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
 > - **References**: (Turner and Nowland, 1995)
 > - **Comments**: 2m below the top of the Clemville Formation, Chaleurs Group. The *Valyalepis crista* Zone, Valyalepis crista; Loganellia scotica-type and L. sibirica-type thelodonts.
 
-**Hendricks Formation, Door County, Wisconsin, USA**
+5) **Hendricks Formation, Door County, Wisconsin, USA**
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Hendricks Formation, Door County, Wisconsin, USA.
 > - **References**: (Turner et al., 1999; Turner and Nowland, 1995)
 > - **Comments**: 
 
-**Hendricks Formation, Sturgeon Bay, Wisconsin, USA**
+6) **Hendricks Formation, Sturgeon Bay, Wisconsin, USA** 11
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: Zuegelepis potanus.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Sturgeon Bay, Wisconsin, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-**Hendricks Formation, Michigan, USA**
+7) **Hendricks Formation, Michigan, USA** 6
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Fayette State Park, Michigan, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-**Byron Formation, Michigan, USA.**
+8) **Byron Formation, Michigan, USA.** 10
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-**Upper Saelabonn Formation, Norway**
+9) **Upper Saelabonn Formation, Norway** 7
 > - **Age**: middle Aeronian.
 > - **Taxa**: Thelodonti: Loganellia cf. aldridgei.
 > - **Locality and horizon**: Upper Saelabonn Formation, Bjellum, Hadeland, Oslo, Norway.
 > - **References**: (Bremer et al., 2019)
 > - **Comments**: 
 
-**Jogeva Beds, Estonia.**
+10) **Jogeva Beds, Estonia.** 8
 > - **Age**: Aeronian (Raikkula Regional Stage).
 > - **Taxa**: Osteostraci: Kalanaspis delectabilis.
 > - **Locality and horizon**: Jogeva Beds, Kalana Quarry, Estonia.
 > - **References**: (Tinn and Märss, 2018)
 > - **Comments**: 
 
-**Rongxi Formation, Guizhou, China**
+11) **Rongxi Formation, Guizhou, China** 9
 > - **Age**: Late Aeronian.
 > - **Taxa**: Chondrichthyes: Fanjingshania renovate, Qianodus duplicis.
 > - **Locality and horizon**: Rongxi Formation, Shiqian–Tunping section at Leijiatun Village, Guizhou Province, China.
 > - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
 > - **Comments**: 
 
-**Golomyannyj Formation, Russia**
+12) **Golomyannyj Formation, Russia** 12
 > - **Age**: Aeronian.
-> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia matura, Loganellia sibirica.
+> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia matura*, *Loganellia sibirica*.
 > - **Locality and horizon**: Golomyannyj Formation, Srednii Island, Sedova Archipelago, Russia.
 > - **References**: (Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+13) **Raasokha Formation, Russia**
+> - **Age**: Aeronian to Telychian. 
+> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *scotica*.
+> - **Locality and horizon**: Raasokha Formation?, Angara-Ilim, Irkutsk Territory, Russia.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999)
 > - **Comments**: 
 
 **Formation**
@@ -1001,6 +1001,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
