@@ -95,9 +95,20 @@
 > - **Comments**: 
 > - To be added in Deepbone. 
 
+**Bagan Formation, Timan-Pechora Region, Russian**
+> - **Age**: Late Darriwilian to Early Sandbian.
+> - **Taxa**: Thelodonti: *Sandivia augusta*, *Sandivia melnikovi*.
+> - **Locality and horizon**: Bagan Formation, Timan-Pechora Region, Russia,
+> - **References**: (Karatajuté-Talimaa, 1997; Märss and Karatajūtē-Talimaa, 2002)
+> - **Comments**: The earliest record of thelodonts (Middle-Late Ordovician).
+> - 
 
-Bagan Formation, Timan-Pechora Region, Middle-Upper Ordovician,
-uppermost beds of the Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Middle-Upper Ordovician
+**Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Late Darriwilian to Early Sandbian.
+> - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
+> - **Locality and horizon**: uppermost beds of the Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Märss and Karatajūtē-Talimaa, 2002)
+> - **Comments**: Sample MF 49-7 (Middle-Late Ordovician). Thelodont finds occur between the two described conodont levels and their age is determined as Middle-Upper (sample MF 49-7) to Upper Ordovician (samples MF 49-9 up to MF 50-3).
 
 
 ## Sandbian to Hirnantian, Late Ordovician
@@ -202,14 +213,14 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **References**: (Gagnier et al., 1986; Gagnier, 1989; 1993a; Emig C, 2006; Gagnier, 1992; Pradel et al., 2007)
 > - **Comments**: 
 
-**Ozernaya Formation, Russia**
+**Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
 > - **Age**: Katian.
-> - **Taxa**: *Stroinolepis maenniki*.
+> - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
 > - **Locality and horizon**: Upper Ozernaya Formation, Strojnaya River, October Revolution Island, Russia.
-> - **References**: (Märss and Karatajūtē-Talimaa, 2002; Mnnik et al., 2009)
-> - **Comments**: 
+> - **References**: (Märss and Karatajūtē-Talimaa, 2002; Mannik et al., 2009)
+> - **Comments**: Sample MF 49-7. The latest age assignment follows Mannik et al. (2009).
 
-**Khoreiver and Muker Formation, Russia**
+**Khoreiver and Muker Formations, Timan-Pechora, Russia**
 > - **Age**: Katian to Hirnantian.
 > - **Taxa**: Thelodonti: *Sandivia augusta*, *Sandivia melnikovi*.
 > - **Locality and horizon**: Khoreiver and Muker Formations, Timan-Pechora, Russia.
@@ -217,7 +228,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: The post-Sandbian record sees the appearance of a number of thelodont taxa (*Sandivia* and *Stroinolepis*) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
 > - Märss and Karatajūtē-Talimaa, 2002: "The first definite Ordovician thelodonts, *Sandivia melnikovi* Karatajūtē-Talimaa, 1997 and *S. angusta* Karatajūtē-Talimaa, 1997, have been described from the **Bagan Formation**, Middle-Upper Ordovician, and Muker and Khoreiver formations, Upper Ordovician, from 14 bore core sections of Timan-Pechora Region by Karatajūtē-Talimaa (1997)."
 
-**Strojnaya Formation, Russia**
+**Strojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
 > - **Age**: Hirnantian.
 > - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
 > - **Locality and horizon**: Strojnaya Formation, Strojnaya River, October Revolution Island, Russia.
@@ -1006,6 +1017,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
