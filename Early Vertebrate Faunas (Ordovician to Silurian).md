@@ -1,9 +1,4 @@
 # Early Vertebrate Faunas and Sites Ordovician to Silurian
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
 
 # Ordovician
 ## Floian, Early Ordovician
@@ -67,7 +62,7 @@
 
 **Stokes Siltstone, Amadeus Basin, central Australia**
 > - **Age**: Late Darriwilian.
-> - **Taxa**: Arandaspida: *Sacabambaspis* sp. indet.; Astraspida: *Apedolepis tomlinsonae*; Unknown: *Areyongalepis oervigi* (shark-like scale), ?Chondrichthyes gen. et sp. indet.
+> - **Taxa**: Arandaspida: *Sacabambaspis* sp. indet.; *Apedolepis tomlinsonae*; Unknown: *Areyongalepis oervigi* (shark-like scale), ?Chondrichthyes gen. et sp. indet.
 > - **Locality and horizon**: Stokes Formation, Amadeus Basin (Areyonga Creek), Northern Territory, Australia.
 > - **References**: (Andreev et al., 2017; Boucot and Janis, 1983; Davies and Sansom, 2009; Davies et al., 2011; Sansom and Andreev, 2019; Sansom et al., 2013; Young, 1997; 2009 )
 > - **Comments**: 
@@ -1031,6 +1026,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
