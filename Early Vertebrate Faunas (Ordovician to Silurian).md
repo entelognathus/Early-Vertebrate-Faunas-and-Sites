@@ -68,12 +68,11 @@
 > - **Comments**: 
 
 **Mamyry Formation, Siberia, Russia**
-> - **Age**: Late Darriwilian.
+> - **Age**: Early Darriwilian.
 > - **Taxa**: Astraspida: *Kodinskaspis angarensis*.
 > - **Locality and horizon**: Mamyry Formation, Angara River, Irkutsk Basin of Siberia, Russia.
 > - **References**: (Dzik and Moskalenko, 2016)
-> - **Comments**:
-> - To be added in Deepbone. 
+> - **Comments**: Dzik and Moskalenko, 2016: According to Kanygin et al. (2010) the Mukteian stage of Siberia correlates in age with the upper part of the Baltic Kundan (earliest Llanvirn, early Darriwilian).
 
 **Sepulturas Formation, Argentina**
 > - **Age**: Late Darriwilian.
@@ -1026,6 +1025,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
