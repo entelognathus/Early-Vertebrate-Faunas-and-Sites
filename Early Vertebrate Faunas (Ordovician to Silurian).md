@@ -222,11 +222,14 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: 
 
 **Tchunia River, Russia**
-> - **Age**: Hirnantian to Llandovery (Silurian)
+> - **Age**: Late Katian, Late Ordovician to Telychian, Llandovery, Silurian.
 > - **Taxa**: *Tesakoviaspis concentrica*.
-> - **Locality and horizon**: Tchunia (Tchunku) River, Nizhniaya (Silurian of Russian Federation), Siberian Platform, Russia.
+> - **Locality and horizon**: Tchunia (Tchunku) River, Nizhniaya, Siberian Platform, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004)
-> - **Comments**: Speciemens to be added in Deepbone.
+> - **Comments**: Specimens to be added in Deepbone.
+> - The earliest representative is *Tesakoviaspis* sp. indet. (Caradoc, Nirunda Regional Stage) from the Ilim district (V1), Podkamennaya Tunguska river. Late Katian.
+> - Tesserae of *Tesakoviaspis* sp. 1 nov. were discovered in three separate localities, in the borings of Viliuj district (III7, III8) in the east part of the Tunguska syncline, and in the Middle Morkoka area, in Late Ordovician, Ashgill deposits. Hirnantian.
+> -  Two species - *Tesakoviaspis* sp. 2 nov. and *Tesakoviaspis concentrica* are peculiar to the Upper Llandoverian deposits (Khastyrian Regional Stage) of the Lower Silurian. Very small, but well preserved tesserae of *Tesakoviaspis* sp. 2 nov. were discovered in boring 142, depth 135 m in the Morkoka area, Viliuj district (III8). Telychian.
 
 **Soom Shale, South Africa**
 > - **Age**: Late Hirnantian.
@@ -1017,6 +1020,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
