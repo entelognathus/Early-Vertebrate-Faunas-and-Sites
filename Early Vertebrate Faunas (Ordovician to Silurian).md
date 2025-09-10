@@ -248,13 +248,6 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **References**: (Karatajuté-Talimaa and Smith, 2003; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-2) **Elegest Formation, Tuva, Russia**
-> - **Age**: Early Telychian.
-> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*, *Talimaalepis kadvoiensis*. Acanthodii: *Tchunacanthus obruchevi*.
-> - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia.
-> - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: Žigaitė, 2013: "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986). The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna. The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations. The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute˙-Talimaa & Ratanov 2002)."
-
 3) **Moyerochan Formation, Russia**
 > - **Age**: Rhuddanian to Aeronian.
 > - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*.
@@ -265,6 +258,81 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **References**: (Aldridge et al., 1996; Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sennikov et al., 2015; Sepkoski, 1998)
 > - **Comments**:
 >
+12) **Golomyannyj Formation, Severnaya Zemlya Archipelago, Russia** 12, 17, 19
+> - **Age**: Aeronian.
+> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia matura*, *Loganellia sibirica*, *Paralogania klubovi*.
+> - **Locality and horizon**: Golomyannyj Formation, 1) Srednii Island, Sedova Archipelago; 2) Pioneer Island; 3) Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Männik et al., 2002; Männik et al., 2009; Märss and Karatajūtē-Talimaa, 2002)
+> - **Comments**: 
+
+13) **Raasokha Formation?, Russia** 13
+> - **Age**: Aeronian to Telychian. 
+> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *scotica*. 
+> - **Locality and horizon**: Raasokha Formation?, Angara-Ilim, Irkutsk Territory, Russia.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999)
+> - **Comments**: This locality and horizon should be wrong.
+
+14) **Raasokha and Talikit Formations, Russia** 14 
+> - **Age**: Aeronian to Telychian (Moyerocanian, Agidyan, and Khaastyrian Regional Stages).
+> - **Taxa**: *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*, Loganellia sp. indet., *Talimaalepis kadvoiensis*.
+> - **Locality and horizon**: Raasokha and Talikit Formations, Ilim District, Irkutsk Territory, Russia.
+> - **References**:(Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: 
+
+15) **Kulinna, Kochumdek, and Razvilka Formations, Russia** 15
+> - **Age**: Aeronian to Telychian (Khaastyrian, Moyerocanian and Agidyan Regional Stages).
+> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia asiatica, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica, Loganellia sp. indet.
+> - **Locality and horizon**: Kulinna, Kochumdek, and Razvilka Formations, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
+> - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: 
+
+16) **Utakan Formation, Niuya-Beresovo District, East Siberia, Russia** 16
+> - **Age**: late middle Aeronian to Telychian (Agidyan Regional Stage).
+> - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia aldridgei*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *L. scotica*.
+> - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, East Siberia, Russia.
+> - **References**: (Aldridge et al., 1996; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: 
+
+22) **Balturino Formation, Russia** 24
+> - **Age**: Telychian (Moyerocanian, Khaastyrian, and Agidyan Regional Stages)
+> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
+> - Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
+> - Chondrichthyes: Mongolepis rozmani, Teslepis jucunda, Udalepis sp.
+> - **Locality and horizon**: Balturino Formation, Balturino District, Russia.
+> - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**:
+
+24) **Elegest Formation, Tuva, Russia** 28
+> - **Age**: Aeronian to Telychian
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
+Acanthodii: Tchunacanthus obruchevi.
+Chondrichthyes: Elegestolepis sp., Udalepis sp.
+> - **Locality and horizon**:Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation, Elegest and Kadvoi Localities, Tuva, Russia.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
+> - **Comments**:
+
+2) **Elegest Formation, Tuva, Russia**
+> - **Age**: Early Telychian.
+> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*, *Talimaalepis kadvoiensis*. Acanthodii: *Tchunacanthus obruchevi*.
+> - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia.
+> - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: Žigaitė, 2013: "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986). The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna. The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations. The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute˙-Talimaa & Ratanov 2002)."
+
+31) **Omnutakh Formation, Tururkhansk District, Russia**39
+> - **Age**: Telychian (Agidyan Regional Stage)
+> - **Taxa**: Thelodonti: Talimaalepis rimae.
+> - **Locality and horizon**:Omnutakh Formation, Tururkhansk District, Russia.
+> - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: 
+
+36) **Khutsynbulak Beds, Chargat Formation, Mongolia** 48
+> - **Age**: Telychian to Sheinwoodian (lhit Regional Stage)
+> - **Taxa**:Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
+Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
+> - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
+> - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
+> - **Comments**: 
+
 4) **Clemville Formation, Quebec, Canada**
 > - **Age**: Rhuddanian to early Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
@@ -321,40 +389,6 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
 > - **Comments**: 
 
-12) **Golomyannyj Formation, Severnaya Zemlya Archipelago, Russia** 12, 17, 19
-> - **Age**: Aeronian.
-> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia matura*, *Loganellia sibirica*, *Paralogania klubovi*.
-> - **Locality and horizon**: Golomyannyj Formation, 1) Srednii Island, Sedova Archipelago; 2) Pioneer Island; 3) Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-> - **References**: (Männik et al., 2002; Männik et al., 2009; Märss and Karatajūtē-Talimaa, 2002)
-> - **Comments**: 
-
-13) **Raasokha Formation?, Russia** 13
-> - **Age**: Aeronian to Telychian. 
-> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *scotica*. 
-> - **Locality and horizon**: Raasokha Formation?, Angara-Ilim, Irkutsk Territory, Russia.
-> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999)
-> - **Comments**: This locality and horizon should be wrong.
-
-14) **Raasokha and Talikit Formations, Russia** 14 
-> - **Age**: Aeronian to Telychian (Moyerocanian, Agidyan, and Khaastyrian Regional Stages).
-> - **Taxa**: *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*, Loganellia sp. indet., *Talimaalepis kadvoiensis*.
-> - **Locality and horizon**: Raasokha and Talikit Formations, Ilim District, Irkutsk Territory, Russia.
-> - **References**:(Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: 
-
-15) **Kulinna, Kochumdek, and Razvilka Formations, Russia** 15
-> - **Age**: Aeronian to Telychian (Khaastyrian, Moyerocanian and Agidyan Regional Stages).
-> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia asiatica, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica, Loganellia sp. indet.
-> - **Locality and horizon**: Kulinna, Kochumdek, and Razvilka Formations, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
-> - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: 
-
-16) **Utakan Formation, Niuya-Beresovo District, East Siberia, Russia** 16
-> - **Age**: late middle Aeronian to Telychian (Agidyan Regional Stage).
-> - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia aldridgei*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *L. scotica*.
-> - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, East Siberia, Russia.
-> - **References**: (Aldridge et al., 1996; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: 
 
 17) **Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK** 18
 > - **Age**: Aeronian to Telychian.
@@ -392,14 +426,6 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**:
 
-22) **Balturino Formation, Russia** 24
-> - **Age**: Telychian (Moyerocanian, Khaastyrian, and Agidyan Regional Stages)
-> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
-> - Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
-> - Chondrichthyes: Mongolepis rozmani, Teslepis jucunda, Udalepis sp.
-> - **Locality and horizon**: Balturino Formation, Balturino District, Russia.
-> - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**:
 
 23) **Killbride Formation, Ireland** 26
 > - **Age**: Telychian.
@@ -408,16 +434,7 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **References**:(Aldridge et al., 1996; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**: 
 
-24) **Elegest Formation, Tuva, Russia** 28
-> - **Age**: Aeronian to Telychian
-> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
-Acanthodii: Tchunacanthus obruchevi.
-Chondrichthyes: Elegestolepis sp., Udalepis sp.
-> - **Locality and horizon**:Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation, Elegest and Kadvoi Localities, Tuva, Russia.
-> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
-> - **Comments**:
-> - 
-25) **Lower Visby Formation/ Gotland, Sweden** 30
+25) **Lower Visby Formation, Gotland, Sweden** 30
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Lower Visby Formation, Gotland, Sweden.
@@ -458,13 +475,6 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
 > - **Comments**: 
 
-31) **Omnutakh Formation, Tururkhansk District, Russia**39
-> - **Age**: Telychian (Agidyan Regional Stage)
-> - **Taxa**: Thelodonti: Talimaalepis rimae.
-> - **Locality and horizon**:Omnutakh Formation, Tururkhansk District, Russia.
-> - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: 
-
 32) **Hauge Bjerge and Lafayette Bugt Formations, Greenland** 40
 > - **Age**: Telychian
 > - **Taxa**: Anaspida: Birkenia?.
@@ -493,14 +503,6 @@ Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 > - **Taxa**: Thelodonti: Archipelepis turbinata.
 > - **Locality and horizon**:Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
 > - **References**:(Boucot and Janis, 1983; Soehn et al., 2001)
-
-36) **Khutsynbulak Beds, Chargat Formation, Mongolia** 48
-> - **Age**: Telychian to Sheinwoodian (lhit Regional Stage)
-> - **Taxa**:Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
-Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
-> - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
-> - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
-> - **Comments**: 
 
 ##China
 
@@ -1242,6 +1244,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
