@@ -225,8 +225,8 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Age**: Hirnantian to Llandovery (Silurian)
 > - **Taxa**: *Tesakoviaspis concentrica*.
 > - **Locality and horizon**: Tchunia (Tchunku) River, Nizhniaya (Silurian of Russian Federation), Siberian Platform, Russia.
-> - **References**:
-> - **Comments**: 
+> - **References**: (Karatajute-Talimaa and Smith, 2004)
+> - **Comments**: Speciemens to be added in Deepbone.
 
 **Soom Shale, South Africa**
 > - **Age**: Late Hirnantian.
@@ -1017,6 +1017,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
