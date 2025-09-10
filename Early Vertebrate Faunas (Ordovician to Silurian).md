@@ -186,7 +186,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 
 **Niil Formation, Western Australia**
 > - **Age**: Katian.
-> - **Taxa**: Astraspida: *Richieichthys nibili*.
+> - **Taxa**: Astraspida: *Ritchieichthys nibili*.
 > - **Locality and horizon**: Nibil Formation, Subsurface Kidson 1 core, Western Australia.
 > - **References**:(Sansom et al., 2013)
 > - **Comments**:
@@ -1017,6 +1017,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
