@@ -472,11 +472,8 @@ Taxa
 Anaspida: Birkenia sp., Jamoytius kerwoodi.
 References. (12), (108), (113), (114)(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
 
-istrict 39
-Stratigraphy/Loca
-), (89), (90), (91), (117), (118), (119)(Andreev et al., 2020; Carroll et al., 2001; Gai et al., 2018; Jiang et al., 2009; Liu et al., 2019; Wang et al., 2002; Zhao et al., 2009)
-39. Tururkhansk
-References. (87 Dtion. Omnutakh Formation/ Tururkhansk District, Russia.
+39. Tururkhansk District
+Stratigraphy/Location. Omnutakh Formation/ Tururkhansk District, Russia.
 Age. Llandovery (Telychian, Agidyan Regional Stage).
 Environment. BA0–1
 Taxa
@@ -516,6 +513,7 @@ Environment. BA3
 Taxa
 Thelodonti: Archipelepis turbinata.
 References. (12), (127)(Boucot and Janis, 1983; Soehn et al., 2001)
+
 48. Mount Tchagartay 48
 Stratigraphy/Location. Khutsynbulak Beds, Chargat Formation/ Mount Tchagartay, Mongolia.
 Age. Llandovery (Telychian–Sheinwoodian, Salhit Regional Stage).
@@ -525,7 +523,7 @@ Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
 Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
 References. (62), (130), (131), (132)(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
 
-
+###China
 20. Qingshui Formation 20
 Stratigraphy/Location. Qingshui Formation/ Lixi Town, Wuning County, Jiangxi Province and Gumushan, Wuhan, Hubei Province, South China.
 Age. Llandovery (Lower Telychian).
@@ -1264,6 +1262,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
