@@ -459,101 +459,59 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Locality and horizon**: Reservoir Formation (Gutterford Burn Formation), North Esk Inlier, Pentland Hills, Midland Valley, Scotland.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Turner, 2000)
 
-**Ceratiocaris Bed, Kip Burn Formation, Scotland** 36
+30) **Ceratiocaris Bed, Kip Burn Formation, Scotland** 36
 > - **Age**:Telychian
 > - **Taxa**: Anaspida: Birkenia sp., Jamoytius kerwoodi.
 > - **Locality and horizon**: Ceratiocaris Bed, Kip Burn Formation, Shanks Castle, Logan Water, Lanarkshire, Midland Valley, Scotland.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+31) **Omnutakh Formation, Tururkhansk District, Russia**39
+> - **Age**: Telychian (Agidyan Regional Stage)
+> - **Taxa**: Thelodonti: Talimaalepis rimae.
+> - **Locality and horizon**:Omnutakh Formation, Tururkhansk District, Russia.
+> - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
-39. Tururkhansk District
-Stratigraphy/Location. Omnutakh Formation/ Tururkhansk District, Russia.
-Age. Llandovery (Telychian, Agidyan Regional Stage).
-Environment. BA0–1
-Taxa
-Thelodonti: Talimaalepis rimae.
-References. (59), (62)(Žigaitė, 2013; Zigaite and Blieck, 2006)
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+32) **Hauge Bjerge and Lafayette Bugt Formations, Greenland** 40
+> - **Age**: Telychian
+> - **Taxa**: Anaspida: Birkenia?.
+> - **Locality and horizon**: Kap Tyson Outcrop, Hauge Bjerge and Lafayette Bugt Formations, Peary Land Group, Washington Land, Greenland.
+> - **References**: (Blom et al., 2002; Pickerill and Harland, 1988)
 > - **Comments**: 
-40. Washington Land 40
-Stratigraphy/Location. Kap Tyson Outcrop, Hauge Bjerge and Lafayette Bugt Formations/ Peary Land Group, Washington Land, Greenland.
-Age. Llandovery (Telychian).
-Environment. BA1–
-Taxa
-Anaspida: Birkenia?.
-References. (107), (114)(Blom et al., 2002; Pickerill and Harland, 1988)
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+33) **Thors Fjord Member, Wulff Land Formation, Greenland** 42
+> - **Age**: Telychian
+> - **Taxa**: Thelodonti: Loganellia scotica.
+> - **Locality and horizon**: Thors Fjord Member, Wulff Land Formation, Wulff Land, Greenland.
+> - **References**:(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
 > - **Comments**: 
-42. Wulff Land 42
-Stratigraphy/Location. Thors Fjord Member, Wulff Land Formation/ Wulff Land, Greenland.
-Age. Llandovery (Telychian).
-Environment. BA1–
-Taxa
-Thelodonti: Loganellia scotica.
-References. (106), (107)(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-45. Avala Lake1 45
-Stratigraphy/Location. Road River and Whittaker Formations, Delorme Group/ Avalanche Lake, Mackenzie Mountains, Canada.
-Age. Llandovery (Telychian).
-Environment. BA2–4?
-Taxa
-Anaspida: Birkenia elegans.
+34) **Road River and Whittaker Formations, Canada** 45
+> - **Age**:Telychian
+> - **Taxa**: Anaspida: Birkenia elegans.
 Thelodonti: Archipelepis bifurcata, Archipelepis turbinata, Lanarkia sp. cf. horrida, Pezopallichthys ritchiei.
 Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
-References. (12), (114), (126), (127)(Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Locality and horizon**:Road River and Whittaker Formations, Delorme Group, Avalanche Lake, Mackenzie Mountains, Canada.
+> - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
 > - **Comments**: 
-47. Ellesmere Island 47
-Stratigraphy/Location. Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
-Age. Uppermost Telychian to Early Sheinwoodian.
-Environment. BA3
-Taxa
-Thelodonti: Archipelepis turbinata.
-References. (12), (127)(Boucot and Janis, 1983; Soehn et al., 2001)
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-48. Mount Tchagartay 48
-Stratigraphy/Location. Khutsynbulak Beds, Chargat Formation/ Mount Tchagartay, Mongolia.
-Age. Llandovery (Telychian–Sheinwoodian, Salhit Regional Stage).
-Environment. BA2–3?
-Taxa
-Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
+35) **Whittaker and Road River formations, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.** 47
+> - **Age**: Latest Telychian to Early Sheinwoodian.
+> - **Taxa**: Thelodonti: Archipelepis turbinata.
+> - **Locality and horizon**:Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
+> - **References**:(Boucot and Janis, 1983; Soehn et al., 2001)
+
+36) **Khutsynbulak Beds, Chargat Formation, Mongolia** 48
+> - **Age**: Telychian to Sheinwoodian (lhit Regional Stage)
+> - **Taxa**:Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
 Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
-References. (62), (130), (131), (132)(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
+> - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
+> - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
+> - **Comments**: 
 
 ##China
+
 20. Qingshui Formation 20
 Stratigraphy/Location. Qingshui Formation/ Lixi Town, Wuning County, Jiangxi Province and Gumushan, Wuhan, Hubei Province, South China.
 Age. Llandovery (Lower Telychian).
@@ -1292,6 +1250,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
