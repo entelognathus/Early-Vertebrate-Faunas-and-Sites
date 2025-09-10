@@ -118,7 +118,7 @@
 > - Age of Harding fish fauna: Sansom and Andreev (2019) referred it to as the the Sandbian or *late Sandbian*. Sansom and Smith (2005): middle Caradoc. Caradocian is traditionally divided into early, middle, and late portions, which are now more specifically defined by the Sandbian and Katian stages. 
 
 **Winnipeg Formation, USA**
-> - **Age**: Sandbian to Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Pteraspidomorpha: *Pycnaspis splendens*, *Pycnaspis cf. splendens*. Astraspida: *Astraspis desiderata*, *Eriptychius americanus*, *Eriptychius orvigi*,*Eriptychius* sp. indet.
 Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 > - **Locality and horizon**: Winnipeg Formation; 1) Bighorn Mountains, Northern Central Wyoming; 2) Shell Pine Unit No.1, Wibaux County, Williston Basin, Eastern Montana, USA; 3) Murphy E Poplar 1, Roosevelt County, Williston Basin, Eastern Montana, USA
@@ -126,21 +126,21 @@ Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 > - **Comments**:  South Piney (Darton, 1907; Ross, 1957; Sansom and Smith, 2005) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States; Icebox Shale (Darton, 1909; Ørvig, 1958) member of the Winnepeg Formation, South Dakota, Montana and Wyoming, United States
 
 **Lowville Formation, Canada**
-> - **Age**: Sandbian to Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp.
 > - **Locality and horizon**: Lowville Formation, Sand Point, Ontario, Canada.
 > - **References**: (Eliuk, 1973; Cameron and Mangion, 1977; Turner et al., 2004)
 > - **Comments**:
 
 **Gull River Formation, Canada**
-> - **Age**: Sandbian to Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis desiderata*, *Eriptychius* sp.; Thelodonti: *Larolepis darbyi*.
 > - **Locality and horizon**: Gull River Formation, St Joseph Island, Ontario, Canada.
 > - **References**: (Lamsdell et al., 2023; Lehtola, 1973; Sansom and Elliott, 2003; Sansom and Smith, 2005)
 > - **Comments**:
 >
 **Harding Formation, USA**
-> - **Age**: Sandbian to Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis desiderata*, *Astraspis* sp., *Eriptychius americanus*.
 Thelodonti: Indet.
 Chondrichthyes: *Canyonlepis smithae*, *Solinalepis levis*, *Tezakia hardingensis*, Indet.
@@ -150,35 +150,35 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: shark-like scales: *Skiichthys halsteadi* (Smith and Sansom 1997), *Tezakia hardingensis*, *Canyonlepis smithae* (Andreev et al., 2015) and mongolepid *Solinalepis levis* (Andreev et al., 2016a)
 
 **Viola limestone, USA**
-> - **Age**: Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Eriptychius americanus*.
 > - **Locality and horizon**: Viola Limestone, Arbuckle Mountains, Southern Oklahoma, USA.
 > - **References**: (Alberstadt, 1973; Amsden, 1983; Boucot and Janis, 1983; Gao et al., 1996; Ossian and Halseth, 1976; Sansom and Smith, 2005)
 > - **Comments**: (Ossian and Halseth, 1976)
 
 **Basal Trenton Group, Canada**
-> - **Age**: Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp.
 > - **Locality and horizon**: Basal Trenton beds, La Malbaie, on the north shore of the St. Lawrence River in Quebec, Canada.
 > - **References**: (Salad Hersi and Dix, 1999; Sinclair, 1958)
 > - **Comments**: 
 
 **Upper-most Pamelia Formation, Canada**
-> - **Age**: Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?
 > - **Locality and horizon**: Upper-most Pamelia Formation, Ouareau River, Quebec, Canada.
 > - **References**: (Eliuk, 1973; Salad Hersi and Dix, 1999)
 > - **Comments**: 
 
 **Lower Leray Formation–Lowville Formation, Canada**
-> - **Age**: Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?
 > - **Locality and horizon**: Lower Leray Formation–Lowville Formation, Pont-Rouge, Quebec, Canada.
 > - **References**: (Eliuk, 1973; Salad Hersi and Dix, 1999)
 > - **Comments**: 
 
 **Whitewood Formation, Canada**
-> - **Age**: Katian.
+> - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?; Pteraspidomorpha: *Pycnaspis* cf. *splendens*.
 > - **Locality and horizon**: Whitewood Formation, Bighorn Group, Sheep Mountain, Spearfish Canyon, Black Hills region, South Dakota, USA.
 > - **References**: (Boucot and Janis, 1983; Fahrenbach et al., 2017; Ørvig, 1958)
@@ -1017,6 +1017,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
