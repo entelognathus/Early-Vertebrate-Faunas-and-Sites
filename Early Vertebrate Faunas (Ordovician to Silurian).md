@@ -239,36 +239,28 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > -  Two species - *Tesakoviaspis* sp. 2 nov. and *Tesakoviaspis concentrica* are peculiar to the Upper Llandoverian deposits (Khastyrian Regional Stage) of the Lower Silurian. Very small, but well preserved tesserae of *Tesakoviaspis* sp. 2 nov. were discovered in boring 142, depth 135 m in the Morkoka area, Viliuj district (III8). Telychian.
 
 # Silurian
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
 ## Llandovery
 
-1) **Melichan Formation, Russia**
-> - **Age**:Rhuddanian (Khaastyrian, Moyerocanian, and Agidyan Regional Stages).
+1) **Melichan Formation, East Siberia, Russia**
+> - **Age**: Rhuddanian to early middle Aeronian.
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*.
-> - **Locality and horizon**: Melichan Formation, Niuya-Beresovo District, Russia.
+> - **Locality and horizon**: Melichan Formation, Niuya-Beresovo District, East Siberia, Russia.
 > - **References**: (Karatajuté-Talimaa and Smith, 2003; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**:
+> - **Comments**: 
 
 2) **Elegest Formation, Tuva, Russia**
-> - **Age**: Rhuddanian to Aeronian (Alash and Kyzyl-Tchiraa Regional Stages).
-> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica, Talimaalepis kadvoiensis.
-Acanthodii: Tchunacanthus obruchevi.
-> - **Locality and horizon**: Alash and Kyzyl-Tchiraa (Charaa) Horizon, Elegest Formation, Kyzyl-Tchiraa, Tuva, Russia.
+> - **Age**: Early Telychian.
+> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*, *Talimaalepis kadvoiensis*. Acanthodii: *Tchunacanthus obruchevi*.
+> - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: 
+> - **Comments**: Žigaitė, 2013: "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986). The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna. The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations. The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute˙-Talimaa & Ratanov 2002)."
 
 3) **Moyerochan Formation, Russia**
 > - **Age**: Rhuddanian to Aeronian.
-> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia asiatica, Loganellia sibirica.
-Acanthodii: Lenacanthus priscus, Tchunacanthus obruchevi.
-Chondrichthyes: Elegestolepis conica.
-Unknown: Tesakoviaspis concentrica.
+> - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*.
+Acanthodii: *Lenacanthus priscus*, *Tchunacanthus obruchevi*.
+Chondrichthyes: *Elegestolepis conica*.
+Unknown: *Tesakoviaspis concentrica*.
 > - **Locality and horizon**: Moyerochan Formation, Moyero River, Moyerocanian, Krasnoyarsk Territory, Russia.
 > - **References**: (Aldridge et al., 1996; Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sennikov et al., 2015; Sepkoski, 1998)
 > - **Comments**:
@@ -289,7 +281,7 @@ Unknown: Tesakoviaspis concentrica.
 
 6) **Hendricks Formation, Sturgeon Bay, Wisconsin, USA** 11
 > - **Age**: Aeronian.
-> - **Taxa**: Thelodonti: Zuegelepis potanus.
+> - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Sturgeon Bay, Wisconsin, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
@@ -310,14 +302,14 @@ Unknown: Tesakoviaspis concentrica.
 
 9) **Upper Saelabonn Formation, Norway** 7
 > - **Age**: middle Aeronian.
-> - **Taxa**: Thelodonti: Loganellia cf. aldridgei.
+> - **Taxa**: Thelodonti: *Loganellia* cf. *aldridgei*.
 > - **Locality and horizon**: Upper Saelabonn Formation, Bjellum, Hadeland, Oslo, Norway.
 > - **References**: (Bremer et al., 2019)
 > - **Comments**: 
 
 10) **Jogeva Beds, Estonia.** 8
 > - **Age**: Aeronian (Raikkula Regional Stage).
-> - **Taxa**: Osteostraci: Kalanaspis delectabilis.
+> - **Taxa**: Osteostraci: *Kalanaspis delectabilis*.
 > - **Locality and horizon**: Jogeva Beds, Kalana Quarry, Estonia.
 > - **References**: (Tinn and Märss, 2018)
 > - **Comments**: 
@@ -357,10 +349,10 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-16) **Utakan Formation, Niuya-Beresovo District, Russia** 16
-> - **Age**: Aeronian to Telychian (Agidyan Regional Stage).
-> - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-> - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, Russia.
+16) **Utakan Formation, Niuya-Beresovo District, East Siberia, Russia** 16
+> - **Age**: late middle Aeronian to Telychian (Agidyan Regional Stage).
+> - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia aldridgei*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *L. scotica*.
+> - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, East Siberia, Russia.
 > - **References**: (Aldridge et al., 1996; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
@@ -1250,6 +1242,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
