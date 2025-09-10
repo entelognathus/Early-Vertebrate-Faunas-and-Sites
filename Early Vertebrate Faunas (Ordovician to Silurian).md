@@ -379,99 +379,99 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**:(Turner et al., 1999)
 > - **Comments**: 
 
-21. Asker 21
-Stratigraphy/Location. Vik Formation/ Gjettum Station, Asker, Oslo, Norway.
-Age. Llandovery (Middle–Late Telychian).
-Environment. BA2–
-Taxa
-Thelodonti: Thelodus sp., Thelodus parvidens.
-References. (71), (85)(Bremer et al., 2019; Turner, 1986)
+19) **Vik Formation, Norway** 21
+> - **Age**: Middle–Late Telychian.
+> - **Taxa**: Thelodonti: Thelodus sp., Thelodus parvidens.
+> - **Locality and horizon**: Vik Formation, Gjettum Station, Asker, Oslo, Norway.
+> - **References**: (Bremer et al., 2019; Turner, 1986)
+> - **Comments**: 
 
-23. Baillie-Hamilton Island 23
-Stratigraphy/Location. Cape Phillips Formation/ Baillie-Hamilton Island, Nunavut, Canada.
-Age. Llandovery (Telychian).
-Environment. BA5
-Taxa
-Thelodonti: Loganellia scotica.
-References. (12), (93)(Boucot and Janis, 1983; Märss et al., 1997)
-24. Balturino District 24
-Stratigraphy/Location. Balturino Formation/ Balturino District, Russia.
-Age. Llandovery (Telychian), Moyerocanian, Khaastyrian, and Agidyan Regional Stages.
-Environment. BA1–2
-Taxa
-Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
-Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
-Chondrichthyes: Mongolepis rozmani, Teslepis jucunda, Udalepis sp.
-References. (53), (58), (59), (61), (62), (64)(Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
+20) **Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada** 23
+> - **Age**: Telychian
+> - **Taxa**: Thelodonti: Loganellia scotica.
+> - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
+> - **References**: (Boucot and Janis, 1983; Märss et al., 1997)
+> - **Comments**: 
 
-26. Coolin Lough 26
-Stratigraphy/ocation. Killbride Formation/ Coolin Lough, Ireland.
-Age. Llandovery (Telychian).
-Environment. BA0–1
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (66), (67), (68), (77)(Aldridge et al., 1996; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
+21) **Cape Phillips Formation, Devon Island, Nunavut, Canada** 27
+> - **Age**:Telychian
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Cape Phillips Formation, Cape Phillips, Devon Island, Nunavut, Canada.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
+> - **Comments**:
 
-27. Devon Island 27
-Stratigraphy/Location. Cape Phillips Formation/ Cape Phillips, Devon Island, Nunavut, Canada.
-Age. Llandovery (Telychian).
-Environment. BA5
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (12), (66), (67), (68), (77), (78)(Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
-28. Elegest and Kadvoi 28
-Stratigraphy/Location. Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation/ Elegest and Kadvoi Localities, Tuva, Russia.
-Age. Llandovery (Aeronian–Telychian).
-Environment. BA1–3?
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
+22) **Balturino Formation, Russia** 24
+> - **Age**: Telychian (Moyerocanian, Khaastyrian, and Agidyan Regional Stages)
+> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
+> - Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
+> - Chondrichthyes: Mongolepis rozmani, Teslepis jucunda, Udalepis sp.
+> - **Locality and horizon**: Balturino Formation, Balturino District, Russia.
+> - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**:
+
+23) **Killbride Formation, Ireland** 26
+> - **Age**: Telychian.
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Killbride Formation, Coolin Lough, Ireland.
+> - **References**:(Aldridge et al., 1996; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
+> - **Comments**: 
+
+24) **Elegest Formation, Tuva, Russia** 28
+> - **Age**: Aeronian to Telychian
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
 Acanthodii: Tchunacanthus obruchevi.
 Chondrichthyes: Elegestolepis sp., Udalepis sp.
-References. (12), (62), (63), (64), (66), (67), (68), (77), (78)(Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
-30. Gotland1 30
-Stratigraphy/Location. Lower Visby Formation/ Gotland, Sweden.
-Age. Llandovery (Telychian).
-Environment. BA4–5
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (66), (67), (68), (103), (104)(Aldridge et al., 1996; Bremer, 2017; Calner et al., 2004; Märss and Miller, 2004; Sepkoski, 1998)
-31. Gullett Quarry 31
-Stratigraphy/Location. Wych Formation/ Gullett Quarry, Worcestershire, UK.
-Age. Llandovery (Telychian).
-Environment. BA4
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (12), (66), (67), (68)(Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Sepkoski, 1998)
-32. Hall Land1 32
-Stratigraphy/Location. Lafayette Bugt Formation/ Hall Land, Greenland.
-Age. Llandovery (Telychian).
-Environment. BA1–
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (12), (66), (67), (68), (105), (106), (107)(Aldridge et al., 1996; Blom, 1999; Boucot and Janis, 1983; Märss and Miller, 2004; Pickerill and Harland, 1988; Sepkoski, 1998; Žigaitė and Goujet, 2012)
-33. Lesmahagow 33
-Stratigraphy/Location. Kip Burn and Patrick Burn Formation, Priesthill Group/ Lesmahagow, Lanarkshire, Midland Valley, Scotland.
-Age. Llandovery (Telychian).
-Environment. BA2–
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (66), (67), (77), (105), (106), (108), (109)(Aldridge et al., 1996; Blom, 1999; Märss and Miller, 2004; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898b; Žigaitė and Goujet, 2012)
-34. North Esk Inlier 34
-Stratigraphy/Location. Reservoir Formation (Gutterford Burn Formation)/ North Esk Inlier, Pentland Hills, Midland Valley, Scotland.
-Age. Llandovery (Telychian).
-Environment. BA0
-Taxa
-Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
-References. (12), (66), (67), (68), (77), (80)(Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Turner, 2000)
+> - **Locality and horizon**:Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation, Elegest and Kadvoi Localities, Tuva, Russia.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
+> - **Comments**:
+> - 
+25) **Lower Visby Formation/ Gotland, Sweden** 30
+> - **Age**:Telychian
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Lower Visby Formation, Gotland, Sweden.
+> - **References**: (Aldridge et al., 1996; Bremer, 2017; Calner et al., 2004; Märss and Miller, 2004; Sepkoski, 1998)
+> - **Comments**:
+> - 
+26) **Wych Formation, UK** 31
+> - **Age**:Telychian
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Wych Formation, Gullett Quarry, Worcestershire, UK.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Sepkoski, 1998)
+> - **Comments**: 
 
-36. Shanks Castle 36
-Stratigraphy/Location. Ceratiocaris Bed, Kip Burn Formation/ Shanks Castle, Logan Water, Lanarkshire, Midland Valley, Scotland.
-Age. Llandovery (Telychian).
-Environment. BA0–1
-Taxa
-Anaspida: Birkenia sp., Jamoytius kerwoodi.
-References. (12), (108), (113), (114)(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
+27) **Lafayette Bugt Formation, Greenland** 32
+> - **Age**:Telychian
+> - **Taxa**:Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**:Lafayette Bugt Formation, Hall Land, Greenland.
+> - **References**:(Aldridge et al., 1996; Blom, 1999; Boucot and Janis, 1983; Märss and Miller, 2004; Pickerill and Harland, 1988; Sepkoski, 1998; Žigaitė and Goujet, 2012)
+> - **Comments**:
 
+28) **Kip Burn and Patrick Burn Formation, Scotland** 33
+> - **Age**:Telychian
+> - **Taxa**:Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Kip Burn and Patrick Burn Formation, Priesthill Group, Lesmahagow, Lanarkshire, Midland Valley, Scotland.
+> - **References**:(Aldridge et al., 1996; Blom, 1999; Märss and Miller, 2004; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898b; Žigaitė and Goujet, 2012)
+> - **Comments**:
+
+29) **Reservoir Formation, Scotland** 34
+> - **Age**:Telychian
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+> - **Locality and horizon**: Reservoir Formation (Gutterford Burn Formation), North Esk Inlier, Pentland Hills, Midland Valley, Scotland.
+> - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Turner, 2000)
+
+**Ceratiocaris Bed, Kip Burn Formation, Scotland** 36
+> - **Age**:Telychian
+> - **Taxa**: Anaspida: Birkenia sp., Jamoytius kerwoodi.
+> - **Locality and horizon**: Ceratiocaris Bed, Kip Burn Formation, Shanks Castle, Logan Water, Lanarkshire, Midland Valley, Scotland.
+> - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 39. Tururkhansk District
 Stratigraphy/Location. Omnutakh Formation/ Tururkhansk District, Russia.
 Age. Llandovery (Telychian, Agidyan Regional Stage).
@@ -480,6 +480,12 @@ Taxa
 Thelodonti: Talimaalepis rimae.
 References. (59), (62)(Žigaitė, 2013; Zigaite and Blieck, 2006)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 40. Washington Land 40
 Stratigraphy/Location. Kap Tyson Outcrop, Hauge Bjerge and Lafayette Bugt Formations/ Peary Land Group, Washington Land, Greenland.
 Age. Llandovery (Telychian).
@@ -488,6 +494,12 @@ Taxa
 Anaspida: Birkenia?.
 References. (107), (114)(Blom et al., 2002; Pickerill and Harland, 1988)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 42. Wulff Land 42
 Stratigraphy/Location. Thors Fjord Member, Wulff Land Formation/ Wulff Land, Greenland.
 Age. Llandovery (Telychian).
@@ -496,6 +508,12 @@ Taxa
 Thelodonti: Loganellia scotica.
 References. (106), (107)(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 45. Avala Lake1 45
 Stratigraphy/Location. Road River and Whittaker Formations, Delorme Group/ Avalanche Lake, Mackenzie Mountains, Canada.
 Age. Llandovery (Telychian).
@@ -506,6 +524,12 @@ Thelodonti: Archipelepis bifurcata, Archipelepis turbinata, Lanarkia sp. cf. hor
 Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 References. (12), (114), (126), (127)(Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 47. Ellesmere Island 47
 Stratigraphy/Location. Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
 Age. Uppermost Telychian to Early Sheinwoodian.
@@ -514,6 +538,12 @@ Taxa
 Thelodonti: Archipelepis turbinata.
 References. (12), (127)(Boucot and Janis, 1983; Soehn et al., 2001)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 48. Mount Tchagartay 48
 Stratigraphy/Location. Khutsynbulak Beds, Chargat Formation/ Mount Tchagartay, Mongolia.
 Age. Llandovery (Telychian–Sheinwoodian, Salhit Regional Stage).
@@ -523,7 +553,7 @@ Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
 Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
 References. (62), (130), (131), (132)(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
 
-###China
+##China
 20. Qingshui Formation 20
 Stratigraphy/Location. Qingshui Formation/ Lixi Town, Wuning County, Jiangxi Province and Gumushan, Wuhan, Hubei Province, South China.
 Age. Llandovery (Lower Telychian).
@@ -1262,6 +1292,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
