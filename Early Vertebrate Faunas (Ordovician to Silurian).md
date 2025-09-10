@@ -119,7 +119,7 @@
 
 **Winnipeg Formation, USA**
 > - **Age**: Sandbian to Katian.
-> - **Taxa**: Pteraspidomorpha: *Pycnaspis splendens*, *Pycnaspis cf. splendens*. Astraspida: *Astraspis desiderata*, *Eriptychius americanus*, *Eriptychius* sp. indet.
+> - **Taxa**: Pteraspidomorpha: *Pycnaspis splendens*, *Pycnaspis cf. splendens*. Astraspida: *Astraspis desiderata*, *Eriptychius americanus*, *Eriptychius orvigi*,*Eriptychius* sp. indet.
 Unknown: *Eleochera glossa*, Shark-like scalemorph, *Skiichthys halsteadi*.
 > - **Locality and horizon**: Winnipeg Formation; 1) Bighorn Mountains, Northern Central Wyoming; 2) Shell Pine Unit No.1, Wibaux County, Williston Basin, Eastern Montana, USA; 3) Murphy E Poplar 1, Roosevelt County, Williston Basin, Eastern Montana, USA
 > - **References**: (Boucot and Janis, 1983; Fahrenbach et al., 2017; Houée et al., 2023; Ørvig, 1958; Ross, 1957; Sansom and Andreev, 2019; Sansom and Smith, 2005; Zhu et al., 2022)
@@ -1017,6 +1017,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
