@@ -95,15 +95,13 @@
 > - **Locality and horizon**: Bagan Formation, Timan-Pechora Region, Russia,
 > - **References**: (Karatajuté-Talimaa, 1997; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: The earliest record of thelodonts (Middle-Late Ordovician).
-> - 
 
 **Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
 > - **Age**: Late Darriwilian to Early Sandbian.
 > - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
 > - **Locality and horizon**: uppermost beds of the Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Märss and Karatajūtē-Talimaa, 2002)
-> - **Comments**: Sample MF 49-7 (Middle-Late Ordovician). Thelodont finds occur between the two described conodont levels and their age is determined as Middle-Upper (sample MF 49-7) to Upper Ordovician (samples MF 49-9 up to MF 50-3).
-
+> - **Comments**: Sample MF 49-7 (Middle-Late Ordovician). Thelodont finds occur between the two described conodont levels and their age is determined as Middle-Upper (sample MF 49-7) to Upper Ordovician (samples MF 49-9 up to MF 50-3).
 
 ## Sandbian to Hirnantian, Late Ordovician
 **Carmichael Sandstone, Amadeus Basin, central Australia**
@@ -1025,6 +1023,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
