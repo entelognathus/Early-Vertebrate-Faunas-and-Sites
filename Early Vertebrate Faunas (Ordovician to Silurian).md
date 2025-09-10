@@ -357,7 +357,7 @@ Unknown: Tesakoviaspis concentrica.
 > - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-16) **Utakan Formation, Niuya-Beresovo District, Russia**
+16) **Utakan Formation, Niuya-Beresovo District, Russia** 16
 > - **Age**: Aeronian to Telychian (Agidyan Regional Stage).
 > - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, Russia.
@@ -378,6 +378,227 @@ Unknown: Tesakoviaspis concentrica.
 > - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
 > - **References**:(Turner et al., 1999)
 > - **Comments**: 
+
+20. Qingshui Formation 20
+Stratigraphy/Location. Qingshui Formation/ Lixi Town, Wuning County, Jiangxi Province and Gumushan, Wuhan, Hubei Province, South China.
+Age. Llandovery (Lower Telychian).
+Environment. BA1
+Taxa
+Galeaspida: Jiangxialepis retrospina.
+Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet Fin spine morphology2, Indet Fin spine morphology3, Neosinacanshus planispinatus, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangenis, Tarimacanthus bachuensis.
+References. (82), (83), (84)(Liu et al., 2023; Liu et al., 2024; Shan et al., 2023)
+21. Asker 21
+Stratigraphy/Location. Vik Formation/ Gjettum Station, Asker, Oslo, Norway.
+Age. Llandovery (Middle–Late Telychian).
+Environment. BA2–
+Taxa
+Thelodonti: Thelodus sp., Thelodus parvidens.
+References. (71), (85)(Bremer et al., 2019; Turner, 1986)
+22. Bachu-Kalpin 22
+Stratigraphy/Location. Tataaiertage (Tataertag), Yimugantawu and Kezirtag Formations/ Bachu-Kalpin, Tarim Platform, Xinjiang, China.
+Age. Llandovery (Telychian).
+Environment. BA0–2
+Taxa
+Galeaspida: Changxingaspis nianzhongi, Kapinolepis taimensis, Hanyangaspis sp., Jiangxialepis retrospina, Jiaoyu imperfectus, Nanjianaspis kalpinensis, Nanjianaspis sp. cf. zhangi, Pseudoduyunaspis bachuensis.
+Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus planispinatus, Neosinacanthus sp., Neosinacanthus sp.2, Rongolepis cosmetica, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangensis, Tarimacanthus bachuensis, Xinjiangichthys pluridentatus, Xinjiangichthys tarimensis.
+References. (75), (83), (86), (87), (88), (89), (90), (91), (92)(Andreev et al., 2020; Jiang et al., 2009; Li et al., 2024; Liu et al., 2023; Liu et al., 2019; Lu et al., 2007; Wang et al., 2002; Wang et al., 1998b; Zhao and Zhu, 2010)
+23. Baillie-Hamilton Island 23
+Stratigraphy/Location. Cape Phillips Formation/ Baillie-Hamilton Island, Nunavut, Canada.
+Age. Llandovery (Telychian).
+Environment. BA5
+Taxa
+Thelodonti: Loganellia scotica.
+References. (12), (93)(Boucot and Janis, 1983; Märss et al., 1997)
+24. Balturino District 24
+Stratigraphy/Location. Balturino Formation/ Balturino District, Russia.
+Age. Llandovery (Telychian), Moyerocanian, Khaastyrian, and Agidyan Regional Stages.
+Environment. BA1–2
+Taxa
+Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
+Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
+Chondrichthyes: Mongolepis rozmani, Teslepis jucunda, Udalepis sp.
+References. (53), (58), (59), (61), (62), (64)(Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
+25. Chongqing 25
+Stratigraphy/Location. Upper Xiushan and Huixingshao Formations/ Chongqing, Hunan, China.
+Age. Llandovery (Telychian).
+Environment. BA0–3
+Taxa
+Galeaspida: Eugaleaspis xiushanensis, Miaojiaaspis dichotomus, Yongdongaspis littoralis.
+Chondrichthyes: Chenolepis asketa, Rongolepis cosmetica, Shenacanthus vermiformi, Shiqianolepis hollandi, Sinacanthus wuchangenis, Xinjiangichthys pluridentatus, Xinjiangichthys sp.
+Placodermi: Xiushanosteus mirabilis.
+References. (26), (75), (94), (95), (96), (97), (98), (99), (100)(Chen et al., 2022; Chen et al., 2024a; Holland and Bassett, 2002; Li et al., 2021; Rong et al., 2019; Wang et al., 1986; Zhao and Zhu, 2010; Zhu and Gai, 2007; Zhu et al., 2022)
+26. Coolin Lough 26
+Stratigraphy/Location. Killbride Formation/ Coolin Lough, Ireland.
+Age. Llandovery (Telychian).
+Environment. BA0–1
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (66), (67), (68), (77)(Aldridge et al., 1996; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
+27. Devon Island 27
+Stratigraphy/Location. Cape Phillips Formation/ Cape Phillips, Devon Island, Nunavut, Canada.
+Age. Llandovery (Telychian).
+Environment. BA5
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (12), (66), (67), (68), (77), (78)(Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
+28. Elegest and Kadvoi 28
+Stratigraphy/Location. Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation/ Elegest and Kadvoi Localities, Tuva, Russia.
+Age. Llandovery (Aeronian–Telychian).
+Environment. BA1–3?
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
+Acanthodii: Tchunacanthus obruchevi.
+Chondrichthyes: Elegestolepis sp., Udalepis sp.
+References. (12), (62), (63), (64), (66), (67), (68), (77), (78)(Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
+29. Fentou Formation 29
+Stratigraphy/Location. Fentou Formation/ Hubei, Anhui, and Jiangsu Provinces, China.
+Age. Llandovery (Telychian).
+Environment. BA1–2
+Taxa
+Galeaspida: Geraspis rara, Hanyangaspis chaohuensis, Hanyangaspis pani, Hanyangaspis sp., Latirostraspis caohuensis.
+Chondrichthyes: Neosinacanshus planispinatus, Neosinacanshus sp.2, Sinacanthus sp., Sinacanthus triangulates.
+References. (12), (75), (97), (101), (102)(Boucot and Janis, 1983; Pan, 1986; Pan and Chen, 1993; Zhao and Zhu, 2010; Zhu and Gai, 2007)
+30. Gotland1 30
+Stratigraphy/Location. Lower Visby Formation/ Gotland, Sweden.
+Age. Llandovery (Telychian).
+Environment. BA4–5
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (66), (67), (68), (103), (104)(Aldridge et al., 1996; Bremer, 2017; Calner et al., 2004; Märss and Miller, 2004; Sepkoski, 1998)
+31. Gullett Quarry 31
+Stratigraphy/Location. Wych Formation/ Gullett Quarry, Worcestershire, UK.
+Age. Llandovery (Telychian).
+Environment. BA4
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (12), (66), (67), (68)(Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Sepkoski, 1998)
+32. Hall Land1 32
+Stratigraphy/Location. Lafayette Bugt Formation/ Hall Land, Greenland.
+Age. Llandovery (Telychian).
+Environment. BA1–
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (12), (66), (67), (68), (105), (106), (107)(Aldridge et al., 1996; Blom, 1999; Boucot and Janis, 1983; Märss and Miller, 2004; Pickerill and Harland, 1988; Sepkoski, 1998; Žigaitė and Goujet, 2012)
+33. Lesmahagow 33
+Stratigraphy/Location. Kip Burn and Patrick Burn Formation, Priesthill Group/ Lesmahagow, Lanarkshire, Midland Valley, Scotland.
+Age. Llandovery (Telychian).
+Environment. BA2–
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (66), (67), (77), (105), (106), (108), (109)(Aldridge et al., 1996; Blom, 1999; Märss and Miller, 2004; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898b; Žigaitė and Goujet, 2012)
+34. North Esk Inlier 34
+Stratigraphy/Location. Reservoir Formation (Gutterford Burn Formation)/ North Esk Inlier, Pentland Hills, Midland Valley, Scotland.
+Age. Llandovery (Telychian).
+Environment. BA0
+Taxa
+Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
+References. (12), (66), (67), (68), (77), (80)(Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Turner, 2000)
+35. Shaanxi 35
+Stratigraphy/Location. Wuxiahe (Wujiahe) Formation/ Shaanxi, China.
+Age. Llandovery (Telychian).
+Environment. BA3–5?
+Taxa
+Galeaspida: Hanyangaspis guodingshanensis.
+References. (75), (110), (111), (112)(Chen et al., 2002; Pan and Dineley, 1988; Tang et al., 2015; Zhao and Zhu, 2010)
+36. Shanks Castle 36
+Stratigraphy/Location. Ceratiocaris Bed, Kip Burn Formation/ Shanks Castle, Logan Water, Lanarkshire, Midland Valley, Scotland.
+Age. Llandovery (Telychian).
+Environment. BA0–1
+Taxa
+Anaspida: Birkenia sp., Jamoytius kerwoodi.
+References. (12), (108), (113), (114)(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
+37. Shipan Reservoir 37
+Stratigraphy/Location. Xikeng Formation/ Shipan Reservoir, Jiangxi, China.
+Age. Llandovery.
+Environment. BA1–2
+Taxa
+Galeaspida: Rumporostralis shipanensis.
+References. (75), (115), (116)(Shan et al., 2022; Shan et al., 2020; Zhao and Zhu, 2010)
+38. Tielikewatie Village 38
+Stratigraphy/Location. Tataertag Formation/ Tielikewatie Village, Kalpin County, Xinjiang, China.
+Age. Llandovery (Telychian).
+Environment. BA1–2
+Taxa
+Galeaspida: Microphymaspis pani, Platylomaspis serratus, Platycarpaspis tianshanensis, Xiyuaspis zhangi.
+References. (87), (89), (90), (91), (117), (118), (119)(Andreev et al., 2020; Carroll et al., 2001; Gai et al., 2018; Jiang et al., 2009; Liu et al., 2019; Wang et al., 2002; Zhao et al., 2009)
+39. Tururkhansk District 39
+Stratigraphy/Location. Omnutakh Formation/ Tururkhansk District, Russia.
+Age. Llandovery (Telychian, Agidyan Regional Stage).
+Environment. BA0–1
+Taxa
+Thelodonti: Talimaalepis rimae.
+References. (59), (62)(Žigaitė, 2013; Zigaite and Blieck, 2006)
+40. Washington Land 40
+Stratigraphy/Location. Kap Tyson Outcrop, Hauge Bjerge and Lafayette Bugt Formations/ Peary Land Group, Washington Land, Greenland.
+Age. Llandovery (Telychian).
+Environment. BA1–
+Taxa
+Anaspida: Birkenia?.
+References. (107), (114)(Blom et al., 2002; Pickerill and Harland, 1988)
+41. Wuhan 41
+Stratigraphy/Location. Guodingshan Formation/ Wuhan, Hubei, China.
+Age. Llandovery.
+Environment. BA1–2, 3?
+Taxa
+Galeaspida: Geraspis rara, Hanyangaspis guodingshanensis.
+Chondrichthyes: Neosincanthus planispinatus, Sinacanthus triangulates, Sinacanthus wuchangenis.
+References. (68), (84), (120), (121), (122)(Liu et al., 2024; Sepkoski, 1998; Wang et al., 1987; Zhu and Wang, 2000; Zong et al., 2011)
+42. Wulff Land 42
+Stratigraphy/Location. Thors Fjord Member, Wulff Land Formation/ Wulff Land, Greenland.
+Age. Llandovery (Telychian).
+Environment. BA1–
+Taxa
+Thelodonti: Loganellia scotica.
+References. (106), (107)(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
+43. Zhangjiajie 43
+Stratigraphy/Location. Rongxi Formation/ Zhangjiajie, Hunan, China.
+Age. Llandovery (Telychian).
+Environment. BA1–2
+Taxa
+Galeaspida: Dayongaspis hunanensis, Konoceraspis grondoculus, Konoceraspis sp.
+Chondrichthyes: Neosinacanshus sp., Neosinacanshus sp.2, Sinacanthus sp.
+References. (75), (97), (121), (123)(Mu et al., 1986; Wang et al., 1987; Zhao and Zhu, 2010; Zhu and Gai, 2007)
+44. Xiushui 44
+Stratigraphy/Location. Xikeng Formation/ Xiushui, Jiangxi, China.
+Age. Llandovery–Wenlock (Telychian–Sheinwoodian).
+Environment. BA1–2
+Taxa
+Galeaspida: Rumporostralis xikengensis, Sinogaleaspis shankouensis, Sinogaleaspis zhejiangensis, Xiushuiaspis jiangxiensis, Xiushuiaspis ganbeiensis.
+References. (75), (82), (115), (124), (125)(Bassett and Rong, 2002; Pan and Wang, 1983; Shan et al., 2023; Shan et al., 2020; Zhao and Zhu, 2010)
+45. Avalanche Lake1 45
+Stratigraphy/Location. Road River and Whittaker Formations, Delorme Group/ Avalanche Lake, Mackenzie Mountains, Canada.
+Age. Llandovery (Telychian).
+Environment. BA2–4?
+Taxa
+Anaspida: Birkenia elegans.
+Thelodonti: Archipelepis bifurcata, Archipelepis turbinata, Lanarkia sp. cf. horrida, Pezopallichthys ritchiei.
+Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
+References. (12), (114), (126), (127)(Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
+46. Changxing 46
+Stratigraphy/Location. Lower Maoshan Formation/ Changxing, Zhejiang, China.
+Age. Llandovery (Telychian–Sheinwoodian).
+Environment. BA0–2
+Taxa
+Galeaspida: Anjiaspis reticularis, Changxingaspis gui, Hanyangaspis sp., Meishanaspis lehmani, Shuyu zhejiangensis, Sinogaleaspis zhejiangensis.
+Chondrichthyes: Sinacanthus sp.
+References. (75), (86), (97), (128), (129)(Sansom et al., 2000; Wang et al., 1998b; Zhao and Zhu, 2010; Zhao and Zhu, 2015; Zhu and Gai, 2007)
+47. Ellesmere Island 47
+Stratigraphy/Location. Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
+Age. Uppermost Telychian to Early Sheinwoodian.
+Environment. BA3
+Taxa
+Thelodonti: Archipelepis turbinata.
+References. (12), (127)(Boucot and Janis, 1983; Soehn et al., 2001)
+48. Mount Tchagartay 48
+Stratigraphy/Location. Khutsynbulak Beds, Chargat Formation/ Mount Tchagartay, Mongolia.
+Age. Llandovery (Telychian–Sheinwoodian, Salhit Regional Stage).
+Environment. BA2–3?
+Taxa
+Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
+Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
+References. (62), (130), (131), (132)(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
+
+
 
 **Formation**
 > - **Age**:
@@ -1020,6 +1241,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
