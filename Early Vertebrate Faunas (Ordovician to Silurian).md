@@ -295,7 +295,7 @@ Unknown: *Tesakoviaspis concentrica*.
 
 22) **Balturino Formation, Russia** 24
 > - **Age**: Telychian (Moyerocanian, Khaastyrian, and Agidyan Regional Stages)
-> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
+> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
 > - Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
 > - Chondrichthyes: *Mongolepis rozmani*, Teslepis jucunda, Udalepis sp.
 > - **Locality and horizon**: Balturino Formation, Balturino District, Russia.
@@ -304,7 +304,7 @@ Unknown: *Tesakoviaspis concentrica*.
 
 24) **Elegest Formation, Tuva, Russia** 28
 > - **Age**: Aeronian to Telychian
-> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
+> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, *Talimaalepis rimae*.
 Acanthodii: Tchunacanthus obruchevi.
 Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Locality and horizon**:Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation, Elegest and Kadvoi Localities, Tuva, Russia.
@@ -320,7 +320,7 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 
 31) **Omnutakh Formation, Tururkhansk District, Russia**39
 > - **Age**: Telychian (Agidyan Regional Stage)
-> - **Taxa**: Thelodonti: Talimaalepis rimae.
+> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
 > - **Locality and horizon**:Omnutakh Formation, Tururkhansk District, Russia.
 > - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
@@ -330,7 +330,7 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
 > - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
 > - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
-> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
+> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
 (1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013)
 
 
@@ -1246,6 +1246,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
