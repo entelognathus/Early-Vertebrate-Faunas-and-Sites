@@ -325,13 +325,14 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-36) **Khutsynbulak Beds, Chargat Formation, Mongolia** 48
+36) **Chargat Formation, Mongolia** 48
 > - **Age**: Telychian to Sheinwoodian (lhit Regional Stage)
-> - **Taxa**:Thelodonti: Talimaalepis kadvoiensis, Talimaalepis rimae.
-Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
+> - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
 > - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
 > - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
-> - **Comments**: 
+> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
+(1990)."
+
 
 4) **Clemville Formation, Quebec, Canada**
 > - **Age**: Rhuddanian to early Aeronian.
@@ -425,7 +426,6 @@ Chondrichthyes: Mongolepis rozmanae, Sodolepis lucens, Teslepis jucunda.
 > - **Locality and horizon**: Cape Phillips Formation, Cape Phillips, Devon Island, Nunavut, Canada.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**:
-
 
 23) **Killbride Formation, Ireland** 26
 > - **Age**: Telychian.
@@ -936,6 +936,8 @@ Karatajūtė-Talimaa, V., 1990. Vertebrates. In: N.P. Kul′kov and V.N. Tubatol
 
 Karatajūte-Talimaa, V. and Märss, T., 2002. Upper Silurian thelodonts from Severnaya Zemlya Archipelago (Russia). Geodiversitas, 24(2): 405-443.
 
+Karatajūte-Talimaa, V.N., Noviskaya, L.I., Rozman, K.S. and Sodov, Z., 1990. Mongolepis - a new lower Silurian genus of elasmobranchs from Mongolia. Paleontologicheskii zhurnal, 1: 76-86.
+
 Karatajute-Talimaa, V. and Smith, M.M., 2004. Tesakoviaspis concentrica: microskeletal remains of a new order of vertebrate from the Upper Ordovician and Lower Silurian of Siberia. In: G. Arratia, M.V.H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates. Pfeil, München, pp. 53-64.
 
 Karatajuté-Talimaa, V. and Smith, M.M., 2003. Early acanthodians from the Lower Silurian of Asia. Transactions of the Royal Society of Edinburgh: Earth Sciences, 93(03): 277-299.
@@ -1244,6 +1246,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
