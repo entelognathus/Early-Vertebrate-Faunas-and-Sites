@@ -297,7 +297,7 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **Age**: Telychian (Moyerocanian, Khaastyrian, and Agidyan Regional Stages)
 > - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, Talimaalepis kadvoiensis, Talimaalepis rimae.
 > - Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
-> - Chondrichthyes: Mongolepis rozmani, Teslepis jucunda, Udalepis sp.
+> - Chondrichthyes: *Mongolepis rozmani*, Teslepis jucunda, Udalepis sp.
 > - **Locality and horizon**: Balturino Formation, Balturino District, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:
@@ -316,7 +316,7 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*, *Talimaalepis kadvoiensis*. Acanthodii: *Tchunacanthus obruchevi*.
 > - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: Žigaitė, 2013: "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986). The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna. The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations. The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute˙-Talimaa & Ratanov 2002)."
+> - **Comments**: Žigaitė (2013): "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986). The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna. The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations. The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute-Talimaa & Ratanov 2002)."
 
 31) **Omnutakh Formation, Tururkhansk District, Russia**39
 > - **Age**: Telychian (Agidyan Regional Stage)
@@ -326,12 +326,12 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Comments**: 
 
 36) **Chargat Formation, Mongolia** 48
-> - **Age**: Telychian to Sheinwoodian (lhit Regional Stage)
+> - **Age**: Sheinwoodian, Wenlock 
 > - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
 > - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
 > - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
 > - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
-(1990)."
+(1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013)
 
 
 4) **Clemville Formation, Quebec, Canada**
@@ -1246,6 +1246,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
