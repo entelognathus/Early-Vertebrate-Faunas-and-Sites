@@ -316,7 +316,22 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*, *Talimaalepis kadvoiensis*. Acanthodii: *Tchunacanthus obruchevi*.
 > - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: Žigaitė (2013): "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986). The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna. The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations. The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute-Talimaa & Ratanov 2002)."
+> - **Comments**: Žigaitė (2013): "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986).
+> - The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna.
+> - The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations.
+> - The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute-Talimaa & Ratanov 2002)."
+> - Three Tuva localities: Kyzyl–Tchiraa, Elegest and Kadvoi.
+
+
+**Angatchi Formation, Kadvoi, Tuva, Russia**
+> - **Age**: Telychian (Angatchi Regional Stage, latest Llandovery)
+> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
+> - **Locality and horizon**: Angatchi Formation, Kadvoi locality, central Tuva, Russia.
+> - **References**:  Žigaitė (2013)
+> - **Comments**: 
+
+
+
 
 31) **Omnutakh Formation, Tururkhansk District, Russia**39
 > - **Age**: Telychian (Agidyan Regional Stage)
@@ -696,6 +711,9 @@ References. (75), (86), (97), (128), (129)(Sansom et al., 2000; Wang et al., 199
 > - Par. martinssoni, Thelodus  laevis, Tremataspis schmidti, Tremataspis milleri,  Saaremaaspis mickwitzi, Oeselaspis pustulata, Witaaspis schrenkii, Thyestes verrucosus, Rhyncholepis parvula, R. butriangula, Birkenia robusta, Pterygolepis nitida, Vesikulepis funiforma, Rytidolepis quenstedtii.
 
 ## Ludlow
+
+
+
 **The Phlebolepis  ornata  Zone**: late Gorstian
 > Sauvere Beds (excluding the lowermost part) of the Paadla Stage, Gorstian, lower Ludlow, interval 111.80ñ112.25 m in the Ohesaare core section, Saaremaa, Estonia. The zone has been recognized only in the sections on Saaremaa and Gotland islands, in the middle  and upper parts of the  Sauvere Beds, Paadla Stage, and in units band c of the Hemse Beds, respectively.
 
@@ -738,6 +756,9 @@ References. (75), (86), (97), (128), (129)(Sansom et al., 2000; Wang et al., 199
 > - Acanthodii: *Gomphonchus*sp.; *Poracanthodes qujingensis*; *Hanilepis wangi*; *Nostolepis striata*; *Nostolepis sinica*
 > - Osteichthyes: *Ligulalepis yunnanensis*; *Naxilepis gracilis*; *Kawalepis comptus*; *Guiyu oneiros*; *Megamastax amblyodus*; *Sparalepis tingi*              |
 > 
+
+
+
 
 ## Pridoli
 **The Nostolepis gracilis Zone**: early Pridoli
@@ -1246,6 +1267,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
