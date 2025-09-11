@@ -311,22 +311,22 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
 > - **Comments**:
 
-2) **Elegest Formation, Tuva, Russia**
-> - **Age**: Early Telychian.
-> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*, *Talimaalepis kadvoiensis*. Acanthodii: *Tchunacanthus obruchevi*.
-> - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia.
-> - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006)
+2) **Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia**
+> - **Age**: early Telychian.
+> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
+> - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia. 
+> - **References**: (Karatajute-Talimaa and Smith, 2004; Sennikov et al., 2015; Valiukevicius and Burrow, 2005; Vergoossen, 2002; Žigaitė, 2013; Zigaite and Blieck, 2006) to be checked.
 > - **Comments**: Žigaitė (2013): "Tuva: Vertebrate samples including the thelodont scales discussed here, were collected from the Lower Silurian of the Kyzyl–Tchiraa, Elegest and Kadvoi sequences, which range from the upper Llandovery to the Wenlock. Dating of the Lower Silurian sequences has mainly been established on conodont biostratigraphy (Vladimirskaya et al. 1986).
 > - The lower and middle Llandovery are represented by the Alash Formation (Rhudanian–Aeronian), comprising fine-grained to coarse sandstones with limestone intercalations rich in fauna.
-> - The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations.
+> - The upper Llandovery is represented by two formations, the Kyzyl–Tchiraa Formation (lower Telychian) and the Angatchi Formation (upper Telychian); the latter has been described as lower Sheinwoodian in age (Karatajute-Talimaa & Ratanov 2002). The formations are composed of fine-grained laminated sandstones withlimestone intercalations.
 > - The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute-Talimaa & Ratanov 2002)."
 > - Three Tuva localities: Kyzyl–Tchiraa, Elegest and Kadvoi.
 
 
 **Angatchi Formation, Kadvoi, Tuva, Russia**
-> - **Age**: Telychian (Angatchi Regional Stage, latest Llandovery)
+> - **Age**: late Telychian (Angatchi Regional Stage, latest Llandovery)
 > - **Taxa**: Thelodonti: *Talimaalepis rimae*.
-> - **Locality and horizon**: Angatchi Formation, Kadvoi locality, central Tuva, Russia.
+> - **Locality and horizon**: Angatchi Formation, Kadvoi locality, central Tuva, Russia.
 > - **References**:  Žigaitė (2013)
 > - **Comments**: 
 
@@ -1267,6 +1267,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
