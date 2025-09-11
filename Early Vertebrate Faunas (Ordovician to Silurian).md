@@ -302,6 +302,14 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:
 
+31) **Omnutakh Formation, Tururkhansk District, Russia**39
+> - **Age**: Telychian (Agidyan Regional Stage)
+> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
+> - **Locality and horizon**:Omnutakh Formation, Tururkhansk District, Russia.
+> - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
+> - **Comments**: 
+
+
 24) **Elegest Formation, Tuva, Russia** 28
 > - **Age**: Aeronian to Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, *Talimaalepis rimae*.
@@ -330,13 +338,6 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **References**:  Žigaitė (2013)
 > - **Comments**: 
 
-
-31) **Omnutakh Formation, Tururkhansk District, Russia**39
-> - **Age**: Telychian (Agidyan Regional Stage)
-> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
-> - **Locality and horizon**:Omnutakh Formation, Tururkhansk District, Russia.
-> - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**: 
 
 36) **Chargat Formation, Mongolia** 48
 > - **Age**: Sheinwoodian, Wenlock 
@@ -1265,6 +1266,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
