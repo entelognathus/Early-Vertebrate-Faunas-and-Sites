@@ -555,6 +555,21 @@ Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 >    -   Kezirtag Formation; Kalpin County, Xinjiang: [*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019
 
 **Lower Red beds, South China**
+> - **Zhangjiajie vertebrate fauna**: Late Aeronian to Telychian
+> - - areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
+>   - Horizons: three horizons, **late Aeronian to early Telychian** including Rongxi Formation, Qingshui Formation, Houchiatang Formation, Tangjiawu Formation, and Tataertag Formation; **middle Telychian** including Xiushan Formation and Fentou Formation, and Ymogantau Formation; **late Telychian** including Xikeng Formation, Huixingshao Formation, Maoshan Formation, and Kezirtag Formation.
+>   - Assemblages: the fauna is divided into Wentang Assemblage (late Aeronian to early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
+>  -  **Wentang Assemblage, late Aeronian to early Telychian**
+
+>  - - Rongxi Formation, Zhangjiajie: *Dayongaspis hunanensis* Pan and Zeng, 1985; *Konoceraspis grandoculus* Pan, 1992; *Sinacanthus wuchangensis*; *Neosinacanthus planispinatus*; *Neosinacanthus* sp.1; *Neosinacanthus* sp.2; *Tarimacanthus bachuensis*; *Eosinacanthus shanmenensis*; *Hunanacanthus lixianensis*; *Neosinacanthus* sp.; *Sinacanthus* sp.
+>    - Rongxi Formation, Shiqian, Guizhou (Aeronian): *Qianodus duplicis* Andreev et al., 2022; *Fanjingshania renovata* Andreev et al., 2022.
+>    - Qingshui Formation, Jiujiang:  *Xiyuichthys lixiensis* Shan *et al*., 2023; *Qingshuiaspis junqingi* Shan *et al*., 2022; *Anjiaspis ericius* Shan et al., 2022; [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023; *Neosinacanthus* sp. 
+>    - Qingshui Formation, Wuhan (sensu Liu et al. 2020) or Houchiatang Formation, Wuhan (sensu Chen and Wu, 1989): Fish fossils came from the upper part of the formation, and brachiopods are common in the Leijiatun, Xiangshuyuan, Shihniulan, Niuchang, Lojoping, and Shamao formations in the Upper Yangtze Region. [*Hanyangaspis guodingshanensis* P'an and Liu, 1975](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen); [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020;  *Sinacanthus wuchangensis*; *Sinacanthus triangulatus*; *Neosinacanthus planispinatus*; *Tarimacanthus bachuensis*;  
+>    - Tangjiawu Formation (formerly referred to as the Maoshan Formation), Changxing and Anji, northwestern Zhejiang: *Changxingaspis gui* Wang, 1991; *Shuyu zhejiangensis*(Pan, 1986); *Meishanaspis lehmani* Wang, 1991; *Anjiaspis reticularis* Gai and Zhu, 2005; *Sinacanthus wuchangensis*; *Neosinacanthus* sp.1
+>    - Houchiatang Formation, Chaohu, Anhui: *Latirostraspis chaohuensis* Wang *et al*., 1980; *Neosinacanthus wanzhongensis*. The Houchiatang Formation (between Fontou Formation and Gaojiabian Formation) is also distributed in Nanjing, Jiangsu.
+>    - 
+>    - Tataertag Formation, Aksu, Xinjiang:  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi* Li *et al*.., 2024; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*
+>    - 
 1) **Rongxi Formation, Shiqian, Guizhou, China**
 > - **Age**: Late Aeronian.
 > - **Taxa**: Chondrichthyes: *Fanjingshania renovate*, *Qianodus duplicis*.
@@ -2020,6 +2035,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
