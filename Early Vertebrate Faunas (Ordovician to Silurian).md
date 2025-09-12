@@ -689,10 +689,9 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 > Patrick Burn Formation, Priesthill Group, upper Telychian, Upper Llandovery; Logan Water section, Lesmahagow, Scotland. Ree Burn Formation, Hagshaw, Scotland; Lafayette Bugt Formation, North Greenland; Wych Formation and upper part of the Purple Shale Formation, Worcester and Hereford, Welsh Borderland; Anse aux Cascons and Anse a Pierre Loiselle formations, QuÈbec, eastern Canada; Cape Phillips Formation, Cornwallis and Baillie-Hamilton islands, Arctic Canada.
 > Ainiktozoon loganense, Jamoytius kerwoodi, L. scotica
 
-
 ## Wenlock
 1) **Chargat Formation, Mongolia**
-> - **Age**: Sheinwoodian, Wenlock 
+> - **Age**: Sheinwoodian, Wenlock.
 > - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
 Thelodonti: Loganellia asiatica, Loganellia sibrica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
 Chondrichthyes: Deltalepis parva, Deltalepis magna.
@@ -701,72 +700,62 @@ Chondrichthyes: Deltalepis parva, Deltalepis magna.
 > - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
 (1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013)
 
-7. Elegest and Kadvoi2
-Stratigraphy/Location. Pichishui horizon, Baytal Formation/ Elegest and Kadvoi Localities, Central Tuva, Russia.
-Age. Wenlock (Sheinwoodian).
-Environment. BA1.
-Taxa
-Thelodonti: Helenolepis multicostata, Helenolepis obruchevi, Helenolepis sp., Loganellia tuvaensis, Talimaalepis kadvoiensis.
+2) **Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
+> - **Age**: Sheinwoodian, Wenlock.
+> - **Taxa**: Thelodonti: Helenolepis multicostata, Helenolepis obruchevi, Helenolepis sp., Loganellia tuvaensis, Talimaalepis kadvoiensis.
 Osteostraci: indet.
 Acanthodii: Tchunacanthus sp.
 Chondrichthyes: Elegestolepis grossi, Udalepis sp.
-References. (64), (143), (144)(Karatajūte-Talimaa, 1973; Sennikov et al., 2015; Vladimirskaya and Kulkov, 1999)
-
-> - **Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Locality and horizon**: Pichishui horizon, Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia.
+> - **References**: (Karatajūte-Talimaa, 1973; Sennikov et al., 2015; Vladimirskaya and Kulkov, 1999)
 > - **Comments**:
 
-8) **Barmo Formation, Balturino District, East Siberia, Russia** 10
+3) **Barmo Formation, Balturino District, East Siberia, Russia** 10
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
 > - **Taxa**: Thelodonti: Loganellia sp. indet., Talimaalepis rimae.
 > - **Locality and horizon**: Barmo Formation, Khakomian Regional Stage, Balturino District, East Siberia, Russia.
 > - **References**:(Zigaite and Blieck, 2006; Žigaitė et al., 2011)
 > - **Comments**:
 
-3) **Usas Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 16
+4) **Usas Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 16
 > - **Age**: Wenlock to Gorstian.
 > - **Taxa**: Thelodonti: *Talimaalepis rimae*.
 > - **Locality and horizon**: Usas Formation, Khakomian Regional Stage, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
 > - **References**: (Žigaitė, 2013; Zigaite and Blieck, 2006; Žigaitė et al., 2011)
 > - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
 
-19. Matusevich River
-Stratigraphy/Location. Samojlovich Formation/ Matusevich River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian & Homerian).
-Environment. BA1–.
-Taxa
-Anaspida: Birkenia elegans, Birkenia robusta, Birkenia sp.
+5) **Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Sheinwoodian to Homerian, Wenlock.
+> - **Taxa**: Anaspida: Birkenia elegans, Birkenia robusta, Birkenia sp.
 Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus laevis, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
-References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+> - **Locality and horizon**: Samojlovich Formation, Matusevich River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+> - **Comments**: 
 
-20. Pioneer Island2
-Stratigraphy/Location. Upper Samojlovich Formation/ Pioneer Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA1–.
-Taxa
-Anaspida: Rhyncholepis parvula, Rytidolepis quenstedti.
-Thelodonti: Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus visvaldi.
-References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
-
-21. Spokoinaya-Ushakov River1
-Stratigraphy/Location. Samojlovich Formation/ Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian & Homerian).
-Environment. BA1–3?.
-Taxa
-Anaspida: Birkenia elegans?, Pterygolepis nitida, Schidiosteus mustelensis.
+6) **Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Sheinwoodian to Homerian, Wenlock.
+> - **Taxa**:Anaspida: Birkenia elegans?, Pterygolepis nitida, Schidiosteus mustelensis.
 Thelodonti: Shielia multispinata, Paralogania consimilis.
-References. (53), (67), (76), (114), (134), (136), (147) (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002; Stetson, 1931)
+> - **Locality and horizon**: Samojlovich Formation, Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002; Stetson, 1931)
+> - **Comments**:
 
-22. Strojnaya River3
-Stratigraphy/Location. Samojlovich Formation/ Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian & Homerian).
-Environment. BA1–.
-Taxa
-Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus inauditus, Thelodus laevis, Thelodus visvaldi, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata, Shielia gibba, Shielia parca, Shielia taiti.
-References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+7) **Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Sheinwoodian to Homerian, Wenlock.
+> - **Taxa**: Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus inauditus, Thelodus laevis, Thelodus visvaldi, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata, Shielia gibba, Shielia parca, Shielia taiti.
+> - **Locality and horizon**: Samojlovich Formation, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+> - **Comments**: 
+
+8) **Upper Samojlovich Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Sheinwoodian to Homerian, Wenlock.
+> - **Taxa**:Anaspida: Rhyncholepis parvula, Rytidolepis quenstedti.
+Thelodonti: Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus visvaldi.
+> - **Locality and horizon**: Upper Samojlovich Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**:(Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+> - **Comments**: 
+
+
 
 24. Grodno Region
 Stratigraphy/Location. Ostrovets Formation/ Grodno Region, Belarus.
@@ -776,6 +765,12 @@ Taxa
 Thelodonti: Loganellia einari, Loganellia grossi, Thelodus sp.
 References. (169)(Plax and Märss, 2011)
 
+> - **Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 2. Cornwallis Island
 Stratigraphy/Location. Allen Bay Formation/ Cornwallis Island, Canada.
 Age. Wenlock (Lower Sheinwoodian).
@@ -784,26 +779,6 @@ Taxa
 Heterostraci: Tolypelepis sp.
 References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
 
-> - **Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-> -
-> - **Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
 
 **Formation**
 > - **Age**:
@@ -2054,6 +2029,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
