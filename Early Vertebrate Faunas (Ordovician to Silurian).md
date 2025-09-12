@@ -521,16 +521,80 @@ Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 > - **Locality and horizon**:Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
 > - **References**:(Boucot and Janis, 1983; Soehn et al., 2001)
 
-##China
+## China
+**Lower Red beds, South China**
+1) **Rongxi Formation, Shiqian, Guizhou, China**
+> - **Age**: Late Aeronian.
+> - **Taxa**: Chondrichthyes: *Fanjingshania renovate*, *Qianodus duplicis*.
+> - **Locality and horizon**: Rongxi Formation, Shiqian–Tunping section at Leijiatun Village, Guizhou Province, China.
+> - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
+> - **Comments**: 
 
-20. Qingshui Formation 20
-Stratigraphy/Location. Qingshui Formation/ Lixi Town, Wuning County, Jiangxi Province and Gumushan, Wuhan, Hubei Province, South China.
-Age. Llandovery (Lower Telychian).
-Environment. BA1
-Taxa
-Galeaspida: Jiangxialepis retrospina.
+2) **Rongxi Formation, Zhangjiajie, Hunan, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: Galeaspida: Dayongaspis hunanensis, Konoceraspis grondoculus, Konoceraspis sp.
+Chondrichthyes: Neosinacanshus sp., Neosinacanshus sp.2, Sinacanthus sp.
+> - **Locality and horizon**: Rongxi Formation, Zhangjiajie, Hunan Province, China.
+> - **References**: (Mu et al., 1986; Wang et al., 1987; Zhao and Zhu, 2010; Zhu and Gai, 2007)
+> - **Comments**: 
+
+3) **Rongxi Formation, Xiushan, Chongqing, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: 
+> - **Locality and horizon**: Rongxi Formation, Xiushan, Chongqing, China.
+> - **References**:
+> - **Comments**: 
+
+4) **Qingshui Formation, Jiangxi and Hubei, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: Galeaspida: Jiangxialepis retrospina.
 Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet Fin spine morphology2, Indet Fin spine morphology3, Neosinacanshus planispinatus, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangenis, Tarimacanthus bachuensis.
-References. (82), (83), (84)(Liu et al., 2023; Liu et al., 2024; Shan et al., 2023)
+> - **Locality and horizon**: Qingshui Formation, 1) Lixi Town, Wuning County, Jiangxi Province; 2) Gumushan, Wuhan, Hubei Province, China
+> - **References**: References. (82), (83), (84)(Liu et al., 2023; Liu et al., 
+> - **Comments**: 
+
+5) **Kangshan Formation, Anjie and Changxing, Zhejiang, China**
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: The formation used to be regarded as the “Maoshan Formation" or "Tangjiawu Formation" (Rong et al., 2023).
+
+46. Changxing 46
+Stratigraphy/Location. Lower Maoshan Formation/ Changxing, Zhejiang, China.
+Age. Llandovery (Telychian–Sheinwoodian).
+Environment. BA0–2
+Taxa
+Galeaspida: Anjiaspis reticularis, Changxingaspis gui, Hanyangaspis sp., Meishanaspis lehmani, Shuyu zhejiangensis, Sinogaleaspis zhejiangensis.
+Chondrichthyes: Sinacanthus sp.
+References. (75), (86), (97), (128), (129)(Sansom et al., 2000; Wang et al., 1998b; Zhao and Zhu, 2010; Zhao and Zhu, 2015; Zhu and Gai, 2007)
+
+
+3) **Fentou/Guodingshan Formation, Wuhan, Hubei, China**
+> - **Age**: early Telychian.
+> - **Taxa**: Galeaspida: Geraspis rara, Hanyangaspis guodingshanensis.
+Chondrichthyes: Neosincanthus planispinatus, Sinacanthus triangulates, Sinacanthus wuchangenis.
+> - **Locality and horizon**: Fentou/Guodingshan Formation, Wuhan, Hubei, China.
+> - **References**:(Liu et al., 2024; Sepkoski, 1998; Wang et al., 1987; Zhu and Wang, 2000; Zong et al., 2011)
+
+> - **Comments**:
+
+
+References. (68), (84), (120), (121), (122)
+
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+**Upper Red beds, South China**
+
+**Ludlow Red beds, South China**
+
+**Xingjiang, China**
 
 22. Bachu-Kalpin 22
 Stratigraphy/Location. Tataaiertage (Tataertag), Yimugantawu and Kezirtag Formations/ Bachu-Kalpin, Tarim Platform, Xinjiang, China.
@@ -583,23 +647,6 @@ Environment. BA1–2
 Taxa
 Galeaspida: Microphymaspis pani, Platylomaspis serratus, Platycarpaspis tianshanensis, Xiyuaspis zhangi.
 
-41. Wuhan 41
-Stratigraphy/Location. Guodingshan Formation/ Wuhan, Hubei, China.
-Age. Llandovery.
-Environment. BA1–2, 3?
-Taxa
-Galeaspida: Geraspis rara, Hanyangaspis guodingshanensis.
-Chondrichthyes: Neosincanthus planispinatus, Sinacanthus triangulates, Sinacanthus wuchangenis.
-References. (68), (84), (120), (121), (122)(Liu et al., 2024; Sepkoski, 1998; Wang et al., 1987; Zhu and Wang, 2000; Zong et al., 2011)
-
-43. Zhangjiajie 43
-Stratigraphy/Location. Rongxi Formation/ Zhangjiajie, Hunan, China.
-Age. Llandovery (Telychian).
-Environment. BA1–2
-Taxa
-Galeaspida: Dayongaspis hunanensis, Konoceraspis grondoculus, Konoceraspis sp.
-Chondrichthyes: Neosinacanshus sp., Neosinacanshus sp.2, Sinacanthus sp.
-References. (75), (97), (121), (123)(Mu et al., 1986; Wang et al., 1987; Zhao and Zhu, 2010; Zhu and Gai, 2007)
 
 44. Xiushui 44
 Stratigraphy/Location. Xikeng Formation/ Xiushui, Jiangxi, China.
@@ -609,15 +656,6 @@ Taxa
 Galeaspida: Rumporostralis xikengensis, Sinogaleaspis shankouensis, Sinogaleaspis zhejiangensis, Xiushuiaspis jiangxiensis, Xiushuiaspis ganbeiensis.
 Referencenche 
 s. (75), (82), (115), (124), (125)(Bassett and Rong, 2002; Pan and Wang, 1983; Shan et al., 2023; Shan et al., 2020; Zhao and Zhu, 2010)
-
-46. Changxing 46
-Stratigraphy/Location. Lower Maoshan Formation/ Changxing, Zhejiang, China.
-Age. Llandovery (Telychian–Sheinwoodian).
-Environment. BA0–2
-Taxa
-Galeaspida: Anjiaspis reticularis, Changxingaspis gui, Hanyangaspis sp., Meishanaspis lehmani, Shuyu zhejiangensis, Sinogaleaspis zhejiangensis.
-Chondrichthyes: Sinacanthus sp.
-References. (75), (86), (97), (128), (129)(Sansom et al., 2000; Wang et al., 1998b; Zhao and Zhu, 2010; Zhao and Zhu, 2015; Zhu and Gai, 2007)
 
 
 **Formation**
@@ -1964,6 +2002,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
