@@ -691,14 +691,90 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 
 
 ## Wenlock
-1. Chargat Locality
-Stratigraphy/Location. Chargat Formation/ Chargat locality, Lake Khar-Us, Northwestern Mongolia.
-Age. Wenlock (Early Sheinwoodian), Salhit Regional Stage.
-Environment. BA2–3?.
-Taxa
+1) **Chargat Formation, Mongolia**
+> - **Age**: Sheinwoodian, Wenlock 
+> - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
 Thelodonti: Loganellia asiatica, Loganellia sibrica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
 Chondrichthyes: Deltalepis parva, Deltalepis magna.
-References. (19), (62)(Andreev et al., 2017; Žigaitė, 2013)
+> - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
+> - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)(Andreev et al., 2017; Žigaitė, 2013)
+> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
+(1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013)
+
+7. Elegest and Kadvoi2
+Stratigraphy/Location. Pichishui horizon, Baytal Formation/ Elegest and Kadvoi Localities, Central Tuva, Russia.
+Age. Wenlock (Sheinwoodian).
+Environment. BA1.
+Taxa
+Thelodonti: Helenolepis multicostata, Helenolepis obruchevi, Helenolepis sp., Loganellia tuvaensis, Talimaalepis kadvoiensis.
+Osteostraci: indet.
+Acanthodii: Tchunacanthus sp.
+Chondrichthyes: Elegestolepis grossi, Udalepis sp.
+References. (64), (143), (144)(Karatajūte-Talimaa, 1973; Sennikov et al., 2015; Vladimirskaya and Kulkov, 1999)
+
+> - **Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+8) **Barmo Formation, Balturino District, East Siberia, Russia** 10
+> - **Age**: Sheinwoodian to Homerian, Wenlock.
+> - **Taxa**: Thelodonti: Loganellia sp. indet., Talimaalepis rimae.
+> - **Locality and horizon**: Barmo Formation, Khakomian Regional Stage, Balturino District, East Siberia, Russia.
+> - **References**:(Zigaite and Blieck, 2006; Žigaitė et al., 2011)
+> - **Comments**:
+
+3) **Usas Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 16
+> - **Age**: Wenlock to Gorstian.
+> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
+> - **Locality and horizon**: Usas Formation, Khakomian Regional Stage, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
+> - **References**: (Žigaitė, 2013; Zigaite and Blieck, 2006; Žigaitė et al., 2011)
+> - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
+
+19. Matusevich River
+Stratigraphy/Location. Samojlovich Formation/ Matusevich River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+Age. Wenlock (Sheinwoodian & Homerian).
+Environment. BA1–.
+Taxa
+Anaspida: Birkenia elegans, Birkenia robusta, Birkenia sp.
+Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus laevis, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
+References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+
+20. Pioneer Island2
+Stratigraphy/Location. Upper Samojlovich Formation/ Pioneer Island, Severnaya Zemlya Archipelago, Russia.
+Age. Wenlock (Sheinwoodian and Homerian).
+Environment. BA1–.
+Taxa
+Anaspida: Rhyncholepis parvula, Rytidolepis quenstedti.
+Thelodonti: Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus visvaldi.
+References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+
+21. Spokoinaya-Ushakov River1
+Stratigraphy/Location. Samojlovich Formation/ Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+Age. Wenlock (Sheinwoodian & Homerian).
+Environment. BA1–3?.
+Taxa
+Anaspida: Birkenia elegans?, Pterygolepis nitida, Schidiosteus mustelensis.
+Thelodonti: Shielia multispinata, Paralogania consimilis.
+References. (53), (67), (76), (114), (134), (136), (147) (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002; Stetson, 1931)
+
+22. Strojnaya River3
+Stratigraphy/Location. Samojlovich Formation/ Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+Age. Wenlock (Sheinwoodian & Homerian).
+Environment. BA1–.
+Taxa
+Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus inauditus, Thelodus laevis, Thelodus visvaldi, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata, Shielia gibba, Shielia parca, Shielia taiti.
+References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
+
+24. Grodno Region
+Stratigraphy/Location. Ostrovets Formation/ Grodno Region, Belarus.
+Age. Wenlock (Homerian).
+Environment. BA1–.
+Taxa
+Thelodonti: Loganellia einari, Loganellia grossi, Thelodus sp.
+References. (169)(Plax and Märss, 2011)
 
 2. Cornwallis Island
 Stratigraphy/Location. Allen Bay Formation/ Cornwallis Island, Canada.
@@ -707,13 +783,6 @@ Environment. BA3.
 Taxa
 Heterostraci: Tolypelepis sp.
 References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
-
-> - **Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
 
 > - **Formation**
 > - **Age**:
@@ -754,7 +823,10 @@ References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 3. Thorsteinsson Quarry
+> - **Comments**:
+> -
+>
+3. Thorsteinsson Quarry
 Stratigraphy/Location. Cape Phillips Formation/ Thorsteinsson Quarry, Cape Phillips, Cornwallis Island, Nunavut, Canada.
 Age. Wenlock (Lower Sheinwoodian).
 Environment. BA5.
@@ -764,203 +836,6 @@ Thelodonti: Archipelepis bifurcata, Archipelepis turbinate, Eestilepis prominens
 Chondrichthyes: Frigorilepis caldwelli, Wellingtonella gagnieri.
 References. (12), (67), (77), (114), (127), (134), (135), (136), (137), (138), (139)(Blom et al., 2002; Boucot and Janis, 1983; Chen et al., 2012; Karatajūte-Talimaa and Märss, 2002; Märss, 2001; Märss and Miller, 2004; Märss et al., 2002; Plotnick, 1999; Soehn et al., 2001; Stetson, 1931; Su, 2022)
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-4. Asker2
-Stratigraphy/Location. Malmoya Formation/ Gjettum Station, Asker, Oslo, Norway.
-Age. Wenlock (Sheinwoodian).
-Environment. BA0–3?.
-Taxa
-Thelodonti: Loganellia einari.
-References. (71), (140)(Bremer et al., 2019; Marss, 1996)
-5. Brinkmarsh Quarry
-Stratigraphy/Location. Brinkmarsh Beds/ Brinkmarsh Quarry, Whitefield, UK.
-Age. Wenlock (Sheinwoodian).
-Environment. BA3.
-Taxa
-Thelodonti: Loganellia avonia.
-References. (12), (80)(Boucot and Janis, 1983; Turner, 2000)
-6. Clew Bay
-Stratigraphy/Location. Bunnamohaun Siltstone/ Clew Bay, County Mayo, Ireland.
-Age. Wenlock (Sheinwoodian).
-Environment. BA0.
-Taxa
-Anaspida: Birkenia elegans.
-References. (114), (141), (142)(Blom et al., 2002; Maguire and Graham, 1995; Palmer et al., 1989)
-7. Elegest and Kadvoi2
-Stratigraphy/Location. Pichishui horizon, Baytal Formation/ Elegest and Kadvoi Localities, Central Tuva, Russia.
-Age. Wenlock (Sheinwoodian).
-Environment. BA1.
-Taxa
-Thelodonti: Helenolepis multicostata, Helenolepis obruchevi, Helenolepis sp., Loganellia tuvaensis, Talimaalepis kadvoiensis.
-Osteostraci: indet.
-Acanthodii: Tchunacanthus sp.
-Chondrichthyes: Elegestolepis grossi, Udalepis sp.
-References. (64), (143), (144)(Karatajūte-Talimaa, 1973; Sennikov et al., 2015; Vladimirskaya and Kulkov, 1999)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-8. Tortworth Inlier
-Stratigraphy/Location. Brinkmarsh Beds/ Tortworth Inlier, Gloucestershire, UK.
-Age. Wenlock (Sheinwoodian).
-Environment. BA3–4.
-Taxa
-Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia prolata, Loganellia sulcata, Logania sp. cf. cuneata, Logania cruciformis, Logania ludlowiensis, Logania scotica, Thelodus sp. cf. traquairi.
-References. (12), (134), (145)(Boucot and Janis, 1983; Märss et al., 2002; Siveter and Turner, 1982)
-9. Avalanche Lake2
-Stratigraphy/Location. Road River Formation, Delorme Group/ Avalanche Lake Sections, Mackenzie Mountains, Northwestern Canada.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA3.
-Taxa
-Heterostraci: Archegonaspis sp., Ariaspis sp., Vernonaspis sp., gen. indet.
-Anaspida: Birkenia elegans?, Birkenia sp.
-Thelodonti: Archipelepis bifurcata, Archipelepis turbinate, Overia adraini, Paralogania consimilis, Paralogania martinssoni, Pezopallichthys ritchiei.
-References. (12), (127), (134), (146), (147), (148), (149)(Blieck et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Märss et al., 2006; Soehn et al., 2001; Wilson and Caldwell, 1998; Wilson and Soehn, 1990)
-
-8) **Barmo Formation, Balturino District, East Siberia, Russia** 10
-> - **Age**: Sheinwoodian to Homerian, Wenlock.
-> - **Taxa**: Thelodonti: Loganellia sp. indet., Talimaalepis rimae.
-> - **Locality and horizon**: Barmo Formation, Khakomian Regional Stage, Balturino District, East Siberia, Russia.
-> - **References**:(Zigaite and Blieck, 2006; Žigaitė et al., 2011)
-> - **Comments**:
-
-
-11. Cape Lucie Marie
-Stratigraphy/Location. Kap Morton Formation/ Cape Lucie Marie, Washington Land, Northern Greenland.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA3–.
-Taxa
-Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
-References. (77), (107), (134), (151), (152)(Cocks et al., 2003; Märss et al., 2002; Pickerill and Harland, 1988; Plotnick, 1999; Turner and Peel, 1986)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-12. East Baltic
-Stratigraphy/Location. Maasi, Tagavere, Viita, and Kuusnomme Beds/ Estonia and Latvia, East Baltic.
-Age. Wenlock (Sheinwoodian–Homerian).
-Environment. BA1–.
-Taxa
-Anaspida: Birkenia elegans, Birkenia sp., Schidiosteus mustelensis.
-Heterostraci: Cyathaspis integer.
-Osteostraci: Tremataspis sp., Witaaspis shrenkii.
-Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia sulcata, Phlebolepis elegans, Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Oeselia mosaica.
-References. (12), (53), (63), (67), (68), (77), (79), (80), (114), (147), (153), (154), (155), (156), (157), (158), (159), (160)(Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 1977; Märss, 1986; Märss, 2003; Märss et al., 2015; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner, 2000; Vergoossen, 2002; Vergoossen, 2004)
-13. Gotland2
-Stratigraphy/Location. Halla, Mulde, Klinteberg, and Slite Formation/ Gotland, Sweden.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA3–5.
-Taxa
-Anaspida: Birkeniida sp. 1, Birkeniida sp. 2, Birkeniida sp. 3, Pterygolepis nitida, Rhyncholepis parvula, Rhyncholepis butriangula, Rytidolepis quenstedti, Schidiosteus mustelensis.
-Osteostraci: Oeselaspis sp., Tremataspis sp., gen. indet.
-Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia martinssoni, Loganellia prolata, Loganellia sulcate, Logania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania martinssoni, Paralogania sp. cf. ludlowiensis, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus parvidens, Thelodus schmidti, Thelodus visvaldi.
-References. (12), (53), (77), (103), (104), (114), (134), (147), (151), (161), (162)(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Calner et al., 2004; Cocks et al., 2003; Fredholm, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss et al., 2002; Martinsson, 1966; Plotnick, 1999)
-14. Hagshaw Hills
-Stratigraphy/Location. Fish Bed and Smithy Burn Formations, Glenbuck Group/ Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland.
-Age. Wenlock (Homerian and Sheinwoodian).
-Environment. BA0.
-Taxa
-Anaspida: Birkenia elegans.
-Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa, Shielia taiti.
-References. (77), (108)(Märss and Ritchie, 1998; Plotnick, 1999)
-15. Jaagarahu
-Stratigraphy/Location. Jaagarahu Formation, Vilsandi, Sa and Massi Beds/ Saaremaa Island, Estonia.
-Age. Wenlock (Sheinwoodian–Homerian).
-Environment. BA1–.
-Taxa
-Anaspida: Pterygolepis nitida, Rhyncholepis parvula.
-Osteostraci: Ateleaspis sp. cf. tessellate.
-Thelodonti: Loganellia grossi, Loganellia einari.
-References. (114), (160), (163), (164), (165)(Blom et al., 2002; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss et al., 2015; Qu et al., 2015)
-
-3) **Usas Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 16
-> - **Age**: Wenlock to Gorstian.
-> - **Taxa**: Thelodonti: *Talimaalepis rimae*.
-> - **Locality and horizon**: Usas Formation, Khakomian Regional Stage, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
-> - **References**: (Žigaitė, 2013; Zigaite and Blieck, 2006; Žigaitė et al., 2011)
-> - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
-
-
-17. Lesmahagow2
-Stratigraphy/Location. Slot Burn and Birkenhead Burn Formations/ Lesmahagow, Lanarkshire, Midland Valley, Scotland.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA0–1.
-Taxa
-Anaspida: Birkenia elegans.
-Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa.
-Osteostraci: Ateleaspis tesselata.
-References. (77), (108), (114), (166), (167), (168)(Blom et al., 2002; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898a; Walton and Oliver, 1991; Wellman and Richardson, 1993)
-18. Lyne Water
-Stratigraphy/Location. Fish Bed and Henshaw Formations/ Lyne Water, Pentland Hills, Midland Valley, Scotland.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA0–1.
-Taxa
-Anaspida: Birkenia elegans, Lasanius problematicus.
-Thelodonti: Shielia gibba, Shielia multispinata, Shielia parca, Shielia taiti.
-References. (12), (77), (114), (134), (136), (166)(Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Plotnick, 1999; Stetson, 1931; Traquair, 1898a)
-19. Matusevich River
-Stratigraphy/Location. Samojlovich Formation/ Matusevich River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian & Homerian).
-Environment. BA1–.
-Taxa
-Anaspida: Birkenia elegans, Birkenia robusta, Birkenia sp.
-Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus laevis, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
-References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
-20. Pioneer Island2
-Stratigraphy/Location. Upper Samojlovich Formation/ Pioneer Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA1–.
-Taxa
-Anaspida: Rhyncholepis parvula, Rytidolepis quenstedti.
-Thelodonti: Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus visvaldi.
-References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
-21. Spokoinaya-Ushakov River1
-Stratigraphy/Location. Samojlovich Formation/ Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian & Homerian).
-Environment. BA1–3?.
-Taxa
-Anaspida: Birkenia elegans?, Pterygolepis nitida, Schidiosteus mustelensis.
-Thelodonti: Shielia multispinata, Paralogania consimilis.
-References. (53), (67), (76), (114), (134), (136), (147) (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002; Stetson, 1931)
-22. Strojnaya River3
-Stratigraphy/Location. Samojlovich Formation/ Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Wenlock (Sheinwoodian & Homerian).
-Environment. BA1–.
-Taxa
-Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus inauditus, Thelodus laevis, Thelodus visvaldi, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata, Shielia gibba, Shielia parca, Shielia taiti.
-References. (53), (67), (76), (134), (147) (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
 23. Baillie-Hamilton Island2
 Stratigraphy/Location. Cape Phillips Formation/ Baillie-Hamilton Island, Nunavut, Canada.
 Age. Wenlock (Sheinwoodian and Homerian).
@@ -971,43 +846,47 @@ Heterostraci: Eriptychiida gen. et sp. indet., Traquairaspidida gen. et sp. inde
 Thelodonti: Archipelepis bifurcata, Archipelepis turbinate, Loganellia sp. 1, Loganellia sp. 2, Loganellia einari, Loganellia grossi, Paralogania consimilis, Paralogania martinssoni, Phillipsilepis cornuta, Phillipsilepis crassa, Phillipsilepis pusilla.
 Chondrichthyes: Kannathalepis milleri.
 References. (12), (77), (93), (114), (127), (134), (139), (147)(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 1997; Märss et al., 2002; Plotnick, 1999; Soehn et al., 2001; Su, 2022)
-24. Grodno Region
-Stratigraphy/Location. Ostrovets Formation/ Grodno Region, Belarus.
-Age. Wenlock (Homerian).
+
+9. Avalanche Lake2
+Stratigraphy/Location. Road River Formation, Delorme Group/ Avalanche Lake Sections, Mackenzie Mountains, Northwestern Canada.
+Age. Wenlock (Sheinwoodian and Homerian).
+Environment. BA3.
+Taxa
+Heterostraci: Archegonaspis sp., Ariaspis sp., Vernonaspis sp., gen. indet.
+Anaspida: Birkenia elegans?, Birkenia sp.
+Thelodonti: Archipelepis bifurcata, Archipelepis turbinate, Overia adraini, Paralogania consimilis, Paralogania martinssoni, Pezopallichthys ritchiei.
+References. (12), (127), (134), (146), (147), (148), (149)(Blieck et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Märss et al., 2006; Soehn et al., 2001; Wilson and Caldwell, 1998; Wilson and Soehn, 1990)
+
+
+11. Cape Lucie Marie
+Stratigraphy/Location. Kap Morton Formation/ Cape Lucie Marie, Washington Land, Northern Greenland.
+Age. Wenlock (Sheinwoodian and Homerian).
+Environment. BA3–.
+Taxa
+Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
+References. (77), (107), (134), (151), (152)(Cocks et al., 2003; Märss et al., 2002; Pickerill and Harland, 1988; Plotnick, 1999; Turner and Peel, 1986)
+
+12. East Baltic
+Stratigraphy/Location. Maasi, Tagavere, Viita, and Kuusnomme Beds/ Estonia and Latvia, East Baltic.
+Age. Wenlock (Sheinwoodian–Homerian).
 Environment. BA1–.
 Taxa
-Thelodonti: Loganellia einari, Loganellia grossi, Thelodus sp.
-References. (169)(Plax and Märss, 2011)
-25. Qinling Mountains
-Stratigraphy/Location. Miaogou Formation/ Gansu, Zoige and Tewo County, Sichuan Province, West Qinling Mountains, China.
-Age. Wenlock (Homerian).
+Anaspida: Birkenia elegans, Birkenia sp., Schidiosteus mustelensis.
+Heterostraci: Cyathaspis integer.
+Osteostraci: Tremataspis sp., Witaaspis shrenkii.
+Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia sulcata, Phlebolepis elegans, Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Oeselia mosaica.
+References. (12), (53), (63), (67), (68), (77), (79), (80), (114), (147), (153), (154), (155), (156), (157), (158), (159), (160)(Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 1977; Märss, 1986; Märss, 2003; Märss et al., 2015; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner, 2000; Vergoossen, 2002; Vergoossen, 2004)
+
+15.Jaagarahu
+Stratigraphy/Location. Jaagarahu Formation, Vilsandi, Sa and Massi Beds/ Saaremaa Island, Estonia.
+Age. Wenlock (Sheinwoodian–Homerian).
 Environment. BA1–.
 Taxa
-Acanthodii: Nostolepis tewonensis.
-References. (75), (95), (170), (171), (172)(Chen et al., 2024b; Rong et al., 2019; Wang et al., 1998a; Zhao et al., 2012; Zhao and Zhu, 2010)
-26. Ringerike1
-Stratigraphy/Location. Ranberget Member, Steinsfjorden, Sundvollen Formation/ Norway.
-Age. Wenlock (Late Homerian).
-Environment. BA0–3?.
-Taxa
-Anaspida: Birkenia elegans?, Pterygolepis nitida, Rhyncholepis parvula, Pharyngolepis oblonga.
-Thelodonti: Loganellia avonia, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia colossea, Loganellia sulcate, Loganellia prolata.
-Osteostraci: cf. Tyriaspis whitei, gen. indet.
-References. (71), (114), (173)(Blom et al., 2002; Bremer et al., 2019; Davies et al., 2005)
-27. Derenjal Mountains
-Stratigraphy/Location. Niur Formation/ Derenjal Mountains, Iran.
-Age. Late Wenlock–Ludlow (Homerian–Gorstian).
-Environment. BA1–2.
-Taxa
-Thelodonti: Niurolepis susanae.
-References. (174)(Hairapetian et al., 2008)
-28. Longwood Shale
-Stratigraphy/Location. Longwood Shale Formation/ New Jersey, USA.
-Age. Wenlock–Ludlow (Homerian–Gorstian).
-Environment. BA1.
-Taxa
-Heterostraci: Vernonaspis sp.
-References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
+Anaspida: Pterygolepis nitida, Rhyncholepis parvula.
+Osteostraci: Ateleaspis sp. cf. tessellate.
+Thelodonti: Loganellia grossi, Loganellia einari.
+References. (Blom et al., 2002; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss et al., 2015; Qu et al., 2015)
+
 29. Rootsikula
 Stratigraphy/Location. Rootsikula Formation, Iide, Viita, Kuusnomme, Vesiku, Anikaitse and Soeginina Beds/ Saaremaa Island, Estonia.
 Age. Wenlock–Ludlow (Homerian–Gorstian).
@@ -1017,6 +896,143 @@ Anaspida: Birkenia robusta, Pterygolepis nitida, Rhyncholepis parvula, Rhynchole
 Osteostraci: Meelaidaspis gennadii, Aestiaspis viitaensis, Tremataspis perforata, Tremataspis rohoni, Tremataspis schmidti, Tremataspis milleri, Tremataspis schrenkii, Tremataspis sp., Witaaspis schrenkii.
 Thelodonti: Paralogania martinssoni.
 References. (114), (160), (163), (164), (165)(Blom et al., 2002; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss et al., 2015; Qu et al., 2015)
+
+13. Gotland2
+Stratigraphy/Location. Halla, Mulde, Klinteberg, and Slite Formation/ Gotland, Sweden.
+Age. Wenlock (Sheinwoodian and Homerian).
+Environment. BA3–5.
+Taxa
+Anaspida: Birkeniida sp. 1, Birkeniida sp. 2, Birkeniida sp. 3, Pterygolepis nitida, Rhyncholepis parvula, Rhyncholepis butriangula, Rytidolepis quenstedti, Schidiosteus mustelensis.
+Osteostraci: Oeselaspis sp., Tremataspis sp., gen. indet.
+Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia martinssoni, Loganellia prolata, Loganellia sulcate, Logania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania martinssoni, Paralogania sp. cf. ludlowiensis, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus parvidens, Thelodus schmidti, Thelodus visvaldi.
+References. (12), (53), (77), (103), (104), (114), (134), (147), (151), (161), (162)(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Calner et al., 2004; Cocks et al., 2003; Fredholm, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss et al., 2002; Martinsson, 1966; Plotnick, 1999)
+
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+4. Asker2
+Stratigraphy/Location. Malmoya Formation/ Gjettum Station, Asker, Oslo, Norway.
+Age. Wenlock (Sheinwoodian).
+Environment. BA0–3?.
+Taxa
+Thelodonti: Loganellia einari.
+References. (71), (140)(Bremer et al., 2019; Marss, 1996)
+
+
+26. Ringerike1
+Stratigraphy/Location. Ranberget Member, Steinsfjorden, Sundvollen Formation/ Norway.
+Age. Wenlock (Late Homerian).
+Environment. BA0–3?.
+Taxa
+Anaspida: Birkenia elegans?, Pterygolepis nitida, Rhyncholepis parvula, Pharyngolepis oblonga.
+Thelodonti: Loganellia avonia, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia colossea, Loganellia sulcate, Loganellia prolata.
+Osteostraci: cf. Tyriaspis whitei, gen. indet.
+References. (71), (114), (173)(Blom et al., 2002; Bremer et al., 2019; Davies et al., 2005)
+
+5. Brinkmarsh Quarry
+Stratigraphy/Location. Brinkmarsh Beds/ Brinkmarsh Quarry, Whitefield, UK.
+Age. Wenlock (Sheinwoodian).
+Environment. BA3.
+Taxa
+Thelodonti: Loganellia avonia.
+References. (12), (80)(Boucot and Janis, 1983; Turner, 2000)
+
+6. Clew Bay
+Stratigraphy/Location. Bunnamohaun Siltstone/ Clew Bay, County Mayo, Ireland.
+Age. Wenlock (Sheinwoodian).
+Environment. BA0.
+Taxa
+Anaspida: Birkenia elegans.
+References. (114), (141), (142)(Blom et al., 2002; Maguire and Graham, 1995; Palmer et al., 1989)
+
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+8. Tortworth Inlier
+Stratigraphy/Location. Brinkmarsh Beds/ Tortworth Inlier, Gloucestershire, UK.
+Age. Wenlock (Sheinwoodian).
+Environment. BA3–4.
+Taxa
+Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia prolata, Loganellia sulcata, Logania sp. cf. cuneata, Logania cruciformis, Logania ludlowiensis, Logania scotica, Thelodus sp. cf. traquairi.
+References. (12), (134), (145)(Boucot and Janis, 1983; Märss et al., 2002; Siveter and Turner, 1982)
+
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+14. Hagshaw Hills
+Stratigraphy/Location. Fish Bed and Smithy Burn Formations, Glenbuck Group/ Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland.
+Age. Wenlock (Homerian and Sheinwoodian).
+Environment. BA0.
+Taxa
+Anaspida: Birkenia elegans.
+Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa, Shielia taiti.
+References. (77), (108)(Märss and Ritchie, 1998; Plotnick, 1999)
+
+17. Lesmahagow2
+Stratigraphy/Location. Slot Burn and Birkenhead Burn Formations/ Lesmahagow, Lanarkshire, Midland Valley, Scotland.
+Age. Wenlock (Sheinwoodian and Homerian).
+Environment. BA0–1.
+Taxa
+Anaspida: Birkenia elegans.
+Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa.
+Osteostraci: Ateleaspis tesselata.
+References. (77), (108), (114), (166), (167), (168)(Blom et al., 2002; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898a; Walton and Oliver, 1991; Wellman and Richardson, 1993)
+
+18. Lyne Water
+Stratigraphy/Location. Fish Bed and Henshaw Formations/ Lyne Water, Pentland Hills, Midland Valley, Scotland.
+Age. Wenlock (Sheinwoodian and Homerian).
+Environment. BA0–1.
+Taxa
+Anaspida: Birkenia elegans, Lasanius problematicus.
+Thelodonti: Shielia gibba, Shielia multispinata, Shielia parca, Shielia taiti.
+References. (12), (77), (114), (134), (136), (166)(Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Plotnick, 1999; Stetson, 1931; Traquair, 1898a)
+
+28. Longwood Shale
+Stratigraphy/Location. Longwood Shale Formation/ New Jersey, USA.
+Age. Wenlock–Ludlow (Homerian–Gorstian).
+Environment. BA1.
+Taxa
+Heterostraci: Vernonaspis sp.
+References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
+
+
 30. Shawangunk Formation
 Stratigraphy/Location. Medina Formation, Shawangunk Formation/ New York, USA.
 Age. Wenlock–Ludlow (Homerian–Gorstian).
@@ -1024,6 +1040,23 @@ Environment. BA1.
 Taxa
 Heterostraci: Eoarchegonaspis wardelli, Vernonaspis sp., Vernonaspis vaningeni.
 References. (12), (68), (77), (133), (176), (177), (178), (179)(Boucot and Janis, 1983; Bryant, 1926; Denison, 1964; Fillmore et al., 2020; Flower and Wayland-Smith, 1952; Kiaer, 1932; Plotnick, 1999; Sepkoski, 1998)
+
+
+27. Derenjal Mountains
+Stratigraphy/Location. Niur Formation/ Derenjal Mountains, Iran.
+Age. Late Wenlock–Ludlow (Homerian–Gorstian).
+Environment. BA1–2.
+Taxa
+Thelodonti: Niurolepis susanae.
+References. (174)(Hairapetian et al., 2008)
+
+25. Qinling Mountains
+Stratigraphy/Location. Miaogou Formation/ Gansu, Zoige and Tewo County, Sichuan Province, West Qinling Mountains, China.
+Age. Wenlock (Homerian).
+Environment. BA1–.
+Taxa
+Acanthodii: Nostolepis tewonensis.
+References. (75), (95), (170), (171), (172)(Chen et al., 2024b; Rong et al., 2019; Wang et al., 1998a; Zhao et al., 2012; Zhao and Zhu, 2010)
 
 
 **The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
@@ -2021,6 +2054,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
