@@ -528,12 +528,6 @@ Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 >   - Horizons: three horizons, **late Aeronian to early Telychian** including Rongxi Formation, Qingshui Formation, Houchiatang Formation, Tangjiawu Formation, and Tataertag Formation; **middle Telychian** including Xiushan Formation and Fentou Formation, and Ymogantau Formation; **late Telychian** including Xikeng Formation, Huixingshao Formation, Maoshan Formation, and Kezirtag Formation.
 >   - Assemblages: the fauna is divided into Wentang Assemblage (late Aeronian to early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
 
->    
->    - Tangjiawu Formation (formerly referred to as the Maoshan Formation), Changxing and Anji, northwestern Zhejiang: *Changxingaspis gui* Wang, 1991; *Shuyu zhejiangensis*(Pan, 1986); *Meishanaspis lehmani* Wang, 1991; *Anjiaspis reticularis* Gai and Zhu, 2005; *Sinacanthus wuchangensis*; *Neosinacanthus* sp.1
->    - Houchiatang Formation, Chaohu, Anhui: *Latirostraspis chaohuensis* Wang *et al*., 1980; *Neosinacanthus wanzhongensis*. The Houchiatang Formation (between Fontou Formation and Gaojiabian Formation) is also distributed in Nanjing, Jiangsu.
->    - 
->    - Tataertag Formation, Aksu, Xinjiang:  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi* Li *et al*.., 2024; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*
->    - 
 1) **Rongxi Formation, Shiqian, Guizhou, China**
 > - **Age**: Late Aeronian.
 > - **Taxa**: Chondrichthyes: *Qianodus duplicis* Andreev et al., 2022; *Fanjingshania renovata* Andreev et al., 2022.
@@ -668,7 +662,7 @@ Galeaspida: Sinogaleaspis zhejiangensis, Deanaspis longpingi,  [*Xiushuiaspis ji
 **Xinjiang, China**
 **Tataertag Formation, Xinjiang, China**
 > - **Age**: Late Aeronian to early Telychian.
-> - **Taxa**: Galeaspida: Microphymaspis pani, Platylomaspis serratus, Platycarpaspis tianshanensis, Xiyuaspis zhangi.
+> - **Taxa**: Galeaspida: Platycarpaspis tianshanensis.  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi* Li *et al*.., 2024; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*
 > - **Locality and horizon**: Tataertag (Tataaiertage) Formation, Tielikewatie Village, Kalpin and Bachu, Xinjiang, China.
 > - **References**:
 > - **Comments**: 
@@ -697,6 +691,22 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 
 
 ## Wenlock
+1. Chargat Locality
+Stratigraphy/Location. Chargat Formation/ Chargat locality, Lake Khar-Us, Northwestern Mongolia.
+Age. Wenlock (Early Sheinwoodian), Salhit Regional Stage.
+Environment. BA2–3?.
+Taxa
+Thelodonti: Loganellia asiatica, Loganellia sibrica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
+Chondrichthyes: Deltalepis parva, Deltalepis magna.
+References. (19), (62)(Andreev et al., 2017; Žigaitė, 2013)
+
+2. Cornwallis Island
+Stratigraphy/Location. Allen Bay Formation/ Cornwallis Island, Canada.
+Age. Wenlock (Lower Sheinwoodian).
+Environment. BA3.
+Taxa
+Heterostraci: Tolypelepis sp.
+References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
 
 > - **Formation**
 > - **Age**:
@@ -744,24 +754,7 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-
-1. Chargat Locality
-Stratigraphy/Location. Chargat Formation/ Chargat locality, Lake Khar-Us, Northwestern Mongolia.
-Age. Wenlock (Early Sheinwoodian), Salhit Regional Stage.
-Environment. BA2–3?.
-Taxa
-Thelodonti: Loganellia asiatica, Loganellia sibrica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
-Chondrichthyes: Deltalepis parva, Deltalepis magna.
-References. (19), (62)(Andreev et al., 2017; Žigaitė, 2013)
-2. Cornwallis Island
-Stratigraphy/Location. Allen Bay Formation/ Cornwallis Island, Canada.
-Age. Wenlock (Lower Sheinwoodian).
-Environment. BA3.
-Taxa
-Heterostraci: Tolypelepis sp.
-References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
-3. Thorsteinsson Quarry
+> - **Comments**: 3. Thorsteinsson Quarry
 Stratigraphy/Location. Cape Phillips Formation/ Thorsteinsson Quarry, Cape Phillips, Cornwallis Island, Nunavut, Canada.
 Age. Wenlock (Lower Sheinwoodian).
 Environment. BA5.
@@ -2028,6 +2021,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
