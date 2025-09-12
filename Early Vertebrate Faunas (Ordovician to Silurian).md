@@ -522,6 +522,38 @@ Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 > - **References**:(Boucot and Janis, 1983; Soehn et al., 2001)
 
 ## China
+***Zhangjiajie vertebrate fauna***: Late Aeronian to Telychian
+> areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
+> Horizons: three horizons, **late Aeronian to early Telychian** including Rongxi Formation, Qingshui Formation, Houchiatang Formation, Tangjiawu Formation, and Tataertag Formation; **middle Telychian** including Xiushan Formation and Fentou Formation, and Ymogantau Formation; **late Telychian** including Xikeng Formation, Huixingshao Formation, Maoshan Formation, and Kezirtag Formation.
+>  Assemblages: the fauna is divided into Wentang Assemblage (late Aeronian to early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
+
+>  -  **Wentang Assemblage, late Aeronian to early Telychian**
+
+>  - - Rongxi Formation, Zhangjiajie: *Dayongaspis hunanensis* Pan and Zeng, 1985; *Konoceraspis grandoculus* Pan, 1992; *Sinacanthus wuchangensis*; *Neosinacanthus planispinatus*; *Neosinacanthus* sp.1; *Neosinacanthus* sp.2; *Tarimacanthus bachuensis*; *Eosinacanthus shanmenensis*; *Hunanacanthus lixianensis*; *Neosinacanthus* sp.; *Sinacanthus* sp.
+>    - Rongxi Formation, Shiqian, Guizhou (Aeronian): *Qianodus duplicis* Andreev et al., 2022; *Fanjingshania renovata* Andreev et al., 2022.
+>    - Qingshui Formation, Jiujiang:  *Xiyuichthys lixiensis* Shan *et al*., 2023; *Qingshuiaspis junqingi* Shan *et al*., 2022; *Anjiaspis ericius* Shan et al., 2022; [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023; *Neosinacanthus* sp. 
+>    - Qingshui Formation, Wuhan (sensu Liu et al. 2020) or Houchiatang Formation, Wuhan (sensu Chen and Wu, 1989): Fish fossils came from the upper part of the formation, and brachiopods are common in the Leijiatun, Xiangshuyuan, Shihniulan, Niuchang, Lojoping, and Shamao formations in the Upper Yangtze Region. [*Hanyangaspis guodingshanensis* P'an and Liu, 1975](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen); [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020;  *Sinacanthus wuchangensis*; *Sinacanthus triangulatus*; *Neosinacanthus planispinatus*; *Tarimacanthus bachuensis*;  
+>    - Tangjiawu Formation (formerly referred to as the Maoshan Formation), Changxing and Anji, northwestern Zhejiang: *Changxingaspis gui* Wang, 1991; *Shuyu zhejiangensis*(Pan, 1986); *Meishanaspis lehmani* Wang, 1991; *Anjiaspis reticularis* Gai and Zhu, 2005; *Sinacanthus wuchangensis*; *Neosinacanthus* sp.1
+>    - Houchiatang Formation, Chaohu, Anhui: *Latirostraspis chaohuensis* Wang *et al*., 1980; *Neosinacanthus wanzhongensis*. The Houchiatang Formation (between Fontou Formation and Gaojiabian Formation) is also distributed in Nanjing, Jiangsu.
+>    - 
+>    - Tataertag Formation, Aksu, Xinjiang:  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi* Li *et al*.., 2024; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*
+>    - 
+
+>  -  **Fentou Assemblage, middle Telychian**
+>  - -   Xiushan Formation, Zhangjiajie, Hunan: [*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; *Sinacanthus* sp.
+>    -   Xiushan Formation, Shiqian, Guizhou: *Shiqianodus hollandi* Sansom et al., 2000; *Xinjiangichthys pleuridentatus*; *Sinacanthus* sp.; *Rongolepis cosmetica* Sansom et al., 2000; *Chenolepis asketa* Sansom et al., 2000.
+>    -   Fentou Formation ('Guodingshan Formation'), Wuhan (sensu Liu et al. 2020; Zong et al., 2022): *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021; *Sinacanthus wuchangensis*, *Sinacanthus triangulatus*, *Neosinacanthus planispinatus*; *Eosinacanthus shanmenensis*; 
+>    -   Fentou Formation, Wuwei, Anhui: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993
+>    -   
+>    -    Ymogantau Formation; Kalpin County, Xinjiang: [*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; *Rongolepis cosmetica*; *Taklamakanolepis asiaticus*; *Shiqianolepis hollandi*; *Xinijiangichthys pleuridentatus*; *Tielikewatilepis sinensis*; *Xiaohaizilepis liui*; Chenolepis asketa; Yuanolepis bachuensis; 
+
+>  -  **Maoshan Assemblage, upper Telychian**
+>  - -   Xikeng Formation, Xiushui, Jiujiang, Jiangxi:  [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; 51. [*Sinogaleaspis shankouensis*](https://deepbone.org/public/#/explor?s_id=320&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980; [*Rumporostralis xikengensis*](https://deepbone.org/public/#/explor?s_id=326&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1980);  [*Rumporostralis shipanensis*](https://deepbone.org/public/#/explor?s_id=83050&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2020
+>    -   Xikeng Formation, Dean, Jiujiang, Jiangxi: *Deanaspis longpingi* Lin et al. 2025
+>    -   Huixingshao Formation, Xiushan, Chongqing; Huayuan, Hunan. (Chongqing Lagerstätte): [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., 2024; [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022; [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022.
+>    -
+>    -   Kezirtag Formation; Kalpin County, Xinjiang: [*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019
+
 **Lower Red beds, South China**
 1) **Rongxi Formation, Shiqian, Guizhou, China**
 > - **Age**: Late Aeronian.
@@ -553,110 +585,119 @@ Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet F
 > - **References**: References. (82), (83), (84)(Liu et al., 2023; Liu et al., 
 > - **Comments**: 
 
-5) **Kangshan Formation, Anjie and Changxing, Zhejiang, China**
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+5) **Kangshan Formation, Zhejiang, China**
+> - **Age**:Late Aeronian to early Telychian.
+> - **Taxa**: Galeaspida: Anjiaspis reticularis, Changxingaspis gui, Hanyangaspis sp., Meishanaspis lehmani, Shuyu zhejiangensis, Sinogaleaspis zhejiangensis.
+Chondrichthyes: Sinacanthus sp
+> - **Locality and horizon**: Kangshan Formation, 1) Changxing; 2) Anjie, Zhejiang, China.
+> - **References**:(Sansom et al., 2000; Wang et al., 1998b; Zhao and Zhu, 2010; Zhao and Zhu, 2015; Zhu and Gai, 2007)
 > - **Comments**: The formation used to be regarded as the “Maoshan Formation" or "Tangjiawu Formation" (Rong et al., 2023).
 
-46. Changxing 46
-Stratigraphy/Location. Lower Maoshan Formation/ Changxing, Zhejiang, China.
-Age. Llandovery (Telychian–Sheinwoodian).
-Environment. BA0–2
-Taxa
-Galeaspida: Anjiaspis reticularis, Changxingaspis gui, Hanyangaspis sp., Meishanaspis lehmani, Shuyu zhejiangensis, Sinogaleaspis zhejiangensis.
-Chondrichthyes: Sinacanthus sp.
-References. (75), (86), (97), (128), (129)(Sansom et al., 2000; Wang et al., 1998b; Zhao and Zhu, 2010; Zhao and Zhu, 2015; Zhu and Gai, 2007)
+6) **Tangjiawu Formation, Chunan, Zhejiang, China**
+> - **Age**:Late Aeronian to early Telychian.
+> - **Taxa**: 
+> - **Locality and horizon**: Tangjiawu Formation, Chunan, Zhejiang, China.
+> - **References**:
+> - **Comments**: 
 
+7) **Houjiatang Formation, Anhui and Jiangsu, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: Galeaspida: Hanyangaspis chaohuensis, 
+> - **Locality and horizon**: Houjiatang Formation, 1) Chaohu, Anhui; 2) Nanjing, Jiangsu, China.
+> - **References**: 
+> - **Comments**:
 
-3) **Fentou/Guodingshan Formation, Wuhan, Hubei, China**
-> - **Age**: early Telychian.
+8) **Lower Jukeng Formation, Anhui, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: 
+> - **Locality and horizon**: Lower Jukeng Formation, 1) Ningguo; 2) Huangshan, Anhui, China.
+> - **References**: 
+> - **Comments**:
+
+9) **Wuxiahe (Wujiahe) Formation, Shaanxi, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: Galeaspida: Hanyangaspis guodingshanensis.
+> - **Locality and horizon**: Wuxiahe (Wujiahe) Formation, Shaanxi, China.
+> - **References**:(Chen et al., 2002; Pan and Dineley, 1988; Tang et al., 2015; Zhao and Zhu, 2010)
+> - **Comments**: 
+
+10) **Fentou/Guodingshan Formation, Wuhan, Hubei, China**
+> - **Age**: middle Telychian.
 > - **Taxa**: Galeaspida: Geraspis rara, Hanyangaspis guodingshanensis.
 Chondrichthyes: Neosincanthus planispinatus, Sinacanthus triangulates, Sinacanthus wuchangenis.
 > - **Locality and horizon**: Fentou/Guodingshan Formation, Wuhan, Hubei, China.
 > - **References**:(Liu et al., 2024; Sepkoski, 1998; Wang et al., 1987; Zhu and Wang, 2000; Zong et al., 2011)
+> - **Comments**: To be checked.
 
+11) **Fentou Formation, Nanjing, Jiangsu, China**
+> - **Age**: middle Telychian.
+> - **Taxa**: Galeaspida: Geraspis rara, Hanyangaspis chaohuensis, Hanyangaspis pani, Hanyangaspis sp., Latirostraspis caohuensis. Chondrichthyes: Neosinacanshus planispinatus, Neosinacanshus sp.2, Sinacanthus sp., Sinacanthus triangulates.
+> - **Locality and horizon**: Fentou Formation, 1) Nanjing, Jiangsu, 2)  Wuwei, Anhui, China.
+> - **References**: (Boucot and Janis, 1983; Pan, 1986; Pan and Chen, 1993; Zhao and Zhu, 2010; Zhu and Gai, 2007)
+> - **Comments**:
+
+12) **Xiushan Formation, Xiushan, Chongqing, China**
+> - **Age**: middle Telychian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Upper Red beds, South China**
+13) **Huixingshao Formation, China**
+> - **Age**: late Telychian.
+> - **Taxa**: Galeaspida: Eugaleaspis xiushanensis, Miaojiaaspis dichotomus, Yongdongaspis littoralis.
+Chondrichthyes: Chenolepis asketa, Rongolepis cosmetica, Shenacanthus vermiformi, Shiqianolepis hollandi, Sinacanthus wuchangenis, Xinjiangichthys pluridentatus, Xinjiangichthys sp.
+Placodermi: Xiushanosteus mirabilis.
+> - **Locality and horizon**: Huixingshao Formation, 1) Xiushan, Chongqing, 2) Kapeng, Baoqing, Hunan, China.
+> - **References**: (Chen et al., 2022; Chen et al., 2024a; Holland and Bassett, 2002; Li et al., 2021; Rong et al., 2019; Wang et al., 1986; Zhao and Zhu, 2010; Zhu and Gai, 2007; Zhu et al., 2022)
+> - **Comments**:
+
+14) **Xikeng Formation, Xiushui and De'an, Jiangxi, China.**
+> - **Age**: late Telychian.
+> - **Taxa**:
+Galeaspida: Rumporostralis xikengensis, Rumporostralis shipanensis. Sinogaleaspis shankouensis, Sinogaleaspis zhejiangensis, Xiushuiaspis jiangxiensis, Xiushuiaspis ganbeiensis.Deanaspis longpingi 
+> - **Locality and horizon**: Xikeng Formation, 1) Xiushui; 2) De'an, Jiangxi, China.
+> - **References**:(Bassett and Rong, 2002; Pan and Wang, 1983; Shan et al., 2023; Shan et al., 2020; Zhao and Zhu, 2010)(Shan et al., 2022; Shan et al., 2020; Zhao and Zhu, 2010) Lin et al., 2025
+> - **Comments**:
+> - 
+**Xinjiang, China**
+**Tataertag Formation, Xinjiang, China**
+> - **Age**: Late Aeronian to early Telychian.
+> - **Taxa**: Galeaspida: Microphymaspis pani, Platylomaspis serratus, Platycarpaspis tianshanensis, Xiyuaspis zhangi.
+> - **Locality and horizon**: Tataertag (Tataaiertage) Formation, Tielikewatie Village, Kalpin and Bachu, Xinjiang, China.
+> - **References**:
+> - **Comments**: 
+
+**Yimugantawu and Kezirtag Formations, Xinjiang**
+> - **Age**: middle to late Telychian.
+> - **Taxa**: Galeaspida: Changxingaspis nianzhongi, Kapinolepis taimensis, Hanyangaspis sp., Jiangxialepis retrospina, Jiaoyu imperfectus, Nanjianaspis kalpinensis, Nanjianaspis sp. cf. zhangi, Pseudoduyunaspis bachuensis.
+Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus planispinatus, Neosinacanthus sp., Neosinacanthus sp.2, Rongolepis cosmetica, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangensis, Tarimacanthus bachuensis, Xinjiangichthys pluridentatus, Xinjiangichthys tarimensis.
+> - **Locality and horizon**: Yimugantawu and Kezirtag Formations,  Kalpin and Bachu, Xinjiang, China.
+> - **References**: (Andreev et al., 2020; Jiang et al., 2009; Li et al., 2024; Liu et al., 2023; Liu et al., 2019; Lu et al., 2007; Wang et al., 2002; Wang et al., 1998b; Zhao and Zhu, 2010)
 > - **Comments**:
 
 
-References. (68), (84), (120), (121), (122)
-
-
-**Formation**
+> - **Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+> -
+> - **Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+> -
+> - **Formation**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
-**Upper Red beds, South China**
-
-**Ludlow Red beds, South China**
-
-**Xingjiang, China**
-
-22. Bachu-Kalpin 22
-Stratigraphy/Location. Tataaiertage (Tataertag), Yimugantawu and Kezirtag Formations/ Bachu-Kalpin, Tarim Platform, Xinjiang, China.
-Age. Llandovery (Telychian).
-Environment. BA0–2
-Taxa
-Galeaspida: Changxingaspis nianzhongi, Kapinolepis taimensis, Hanyangaspis sp., Jiangxialepis retrospina, Jiaoyu imperfectus, Nanjianaspis kalpinensis, Nanjianaspis sp. cf. zhangi, Pseudoduyunaspis bachuensis.
-Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus planispinatus, Neosinacanthus sp., Neosinacanthus sp.2, Rongolepis cosmetica, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangensis, Tarimacanthus bachuensis, Xinjiangichthys pluridentatus, Xinjiangichthys tarimensis.
-References. (75), (83), (86), (87), (88), (89), (90), (91), (92)(Andreev et al., 2020; Jiang et al., 2009; Li et al., 2024; Liu et al., 2023; Liu et al., 2019; Lu et al., 2007; Wang et al., 2002; Wang et al., 1998b; Zhao and Zhu, 2010)
-
-25. Chongqing 25
-Stratigraphy/Location. Upper Xiushan and Huixingshao Formations/ Chongqing, Hunan, China.
-Age. Llandovery (Telychian).
-Environment. BA0–3
-Taxa
-Galeaspida: Eugaleaspis xiushanensis, Miaojiaaspis dichotomus, Yongdongaspis littoralis.
-Chondrichthyes: Chenolepis asketa, Rongolepis cosmetica, Shenacanthus vermiformi, Shiqianolepis hollandi, Sinacanthus wuchangenis, Xinjiangichthys pluridentatus, Xinjiangichthys sp.
-Placodermi: Xiushanosteus mirabilis.
-References. (26), (75), (94), (95), (96), (97), (98), (99), (100)(Chen et al., 2022; Chen et al., 2024a; Holland and Bassett, 2002; Li et al., 2021; Rong et al., 2019; Wang et al., 1986; Zhao and Zhu, 2010; Zhu and Gai, 2007; Zhu et al., 2022)
-
-29. Fentou Formation 29
-Stratigraphy/Location. Fentou Formation/ Hubei, Anhui, and Jiangsu Provinces, China.
-Age. Llandovery (Telychian).
-Environment. BA1–2
-Taxa
-Galeaspida: Geraspis rara, Hanyangaspis chaohuensis, Hanyangaspis pani, Hanyangaspis sp., Latirostraspis caohuensis.
-Chondrichthyes: Neosinacanshus planispinatus, Neosinacanshus sp.2, Sinacanthus sp., Sinacanthus triangulates.
-References. (12), (75), (97), (101), (102)(Boucot and Janis, 1983; Pan, 1986; Pan and Chen, 1993; Zhao and Zhu, 2010; Zhu and Gai, 2007)
-
-35. Shaanxi 35
-Stratigraphy/Location. Wuxiahe (Wujiahe) Formation/ Shaanxi, China.
-Age. Llandovery (Telychian).
-Environment. BA3–5?
-Taxa
-Galeaspida: Hanyangaspis guodingshanensis.
-References. (75), (110), (111), (112)(Chen et al., 2002; Pan and Dineley, 1988; Tang et al., 2015; Zhao and Zhu, 2010)
-
-37. Shipan Reservoir 37
-Stratigraphy/Location. Xikeng Formation/ Shipan Reservoir, Jiangxi, China.
-Age. Llandovery.
-Environment. BA1–2
-Taxa
-Galeaspida: Rumporostralis shipanensis.
-References. (75), (115), (116)(Shan et al., 2022; Shan et al., 2020; Zhao and Zhu, 2010)
-
-38. Tielikewatie Village 38
-Stratigraphy/Location. Tataertag Formation/ Tielikewatie Village, Kalpin County, Xinjiang, China.
-Age. Llandovery (Telychian).
-Environment. BA1–2
-Taxa
-Galeaspida: Microphymaspis pani, Platylomaspis serratus, Platycarpaspis tianshanensis, Xiyuaspis zhangi.
-
-
-44. Xiushui 44
-Stratigraphy/Location. Xikeng Formation/ Xiushui, Jiangxi, China.
-Age. Llandovery–Wenlock (Telychian–Sheinwoodian).
-Environment. BA1–2
-Taxa
-Galeaspida: Rumporostralis xikengensis, Sinogaleaspis shankouensis, Sinogaleaspis zhejiangensis, Xiushuiaspis jiangxiensis, Xiushuiaspis ganbeiensis.
-Referencenche 
-s. (75), (82), (115), (124), (125)(Bassett and Rong, 2002; Pan and Wang, 1983; Shan et al., 2023; Shan et al., 2020; Zhao and Zhu, 2010)
-
 
 **Formation**
 > - **Age**:
@@ -671,8 +712,6 @@ s. (75), (82), (115), (124), (125)(Bassett and Rong, 2002; Pan and Wang, 1983; S
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
-
-
 
 **The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
 > Loganellia aldridgei, another L. scotica-type loganelliid.
@@ -681,40 +720,6 @@ s. (75), (82), (115), (124), (125)(Bassett and Rong, 2002; Pan and Wang, 1983; S
 **The Loganellia scotica Zone**, late Telychian
 > Patrick Burn Formation, Priesthill Group, upper Telychian, Upper Llandovery; Logan Water section, Lesmahagow, Scotland. Ree Burn Formation, Hagshaw, Scotland; Lafayette Bugt Formation, North Greenland; Wych Formation and upper part of the Purple Shale Formation, Worcester and Hereford, Welsh Borderland; Anse aux Cascons and Anse a Pierre Loiselle formations, QuÈbec, eastern Canada; Cape Phillips Formation, Cornwallis and Baillie-Hamilton islands, Arctic Canada.
 > Ainiktozoon loganense, Jamoytius kerwoodi, L. scotica
-
-***Zhangjiajie vertebrate fauna***: Telychian, 438.5, 433.4
-> areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
-
-> Horizons: three horizons, **lower Telychian** including Rongxi Formation, Qingshui Formation, Houchiatang Formation, Tangjiawu Formation, and Tataertag Formation; **middle Telychian** including Xiushan Formation and Fentou Formation, and Ymogantau Formation; **upper Telychian** including Xikeng Formation, Huixingshao Formation, Maoshan Formation, and Kezirtag Formation.
-
->  Assemblages: the fauna is divided into Wentang Assemblage (early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
-
->  -  **Wentang Assemblage, lower Telychian**, 438.5, 436.8 (To be updated as late Aeronian to early Telychian)
-
->  - -  Rongxi Formation, Zhangjiajie: *Dayongaspis hunanensis* Pan and Zeng, 1985; *Konoceraspis grandoculus* Pan, 1992; *Sinacanthus wuchangensis*; *Neosinacanthus planispinatus*; *Neosinacanthus* sp.1; *Neosinacanthus* sp.2; *Tarimacanthus bachuensis*; *Eosinacanthus shanmenensis*; *Hunanacanthus lixianensis*; *Neosinacanthus* sp.; *Sinacanthus* sp.
->    - Rongxi Formation, Shiqian, Guizhou (Aeronian): *Qianodus duplicis* Andreev et al., 2022; *Fanjingshania renovata* Andreev et al., 2022.
->    - Qingshui Formation, Jiujiang:  *Xiyuichthys lixiensis* Shan *et al*., 2023; *Qingshuiaspis junqingi* Shan *et al*., 2022; *Anjiaspis ericius* Shan et al., 2022; [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023; *Neosinacanthus* sp. 
->    - Qingshui Formation, Wuhan (sensu Liu et al. 2020) or Houchiatang Formation, Wuhan (sensu Chen and Wu, 1989): Fish fossils came from the upper part of the formation, and brachiopods are common in the Leijiatun, Xiangshuyuan, Shihniulan, Niuchang, Lojoping, and Shamao formations in the Upper Yangtze Region. [*Hanyangaspis guodingshanensis* P'an and Liu, 1975](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen); [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020;  *Sinacanthus wuchangensis*; *Sinacanthus triangulatus*; *Neosinacanthus planispinatus*; *Tarimacanthus bachuensis*;  
->    - Tangjiawu Formation (formerly referred to as the Maoshan Formation), Changxing and Anji, northwestern Zhejiang: *Changxingaspis gui* Wang, 1991; *Shuyu zhejiangensis*(Pan, 1986); *Meishanaspis lehmani* Wang, 1991; *Anjiaspis reticularis* Gai and Zhu, 2005; *Sinacanthus wuchangensis*; *Neosinacanthus* sp.1
->    - Houchiatang Formation, Chaohu, Anhui: *Latirostraspis chaohuensis* Wang *et al*., 1980; *Neosinacanthus wanzhongensis*. The Houchiatang Formation (between Fontou Formation and Gaojiabian Formation) is also distributed in Nanjing, Jiangsu.
->    - 
->    - Tataertag Formation, Aksu, Xinjiang:  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi* Li *et al*.., 2024; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*
->    - 
-
->  -  **Fentou Assemblage, middle Telychian**, 436.8, 435.1 (To be updated as middle to late Telychian)
->  - -   Xiushan Formation, Zhangjiajie, Hunan: [*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; *Sinacanthus* sp.
->    -   Xiushan Formation, Shiqian, Guizhou: *Shiqianodus hollandi* Sansom et al., 2000; *Xinjiangichthys pleuridentatus*; *Sinacanthus* sp.; *Rongolepis cosmetica* Sansom et al., 2000; *Chenolepis asketa* Sansom et al., 2000.
->    -   Fentou Formation ('Guodingshan Formation'), Wuhan (sensu Liu et al. 2020; Zong et al., 2022): *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021; *Sinacanthus wuchangensis*, *Sinacanthus triangulatus*, *Neosinacanthus planispinatus*; *Eosinacanthus shanmenensis*; 
->    -   Fentou Formation, Wuwei, Anhui: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993
->    -   
->    -    Ymogantau Formation; Kalpin County, Xinjiang: [*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; *Rongolepis cosmetica*; *Taklamakanolepis asiaticus*; *Shiqianolepis hollandi*; *Xinijiangichthys pleuridentatus*; *Tielikewatilepis sinensis*; *Xiaohaizilepis liui*; Chenolepis asketa; Yuanolepis bachuensis; 
-
->  -  **Maoshan Assemblage, upper Telychian**, 435.1, 433.4 (To be updated as Sheinwoordian)
->  - -   Xikeng Formation, Xiushui, Jiujiang, Jiangxi:  [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; 51. [*Sinogaleaspis shankouensis*](https://deepbone.org/public/#/explor?s_id=320&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980; [*Rumporostralis xikengensis*](https://deepbone.org/public/#/explor?s_id=326&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1980);  [*Rumporostralis shipanensis*](https://deepbone.org/public/#/explor?s_id=83050&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2020
->    -   Xikeng Formation, Dean, Jiujiang, Jiangxi: *Deanaspis longpingi* Lin et al. 2025
->    -   Huixingshao Formation, Xiushan, Chongqing; Huayuan, Hunan. (Chongqing Lagerstätte): [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., 2024; [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022; [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022.
->    -
->    -   Kezirtag Formation; Kalpin County, Xinjiang: [*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019
 
 
 ## Wenlock
@@ -1231,12 +1236,41 @@ Age. Ludlow (Gorstian–Ludfordian).
 Environment. BA2–3?
 Taxa. Heterostraci: Ariaspis ornata, Dikenaspis yukonensis, Homalaspis borealis, Ptomaspis canadensis, Vernonaspis epitegosa, Vernonaspis major, Vernonaspis sekwiae.
 References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
+
+
+**Ludlow Red beds, South China**
+15) **Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 28. Baojing
 Stratigraphy/Location. Xiaoxi Formation/ Baojing, Northwestern Hunan Province, China.
 Age. Ludlow (Ludfordian).
 Environment. BA1
 Taxa. Galeaspida: Dunyu xiushanensis, Dunyu cf. xiushanensis, Eugaleaspis cf. xiushanensis.
 References. (94), (202), (203)(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
+35. Chongqing2
+Stratigraphy/Location. Xiaoxi Formation/ Chongqing, Hunan, China.
+Age. Ludlow (Late Ludfordian).
+Environment. BA1
+Taxa. Placodermi?: Bianchengichthys micros.
+References. (94), (202), (203)(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
+36. East Yunnan
+Stratigraphy/Location. Kuanti, Miaogao and Yulungssu Formations/ Qujing, East Yunnan, China.
+Age. Ludlow (Ludfordian–Pridoli).
+Environment. BA1–3
+Taxa. Galeaspida: Dunyu longiforus, Polybranchiaspis sp. Thelodonti: Thelodus sinensis, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi. Acanthodii: Gomphonchus sp., Hanilepis wangi, Nostolepis sinica, Nostolepis sp., Nostolepis striata, Poracanthodes qujingensis. Osteichthyes: Guiyu oneiros, Kawalepis comptus, Ligulalepis yunnanensis, Megamastax amblyodus, Naxilepis gracilis, Sparalepis tingi. Placodermi: Entelognathus primordialis, Silurolepis platydorsalis, Qilinyu rostrata.
+References. (123), (129), (147), (154), (156), (158), (171), (185), (213), (214), (215), (216), (217), (218), (219), (220)(Antia, 1981; Blieck et al., 2002; Cai et al., 2020; Chen et al., 2024b; Choo et al., 2017; Mark-Kurik, 1969; Märss et al., 2003; Mu et al., 1986; Musteikis, 1999; Wang and Dong, 1989; Zhao, 2010; Zhao and Zhu, 2015; Zhu et al., 2016; Zhu et al., 2013; Zhu et al., 2009; Zhu et al., 2019)
+31. Lixian
+Stratigraphy/Location. Xiaoxi Formation/ Shanmen, Reservoir, Lixian County, Hunan Province, China.
+Age. Ludlow (Ludfordian).
+Environment. BA1
+Taxa. Placodermi: Shimenolepis graniferus.
+References. (94), (202), (203), (210), (211)(Li et al., 2021; Rong et al., 2012; Wang, 1991; Zhao et al., 2018; Zhao et al., 2016)
+
 29. Church Hill
 Stratigraphy/Location. Lower Leintwardine Formation/ Church Hill, Herefordshire, UK.
 Age. Ludlow (Ludfordian).
@@ -1249,12 +1283,7 @@ Age. Ludlow (Ludfordian).
 Environment. BA1
 Taxa. Thelodonti: Thelodus sp. cf. T. trilobatus, Turinia sp., indet. Acanthodii: Gomphonchus sp. cf. G. sandelensis, Nostolepis sp. cf. N. striata, fam. gen. et sp. indet., indet. Chondrichthyes: gen. et sp. indet.
 References. (204), (205), (206), (207), (208), (209)(Bowman et al., 2019; Burrow et al., 2010; Liu et al., 2021; Oliver et al., 1995; Talent et al., 2003; Turner et al., 1995)
-31. Lixian
-Stratigraphy/Location. Xiaoxi Formation/ Shanmen, Reservoir, Lixian County, Hunan Province, China.
-Age. Ludlow (Ludfordian).
-Environment. BA1
-Taxa. Placodermi: Shimenolepis graniferus.
-References. (94), (202), (203), (210), (211)(Li et al., 2021; Rong et al., 2012; Wang, 1991; Zhao et al., 2018; Zhao et al., 2016)
+
 32. Much Wenlock
 Stratigraphy/Location. Whitcliffe (Overton) Formation and Downton Castle Formation/ Ludlow Much Wenlock District, Shropshire, UK.
 Age. Ludlow–Pridoli (Ludfordian–Pridoli).
@@ -1273,18 +1302,7 @@ Age. Ludlow (Ludfordian).
 Environment. BA3
 Taxa. Thelodonti: Paralogania kaarmisensis, Paralogania consimilis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae.
 References. (12), (67), (77), (156), (193)(Boucot and Janis, 1983; Cherns, 1999; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999)
-35. Chongqing2
-Stratigraphy/Location. Xiaoxi Formation/ Chongqing, Hunan, China.
-Age. Ludlow (Late Ludfordian).
-Environment. BA1
-Taxa. Placodermi?: Bianchengichthys micros.
-References. (94), (202), (203)(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
-36. East Yunnan
-Stratigraphy/Location. Kuanti, Miaogao and Yulungssu Formations/ Qujing, East Yunnan, China.
-Age. Ludlow (Ludfordian–Pridoli).
-Environment. BA1–3
-Taxa. Galeaspida: Dunyu longiforus, Polybranchiaspis sp. Thelodonti: Thelodus sinensis, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi. Acanthodii: Gomphonchus sp., Hanilepis wangi, Nostolepis sinica, Nostolepis sp., Nostolepis striata, Poracanthodes qujingensis. Osteichthyes: Guiyu oneiros, Kawalepis comptus, Ligulalepis yunnanensis, Megamastax amblyodus, Naxilepis gracilis, Sparalepis tingi. Placodermi: Entelognathus primordialis, Silurolepis platydorsalis, Qilinyu rostrata.
-References. (123), (129), (147), (154), (156), (158), (171), (185), (213), (214), (215), (216), (217), (218), (219), (220)(Antia, 1981; Blieck et al., 2002; Cai et al., 2020; Chen et al., 2024b; Choo et al., 2017; Mark-Kurik, 1969; Märss et al., 2003; Mu et al., 1986; Musteikis, 1999; Wang and Dong, 1989; Zhao, 2010; Zhao and Zhu, 2015; Zhu et al., 2016; Zhu et al., 2013; Zhu et al., 2009; Zhu et al., 2019)
+
 37. Kureessaare-Kaugatuma
 Stratigraphy/Location. Kuressaare and Kaugatuma Formation, Tahula, Kudjape and Aigu Beds/ Saaremaa Island, Estonia.
 Age. Ludlow–Pridoli (Late Ludfordian–).
@@ -2002,6 +2020,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
