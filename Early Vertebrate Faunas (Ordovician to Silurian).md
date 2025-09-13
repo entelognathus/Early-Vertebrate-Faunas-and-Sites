@@ -833,174 +833,104 @@ Thelodonti: Paralogania martinssoni.
 > - **References**:(Blom et al., 2002; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss et al., 2015; Qu et al., 2015)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-13. Gotland2
-Stratigraphy/Location. Halla, Mulde, Klinteberg, and Slite Formation/ Gotland, Sweden.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA3–5.
-Taxa
-Anaspida: Birkeniida sp. 1, Birkeniida sp. 2, Birkeniida sp. 3, Pterygolepis nitida, Rhyncholepis parvula, Rhyncholepis butriangula, Rytidolepis quenstedti, Schidiosteus mustelensis.
+**Halla, Mulde, Klinteberg, and Slite Formation, Gotland, Sweden**
+> - **Age**: Sheinwoodian to Homerian.
+> - **Taxa**: Anaspida: Birkeniida sp. 1, Birkeniida sp. 2, Birkeniida sp. 3, Pterygolepis nitida, Rhyncholepis parvula, Rhyncholepis butriangula, Rytidolepis quenstedti, Schidiosteus mustelensis.
 Osteostraci: Oeselaspis sp., Tremataspis sp., gen. indet.
 Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia martinssoni, Loganellia prolata, Loganellia sulcate, Logania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania martinssoni, Paralogania sp. cf. ludlowiensis, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus parvidens, Thelodus schmidti, Thelodus visvaldi.
-References. (12), (53), (77), (103), (104), (114), (134), (147), (151), (161), (162)(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Calner et al., 2004; Cocks et al., 2003; Fredholm, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss et al., 2002; Martinsson, 1966; Plotnick, 1999)
-
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Locality and horizon**: Halla, Mulde, Klinteberg, and Slite Formation, Gotland, Sweden.
+> - **References**: (Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Calner et al., 2004; Cocks et al., 2003; Fredholm, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss et al., 2002; Martinsson, 1966; Plotnick, 1999)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Malmoya Formation, Norway**
+> - **Age**: Sheinwoodian.
+> - **Taxa**: Thelodonti: Loganellia einari.
+> - **Locality and horizon**: Malmoya Formation, Gjettum Station, Asker, Oslo, Norway.
+> - **References**: (Bremer et al., 2019; Marss, 1996)
 > - **Comments**: 
 
-
-4. Asker2
-Stratigraphy/Location. Malmoya Formation/ Gjettum Station, Asker, Oslo, Norway.
-Age. Wenlock (Sheinwoodian).
-Environment. BA0–3?.
-Taxa
-Thelodonti: Loganellia einari.
-References. (71), (140)(Bremer et al., 2019; Marss, 1996)
-
-
-26. Ringerike1
-Stratigraphy/Location. Ranberget Member, Steinsfjorden, Sundvollen Formation/ Norway.
-Age. Wenlock (Late Homerian).
-Environment. BA0–3?.
-Taxa
-Anaspida: Birkenia elegans?, Pterygolepis nitida, Rhyncholepis parvula, Pharyngolepis oblonga.
+**Ranberget Member, Steinsfjorden, Sundvollen Formation, Norway**
+> - **Age**: Late Homerian.
+> - **Taxa**: Anaspida: Birkenia elegans?, Pterygolepis nitida, Rhyncholepis parvula, Pharyngolepis oblonga.
 Thelodonti: Loganellia avonia, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia colossea, Loganellia sulcate, Loganellia prolata.
 Osteostraci: cf. Tyriaspis whitei, gen. indet.
-References. (71), (114), (173)(Blom et al., 2002; Bremer et al., 2019; Davies et al., 2005)
-
-5. Brinkmarsh Quarry
-Stratigraphy/Location. Brinkmarsh Beds/ Brinkmarsh Quarry, Whitefield, UK.
-Age. Wenlock (Sheinwoodian).
-Environment. BA3.
-Taxa
-Thelodonti: Loganellia avonia.
-References. (12), (80)(Boucot and Janis, 1983; Turner, 2000)
-
-6. Clew Bay
-Stratigraphy/Location. Bunnamohaun Siltstone/ Clew Bay, County Mayo, Ireland.
-Age. Wenlock (Sheinwoodian).
-Environment. BA0.
-Taxa
-Anaspida: Birkenia elegans.
-References. (114), (141), (142)(Blom et al., 2002; Maguire and Graham, 1995; Palmer et al., 1989)
-
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Locality and horizon**: Ranberget Member, Steinsfjorden, Sundvollen Formation, Norway.
+> - **References**: (Blom et al., 2002; Bremer et al., 2019; Davies et al., 2005)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Bunnamohaun Siltstone, Ireland**
+> - **Age**: Sheinwoodian.
+> - **Taxa**: Anaspida: Birkenia elegans.
+> - **Locality and horizon**: Bunnamohaun Siltstone, Clew Bay, County Mayo, Ireland.
+> - **References**: (Blom et al., 2002; Maguire and Graham, 1995; Palmer et al., 1989)
 > - **Comments**: 
 
-8. Tortworth Inlier
-Stratigraphy/Location. Brinkmarsh Beds/ Tortworth Inlier, Gloucestershire, UK.
-Age. Wenlock (Sheinwoodian).
-Environment. BA3–4.
-Taxa
-Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia prolata, Loganellia sulcata, Logania sp. cf. cuneata, Logania cruciformis, Logania ludlowiensis, Logania scotica, Thelodus sp. cf. traquairi.
-References. (12), (134), (145)(Boucot and Janis, 1983; Märss et al., 2002; Siveter and Turner, 1982)
-
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Brinkmarsh Beds, Brinkmarsh Quarry, Whitefield, UK**
+> - **Age**: Sheinwoodian.
+> - **Taxa**:Thelodonti: Loganellia avonia.
+> - **Locality and horizon**: Brinkmarsh Beds, Brinkmarsh Quarry, Whitefield, UK.
+> - **References**:(Boucot and Janis, 1983; Turner, 2000)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Brinkmarsh Beds, Tortworth Inlier, Gloucestershire, UK**
+> - **Age**: Sheinwoodian.
+> - **Taxa**: (Boucot and Janis, 1983; Märss et al., 2002; Siveter and Turner, 1982)
+> - **Locality and horizon**:Brinkmarsh Beds, Tortworth Inlier, Gloucestershire, UK
+> - **References**: Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia prolata, Loganellia sulcata, Logania sp. cf. cuneata, Logania cruciformis, Logania ludlowiensis, Logania scotica, Thelodus sp. cf. traquairi.
 > - **Comments**: 
 
-14. Hagshaw Hills
-Stratigraphy/Location. Fish Bed and Smithy Burn Formations, Glenbuck Group/ Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland.
-Age. Wenlock (Homerian and Sheinwoodian).
-Environment. BA0.
-Taxa
-Anaspida: Birkenia elegans.
+**Fish Bed and Smithy Burn Formations, Glenbuck Group, Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland**
+> - **Age**: Sheinwoodian to Homerian.
+> - **Taxa**: Anaspida: Birkenia elegans.
 Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa, Shielia taiti.
-References. (77), (108)(Märss and Ritchie, 1998; Plotnick, 1999)
+> - **Locality and horizon**: Fish Bed and Smithy Burn Formations, Glenbuck Group, Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland.
+> - **References**:(Märss and Ritchie, 1998; Plotnick, 1999)
+> - **Comments**: 
 
-17. Lesmahagow2
-Stratigraphy/Location. Slot Burn and Birkenhead Burn Formations/ Lesmahagow, Lanarkshire, Midland Valley, Scotland.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA0–1.
-Taxa
-Anaspida: Birkenia elegans.
+**Fish Bed and Henshaw Formations, Lyne Water, Pentland Hills, Midland Valley, Scotland**
+> - **Age**: Sheinwoodian to Homerian.
+> - **Taxa**:Anaspida: Birkenia elegans, Lasanius problematicus.
+Thelodonti: Shielia gibba, Shielia multispinata, Shielia parca, Shielia taiti.
+> - **Locality and horizon**: Fish Bed and Henshaw Formations, Lyne Water, Pentland Hills, Midland Valley, Scotland.
+> - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Plotnick, 1999; Stetson, 1931; Traquair, 1898a)
+> - **Comments**:
+> -  
+**Slot Burn and Birkenhead Burn Formations, Lesmahagow, Lanarkshire, Midland Valley, Scotland**
+> - **Age**: Sheinwoodian to Homerian.
+> - **Taxa**:Anaspida: Birkenia elegans.
 Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa.
 Osteostraci: Ateleaspis tesselata.
-References. (77), (108), (114), (166), (167), (168)(Blom et al., 2002; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898a; Walton and Oliver, 1991; Wellman and Richardson, 1993)
+> - **Locality and horizon**: Slot Burn and Birkenhead Burn Formations, Lesmahagow, Lanarkshire, Midland Valley, Scotland.
+> - **References**:(Blom et al., 2002; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898a; Walton and Oliver, 1991; Wellman and Richardson, 1993)
+> - **Comments**: 
 
-18. Lyne Water
-Stratigraphy/Location. Fish Bed and Henshaw Formations/ Lyne Water, Pentland Hills, Midland Valley, Scotland.
-Age. Wenlock (Sheinwoodian and Homerian).
-Environment. BA0–1.
-Taxa
-Anaspida: Birkenia elegans, Lasanius problematicus.
-Thelodonti: Shielia gibba, Shielia multispinata, Shielia parca, Shielia taiti.
-References. (12), (77), (114), (134), (136), (166)(Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Plotnick, 1999; Stetson, 1931; Traquair, 1898a)
+**Longwood Shale Formation, New Jersey, USA**
+> - **Age**: Homerian to Gorstian.
+> - **Taxa**: Heterostraci: Vernonaspis sp.
+> - **Locality and horizon**: Longwood Shale Formation, New Jersey, USA.
+> - **References**: (Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
+> - **Comments**: 
 
-28. Longwood Shale
-Stratigraphy/Location. Longwood Shale Formation/ New Jersey, USA.
-Age. Wenlock–Ludlow (Homerian–Gorstian).
-Environment. BA1.
-Taxa
-Heterostraci: Vernonaspis sp.
-References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
+**Medina Formation, Shawangunk Formation, New York, USA**
+> - **Age**: Homerian to Gorstian.
+> - **Taxa**: Heterostraci: Eoarchegonaspis wardelli, Vernonaspis sp., Vernonaspis vaningeni.
+> - **Locality and horizon**: Medina Formation, Shawangunk Formation, New York, USA.
+> - **References**: (Boucot and Janis, 1983; Bryant, 1926; Denison, 1964; Fillmore et al., 2020; Flower and Wayland-Smith, 1952; Kiaer, 1932; Plotnick, 1999; Sepkoski, 1998)
+> - **Comments**: 
 
+**Formation**
+> - **Age**: Homerian to Gorstian.
+> - **Taxa**: Thelodonti: Niurolepis susanae.
+> - **Locality and horizon**: Niur Formation, Derenjal Mountains, Iran.
+> - **References**: (Hairapetian et al., 2008)
+> - **Comments**: 
 
-30. Shawangunk Formation
-Stratigraphy/Location. Medina Formation, Shawangunk Formation/ New York, USA.
-Age. Wenlock–Ludlow (Homerian–Gorstian).
-Environment. BA1.
-Taxa
-Heterostraci: Eoarchegonaspis wardelli, Vernonaspis sp., Vernonaspis vaningeni.
-References. (12), (68), (77), (133), (176), (177), (178), (179)(Boucot and Janis, 1983; Bryant, 1926; Denison, 1964; Fillmore et al., 2020; Flower and Wayland-Smith, 1952; Kiaer, 1932; Plotnick, 1999; Sepkoski, 1998)
-
-
-27. Derenjal Mountains
-Stratigraphy/Location. Niur Formation/ Derenjal Mountains, Iran.
-Age. Late Wenlock–Ludlow (Homerian–Gorstian).
-Environment. BA1–2.
-Taxa
-Thelodonti: Niurolepis susanae.
-References. (174)(Hairapetian et al., 2008)
-
-25. Qinling Mountains
-Stratigraphy/Location. Miaogou Formation/ Gansu, Zoige and Tewo County, Sichuan Province, West Qinling Mountains, China.
-Age. Wenlock (Homerian).
-Environment. BA1–.
-Taxa
-Acanthodii: Nostolepis tewonensis.
-References. (75), (95), (170), (171), (172)(Chen et al., 2024b; Rong et al., 2019; Wang et al., 1998a; Zhao et al., 2012; Zhao and Zhu, 2010)
-
+**Miaogou Formation, Zoige, Gansu and Tewo, Sichuan, China**
+> - **Age**: Homerian.
+> - **Taxa**: Acanthodii: Nostolepis tewonensis.
+> - **Locality and horizon**: Miaogou Formation, Zoige, Gansu and Tewo, Sichuan, China.
+> - **References**: (Chen et al., 2024b; Rong et al., 2019; Wang et al., 1998a; Zhao et al., 2012; Zhao and Zhu, 2010)
+> - **Comments**: 
 
 **The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
 > Cape Phillips Formation, lower Sheinwoodian, lower Wenlock; sample at 90.0 m in the Baillie-Hamilton BH1 section, which corresponds to a level in the Monograptus riccartonensis - Monograptus belophorus GZ as determined by the carbon isotope curve pattern (Marss et al. 1998a).
@@ -1998,6 +1928,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
