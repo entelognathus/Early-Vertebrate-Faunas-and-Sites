@@ -642,10 +642,11 @@ Chondrichthyes: Neosincanthus planispinatus, Sinacanthus triangulates, Sinacanth
 > - **Comments**: 
 
 **Upper Red beds, South China, Maoshan Assemblage, upper Telychian**
+
 16) **Huixingshao Formation, China**
 > - **Age**: late Telychian.
-> - **Taxa**: Galeaspida: [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., 2024;Eugaleaspis xiushanensis, 
-Chondrichthyes: Chenolepis asketa, Rongolepis cosmetica, Shenacanthus vermiformi, Shiqianolepis hollandi, Sinacanthus wuchangenis, Xinjiangichthys pluridentatus, Xinjiangichthys sp. [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022;  
+> - **Taxa**: Galeaspida: [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., 2024; 
+Chondrichthyes: *Chenolepis asketa*, *Rongolepis cosmetica*, *Shenacanthus vermiformi*, *Shiqianolepis hollandi*, *Sinacanthus wuchangenis*, *Xinjiangichthys pluridentatus*, *Xinjiangichthys* sp. [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022;  
 Placodermi: [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022.
 > - **Locality and horizon**: Huixingshao Formation, 1) Xiushan, Chongqing, 2) Kapeng, Baoqing, Hunan, China.
 > - **References**: (Chen et al., 2022; Chen et al., 2024a; Holland and Bassett, 2002; Li et al., 2021; Rong et al., 2019; Wang et al., 1986; Zhao and Zhu, 2010; Zhu and Gai, 2007; Zhu et al., 2022)
@@ -1248,38 +1249,35 @@ References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Den
 
 
 **Ludlow Red beds, South China**
-15) **Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+
+15) **Xiaoxi Formation, Baojing, Hunan, China**
+> - **Age**: Late Ludfordian, Ludlow.
+> - **Taxa**: Galeaspida: Dunyu xiushanensis, Dunyu cf. xiushanensis, Eugaleaspis cf. xiushanensis.
+> - **Locality and horizon**: Xiaoxi Formation, Baojing, Hunan, China.
+> - **References**:(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
 > - **Comments**: 
 
-28. Baojing
-Stratigraphy/Location. Xiaoxi Formation/ Baojing, Northwestern Hunan Province, China.
-Age. Ludlow (Ludfordian).
-Environment. BA1
-Taxa. Galeaspida: Dunyu xiushanensis, Dunyu cf. xiushanensis, Eugaleaspis cf. xiushanensis.
-References. (94), (202), (203)(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
-35. Chongqing2
-Stratigraphy/Location. Xiaoxi Formation/ Chongqing, Hunan, China.
-Age. Ludlow (Late Ludfordian).
-Environment. BA1
-Taxa. Placodermi?: Bianchengichthys micros.
-References. (94), (202), (203)(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
-36. East Yunnan
-Stratigraphy/Location. Kuanti, Miaogao and Yulungssu Formations/ Qujing, East Yunnan, China.
-Age. Ludlow (Ludfordian–Pridoli).
-Environment. BA1–3
-Taxa. Galeaspida: Dunyu longiforus, Polybranchiaspis sp. Thelodonti: Thelodus sinensis, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi. Acanthodii: Gomphonchus sp., Hanilepis wangi, Nostolepis sinica, Nostolepis sp., Nostolepis striata, Poracanthodes qujingensis. Osteichthyes: Guiyu oneiros, Kawalepis comptus, Ligulalepis yunnanensis, Megamastax amblyodus, Naxilepis gracilis, Sparalepis tingi. Placodermi: Entelognathus primordialis, Silurolepis platydorsalis, Qilinyu rostrata.
-References. (123), (129), (147), (154), (156), (158), (171), (185), (213), (214), (215), (216), (217), (218), (219), (220)(Antia, 1981; Blieck et al., 2002; Cai et al., 2020; Chen et al., 2024b; Choo et al., 2017; Mark-Kurik, 1969; Märss et al., 2003; Mu et al., 1986; Musteikis, 1999; Wang and Dong, 1989; Zhao, 2010; Zhao and Zhu, 2015; Zhu et al., 2016; Zhu et al., 2013; Zhu et al., 2009; Zhu et al., 2019)
-31. Lixian
-Stratigraphy/Location. Xiaoxi Formation/ Shanmen, Reservoir, Lixian County, Hunan Province, China.
-Age. Ludlow (Ludfordian).
-Environment. BA1
-Taxa. Placodermi: Shimenolepis graniferus.
-References. (94), (202), (203), (210), (211)(Li et al., 2021; Rong et al., 2012; Wang, 1991; Zhao et al., 2018; Zhao et al., 2016)
+15) **Xiaoxi Formation, Xiushan, Chongqing, China**
+> - **Age**: Late Ludfordian, Ludlow.
+> - **Taxa**: Galeaspida: Dunyu xiushanensis; Placodermi?: Bianchengichthys micros.
+> - **Locality and horizon**: Xiaoxi Formation, Xiushan, Chongqing, China.
+> - **References**:(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
+> - **Comments**: 
 
+15) **Xiaoxi Formation,  Lixian,, Hunan, China**
+> - **Age**: Late Ludfordian, Ludlow.
+> - **Taxa**: Placodermi: Shimenolepis graniferus.
+> - **Locality and horizon**: Xiaoxi Formation, Shanmen, Reservoir, Lixian, Hunan, China.
+> - **References**:(Li et al., 2021; Rong et al., 2012; Wang, 1991; Zhao et al., 2018; Zhao et al., 2016)
+> - **Comments**: 
+
+15) **Kuanti and Miaokao Formations, Qujing, East Yunnan, China**
+> - **Age**: Late Ludfordian, Ludlow.
+> - **Taxa**: Galeaspida: Dunyu longiforus, Polybranchiaspis sp. Thelodonti: Thelodus sinensis, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi. Acanthodii: Gomphonchus sp., Hanilepis wangi, Nostolepis sinica, Nostolepis sp., Nostolepis striata, Poracanthodes qujingensis. Osteichthyes: Guiyu oneiros, Kawalepis comptus, Ligulalepis yunnanensis, Megamastax amblyodus, Naxilepis gracilis, Sparalepis tingi. Placodermi: Entelognathus primordialis, Silurolepis platydorsalis, Qilinyu rostrata.
+> - **Locality and horizon**:  Kuanti and Miaokao Formations, Qujing, East Yunnan, China.
+> - **References**: (Antia, 1981; Blieck et al., 2002; Cai et al., 2020; Chen et al., 2024b; Choo et al., 2017; Mark-Kurik, 1969; Märss et al., 2003; Mu et al., 1986; Musteikis, 1999; Wang and Dong, 1989; Zhao, 2010; Zhao and Zhu, 2015; Zhu et al., 2016; Zhu et al., 2013; Zhu et al., 2009; Zhu et al., 2019)
+> - **Comments**:
+> - 
 29. Church Hill
 Stratigraphy/Location. Lower Leintwardine Formation/ Church Hill, Herefordshire, UK.
 Age. Ludlow (Ludfordian).
@@ -1543,9 +1541,13 @@ References. (105), (114), (241)(Blieck and Janvier, 1991; Blom, 1999; Blom et al
 
 > - L. cuneata,  Goniporus alatus, heterostracans Tol. undulata, Oniscolepis dentata, acanthodians N. striata, N. alta,  Gomphonchus sandelensis, Por. punctatus.
 
-***Liaojiaoshan Assemblage of Xitun Vertebrate Fauna***: Pridoli
-> upper part of the Yulungssu Formation, Qujing, Yunnan.
-> - [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+15) **Yulungssu Formation, Qujing, East Yunnan, China**
+> - **Age**: Pridoli.
+> - **Taxa**:[*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> - **Locality and horizon**:  Yulungssu Formation, Qujing, East Yunnan, China.
+> - **References**:
+> - **Comments**: upper part of the Yulungssu Formation, Qujing, Yunnan.
+
 
 # References
 Aceñolaza, F.G., Miller, H. and Toselli, A.J., 2002. Proterozoic - Early Paleozoic evolution in western South America - a discussion. Tectonophysics, 354(1-2): 121-137.
@@ -2029,6 +2031,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
