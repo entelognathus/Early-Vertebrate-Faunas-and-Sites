@@ -965,83 +965,61 @@ Osteostraci: Ateleaspis tesselata.
 
 ## Ludlow
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Formation, Chance’s Pitch, Malvern Hills, Herefordshire, U**
+> - **Age**: Gorstian.
+> - **Taxa**:Thelodonti: Phlebolepis elegans, Phlebolepis ornata.
+> - **Locality and horizon**: Chance’s Pitch, Malvern Hills, Herefordshire, UK.
+> - **References**:(Boucot and Janis, 1983; Dineley and Metcalf, 1999; Mark-Kurik, 1969; Märss, 1986; Märss and Miller, 2004; Sepkoski, 1998; Turner, 2000)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Black Cock Beds, Cwar Glas, Dyfed, Wales, UK**
+> - **Age**: Gorstian.
+> - **Taxa**: Heterostraci: Archegonaspis ludensis.
+> - **Locality and horizon**: Black Cock Beds, Cwar Glas, Dyfed, Wales, UK.
+> - **References**:(Denison, 1964; Dineley and Metcalf, 1999)
 > - **Comments**: 
 
-3. Chance’s Pitch
-Stratigraphy/Location. Chance’s Pitch, Malvern Hills, Herefordshire, UK.
-Age. Ludlow (Gorstian).
-Environment. BA3
-Taxa. Thelodonti: Phlebolepis elegans, Phlebolepis ornata.
-References. (12), (67), (68), (80), (154), (157), (184)(Boucot and Janis, 1983; Dineley and Metcalf, 1999; Mark-Kurik, 1969; Märss, 1986; Märss and Miller, 2004; Sepkoski, 1998; Turner, 2000)
+**Middle Elton Formation, Goggin Road, Mortimer Forest, Shropshire, UK**
+> - **Age**: Gorstian.
+> - **Taxa**: Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
+> - **Locality and horizon**: Middle Elton Formation, Goggin Road/ Mortimer Forest, Shropshire, UK.
+> - **References**: (Blieck et al., 2002; Boucot and Janis, 1983; Dineley and Metcalf, 1999; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Turner and Burrow, 2018)
+> - **Comments**: 
 
-4. Cwar Glas
-Stratigraphy/Location. Black Cock Beds/ Cwar Glas, Dyfed, Wales, UK.
-Age. Ludlow (Gorstian).
-Environment. BA1
-Taxa. Heterostraci: Archegonaspis ludensis.
-References. (133), (184)(Denison, 1964; Dineley and Metcalf, 1999)
+**Elton, Bringewood, and Leintwardine Formation, Sunnyhill Quarry, Sunnydingle Cottage, Shropshire, UK**
+> - **Age**:Gorstian to Ludfordian.
+> - **Taxa**: Thelodonti: Paralogania ludlowiensis, Paralogania martinssoni, Paralogania kaarmisensis, Phlebolepis ornata, Phlebolepis elegans, Thelodus sp.
+> - **Locality and horizon**: Elton, Bringewood, and Leintwardine Formation, Sunnyhill Quarry, Sunnydingle Cottage, Shropshire, UK.
+> - **References**:(Blieck et al., 2002; Boucot and Janis, 1983; Cherns, 1999; Gross, 1968; Mark-Kurik, 1969; Märss, 1986; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Turner, 2000)
+> - **Comments**: 
 
-5. Mortimer Forest
-Stratigraphy/Location. Middle Elton Formation, Goggin Road/ Mortimer Forest, Shropshire, UK.
-Age. Ludlow (Gorstian).
-Environment. BA4–5.
-Taxa. Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
-References. (12), (147), (154), (156), (184), (185), (186)(Blieck et al., 2002; Boucot and Janis, 1983; Dineley and Metcalf, 1999; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Turner and Burrow, 2018)
+**Whitcliffe Formation and Ludlow Bone Bed, River Severn, Tite’s Point, Gloucestershire, UK**
+> - **Age**: Ludfordian to Pridoli.
+> - **Taxa**: Heterostraci: Cyathaspis banksi, Cyathaspis sp. Thelodonti: Thelodus bicostatus, Thelodus parvidens, Thelodus pugniformis, Thelodus trilobatus. Acanthodii: Onchus sp., indet.
+> - **Locality and horizon**: Whitcliffe Formation and Ludlow Bone Bed, River Severn, Tite’s Point, Gloucestershire, UK.
+> - **References**:(Dineley and Metcalf, 1999; Märss and Miller, 2004; Plotnick, 1999)
+> - **Comments**: 
 
-26. Sunnyhill Quarry
-Stratigraphy/Location. Elton, Bringewood, and Leintwardine Formation/ Sunnyhill Quarry, Sunnydingle Cottage, Shropshire, UK.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA3
-Taxa. Thelodonti: Paralogania ludlowiensis, Paralogania martinssoni, Paralogania kaarmisensis, Phlebolepis ornata, Phlebolepis elegans, Thelodus sp.
-References. (12), (53), (67), (68), (80), (147), (154), (156), (157), (190), (193)(Blieck et al., 2002; Boucot and Janis, 1983; Cherns, 1999; Gross, 1968; Mark-Kurik, 1969; Märss, 1986; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Turner, 2000)
+**Lower Leintwardine Formation, Church Hill, Herefordshire, UK**
+> - **Age**: Ludfordian.
+> - **Taxa**: Heterostraci: Archegonaspis ludensis.
+> - **Locality and horizon**: Lower Leintwardine Formation, Church Hill, Herefordshire, UK.
+> - **References**: (Boucot and Janis, 1983; Dineley and Metcalf, 1999)
+> - **Comments**: 
 
-43. Tite’s Point
-Stratigraphy/Location. Whitcliffe Formation and Ludlow Bone Bed/ River Severn, Tite’s Point, Gloucestershire, UK.
-Age. Ludlow–Pridoli (Ludfordian–Pridoli).
-Environment. BA2?
-Taxa. Heterostraci: Cyathaspis banksi, Cyathaspis sp. Thelodonti: Thelodus bicostatus, Thelodus parvidens, Thelodus pugniformis, Thelodus trilobatus. Acanthodii: Onchus sp., indet.
-References. (67), (77), (184)(Dineley and Metcalf, 1999; Märss and Miller, 2004; Plotnick, 1999)
+**Whitcliffe (Overton) Formation and Downton Castle Formation, Ludlow Much Wenlock District, Shropshire, UK**
+> - **Age**: Ludfordian to Pridoli.
+> - **Taxa**:Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus marginatus, Thelodus matukhini, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus parvidens, Nethertonodus prodigialis.
+> - **Locality and horizon**: Whitcliffe (Overton) Formation and Downton Castle Formation, Ludlow Much Wenlock District, Shropshire, UK.
+> - **References**:(Antia, 1980; Antia, 1981; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Vergoossen, 2002; Vergoossen, 2004)
+> - **Comments**: 
 
-29. Church Hill
-Stratigraphy/Location. Lower Leintwardine Formation/ Church Hill, Herefordshire, UK.
-Age. Ludlow (Ludfordian).
-Environment. BA2–3
-Taxa. Heterostraci: Archegonaspis ludensis.
-References. (12), (184)(Boucot and Janis, 1983; Dineley and Metcalf, 1999)
-
-
-30. Irian Jaya
-Stratigraphy/Location. Kemum Formation?/ Lorentz River, Irian Jaya, Papua, Western New Guinea.
-Age. Ludlow (Ludfordian).
-Environment. BA1
-Taxa. Thelodonti: Thelodus sp. cf. T. trilobatus, Turinia sp., indet. Acanthodii: Gomphonchus sp. cf. G. sandelensis, Nostolepis sp. cf. N. striata, fam. gen. et sp. indet., indet. Chondrichthyes: gen. et sp. indet.
-References. (204), (205), (206), (207), (208), (209)(Bowman et al., 2019; Burrow et al., 2010; Liu et al., 2021; Oliver et al., 1995; Talent et al., 2003; Turner et al., 1995)
-
-32. Much Wenlock
-Stratigraphy/Location. Whitcliffe (Overton) Formation and Downton Castle Formation/ Ludlow Much Wenlock District, Shropshire, UK.
-Age. Ludlow–Pridoli (Ludfordian–Pridoli).
-Environment. BA1
-Taxa. Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus marginatus, Thelodus matukhini, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus parvidens, Nethertonodus prodigialis.
-References. (63), (67), (156), (158), (159), (185), (212)(Antia, 1980; Antia, 1981; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Vergoossen, 2002; Vergoossen, 2004)
-
-34. Onibury
-Stratigraphy/Location. Leintwardine Formation/ Onibury, Shropshire, UK.
-Age. Ludlow (Ludfordian).
-Environment. BA3
-Taxa. Thelodonti: Paralogania kaarmisensis, Paralogania consimilis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae.
-References. (12), (67), (77), (156), (193)(Boucot and Janis, 1983; Cherns, 1999; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999)
+**Leintwardine Formation, Onibury, Shropshire, UK**
+> - **Age**: Ludfordian.
+> - **Taxa**: Thelodonti: Paralogania kaarmisensis, Paralogania consimilis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae.
+> - **Locality and horizon**:Leintwardine Formation, Onibury, Shropshire, UK.
+> - **References**: (Boucot and Janis, 1983; Cherns, 1999; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999)
+> - **Comments**: 
 
 38. Netherton
 Stratigraphy/Location. Whitcliffe Formation and Downton Castle Sandstone Formation/ Netherton, UK.
@@ -1049,6 +1027,34 @@ Age. Late Ludlow to Early Pridoli.
 Environment. BA0–2?
 Taxa. Thelodonti: Nethertonodus laadjalaensis, Nethertonodus prodigialis, Paralogania borealis, Paralogania cf. P. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania tarranti, Paralogania wilsoni, Thelodus parvidens.
 References. (12), (67), (77), (184)(Boucot and Janis, 1983; Dineley and Metcalf, 1999; Märss and Miller, 2004; Plotnick, 1999)
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 7. Ringerike2
 Stratigraphy/Location. Ringerike Group, Sundvollen Formation/ Ringerike, Oslo, Norway.
@@ -1064,6 +1070,20 @@ Environment. BA2–3
 Taxa. Anaspida: Pharyngolepis sp., Tahulalepis elongituberculata, Schidiosteus mustelensis, Silmalepis erinacea. Heterostraci: Archegonaspis sp., Archegonaspis sp. B, Cyathaspis integer. Osteostraci: Tremataspis sp. Thelodonti: Loganellia cuneata, Loganellia sp. cf. L. grossi, Loganellia incompta, Oeselia mosaica, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania sp. cf. P. ludlowiensis, Phlebolepis elegans, Phlebolepis ornata, Thelodus sculptilis, Thelodus parvidens, Thelodus schmidti, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 References. (12), (79), (114), (153), (154), (155), (160)(Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 1977; Märss, 2003; Märss et al., 2015)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 15. Gotland3
 Stratigraphy/Location. Hemse Group, Eke, Burgsvik, Hamra, and Sundre Formation/ Gotland, Sweden.
 Age. Ludlow (Ludfordian and Gorstian).
@@ -1078,6 +1098,20 @@ Environment. BA3
 Taxa. Anaspida: Rhyncholepis (Saarolepis) oeselensis. Osteostraci: Cephalaspis oeselensis, Dartmuthia gemmifera, Oeselaspis pustulata, Saaremaaspis mickwitzi, Thyestes verrucosus, Tremataspis mamillata, Tremataspis milleri, Tremataspis panderi, Tremataspis patteni, Tremataspis rohoni, Tremataspis scalaris, Tremataspis schmidti, Witaaspis patteni, Witaaspis schrenkii. Thelodonti: Coelolepis luhai. Heterostraci: Tolypelepis undulata.
 References. (12), (176), (197), (198), (199), (200), (201)(Boucot and Janis, 1983; Kiaer, 1932; Ritchie, 1980; Robertson, 1939; Robertson, 1941; Robertson, 1945; Robertson, 1950)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 24. Paadla
 Stratigraphy/Location. Paadla Formation, Sauvere, Himmiste and Uduvere Beds/ Saaremaa Island, Estonia.
 Age. Ludlow (Gorstian–Ludfordian).
@@ -1091,6 +1125,20 @@ Age. Ludlow (Gorstian).
 Environment. ?
 Taxa. Osteostraci: Rotsikiillaspis obrutchevi.
 References. (188)(Robertson, 1938)
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 44. Winnica
 Stratigraphy/Location. Upper Winnica Formation/ Winnica section, Holy Cross Mountains, Poland.
@@ -1113,6 +1161,20 @@ Environment. BA3
 Taxa. Anaspida: Liivilepis curvata, Tahulalepis elongituberculata, Trimpleylepis concatenate. Osteostraci: Dartmuthia procera, Ohesaareaspis ponticulata, Tahulaspis aff. ordinata, Tahulaspis cf. praevia, Tahulaspis ordinata. Thelodonti: Longodus acicularis, Nethertonodus laadjalaensis, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae, Thelodus admirabilis, Thelodus sculptilis. Acanthodii: Nostolepis gracilis.
 References. (12), (81), (114), (160), (164), (165), (221), (222)(Blom et al., 2002; Boucot and Janis, 1983; Janvier and Lelievre, 1994; Märss et al., 2015; Märss and Männik, 2013; Miller et al., 2004; Qu et al., 2015) (Einasto, 1990)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 40. Skane
 Stratigraphy/Location. Klinta and Oved Sandstone Formation, Oved Ramsasa Group/ Katina, Helvetesgraben, Rinnebacks bro, Ramsasa, Skane, South Sweden.
 Age. Ludlow–Pridoli (Ludfordian–Pridoli).
@@ -1134,6 +1196,20 @@ Environment. BA1
 Taxa. Heterostraci: Archegonaspis drummondi, Vernonaspis sp., Vernonaspis allenae, Vernonaspis leonardi.
 References. (12), (77), (175), (177)(Boucot and Janis, 1983; Broad and Lenz, 1972; Flower and Wayland-Smith, 1952; Plotnick, 1999)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 18. Longwood Shale
 Stratigraphy/Location. Longwood Shale Formation/ New Jersey, USA.
 Age. Ludlow (Gorstian–Ludfordian).
@@ -1148,6 +1224,20 @@ Environment. BA0
 Taxa. Heterostraci: Vernonaspis bryanti, Vernonaspis vaningeni, Vernonaspis sp., Americaspis americana. Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 References. (12), (63), (68), (77), (133), (154), (156), (158), (175), (185), (196)(Antia, 1981; Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Giffin, 1979; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 17. Leopold Formation1
 Stratigraphy/Location. Cape Clarence Member, Leopold Formation/ Nunavut, Canada.
 Age. Ludlow (Gorstian–Ludfordian).
@@ -1161,6 +1251,20 @@ Age. Ludlow (Gorstian).
 Environment. BA0–1
 Taxa. Heterostraci: Alainaspis platyrhina, Rhachiaspis pteriga.
 References. (12), (180), (181), (187)(Boucot and Janis, 1983; Elliott, 1983; Elliott and Dineley, 1983; Jones and Dixon, 1977)
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 10. Arisaig1
 Stratigraphy/Location. Mcadam Brook and Moydart Formation/ Arisaig, Cape George, Nova Scotia, Canada.
@@ -1183,12 +1287,48 @@ Environment. BA2–3?
 Taxa. Heterostraci: Ariaspis ornata, Dikenaspis yukonensis, Homalaspis borealis, Ptomaspis canadensis, Vernonaspis epitegosa, Vernonaspis major, Vernonaspis sekwiae.
 References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 33. Mount Sekwi
 Stratigraphy/Location. Delorme Group/ Mount Sekwi, Keele River, Canada.
 Age. Ludlow (Ludfordian).
 Environment. BA3
 Taxa. Heterostraci: Vernonaspis sekwiae.
 References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+30. Irian Jaya
+Stratigraphy/Location. Kemum Formation?/ Lorentz River, Irian Jaya, Papua, Western New Guinea.
+Age. Ludlow (Ludfordian).
+Environment. BA1
+Taxa. Thelodonti: Thelodus sp. cf. T. trilobatus, Turinia sp., indet. Acanthodii: Gomphonchus sp. cf. G. sandelensis, Nostolepis sp. cf. N. striata, fam. gen. et sp. indet., indet. Chondrichthyes: gen. et sp. indet.
+References. (204), (205), (206), (207), (208), (209)(Bowman et al., 2019; Burrow et al., 2010; Liu et al., 2021; Oliver et al., 1995; Talent et al., 2003; Turner et al., 1995)
 
 12. Derenjal Mountains2
 Stratigraphy/Location. Niur Formation/ Derenjal Mountains, Iran.
@@ -1205,6 +1345,20 @@ Environment. BA2–4?
 Taxa. Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri.
 References. (53), (67), (76), (147), (156)(Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 14. Elegest and Kadvoi 3
 Stratigraphy/Location. Taungateli Horizon, Baytal Formation, Khondergei Formation/ Elegest and Kadvoi Rivers, Tuva, Russia.
 Age. Ludlow (Gorstian–Ludfordian).
@@ -1218,6 +1372,20 @@ Age. Ludlow (Gorstian–Ludfordian).
 Environment. BA2–4?
 Taxa. Anaspida: Schidiosteus mustelensis, Spokoinolepis alternans. Thelodonti: Paralogania kaarmisensis, Paralogania menneri, Paralogania martinssoni, Phlebolepis elegans, Thelodus sp., Thelodus visvaldi, Valiukia flabellata, Valiukia sp.
 References. (53), (76), (114), (147)(Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002)
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 21. Novaya Zemlya
 Stratigraphy/Location. Samojlovich and Ust' Spokoinaya Formation/ Novaya Zemlya Archipelago, Russia.
@@ -1233,6 +1401,20 @@ Environment. BA2–4?
 Taxa. Anaspida: Birkeniida sp., Pterygolepis nitida, Rytidolepis quenstedti. Thelodonti: Loganellia sp. cf. L. grossi, Loganellia incompta, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania sp. cf. P. ludlowiensis, Valiukia sp. 1.
 References. (12), (53), (63), (67), (68), (76), (79), (147), (154), (156), (158), (159), (185), (186)(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Männik et al., 2002; Mark-Kurik, 1969; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Sepkoski, 1998; Turner and Burrow, 2018; Vergoossen, 2002; Vergoossen, 2004)
 
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 25. Spokoinaya-Ushakov River2
 Stratigraphy/Location. Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River/ October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 Age. Ludlow (Gorstian–Ludfordian).
@@ -1246,6 +1428,20 @@ Age. Ludlow–Pridoli (Ludfordian–Pridoli).
 Environment. BA2–4?
 Taxa. Thelodonti: Paralogania ludlowiensis, Paralogania kaarmisensis, Paralogania menneri, Paralogania perensae, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni.
 References. (53), (67), (76), (156), (193)(Cherns, 1999; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Formation**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 42. Tabuska Beds
 Stratigraphy/Location. Tabuska Beds/ Tabuska River, Central Ural Mountains, Russia.
@@ -1943,6 +2139,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
