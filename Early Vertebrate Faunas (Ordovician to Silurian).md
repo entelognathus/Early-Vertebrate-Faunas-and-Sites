@@ -1311,112 +1311,117 @@ Osteostraci: Ateleaspis tesselata.
 
 ## Pridoli
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Stonehouse Formation, Arisaig, Cape George, Nova Scotia, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Thelodonti: Thelodus cf. parvidens. Acanthodii: Machaeraporus stonehousensis.
+> - **Locality and horizon**: Stonehouse Formation, Arisaig, Cape George, Nova Scotia, Canada.
+> - **References**:(Boucot and Janis, 1983; Burrow et al., 2013; Turner and Burrow, 2018)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Thelodonti: Trimerolepis lithuanica, Trimerolepis timanica, Trimerolepis triangulus, Trimerolepis tricava.
+> - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
+> - **References**: (Boucot and Janis, 1983; Mark-Kurik, 1969; Märss et al., 1997)
 > - **Comments**: 
-1. Arisaig2
-Stratigraphy/Location. Stonehouse Formation/ Arisaig, Cape George, Nova Scotia, Canada.
-Age. Pridoli.
-Environment. BA1.
-Taxa Thelodonti: Thelodus cf. parvidens. Acanthodii: Machaeraporus stonehousensis.
-References. (12), (186), (225)(Boucot and Janis, 1983; Burrow et al., 2013; Turner and Burrow, 2018)
-2. Baillie-Hamilton Island4
-Stratigraphy/Location. Cape Phillips Formation/ Baillie-Hamilton Island, Nunavut, Canada.
-Age. Pridoli.
-Environment. BA5.
-Taxa Thelodonti: Trimerolepis lithuanica, Trimerolepis timanica, Trimerolepis triangulus, Trimerolepis tricava.
-References. (12), (93), (154)(Boucot and Janis, 1983; Mark-Kurik, 1969; Märss et al., 1997)
-3. Bertie Formation
-Stratigraphy/Location. Bertie Formation/ Konservat-Lagerstatte, southern Ontario, Canada.
-Age. Pridoli.
-Environment. BA1.
-Taxa Acanthodii: Nerepisacanthus denisoni.
-References. (226)(Burrow and Rudkin, 2014)
-4. East Baltic3
-Stratigraphy/Location. Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Oesel, Jura, and Tilze Formations/ Estonia and Latvia, East Baltic.
-Age. Pridoli.
-Environment. BA3.
-Taxa Heterostraci: Oniscolepis dentata, Strosipherus indentatus, Tolypelepis undulata, Tylodus deltoides. Thelodonti: Goniporous alatus, Katoporodus tricavus, Loganellia asiatica, Loganellia cf. tuvaensis, Loganellia cuneata, Loganellia incompta, Loganellia tuvaensis, Loganellia unispinata, Logania kummerowi, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni, Thelodus admirabilis, Thelodus bicostatus, Thelodus carinatus, Thelodus costatus, Thelodus parvidens, Thelodus pugniformis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Trimerolepis lithuanica, Trimerolepis triangulus, Trimerolepis tricava. Acanthodii: Onchus wheathillensis, Nostolepis alta, Nostolepis gracilis, Nostolepis kozhymica, Nostolepis paravolborthi, Nostolepis striata, Nostolepis zinaidae.
-References. (12), (53), (63), (67), (68), (77), (79), (80), (114), (147), (153), (154), (156), (157), (158), (159), (160), (163), (185), (227)(Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Kiipli et al., 2011; Mark-Kurik, 1969; Märss, 1977; Märss, 1986; Märss et al., 2015; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner, 2000; Vergoossen, 2002; Vergoossen, 2004)
-5. Gotland4
-Stratigraphy/Location. Burgsvik Sandstone/ Gotland, Sweden.
-Age. Pridoli.
-Environment. BA2.
-Taxa Thelodonti: Thelodus bicostatus, Thelodus carinatus, Thelodus costatus, Thelodus pugniformis, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus. Osteichthyes: Andreolepis hedei, Andreolepis petri.
-References. (12), (53), (63), (67), (68), (77), (79), (104), (114), (138), (147), (154), (156), (159), (162), (190), (191), (192), (193)(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Bremer and Blom, 2015; Cherns, 1999; Eriksson et al., 2009; Gross, 1968; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 2001; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Martinsson, 1966; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002; Vergoossen, 2004)
-6. Holmestrand
-Stratigraphy/Location. Ringerike Group, Steinsfjorden, Upper Sundvollen Formation/ Holmestrand, Oslo, Norway.
-Age. Pridoli.
-Environment. BA0–1.
-Taxa Osteostraci: Hemicyclaspis kiaeri, Hemicyclaspis murchinsoni.
-References. (12), (114), (173), (228)(Blom et al., 2002; Boucot and Janis, 1983; Davies et al., 2005; Davies et al., 2006)
-7. Kenwood2
-Stratigraphy/Location. Vernon-Pittsford Formation/ Kenwood, New York, USA.
-Age. Pridoli.
-Environment. BA1.
-Taxa Heterostraci: Archaegonaspis sp., Vernonaspis sp.
-References. (12), (68), (77)(Boucot and Janis, 1983; Plotnick, 1999; Sepkoski, 1998)
-8. Ledbury
-Stratigraphy/Location. Downton Castle Sandstone Formation and Ledbury Formation/ Ledbury, Herefordshire, UK.
-Age. Pridoli.
-Environment. BA0–1.
-Taxa Anaspida: Tahulalepis kingi. Heterostraci: Kallostrakon sp.. Osteostraci: Auchenaspis egertoni, Auchenaspis sp., Didymaspis grindrodi, Hemicyclaspis lightbodii, Hemicyclaspis murchisoni. Acanthodii: Onchus mirabilis, Onchus sp., Plectrodus mirabilis, Plectrodus sp..
-References. (12), (114), (184)(Blom et al., 2002; Boucot and Janis, 1983; Dineley and Metcalf, 1999)
-9. Leopold Formation2
-Stratigraphy/Location. Cape Clarence Member, Leopold Formation/ Nunavut, Canada.
-Age. Pridoli.
-Environment. BA1–2.
-Taxa Heterostraci: Corvaspis cf. arctica, Kallostrakon? sp. indet., Ptomaspis n.sp., Tolypelepis cf. leopoldensis, Tolypelepis leopoldensis.
-References. (77), (229), (230)(Loeffler and Jones, 1977; Miall and Kerr, 1977; Plotnick, 1999)
-10. Nerepis Hills
-Stratigraphy/Location. Clinton Member, Cunningham Creek Formation/ Nerepis Hills, New Brunswick, Canada.
-Age. Pridoli.
-Environment. BA1.
-Taxa Anaspida: Ctenopleuron nerepisense. Thelodonti: Thelodus macintoshi. Heterostraci: Cyathaspis acadica. Acanthodii: Nerepisacanthus denisoni.
-References. (85), (186), (197), (231), (232), (233), (234)(Burrow, 2011; Denison, 1956; Matthew, 1889; Matthew, 1907; Robertson, 1941; Turner, 1986; Turner and Burrow, 2018)
-11. Pioneer Island 4
-Stratigraphy/Location. Krasnaya Bukhta Formation/ Pioneer Island, Severnaya Zemlya Archipelago, Russia.
-Age. Pridoli.
-Environment. BA2–3.
-Taxa Anaspida: Spokoinolepis alternans. Thelodonti: Loganellia asiatica, Loganellia cf. tuvaensis, Loganellia incompta, Loganellia tuvaensis, Loganellia unispinata, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni, Thelodus sp..
-References. (12), (53), (67), (68), (76), (114), (147), (156)(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998)
-12. Somerset Island3
-Stratigraphy/Location. Somerset Formation/ Somerset Island, Northwest Territories, Canada.
-Age. Pridoli.
-Environment. BA1–2?3?.
-Taxa Heterostraci: Alainaspis platyrhina, Anchipteraspis crenulate, Archegonaspis schmidti, Ariaspis arctata, Boothiaspis alata, Boothiaspis ovata, Capitaspis giblingi, Corvaspis arctica, Pionaspis sp., Torpedaspis elongate. Osteostraci: Hemicyclaspis murchinsoni.
-References. (12), (180), (181), (183), (235), (236), (237), (238)(Boucot and Janis, 1983; Broad and Dineley, 1973; Elliott and Dineley, 1983; Elliott and Swift, 2010; Jones and Dixon, 1977; Loeffler and Dineley, 1976; Miall et al., 1978; Novitskaya, 2007)
-13. Timan2
-Stratigraphy/Location. Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group/ Northern Timan (Timan-Pechora Region), Russia.
-Age. Pridoli.
-Environment. BA0–1.
-Taxa Osteostraci: Timanaspis kossovoii. Heterostraci: Oniscolepis dentata. Thelodonti: Goniporous alatus, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Phlebolepis elegans, Trimerolepis timanica. Acanthodii: Gomphonchus abruptus, Gomphonchus minicostaus, Monospina erecta, Nostolepis alta, Nostolepis gracilis, Nostolepis kozhymica, Nostolepis paravolborthi, Nostolepis striata, Nostolepis zinaidae.
-References. (12), (53), (56), (67), (68), (147), (156), (227), (239)(Blieck et al., 2002; Boucot and Janis, 1983; Märss, 2019; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Valiukevicius, 2003)
-14. Yukon2
-Stratigraphy/Location. Road River and Gossage Formation/ Yukon Territory, Canada.
-Age. Pridoli.
-Environment. BA1–3?.
-Taxa Heterostraci: Vernonaspis allenae, Vernonaspis bamberi, Vernonaspis bryanti, Vernonaspis epitegosa, Vernonaspis leonardi, Vernonaspis major.
-References. (12), (133), (175), (240)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Lenz, 1982)
-15. Hall Land2
-Stratigraphy/Location. Chester Bjerg Formation/ Halls Grav locality and Monument, Hall Land, North Greenland.
-Age. Pridoli–Lochkovian.
-Environment. BA2–.
-Taxa Anaspida: Septentrionia seducta. Thelodonti: Loganellia sp. cf. L. tuvaensis, Nikolivia auriculata, Nikolivia sp., Paralogania denisoni, Paralogania foliala, Praetrilogania grabion, Talivalia elongata, Talivalia sp.. Heterostraci: Cyathaspidiformes indet., Oniscolepis sp., Poraspis sp.. Osteostraci: Indet.. Acanthodii: Climatiida indet., Gomphonchus cf. G. sandelensis, Nostolepis halli, Poracanthodes cf. P. punctatus, Indet.. Chondrichthyes: Indet..
-References. (105), (114), (241)(Blieck and Janvier, 1991; Blom, 1999; Blom et al., 2002)
 
+**Cape Clarence Member, Leopold Formation, Nunavut, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Heterostraci: Corvaspis cf. arctica, Kallostrakon? sp. indet., Ptomaspis n.sp., Tolypelepis cf. leopoldensis, Tolypelepis leopoldensis.
+> - **Locality and horizon**: Cape Clarence Member, Leopold Formation, Nunavut, Canada.
+> - **References**: (Loeffler and Jones, 1977; Miall and Kerr, 1977; Plotnick, 1999)
+> - **Comments**: 
 
+**Bertie Formation, southern Ontario, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Acanthodii: Nerepisacanthus denisoni.
+> - **Locality and horizon**: Bertie Formation, southern Ontario, Canada.
+> - **References**: (Burrow and Rudkin, 2014)
+> - **Comments**: 
 
+**Clinton Member, Cunningham Creek Formation, Nerepis Hills, New Brunswick, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Anaspida: Ctenopleuron nerepisense. Thelodonti: Thelodus macintoshi. Heterostraci: Cyathaspis acadica. Acanthodii: Nerepisacanthus denisoni.
+> - **Locality and horizon**: Clinton Member, Cunningham Creek Formation, Nerepis Hills, New Brunswick, Canada.
+> - **References**:(Burrow, 2011; Denison, 1956; Matthew, 1889; Matthew, 1907; Robertson, 1941; Turner, 1986; Turner and Burrow, 2018)
+> - **Comments**:
+
+**Somerset Formation, Somerset Island, Northwest Territories, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Heterostraci: Alainaspis platyrhina, Anchipteraspis crenulate, Archegonaspis schmidti, Ariaspis arctata, Boothiaspis alata, Boothiaspis ovata, Capitaspis giblingi, Corvaspis arctica, Pionaspis sp., Torpedaspis elongate. Osteostraci: Hemicyclaspis murchinsoni.
+> - **Locality and horizon**: Somerset Formation, Somerset Island, Northwest Territories, Canada.
+> - **References**:(Boucot and Janis, 1983; Broad and Dineley, 1973; Elliott and Dineley, 1983; Elliott and Swift, 2010; Jones and Dixon, 1977; Loeffler and Dineley, 1976; Miall et al., 1978; Novitskaya, 2007)
+> - **Comments**:
+
+**Road River and Gossage Formatio, Yukon Territory, Canada**
+> - **Age**: Pridoli.
+> - **Taxa**: Heterostraci: Vernonaspis allenae, Vernonaspis bamberi, Vernonaspis bryanti, Vernonaspis epitegosa, Vernonaspis leonardi, Vernonaspis major.
+> - **Locality and horizon**: Road River and Gossage Formatio, Yukon Territory, Canada.
+> - **References**: (Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Lenz, 1982)
+> - **Comments**: 
+
+**Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Oesel, Jura, and Tilze Formations, Estonia and Latvia, East Baltic**
+> - **Age**: Pridoli.
+> - **Taxa**: Heterostraci: Oniscolepis dentata, Strosipherus indentatus, Tolypelepis undulata, Tylodus deltoides. Thelodonti: Goniporous alatus, Katoporodus tricavus, Loganellia asiatica, Loganellia cf. tuvaensis, Loganellia cuneata, Loganellia incompta, Loganellia tuvaensis, Loganellia unispinata, Logania kummerowi, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni, Thelodus admirabilis, Thelodus bicostatus, Thelodus carinatus, Thelodus costatus, Thelodus parvidens, Thelodus pugniformis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Trimerolepis lithuanica, Trimerolepis triangulus, Trimerolepis tricava. Acanthodii: Onchus wheathillensis, Nostolepis alta, Nostolepis gracilis, Nostolepis kozhymica, Nostolepis paravolborthi, Nostolepis striata, Nostolepis zinaidae.
+> - **Locality and horizon**: Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Oesel, Jura, and Tilze Formations, Estonia and Latvia, East Baltic.
+> - **References**: (Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Kiipli et al., 2011; Mark-Kurik, 1969; Märss, 1977; Märss, 1986; Märss et al., 2015; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner, 2000; Vergoossen, 2002; Vergoossen, 2004)
+> - **Comments**:
+
+**Burgsvik Sandstone, Gotland, Sweden**
+> - **Age**: Pridoli.
+> - **Taxa**: Thelodonti: Thelodus bicostatus, Thelodus carinatus, Thelodus costatus, Thelodus pugniformis, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus. Osteichthyes: Andreolepis hedei, Andreolepis petri.
+> - **Locality and horizon**: Burgsvik Sandstone, Gotland, Sweden.
+> - **References**:(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Bremer and Blom, 2015; Cherns, 1999; Eriksson et al., 2009; Gross, 1968; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 2001; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Martinsson, 1966; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002; Vergoossen, 2004)
+> - **Comments**: 
+
+**Ringerike Group, Steinsfjorden, Upper Sundvollen Formation, Holmestrand, Oslo, Norway.**
+> - **Age**: Pridoli.
+> - **Taxa**: Osteostraci: Hemicyclaspis kiaeri, Hemicyclaspis murchinsoni.
+> - **Locality and horizon**: Ringerike Group, Steinsfjorden, Upper Sundvollen Formation, Holmestrand, Oslo, Norway.
+> - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Davies et al., 2005; Davies et al., 2006)
+> - **Comments**:
+
+**Vernon-Pittsford Formation, Kenwood, New York, USA**
+> - **Age**: Pridoli.
+> - **Taxa**: Heterostraci: Archaegonaspis sp., Vernonaspis sp.
+> - **Locality and horizon**: Vernon-Pittsford Formation, Kenwood, New York, USA.
+> - **References**: (Boucot and Janis, 1983; Plotnick, 1999; Sepkoski, 1998)
+> - **Comments**: 
+
+**Downton Castle Sandstone Formation and Ledbury Formation, Ledbury, Herefordshire, UK**
+> - **Age**: Pridoli.
+> - **Taxa**: Anaspida: Tahulalepis kingi. Heterostraci: Kallostrakon sp.. Osteostraci: Auchenaspis egertoni, Auchenaspis sp., Didymaspis grindrodi, Hemicyclaspis lightbodii, Hemicyclaspis murchisoni. Acanthodii: Onchus mirabilis, Onchus sp., Plectrodus mirabilis, Plectrodus sp..
+> - **Locality and horizon**: Downton Castle Sandstone Formation and Ledbury Formation, Ledbury, Herefordshire, UK.
+> - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Dineley and Metcalf, 1999)
+> - **Comments**: 
+
+**Krasnaya Bukhta Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Pridoli.
+> - **Taxa**: Anaspida: Spokoinolepis alternans. Thelodonti: Loganellia asiatica, Loganellia cf. tuvaensis, Loganellia incompta, Loganellia tuvaensis, Loganellia unispinata, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni, Thelodus sp..
+> - **Locality and horizon**: Krasnaya Bukhta Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**:(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998)
+> - **Comments**: 
+
+**Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group, Northern Timan (Timan-Pechora Region), Russia**
+> - **Age**: Pridoli.
+> - **Taxa**: Osteostraci: Timanaspis kossovoii. Heterostraci: Oniscolepis dentata. Thelodonti: Goniporous alatus, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Phlebolepis elegans, Trimerolepis timanica. Acanthodii: Gomphonchus abruptus, Gomphonchus minicostaus, Monospina erecta, Nostolepis alta, Nostolepis gracilis, Nostolepis kozhymica, Nostolepis paravolborthi, Nostolepis striata, Nostolepis zinaidae.
+> - **Locality and horizon**: Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group, Northern Timan (Timan-Pechora Region), Russia.
+> - **References**: (Blieck et al., 2002; Boucot and Janis, 1983; Märss, 2019; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Valiukevicius, 2003)
+> - **Comments**: 
+
+**Chester Bjerg Formation, Halls Grav locality and Monument, Hall Land, North Greenland.**
+> - **Age**: Pridoli to Lochkovian.
+> - **Taxa**: Anaspida: Septentrionia seducta. Thelodonti: Loganellia sp. cf. L. tuvaensis, Nikolivia auriculata, Nikolivia sp., Paralogania denisoni, Paralogania foliala, Praetrilogania grabion, Talivalia elongata, Talivalia sp.. Heterostraci: Cyathaspidiformes indet., Oniscolepis sp., Poraspis sp.. Osteostraci: Indet.. Acanthodii: Climatiida indet., Gomphonchus cf. G. sandelensis, Nostolepis halli, Poracanthodes cf. P. punctatus, Indet.. Chondrichthyes: Indet..
+> - **Locality and horizon**: Chester Bjerg Formation, Halls Grav locality and Monument, Hall Land, North Greenland.
+> - **References**:(Blieck and Janvier, 1991; Blom, 1999; Blom et al., 2002)
+> - **Comments**:
+
+15) **Yulungssu Formation, Qujing, East Yunnan, China**
+> - **Age**: Pridoli.
+> - **Taxa**:[*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> - **Locality and horizon**:  Yulungssu Formation, Qujing, East Yunnan, China.
+> - **References**:
+> - **Comments**: upper part of the Yulungssu Formation, Qujing, Yunnan.
 
 
 **The Nostolepis gracilis Zone**: early Pridoli
@@ -1438,13 +1443,6 @@ References. (105), (114), (241)(Blieck and Janvier, 1991; Blom, 1999; Blom et al
 > Uppermost Přidoli in the Timan- Pechora region, NW  Russia  (with both  Tr. timanica and Tr. lithuanica present); Ledbury Formation, Welsh Borderland, southern Britain (Tr. cf. timanica, see remarks below).
 
 > - L. cuneata,  Goniporus alatus, heterostracans Tol. undulata, Oniscolepis dentata, acanthodians N. striata, N. alta,  Gomphonchus sandelensis, Por. punctatus.
-
-15) **Yulungssu Formation, Qujing, East Yunnan, China**
-> - **Age**: Pridoli.
-> - **Taxa**:[*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> - **Locality and horizon**:  Yulungssu Formation, Qujing, East Yunnan, China.
-> - **References**:
-> - **Comments**: upper part of the Yulungssu Formation, Qujing, Yunnan.
 
 
 # References
@@ -1929,6 +1927,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
