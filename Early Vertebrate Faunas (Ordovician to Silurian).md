@@ -343,71 +343,56 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **References**:  Žigaitė (2013)
 > - **Comments**: 
 
-14) **Chargat Formation, Mongolia** 48
-> - **Age**: Sheinwoodian, Wenlock 
-> - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
-> - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
-> - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)
-> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
-(1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013)
-
-4) **Clemville Formation, Quebec, Canada**
+14) **Clemville Formation, Quebec, Canada**
 > - **Age**: Rhuddanian to early Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Clemville Formation, Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
 > - **References**: (Turner and Nowland, 1995)
 > - **Comments**: 2m below the top of the Clemville Formation, Chaleurs Group. The *Valyalepis crista* Zone, Valyalepis crista; Loganellia scotica-type and L. sibirica-type thelodonts.
 
-5) **Hendricks Formation, Door County, Wisconsin, USA**
+15) **Hendricks Formation, Door County, Wisconsin, USA**
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Hendricks Formation, Door County, Wisconsin, USA.
 > - **References**: (Turner et al., 1999; Turner and Nowland, 1995)
 > - **Comments**: 
 
-6) **Hendricks Formation, Sturgeon Bay, Wisconsin, USA** 11
+16) **Hendricks Formation, Sturgeon Bay, Wisconsin, USA** 11
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Sturgeon Bay, Wisconsin, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-7) **Hendricks Formation, Michigan, USA** 6
+17) **Hendricks Formation, Michigan, USA** 6
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Fayette State Park, Michigan, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-8) **Byron Formation, Michigan, USA.** 10
+18) **Byron Formation, Michigan, USA.** 10
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-9) **Upper Saelabonn Formation, Norway** 7
+19) **Upper Saelabonn Formation, Norway** 7
 > - **Age**: middle Aeronian.
 > - **Taxa**: Thelodonti: *Loganellia* cf. *aldridgei*.
 > - **Locality and horizon**: Upper Saelabonn Formation, Bjellum, Hadeland, Oslo, Norway.
 > - **References**: (Bremer et al., 2019)
 > - **Comments**: 
 
-10) **Jogeva Beds, Estonia.** 8
+20) **Jogeva Beds, Estonia** 8
 > - **Age**: Aeronian (Raikkula Regional Stage).
 > - **Taxa**: Osteostraci: *Kalanaspis delectabilis*.
 > - **Locality and horizon**: Jogeva Beds, Kalana Quarry, Estonia.
 > - **References**: (Tinn and Märss, 2018)
 > - **Comments**: 
 
-11) **Rongxi Formation, Guizhou, China** 9
-> - **Age**: Late Aeronian.
-> - **Taxa**: Chondrichthyes: Fanjingshania renovate, Qianodus duplicis.
-> - **Locality and horizon**: Rongxi Formation, Shiqian–Tunping section at Leijiatun Village, Guizhou Province, China.
-> - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
-> - **Comments**: 
-
-17) **Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK** 18
+21) **Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK** 18
 > - **Age**: Aeronian to Telychian.
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK.
@@ -415,97 +400,97 @@ Chondrichthyes: Elegestolepis sp., Udalepis sp.
 > - **Comments**: The *Loganellia aldridgei* Zone, late Aeronian to middle Telychian.
 > - Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
 
-18) **Byron Formation, Michigan, USA** 10
+22) **Byron Formation, Michigan, USA** 10
 > - **Age**: Aeronian.
 > - **Taxa**:Thelodonti: Zuegelepis potanus.
 > - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
 > - **References**:(Turner et al., 1999)
 > - **Comments**: 
 
-19) **Vik Formation, Norway** 21
+23) **Vik Formation, Norway** 21
 > - **Age**: Middle–Late Telychian.
 > - **Taxa**: Thelodonti: Thelodus sp., Thelodus parvidens.
 > - **Locality and horizon**: Vik Formation, Gjettum Station, Asker, Oslo, Norway.
 > - **References**: (Bremer et al., 2019; Turner, 1986)
 > - **Comments**: 
 
-20) **Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada** 23
+24) **Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada** 23
 > - **Age**: Telychian
 > - **Taxa**: Thelodonti: Loganellia scotica.
 > - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
 > - **References**: (Boucot and Janis, 1983; Märss et al., 1997)
 > - **Comments**: 
 
-21) **Cape Phillips Formation, Devon Island, Nunavut, Canada** 27
+25) **Cape Phillips Formation, Devon Island, Nunavut, Canada** 27
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Cape Phillips Formation, Cape Phillips, Devon Island, Nunavut, Canada.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**:
 
-23) **Killbride Formation, Ireland** 26
+26) **Killbride Formation, Ireland** 26
 > - **Age**: Telychian.
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Killbride Formation, Coolin Lough, Ireland.
 > - **References**:(Aldridge et al., 1996; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**: 
 
-25) **Lower Visby Formation, Gotland, Sweden** 30
+27) **Lower Visby Formation, Gotland, Sweden** 30
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Lower Visby Formation, Gotland, Sweden.
 > - **References**: (Aldridge et al., 1996; Bremer, 2017; Calner et al., 2004; Märss and Miller, 2004; Sepkoski, 1998)
 > - **Comments**:
 > - 
-26) **Wych Formation, UK** 31
+28) **Wych Formation, UK** 31
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Wych Formation, Gullett Quarry, Worcestershire, UK.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Sepkoski, 1998)
 > - **Comments**: 
 
-27) **Lafayette Bugt Formation, Greenland** 32
+29) **Lafayette Bugt Formation, Greenland** 32
 > - **Age**:Telychian
 > - **Taxa**:Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**:Lafayette Bugt Formation, Hall Land, Greenland.
 > - **References**:(Aldridge et al., 1996; Blom, 1999; Boucot and Janis, 1983; Märss and Miller, 2004; Pickerill and Harland, 1988; Sepkoski, 1998; Žigaitė and Goujet, 2012)
 > - **Comments**:
 
-28) **Kip Burn and Patrick Burn Formation, Scotland** 33
+30) **Kip Burn and Patrick Burn Formation, Scotland** 33
 > - **Age**:Telychian
 > - **Taxa**:Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Kip Burn and Patrick Burn Formation, Priesthill Group, Lesmahagow, Lanarkshire, Midland Valley, Scotland.
 > - **References**:(Aldridge et al., 1996; Blom, 1999; Märss and Miller, 2004; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898b; Žigaitė and Goujet, 2012)
 > - **Comments**:
 
-29) **Reservoir Formation, Scotland** 34
+31) **Reservoir Formation, Scotland** 34
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Reservoir Formation (Gutterford Burn Formation), North Esk Inlier, Pentland Hills, Midland Valley, Scotland.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Turner, 2000)
 
-30) **Ceratiocaris Bed, Kip Burn Formation, Scotland** 36
+32) **Ceratiocaris Bed, Kip Burn Formation, Scotland** 36
 > - **Age**:Telychian
 > - **Taxa**: Anaspida: Birkenia sp., Jamoytius kerwoodi.
 > - **Locality and horizon**: Ceratiocaris Bed, Kip Burn Formation, Shanks Castle, Logan Water, Lanarkshire, Midland Valley, Scotland.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
 > - **Comments**: 
 
-32) **Hauge Bjerge and Lafayette Bugt Formations, Greenland** 40
+33) **Hauge Bjerge and Lafayette Bugt Formations, Greenland** 40
 > - **Age**: Telychian
 > - **Taxa**: Anaspida: Birkenia?.
 > - **Locality and horizon**: Kap Tyson Outcrop, Hauge Bjerge and Lafayette Bugt Formations, Peary Land Group, Washington Land, Greenland.
 > - **References**: (Blom et al., 2002; Pickerill and Harland, 1988)
 > - **Comments**: 
 
-33) **Thors Fjord Member, Wulff Land Formation, Greenland** 42
+34) **Thors Fjord Member, Wulff Land Formation, Greenland** 42
 > - **Age**: Telychian
 > - **Taxa**: Thelodonti: Loganellia scotica.
 > - **Locality and horizon**: Thors Fjord Member, Wulff Land Formation, Wulff Land, Greenland.
 > - **References**:(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
 > - **Comments**: 
 
-34) **Road River and Whittaker Formations, Canada** 45
+35) **Road River and Whittaker Formations, Canada** 45
 > - **Age**:Telychian
 > - **Taxa**: Anaspida: Birkenia elegans.
 Thelodonti: Archipelepis bifurcata, Archipelepis turbinata, Lanarkia sp. cf. horrida, Pezopallichthys ritchiei.
@@ -514,7 +499,7 @@ Heterostraci: Ariaspis sp., Athenaegis chattertoni, Ptomaspis sp.
 > - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
 > - **Comments**: 
 
-35) **Whittaker and Road River formations, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.** 47
+36) **Whittaker and Road River formations, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.** 47
 > - **Age**: Latest Telychian to Early Sheinwoodian.
 > - **Taxa**: Thelodonti: Archipelepis turbinata.
 > - **Locality and horizon**:Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
@@ -694,12 +679,11 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 1) **Chargat Formation, Mongolia**
 > - **Age**: Sheinwoodian, Wenlock.
 > - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*.
-Thelodonti: Loganellia asiatica, Loganellia sibrica, Loganellia tuvaensis, Talimaalepis kadvoiensis, Talimaalepis rimae.
-Chondrichthyes: Deltalepis parva, Deltalepis magna.
 > - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
 > - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)(Andreev et al., 2017; Žigaitė, 2013)
-> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al.
-(1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013)
+> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al. (1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013).
+> - Thelodonti: *Loganellia asiatica*, *Loganellia sibrica*, *Loganellia tuvaensis*.
+Chondrichthyes: *Deltalepis parva*, *Deltalepis magna*.
 
 2) **Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
 > - **Age**: Sheinwoodian, Wenlock.
@@ -1927,6 +1911,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
