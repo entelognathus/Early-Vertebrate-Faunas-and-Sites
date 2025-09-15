@@ -260,7 +260,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Taxa**: Thelodonti: Loganellia sibirica.
 > - **Locality and horizon**: Kochumdek Formation, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
 > - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
-> - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
+> - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
 
 4) **Kulinna Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 15
 > - **Age**: middle to late Aeronian.
@@ -292,9 +292,9 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 
 8) **Balturino Formation, Balturino District, East Siberia, Russia** 24
 > - **Age**: Rhudanian to Telychian.
-> - **Taxa**: Thelodonti: Loganellia asiatica, Loganellia indet., Loganellia sibirica, *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
-> - Acanthodii: Tchunacanthus sp., Tchunacanthus sp. indet.
-> - Chondrichthyes: *Mongolepis rozmani*, Teslepis jucunda, Udalepis sp.
+> - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia* indet., *Loganellia sibirica*, *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
+> - Acanthodii: *Tchunacanthu*s sp., *Tchunacanthus* sp. indet.
+> - Chondrichthyes: *Mongolepis rozmani*, *Teslepis jucunda*, *Udalepis* sp.
 > - **Locality and horizon**: Balturino Formation, Moyerocanian, Khaastyrian, and Agidyan Regional Stages, Balturino District, East Siberia, Russia.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:
@@ -684,7 +684,7 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 > - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al. (1990)." Andreev et al. (2017) used the age 'Salhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013).
 
 
-2) **Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
+2a) **Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
 > - **Age**: Sheinwoodian, Wenlock.
 > - **Taxa**: Thelodonti: Helenolepis multicostata, Helenolepis obruchevi, Helenolepis sp., Loganellia tuvaensis, Talimaalepis kadvoiensis.
 Osteostraci: indet.
@@ -693,6 +693,14 @@ Chondrichthyes: Elegestolepis grossi, Udalepis sp.
 > - **Locality and horizon**: Pichishui horizon, Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia.
 > - **References**: (Karatajūte-Talimaa, 1973; Sennikov et al., 2015; Vladimirskaya and Kulkov, 1999)
 > - **Comments**:
+
+2b) **Dashtygoi Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
+> - **Age**: Homerian, Wenlock.
+> - **Taxa**: Thelodonti: *Loganellia sibrica*,
+> - **Locality and horizon**: Dashtygoi Formation, Elegest and Kadvoi Localities, Central Tuva, Russia.
+> - **References**: 
+> - **Comments**:
+
 
 3) **Barmo Formation, Balturino District, East Siberia, Russia** 10
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
@@ -1910,6 +1918,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
