@@ -925,6 +925,7 @@ Osteostraci: Ateleaspis tesselata.
 
 **The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
 > Cape Phillips Formation, lower Sheinwoodian, lower Wenlock; sample at 90.0 m in the Baillie-Hamilton BH1 section, which corresponds to a level in the Monograptus riccartonensis - Monograptus belophorus GZ as determined by the carbon isotope curve pattern (Marss et al. 1998a).
+
 > Cape Phillips Formation, Sheinwoodian, Cornwallis Island, and the north shore of Baumann Fiord on Ellesmere Island; Road River Formation, 1 R Member, Sheinwoodian, lower Wenlock, Avalanche Lake sections, Mackenzie Mountains, northern Canada.
 
 > -  Archipelepis bifurcata, L. sulcata, Shielia parca, S. gibba, Phillipsilepis crassa, Frigorilepis caldwelli, Lanarkia cf. horrida in the Baillie-Hamilton BH1 section;
@@ -932,24 +933,28 @@ Osteostraci: Ateleaspis tesselata.
 
 **The Loganellia grossi Zone**: late Sheinwoodian (early to middle late Sheinwoodian)
 > Maasi Beds (except their lower part) of the Jaagarahu Stage, upper Sheinwoodian, Lower Wenlock; interval 68.4ñ79.0 m of the Sakla core, Saaremaa, Estonia.
+
 > Sundvollen  Formation, Lower Ringerike Group, Wenlock, Ringerike Area, Norway; lower part of the Kap Morton Formation, mid-Wenlock, Kap Lucie Marie, Washington Land, North Greenland; Cape Phillips Formation, upper Sheinwoodian of Baillie- Hamilton  Island,  Arctic   Canada;  Wenlock,   Timan- Pechora Region and northern Urals; upper half of the Samojlovich  Formation,  Matusevich  River,  October Revolution Island, Severnaya Zemlya Archipelago.
 
 > -  Loganellia grossi, Thelodus sp., Rhyncholepis parvula.
 
 **The Overia adraini Zone**: late Sheinwoodian (late late Sheinwoodian)
 > Cape Phillips Formation, upper Sheinwoodian, Wenlock; interval 140.0ñ144.5 m in the Baillie-Hamilton 1 section, Arctic Canada.
+
 > Delorme Formation (Member 1D) of Avalanche Lake, Mackenzie Mountains, northern Canada.
 
 > - Frigorilepis caldwelli, Lanarkia horrida.
 
 **The Loganellia einari Zone**: late Sheinwoodian (late late Sheinwoodian) to early Homerian
 > Tagavere Beds of the Jaagarahu Formation (Jaagarahu Stage), Sheinwoodian, lower Wenlock; interval 58.20ñ62.7 m in the Sakla core, Saaremaa, Estonia.
+
 > Sundvollen Formation, Lower Ringerike Group, Wenlock, Ringerike Area, Norway. In the Ostrovets sections 7ts, 73 and  195 in Belarus, L. grossi and L. einari have been found together.
 
 > - Thelodus sp., L. grossi,L. einari in the Riksu-803 and Vesiku-507 drill cores.
 
 **The Paralogania martinssoni Zone**: late Homerian to early Gorstian
 > Viita Beds, Rootsik¸la Stage, upper Homerian, uppermost Wenlock; interval 143.67ñ153.20 m in the Ohesaare core section, Estonia.
+
 > Rootsik¸la and lower Paadla stages, respectively upper Homerian (uppermost Wenlock) and lower Gorstian (lowermost Ludlow), Estonia; Halla, Mulde and Klinteberg beds, and Hemse unit a, Homerian (upper Wenlock) and lower Gorstian (Ludlow), Gotland. 1D Member  of the  Delorme Group  in  the  Avalanche  Lake  sections,  Mackenzie Mountains,  Cape  Phillips  Formation,  Homerian,  on Baillie-Hamilton  Island,  the  uppermost  Wenlock  or lowermost Ludlow, Prince of Wales Island, Northern Canada; Bed 10, upper Wenlock, Ringerike, Norway; upper  Voron′ya  Beds,  upper  Wenlock  Mikhajlovsk Pond area, Central Urals, Russia; lower part of the Ust′- Spokojnaya  Formation,  Wenlock,  Matusevich  River section, October Revolution Island, Severnaya Zemlya, Russia; middle Elton Formation, lower Gorstian, lower Ludlow of Welsh Borderland, southern Britain.
 
 > - Par. martinssoni, Thelodus  laevis, Tremataspis schmidti, Tremataspis milleri,  Saaremaaspis mickwitzi, Oeselaspis pustulata, Witaaspis schrenkii, Thyestes verrucosus, Rhyncholepis parvula, R. butriangula, Birkenia robusta, Pterygolepis nitida, Vesikulepis funiforma, Rytidolepis quenstedtii.
@@ -1140,10 +1145,12 @@ Osteostraci: Ateleaspis tesselata.
 
 **Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada**
 > - **Age**: Gorstian to Ludfordian.
-> - **Taxa**: Anaspida: Birkeniidae gen. et sp. indet. Thelodonti: Loganellia asiatica, Loganellia sp. cf. grossi, Loganellia cuneata, Loganellia incompta, Loganellia sp4., Nunavutia fasciata.
+> - **Taxa**: Anaspida: Birkeniidae gen. et sp. indet. Thelodonti: *Loganellia asiatica*, *Loganellia* sp. cf. *grossi*, *Loganellia cuneata*, *Loganellia incompta*, *Loganellia* sp4., *Nunavutia fasciata*.
 > - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
 > - **References**:(Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Märss et al., 1997)
 > - **Comments**: Age to be checked.
+
+
 
 **Road River Formation, Yukon Territory, Canada**
 > - **Age**: Gorstian to Ludfordian.
@@ -1918,6 +1925,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
