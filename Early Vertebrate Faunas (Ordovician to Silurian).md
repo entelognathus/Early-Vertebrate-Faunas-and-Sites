@@ -318,9 +318,9 @@ Unknown: *Tesakoviaspis concentrica*.
 
 11) **Elegest Formation, Tuva, Russia** 28
 > - **Age**: Aeronian to Telychian
-> - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. cuneata, Loganellia sp. cf. L. scotica, Loganellia tuvaensis, Talimaalepis kadvoiensis, *Talimaalepis rimae*.
-Acanthodii: Tchunacanthus obruchevi.
-Chondrichthyes: Elegestolepis sp., Udalepis sp.
+> - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *L. cuneata*, *Loganellia* sp. cf. *L. scotica*, *Loganellia tuvaensis*, *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
+Acanthodii: *Tchunacanthus obruchevi*.
+Chondrichthyes: *Elegestolepis* sp., *Udalepis* sp.
 > - **Locality and horizon**:Angatchi (Angachi), Akchalym, Dashtygoi Horizon, Elegest Formation, Elegest and Kadvoi Localities, Tuva, Russia.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
 > - **Comments**:
@@ -678,11 +678,11 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 ## Wenlock
 1) **Chargat Formation, Mongolia**
 > - **Age**: Sheinwoodian, Wenlock.
-> - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*, *Deltalepis parva*, *Deltalepis magna*.
+> - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*, *Loganellia asiatica*, *Loganellia sibrica*, *Loganellia tuvaensis*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*, *Deltalepis parva*, *Deltalepis magna*.
 > - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
 > - **References**:(Andreev et al., 2016; Rozman, 1999; Žigaitė, 2004; Žigaitė, 2013)(Andreev et al., 2017; Žigaitė, 2013)
-> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al. (1990)." Andreev et al. (2016) used the age 'lhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013).
-> - Thelodonti: *Loganellia asiatica*, *Loganellia sibrica*, *Loganellia tuvaensis*. To be checked.
+> - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al. (1990)." Andreev et al. (2017) used the age 'Salhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013).
+
 
 2) **Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
 > - **Age**: Sheinwoodian, Wenlock.
@@ -1910,6 +1910,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
