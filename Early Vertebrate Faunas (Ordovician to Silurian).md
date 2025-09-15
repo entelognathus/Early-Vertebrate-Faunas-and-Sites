@@ -1105,6 +1105,13 @@ Osteostraci: Ateleaspis tesselata.
 > - **References**:(Fillmore et al., 2020; Märss and Miller, 2004)
 > - **Comments**: 
 
+**Bloomsburg Formation, Mt. Union, Monroe, Pennsylvania, USA**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Heterostraci: Vernonaspis bryanti, Vernonaspis vaningeni, Vernonaspis sp., Americaspis americana. Thelodonti: Thelodus admibilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
+> - **Locality and horizon**: Bloomsburg Formation, Mt. Union, Monroe, Pennsylvania, USA.
+> - **References**:(Antia, 1981; Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Giffin, 1979; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002)
+> - **Comments**: 
+
 **Vernon Formation, Kenwood, New York, USA**
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Heterostraci: Archegonaspis drummondi, Vernonaspis sp., Vernonaspis allenae, Vernonaspis leonardi.
@@ -1112,252 +1119,126 @@ Osteostraci: Ateleaspis tesselata.
 > - **References**:(Boucot and Janis, 1983; Broad and Lenz, 1972; Flower and Wayland-Smith, 1952; Plotnick, 1999)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Longwood Shale Formation, New Jersey, USA**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**:Heterostraci: Americaspis claypolei.
+> - **Locality and horizon**: Longwood Shale Formation, New Jersey, USA.
+> - **References**:(Boucot and Janis, 1983; Denison, 1964)
 > - **Comments**: 
 
-18. Longwood Shale
-Stratigraphy/Location. Longwood Shale Formation/ New Jersey, USA.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA0–1
-Taxa. Heterostraci: Americaspis claypolei.
-References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
-
-20. Monroe County
-Stratigraphy/Location. Bloomsburg Formation/ Mt. Union, Monroe, Pennsylvania, USA.
-Age. Ludlow (Ludfordian and Gorstian).
-Environment. BA0
-Taxa. Heterostraci: Vernonaspis bryanti, Vernonaspis vaningeni, Vernonaspis sp., Americaspis americana. Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
-References. (12), (63), (68), (77), (133), (154), (156), (158), (175), (185), (196)(Antia, 1981; Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Giffin, 1979; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Cape Clarence Member, Leopold Formation, Nunavut, Canada**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Heterostraci: Archegonaspis sp.
+> - **Locality and horizon**: Cape Clarence Member, Leopold Formation, Nunavut, Canada.
+> - **References**: (Plotnick, 1999)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Peel Sound Formation, Somerset Island, Northwest Territories, Canada**
+> - **Age**: Gorstian.
+> - **Taxa**:Heterostraci: Alainaspis platyrhina, Rhachiaspis pteriga.
+> - **Locality and horizon**: Peel Sound Formation, Somerset Island, Northwest Territories, Canada.
+> - **References**:(Boucot and Janis, 1983; Elliott, 1983; Elliott and Dineley, 1983; Jones and Dixon, 1977)
 > - **Comments**: 
 
-17. Leopold Formation1
-Stratigraphy/Location. Cape Clarence Member, Leopold Formation/ Nunavut, Canada.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA1?–2
-Taxa. Heterostraci: Archegonaspis sp.
-References. (77)(Plotnick, 1999)
-
-8. Somerset Island2
-Stratigraphy/Location. Peel Sound Formation/ Somerset Island, Northwest Territories, Canada.
-Age. Ludlow (Gorstian).
-Environment. BA0–1
-Taxa. Heterostraci: Alainaspis platyrhina, Rhachiaspis pteriga.
-References. (12), (180), (181), (187)(Boucot and Janis, 1983; Elliott, 1983; Elliott and Dineley, 1983; Jones and Dixon, 1977)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Mcadam Brook and Moydart Formation, Arisaig, Cape George, Nova Scotia, Canada**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
+> - **Locality and horizon**: Mcadam Brook and Moydart Formation, Arisaig, Cape George, Nova Scotia, Canada.
+> - **References**:(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Dineley, 1963; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner and Burrow, 2018)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Anaspida: Birkeniidae gen. et sp. indet. Thelodonti: Loganellia asiatica, Loganellia sp. cf. grossi, Loganellia cuneata, Loganellia incompta, Loganellia sp4., Nunavutia fasciata.
+> - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
+> - **References**:(Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Märss et al., 1997)
+> - **Comments**: Age to be checked.
+
+**Road River Formation, Yukon Territory, Canada**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**:Heterostraci: Ariaspis ornata, Dikenaspis yukonensis, Homalaspis borealis, Ptomaspis canadensis, Vernonaspis epitegosa, Vernonaspis major, Vernonaspis sekwiae.
+> - **Locality and horizon**: Road River Formation, Yukon Territory, Canada.
+> - **References**:(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
 > - **Comments**: 
 
-10. Arisaig1
-Stratigraphy/Location. Mcadam Brook and Moydart Formation/ Arisaig, Cape George, Nova Scotia, Canada.
-Age. Ludlow (Gorstian and Ludfordian).
-Environment. BA1
-Taxa. Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
-References. (12), (68), (77), (147), (154), (156), (158), (185), (186), (189)(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Dineley, 1963; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner and Burrow, 2018)
-
-11. Baillie-Hamilton Island3
-Stratigraphy/Location. Cape Phillips Formation/ Baillie-Hamilton Island, Nunavut, Canada.
-Age. Ludlow (Ludfordian and Gorstian).
-Environment. BA4–6.
-Taxa. Anaspida: Birkeniidae gen. et sp. indet. Thelodonti: Loganellia asiatica, Loganellia sp. cf. grossi, Loganellia cuneata, Loganellia incompta, Loganellia sp4., Nunavutia fasciata.
-References. (12), (79), (93)(Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Märss et al., 1997)
-
-27. Yukon1
-Stratigraphy/Location. Road River Formation/ Yukon Territory, Canada.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA2–3?
-Taxa. Heterostraci: Ariaspis ornata, Dikenaspis yukonensis, Homalaspis borealis, Ptomaspis canadensis, Vernonaspis epitegosa, Vernonaspis major, Vernonaspis sekwiae.
-References. (12), (133), (175)(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Delorme Group, Mount Sekwi, Keele River, Canada**
+> - **Age**: Ludfordian.
+> - **Taxa**: Heterostraci: Vernonaspis sekwiae.
+> - **Locality and horizon**: Delorme Group, Mount Sekwi, Keele River, Canada.
+> - **References**: (Boucot and Janis, 1983; Denison, 1964)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Kemum Formation?, Lorentz River, Irian Jaya, Papua, Western New Guinea.**
+> - **Age**: Ludfordian.
+> - **Taxa**: Thelodonti: Thelodus sp. cf. T. trilobatus, Turinia sp., indet. Acanthodii: Gomphonchus sp. cf. G. sandelensis, Nostolepis sp. cf. N. striata, fam. gen. et sp. indet., indet. Chondrichthyes: gen. et sp. indet.
+> - **Locality and horizon**: Kemum Formation?, Lorentz River, Irian Jaya, Papua, Western New Guinea.
+> - **References**:(Bowman et al., 2019; Burrow et al., 2010; Liu et al., 2021; Oliver et al., 1995; Talent et al., 2003; Turner et al., 1995)
 > - **Comments**: 
 
-33. Mount Sekwi
-Stratigraphy/Location. Delorme Group/ Mount Sekwi, Keele River, Canada.
-Age. Ludlow (Ludfordian).
-Environment. BA3
-Taxa. Heterostraci: Vernonaspis sekwiae.
-References. (12), (133)(Boucot and Janis, 1983; Denison, 1964)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Niur Formation, Derenjal Mountains, Iran**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Thelodonti: Loganellia sp. cf. L. grossi. Acanthodii: indet.
+> - **Locality and horizon**: Niur Formation, Derenjal Mountains, Iran.
+> - **References**:(Hairapetian et al., 2008)
 > - **Comments**: 
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-
-30. Irian Jaya
-Stratigraphy/Location. Kemum Formation?/ Lorentz River, Irian Jaya, Papua, Western New Guinea.
-Age. Ludlow (Ludfordian).
-Environment. BA1
-Taxa. Thelodonti: Thelodus sp. cf. T. trilobatus, Turinia sp., indet. Acanthodii: Gomphonchus sp. cf. G. sandelensis, Nostolepis sp. cf. N. striata, fam. gen. et sp. indet., indet. Chondrichthyes: gen. et sp. indet.
-References. (204), (205), (206), (207), (208), (209)(Bowman et al., 2019; Burrow et al., 2010; Liu et al., 2021; Oliver et al., 1995; Talent et al., 2003; Turner et al., 1995)
-
-12. Derenjal Mountains2
-Stratigraphy/Location. Niur Formation/ Derenjal Mountains, Iran.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA1–2.
-Taxa. Thelodonti: Loganellia sp. cf. L. grossi. Acanthodii: indet.
-References. (174)(Hairapetian et al., 2008)
 
 **Russia**
-6. Pioneer Island 3
-Stratigraphy/Location. Ust-Spokojnaya Formation/ Pioneer Island, Severnaya Zemlya Archipelago, Russia.
-Age. Ludlow (Gorstian).
-Environment. BA2–4?
-Taxa. Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri.
-References. (53), (67), (76), (147), (156)(Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Ust-Spokojnaya Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Gorstian.
+> - **Taxa**: Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri.
+> - **Locality and horizon**: Ust-Spokojnaya Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Ust'-Spokojnaya Formation, Matusevich River, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Anaspida: Schidiosteus mustelensis, Spokoinolepis alternans. Thelodonti: Paralogania kaarmisensis, Paralogania menneri, Paralogania martinssoni, Phlebolepis elegans, Thelodus sp., Thelodus visvaldi, Valiukia flabellata, Valiukia sp.
+> - **Locality and horizon**:Ust'-Spokojnaya Formation, Matusevich River, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: 
 
-14. Elegest and Kadvoi 3
-Stratigraphy/Location. Taungateli Horizon, Baytal Formation, Khondergei Formation/ Elegest and Kadvoi Rivers, Tuva, Russia.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA1–3?
-Taxa. Thelodonti: Helenolepis navicularis, Loganellia sp. cf. L. grossi, Loganellia cuneata, Loganellia incompta, Loganellia cf. L. tuvaensis, Loganellia unispinata.
-References. (12), (64), (79), (105)(Blom, 1999; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Sennikov et al., 2015)
-
-19. Matusevich River2
-Stratigraphy/Location. Ust'-Spokojnaya Formation/ Matusevich River, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA2–4?
-Taxa. Anaspida: Schidiosteus mustelensis, Spokoinolepis alternans. Thelodonti: Paralogania kaarmisensis, Paralogania menneri, Paralogania martinssoni, Phlebolepis elegans, Thelodus sp., Thelodus visvaldi, Valiukia flabellata, Valiukia sp.
-References. (53), (76), (114), (147)(Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Ust-Spokojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Anaspida: Birkeniida sp., Pterygolepis nitida, Rytidolepis quenstedti. Thelodonti: Loganellia sp. cf. L. grossi, Loganellia incompta, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania sp. cf. P. ludlowiensis, Valiukia sp. 1.
+> - **Locality and horizon**: Ust-Spokojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**:(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Männik et al., 2002; Mark-Kurik, 1969; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Sepkoski, 1998; Turner and Burrow, 2018; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Anaspida: Birkenia elegans?, Birkenia sp.?, Rhyncholepis parvula, Schidiosteus mustelensis, Spokoinolepis alternans, Vesikulepis funiforma. Heterostraci: indet.
+> - **Locality and horizon**: Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**: (Blom et al., 2002; Männik et al., 2002)
 > - **Comments**: 
 
-21. Novaya Zemlya
-Stratigraphy/Location. Samojlovich and Ust' Spokoinaya Formation/ Novaya Zemlya Archipelago, Russia.
-Age. Ludlow (Ludfordian and Gorstian).
-Environment. ?
-Taxa. Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
-References. (12), (77), (156), (158), (185)(Antia, 1981; Boucot and Janis, 1983; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999)
-
-22. October Revolution Island
-Stratigraphy/Location. Ust-Spokojnaya Formation/ October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Ludlow (Ludfordian and Gorstian).
-Environment. BA2–4?
-Taxa. Anaspida: Birkeniida sp., Pterygolepis nitida, Rytidolepis quenstedti. Thelodonti: Loganellia sp. cf. L. grossi, Loganellia incompta, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania sp. cf. P. ludlowiensis, Valiukia sp. 1.
-References. (12), (53), (63), (67), (68), (76), (79), (147), (154), (156), (158), (159), (185), (186)(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Männik et al., 2002; Mark-Kurik, 1969; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Sepkoski, 1998; Turner and Burrow, 2018; Vergoossen, 2002; Vergoossen, 2004)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Ust'-Spokojnaya Formation and Krasnaya Bukhta, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+> - **Age**: Ludfordian to Pridoli.
+> - **Taxa**: Thelodonti: Paralogania ludlowiensis, Paralogania kaarmisensis, Paralogania menneri, Paralogania perensae, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni.
+> - **Locality and horizon**: Ust'-Spokojnaya Formation and Krasnaya Bukhta, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
+> - **References**:(Cherns, 1999; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Samojlovich and Ust' Spokoinaya Formation, Novaya Zemlya Archipelago, Russia**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**:Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
+> - **Locality and horizon**: Samojlovich and Ust' Spokoinaya Formation, Novaya Zemlya Archipelago, Russia.
+> - **References**:(Antia, 1981; Boucot and Janis, 1983; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999)
 > - **Comments**: 
 
-25. Spokoinaya-Ushakov River2
-Stratigraphy/Location. Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River/ October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Ludlow (Gorstian–Ludfordian).
-Environment. BA3?
-Taxa. Anaspida: Birkenia elegans?, Birkenia sp.?, Rhyncholepis parvula, Schidiosteus mustelensis, Spokoinolepis alternans, Vesikulepis funiforma. Heterostraci: indet.
-Reference. (76), (114)(Blom et al., 2002; Männik et al., 2002)
-
-41. Strojnaya River4
-Stratigraphy/Location. Ust'-Spokojnaya Formation and Krasnaya Bukhta/ Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-Age. Ludlow–Pridoli (Ludfordian–Pridoli).
-Environment. BA2–4?
-Taxa. Thelodonti: Paralogania ludlowiensis, Paralogania kaarmisensis, Paralogania menneri, Paralogania perensae, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni.
-References. (53), (67), (76), (156), (193)(Cherns, 1999; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
-
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Taungateli Horizon, Baytal Formation, Khondergei Formation, Elegest and Kadvoi Rivers, Tuva, Russia**
+> - **Age**: Gorstian to Ludfordian.
+> - **Taxa**: Thelodonti: Helenolepis navicularis, Loganellia sp. cf. L. grossi, Loganellia cuneata, Loganellia incompta, Loganellia cf. L. tuvaensis, Loganellia unispinata.
+> - **Locality and horizon**: Taungateli Horizon, Baytal Formation, Khondergei Formation, Elegest and Kadvoi Rivers, Tuva, Russia.
+> - **References**: (Blom, 1999; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Sennikov et al., 2015)
 > - **Comments**: 
 
-**Formation**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Tabuska Beds, Tabuska River, Central Ural Mountains, Russia**
+> - **Age**: Ludfordian to Pridoli.
+> - **Taxa**: Anaspida: Liivilepis curvata, Schidiosteus mustelensis, Septentrionia dissimilis?, Septentrionia mucronata. Heterostraci: Archegonaspis sp., Cyathaspis alexanderi, Tolypelepis? Thelodonti: Thelodus parvidens, Thelodus sculptilis. Acanthodii: Nostolepis striata, Poracanthodes porosus. Osteichthyes: Andreolepis petri.
+> - **Locality and horizon**: Tabuska Beds, Upper Paadla Regional Stage, Tabuska River, Central Ural Mountains, Russia.
+> - **References**: (Blom et al., 2002; Märss, 2019; Märss and Miller, 2004; Vergoossen, 2004)
 > - **Comments**: 
-
-42. Tabuska Beds
-Stratigraphy/Location. Tabuska Beds/ Tabuska River, Central Ural Mountains, Russia.
-Age. Ludlow–Pridoli (Ludfordian–Pridoli), Upper Paadla Regional Stage.
-Environment. BA3?
-Taxa. Anaspida: Liivilepis curvata, Schidiosteus mustelensis, Septentrionia dissimilis?, Septentrionia mucronata. Heterostraci: Archegonaspis sp., Cyathaspis alexanderi, Tolypelepis? Thelodonti: Thelodus parvidens, Thelodus sculptilis. Acanthodii: Nostolepis striata, Poracanthodes porosus. Osteichthyes: Andreolepis petri.
-References. (56), (67), (114), (159)(Blom et al., 2002; Märss, 2019; Märss and Miller, 2004; Vergoossen, 2004)
 
 **Ludlow Red beds, South China**
 
@@ -2048,6 +1929,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
