@@ -1379,7 +1379,7 @@ Osteostraci: Ateleaspis tesselata.
 
 **Vernon-Pittsford Formation, Kenwood, New York, USA**
 > - **Age**: Pridoli.
-> - **Taxa**: Heterostraci: *Archaegonaspis* sp., *Vernonaspis* sp.
+> - **Taxa**: Heterostraci: *Archegonaspis* sp., *Vernonaspis* sp.
 > - **Locality and horizon**: Vernon-Pittsford Formation, Kenwood, New York, USA.
 > - **References**: (Boucot and Janis, 1983; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**: 
@@ -1923,6 +1923,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
