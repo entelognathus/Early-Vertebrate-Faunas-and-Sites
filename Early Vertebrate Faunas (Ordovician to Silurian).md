@@ -490,14 +490,14 @@ Chondrichthyes: *Elegestolepis* sp., *Udalepis* sp.
 > - **References**:(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
 > - **Comments**: 
 
-35) **Road River and Whittaker Formations, Canada** 45
+35) **Road River and Whittaker Formations, Canada**
 > - **Age**:Telychian
-> - **Taxa**: Anaspida: Birkenia elegans.
+> - **Taxa**: Anaspida: *Birkenia elegans*.
 Thelodonti: *Archipelepis bifurcata*, *Archipelepis turbinata*, *Lanarkia* sp. cf. *horrida*, *Pezopallichthys ritchiei*.
 Heterostraci: *Ariaspis* sp., *Athenaegis chattertoni*, *Ptomaspis* sp.
-> - **Locality and horizon**:Road River and Whittaker Formations, Delorme Group, Avalanche Lake, Mackenzie Mountains, Canada.
+> - **Locality and horizon**: Road River and Whittaker Formations, Delorme Group, Avalanche Lake, Mackenzie Mountains, Canada.
 > - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
-> - **Comments**: 
+> - **Comments**: Blom et al. (2002): "In the Mackenzie Mountains, northwestern Canada, Birkenia sp. has been identified in the Avalanche Lake section AV-1G. The age has been determined by P. Mannik, Tallinn, as Telychian, late Llandovery based on conodonts."
 
 36) **Whittaker and Road River formations, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.** 47
 > - **Age**: Latest Telychian to Early Sheinwoodian.
@@ -1923,6 +1923,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
