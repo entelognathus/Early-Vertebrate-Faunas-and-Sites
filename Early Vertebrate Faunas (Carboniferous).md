@@ -17,21 +17,15 @@
 > Blue Beach, Nova Scotia
 >
 > USA: Salem Limestone; Burlington limestone;
-> Waugh Member, Genevieve Formation
-
-
-
-
-
 
 
 ### Visean, Middle Mississipian, Carboniferous
 **Lower Waugh Member, Ste Genevieve Formation, Iowa, USA**
 > - **Age**: Visean.
-> - **Taxa**:
-> - **Locality and horizon**: Lower Waugh Member, Ste Genevieve Formation, Hiemstra Quarry, near Delta, Iowa, USA
-> - **References**:
-> - **Comments**: 
+> - **Taxa**: Gyracanthus? jasperi, (Lombard & Bolt, 1995),
+> - **Locality and horizon**: Lower Waugh Member, Ste Genevieve Formation, Hiemstra Quarry, near Delta, Iowa, USA (41°17′41″N, 92°20′9″W).
+> - **References**: Snyder et al. (2024). Bolt,1990; Bolt & Lombard, 2006, 2010; Bolt et al., 1988; Lombard & Bolt, 1995; Schultze & Bolt, 1996.
+> - **Comments**: The age assignment follows Snyder et al. (2024).
 
 
 > Late Dinantian in NW Europe 
@@ -77,6 +71,7 @@
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
