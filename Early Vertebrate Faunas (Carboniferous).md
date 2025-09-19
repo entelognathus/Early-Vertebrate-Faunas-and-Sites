@@ -1,0 +1,74 @@
+# Early Vertebrate Faunas and Sites
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+# Carboniferous
+## Mississipian
+### Tournaisian, Early Mississipian, Carboniferous
+> Early Dinantian in NW Europe
+>
+> The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
+> Granton Shrimp Bedï¼šthe coast of Burnmouth, the banks of the Whiteadder Water near Chirnside, the River Tweed near Coldstream, and the rocks near Tantallon Castle alongside the Firth of Forth
+
+> East Lothian, Scotland; 
+> Blue Beach, Nova Scotia
+>
+> USA: Salem Limestone; Burlington limestone;
+> Waugh Member, Genevieve Formation
+
+
+
+
+
+
+
+### Visean, Middle Mississipian, Carboniferous
+> Late Dinantian in NW Europe 
+
+> East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
+
+
+
+
+### Serpukhovian, Late Mississipian, Carboniferous
+> Early Namurian in NW Europe
+**Bear Gulch Limestone Lagerstatte**
+> late Serpukhovian: Wendyichthys dicksoni, Guildayichthys carnegiei, Discoserra pectinodon
+
+
+## Pennsylvanian
+### Bashkirian, Early Pennsylvanian, Carboniferous
+> Late Namurian in NW Europe
+>
+> Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
+
+
+
+
+
+### Moscovian, Middle Pennsylvanian, Carboniferous
+> Westphalian in NW Europe
+
+> Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2â€?315.2â€…Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
+
+**Mazon Creek lagerstÃ¤tte**
+> Francis Creek shale Member of the Carbondale Formation, late Moscovian
+> This is dated as late Moscovian (Westphalian D; Pfefferkorn, 1979; Heckel and Clayton, 2006) within the Pennsylvanian (âˆ?308â€?310 Ma; Gradstein et al., 2012).
+> - Mazon Creek fauna: *Bandringa rayi* (=*Bandringa herdinae*),
+> - Essex biota (marine): *Tullimonstrum gregarium*
+> - Braidwood biota (freshwater): *Illiniichthys cozarti*
+
+
+
+### Kasimovian, Late Pennsylvanian, Carboniferous 
+> The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
+
+
+### Gzhelian, Late Pennsylvanian, Carboniferous 
+> Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
+
+
