@@ -1400,7 +1400,10 @@ Osteostraci: Ateleaspis tesselata.
 
 **Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group, Northern Timan (Timan-Pechora Region), Russia**
 > - **Age**: Pridoli.
-> - **Taxa**: Osteostraci: Timanaspis kossovoii. Heterostraci: *Oniscolepis dentata*. Thelodonti: Goniporous alatus, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Phlebolepis elegans, Trimerolepis timanica. Acanthodii: Gomphonchus abruptus, Gomphonchus minicostaus, Monospina erecta, Nostolepis alta, Nostolepis gracilis, Nostolepis kozhymica, Nostolepis paravolborthi, Nostolepis striata, Nostolepis zinaidae.
+> - **Taxa**: Osteostraci: *Timanaspis kossovoii*.
+> - Heterostraci: *Oniscolepis dentata*.
+> - Thelodonti: *Goniporous alatus*, *Paralogania consimilis*, *Paralogania kaarmisensis*, *Paralogania ludlowiensis*, *Paralogania menneri*, *Phlebolepis elegans*, *Trimerolepis timanica*.
+> - Acanthodii: *Gomphonchus abruptus*, *Gomphonchus minicostaus*, *Monospina erecta*, *Nostolepis alta*, *Nostolepis gracilis*, *Nostolepis kozhymica*, *Nostolepis paravolborthi*, *Nostolepis striata*, *Nostolepis zinaidae*.
 > - **Locality and horizon**: Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group, Northern Timan (Timan-Pechora Region), Russia.
 > - **References**: (Blieck et al., 2002; Boucot and Janis, 1983; Märss, 2019; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Valiukevicius, 2003)
 > - **Comments**: 
@@ -1923,6 +1926,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
