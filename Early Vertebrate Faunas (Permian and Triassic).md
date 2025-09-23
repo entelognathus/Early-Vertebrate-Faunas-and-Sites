@@ -109,7 +109,21 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 ### Pelsonian, late Middle Anisian
 > Romano (2021): Localities in Europe (Italy, Slovenia) and China produce Pelsonian bony fishes, many of which have been studied intensively during recent years. The Strelovec Formation of Slovenia has yielded fossils of Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016). The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking. In Italy, a new locality in the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf) has produced specimens of Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys (Tintori et al., 2016).
-> A rich ichthyofauna is known from two horizons in South China, which became famous as the Luoping Biota and Panxian Biota, respectively, both being almost the same age (Upper Member of the Guanling Formation; Benton et al., 2013). Sun et al. (2012) suggested a Pelsonian age for the Luoping fish beds and I herein follow these authorsâ€? interpretation, although Tintori et al. (2016) argued for a younger (Illyrian?) age. Sun et al. (2016a) presented evidence for a Pelsonian age of the Panxian biota. The Panxian-Luoping fauna comprises the following actinopterygians: Altisolepis, Birgeria, Colobodus, Diandongperleidus, Eosemionotus, Ferroxichthys, Frodoichthys, Fuyuanichthys, Fuyuanperleidus, Gimlichthys, Gymnoichthys, Habroichthys, Kyphosichthys, Louwoichthys, Luopingichthys, Luopingperleidus, Luoxiongichthys, Marcopoloichthys, Panxianichthys, Perleidus, Placopleurus, Platysiagum, Pteronisculus, Robustichthys, Sangiorgioichthys, Saurichthys (including Sinosaurichthys), Subortichthys, Venusichthys, and Yelangichthys, as well as the actinistians Luopingcoelacanthus and Yunnancoelacanthus (e.g. Wu et al., 2011, Geng et al., 2012; Sun et al., 2012, Wen et al., 2012, Benton et al., 2013; Wen et al., 2013, Wu et al., 2013; Xu et al., 2014a, Xu et al., 2014b;Ma and Xu 2015, Xu and Shen 2015; Sun et al., 2016b; Xu and Zhao, 2016; Wu et al., 2018; Xu et al., 2018; Wen et al., 2019; Xu 2020a, Xu 2020c). These are mostly endemic taxa, suggesting incipient regionally contrasted ichthyofaunas in the eastern Tethys in the Pelsonian (as opposed to the cosmopolitan faunas of the Griesbachianâ€“Smithian interval). The genera Eosemionotus, Marcopoloichthys, and Saurichthys are known from coeval European localities. Only Birgeria, Eosemionotus, Pteronisculus, and Saurichthys have pre-Pelsonian occurrences, whereas all other genera have their first occurrence in the Pelsonian. It is no wonder that Tintori et al. (2014a) uses the term â€œexplosionâ€? for the Pelsonian, although the authenticity of this rapid diversification requires critical testing (see below). Some of the abovementioned genera (e.g. Habroichthys) are also known from the Late Ladinian (Longobardian) Xingyi Biota (Sun et al., 2016a).
+> A rich ichthyofauna is known from two horizons in South China, which became famous as the Luoping Biota and Panxian Biota, respectively, both being almost the same age (Upper Member of the Guanling Formation; Benton et al., 2013). Sun et al. (2012) suggested a Pelsonian age for the Luoping fish beds and I herein follow these authors' interpretation, although Tintori et al. (2016) argued for a younger (Illyrian?) age. Sun et al. (2016a) presented evidence for a Pelsonian age of the Panxian biota. The Panxian-Luoping fauna comprises the following actinopterygians: Altisolepis, Birgeria, Colobodus, Diandongperleidus, Eosemionotus, Ferroxichthys, Frodoichthys, Fuyuanichthys, Fuyuanperleidus, Gimlichthys, Gymnoichthys, Habroichthys, Kyphosichthys, Louwoichthys, Luopingichthys, Luopingperleidus, Luoxiongichthys, Marcopoloichthys, Panxianichthys, Perleidus, Placopleurus, Platysiagum, Pteronisculus, Robustichthys, Sangiorgioichthys, Saurichthys (including Sinosaurichthys), Subortichthys, Venusichthys, and Yelangichthys, as well as the actinistians Luopingcoelacanthus and Yunnancoelacanthus (e.g. Wu et al., 2011, Geng et al., 2012; Sun et al., 2012, Wen et al., 2012, Benton et al., 2013; Wen et al., 2013, Wu et al., 2013; Xu et al., 2014a, Xu et al., 2014b;Ma and Xu 2015, Xu and Shen 2015; Sun et al., 2016b; Xu and Zhao, 2016; Wu et al., 2018; Xu et al., 2018; Wen et al., 2019; Xu 2020a, Xu 2020c). These are mostly endemic taxa, suggesting incipient regionally contrasted ichthyofaunas in the eastern Tethys in the Pelsonian (as opposed to the cosmopolitan faunas of the Griesbachian - Smithian interval). The genera Eosemionotus, Marcopoloichthys, and Saurichthys are known from coeval European localities. Only Birgeria, Eosemionotus, Pteronisculus, and Saurichthys have pre-Pelsonian occurrences, whereas all other genera have their first occurrence in the Pelsonian. It is no wonder that Tintori et al. (2014a) uses the term 'explosion' for the Pelsonian, although the authenticity of this rapid diversification requires critical testing (see below). Some of the abovementioned genera (e.g. Habroichthys) are also known from the Late Ladinian (Longobardian) Xingyi Biota (Sun et al., 2016a).
+
+**Upper Member, Guanling Formation, Panxian, Guizhou, China**
+> - **Age**: Pelsonian, late Middle Anisian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Panxian Biota.
+
+**Upper Member, Guanling Formation, Luoping, Yunnan, China**
+> - **Age**: Pelsonian, late Middle Anisian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Luoping Biota.
 
 ### Illyrian, Late Anisian
 Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
@@ -131,6 +145,14 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 ### Longobardian, Late Ladinian
 Romano (2021):
 
+# Zhuganpo Member, Balang Formation, Xinyi, Guizhou, China
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Xinyi Fauna.
+
+
 ## Late Triassic
 ***Lockatong Formation Fauna (Late Triassic)***
 > Pennsylvania, New Jersey, and New York, USA
@@ -138,9 +160,16 @@ Romano (2021):
 >
 > Fishes: Carinacanthus jepseni; Cionichthys sp.; Diplurus longicaudatus; Osteopleurus newarki; Lysorocephalus gwynnedensis
 
-
-
 ### Carnian, Late Triassic
+
+**Wayao Member, Balang Formation, Guanling, Guizhou, China**
+> - **Age**: Carnian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Guanling Fauna.
+
 ### Norian, Late Triassic
 ### Rhaetian, Late Triassic
+
 
