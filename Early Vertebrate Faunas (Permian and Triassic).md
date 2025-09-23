@@ -128,7 +128,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 **Upper Member, Guanling Formation, Luoping, Yunnan, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: *Feroxichthys yunnanensis (Xu, 2020a)
+> - **Taxa**: *Feroxichthys yunnanensis* (Xu, 2020a)
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: Luoping Biota.
@@ -153,12 +153,23 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 ### Longobardian, Late Ladinian
 Romano (2021):
 
-**Zhuganpo Member, Balang Formation, Xinyi, Guizhou, China**
+**Zhuganpo Member, Balang Formation, Wusha, Xinyi, Guizhou, China**
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**: Actinopterygii: *Luganoia fortuna* (Xu, 2020). Birgeria liui (Ni et al., 2019)
+>
+> - 
+> - **Locality and horizon**: Zhuganpo Member, Balang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
+> - **References**:
+> - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016). 
+
+**Zhuganpo Member, Balang Formation, Dingxiao, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
-> - **Locality and horizon**:
+> - **Locality and horizon**:Zhuganpo Member, Balang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota.
+
+
 
 
 ## Late Triassic
@@ -179,6 +190,7 @@ Romano (2021):
 ### Norian, Late Triassic
 
 ### Rhaetian, Late Triassic
+
 
 
 
