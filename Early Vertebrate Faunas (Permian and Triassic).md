@@ -145,12 +145,12 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 ### Longobardian, Late Ladinian
 Romano (2021):
 
-# Zhuganpo Member, Balang Formation, Xinyi, Guizhou, China
+**Zhuganpo Member, Balang Formation, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: Xinyi Fauna.
+> - **Comments**: Xinyi Biota.
 
 
 ## Late Triassic
@@ -161,15 +161,16 @@ Romano (2021):
 > Fishes: Carinacanthus jepseni; Cionichthys sp.; Diplurus longicaudatus; Osteopleurus newarki; Lysorocephalus gwynnedensis
 
 ### Carnian, Late Triassic
-
 **Wayao Member, Balang Formation, Guanling, Guizhou, China**
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: Guanling Fauna.
+> - **Comments**: Guanling Biota.
 
 ### Norian, Late Triassic
+
 ### Rhaetian, Late Triassic
+
 
 
