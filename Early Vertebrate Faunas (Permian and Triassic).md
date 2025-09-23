@@ -169,7 +169,12 @@ Romano (2021):
 > - **References**:
 > - **Comments**: Xinyi Biota.
 
-
+**Zhuganpo Member, Balang Formation, Luoping, Yunnan, China**
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**: 
+> - **Locality and horizon**:Zhuganpo Member, Balang Formation, Luoping, Yunnan, China
+> - **References**:
+> - **Comments**: Xinyi Biota.
 
 
 ## Late Triassic
@@ -190,6 +195,7 @@ Romano (2021):
 ### Norian, Late Triassic
 
 ### Rhaetian, Late Triassic
+
 
 
 
