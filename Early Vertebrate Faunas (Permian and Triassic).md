@@ -115,16 +115,20 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > The Panxian-Luoping fauna comprises the following actinopterygians: *Altisolepis*, *Birgeria*, *Colobodus*, Diandongperleidus, Eosemionotus, Ferroxichthys, Frodoichthys, Fuyuanichthys, Fuyuanperleidus, Gimlichthys, Gymnoichthys, Habroichthys, Kyphosichthys, Louwoichthys, Luopingichthys, Luopingperleidus, Luoxiongichthys, Marcopoloichthys, Panxianichthys, Perleidus, Placopleurus, Platysiagum, Pteronisculus, Robustichthys, Sangiorgioichthys, Saurichthys (including Sinosaurichthys), Subortichthys, Venusichthys, and Yelangichthys, as well as the actinistians Luopingcoelacanthus and Yunnancoelacanthus (e.g. Wu et al., 2011, Geng et al., 2012; Sun et al., 2012, Wen et al., 2012, Benton et al., 2013; Wen et al., 2013, Wu et al., 2013; Xu et al., 2014a, Xu et al., 2014b; Ma and Xu 2015, Xu and Shen 2015; Sun et al., 2016b; Xu and Zhao, 2016; Wu et al., 2018; Xu et al., 2018; Wen et al., 2019; Xu 2020a, Xu 2020c).
 > These are mostly endemic taxa, suggesting incipient regionally contrasted ichthyofaunas in the eastern Tethys in the Pelsonian (as opposed to the cosmopolitan faunas of the Griesbachian - Smithian interval). The genera *Eosemionotus*, *Marcopoloichthys*, and *Saurichthys* are known from coeval European localities. Only *Birgeria*, *Eosemionotus*, *Pteronisculus*, and *Saurichthys* have pre-Pelsonian occurrences, whereas all other genera have their first occurrence in the Pelsonian. It is no wonder that Tintori et al. (2014a) uses the term 'explosion' for the Pelsonian, although the authenticity of this rapid diversification requires critical testing (see below). Some of the abovementioned genera (e.g. *Habroichthys*) are also known from the Late Ladinian (Longobardian) Xingyi Biota (Sun et al., 2016a).
 
-**Upper Member, Guanling Formation, Panxian, Guizhou, China**
+**Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016).
+> - Sarcopterygii:
+> - Tetrapoda:
+
+> - **Locality and horizon**: Upper Member, Guanling Formation; Xinmin, Panzhou, Guizhou, China.
 > - **References**:
 > - **Comments**: Panxian Biota.
+> - Ma et al. (2021): "Geological survey indicates that the Panxian Biota is slightly younger than the Luoping Biota because the former is recovered from the upper part of the Second Member of the Guanling Formation and the latter the middle part of this member of strata (Benton et al., 2013), although conodont analyses constrained both biotas within the same *Nicoraella kockeli* Zone (Sun et al., 2006, 2016; Zhang et al., 2009; Hu et al., 2011).The zircon dating provided an absolute age of 244.0 ± 1.3 Ma for the Panxian Biota (Wang et al., 2014)."
 
 **Upper Member, Guanling Formation, Luoping, Yunnan, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**:
+> - **Taxa**: *Feroxichthys yunnanensis (Xu, 2020a)
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: Luoping Biota.
@@ -175,6 +179,7 @@ Romano (2021):
 ### Norian, Late Triassic
 
 ### Rhaetian, Late Triassic
+
 
 
 
