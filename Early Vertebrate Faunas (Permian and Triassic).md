@@ -153,26 +153,26 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 ### Longobardian, Late Ladinian
 Romano (2021):
 
-**Zhuganpo Member, Balang Formation, Wusha, Xinyi, Guizhou, China**
+**Zhuganpo Member, Falang Formation, Wusha, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: Actinopterygii: *Luganoia fortuna* (Xu, 2020). Birgeria liui (Ni et al., 2019)
 >
 > - 
-> - **Locality and horizon**: Zhuganpo Member, Balang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
+> - **Locality and horizon**: Zhuganpo Member, Falang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016). 
 
-**Zhuganpo Member, Balang Formation, Dingxiao, Xinyi, Guizhou, China**
+**Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
-> - **Locality and horizon**:Zhuganpo Member, Balang Formation, Dingxiao, Xinyi, Guizhou, China
+> - **Locality and horizon**:Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota.
 
-**Zhuganpo Member, Balang Formation, Luoping, Yunnan, China**
+**Zhuganpo Member, Falang Formation, Luoping, Yunnan, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: 
-> - **Locality and horizon**:Zhuganpo Member, Balang Formation, Luoping, Yunnan, China
+> - **Locality and horizon**:Zhuganpo Member, Falang Formation, Luoping, Yunnan, China
 > - **References**:
 > - **Comments**: Xinyi Biota.
 
@@ -185,7 +185,7 @@ Romano (2021):
 > Fishes: Carinacanthus jepseni; Cionichthys sp.; Diplurus longicaudatus; Osteopleurus newarki; Lysorocephalus gwynnedensis
 
 ### Carnian, Late Triassic
-**Wayao Member, Balang Formation, Guanling, Guizhou, China**
+**Wayao Member, Falang Formation, Guanling, Guizhou, China**
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -195,6 +195,7 @@ Romano (2021):
 ### Norian, Late Triassic
 
 ### Rhaetian, Late Triassic
+
 
 
 
