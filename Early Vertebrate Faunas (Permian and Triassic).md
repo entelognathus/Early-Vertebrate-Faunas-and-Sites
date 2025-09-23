@@ -120,7 +120,7 @@ The Panxian-Luoping fauna comprises four pachypleurosaur-like forms (Wumengosaur
 
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016).
+> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016).
 > - Sarcopterygii:
 > - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019). 
 
@@ -158,7 +158,7 @@ Romano (2021):
 
 **Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
-> - **Taxa**:
+> - **Taxa**: *Sinoeugnathus* Su, 1959, *Asialepidotus*, *Guizhouamia*, 
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **References**: (Su, 1959)
 > - **Comments**: Xinyi Biota.
@@ -166,12 +166,10 @@ Romano (2021):
 **Zhuganpo Member, Falang Formation, Wusha, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: Actinopterygii: *Luganoia fortuna* (Xu, 2020). *Birgeria liui* (Ni et al., 2019), *Colobodus wushaensis* (Li et al., 2019), 
->
-> - 
+> - Tetrapoda: *Lariosaurus xingyiensis*, *Xinpusaurus xingyiensis* (Li et al., 2016), *Nothosaurus youngi*, 
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016). 
-
 
 **Zhuganpo Member, Falang Formation, Changdi, Luoping, Yunnan, China**
 > - **Age**: Longobardian, Late Ladinian.
@@ -203,39 +201,26 @@ Romano (2021):
 
 ## References
 
-Agassiz, L. (1833–1844). Recherches sur les poissons fossiles, Tome
-I–V. Neuchaˆtel: Imprimerie de Petitpierre.
-Aldinger, H. (1931). U¨ ber Reste von Birgeria (Pisces, Palaeoniscidae)
-aus der alpinen Trias. Neues Jahrbuch fu¨r Mineralogie, Geologie
-und Pala¨ontologie, BeilageBand, (B), 66, 167–181.
-Aldinger, H. (1937). Permische Ganoidfische aus Ostgro¨nland.
-Meddelelser om Grønland, 102(3), 1–392.
-Bartsch, P. (1988). Funktionelle Morphologie und Evolution des
-Axialskelettes und der caudalis Ursprunglicher Knochenfishe.
-Palaeontographica A, 204, 117–226.
-Beltan, L. (1977). La parturition d’un actinopte´rygian de 1’Eotrias du
-nord-ouest de Madagascar. Comptes Rendus Hebdomadaires des
-Se´ances de 1’Acade´mie des Sciences, Paris, 284, 2223–2225.
-Beltan, L. (1980). Eotrias du nord-ouest de Madagascar: Etude de
-quelques poissons, dont un est en parturition. Annales de la
-Socie´te´ Ge´ologique du Nord, 99, 453–464.
-Beltan, L. (1996). Overview of systematics, paleobiology, and
-paleoecology of Triassic fishes of northwestern Madagascar. In
-G. Arratia & G. Viohl (Eds.), Mesozoic fishes—systematics and
-paleoecology (pp. 479–500). Mu¨nchen: Verlag Dr. Friedrich
-Pfeil.
-Beltan, L., Freneix, S., Janvier, P., & Lo´pez-Paulsen, O. (1987). La
-faune triasique de la formation de Vitiacua dans la re´gion de
-Villamontes (De´partement de Chuquisaca, Bolivie). Neues
-Jahrbuch fu¨r Geologie und Pala¨ontogie, Monatshefte, 1987,
-99–115.
-Berg, L. S., Kazantseva, A. A., & Obruchev, D. V. (1967). Superorder
-Palaeonisci (Archistia). In D. V. Obruchev (Ed.), Fundamentals
-of paleontology (Vol. 11, pp. 528–573)., Agnatha, Pisces
-Jerusalem: Israel Program for Scientific Translation. (Translated from Russian, published in Russian 1964: Osnovy
-paleontologii).
-Boni, A. (1937). Vertebrati retici italiani. Memorie della Accademia
-Nazionale dei Lincei, 6(10), 521–719.
+Agassiz, L. (1833–1844). Recherches sur les poissons fossiles, Tome I–V. Neuchaˆtel: Imprimerie de Petitpierre.
+
+Aldinger, H. (1931). U¨ ber Reste von Birgeria (Pisces, Palaeoniscidae) aus der alpinen Trias. Neues Jahrbuch fu¨r Mineralogie, Geologie und Pala¨ontologie, BeilageBand, (B), 66, 167–181.
+
+Aldinger, H. (1937). Permische Ganoidfische aus Ostgro¨nland. Meddelelser om Grønland, 102(3), 1–392.
+
+Bartsch, P. (1988). Funktionelle Morphologie und Evolution des Axialskelettes und der caudalis Ursprunglicher Knochenfishe. Palaeontographica A, 204, 117–226.
+
+Beltan, L. (1977). La parturition d’un actinopte´rygian de 1’Eotrias du nord-ouest de Madagascar. Comptes Rendus Hebdomadaires des Se´ances de 1’Acade´mie des Sciences, Paris, 284, 2223–2225.
+
+Beltan, L. (1980). Eotrias du nord-ouest de Madagascar: Etude de quelques poissons, dont un est en parturition. Annales de la Socie´te´ Ge´ologique du Nord, 99, 453–464.
+
+Beltan, L. (1996). Overview of systematics, paleobiology, and paleoecology of Triassic fishes of northwestern Madagascar. In G. Arratia & G. Viohl (Eds.), Mesozoic fishes—systematics and paleoecology (pp. 479–500). Mu¨nchen: Verlag Dr. Friedrich Pfeil.
+
+Beltan, L., Freneix, S., Janvier, P., & Lo´pez-Paulsen, O. (1987). La faune triasique de la formation de Vitiacua dans la re´gion de Villamontes (De´partement de Chuquisaca, Bolivie). Neues Jahrbuch fu¨r Geologie und Pala¨ontogie, Monatshefte, 1987, 99–115.
+
+Berg, L. S., Kazantseva, A. A., & Obruchev, D. V. (1967). Superorder Palaeonisci (Archistia). In D. V. Obruchev (Ed.), Fundamentals of paleontology (Vol. 11, pp. 528–573)., Agnatha, Pisces Jerusalem: Israel Program for Scientific Translation. (Translated from Russian, published in Russian 1964: Osnovy paleontologii).
+
+Boni, A. (1937). Vertebrati retici italiani. Memorie della Accademia Nazionale dei Lincei, 6(10), 521–719.
+
 Chrzastek, A. (2008). Vertebrate remains from the Lower Muschelkalk of Raciborowice Go´rne (North-Sudetic Basin, SW Poland).
 Geological Quarterly, 52(3), 225–238.
 Cope, E. D. (1887). Zittel’s manual of palaeontology. American
@@ -331,6 +316,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
