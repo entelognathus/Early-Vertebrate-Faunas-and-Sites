@@ -1,4 +1,6 @@
 # Early Vertebrate Faunas and Sites
+
+**A Formation/Member, Locality**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -123,7 +125,6 @@ The Panxian-Luoping fauna comprises four pachypleurosaur-like forms (Wumengosaur
 > - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016).
 > - Sarcopterygii:
 > - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019). 
-
 > - **Locality and horizon**: Upper Member, Guanling Formation; Dapianpo Quarry, Yangjuan Village, Xinmin, Panzhou, Guizhou, China.
 > - **References**:
 > - **Comments**: Panxian Biota.
@@ -179,11 +180,13 @@ Romano (2021):
 > - **Comments**: Xinyi Biota.
 
 ## Late Triassic
-***Lockatong Formation Fauna (Late Triassic)***
-> Pennsylvania, New Jersey, and New York, USA
-> Tetrapods: Eupelor durus; Gwyneddosaurus erici; Hypuronector limnaios; Icarosaurus siefkeri; Rhabdopelix longispinis; Rutiodon carolinensis; Tanytrachelos ahynis
->
-> Fishes: Carinacanthus jepseni; Cionichthys sp.; Diplurus longicaudatus; Osteopleurus newarki; Lysorocephalus gwynnedensis
+**Lockatong Formation, USA**
+> - **Age**: Late Triassic.
+> - **Taxa**: Tetrapods: *Eupelor durus*; *Gwyneddosaurus erici*; *Hypuronector limnaios*; *Icarosaurus siefkeri*; *Rhabdopelix longispinis*; *Rutiodon carolinensis*; *Tanytrachelos ahynis*.
+> - Fishes: *Carinacanthus jepseni*; *Cionichthys* sp.; *Diplurus longicaudatus*; *Osteopleurus newarki*; *Lysorocephalus gwynnedensis*.
+> - **Locality and horizon**: Lockatong Formation, Pennsylvania, New Jersey, and New York, USA.
+> - **References**:
+> - **Comments**: 
 
 ### Carnian, Late Triassic
 **Wayao Member, Falang Formation, Guanling, Guizhou, China**
@@ -223,57 +226,75 @@ Boni, A. (1937). Vertebrati retici italiani. Memorie della Accademia Nazionale d
 
 Chrzastek, A. (2008). Vertebrate remains from the Lower Muschelkalk of Raciborowice Go´rne (North-Sudetic Basin, SW Poland).
 Geological Quarterly, 52(3), 225–238.
+
 Cope, E. D. (1887). Zittel’s manual of palaeontology. American
 Naturalist, 21, 1014–1019.
+
 Gozzi, E. (2006). Analisi tassonomica e morfo-funzionale di
 Saurichthys e Birgeria (Osteichthyes, Actinopterygii). Unpublished PhD Thesis, Universita` degli Studi di Milano.
+
 Guffroy, S. (1956). Notes pale´oichthyologiques. Bulletins de la
 Socie´te´ Ge´ologique de France, 6, 847–854.
+
 Heyler, D. (1969). Verte´bre´s de l’Autunien de France. Cahiers de
 Pale´ontologie, C.N.R.S, 259 pp.
+
 Jiang, L., Ni, P. G., Sun, Z. Y., & Jiang, D. Y. (2016). Discovery and
 its significance of Birgeria sp. from the Middle Triassic Panxian
 Fauna, Guizhou Province, China. Acta Scientiarum Naturalium
 Universitatis Pekinensis, 52(3), 437–443.
+
 Jin, F. (2001). Notes on the discovery of Birgeria in China.
 Vertebrata PalAsiatica, 39(3), 168–176.
+
 Jordan, D. (1907). The fossil fishes of California; with supplementary
 notes on other species of extinct fishes (vol. 5, no. 7, pp. 95–145).
 California: University of California Publications, Bulletin of the
 Department of Geology.
+
 Jurkovsek, B., & Kolar-Jurkovsek, T. (1986). A Late Triassic
 (Carnian) fish skeleton (family Birgeriidae) from Slovenia,
 NW Yugoslavia. Neues Jahrbuch fu¨r Geologie und Pala¨ontogie,
 Monatshefte, 1986(8), 475–478.
+
 Kolar-Jurkovsek, T. (1991). Microfauna of Middle and Upper Triassic
 in Slovenia and its biostratigraphic significance. Geologija, 33,
 21–170.
+
 Lehman, J. P. (1948). Sur la Pre´sence du genre Birgeria (Pale´oniscoı¨de´) dans 1’Eotrias de Madagascar. Comptes Rendus Hebdomadaires des Se´ances de 1’Acade´mie des Sciences, Paris,
 226(5), 426–428.
+
 Lehman, J. P. (1952). Etude comple´mentaire des poissons de
 1’Eotrias de Madagascar. Kungliga Svenska Vetenskapsakademiens Handlingar, 2(6), 1–201.
+
 Li, Z. G., Sun, Z. Y., Jiang, D. Y., & Ji, C. (2016). LA–ICP–MS
 Zircon U–Pb age of the fossil layer of Triassic Xingyi Fauna
 from Xingyi, Guizhou, and its significance. Geological Review,
 62(3), 779–790.
+
 Liu, G. B., Yin, G. Z., Luo, Y. M., Wang, X. H., & Wang, S. Y.
 (2006). Preliminary examination of fish fossils from Upper
 Triassic Wayao Member of Falang Formation in Guanling of
 Guizhou. Acta Palaeontologica Sinica, 45(1), 1–20.
+
 Mu¨ller, J. (1844). U¨ ber den Bau und die Grenzen der Ganoiden und
 u¨ber das natu¨rliche System der Fische. Gelesen in der Druckerei
 der Ko¨niglichen Akademie der Wissenschaften, Berlin, 1846,
 117–216.
+
 Nielsen, E. (1949). Studies on Triassic fishes from East Greenland 2.
 Australosomus and Birgeria. Palaeozoologica Groenlandica, 3,
 1–309.
+
 Patterson, C. (1982). Morphology and interrelationships of primitive
 actinopterygian fishes. American Zoologist, 22(2), 241–259.
+
 Romano, C., & Brinkmann, Z. (2009). Reappraisal of the lower
 actinopterygian Birgeria stensio¨i Aldinger, 1931 (Osteichthyes;
 Birgeriidae) from the Middle Triassic of Monte San Giorgio
 (Switzerland) and Besano (Italy). Neues Jahrbuch fu¨r Geologie
 und Pala¨ontologie Abhandlungen, 252(1), 17–31.
+
 Romano, C., Kogan, I., Jenks, J., Jerjen, I., & Brinkmann, W. (2012).
 Saurichthys and other fossil fishes from the late Smithian (Early
 Triassic) of Bear Lake County (Idaho, USA), with a discussion
@@ -284,39 +305,46 @@ Bucher, H. (2017). Marine Early Triassic Actinopterygii from
 Elko County (Nevada, USA): implications for the Smithian
 equatorial vertebrate eclipse. Journal of Paleontology, 91(5),
 1025–1046. https://doi.org/10.1017/jpa.2017.36.
+
 Rosen, D. E., Forey, P. L., Gardiner, B. G., & Patterson, C. (1981).
 Lungfishes, tetrapods, paleontology, and plesiomorphy. Bulletin
 of the American Museum of Natural History, 169, 159–276.
+
 Schaeffer, B., & Mangus, M. (1976). An Early Triassic fish
 assemblage from British Columbia. Bulletin of the American
 Museum of Natural History, 156(5), 515–564.
+
 Schwarz, W. (1970). Die Triasfauna der Tessiner Kalkalpen XX.
 Birgeria stensio¨i Aldinger. Schweizerische Pala¨ontologische
 Abhandlungen, 89, 1–93.
+
 Stensio¨, E. A. (1919). Einige Bemerkungen u¨ber die systematische
 Stellung von Saurichthys mougeoti Agassiz. Senckenbergiana,
 1(6), 177–181.
+
 Stensio¨, E. A. (1921). Triassic fishes from Sptizbergen, Part 1. Wien:
 Holzhausen.
+
 Stensio¨, E. A. (1932). Triassic fishes from East Greenland, Part 1.
 Meddelelser om Grønland, 83(3), 1–305.
+
 Tintori, A. (1990). The vertebral column of the Triassic fish
 Saurichthys (Actinopterygii) and its stratigraphical significance.
 Rivista Italiana di Paleontologia e Stratigrafia, 96, 93–102.
+
 Tintori, A. (2013). A new species of Saurichthys (Actinopterygii)
 from the Middle Triassic (early Ladinian) of the Northern Grigna
 mountain. Rivista Italiana di Paleontologia e Stratigrafia, 119,
 287–302.
+
 Tintori, A., Hitij, T., Jiang, D. Y., Lombardo, C., & Sun, Z. Y. (2014).
 Triassic actinopterygian fishes: The recovery after the endPermian crisis. Integrative Zoology, 9, 394–411.
+
 Winkler, T. C. (1880). Description de quelques restes de poisons
 fossils des terrains triasiques des environs de Wurzbourg.
 Archives du Muse´e Teyler, Haarlem, 5, 109–149.
+
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
-
-
-
-
