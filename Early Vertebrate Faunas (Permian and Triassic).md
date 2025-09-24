@@ -62,7 +62,7 @@ By Lehman (1952) for the Dienerian Saurichthys madagascariensis Piveteau, 1944-4
 In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes (â€œstegocephalian-horizonâ€? of Nielsen 1942; Nielsen 1949; â€œZone VIâ€? of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). In addition, two western Canadian occurrences have been dated as Dienerian: a parasemionotid collected in Alberta (Davies et al., 1997) and a bobasatraniid reported from British Columbia (Wignall and Newton 2003). There are also occurrences of possibly Dienerian aged actinopterygians in Idaho, United States (Tanner 1936; Romano et al., 2012).
 
 
-### Smithianï¼ŒOlenekian, Early Triassic
+### Smithian, Olenekian, Early Triassic
 **Spitzbergen (Svalbard)**  
 The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of StensiÃ¶ (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
 
@@ -71,7 +71,7 @@ Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus StensiÃ¶, 1925 f
 **Arcadia Formation** (Australia) Olenekian, Early Triassic
 
 
-### Spathianï¼ŒOlenekian, Early Triassic
+### Spathian, Olenekian, Early Triassic
 **Spitzbergen (Svalbard)**
 The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
 
@@ -93,7 +93,7 @@ From Romania, cranial remains of the actinistian Dobrogeria have been described 
 
 
 ## MIDDLE Triassic: 
-### Aegean. Early Anisian
+### Aegean, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
 Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
 *Dorsolepis* and *Pericentrophorus* are probably endemic. These taxa are grouped in the â€œTriassic Middle Fish Faunaâ€? (TMFF; Tintori et al., 2014a). Although an Early Anisian age was assumed based on index fossils (Gall and Grauvogel-Stamm 2005), Werneburg et al. (2014) questioned this age assignment and suggested that they were younger (Bithynian or Pelsonian).
@@ -348,3 +348,4 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
