@@ -132,9 +132,16 @@ The Panxian-Luoping fauna comprises four pachypleurosaur-like forms (Wumengosaur
 
 **Upper Member, Guanling Formation, Luoping, Yunnan, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: *Feroxichthys yunnanensis* (Xu, 2020a)
-> - **Locality and horizon**:
-> - **References**:
+> - **Taxa**: *Feroxichthys yunnanensis* (Xu, 2020a), *Luopingselache striata* (Wen et al., 2023); *Nothosaurus luopingensis* (Shan et al., 2022)
+> - **Locality and horizon**: Upper Member, Guanling Formation, Luoping, Yunnan, China.
+> - **References**: Wen et al. (2023)
+> - **Comments**: Luoping Biota.
+
+**Upper Member, Guanling Formation, Luxi, Yunnan, China**
+> - **Age**: Pelsonian, late Middle Anisian.
+> - **Taxa**: *Acrodus* sp.
+> - **Locality and horizon**: Upper Member, Guanling Formation, Luxi, Yunnan, China
+> - **References**: Wen et al. (2023)
 > - **Comments**: Luoping Biota.
 
 ### Illyrian, Late Anisian
@@ -348,4 +355,5 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
