@@ -185,6 +185,7 @@ Romano (2021):
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation; Changdi, Luoping, Yunnan, China
 > - **References**: (Jin, 2001)
 > - **Comments**: Xinyi Biota.
+> - ? Upper part of the Gejiu Formation (Niubudai village, Banqiao, Luoping).
 
 ## Late Triassic
 **Lockatong Formation, USA**
@@ -355,5 +356,6 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
