@@ -164,6 +164,13 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 ### Longobardian, Late Ladinian
 Romano (2021):
 
+**Yangliujing Formation, Guanling, Guizhou, China**
+> - **Age**: early Ladinian.
+> - **Taxa**: 
+> - **Locality and horizon**: Yangliujing Formation, Zhuganpo village, Guanling, Guizhou, China
+> - **References**: Chen et al. (2007)
+> - **Comments**:
+
 **Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: *Sinoeugnathus* Su, 1959, *Asialepidotus*, *Guizhouamia*, 
@@ -177,7 +184,15 @@ Romano (2021):
 > - Tetrapoda: *Lariosaurus xingyiensis*, *Xinpusaurus xingyiensis* (Li et al., 2016), *Nothosaurus youngi*, 
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
 > - **References**:
-> - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016). 
+> - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016).
+> - In some papers, the Zhuganpo Member is named as the Zhuganpo Formation (see Chen et al., 2007). The overlying Wayao Member is named as the Xiaowa ('Wayao') Formation.
+
+**Zhuganpo Member, Falang Formation, Guanling, Guizhou, China**
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**: 
+> - **Locality and horizon**: Zhuganpo Member, Falang Formation, Zhuganpo village, Guanling, Guizhou, China
+> - **References**:
+> - **Comments**: Xinyi Biota.
 
 **Zhuganpo Member, Falang Formation, Changdi, Luoping, Yunnan, China**
 > - **Age**: Longobardian, Late Ladinian.
@@ -356,6 +371,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
