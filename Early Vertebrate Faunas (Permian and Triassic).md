@@ -114,15 +114,15 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking.
 > In Italy, a new locality in the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf) has produced specimens of Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys (Tintori et al., 2016).
 
-> The Panxian-Luoping fauna comprises the following actinopterygians: *Altisolepis*, *Birgeria*, *Colobodus*, Diandongperleidus, Eosemionotus, Ferroxichthys, Frodoichthys, Fuyuanichthys, Fuyuanperleidus, Gimlichthys, Gymnoichthys, Habroichthys, Kyphosichthys, Louwoichthys, Luopingichthys, Luopingperleidus, Luoxiongichthys, Marcopoloichthys, Panxianichthys, Perleidus, Placopleurus, Platysiagum, Pteronisculus, Robustichthys, Sangiorgioichthys, Saurichthys (including Sinosaurichthys), Subortichthys, Venusichthys, and Yelangichthys, as well as the actinistians Luopingcoelacanthus and Yunnancoelacanthus (e.g. Wu et al., 2011, Geng et al., 2012; Sun et al., 2012, Wen et al., 2012, Benton et al., 2013; Wen et al., 2013, Wu et al., 2013; Xu et al., 2014a, Xu et al., 2014b; Ma and Xu 2015, Xu and Shen 2015; Sun et al., 2016b; Xu and Zhao, 2016; Wu et al., 2018; Xu et al., 2018; Wen et al., 2019; Xu 2020a, Xu 2020c).
+> The Panxian-Luoping fauna comprises the following actinopterygians: *Altisolepis*, *Birgeria*, *Colobodus*, Diandongperleidus,  Ferroxichthys, Frodoichthys, Fuyuanperleidus, Gimlichthys, Gymnoichthys, Habroichthys, Kyphosichthys, Louwoichthys, Luopingichthys, Luopingperleidus, Luoxiongichthys, Marcopoloichthys, Panxianichthys, Perleidus, Placopleurus, Platysiagum, Pteronisculus, Robustichthys, Sangiorgioichthys, Saurichthys (including Sinosaurichthys), Subortichthys, Venusichthys, and Yelangichthys, as well as the actinistians Luopingcoelacanthus and Yunnancoelacanthus (e.g. Wu et al., 2011, Geng et al., 2012; Sun et al., 2012, Wen et al., 2012, Benton et al., 2013; Wen et al., 2013, Wu et al., 2013; Xu et al., 2014a, Xu et al., 2014b; Ma and Xu 2015, Xu and Shen 2015; Sun et al., 2016b; Xu and Zhao, 2016; Wu et al., 2018; Xu et al., 2018; Wen et al., 2019; Xu 2020a, Xu 2020c).
 
 > These are mostly endemic taxa, suggesting incipient regionally contrasted ichthyofaunas in the eastern Tethys in the Pelsonian (as opposed to the cosmopolitan faunas of the Griesbachian - Smithian interval). The genera *Eosemionotus*, *Marcopoloichthys*, and *Saurichthys* are known from coeval European localities. Only *Birgeria*, *Eosemionotus*, *Pteronisculus*, and *Saurichthys* have pre-Pelsonian occurrences, whereas all other genera have their first occurrence in the Pelsonian. It is no wonder that Tintori et al. (2014a) uses the term 'explosion' for the Pelsonian, although the authenticity of this rapid diversification requires critical testing (see below). Some of the abovementioned genera (e.g. *Habroichthys*) are also known from the Late Ladinian (Longobardian) Xingyi Biota (Sun et al., 2016a).
 
-> - check *Birgeria* in the Panxian-Luoping fauna.
+> - check *Birgeria*, Eosemionotus, in the Panxian-Luoping fauna.
 
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016).
+> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016). Panxianichthys imparilis; 
 > - Sarcopterygii:
 > - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019); *Wumengosaurus delicatomandibularis* Jiang et al., 2008b; *Nothosaurus yangjuanensis* Jiang et al., 2006a; *Lariosaurus hongguoensis* Jiang et al., 2006b; *Placodus inexpectatus* Jiang et al., 2008a; *Largocephalosaurus qianensis* Li et al., 2014; *Sinosaurosphargis yunguiensis* Li et al., 2011
 > - **Locality and horizon**: Upper Member, Guanling Formation; Dapianpo Quarry, Yangjuan Village, Xinmin, Panzhou, Guizhou, China.
@@ -133,7 +133,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 **Upper Member, Guanling Formation, Luoping, Yunnan, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: *Altisolepis sinensis* Sun et al., 2015; 
+> - **Taxa**: *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; Gimlichthys dawaziensis; Gymnoichthys inopinatus; Habroichthys broughi; Kyphosichthys grandei; Louwoichthys pusillus; Luopingichthys bergi; Luopingperleidus sui; Luoxiongichthys hyperdorsalis; Marcopoloichthys anii; 
 > -
 > - *Feroxichthys yunnanensis* (Xu, 2020a), *Luopingselache striata* (Wen et al., 2023); *Nothosaurus luopingensis* (Shan et al., 2022); *Dianopachysaurus dingi* Liu et al., 2011; *Diandongosaurus acutidentatus* Shang et al., 2011; *Dianmeisaurus gracilis* Shang and Li, 2015; *Nothosaurus zhangi* Liu et al., 2011; *Largocephalosaurus polycarpon* Cheng et al., 2012a; *Sinosaurosphargis yunguiensis* Li et al., 2011
 > - **Locality and horizon**: Upper Member, Guanling Formation, Luoping, Yunnan, China.
@@ -190,6 +190,13 @@ Romano (2021):
 > - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016).
 > - In some papers, the Zhuganpo Member is named as the Zhuganpo Formation (see Chen et al., 2007). The overlying Wayao Member is named as the Xiaowa ('Wayao') Formation.
 
+**Zhuganpo Member, Falang Formation, Baiwanyao, Xinyi, Guizhou, China**
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**: *Fuyuanichthys wangi* Xu et al., 2018.
+> - **Locality and horizon**:Zhuganpo Member, Falang Formation, Baiwanyao, Xinyi, Guizhou, China
+> - **References**:
+> - **Comments**: Xinyi Biota.
+
 **Zhuganpo Member, Falang Formation, Guanling, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: 
@@ -204,6 +211,16 @@ Romano (2021):
 > - **References**: (Jin, 2001)
 > - **Comments**: Xinyi Biota.
 > - ? Upper part of the Gejiu Formation (Niubudai village, Banqiao, Luoping).
+
+**Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China**
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**: *Fuyuanichthys wangi* Xu et al., 2018.
+> - **Locality and horizon**:Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China.
+> - **References**: 
+> - **Comments**: Xinyi Biota.
+
+
+
 
 ## Late Triassic
 **Lockatong Formation, USA**
@@ -374,6 +391,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y.
 L. (2015). The ammonoids from the Zhuganpo Member at
 Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte
 (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
