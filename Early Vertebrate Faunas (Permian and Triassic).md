@@ -64,7 +64,7 @@ In East Greenland, which is famous for Griesbachian aged fish fossils (see above
 
 ### Smithian, Olenekian, Early Triassic
 **Spitzbergen (Svalbard)**  
-The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of StensiÃ¶ (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
+The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
 
 Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus StensiÃ¶, 1925 from the Smithian of Spitzbergen.
 
@@ -75,7 +75,7 @@ Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus StensiÃ¶, 1925 f
 **Spitzbergen (Svalbard)**
 The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
 
-Some material described by StensiÃ¶ (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
+Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
 
 Well-dated Spathian bony fish are known from China, Romania, and the western United States.
 
@@ -114,13 +114,11 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking.
 > In Italy, a new locality in the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf) has produced specimens of Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys (Tintori et al., 2016).
 
-> - check *Birgeria*, Eosemionotus, in the Panxian-Luoping fauna.
-
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms (Wu et al., 2011, 2013, 2015), holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015) and birgeriiforms (Jiang et al., 2016). Panxianichthys imparilis; Perleidus sinensis; Sangiorgioichthys yangjuanensis; Sinosaurichthys longipectoralis
+> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008), *Feroxichthys panzhouensis* (Ma et al., 2021), saurichthyiforms *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015), holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) and birgeriiforms *Birgeria* sp. (Jiang et al., 2016). 
 > - Sarcopterygii:
-> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019); *Wumengosaurus delicatomandibularis* Jiang et al., 2008b; *Nothosaurus yangjuanensis* Jiang et al., 2006a; *Lariosaurus hongguoensis* Jiang et al., 2006b; *Placodus inexpectatus* Jiang et al., 2008a; *Largocephalosaurus qianensis* Li et al., 2014; *Sinosaurosphargis yunguiensis* Li et al., 2011; Yelangichthys macrocephalus
+> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019); *Wumengosaurus delicatomandibularis* Jiang et al., 2008b; *Nothosaurus yangjuanensis* Jiang et al., 2006a; *Lariosaurus hongguoensis* Jiang et al., 2006b; *Placodus inexpectatus* Jiang et al., 2008a; *Largocephalosaurus qianensis* Li et al., 2014; *Sinosaurosphargis yunguiensis* Li et al., 2011; *Yelangichthys macrocephalus*
 > - **Locality and horizon**: Upper Member, Guanling Formation; Dapianpo Quarry, Yangjuan Village, Xinmin, Panzhou, Guizhou, China.
 > - **References**:
 > - **Comments**: Panxian Biota.
@@ -129,9 +127,10 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 **Upper Member, Guanling Formation, Luoping, Yunnan, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; Gimlichthys dawaziensis; Gymnoichthys inopinatus; Habroichthys broughi; Kyphosichthys grandei; Louwoichthys pusillus; Luopingichthys bergi; Luopingperleidus sui; Luoxiongichthys hyperdorsalis; Marcopoloichthys anii; Platysiagum sinensis; Pteronisculus changae; Robustichthys luopingensis; Saurichthys dawaziensis; Subortichthys triassicus; Placopleurus comptus; 
-> - Luopingcoelacanthus eurylacrimalis; Yunnancoelacanthus acrotuberculatus
-> - *Feroxichthys yunnanensis* (Xu, 2020a), *Luopingselache striata* (Wen et al., 2023); *Nothosaurus luopingensis* (Shan et al., 2022); *Dianopachysaurus dingi* Liu et al., 2011; *Diandongosaurus acutidentatus* Shang et al., 2011; *Dianmeisaurus gracilis* Shang and Li, 2015; *Nothosaurus zhangi* Liu et al., 2011; *Largocephalosaurus polycarpon* Cheng et al., 2012a; *Sinosaurosphargis yunguiensis* Li et al., 2011
+> - **Taxa**: *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Feroxichthys yunnanensis* (Xu, 2020a); *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; *Gimlichthys dawaziensis*; *Gymnoichthys inopinatus*; *Habroichthys broughi*; *Kyphosichthys grandei*; *Louwoichthys pusillus*; *Luopingichthys bergi*; *Luopingperleidus sui*; *Luoxiongichthys hyperdorsalis*; *Marcopoloichthys anii*; *Perleidus sinensis*; *Platysiagum sinensis*; *Pteronisculus changae*; *Robustichthys luopingensis*; *Saurichthys dawaziensis*; *Subortichthys triassicus*; *Placopleurus comptus*; 
+> - *Luopingcoelacanthus eurylacrimalis*; *Yunnancoelacanthus acrotuberculatus*
+> - *Luopingselache striata* (Wen et al., 2023);
+> - *Nothosaurus luopingensis* (Shan et al., 2022); *Dianopachysaurus dingi* Liu et al., 2011; *Diandongosaurus acutidentatus* Shang et al., 2011; *Dianmeisaurus gracilis* Shang and Li, 2015; *Nothosaurus zhangi* Liu et al., 2011; *Largocephalosaurus polycarpon* Cheng et al., 2012a; *Sinosaurosphargis yunguiensis* Li et al., 2011
 > - **Locality and horizon**: Upper Member, Guanling Formation, Luoping, Yunnan, China.
 > - **References**: Wen et al. (2023)
 > - **Comments**: Luoping Biota.
@@ -145,6 +144,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 ### Illyrian, Late Anisian
 Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
+
 The famous collecting area ofMonte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrianâ€ “Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisianâ€“Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database).  The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
 
 ### Fassanian, Early Ladinian
@@ -408,9 +408,9 @@ Slovenia,” in Program and abstract (Beijing: international symposium on
 Triassic and later marine vertebrate faunas), Beijing, China, August 29, 2010
 (Beijing, China: Peking University), 42–46
 
-Ji, C., Zhang, C., Jiang, D.-Y., Bucher, H., Motani, R., and Tintori, A. (2015).
-Ammonoid age control of the Early Triassic marine reptiles from Chaohu
-(South China). Palaeoworld. 24, 277–282. doi:10.1016/j.palwor.2014.11.009
+Ji, C., Zhang, C., Jiang, D.-Y., Bucher, H., Motani, R., and Tintori, A. (2015). Ammonoid age control of the Early Triassic marine reptiles from Chaohu (South China). Palaeoworld. 24, 277–282. doi:10.1016/j.palwor.2014.11.009
+
+Jiang, L., Ni, P. G., Sun, Z. Y., & Jiang, D. Y. (2016). Discovery and its significance of Birgeria sp. from the Middle Triassic Panxian Fauna, Guizhou Province, China. Acta Scientiarum Naturalium Universitatis Pekinensis, 52(3), 437–443.
 
 Jörg, E. (1969). Eine Fischfauna aus dem Oberen Buntsandstein (Unter-Trias) von
 Karlsruhe-Durlach (Nordbaden). Beiträge zur Naturkundlichen Forschung in
@@ -678,22 +678,15 @@ Switzerland). Swiss J. Geosci. 103, 101–119. doi:10.1007/s00015-010-0008-2
 Stolley, E. (1920). Beiträge zur Kenntnis der Ganoiden des deutschen
 Muschelkalks. Palaeontographica. 63, 25–86
 
-Sun, Z.-Y., Lombardo, C., Tintori, A., Jiang, D.-Y., Hao, W.-C., Sun, Y.-L., et al.
-(2012). Fuyuanperleidus dengi Geng et al., 2012 (Osteichthyes, Actinopterygii)
-from the Middle Triassic of Yunnan province, South China. Riv. Ital. Paleontol.
-Stratigr. 118, 359–373. doi:10.13130/2039-4942/6011
+Sun, Z.-Y., Lombardo, C., Tintori, A., Jiang, D.-Y., Hao, W.-C., Sun, Y.-L., et al. (2012). Fuyuanperleidus dengi Geng et al., 2012 (Osteichthyes, Actinopterygii) from the Middle Triassic of Yunnan province, South China. Riv. Ital. Paleontol. Stratigr. 118, 359–373. doi:10.13130/2039-4942/6011
 
-Sun, Z., Jiang, D., Ji, C., and Hao, W. (2016a). Integrated biochronology for Triassic
-marine vertebrate faunas of Guizhou province, South China. J. Asian Earth Sci.
-118, 101–110. doi:10.1016/j.jseaes.2016.01.004
+Sun, Z., Jiang, D., Ji, C., and Hao, W. (2016a). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou province, South China. J. Asian Earth Sci. 118, 101–110. doi:10.1016/j.jseaes.2016.01.004
 
-Sun, Z.-Y., Tintori, A., Lombardo, C., and Jiang, D.-Y. (2016b). New miniature
-neopterygians from the Middle Triassic of Yunnan province, South China. Neues
-Jahrbuch Geol. Palaontol. Abhand. 282, 135–156. doi:10.1127/njgpa/2016/0610
+Sun, Z.-Y., Tintori, A., Lombardo, C., and Jiang, D.-Y. (2016b). New miniature neopterygians from the Middle Triassic of Yunnan province, South China. Neues Jahrbuch Geol. Palaontol. Abhand. 282, 135–156. doi:10.1127/njgpa/2016/0610
 
-Sun, Z., Tintori, A., Jiang, D., and Motani, R. (2013). A new perleidid from the
-Spathian (Olenekian, Early Triassic) of Chaohu, Anhui province, China. Riv.
-Ital. Paleontol. Stratigr. 119, 275–285. doi:10.13130/2039-4942/6040
+Sun, Z., Tintori, A., Xu, Y., Lombardo, C., Ni, P. and Jiang, D., 2016. A new non-parasemionotiform order of the Halecomorphi (Neopterygii, Actinopterygii) from the Middle Triassic of Tethys. Journal of Systematic Palaeontology, 15(3): 223-240.
+
+Sun, Z., Tintori, A., Jiang, D., and Motani, R. (2013). A new perleidid from the Spathian (Olenekian, Early Triassic) of Chaohu, Anhui province, China. Riv. Ital. Paleontol. Stratigr. 119, 275–285. doi:10.13130/2039-4942/6040
 
 Surlyk, F., Bjerager, M., Piasecki, S., and Stemmerik, L. (2017). Stratigraphy of the
 marine Lower Triassic succession at Kap Stosch, Hold With Hope, north-east
@@ -841,3 +834,4 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
