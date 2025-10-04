@@ -45,25 +45,27 @@
 > - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
 
 ### Griesbachian, Induan, Early Triassic
-**Greenland**: 
-Previously undescribed specimens of Saurichthys from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. Saurichthys aff. dayi (Raymond, 1925)
 
-The Early Triassic fishes of East Greenland originate from six horizons (Nielsen 1942; Nielsen 1949; Perch-Nielsen et al., 1974), the lower five of which('fish-zones' I-V) are dated as early to late Griesbachian (Surlyk et al., 2017), whereas the sixth horizon is early Dienerian in age (see below). 
+**Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**: Kap Stosch Formation, Wordie Creek Group; Griesbachian, Induan, East Greenland.
+> - **References**:
+> - **Comments**: Previously undescribed specimens of *Saurichthys* from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. *Saurichthys* aff. *dayi* (Raymond, 1925).
+> - Romano (2021): The Early Triassic fishes of East Greenland originate from six horizons (Nielsen 1942; Nielsen 1949; Perch-Nielsen et al., 1974), the lower five of which('fish-zones' I-V) are dated as early to late Griesbachian (Surlyk et al., 2017), whereas the sixth horizon is early Dienerian in age (see below). Although the ichthyofaunal compositions of these six horizons differ (Nielsen 1961), collectively they show that all of the typical Early Triassic taxa were already present in the Griesbachian: Australosomus, Birgeria, Bobasatrania,Boreosomus (Ptycholepidae), ?Errolichthys, Helmolepis (Platysiagidae), parasemionotids (Broughia, Ospia, ?Parasemionotus, ?Watsonulus) Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Sassenia, and Whiteia (Stensiö 1932; Nielsen 1936; Nielsen 1942; Nielsen 1949; Nielsen 1952; Nielsen 1955; Nielsen 1961; Nybelin 1977; Mutter 2005; Kogan 2011; Argyriou et al., 2018). These taxa are part of Tintori et al. (2014a)’s “Triassic Early Fish Fauna” (TEFF).
 
-Although the ichthyofaunal compositions of these six horizons differ (Nielsen 1961), collectively they show that all of the typical Early Triassic taxa were already present in the Griesbachian: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), (Platysiagidae), parasemionotids Parasemionotus, ??Errolichthys, (Broughia, Helmolepis Ospia, ? Watsonulus) Pteronisculus, Saurichthys, ? Teffichthys ('Perleidus'; MarramÃ  et al., 2017), Sassenia, and Whiteia (StensiÃ¶ 1932; Nielsen 1936; Nielsen 1942; Nielsen 1949; Nielsen 1952; Nielsen 1955; Nielsen 1961; Nybelin 1977; Mutter 2005; Kogan 2011; Argyriou et al., 2018). These taxa are  part of Tintori et al. (2014a)'s 'Triassic Early Fish Fauna' (TEFF).
-
-Pteronisculus gunnari, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
+*Pteronisculus gunnari*, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
 
 ### Dienerian, Induan, Early Triassic
-**Madagascar**: 
-Middle Sakamena GroupÂ in northwesternÂ Madagascar
-Dienerian, Induan,Early Triassic
-By Lehman (1952) for the Dienerian Saurichthys madagascariensis Piveteau, 1944-45
-
 
 **Greenland**:
 In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes (â€œstegocephalian-horizonâ€? of Nielsen 1942; Nielsen 1949; â€œZone VIâ€? of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). In addition, two western Canadian occurrences have been dated as Dienerian: a parasemionotid collected in Alberta (Davies et al., 1997) and a bobasatraniid reported from British Columbia (Wignall and Newton 2003). There are also occurrences of possibly Dienerian aged actinopterygians in Idaho, United States (Tanner 1936; Romano et al., 2012).
 
+
+**Madagascar**: 
+Middle Sakamena GroupÂ in northwesternÂ Madagascar
+Dienerian, Induan,Early Triassic
+By Lehman (1952) for the Dienerian Saurichthys madagascariensis Piveteau, 1944-45
 
 ### Smithian, Olenekian, Early Triassic
 **Spitzbergen (Svalbard)**  
@@ -837,6 +839,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
