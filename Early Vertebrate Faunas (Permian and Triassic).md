@@ -47,7 +47,7 @@
 ### Griesbachian, Induan, Early Triassic
 
 **Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland**
-> - **Age**:
+> - **Age**: Griesbachian, Induan.
 > - **Taxa**:
 > - **Locality and horizon**: Kap Stosch Formation, Wordie Creek Group; Griesbachian, Induan, East Greenland.
 > - **References**:
@@ -56,10 +56,22 @@
 
 *Pteronisculus gunnari*, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
 
+**Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan**
+> - **Age**: Griesbachian, Induan.
+> - **Taxa**: *Bobasatrania* sp.
+> - **Locality and horizon**: Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan.
+> - **References**: Böttcher (2014)
+> - **Comments**:
+
+
 ### Dienerian, Induan, Early Triassic
 
-**Greenland**:
-In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes (â€œstegocephalian-horizonâ€? of Nielsen 1942; Nielsen 1949; â€œZone VIâ€? of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). In addition, two western Canadian occurrences have been dated as Dienerian: a parasemionotid collected in Alberta (Davies et al., 1997) and a bobasatraniid reported from British Columbia (Wignall and Newton 2003). There are also occurrences of possibly Dienerian aged actinopterygians in Idaho, United States (Tanner 1936; Romano et al., 2012).
+**"stegocephalian-horizon", Dienerian, Induan, East Greenland**
+> - **Age**: Dienerian, Induan.
+> - **Taxa**:
+> - **Locality and horizon**: "stegocephalian-horizon", Dienerian, Induan, East Greenland
+> - **References**:
+> - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). 
 
 
 **Madagascar**: 
@@ -282,11 +294,7 @@ Betancur-R., R., Ortí, G., and Pyron, R. A. (2015). Fossil-based comparative an
 
 Blieck, A. (2011). From adaptive radiations to biotic crises in Palaeozoic vertebrates: a geobiological approach. Geol. Belg. 14, 203–227
 
-Böttcher, R. (2014). Phyllodont tooth plates of Bobasatrania scutata (Gervais,
-1852) (Actinoperygii, Bobasatraniiformes) from the Middle Triassic
-(Longobardian) Grenzbonebed of southern Germany and eastern France,
-with an overview of Triassic and Palaeozoic phyllodont tooth plates. N. Jb.
-Geol. Paläont. Abh. 274, 291–311. doi:10.1127/njgpa/2014/0454
+Böttcher, R. (2014). Phyllodont tooth plates of Bobasatrania scutata (Gervais, 1852) (Actinoperygii, Bobasatraniiformes) from the Middle Triassic (Longobardian) Grenzbonebed of southern Germany and eastern France, with an overview of Triassic and Palaeozoic phyllodont tooth plates. N. Jb. Geol. Paläont. Abh. 274, 291–311. doi:10.1127/njgpa/2014/0454
 
 Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Brühwiler, T., Goudemand, N.,
 et al. (2009). Good genes and good luck: ammonoid diversity and the endPermian mass extinction. Science. 325, 1118–1121. doi:10.1126/science.1174638
@@ -839,6 +847,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
