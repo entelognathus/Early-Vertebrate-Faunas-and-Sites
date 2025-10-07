@@ -1,4 +1,4 @@
-# Early Vertebrate Faunas and Sites
+# Early Vertebrate Faunas and Sites (Permian and Triassic)
 
 **A Formation/Member, Locality**
 > - **Age**:
@@ -63,9 +63,7 @@
 > - **References**: Böttcher (2014)
 > - **Comments**:
 
-
 ### Dienerian, Induan, Early Triassic
-
 **"stegocephalian-horizon", Dienerian, Induan, East Greenland**
 > - **Age**: Dienerian, Induan.
 > - **Taxa**:
@@ -73,39 +71,105 @@
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). 
 
+**Middle Sakamena Group, Dienerian, Induan, Madagascar**
+> - **Age**: Dienerian, Induan,Early Triassic.
+> - **Taxa**: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), Ecrinesomus, Errolichthys, Helmolepis (Platysiagidae), Paracentrophorus, Pteronisculus, Saurichthys madagascariensis (Piveteau, 1944), Teffichthys (species were previously referred to Perleidus; Marramà et al., 2017), several parasemionotid genera, and actinistians (Piveteauia, Rhabdoderma, Whiteia).
+> - **Locality and horizon**: Middle Sakamena Group, Dienerian, Induan, Madagascar
+> - **References**: Lehman 1952; Nielsen 1955; Beltan 1968; Brinkmann et al., 2010; Marramà et al., 2017;
+> - **Comments**: 
 
-**Madagascar**: 
-Middle Sakamena GroupÂ in northwesternÂ Madagascar
-Dienerian, Induan,Early Triassic
-By Lehman (1952) for the Dienerian Saurichthys madagascariensis Piveteau, 1944-45
+**Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China**
+> - **Age**: Dienerian, Induan,Early Triassic.
+> - **Taxa**: Paraperleidus
+> - **Locality and horizon**: Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
+> - **References**: Benton et al., 2013
+> - **Comments**: 
+
+Two new localities yielding articulated Dienerian osteichthyan fishes were recently discovered in the Spiti subdistrict (Himachal Pradesh, India; Romano et al., 2016b) and in the Candelaria Hills (southwestern Nevada, United States; Romano et al., 2019). F
+
+Spiti: Saurichthys, a parasemionotid, an actinistian and additional, indeterminable actinopterygian remains
+
+Candelaria Hills: a parasemionotid (Candelarialepis), a ?turseoid (Pteronisculus), a ptycholepid (Ardoreosomus), and severalindeterminable actinopterygians
 
 ### Smithian, Olenekian, Early Triassic
-**Spitzbergen (Svalbard)**  
+
+**Smithian, Olenekian, Spitzbergen (Svalbard)**
+> - **Age**: Smithian, Olenekian, Early Triassic
+> - **Taxa**: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus), and several actinistian genera (Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania).
+> - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard)
+> - **References**:
+> - **Comments**: The age follows Romano et al. (2021).
+
 The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
 
 Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus StensiÃ¶, 1925 from the Smithian of Spitzbergen.
 
-**Arcadia Formation** (Australia) Olenekian, Early Triassic
-
-
-### Spathian, Olenekian, Early Triassic
-**Spitzbergen (Svalbard)**
 The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
 
 Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
 
+**Smithian, Olenekian, Alberta, British Columbia, Canada**
+> - **Age**: Smithian, Olenekian, Early Triassic
+> - **Taxa**: Albertonia, Australosomus,Birgeria, Bobasatrania, Boreosomus, Helmolepis, Saurichthys, actinistians (Belemnocerca, Rebellatrix, Whiteia
+> - **Locality and horizon**:
+> - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015.
+> - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
+
+**Idaho and northeast Nevada (Romano et al., 2012; Romano et al., 2017)**
+
+**Lower Qinglong Formation and the Helongshan Formation in eastern China (Tong et al., 2006; Li 2009)**
+
+**Arcadia Formation** (Australia) Olenekian, Early Triassic
+
+### Spathian, Olenekian, Early Triassic
 Well-dated Spathian bony fish are known from China, Romania, and the western United States.
 
-China: Nanlinghu Formation in eastern China (Anhui Province), a perleidid (Chaohuperleidus) and a saurichthyid have been described (Sun et al., 2013; Tintori et al., 2014b).
+**Nanlinghu Formation, Anhui, eastern China**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**: Nanlinghu Formation, Anhui, eastern China.
+> - **References**:Sun et al., 2013; Tintori et al., 2014b
+> - **Comments**: 
 
-From Romania, cranial remains of the actinistian Dobrogeria have been described (Cavin and GrË˜adinaru 2014), and material of additional taxa is currently under study (work in progress). From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
+**Romania**
+> - **Age**:
+> - **Taxa**: Dobrogeria
+> - **Locality and horizon**:
+> - **References**:Cavin and Gradinaru 2014
+> - **Comments**: 
 
-**Sulphur Mountain Formation Fauna** Olenekian, Early Triassic
+**northeast Nevada**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. 
 
+**Spitsbergen**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). 
+
+**Gogolin beds**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
+
+**Sulphur Mountain Formation Fauna, Olenekian, Early Triassic** 
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 > Wapiti Lake locality, British Columbian, Canada
-
 > Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
-
 > Rebellatrix divaricerca, Helmolepis and Birgeria 
 
 
@@ -232,9 +296,6 @@ Romano (2021):
 > - **References**: 
 > - **Comments**: Xinyi Biota.
 
-
-
-
 ## Late Triassic
 **Lockatong Formation, USA**
 > - **Age**: Late Triassic.
@@ -296,19 +357,11 @@ Blieck, A. (2011). From adaptive radiations to biotic crises in Palaeozoic verte
 
 Böttcher, R. (2014). Phyllodont tooth plates of Bobasatrania scutata (Gervais, 1852) (Actinoperygii, Bobasatraniiformes) from the Middle Triassic (Longobardian) Grenzbonebed of southern Germany and eastern France, with an overview of Triassic and Palaeozoic phyllodont tooth plates. N. Jb. Geol. Paläont. Abh. 274, 291–311. doi:10.1127/njgpa/2014/0454
 
-Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Brühwiler, T., Goudemand, N.,
-et al. (2009). Good genes and good luck: ammonoid diversity and the endPermian mass extinction. Science. 325, 1118–1121. doi:10.1126/science.1174638
+Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Brühwiler, T., Goudemand, N., et al. (2009). Good genes and good luck: ammonoid diversity and the endPermian mass extinction. Science. 325, 1118–1121. doi:10.1126/science.1174638
 
-Brayard, A., Krumenacker, L. J., Botting, J. P., Jenks, J. F., Bylund, K. G., Fara, E.,
-et al. (2017). Unexpected Early Triassic marine ecosystem and the rise of the
-Modern evolutionary fauna. Sci. Adv. 3, e1602159. doi:10.1126/sciadv.
-1602159
+Brayard, A., Krumenacker, L. J., Botting, J. P., Jenks, J. F., Bylund, K. G., Fara, E., et al. (2017). Unexpected Early Triassic marine ecosystem and the rise of the Modern evolutionary fauna. Sci. Adv. 3, e1602159. doi:10.1126/sciadv.1602159
 
-Brinkmann, W., Romano, C., Bucher, H., Ware, D., and Jenks, J. (2010).
-Palaeobiogeography and stratigraphy of advanced gnathostomian fishes
-(chondrichthyes and Osteichthyes) in the Early Triassic and from selected
-Anisian localities (report 1863–2009). Zbl. Geol. Paläontol. Teil II 2009,
-765–812
+Brinkmann, W., Romano, C., Bucher, H., Ware, D., and Jenks, J. (2010). Palaeobiogeography and stratigraphy of advanced gnathostomian fishes (chondrichthyes and Osteichthyes) in the Early Triassic and from selected Anisian localities (report 1863–2009). Zbl. Geol. Paläontol. Teil II 2009, 765–812
 
 Brough, J. (1939). The Triassic Fishes of Besano, Lombardy. London,
 United Kingdom: British Museum (Natural History)
@@ -847,6 +900,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
