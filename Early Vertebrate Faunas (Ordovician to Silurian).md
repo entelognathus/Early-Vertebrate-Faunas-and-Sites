@@ -613,7 +613,7 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 
 14) **Xiushan Formation, Shiqian, Guizhou, China**
 > - **Age**: middle Telychian.
-> - **Taxa**: [*Dianodus hollandi* Sansom et al., 2000; *Xinjiangichthys pleuridentatus*; *Sinacanthus* sp.; *Rongolepis cosmetica* Sansom et al., 2000; *Chenolepis asketa* Sansom et al., 2000.
+> - **Taxa**: [*Shiqianolepis hollandi* Sansom et al., 2000; *Xinjiangichthys pleuridentatus*; *Sinacanthus* sp.; *Rongolepis cosmetica* Sansom et al., 2000; *Chenolepis asketa* Sansom et al., 2000. *Sinacanthus wuchangenis*, *Xinjiangichthys* sp.
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
@@ -631,7 +631,7 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 16) **Huixingshao Formation, China**
 > - **Age**: late Telychian.
 > - **Taxa**: Galeaspida: [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., 2024; 
-Chondrichthyes: *Chenolepis asketa*, *Rongolepis cosmetica*, *Shenacanthus vermiformi*, *Shiqianolepis hollandi*, *Sinacanthus wuchangenis*, *Xinjiangichthys pluridentatus*, *Xinjiangichthys* sp. [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022;  
+Chondrichthyes:  [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022;  
 Placodermi: [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022.
 > - **Locality and horizon**: Huixingshao Formation, 1) Xiushan, Chongqing, 2) Kapeng, Baoqing, Hunan, China.
 > - **References**: (Chen et al., 2022; Chen et al., 2024a; Holland and Bassett, 2002; Li et al., 2021; Rong et al., 2019; Wang et al., 1986; Zhao and Zhu, 2010; Zhu and Gai, 2007; Zhu et al., 2022)
@@ -1927,6 +1927,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
