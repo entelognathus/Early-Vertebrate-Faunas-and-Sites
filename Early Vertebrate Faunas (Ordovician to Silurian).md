@@ -590,17 +590,18 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 
 11) **Fentou Formation, Wuhan, Hubei, China**
 > - **Age**: middle Telychian.
-> - **Taxa**: Galeaspida: *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021; *Sinacanthus wuchangensis*, *Sinacanthus triangulatus*, *Neosinacanthus planispinatus*; *Eosinacanthus shanmenensis*; 
-Chondrichthyes: Neosincanthus planispinatus, Sinacanthus triangulates, Sinacanthus wuchangenis.
-> - **Locality and horizon**: Fentou/'Guodingshan' Formation, Wuhan, Hubei, China.
+> - **Taxa**: Galeaspida: *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021;
+> - Chondrichthyes: *Sinacanthus wuchangensis*, *Sinacanthus triangulatus*, *Neosinacanthus planispinatus*; *Eosinacanthus shanmenensis*; 
+> - **Locality and horizon**: Fentou ('Guodingshan') Formation, Wuhan, Hubei, China. 1) Guodingshan, 2) Huangjintang, Jiangxia, 3) Madian
 > - **References**:
 > - **Comments**: To be checked.
 
 12) **Fentou Formation, Nanjing, Jiangsu, China**
 > - **Age**: middle Telychian.
-> - **Taxa**: Galeaspida: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993, Hanyangaspis chaohuensis, Hanyangaspis pani, Hanyangaspis sp., Latirostraspis caohuensis. Chondrichthyes: Neosinacanshus planispinatus, Neosinacanshus sp.2, Sinacanthus sp., Sinacanthus triangulates.
-> - **Locality and horizon**: Fentou Formation, 1) Nanjing, Jiangsu, 2)  Wuwei, Anhui, China.
-> - **References**: (Boucot and Janis, 1983; Pan, 1986; Pan and Chen, 1993; Zhao and Zhu, 2010; Zhu and Gai, 2007)
+> - **Taxa**: Galeaspida: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993, *Hanyangaspis chaohuensis*, *Hanyangaspis pani*, *Hanyangaspis* sp., *Latirostraspis caohuensis*.
+> - Chondrichthyes: *Neosinacanshus planispinatus*, *Neosinacanshus* sp.2, *Sinacanthus* sp., *Sinacanthus triangulates*.
+> - **Locality and horizon**: Fentou Formation, 1) Nanjing, Jiangsu, 2)  Wuwei, Anhui, 3) Chaohu, Anhui; 4) Ruichang, Jiangxi; 5) Jiujiang, Jiangxi, China.
+> - **References**: Boucot and Janis, 1983; Pan, 1986; Pan and Chen, 1993; Zhao and Zhu, 2010; Zhu and Gai, 2007
 > - **Comments**:
 
 13) **Xiushan Formation, Xiushan, Chongqing, China**
@@ -1926,6 +1927,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
