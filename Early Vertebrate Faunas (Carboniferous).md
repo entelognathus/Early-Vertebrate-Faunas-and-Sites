@@ -8,6 +8,27 @@
 # Carboniferous
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Wangyou Formation, Muhua, Changshun, Guizhou, China**
+> - **Age**: early Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**: 
+> - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
+> - **References**: Wang and Turner, 1985; Wang, 1989; 
+> - **Comments**: Gedongguan Bed of Hou et al. (1985).
+
+**Muhua Formation, Muhua, Changshun, Guizhou, China**
+> - **Age**: middle Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**: 
+> - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
+> - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
+> - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
+
 > Early Dinantian in NW Europe
 >
 > The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
@@ -71,6 +92,7 @@
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
