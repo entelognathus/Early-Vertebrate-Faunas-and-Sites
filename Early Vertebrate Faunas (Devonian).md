@@ -476,21 +476,33 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > Santan, Bobai, Guangxi, China
 > - [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993; [*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 
-**Shangshuanhe Formation**
-> 
-> -
+**Shangshuanghe Formation, Qujing, Yunnan**
+> Eifelian, Middle Devonian.
 
-***Haikou fauna***: Givetian,
-**Haikou Formation** 
-> 
+**Tanglishu Formation, Wuding and Luquan, Yunnan**
+> Eifelian, Middle Devonian.
+
+**Hongyapo Formation, Huizhe, Yunnan**
+> Eifelian, Middle Devonian.
+
+**Qujing Formation, Zhaotong, Yunnan**
+> late Eifelian, Middle Devonian.
+>
+**Qujing Formation, Qujing and Huaning, Yunnan**
+> Givetian, Middle Devonian.
+
+**Chahuaqing Formation, Wuding and Luquan, Yunnan**
+> Givetian, Middle Devonian.
+
+**Haikou Formation, Kunming, Yunnan** 
+> Givetian, Middle Devonian.
 > - [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973; *Yangaspis jinningensis* Liu et Wang，1981; 
 
-**Xichong Formation**
-> 
+**Xichong Formation, Qujing, Yunnan**
+> Givetian, Middle Devonian.
 > - [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 
-**Qujing Formation**
-> 
+
 
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
@@ -1001,6 +1013,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
