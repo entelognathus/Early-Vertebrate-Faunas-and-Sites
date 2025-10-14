@@ -7,20 +7,62 @@
 
 # Paleogene
 ## Paleocene
-### 
-### 
-### 
-### 
+### Danian
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
+### Selandian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+### Thanetian
+
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 ## Eocene
-### 
-### 
-### 
-### 
+### Ypresian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+### Lutetian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+### Bartonian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+### Priabonian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+## Oligocene
+### Rupelian
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+### Chattian
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -38,4 +80,5 @@
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
