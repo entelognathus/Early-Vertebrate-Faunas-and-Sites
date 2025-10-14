@@ -36,14 +36,16 @@
 > - **References**:
 > - **Comments**: 
 ### Lutetian
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+#### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
+> - **Age**:Lutetian
+> - **Taxa**: *Coupatezia sp.*,
+> - **Locality and horizon**: 290-318m, Greenish-grey clay with intercalations of fine-grained sand. Locally rather much Fine
+grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well De Wijk-19, Netherland
+> - **References**: (Bor, 1985)
 > - **Comments**: 
 ### Bartonian
 > - **Age**:
-> - **Taxa**:
+> - **Taxa**: 
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
@@ -80,5 +82,6 @@
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
