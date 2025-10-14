@@ -17,14 +17,14 @@
 
 **Wangyou Formation, Muhua, Changshun, Guizhou, China**
 > - **Age**: early Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**: 
+> - **Taxa**: *Acanthodes guizhouensis*
 > - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
 > - **References**: Wang and Turner, 1985; Wang, 1989; 
 > - **Comments**: Gedongguan Bed of Hou et al. (1985).
 
 **Muhua Formation, Muhua, Changshun, Guizhou, China**
 > - **Age**: middle Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**: 
+> - **Taxa**: protacrodont, ctenacanth, hybodont.*Thrinacodus bicuspidatus*，*Stethacanthussp.*，*Tamiobatis sp. *，*Protacrodussp.*，*Protacrodus* cf. *serra*，Protacrodontidae?genetsp.indet.，*Cassisodus margaritae*，Hybodontiformes gen. et sp. indet.，*Chomatodus linearis*，*Cristatodens sigmoidalis* , Protacrodontidae? gen. et sp. indet.，*Chondrenchelys sp.*，Chondrenchelyidae gen. et sp. indet.，*Chomatodus davisi*， Ctenacanthiformesgen. etsp. indet.，*Diclitodus denshumani*，*Helodus coniculus*，*Deltodus* cf. *sublaevis*
 > - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
 > - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
@@ -105,6 +105,7 @@
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
