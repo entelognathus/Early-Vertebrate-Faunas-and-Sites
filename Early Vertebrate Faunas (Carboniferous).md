@@ -39,6 +39,19 @@
 >
 > USA: Salem Limestone; Burlington limestone;
 
+**TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland**
+> - **Age**: Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+>> - rhizodonts: cf. _Strepsodus sauroides_, aff. _Archichthys portlocki_;
+>> - lungfishes: _Ballagadus rossi_ (Smithson _et al_., 2015), Dipnoi indet., _Uronemus splendens_, _Ctenodus roberti_, _Xylognathus macrustenus_;
+>> - tetrapods: _Aytonerpton microps_ (Clark _et al_., 2016), _Diploradus austiumensis_ (Clark _et al_., 2016), aff. _Pederpes_ and _Whatcheeria_, Tetrapoda indet. (at least two taxa, Clack _et al_. 2016);
+>> - Acanthodii: Gyracanthidae indet.;
+>> - holocephalans: aff. Menaspiformes;
+>> - actinopterygians: Actinopterygii indet.
+> - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
+> - **References**: Otoo *et al*., 2018
+> - **Comments**: The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the Ossirarus and Aytonerpeton beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
+
 
 ### Visean, Middle Mississipian, Carboniferous
 **Lower Waugh Member, Ste Genevieve Formation, Iowa, USA**
