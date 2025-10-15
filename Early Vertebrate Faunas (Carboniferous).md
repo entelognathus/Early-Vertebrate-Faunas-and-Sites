@@ -50,56 +50,36 @@ dataset of Sallan & Coates (2010)
 
 This dataset was updated to include new data from the Burnmouth TIM fauna (named ‘Burnmouth-TIM’ in the analyses), Blue Beach (Brazeau 2005; Mansky & Lucas 2013; Anderson et al. 2015) and Mill Hole (Carpenter et al. 2014), as well as revisions of rhizodont taxonomy (Johanson & Ahlberg 2001; Jeffery 2006).
 
-44. Horton Bluff
-**Formation, Locality**
-> - **Age**:
+**Horton Bluff and Albert Formations, Bay of Fundy, Canada**
+> - **Age**: Early/mid-Tournaisian.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-> -Stratigraphy/Location. Horton Bluff and Albert Formations, Bay of Fundy, Canada. 
-Age. Early/mid-Tournaisian. Environment. Non-marine, lacustrine with marine 
-influence.
-Taxa. Actinopterygii: Elonichthys ellsi, Elonichthys browni, Elonichthyes sp., 
-Rhadinichthys alberti, Rhadinichthys sp., Acrolepis hortonensis, Palaeoniscus sp. 
-Dipnoi: Unnamed ctenodont. Rhizodontida: Letognathus hardingi. Symmoriformes:
-Stethacanthus sp. Gyracanthida: Gyracanthides sp. Acanthodidae: Acanthodes sp.
-Tetrapoda: Unnamed anthracosaur.
-References. 232, 233, 234, 235, 236.
-> -
-> - 45. Izkchul Village
-**Formation, Locality**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Izkchul Village Fish Horizon, Lower 
-Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia. Age. 
-Early/mid-Tournaisian. Environment. Non-marine, brackish lagoon or lake. 
-Taxa. Actinopterygii: Oxypteriscus minimus, Ministrella longicaudata, Palaeobergia 
-microlepis, Bishofia lucida, Aetheretmon sp., Ganolepis gracilis, Gyrolepidotus 
-schmidtii, Grassator bidens. Megalichthyidae: Rhizodopsis savenkovi, Greiserolepis 
-minusensis. Rhizodontida: Pyncnotenion sibiriacus. Elasmobranchii: Ctenacanthus 
-peregrinus, Cladodus sp. Acanthodida: Acanthodes lopatini.
-References. 29, 30, 39, 237, 238, 239, 240.
+>> - Actinopterygii: Elonichthys ellsi, Elonichthys browni, Elonichthyes sp., Rhadinichthys alberti, Rhadinichthys sp., Acrolepis hortonensis, Palaeoniscus sp.
+>> - Dipnoi: Unnamed ctenodont. Rhizodontida: Letognathus hardingi. Symmoriformes: Stethacanthus sp. Gyracanthida: Gyracanthides sp. Acanthodidae: Acanthodes sp.
+>> - Tetrapoda: Unnamed anthracosaur.
+> - **Locality and horizon**: Horton Bluff and Albert Formations, Bay of Fundy, Canada. 
+> - **References**: 232, 233, 234, 235, 236.
+> - **Comments**: Environment. Non-marine, lacustrine with marine 
 
-46. Mansfield
-**Formation, Locality**
-> - **Age**:
+**Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia**
+> - **Age**: Early/mid-Tournaisian. 
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-Stratigraphy/Location. Broken River fish fauna, Devil’s Plain Formation, Mansfield 
-Group, Mansfield Basin, Victoria, Australia. Age. Early/mid-Tournaisian. Environment.
-Non-marine, fluvial, floodplain. 
-Taxa. Actinopterygii: Novogonatodus kasantsevae, Mansfieldiscus sweeti, 
-Mansfieldiscus gibbus. Dipnoi: Delatitia breviceps. Rhizodontida: Barameda decipiens. 
-Elasmobranchii: Tristychius sp., Ctenacanthus sp., Ageleodus altus. Gyracanthida: 
-Gyracanthus murrayi. Acanthodida: Acanthodes australis, Eupleurogmus cresswelli.
-References. 71, 241, 242, 243, 244, 245
+>> - Actinopterygii: Oxypteriscus minimus, Ministrella longicaudata, Palaeobergia microlepis, Bishofia lucida, Aetheretmon sp., Ganolepis gracilis, Gyrolepidotus schmidtii, Grassator bidens. Megalichthyidae: Rhizodopsis savenkovi, Greiserolepis minusensis.
+>> - Rhizodontida: Pyncnotenion sibiriacus.
+>> - Elasmobranchii: Ctenacanthus peregrinus, Cladodus sp. Acanthodida: Acanthodes lopatini.
+> - **Locality and horizon**: Izkchul Village Fish Horizon, Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia.
+> - **References**: 29, 30, 39, 237, 238, 239, 240.
+> - **Comments**: Non-marine, brackish lagoon or lake. 
 
+**Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
+> - **Age**: Early/mid-Tournaisian.
+> - **Taxa**:
+>> - Actinopterygii: Novogonatodus kasantsevae, Mansfieldiscus sweeti, Mansfieldiscus gibbus.
+>> - Dipnoi: Delatitia breviceps.
+>> - Rhizodontida: Barameda decipiens.
+>> - Elasmobranchii: Tristychius sp., Ctenacanthus sp., Ageleodus altus. Gyracanthida: Gyracanthus murrayi. Acanthodida: Acanthodes australis, Eupleurogmus cresswelli.
+> - **Locality and horizon**: Broken River fish fauna, Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia.
+> - **References**: 71, 241, 242, 243, 244, 245
+> - **Comments**: Non-marine, fluvial, floodplain. 
 
 > - 47. Foulden
 **Formation, Locality**
@@ -571,6 +551,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
