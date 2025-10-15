@@ -31,8 +31,6 @@
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
 
 > Early Dinantian in NW Europe
->
-> The Foulden Fish Bed (Dinantian of Foulden, Berwickshire, Scotland)
 
 > Granton Shrimp Bed the coast of Burnmouth, the banks of the Whiteadder Water near Chirnside, the River Tweed near Coldstream, and the rocks near Tantallon Castle alongside the Firth of Forth
 
@@ -81,39 +79,27 @@ This dataset was updated to include new data from the Burnmouth TIM fauna (named
 > - **References**: 71, 241, 242, 243, 244, 245
 > - **Comments**: Non-marine, fluvial, floodplain. 
 
-> - 47. Foulden
-**Formation, Locality**
-> - **Age**:
+**Foulden fish beds, Cementstone Group, Berwickshire, Scotland**
+> - **Age**: Mid/late Tournaisian.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Foulden fish beds, Cementstone Group, Berwickshire, Scotland. 
-Age. Mid/late Tournaisian. Environment. Non-marine, brackish alluvial, lacustrine.
-Taxa. Actinopterygii: Styracopterus fulcratus, Phanerosteon ovensi, Strepheoschema 
-fouldensis, Aetheretmon valentiacum, Cosmoptychius striatus, Rhadinichthys sp. Dipnoi:
-Unnamed dipnoan. Rhizodontida: Strepsodus aulaconamensis, Strepsodus nov. sp. 
-Actinistia: Rhabdoderma sp. Holocephalii: Lophosteus sp. Gyracanthida: Gyracanthides 
-sp. Acanthodida: Acanthodes ovensi. Tetrapoda: Unnamed anthracosaur.
-References. 6, 24, 246, 247. 248.
+>> - Actinopterygii: Styracopterus fulcratus, Phanerosteon ovensi, Strepheoschema fouldensis, Aetheretmon valentiacum, Cosmoptychius striatus, Rhadinichthys sp.
+>> - Dipnoi: Unnamed dipnoan.
+>> - Rhizodontida: Strepsodus aulaconamensis, Strepsodus nov. sp.
+>> - Actinistia: Rhabdoderma sp. Holocephalii: Lophosteus sp. Gyracanthida: Gyracanthides sp. Acanthodida: Acanthodes ovensi.
+>> - Tetrapoda: Unnamed anthracosaur.
+> - **Locality and horizon**: Foulden fish beds, Cementstone Group, Berwickshire, Scotland. 
+> - **References**: 6, 24, 246, 247. 248.
+> - **Comments**: Environment. Non-marine, brackish alluvial, lacustrine. Dinantian of Foulden, Berwickshire, Scotland.
 
-
-48. Herbesskaya
-**Formation, Locality**
-> - **Age**:
+**Herbesskaya Formation, Shagonar City, Tuva, Western Siberia**
+> - **Age**: Late Tournaisian.
 > - **Taxa**:
-> - **Locality and horizon**:
+>> - Actinopterygii: Senekichthys hirundo, Ganolepis sp., Actinopterygii nov. gen. et sp., Grassator sp. Megalichthyidae: Rhizodopsis savinkovi.
+>> - Rhizodontida: Pycnotenion sibiriacus.
+>> - Elasmobranchii: Psammodus linearis, Lagarodus angustus, “Ctenacanthus” (Hybodus) panderi, Cladodus sp. Holocephali: Helodus antiquissimus, Helodus contractus, Psephodus dentatus. Acanthodida: Acanthodes lopatini.
+> - **Locality and horizon**: Senek and Ortokhodan Creeks, Herbesskaya Formation, Shagonar City, Tuva, Western Siberia.
 > - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Senek and Ortokhodan Creeks, Herbesskaya Formation, 
-Shagonar City, Tuva, Western Siberia. Age. Late Tournaisian. Environment. Marine, 
-shallow sea. 
-Taxa. Actinopterygii: Senekichthys hirundo, Ganolepis sp., Actinopterygii nov. gen. et 
-sp., Grassator sp. Megalichthyidae: Rhizodopsis savinkovi. Rhizodontida: Pycnotenion 
-sibiriacus. Elasmobranchii: Psammodus linearis, Lagarodus angustus, “Ctenacanthus” 
-(Hybodus) panderi, Cladodus sp. Holocephali: Helodus antiquissimus, Helodus 
-contractus, Psephodus dentatus. Acanthodida: Acanthodes lopatini.
-
+> - **Comments**: Marine, shallow sea. 
 
 **TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland**
 > - **Age**: Tournaisian, Early Mississipian, Carboniferous.
@@ -551,6 +537,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
