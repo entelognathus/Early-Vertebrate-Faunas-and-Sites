@@ -32,12 +32,6 @@
 
 > USA: Salem Limestone; Burlington limestone;
 
-Few Tournaisian fish localities have been known until recently (Clarkson 1985; Long 1989; Sallan & Coates 2010; Mansky & Lucas 2013; Sallan & Galimberti 2015; Mickle 2017, Richards et al. 2018),
-
-dataset of Sallan & Coates (2010)
-
-This dataset was updated to include new data from the Burnmouth TIM fauna (named ‘Burnmouth-TIM’ in the analyses), Blue Beach (Brazeau 2005; Mansky & Lucas 2013; Anderson et al. 2015) and Mill Hole (Carpenter et al. 2014), as well as revisions of rhizodont taxonomy (Johanson & Ahlberg 2001; Jeffery 2006).
-
 **Horton Bluff and Albert Formations, Bay of Fundy, Canada**
 > - **Age**: Early/mid-Tournaisian.
 > - **Taxa**:
@@ -101,8 +95,8 @@ This dataset was updated to include new data from the Burnmouth TIM fauna (named
 >> - holocephalans: aff. Menaspiformes;
 >> - actinopterygians: Actinopterygii indet.
 > - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
-> - **References**: Otoo *et al*., 2018
-> - **Comments**:  Otoo *et al*. (2018): The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the *Ossirarus* and *Aytonerpeton* beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
+> - **References**: Otoo *et al*., 2019
+> - **Comments**:  Otoo *et al*. (2019): The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the *Ossirarus* and *Aytonerpeton* beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
 
 **Ballagan Formation, Burnmouth, Scotland**
 > - **Age**: Tournaisian, Early Mississipian, Carboniferous.
@@ -577,6 +571,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
