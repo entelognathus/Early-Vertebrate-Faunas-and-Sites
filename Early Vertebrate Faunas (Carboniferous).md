@@ -1,4 +1,5 @@
 # Early Vertebrate Faunas and Sites
+**Formation, Locality**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -49,6 +50,47 @@ dataset of Sallan & Coates (2010)
 
 This dataset was updated to include new data from the Burnmouth TIM fauna (named ‘Burnmouth-TIM’ in the analyses), Blue Beach (Brazeau 2005; Mansky & Lucas 2013; Anderson et al. 2015) and Mill Hole (Carpenter et al. 2014), as well as revisions of rhizodont taxonomy (Johanson & Ahlberg 2001; Jeffery 2006).
 
+44. Horton Bluff
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+> -
+> -
+> - 45. Izkchul Village
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+46. Mansfield
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+> - 47. Foulden
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+48. Herbesskaya
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 **TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland**
 > - **Age**: Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
@@ -64,6 +106,94 @@ This dataset was updated to include new data from the Burnmouth TIM fauna (named
 
 
 ### Visean, Middle Mississipian, Carboniferous
+49. Waaipoort 38
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+50. Glencartholm 39
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+51. Burdiehouse 39
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+52. Ducabrook 39
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+53. Wardie 40
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+54. Cheese Bay 40
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+55. East Kirkton 40
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+56. Gilmerton 41
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+57. Ardross Castle 41
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+58. Abden 41
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+59. Inchkeith
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 **Lower Waugh Member, Ste Genevieve Formation, Iowa, USA**
 > - **Age**: Visean.
 > - **Taxa**: Gyracanthus? jasperi, (Lombard & Bolt, 1995),
@@ -80,9 +210,36 @@ This dataset was updated to include new data from the Burnmouth TIM fauna (named
 
 
 ### Serpukhovian, Late Mississipian, Carboniferous
+60. Bearsden 42
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+61. Chokier 42
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+62. Loanhead
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 > Early Namurian in NW Europe
 **Bear Gulch Limestone Lagerstatte**
 > late Serpukhovian: Wendyichthys dicksoni, Guildayichthys carnegiei, Discoserra pectinodon
+
+
+
 
 
 ## Pennsylvanian
@@ -115,6 +272,7 @@ This dataset was updated to include new data from the Burnmouth TIM fauna (named
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
