@@ -35,21 +35,27 @@
 **Horton Bluff and Albert Formations, Bay of Fundy, Canada**
 > - **Age**: Early/mid-Tournaisian.
 > - **Taxa**:
->> - Actinopterygii: Elonichthys ellsi, Elonichthys browni, Elonichthyes sp., Rhadinichthys alberti, Rhadinichthys sp., Acrolepis hortonensis, Palaeoniscus sp.
->> - Dipnoi: Unnamed ctenodont. Rhizodontida: Letognathus hardingi. Symmoriformes: Stethacanthus sp. Gyracanthida: Gyracanthides sp. Acanthodidae: Acanthodes sp.
+>> - Actinopterygii: *Elonichthys ellsi*, *Elonichthys browni*, *Elonichthyes sp.*, *Rhadinichthys alberti*, *Rhadinichthys sp.*, *Acrolepis hortonensis*, *Palaeoniscus sp.*
+>> - Dipnoi: Unnamed ctenodont.
+>> - Rhizodontida: *Letognathus hardingi.*
+>> - Symmoriformes: *Stethacanthus sp.*
+>> - Gyracanthida: *Gyracanthides sp.*
+>> - Acanthodidae: *Acanthodes sp.*
 >> - Tetrapoda: Unnamed anthracosaur.
 > - **Locality and horizon**: Horton Bluff and Albert Formations, Bay of Fundy, Canada. 
-> - **References**: 232, 233, 234, 235, 236.
+> - **References**:  Gardiner, 1966; Miller, 1996; Brazeau, 2005; Jeffery, 2006; Rygel et al., 2006.
 > - **Comments**: Environment. Non-marine, lacustrine with marine 
 
 **Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia**
 > - **Age**: Early/mid-Tournaisian. 
 > - **Taxa**:
->> - Actinopterygii: Oxypteriscus minimus, Ministrella longicaudata, Palaeobergia microlepis, Bishofia lucida, Aetheretmon sp., Ganolepis gracilis, Gyrolepidotus schmidtii, Grassator bidens. Megalichthyidae: Rhizodopsis savenkovi, Greiserolepis minusensis.
->> - Rhizodontida: Pyncnotenion sibiriacus.
->> - Elasmobranchii: Ctenacanthus peregrinus, Cladodus sp. Acanthodida: Acanthodes lopatini.
+>> - Actinopterygii: *Oxypteriscus minimus*, *Ministrella longicaudata*, *Palaeobergia microlepis*, *Bishofia lucida*, *Aetheretmon sp.*, *Ganolepis gracilis*, *Gyrolepidotus schmidtii*, *Grassator bidens*.
+>> - Megalichthyidae: *Rhizodopsis savenkovi*, *Greiserolepis minusensis*.
+>> - Rhizodontida: *Pyncnotenion sibiriacus*.
+>> - Elasmobranchii: *Ctenacanthus peregrinus*, *Cladodus sp.*
+>> - Acanthodida: *Acanthodes lopatini*。
 > - **Locality and horizon**: Izkchul Village Fish Horizon, Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia.
-> - **References**: 29, 30, 39, 237, 238, 239, 240.
+> - **References**: Obruchev,1967; Vorobyeva, 1967; Maisey,1984; Berg, 1967; Kazantseva, 1968; Prokofiev, 2004; Beznosov, 2009. 
 > - **Comments**: Non-marine, brackish lagoon or lake. 
 
 **Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
@@ -58,9 +64,10 @@
 >> - Actinopterygii: Novogonatodus kasantsevae, Mansfieldiscus sweeti, Mansfieldiscus gibbus.
 >> - Dipnoi: Delatitia breviceps.
 >> - Rhizodontida: Barameda decipiens.
->> - Elasmobranchii: Tristychius sp., Ctenacanthus sp., Ageleodus altus. Gyracanthida: Gyracanthus murrayi. Acanthodida: Acanthodes australis, Eupleurogmus cresswelli.
+>> - Elasmobranchii: Tristychius sp., Ctenacanthus sp., Ageleodus altus. Gyracanthida: Gyracanthus murrayi.
+>> - Acanthodida: Acanthodes australis, Eupleurogmus cresswelli.
 > - **Locality and horizon**: Broken River fish fauna, Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia.
-> - **References**: 71, 241, 242, 243, 244, 245
+> - **References**: Long, 1988; Woodward, 1906; Warren, 2000; Holland, 2006; Garvey, 2006; Garvey, 2008.
 > - **Comments**: Non-marine, fluvial, floodplain. 
 
 **Foulden fish beds, Cementstone Group, Berwickshire, Scotland**
@@ -69,20 +76,26 @@
 >> - Actinopterygii: Styracopterus fulcratus, Phanerosteon ovensi, Strepheoschema fouldensis, Aetheretmon valentiacum, Cosmoptychius striatus, Rhadinichthys sp.
 >> - Dipnoi: Unnamed dipnoan.
 >> - Rhizodontida: Strepsodus aulaconamensis, Strepsodus nov. sp.
->> - Actinistia: Rhabdoderma sp. Holocephalii: Lophosteus sp. Gyracanthida: Gyracanthides sp. Acanthodida: Acanthodes ovensi.
+>> - Actinistia: Rhabdoderma sp.
+>> - Holocephalii: Lophosteus sp.
+>> - Gyracanthida: Gyracanthides sp.
+>> - Acanthodida: Acanthodes ovensi.
 >> - Tetrapoda: Unnamed anthracosaur.
 > - **Locality and horizon**: Foulden fish beds, Cementstone Group, Berwickshire, Scotland. 
-> - **References**: 6, 24, 246, 247. 248.
+> - **References**: Brazeau,2009; Woodward, 1890; White, 1925; Moy-Thomas, 1938; Gardiner,1985.
 > - **Comments**: Environment. Non-marine, brackish alluvial, lacustrine. Dinantian of Foulden, Berwickshire, Scotland.
 
 **Herbesskaya Formation, Shagonar City, Tuva, Western Siberia**
 > - **Age**: Late Tournaisian.
 > - **Taxa**:
->> - Actinopterygii: Senekichthys hirundo, Ganolepis sp., Actinopterygii nov. gen. et sp., Grassator sp. Megalichthyidae: Rhizodopsis savinkovi.
+>> - Actinopterygii: Senekichthys hirundo, Ganolepis sp., Actinopterygii nov. gen. et sp., Grassator sp.
+>> - Megalichthyidae: Rhizodopsis savinkovi.
 >> - Rhizodontida: Pycnotenion sibiriacus.
->> - Elasmobranchii: Psammodus linearis, Lagarodus angustus, “Ctenacanthus” (Hybodus) panderi, Cladodus sp. Holocephali: Helodus antiquissimus, Helodus contractus, Psephodus dentatus. Acanthodida: Acanthodes lopatini.
+>> - Elasmobranchii: Psammodus linearis, Lagarodus angustus, “Ctenacanthus” (Hybodus) panderi, Cladodus sp.
+>> - Holocephali: Helodus antiquissimus, Helodus contractus, Psephodus dentatus.
+>> - Acanthodida: Acanthodes lopatini.
 > - **Locality and horizon**: Senek and Ortokhodan Creeks, Herbesskaya Formation, Shagonar City, Tuva, Western Siberia.
-> - **References**:
+> - **References**:Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
 > - **Comments**: Marine, shallow sea. 
 
 **TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland**
@@ -137,8 +150,8 @@
 **Blue Beach, Nova Scotia, Canada**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:(Anderson et al. 2015)
+> - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation
+> - **References**: Anderson et al., 2015; Mansky et al., 2013
 > - **Comments**:
 
 ### Visean, Middle Mississipian, Carboniferous
@@ -576,6 +589,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
