@@ -567,10 +567,16 @@ Collections.
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
-
+**Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA**
+> - **Age**: Kasimovian (Missourian)
+> - **Taxa**: chondrichthyans (*Acondylacanthus*, *Amelacanthus americanus*, *Bythiacanthus*, Hybodontidae, gen. et sp. indet., *"Physonemus" baculiformis*, *"Physonemus" stellatus*, **, **,)
+> - **Locality and horizon**: Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
+> - **References**: (Maisey, 1983)
+> - **Comments**:
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
