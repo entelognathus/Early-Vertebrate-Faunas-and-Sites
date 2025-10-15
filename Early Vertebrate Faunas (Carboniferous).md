@@ -9,11 +9,11 @@
 # Carboniferous
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
-**A Formation/Member, Locality**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Köprülü Formation, Zap Valley, Hakkari, SE Turkey**
+> - **Age**: Tournaisian
+> - **Taxa**: Cochliodontiformes: *Cochliodus sp.*, **
+> - **Locality and horizon**: Köprülü Formation, Zap Valley, Hakkari, SE Turkey
+> - **References**: (Janvier, 1984)
 > - **Comments**: 
 
 **Wangyou Formation, Muhua, Changshun, Guizhou, China**
@@ -571,6 +571,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
