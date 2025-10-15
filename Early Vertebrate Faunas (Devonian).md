@@ -523,7 +523,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 ***Aruküla Formation fauna***: upper Eifeilian 
 > Aruküla Formation, Baltic.
--> -> Comment: Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
+-> Comment: Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
 and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fig. 3, Mark-Kurik and Poldvere, 2012), The Aruküla RSs is in early Givetian. In (Plink-Björklund, 2012), the Aruküla RSs was also put in early Givetian.  
 
 
@@ -1015,6 +1015,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
