@@ -79,7 +79,14 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 
 # Neogene
 ## Miocene
-### 
+### Aquitanian
+####  Skooner Gulch Formation, UCMP Locality V-75135, Schooner Gulch, Mendocino County, California
+> - **Age**: Aquitanian
+> - **Taxa**: *Chlamydoselachus garmani*
+> - **Locality and horizon**: Skooner Gulch Formation; UCMP Locality V-75135, Schooner Gulch, Mendocino County, California
+> - **References**: (Welton, 1979; Pfeil, 1983)
+> - **Comments**: 
+
 ### 
 ### 
 ### 
@@ -88,6 +95,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
