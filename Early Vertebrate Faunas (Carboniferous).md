@@ -30,16 +30,6 @@
 > - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
 
-> Early Dinantian in NW Europe
-
-> Granton Shrimp Bed the coast of Burnmouth, the banks of the Whiteadder Water near Chirnside, the River Tweed near Coldstream, and the rocks near Tantallon Castle alongside the Firth of Forth
-
-> Pederpes from Scotland (Clack & Finney 2005).
-
-> East Lothian, Scotland; 
-
-> Blue Beach, Nova Scotia in Canada (Anderson et al. 2015)
->
 > USA: Salem Limestone; Burlington limestone;
 
 Few Tournaisian fish localities have been known until recently (Clarkson 1985; Long 1989; Sallan & Coates 2010; Mansky & Lucas 2013; Sallan & Galimberti 2015; Mickle 2017, Richards et al. 2018),
@@ -114,6 +104,48 @@ This dataset was updated to include new data from the Burnmouth TIM fauna (named
 > - **References**: Otoo *et al*., 2018
 > - **Comments**:  Otoo *et al*. (2018): The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the *Ossirarus* and *Aytonerpeton* beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
 
+**Ballagan Formation, Burnmouth, Scotland**
+> - **Age**: Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+> - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
+> - **References**:
+> - **Comments**: All derive from the Tournaisian argillaceous dolostone-bearing mudstone succession of Scotland. Formerly known as the Cementstone Group (the lower part of the Calciferous Sandstone Measures in Scotland), these rocks have now been assigned to the Ballagan Formation, Inverclyde Group. Most belong to the claviger-macra (CM) palynozone, dated as 348 to 347.6 Ma.
+> Pederpes from Scotland (Clack & Finney 2005).
+
+**Willie’s Hole Shrimp Bed**
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Dumbarton, Western Scotland**
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Coldstream**
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: previously dated as Viséan.
+
+**Tantallon Castle, East Lothian**
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Blue Beach, Nova Scotia, Canada**
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:(Anderson et al. 2015)
+> - **Comments**:
 
 ### Visean, Middle Mississipian, Carboniferous
 49. Waaipoort 38
@@ -227,8 +259,7 @@ Reference. 6.
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
-Stratigraphy/Location. Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale 
-Group, Calciferous Sandstone Series, East Lothian, Scotland. Age. Late Viséan. 
+Stratigraphy/Location. Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland. Age. Late Viséan. 
 Environment. Non-marine, brackish pools.
 Taxa. Actinopterygii: Gonatodus punctatus, Elonichthys robinsoni, Elonichthys 
 intermedius, Cosmoptychius striatus, Nematoptychius greenocki, Rhadinichthys brevis, 
@@ -237,6 +268,15 @@ Wardichthys cyclosoma. Rhizodontida: Rhizodus hibberti. Actinistia: Rhabdoderma 
 Acanthodida: Acanthodes sp. Tetrapoda: Casineria kiddi.
 References. 6, 267.
 
+The Gullane Shrimp Bed, exposed at Cheese Bay, on the East Lothian coast.
+The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Firth of Forth, about 3 km from the centre of Edinburgh. 
+
+**Granton Shrimp Bed, Firth of Forth, Scotland**
+> - **Age**: Visean.
+> - **Taxa**:
+> - **Locality and horizon**: Granton Shrimp Bed, Lower Oil Shale Group, Firth of Forth, Scotland*
+> - **References**:
+> - **Comments**: Early Dinantian, Tournasian; Late Dinantian, Visean.
 
 55. East Kirkton 40
 **Formation, Locality**
@@ -537,6 +577,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
