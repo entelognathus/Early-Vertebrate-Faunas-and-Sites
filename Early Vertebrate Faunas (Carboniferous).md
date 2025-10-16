@@ -121,38 +121,42 @@
 
 **Willie’s Hole Shrimp Bed**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**:
+> - **Taxa**: 
+>> - Actinopterygian: *Phanerosteon ovensi*， *Aetheretmon valentiacum*
+>> - Tetrapod:
 > - **Locality and horizon**:
-> - **References**:
+> - **References**: Smithson, 2012； Cater, 1989
 > - **Comments**: 
 
 **Dumbarton, Western Scotland**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+> - **Taxa**:*Pederpes finneyae*
+> - **Locality and horizon**:Ballagan Formation, Inverclyde Group (formerly Cementstone Group, Calciferous Sandstone Series); claviger-macra (CM) palynozone (possibly from the lower part of this zone). Auchenreoch Glen, near Maryland Farm, 2–3 km north of Dumbarton, western Scotland.
+> - **References**: Smithson, 2012；Clack, 2002; Clack& Finney, 2005
+> - **Comments**: Ivorian, Early Carboniferous (348–344 Myr)
 
 **Coldstream**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**:
+> - **Taxa**:(tetrapod skull bones and vertebrae, as well as lungfish and rhizodont elements，Gyracanthus spines, and scorpion fragments)
 > - **Locality and horizon**:
-> - **References**:
+> - **References**: Smithson, 2012
 > - **Comments**: previously dated as Viséan.
 
 **Tantallon Castle, East Lothian**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Taxa**:*Tantallognathus woodi*
+> - **Locality and horizon**:Ballagan Formation, Gin Head, Tantallon, near North Berwick, Scotland. 
+> - **References**:Smithson, 2012；Scott, 1988; Chen, 2009
+> - **Comments**:late Tournaisian or earliest Vise´an of Tantallon near North Berwick, Scotland (Chen, 2009). Sedimentary rocks close to the fossil plant localities of Castleton Bay and Oxroad Bay（Smithson, 2012）
 
 **Blue Beach, Nova Scotia, Canada**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
-> - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation
-> - **References**: Anderson et al., 2015; Mansky et al., 2013
-> - **Comments**:
+>> - Tetrapoda: Whatcheeriids, Embolomeres/“Reptiliomorphs”, Acanthostega? Ichthyostega? Colosteids?
+>> - (Basal actinopterygians, Rhizodontids, Acanthodids, Chondrichthyans, lungfish)
+> - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation，Nova Scotia, Canada
+> - **References**: Anderson et al., 2015; Mansky et al., 2013； Clack, 2000; Hunt, 2004; Lucas, 2004
+> - **Comments**::Western shore of the Avon River (confluence with Bay of Fundy) north of Hantsport
 
 ### Visean, Middle Mississipian, Carboniferous
 49. Waaipoort 38
@@ -589,6 +593,7 @@ Collections.
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
+
 
 
 
