@@ -280,8 +280,8 @@ Romano (2021):
 **Zhuganpo Member, Falang Formation, Guanling, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
->> - Actinopterygii: Guizhoucoelacanthus guanlingensis Liu et al., 2006 F001; Birgeria guizhouensis Liu et al., 2006; Pholidopleurus xiaowaensis Liu et al., 2006 NIGP139726; Peltopleurus brachycephalus Liu et al., 2006 NIGP139729; Guizhoueugnathus largus Liu et al., 2006; 
->> - Tetrapoda: Qianichthyosaurus zhoui Li, 1999 IVPP V 11839; Guanlingsaurus liangae Yin et al., 2000 GMR 014; Guizhouichthyosaurus tangae Cao and Luo in Yin et al., 2000 GMR 009; Sinocyamodus xinpuensis Li, 2000 IVPP V 11872; Cyamodus orientalis Wang et al., 2019 ZMNH M8820; Psephochelys polyosteoderma Li and Rieppel, 2002 IVPP V 12442; Anshunsaurus huangguoshuensis Liu, 1999 IVPP V 11835; Xinpusaurus suni Yin et al., 2000 GMR 010; Concavispina biseridens Zhao et al.,2013 ZMNH M8804; Miodentosaurus brevis Cheng et al., 2007 NMNS-004727/F003960; Odontochelys semitestacea Li et al., 2008 IVPP V 15639; Eorhynchochelys sinensis Li et al.,2018 SMMP 000016
+>> - Actinopterygii:
+>> - Tetrapoda:
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Zhuganpo village, Guanling, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota.
@@ -314,6 +314,9 @@ Romano (2021):
 **Wayao Member, Falang Formation, Guanling, Guizhou, China**
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**:
+>> - Actinopterygii:  Birgeria guizhouensis Liu et al., 2006; Pholidopleurus xiaowaensis Liu et al., 2006 NIGP139726; Peltopleurus brachycephalus Liu et al., 2006 NIGP139729; Guizhoueugnathus largus Liu et al., 2006;
+>> - Sarcopterygii: Guizhoucoelacanthus guanlingensis Liu et al., 2006 F001;
+>> - Tetrapoda: Qianichthyosaurus zhoui Li, 1999 IVPP V 11839; Guanlingsaurus liangae Yin et al., 2000 GMR 014; Guizhouichthyosaurus tangae Cao and Luo in Yin et al., 2000 GMR 009; Sinocyamodus xinpuensis Li, 2000 IVPP V 11872; Cyamodus orientalis Wang et al., 2019 ZMNH M8820; Psephochelys polyosteoderma Li and Rieppel, 2002 IVPP V 12442; Anshunsaurus huangguoshuensis Liu, 1999 IVPP V 11835; Xinpusaurus suni Yin et al., 2000 GMR 010; Concavispina biseridens Zhao et al.,2013 ZMNH M8804; Miodentosaurus brevis Cheng et al., 2007 NMNS-004727/F003960; Odontochelys semitestacea Li et al., 2008 IVPP V 15639; Eorhynchochelys sinensis Li et al.,2018 SMMP 000016
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: Guanling Biota.
@@ -905,6 +908,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
