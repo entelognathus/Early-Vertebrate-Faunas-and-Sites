@@ -264,7 +264,7 @@ Romano (2021):
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
 >> - Actinopterygii: *Luganoia fortuna* (Xu, 2020) IVPP V 25693. *Birgeria liui* (Ni et al., 2019), *Colobodus wushaensis* (Li et al., 2019) GZ12203845; Guizhouiscus microlepidus Liu et al., 2003; Thoracpterus wushaensis Tintori et al., 2011 GMPKU-P-3061; Wushaichthys exquisitus Xu et al., 2015 IVPP V19959; Guizhoueugnathus analilepida Liu et al., 2003 NIGP136040; Guizhouamia bellula Liu et al., 2002 NIGP134837; Xingyia gracilis Liu et al., 2003; Brachysomus minor Liu et al., 2003 NIGP13603; Malingichthys nimaiguensis Tintori et al., 2015 GMPKU-P-3163; Malingichthys wanfenglinenisi Tintori et al., 2015 GMPKU-P-3181;
->> - Tetrapoda: *Lariosaurus xingyiensis* Li et al., 2002 IVPP V 11866; *Xinpusaurus xingyiensis* (Li et al., 2016), XNGM WS-53-R3; *Nothosaurus youngi* Li and Rieppel, 2004 IVPP V 13590; Qianichthyosaurus xingyiensis Ji, Jiang and Motani, 2013 WS2011-46-R1; Wangosaurus brevirostris Ma et al.,2015 GMPKU-P-1529; Thalattosauroidea incertae XNGM WS-22-R5; Tanystropheus cf. T. longobardicus Rieppel et al., 2010 GMPKU-P-1527
+>> - Tetrapoda: *Lariosaurus xingyiensis* Li et al., 2002 IVPP V 11866; *Xinpusaurus xingyiensis* (Li et al., 2016), XNGM WS-53-R3; *Nothosaurus youngi* Li and Rieppel, 2004 IVPP V 13590; *Qianichthyosaurus xingyiensis* Ji, Jiang and Motani, 2013 WS2011-46-R1; *Wangosaurus brevirostris* Ma et al.,2015 GMPKU-P-1529; Thalattosauroidea incertae XNGM WS-22-R5; *Tanystropheus* cf. *T. longobardicus* Rieppel et al., 2010 GMPKU-P-1527; *Anshunsaurus huangnihensis*
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016).
@@ -908,6 +908,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
