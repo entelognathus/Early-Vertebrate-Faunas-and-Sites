@@ -86,7 +86,13 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: Skooner Gulch Formation; UCMP Locality V-75135, Schooner Gulch, Mendocino County, California
 > - **References**: (Welton, 1979; Pfeil, 1983)
 > - **Comments**: 
-
+### Burdigalian
+####  Baripada limestone beds, Baripada, Orissa
+> - **Age**: Burdigalian
+> - **Taxa**: *Carcharhinus robusta*
+> - **Locality and horizon**: Baripada limestone beds; Baripada, Orissa, India
+> - **References**: (Mehrotra, 1981)
+> - **Comments**: The Age of Baripada limestone beds is not exact (Early Miocene). Here, we temporarily unify it as Burdigalian.
 ### 
 ### 
 ### 
@@ -95,6 +101,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
