@@ -41,7 +41,7 @@
 > - **Taxa**: **,
 > - **Locality and horizon**: 290-318m, Greenish-grey clay with intercalations of fine-grained sand. Locally rather much Fine
 grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well De Wijk-19, Netherland
-> - **References**: (Bor, 1985)
+> - **References**: (Bor, 1985; Sharma and Patnaik, 2014)
 > - **Comments**:
 #### Dongen Formation Brussels Sand Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
@@ -101,6 +101,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
