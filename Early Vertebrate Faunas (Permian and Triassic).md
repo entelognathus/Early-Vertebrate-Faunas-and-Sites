@@ -197,9 +197,9 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207, *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520, saurichthyiforms *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971 and birgeriiforms *Birgeria* sp. (Jiang et al., 2016). *Sangiorgioichthys yangjuanensis* Wu et al., 2015 Lashanichthys yangjuanensis ‘=Sangiorgioichthys yangjuanensis’ Chen et al., 2014 GMPKU-P-3055; Saurichthys yangjuanensis Wu et al., 2015 GMPKU-P-1220
+> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207, *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520, saurichthyiforms *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971 and birgeriiforms *Birgeria* sp. (Jiang et al., 2016). *Sangiorgioichthys yangjuanensis* Wu et al., 2015 Lashanichthys yangjuanensis ‘=Sangiorgioichthys yangjuanensis’ Chen et al., 2014 GMPKU-P-3055; Saurichthys yangjuanensis Wu et al., 2015 GMPKU-P-1220; *Yelangichthys macrocephalus*; 
 > - Sarcopterygii:
-> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019) GMPKU-P-1059; *Wumengosaurus delicatomandibularis* Jiang et al., 2008b GMPKU-P-1210; *Nothosaurus yangjuanensis* Jiang et al., 2006a GMPKU-P-1080; *Lariosaurus hongguoensis* Jiang et al., 2006b GMPKU-P-1011; *Placodus inexpectatus* Jiang et al., 2008a GMPKU-P-1054; *Largocephalosaurus qianensis* Li et al., 2014 IVPP V 15638; *Sinosaurosphargis yunguiensis* Li et al., 2011; *Yelangichthys macrocephalus*; *Dinocephalosaurus orientalis* Li, 2003, IVPP V 13767; *Phalarodon atavus*; *Mixosaurus cornalianus*; Mixosaurus panxianensis Jiang et al, 2006  GMPKU-P-1033; Phalarodon cf. P. fraasi Merriam, 1910 Jiang et al, 2007 GMPKU-P-1032; Xinminosaurus catactes  Jiang et al, 2008 GMPKU-P-1071; Qianosuchus mixtus Li et al, 2006 IVPP V 13899
+> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019) GMPKU-P-1059; *Wumengosaurus delicatomandibularis* Jiang et al., 2008b GMPKU-P-1210; *Nothosaurus yangjuanensis* Jiang et al., 2006a GMPKU-P-1080; *Lariosaurus hongguoensis* Jiang et al., 2006b GMPKU-P-1011; *Placodus inexpectatus* Jiang et al., 2008a GMPKU-P-1054; *Largocephalosaurus qianensis* Li et al., 2014 IVPP V 15638; *Sinosaurosphargis yunguiensis* Li et al., 2011 IVPP V16076; *Dinocephalosaurus orientalis* Li, 2003, IVPP V 13767; *Phalarodon atavus*; *Mixosaurus cornalianus*; Mixosaurus panxianensis Jiang et al, 2006  GMPKU-P-1033; Phalarodon cf. P. fraasi Merriam, 1910 Jiang et al, 2007 GMPKU-P-1032; Xinminosaurus catactes Jiang et al, 2008 GMPKU-P-1071; Qianosuchus mixtus Li et al, 2006 IVPP V 13899
 > - **Locality and horizon**: Upper Member, Guanling Formation; Dapianpo Quarry, Yangjuan Village, Xinmin, Panzhou, Guizhou, China.
 > - **References**:
 > - **Comments**: Panxian Biota.
@@ -900,6 +900,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
