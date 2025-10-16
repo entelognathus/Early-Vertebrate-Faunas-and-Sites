@@ -253,15 +253,18 @@ Romano (2021):
 
 **Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
-> - **Taxa**: *Sinoeugnathus* Su, 1959, *Asialepidotus shingyiensis*, *Guizhouamia*, 
+> - **Taxa**:
+>> - *Sinoeugnathus* Su, 1959, V. 2433; *Asialepidotus shingyiensis* Su, 1959 V. 2434; *Guizhouamia*; Peltopleurus orientalis Su, 1959 V. 2432; Malingichthys Tintori et al., 2015
+>> - Keichousaurus hui Young, 1958 IVPP V 952; Guizhouichthyosaurus Yin et al. 2000; Xinpusaurus xingyiensis; Qianichthyosaurus xingyiensis Ji, Jiang and Motani,2013
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **References**: (Su, 1959)
 > - **Comments**: Xinyi Biota.
 
 **Zhuganpo Member, Falang Formation, Wusha, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
-> - **Taxa**: Actinopterygii: *Luganoia fortuna* (Xu, 2020). *Birgeria liui* (Ni et al., 2019), *Colobodus wushaensis* (Li et al., 2019), 
-> - Tetrapoda: *Lariosaurus xingyiensis*, *Xinpusaurus xingyiensis* (Li et al., 2016), *Nothosaurus youngi*, 
+> - **Taxa**:
+>> - Actinopterygii: *Luganoia fortuna* (Xu, 2020) IVPP V 25693. *Birgeria liui* (Ni et al., 2019), *Colobodus wushaensis* (Li et al., 2019) GZ12203845; Guizhouiscus microlepidus Liu et al., 2003; Thoracpterus wushaensis Tintori et al., 2011 GMPKU-P-3061; Wushaichthys exquisitus Xu et al., 2015 IVPP V19959; Guizhoueugnathus analilepida Liu et al., 2003 NIGP136040; Guizhouamia bellula Liu et al., 2002 NIGP134837; Xingyia gracilis Liu et al., 2003; Brachysomus minor Liu et al., 2003 NIGP13603; Malingichthys nimaiguensis Tintori et al., 2015 GMPKU-P-3163; Malingichthys wanfenglinenisi Tintori et al., 2015 GMPKU-P-3181;
+>> - Tetrapoda: *Lariosaurus xingyiensis* Li et al., 2002 IVPP V 11866; *Xinpusaurus xingyiensis* (Li et al., 2016), XNGM WS-53-R3; *Nothosaurus youngi* Li and Rieppel, 2004 IVPP V 13590; Qianichthyosaurus xingyiensis Ji, Jiang and Motani, 2013 WS2011-46-R1; Wangosaurus brevirostris Ma et al.,2015 GMPKU-P-1529; Thalattosauroidea incertae XNGM WS-22-R5; Tanystropheus cf. T. longobardicus Rieppel et al., 2010 GMPKU-P-1527
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016).
@@ -276,7 +279,9 @@ Romano (2021):
 
 **Zhuganpo Member, Falang Formation, Guanling, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
-> - **Taxa**: 
+> - **Taxa**:
+>> - Actinopterygii: Guizhoucoelacanthus guanlingensis Liu et al., 2006 F001; Birgeria guizhouensis Liu et al., 2006; Pholidopleurus xiaowaensis Liu et al., 2006 NIGP139726; Peltopleurus brachycephalus Liu et al., 2006 NIGP139729; Guizhoueugnathus largus Liu et al., 2006; 
+>> - Tetrapoda: Qianichthyosaurus zhoui Li, 1999 IVPP V 11839; Guanlingsaurus liangae Yin et al., 2000 GMR 014; Guizhouichthyosaurus tangae Cao and Luo in Yin et al., 2000 GMR 009; Sinocyamodus xinpuensis Li, 2000 IVPP V 11872; Cyamodus orientalis Wang et al., 2019 ZMNH M8820; Psephochelys polyosteoderma Li and Rieppel, 2002 IVPP V 12442; Anshunsaurus huangguoshuensis Liu, 1999 IVPP V 11835; Xinpusaurus suni Yin et al., 2000 GMR 010; Concavispina biseridens Zhao et al.,2013 ZMNH M8804; Miodentosaurus brevis Cheng et al., 2007 NMNS-004727/F003960; Odontochelys semitestacea Li et al., 2008 IVPP V 15639; Eorhynchochelys sinensis Li et al.,2018 SMMP 000016
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Zhuganpo village, Guanling, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota.
@@ -291,7 +296,7 @@ Romano (2021):
 
 **Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China**
 > - **Age**: Longobardian, Late Ladinian.
-> - **Taxa**: *Fuyuanichthys wangi* Xu et al., 2018.
+> - **Taxa**: *Fuyuanichthys wangi* Xu et al., 2018 IVPP V22923; 
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China.
 > - **References**: 
 > - **Comments**: Xinyi Biota.
@@ -900,6 +905,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
