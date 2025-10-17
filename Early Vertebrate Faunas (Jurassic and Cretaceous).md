@@ -18,7 +18,7 @@
 #### Yaojie Formation, Yaojie, Gansu Proviance, China
 > - **Age**: Aalenian
 > - **Taxa**:*Acrodus bicrasseplicatus*
-> - **Locality and horizon**: Yaojie Formation, Honggou District, Yaojie, Gansu Proviance, China
+> - **Locality and horizon**: Yaojie Formation, Yaojie, Honggu District, Gansu Proviance, China
 > - **References**: (Xue, 1980)
 > - **Comments**: The age of Yaojie Formation was named by Sun Jianchu as the Yaojie System in 1936. The naming section is located in the Yaojie area of the Honggu District, Lanzhou City, Gansu Province, with the Honggou section in the Yaojie area serving as its reference section (Wang Si’en and others, 1985). Schematic strat column suggests early-Middle Jurassic (Aalenian-Bajocian) age, here temporarily place it in Aalenian.
 ### Bajocian
@@ -68,6 +68,7 @@
 > - **Comments**: 
 
 ### Maastrichtian
+
 
 
 
