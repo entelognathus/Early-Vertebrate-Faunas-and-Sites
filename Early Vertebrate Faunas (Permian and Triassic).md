@@ -191,10 +191,6 @@ From Germany, Werneburg et al. (2014) described small species of Saurichthys. Th
 The Velika Planina Horizon (Slovenia), whose precise age is not known but is thought to be pre-Pelsonian, has produced specimens of Eosemionotus, Placopleurus, and Saurichthys (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016). The Velika Planina Horizon is herein treated as Bithynian in age, although an Aegean age cannot currently be confidently excluded. Apart from Saurichthys, all other genera listed above have their first appearance datum in this interval.
 
 ### Pelsonian, late Middle Anisian
-> Romano (2021): Localities in Europe (Italy, Slovenia) and China produce Pelsonian bony fishes, many of which have been studied intensively during recent years. The Strelovec Formation of Slovenia has yielded fossils of Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016).
-> The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking.
-> In Italy, a new locality in the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf) has produced specimens of Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys (Tintori et al., 2016).
-
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**:
@@ -223,6 +219,20 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > - **Locality and horizon**: Upper Member, Guanling Formation, Luxi, Yunnan, China
 > - **References**: Wen et al. (2023)
 > - **Comments**: Luoping Biota.
+
+**Strelovec Formation, Slovenia**
+> - **Age**: Pelsonian, late Middle Anisian.
+> - **Taxa**: Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians. 
+> - **Locality and horizon**:
+> - **References**: (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016)
+> - **Comments**: Romano (2021): The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking.
+
+**Italy**
+> - **Age**: Pelsonian, late Middle Anisian.
+> - **Taxa**: Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys
+> - **Locality and horizon**: Italy
+> - **References**: (Tintori et al., 2016)
+> - **Comments**: the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf).
 
 ### Illyrian, Late Anisian
 Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
@@ -909,6 +919,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
