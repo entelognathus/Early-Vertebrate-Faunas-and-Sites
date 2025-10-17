@@ -85,7 +85,15 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Taxa**: *Chlamydoselachus garmani*
 > - **Locality and horizon**: Skooner Gulch Formation; UCMP Locality V-75135, Schooner Gulch, Mendocino County, California
 > - **References**: (Welton, 1979; Pfeil, 1983)
-> - **Comments**: 
+> - **Comments**:
+####  
+> - **Age**: Trent Formation/Trent Marl Formation, eastern North Carolina
+> - **Taxa**:*Abdounia furimskyi*, 
+> - **Locality and horizon**: Trent Formation, eastern North Carolina
+> - **References**: (Case, 1980)
+> - **Comments**: The Trent marl of North Carolina was originally regarded as Eocene (Miller 1912); however, a restudy of the formation including an analysis of its invertebrate 
+fauna by Kellum (1926) demonstrated that it was younger, probably of lower Miocene age, although there was a possibility that might be Oligocene. The additions tend to confirm the lower Miocene age of the formation (Richards, 1943). 
+
 ### Burdigalian
 ####  Baripada limestone beds, Baripada, Orissa
 > - **Age**: Burdigalian
@@ -101,6 +109,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
