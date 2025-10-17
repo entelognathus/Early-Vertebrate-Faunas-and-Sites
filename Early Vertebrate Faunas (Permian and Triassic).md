@@ -197,9 +197,9 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: Actinopterygii: colobodontids *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207, *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520, saurichthyiforms *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; holosteans *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971 and birgeriiforms *Birgeria* sp. (Jiang et al., 2016). *Sangiorgioichthys yangjuanensis* Wu et al., 2015 Lashanichthys yangjuanensis ‘=Sangiorgioichthys yangjuanensis’ Chen et al., 2014 GMPKU-P-3055; Saurichthys yangjuanensis Wu et al., 2015 GMPKU-P-1220; *Yelangichthys macrocephalus*; 
-> - Sarcopterygii:
-> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019) GMPKU-P-1059; *Wumengosaurus delicatomandibularis* Jiang et al., 2008b GMPKU-P-1210; *Nothosaurus yangjuanensis* Jiang et al., 2006a GMPKU-P-1080; *Lariosaurus hongguoensis* Jiang et al., 2006b GMPKU-P-1011; *Placodus inexpectatus* Jiang et al., 2008a GMPKU-P-1054; *Largocephalosaurus qianensis* Li et al., 2014 IVPP V 15638; *Sinosaurosphargis yunguiensis* Li et al., 2011 IVPP V16076; *Dinocephalosaurus orientalis* Li, 2003, IVPP V 13767; *Phalarodon atavus*; *Mixosaurus cornalianus*; Mixosaurus panxianensis Jiang et al, 2006  GMPKU-P-1033; Phalarodon cf. P. fraasi Merriam, 1910 Jiang et al, 2007 GMPKU-P-1032; Xinminosaurus catactes Jiang et al, 2008 GMPKU-P-1071; Qianosuchus mixtus Li et al, 2006 IVPP V 13899
+> - **Taxa**:
+>> - Actinopterygii: *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207; *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520; *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971; *Birgeria* sp. (Jiang et al., 2016); *Lashanichthys yangjuanensis* ‘=*Sangiorgioichthys yangjuanensis* Wu et al., 2015’ Chen et al., 2014 GMPKU-P-3055; *Saurichthys yangjuanensis* Wu et al., 2015 GMPKU-P-1220; *Yelangichthys macrocephalus*;
+>> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019) GMPKU-P-1059; *Wumengosaurus delicatomandibularis* Jiang et al., 2008b GMPKU-P-1210; *Nothosaurus yangjuanensis* Jiang et al., 2006a GMPKU-P-1080; *Lariosaurus hongguoensis* Jiang et al., 2006b GMPKU-P-1011; *Placodus inexpectatus* Jiang et al., 2008a GMPKU-P-1054; *Largocephalosaurus qianensis* Li et al., 2014 IVPP V 15638; *Sinosaurosphargis yunguiensis* Li et al., 2011 IVPP V16076; *Dinocephalosaurus orientalis* Li, 2003, IVPP V 13767; *Phalarodon atavus*; *Mixosaurus cornalianus*; *Mixosaurus panxianensis* Jiang et al, 2006  GMPKU-P-1033; *Phalarodon* cf. *P. fraasi* Merriam, 1910 Jiang et al, 2007 GMPKU-P-1032; *Xinminosaurus catactes* Jiang et al, 2008 GMPKU-P-1071; *Qianosuchus mixtus* Li et al, 2006 IVPP V13899
 > - **Locality and horizon**: Upper Member, Guanling Formation; Dapianpo Quarry, Yangjuan Village, Xinmin, Panzhou, Guizhou, China.
 > - **References**:
 > - **Comments**: Panxian Biota.
@@ -208,10 +208,11 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 **Upper Member, Guanling Formation, Luoping, Yunnan, China**
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Feroxichthys yunnanensis* (Xu, 2020a); *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; *Gimlichthys dawaziensis*; *Gymnoichthys inopinatus*; *Habroichthys broughi*; *Kyphosichthys grandei*; *Louwoichthys pusillus*; *Luopingichthys bergi*; *Luopingperleidus sui*; *Luoxiongichthys hyperdorsalis*; *Marcopoloichthys anii*; *Perleidus sinensis*; *Platysiagum sinensis*; *Pteronisculus changae*; *Robustichthys luopingensis*; *Saurichthys dawaziensis*; *Subortichthys triassicus*; *Placopleurus comptus*; Sangiorgioichthys sui; Saurichthys spinosa
-> - *Luopingcoelacanthus eurylacrimalis*; *Yunnancoelacanthus acrotuberculatus*
-> - *Luopingselache striata* (Wen et al., 2023);
-> - *Nothosaurus luopingensis* (Shan et al., 2022); *Dianopachysaurus dingi* Liu et al., 2011; *Diandongosaurus acutidentatus* Shang et al., 2011; *Dianmeisaurus gracilis* Shang and Li, 2015; *Nothosaurus zhangi* Liu et al., 2011; *Largocephalosaurus polycarpon* Cheng et al., 2012a; *Sinosaurosphargis yunguiensis* Li et al., 2011; *Luopingosaurus imparilis*
+> - **Taxa**:
+>> - *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Feroxichthys yunnanensis* (Xu, 2020a); *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; *Gimlichthys dawaziensis*; *Gymnoichthys inopinatus*; *Habroichthys broughi*; *Kyphosichthys grandei*; *Louwoichthys pusillus*; *Luopingichthys bergi*; *Luopingperleidus sui*; *Luoxiongichthys hyperdorsalis*; *Marcopoloichthys anii*; *Perleidus sinensis*; *Platysiagum sinensis*; *Pteronisculus changae*; *Robustichthys luopingensis*; *Saurichthys dawaziensis*; *Subortichthys triassicus*; *Placopleurus comptus*; *Sangiorgioichthys sui*; *Saurichthys spinosa*
+>> - *Luopingcoelacanthus eurylacrimalis*; *Yunnancoelacanthus acrotuberculatus*
+>> - *Luopingselache striata* (Wen et al., 2023);
+>> - *Nothosaurus luopingensis* (Shan et al., 2022); *Dianopachysaurus dingi* Liu et al., 2011; *Diandongosaurus acutidentatus* Shang et al., 2011; *Dianmeisaurus gracilis* Shang and Li, 2015; *Nothosaurus zhangi* Liu et al., 2011; *Largocephalosaurus polycarpon* Cheng et al., 2012a; *Sinosaurosphargis yunguiensis* Li et al., 2011; *Luopingosaurus imparilis*
 > - **Locality and horizon**: Upper Member, Guanling Formation, Luoping, Yunnan, China.
 > - **References**: Wen et al. (2023)
 > - **Comments**: Luoping Biota.
@@ -263,7 +264,7 @@ Romano (2021):
 **Zhuganpo Member, Falang Formation, Wusha, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
->> - Actinopterygii: *Luganoia fortuna* (Xu, 2020) IVPP V 25693. *Birgeria liui* (Ni et al., 2019), *Colobodus wushaensis* (Li et al., 2019) GZ12203845; Guizhouiscus microlepidus Liu et al., 2003; Thoracpterus wushaensis Tintori et al., 2011 GMPKU-P-3061; Wushaichthys exquisitus Xu et al., 2015 IVPP V19959; Guizhoueugnathus analilepida Liu et al., 2003 NIGP136040; Guizhouamia bellula Liu et al., 2002 NIGP134837; Xingyia gracilis Liu et al., 2003; Brachysomus minor Liu et al., 2003 NIGP13603; Malingichthys nimaiguensis Tintori et al., 2015 GMPKU-P-3163; Malingichthys wanfenglinenisi Tintori et al., 2015 GMPKU-P-3181;
+>> - Actinopterygii: *Luganoia fortuna* (Xu, 2020) IVPP V 25693. *Birgeria liui* (Ni et al., 2019), *Colobodus wushaensis* (Li et al., 2019) GZ12203845; *Guizhouiscus microlepidus* Liu et al., 2003; *Thoracpterus wushaensis* Tintori et al., 2011 GMPKU-P-3061; *Wushaichthys exquisitus* Xu et al., 2015 IVPP V19959; *Guizhoueugnathus analilepida* Liu et al., 2003 NIGP136040; *Guizhouamia bellula* Liu et al., 2002 NIGP134837; *Xingyia gracilis* Liu et al., 2003; *Brachysomus minor* Liu et al., 2003 NIGP13603; *Malingichthys nimaiguensis* Tintori et al., 2015 GMPKU-P-3163; *Malingichthys wanfenglinenisi* Tintori et al., 2015 GMPKU-P-3181;
 >> - Tetrapoda: *Lariosaurus xingyiensis* Li et al., 2002 IVPP V 11866; *Xinpusaurus xingyiensis* (Li et al., 2016), XNGM WS-53-R3; *Nothosaurus youngi* Li and Rieppel, 2004 IVPP V 13590; *Qianichthyosaurus xingyiensis* Ji, Jiang and Motani, 2013 WS2011-46-R1; *Wangosaurus brevirostris* Ma et al.,2015 GMPKU-P-1529; Thalattosauroidea incertae XNGM WS-22-R5; *Tanystropheus* cf. *T. longobardicus* Rieppel et al., 2010 GMPKU-P-1527; *Anshunsaurus huangnihensis*
 > - **Locality and horizon**: Zhuganpo Member, Falang Formation, Nimaigu village, Wusha, Xinyi, Guizhou, China
 > - **References**:
@@ -314,10 +315,10 @@ Romano (2021):
 **Wayao Member, Falang Formation, Guanling, Guizhou, China**
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**:
->> - Actinopterygii:  Birgeria guizhouensis Liu et al., 2006; Pholidopleurus xiaowaensis Liu et al., 2006 NIGP139726; Peltopleurus brachycephalus Liu et al., 2006 NIGP139729; Guizhoueugnathus largus Liu et al., 2006;
->> - Sarcopterygii: Guizhoucoelacanthus guanlingensis Liu et al., 2006 F001;
->> - Tetrapoda: Qianichthyosaurus zhoui Li, 1999 IVPP V 11839; Guanlingsaurus liangae Yin et al., 2000 GMR 014; Guizhouichthyosaurus tangae Cao and Luo in Yin et al., 2000 GMR 009; Sinocyamodus xinpuensis Li, 2000 IVPP V 11872; Cyamodus orientalis Wang et al., 2019 ZMNH M8820; Psephochelys polyosteoderma Li and Rieppel, 2002 IVPP V 12442; Anshunsaurus huangguoshuensis Liu, 1999 IVPP V 11835; Xinpusaurus suni Yin et al., 2000 GMR 010; Concavispina biseridens Zhao et al.,2013 ZMNH M8804; Miodentosaurus brevis Cheng et al., 2007 NMNS-004727/F003960; Odontochelys semitestacea Li et al., 2008 IVPP V 15639; Eorhynchochelys sinensis Li et al.,2018 SMMP 000016
-> - **Locality and horizon**:
+>> - Actinopterygii:  *Birgeria guizhouensis* Liu et al., 2006; *Pholidopleurus xiaowaensis* Liu et al., 2006 NIGP139726; *Peltopleurus brachycephalus* Liu et al., 2006 NIGP139729; *Guizhoueugnathus largus* Liu et al., 2006;
+>> - Sarcopterygii: *Guizhoucoelacanthus guanlingensis* Liu et al., 2006 F001;
+>> - Tetrapoda: *Qianichthyosaurus zhoui* Li, 1999 IVPP V 11839; *Guanlingsaurus liangae* Yin et al., 2000 GMR 014; *Guizhouichthyosaurus tangae* Cao and Luo in Yin et al., 2000 GMR 009; *Sinocyamodus xinpuensis* Li, 2000 IVPP V 11872; *Cyamodus orientalis* Wang et al., 2019 ZMNH M8820; *Psephochelys polyosteoderma* Li and Rieppel, 2002 IVPP V 12442; *Anshunsaurus huangguoshuensis* Liu, 1999 IVPP V 11835; *Xinpusaurus suni* Yin et al., 2000 GMR 010; *Concavispina biseridens* Zhao et al.,2013 ZMNH M8804; *Miodentosaurus brevis* Cheng et al., 2007 NMNS-004727/F003960; *Odontochelys semitestacea* Li et al., 2008 IVPP V 15639; *Eorhynchochelys sinensis* Li et al.,2018 SMMP 000016
+> - **Locality and horizon**: Wayao Member, Falang Formation, Guanling, Guizhou, China
 > - **References**:
 > - **Comments**: Guanling Biota.
 
@@ -908,6 +909,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
