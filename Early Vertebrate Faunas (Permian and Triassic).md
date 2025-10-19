@@ -67,9 +67,9 @@
 > - **Comments**: 
 
 **Pedra de Fogo Formation, Parnaíba Basin, Brazil**
-> - **Age**:
+> - **Age**: Early Permian (Artinskian–Kungurian)
 > - **Taxa**:
-> - **Locality and horizon**:
+> - **Locality and horizon**: Vertebrate fossils are distributed widely across Maranhão, Piauí, and Tocantins states. The principal fossil sites include Pastos Bons and Nova Iorque (Maranhão) yielding Prionosuchus and chondrichthyan remains from silty shale and chert layers; the Timon–Nazária region (Maranhão–Piauí) preserving Timonya, Procuhy, and captorhinids from lacustrine siltstones of the lower Pedra de Fogo Formation; and Guaraí (Tocantins), which has yielded fin spines and scales of sharks and palaeonisciform fishes (Price, 1948; Cisneros et al., 2015; Alves, 2010b). Most vertebrate-bearing levels correspond to the lower to middle parts of the formation (Basal Silex and lower Middle members).
 > - **References**:
 > - **Comments**: 
 
@@ -447,12 +447,18 @@ Aldinger, H. (1931). U¨ ber Reste von Birgeria (Pisces, Palaeoniscidae) aus der
 
 Aldinger, H. (1937). Permische Ganoidfische aus Ostgro¨nland. Meddelelser om Grønland, 102(3), 1–392.
 
+Alves, Y.M. (2010a). Los vertebrados fósiles del Paleozoico y Mesozoico del Estado de Tocantins (Brasil): síntesis preliminar. Caminhos de Geografia 11(36): 224–236. (In Spanish)
+
+Alves, Y.M. (2010b). Report on the Upper Permian and Lower Cretaceous fossiliferous localities (vertebrate-bearing) in the central-north of Tocantins State, Brazil. Brazilian Geographical Journal: Geosciences and Humanities research medium 1(2): 372–386.
+
 Arratia, G. (2013). Morphology, taxonomy, and phylogeny of Triassic pholidophorid fishes (Actinopterygii, Teleostei). J. Vertebr. Paleontol. 33, 1–138. doi:10.1080/02724634.2013.835642
 
 Arratia and G. Viohl (München: Dr. Friedrich Pfeil), 114, 555–565.
 Bürgin, T., Eichenberger, U., Furrer, H., and Tschanz, K. (1991). Die Prosanto
 Formation – eine fischreiche Fossil-Lagerstätte in der Mitteltrias der SilvrettaDecke (Kanton Graubünden, Schweiz). Eclogae Geologicae Helvetiae. 84,
 921–990
+
+Barberena, M.C. (1972). South American Late Paleozoic tetrapods. Anais da Academia Brasileira de Ciências 44 (Suppl. 1): 67–75.
 
 Bartsch, P. (1988). Funktionelle Morphologie und Evolution des Axialskelettes und der caudalis Ursprunglicher Knochenfishe. Palaeontographica A, 204, 117–226.
 
@@ -562,9 +568,17 @@ Chen, Z.-Q., and Benton, M. J. (2012). The timing and pattern of biotic recovery
 following the end-Permian mass extinction. Nat. Geosci. 5, 375–383. https://doi.
 org/10.1038/ngeo1475
 
+Cisneros, J.C., Marsicano, C., Angielczyk, K.D., Smith, R.M.H., Richter, M., Fröbisch, J. & others (2015). New Permian fauna from tropical Gondwana. Nature Communications 6: 8676. DOI: 10.1038/ncomms9676
+
+Cisneros, J.C., Angielczyk, K.D., Kammerer, C.F., Smith, R.M.H., Fröbisch, J., Marsicano, C.A. & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. PeerJ 8: e8719. DOI: 10.7717/peerj.8719
+
+Cisneros, J.C., Sena, M.V.A., Kammerer, C.F., Angielczyk, K.D., Melo, R.V., Marsicano, C.A. & Ruta, M. (2021). A new reptile from the lower Permian of Brazil (Karutia fortunata gen. et sp. nov.) and the interrelationships of Parareptilia. Journal of Systematic Palaeontology 18(23): 1939–1959. DOI: 10.1080/14772019.2020.1863487
+
 Coates, M. I., and Clack, J. A. (1995). Romer’s Gap: tetrapod origins and
 terrestriality. Bulletin du Muséum national d’Histoire naturelle, 4ème série,
 section C, Sciences de la Terre, Paléontologie, Géologie, Minéralogie 17, 373–388
+
+Cox, C.B. & Hutchinson, P. (1991). Fishes and amphibians from the Late Permian Pedra de Fogo Formation of northern Brazil. Palaeontology 34(3): 561–573.
 
 Cui, Y., Brauner, S., Schneider, J. W., & Béthoux, O. (2022). Grylloblattidan insects from Sperbersbach and Cabarz (Germany), two new early Permian and insect-rich localities. Journal of Paleontology, 96(2), 355–374. https://doi.org/10.1017/jpa.2021.101
 
@@ -586,6 +600,8 @@ Chapman & Hall
 Eberth, D. A., Berman, D. S., Sumida, S. S., & Hopf, H. (2000). Lower Permian terrestrial paleoenvironments and vertebrate paleoecology of the Tambach Basin (Thuringia, central Germany): The upland holy grail. PALAIOS, 15(4), 293–313.
 
 Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: a preliminary review of palaeoniscoid fishes and taphonomy. Records of the Western Australian Museum, Supplement 57, 175–181.
+
+Figueroa, R.T. & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. Journal of South American Earth Sciences 76: 389–396. DOI: 10.1016/j.jsames.2017.03.015
 
 Friedman, M. (2015). The early evolution of ray-finned fishes. Palaeontology. 58,
 213–228. doi:10.1111/pala.12150
@@ -668,6 +684,8 @@ doi:10.1016/j.palaeo.2016.11.010
 Königer, S., Lorenz, V., Stollhofen, H., & Armstrong, R. (2002). Origin, age and stratigraphic significance of distal fallout ash tuffs from the Carboniferous–Permian continental Saar-Nahe Basin (SW Germany). International Journal of Earth Sciences, 91(2), 341–356. https://doi.org/10.1007/s005310100221
 
 Kriwet, J., Witzmann, F., Klug, S., & Heidtke, U. H. J. (2008). First direct evidence of a vertebrate three-level trophic chain in the fossil record. Proceedings of the Royal Society B: Biological Sciences, 275(1631), 181–186. https://doi.org/10.1098/rspb.2007.1170
+
+Iannuzzi, R., Neregato, R., Cisneros, J.C., et al. (2018). Re-evaluation of the Permian macrofossils from the Parnaíba Basin: biostratigraphic, palaeoenvironmental and palaeogeographical implications. In: P. Dentzien-Dias et al. (eds.), Late Paleozoic biotas of Latin America, Geological Society, London, Special Publications 472: 223–249. DOI: 10.1144/SP472.14
 
 Ledendecker, S. (1992). Stratigraphie der Karoosedimente der Huabregion (NW-Namibia) und deren Korrelation mit zeitäquivalenten Sedimenten des Paranábeckens (Südamerika) und des Grossen Karoobeckens (Südafrika) unter besonderer Berücksichtigung der überregionalen geodynamischen und klimatischen Entwicklung Westgondwanas. Göttinger Arbeiten zur Geologie und Paläontologie, 54, 87 pp.
 
@@ -836,6 +854,8 @@ Pellenard, P., Gand, G., Schmitz, M., Galtier, J., Broutin, J., & Steyer, J.-S. 
 
 Perch-Nielsen, K., Birkenmajer, K., Birkelund, T., and Aellen, M. (1974). Revision
 of Triassic stratigraphy of the Scoresby Land and Jameson Land region, east Greenland. Meddelelser om Grønland. 193, 1–51
+
+Price, L.I. (1948). Um anfíbio Labirintodonte da Formação Pedra de Fogo, Estado do Maranhão. Boletim da Divisão de Geologia e Mineralogia (DNPM) 124: 7–33. (In Portuguese)
 
 Plesker, M. (1995). Neue Funde einiger Knochenfische (Osteichthyes) aus dem
 Oberen Muschelkalk (MO2) des Weserberglandes. Lippische Mitteilungen aus
@@ -1117,6 +1137,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
