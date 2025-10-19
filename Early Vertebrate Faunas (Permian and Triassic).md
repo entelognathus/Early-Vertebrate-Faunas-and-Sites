@@ -554,6 +554,10 @@ Cavin, L., and Gradinaru, E. (2014). ˘ Dobrogeria aegyssensis, a new early Spat
 (Early Triassic) coelacanth from north Dobrogea (Romania). Acta Geol. Pol. 64,
 161–187. doi:10.2478/agp-2014-0010
 
+Chahud, A., Fairchild, T. R., & Petri, S. (2010). Chondrichthyans from the base of the Irati Formation (Early Permian, Paraná Basin), São Paulo, Brazil. Gondwana Research, 18(2–3), 528–537. https://doi.org/10.1016/j.gr.2010.01.006
+
+Chahud, A. (2023). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. Estudios Geológicos, 79(2), e155. https://doi.org/10.3989/egeol.44987.632
+
 Chen, Z.-Q., and Benton, M. J. (2012). The timing and pattern of biotic recovery
 following the end-Permian mass extinction. Nat. Geosci. 5, 375–383. https://doi.
 org/10.1038/ngeo1475
@@ -891,6 +895,8 @@ Sanchez, S., De Ricqlès, A., Schoch, R., & Steyer, J.-S. (2010). A new tool for
 Sander, P. M., Rieppel, O. C., and Bucher, H. (1994). New marine vertebrate fauna
 from the Middle Triassic of Nevada. J. Paleontol. 68, 676–680
 
+Santos, R. V., Souza, P. A., de Alvarenga, C. J. S., Dantas, E. L., Pimentel, M. M., de Oliveira, C. G., & de Araújo, L. M. (2006). Shrimp U–Pb zircon dating and palynology of bentonitic layers from the Permian Irati Formation, Paraná Basin, Brazil. Gondwana Research, 9(4), 456–463. https://doi.org/10.1016/j.gr.2005.12.001
+
 Schaeffer, B., and Mangus, M. (1976). An Early Triassic fish assemblage from
 British Columbia. Bull. Am. Mus. Nat. Hist. 156, 127–216
 
@@ -1111,6 +1117,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
