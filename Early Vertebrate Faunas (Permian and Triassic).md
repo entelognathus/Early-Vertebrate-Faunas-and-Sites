@@ -193,10 +193,10 @@ Spiti: Saurichthys, a parasemionotid, an actinistian and additional, indetermina
 
 Candelaria Hills: a parasemionotid (Candelarialepis), a ?turseoid (Pteronisculus), a ptycholepid (Ardoreosomus), and severalindeterminable actinopterygians
 
-### Smithian, Olenekian, Early Triassic
+### Smithian, early Olenekian, Early Triassic
 
-**Smithian, Olenekian, Spitzbergen (Svalbard)**
-> - **Age**: Smithian, Olenekian, Early Triassic
+**Smithian, early Olenekian, Spitzbergen (Svalbard)**
+> - **Age**: Smithian, early Olenekian, Early Triassic
 > - **Taxa**: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus), and several actinistian genera (Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania).
 > - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard)
 > - **References**:
@@ -210,13 +210,21 @@ The *Grippia Niveau* was placed between the underlying Fish Niveau and the overl
 
 Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
 
-**Smithian, Olenekian, Alberta, British Columbia, Canada**
-> - **Age**: Smithian, Olenekian, Early Triassic
+**Smithian, early Olenekian, Alberta, British Columbia, Canada**
+> - **Age**: Smithian, early Olenekian, Early Triassic
 > - **Taxa**: Albertonia, Australosomus,Birgeria, Bobasatrania, Boreosomus, Helmolepis, Saurichthys, actinistians (Belemnocerca, Rebellatrix, Whiteia
 > - **Locality and horizon**:
 > - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015.
 > - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
 
+**Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada**
+> - **Age**: Smithian, early Olenekian, Early Triassic
+> - **Taxa**: Cf. *Palaeobates*, 
+> - **Locality and horizon**: Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
+> - **References**: Schaeffer and Mangus 1976; 
+> - **Comments**:
+
+**Spathian, late Olenekian, Early Triassic**
 **Idaho and northeast Nevada (Romano et al., 2012; Romano et al., 2017)**
 
 **Lower Qinglong Formation and the Helongshan Formation in eastern China (Tong et al., 2006; Li 2009)**
@@ -1137,6 +1145,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
