@@ -586,7 +586,7 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 > Hamilton Quarry, Kansas, USA. Orthacanthus platypternus
-> **Oscar Formation, southern Oklahoma, USA**
+> - **Oscar Formation, southern Oklahoma, USA**
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: chondrichthyans (*Anodontacanthus belemnoideus*, , **, **,)
 > - **Locality and horizon**: Oscar Formation; Waurika #1 site, Jefferson County, southern Oklahoma, USA
@@ -1283,6 +1283,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
