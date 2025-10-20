@@ -558,7 +558,14 @@ Collections.
 > - Essex biota (marine): *Tullimonstrum gregarium*
 > - Braidwood biota (freshwater): *Illiniichthys cozarti*
 
-
+**Edlington Spoil Tip Site, Yorkshire, Doncaster, UK**
+> - **Age**: lower Westphalian in NW Europe. The age of fauna is considered to be early Westphalina (late Langsettian or early Duckmantian) and flora probably from the _Lonchopteris rugosa_ Zone.
+> - **Taxa**:
+>> - **plants**: Alethopteris decurrens (Artis) Zeiller, Alethopteris urophylla (Brongniart) Presl, Neuropteris obliqua (Brongniart) Zeiller, Laveineopteris loshii (Brongniart) Cleal et al., Cyclopteris sp., Paripteris pseudogigantea (Potonié) Gothan, ?Linopteris sp., Mariopteris muricata (Brongniart) Zeiller, Eusphenopteris sauveurii (Crépin) Simson-Scharold, Palmatopteris sp., Pecopteris plumosa (Artis) Brongniart, Sphenophyllum majus (Bronn) Bronn, Annularia radiata Brongniart, Annularia gallioides (Lindley and Hutton) Kidston, Asterophyllites equisetiformis Brongniart, Asterophyllites charaeformis (Sternberg) Unger, Calamites sp., Cordaites sp., Pinnularia sp., Lepidodendron cf. ophiurus Brongniart, Ulodendron landsburgii (Kidston) Thomas, Sigillaria sp., Lepidostrobus sp., Lepidostrobophyllum sp., Cyperites bicarinatus Lindley and Hutton, Asolanus camptotaenia Wood, as well as seeds (including Cordaicarpus) and cf. Whittleseya (pollen organ), and other fragments including cf. Potoniea and numerous indeterminate cone, lycopsid and general leafy twig/shoot fragments. **bivalves**: _Carbonicola_, _Anthraconaia_, _?Acharax radiata_ (Meek and Worthen), _Myalinella_ sp. **arthropods** (primarily xiphosurans): _Euproops rotundatus_ (Prestwich). **tentaculitids (microconchids)**: _Neuropteris obliqua_, _Spirorbis_ (Taylor and Vinn, 2006)
+>> -  fish scales: _Ctenodus_ sp., shark egg capsules: _Palaeoxyris_ sp, coprolites.
+> - **Locality and horizon**: Edlington Tip, Doncaster, South Yorkshire, UK
+> - **References**: Lomax, _et al_., 2016
+> - **Comments**: The fossil remains are found in siderite nodules and shales. Unfortunately, as the remains derive from a spoil tip, they are unstratified and out of context.
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
@@ -1260,6 +1267,8 @@ form of chondrichthyan neurocranium. Acta Zool 90:134-151.
 295. Mickle KE, Lund R, Grogan ED (2009) Three new palaeoniscoid fishes from the 
 Bear Gulch Limestone (Serpukhovian, Mississippian) of Montana (USA) and the 
 relationships of lower actinopterygians. Geodiversitas 31:623-668.
+
+296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 
 
 
