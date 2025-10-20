@@ -41,6 +41,13 @@
 ### Barremian, Early Cretaceous
 
 ### Aptian, Early Cretaceous
+**Gargasien, Aptian, Gargas, Vaucluse, France**
+> - **Age**: middle Aptian?
+> - **Taxa**: *Anomotodon principalis*, *Rhinobatos picteti*(*Belemnobatis picteti*), *hybodus sp.*, *Synechodus nitidus*, *Synechodus sp.*, *Heterodontus cf. canaliculatus*, *Notorhynchus aptiensis*, *Mesiteia sp.*, *Anomotodon principialis*, *Odontaspis striatula*, *Odontaspis macrorhiza*, *Squatina decipiens*, *Squatina cranei*, *Edaphodon sp.*, 
+> - **Locality and horizon**: Gargasien, Aptian, Gargas, Vaucluse, France
+> - **References**:(Cappetta, 1975)
+> - **Comments**: 
+
 
 ### Albian, Early Cretaceous
 
@@ -68,6 +75,7 @@
 > - **Comments**: 
 
 ### Maastrichtian
+
 
 
 
