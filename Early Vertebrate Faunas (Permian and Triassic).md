@@ -81,16 +81,16 @@
 > - **Comments**:
 
 **Blackwater Group, Bowen Basin, Queensland, Australia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Late Permian (Lopingian)
+> - **Taxa**: Branchiopoda (Leaioidea): Hemicycloleaia deflectomarginis, Glossopteridales (Glossopteris): Glossopteris gladiforma
+> - **Locality and horizon**: Central-eastern Bowen Basin (Clermont region, Queensland) in the coal-bearing Blackwater Group (including Moranbah and Rangal Coal Measures)
+> - **References**: McLoughlin, 1994; Michaelsen and Henderson, 2000; Jones and Chen, 2000
 > - **Comments**:
 
 **Shanxi Formation, Shanxi Province, China**
-> - **Age**:
+> - **Age**: Early Permian (Asselian)
 > - **Taxa**:
-> - **Locality and horizon**:
+> - **Locality and horizon**: North China Block in continental coal-bearing sandstones and shales (Beichagou and Xiashicun members)
 > - **References**:
 > - **Comments**:
 
@@ -666,6 +666,8 @@ Ji, C., Zhang, C., Jiang, D.-Y., Bucher, H., Motani, R., and Tintori, A. (2015).
 
 Jiang, L., Ni, P. G., Sun, Z. Y., & Jiang, D. Y. (2016). Discovery and its significance of Birgeria sp. from the Middle Triassic Panxian Fauna, Guizhou Province, China. Acta Scientiarum Naturalium Universitatis Pekinensis, 52(3), 437–443.
 
+Jones, P. J., & Chen, P.-J. (2000). Carboniferous and Permian Leaioidea (Branchiopoda: Conchostraca) from Australia: Taxonomic revision and biostratigraphic implications. Records of the Australian Museum, 52, 223–244.
+
 Jörg, E. (1969). Eine Fischfauna aus dem Oberen Buntsandstein (Unter-Trias) von
 Karlsruhe-Durlach (Nordbaden). Beiträge zur Naturkundlichen Forschung in
 Südwestdeutschland. 28, 87–102
@@ -770,6 +772,10 @@ Maxwell, E. E., Romano, C., Wu, F., and Furrer, H. (2015). Two new species of
 Saurichthys (Actinopterygii: Saurichthyidae) from the Middle Triassic of Monte
 san Giorgio, Switzerland, with implications for character evolution in the genus.
 Zool. J. Linn. Soc. 173, 887–912. doi:10.1111/zoj.12224
+
+McLoughlin, S. (1994). Late Permian plant megafossils from the Bowen Basin, Queensland, Australia: Part 2. Palaeontographica Abteilung B, 231, 1–29.
+
+Michaelsen, P., & Henderson, R. A. (2000). Sandstone petrofacies expressions of multiphase basinal tectonics and arc magmatism: Permian–Triassic north Bowen Basin, Australia. Sedimentary Geology, 136(1–4), 113–136.
 
 Miklavc, P., Celarc, B., and Smuc, A. (2016). Anisian Strelovec Formation in the ˇ
 Robanov kot, Savinja Alps (northern Slovenia). Geologija. 59, 23–34. doi:10.
@@ -1145,6 +1151,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
