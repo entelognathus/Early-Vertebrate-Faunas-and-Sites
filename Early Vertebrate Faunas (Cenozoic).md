@@ -30,10 +30,11 @@
 
 ## Eocene
 ### Ypresian
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+#### London Clay, Burnham-on-Crouch, Essex, England
+> - **Age**: early Ypresian (Sparnacian)
+> - **Taxa**: *Alopias crochardi*
+> - **Locality and horizon**: London Clay; Cliff Reach, Burnham-on-Crouch, Essex
+> - **References**: (Ward, 1978)
 > - **Comments**: 
 ### Lutetian
 #### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
@@ -109,6 +110,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
