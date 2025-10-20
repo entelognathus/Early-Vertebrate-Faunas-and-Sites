@@ -567,6 +567,14 @@ Collections.
 > - **References**: Lomax, _et al_., 2016
 > - **Comments**: The fossil remains are found in siderite nodules and shales. Unfortunately, as the remains derive from a spoil tip, they are unstratified and out of context.
 
+**Westphalian A (Langsettian) Lagerstatten, Lancashire, UK**
+> - **Age**: Westphalian A (Langsettian), late Carboniferous
+> - **Taxa**: plants, nonmarine bivalves, crustaceans, insects, arthropleurid fragments, a euthycarcinoid,
+xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprolites
+> - **Locality and horizon**: Bickershaw, Lancashire, UK
+> - **References**: Anderson _et al_., 1997
+> - **Comments**: In common with many Upper Carboniferous Lagerstatten, the fossils are preserved within siderite nodules hosted by coal seam roof shales.
+
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
 **Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA**
@@ -1269,6 +1277,8 @@ Bear Gulch Limestone (Serpukhovian, Mississippian) of Montana (USA) and the
 relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
+297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
