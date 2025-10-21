@@ -89,10 +89,10 @@
 
 **Shanxi Formation, Shanxi Province, China**
 > - **Age**: Early Permian (Asselian)
-> - **Taxa**:
-> - **Locality and horizon**: North China Block in continental coal-bearing sandstones and shales (Beichagou and Xiashicun members)
+> - **Taxa**: Chondrichthyes: Ornithoprion sp., Palaeomolis sp. (Liu, 2013; Liu et al., 2024). Temnospondyli: Caerorhachis bairdi, Eryops sp., Platyhystrix sp. (Liu, 2013; Liu et al., 2024), Shanxitemnos qiangshuiensis (Chen et al., 2020). Reptiliomorpha: Shansiodon yangquanensis (Wang et al., 2023), Palaeogyrinus sp. (Liu et al., 2024).
+> - **Locality and horizon**: Qianshui quarry, Qinyuan County, and localities in Yangquan, Shanxi Province, China. Lower member (or lower part) of the Shanxi Formation (Liu, 2013; Chen et al., 2020; Wang et al., 2023).
 > - **References**:
-> - **Comments**:
+> - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
 
 **Inta Formation, Pechora Coal Basin, Russia**
 > - **Age**:
@@ -576,6 +576,8 @@ Chen, Z.-Q., and Benton, M. J. (2012). The timing and pattern of biotic recovery
 following the end-Permian mass extinction. Nat. Geosci. 5, 375–383. https://doi.
 org/10.1038/ngeo1475
 
+Chen, J. D., Liu, J., & Xu, G. H. (2020). A new changxingi-like temnospondyl from the lower Permian Shanxi Formation of Shanxi, China. Historical Biology, 32(10), 1358-1365. https://doi.org/10.1080/08912963.2019.1585805
+
 Cisneros, J.C., Marsicano, C., Angielczyk, K.D., Smith, R.M.H., Richter, M., Fröbisch, J. & others (2015). New Permian fauna from tropical Gondwana. Nature Communications 6: 8676. DOI: 10.1038/ncomms9676
 
 Cisneros, J.C., Angielczyk, K.D., Kammerer, C.F., Smith, R.M.H., Fröbisch, J., Marsicano, C.A. & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. PeerJ 8: e8719. DOI: 10.7717/peerj.8719
@@ -716,9 +718,13 @@ Li, Q. (2009). A new parasemionotid-like fish from the Lower Triassic of jurong,
 Jiangsu province, South China. Palaeontology. 52, 369–384. doi:10.1111/j.1475-
 4983.2009.00848.x
 
+Liu, J. (2013). Vertebrate biostratigraphy and paleoecology of the Shanxi Formation (lower Permian) in southeastern Shanxi, China. Vertebrata PalAsiatica, 51(1), 51-64.
+
 Liu, S., Sun, Z., Ji, C., Zhou, M., and Jiang, D. (2020). Conodont biostratigraphy and age
 of the Early Triassic fish-bearing-nodule levels from Nanjing and Jurong, Jiangsu
 province, South China. J. Earth Sci. 31, 9–22. doi:10.1007/s12583-019-1232-y
+
+Liu, J., Li, J. L., Wang, Y., Xu, G. H., & Xing, L. D. (2024). A new 'deep-bodied' stem-tetrapod from the lower Permian Shanxi Formation of China and its implications for the early evolution of temnospondyls. Zoological Journal of the Linnean Society, 200(3), 731-744. https://doi.org/10.1093/zoolinnean/zlad118
 
 Lombardo, C., Rusconi, M., and Tintori, A. (2008). New perleidiform from the
 Ladinian (Middle Triassic) of the northern Grigna (northern Italy). Riv. Ital.
@@ -1032,6 +1038,8 @@ gnathostomes),” in The great ordovician biodiversification event. Editors
 B. D. Webby, F. Paris, M. L. Droser, and I. G. Percival (New York, NY:
 Columbia University Press), 327–335
 
+Wang, Y. Y., Liu, J., & Wang, X. L. (2023). A new genus of embolomere (Tetrapoda: Reptiliomorpha) from the lower Permian Shanxi Formation of Yangquan, Shanxi, China. Historical Biology, 35(9), 1629-1636. https://doi.org/10.1080/08912963.2022.2104186
+
 Ware, D., Bucher, H., Brayard, A., Schneebeli-Hermann, E., and Brühwiler, T. (2015).
 High-resolution biochronology and diversity dynamics of the Early Triassic ammonoid
 recovery: the Dienerian faunas of the Northern Indian Margin. Palaeogeogr.
@@ -1151,6 +1159,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
