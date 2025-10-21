@@ -108,6 +108,112 @@
 > - **References**: McLoughlin, 1994; Michaelsen and Henderson, 2000; Jones and Chen, 2000
 > - **Comments**:
 
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+**A Formation/Member, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+
+
+
+
 
 
 ### Asselian, Cisuralian, Permian
@@ -1201,6 +1307,7 @@ Timofeev, P.P., Bogolyubova, L.I., and Koporulin, V.I., 2002. Sedimentogenez i l
 Tverdokhlebov, V.P., Tverdokhlebova, G.I., Minikh, A.V., Surkov, M.V., and Benton, M.J., 2005. Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. Earth-Science Reviews, 69(1-2): 27-77. https://doi.org/10.1016/j.earscirev.2004.07.003
 Vodolazskaya, M.A., Khramov, A.N., and Molostovsky, E.A., 2013. [Paleomagnetism and stratigraphy of Permian deposits of Pechora Coal Basin]. Cited in Aristov et al., 2021.
 Werneburg, R., Štamberg, S., and Steyer, J.-S., 2020. A new stereospondylomorph, Korkonerpeton kalnense gen. et sp. nov., from the Lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2): 217-242. https://doi.org/10.37520/fi.2020.019
+
 
 
 
