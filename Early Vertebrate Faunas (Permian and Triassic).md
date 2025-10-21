@@ -80,13 +80,6 @@
 > - **References**:
 > - **Comments**:
 
-**Blackwater Group, Bowen Basin, Queensland, Australia**
-> - **Age**: Late Permian (Lopingian)
-> - **Taxa**: Branchiopoda (Leaioidea): Hemicycloleaia deflectomarginis, Glossopteridales (Glossopteris): Glossopteris gladiforma
-> - **Locality and horizon**: Central-eastern Bowen Basin (Clermont region, Queensland) in the coal-bearing Blackwater Group (including Moranbah and Rangal Coal Measures)
-> - **References**: McLoughlin, 1994; Michaelsen and Henderson, 2000; Jones and Chen, 2000
-> - **Comments**:
-
 **Shanxi Formation, Shanxi Province, China**
 > - **Age**: Early Permian (Asselian)
 > - **Taxa**: Chondrichthyes: Ornithoprion sp., Palaeomolis sp. (Liu, 2013; Liu et al., 2024). Temnospondyli: Caerorhachis bairdi, Eryops sp., Platyhystrix sp. (Liu, 2013; Liu et al., 2024), Shanxitemnos qiangshuiensis (Chen et al., 2020). Reptiliomorpha: Shansiodon yangquanensis (Wang et al., 2023), Palaeogyrinus sp. (Liu et al., 2024).
@@ -95,9 +88,9 @@
 > - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
 
 **Inta Formation, Pechora Coal Basin, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: Early-Middle Permian（Upper Kungurian to Lower Roadian）
+> - **Taxa**: Amphibia, Temnospondyli, Eryopidae: Clamorosaurus nocturnus, Clamorosaurus borealis, Syndyodosuchus tetricus (Gubin, 1983; Werneburg and Witzmann, 2024). Amphibia, Temnospondyli, Intasuchidae: Intasuchus silvicola (Konzhukova, 1956; Werneburg et al., 2020). Osteichthyes, Actinopterygii: Kutaichthys gubini, Kutaichthys dozmerensis (Esin and Bakaev, 2022).
+> - **Locality and horizon**: Left bank of Kozhim River, 4 km downstream from the bridge near Kozhim-Rudnik station, Bed 103, Intinskian Formation, Pechora Cis-Urals, Komi Republic, Russia (Naugolnykh, 2002). Coal mine 9, Inta, Komi Republic, Russia Gubin, 1983). Pechora (Dozmer locality), Troitsko-Pechorsk District, Komi Republic, Russia (Esin and Bakaev, 2022). The Inta Formation is part of the Vorkuta Group and consists of 450-600 m thick succession containing approximately 30 coal seams  (Syromyatnikov, 2000).
 > - **References**:
 > - **Comments**:
 
@@ -108,7 +101,12 @@
 > - **References**:
 > - **Comments**:
 
-
+**Blackwater Group, Bowen Basin, Queensland, Australia**
+> - **Age**: Late Permian (Lopingian)
+> - **Taxa**: Branchiopoda (Leaioidea): Hemicycloleaia deflectomarginis, Glossopteridales (Glossopteris): Glossopteris gladiforma
+> - **Locality and horizon**: Central-eastern Bowen Basin (Clermont region, Queensland) in the coal-bearing Blackwater Group (including Moranbah and Rangal Coal Measures)
+> - **References**: McLoughlin, 1994; Michaelsen and Henderson, 2000; Jones and Chen, 2000
+> - **Comments**:
 
 
 
@@ -609,6 +607,8 @@ Chapman & Hall
 
 Eberth, D. A., Berman, D. S., Sumida, S. S., & Hopf, H. (2000). Lower Permian terrestrial paleoenvironments and vertebrate paleoecology of the Tambach Basin (Thuringia, central Germany): The upland holy grail. PALAIOS, 15(4), 293–313.
 
+Esin, D.N. and Bakaev, A.S., 2022. New Ray-Finned Fishes (Actinopterygii, Osteichthyes) from the Permian of European Russia. Paleontological Journal, 56(11), 1437-1453.
+
 Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: a preliminary review of palaeoniscoid fishes and taphonomy. Records of the Western Australian Museum, Supplement 57, 175–181.
 
 Figueroa, R.T. & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. Journal of South American Earth Sciences 76: 389–396. DOI: 10.1016/j.jsames.2017.03.015
@@ -631,10 +631,14 @@ Comptes Rendus Palevol. 4, 637–652. doi:10.1016/j.crpv.2005.04.007
 Geng, B.-H., Jin, F., Wu, F.-X., and Wang, Q. (2012). New perleidid fishes from the
 Middle Triassic strata of yunnan province. Geol. Bull. China. 31, 915–927.
 
+Golubev, V.K., 2015. The faunal assemblages of Permian terrestrial vertebrates from Eastern Europe. Paleontological Journal, 49(7), 700-774.
+
 Goudemand, N., Romano, C., Leu, M., Bucher, H., Trotter, J. A., and Williams, I. S.
 (2019). Dynamic interplay between climate and marine biodiversity upheavals
 during the Early Triassic Smithian-Spathian biotic crisis. Earth Sci. Rev. 195,
 169–178. doi:10.1016/j.earscirev.2019.01.013
+
+Gubin, Y.M., 1983. The first eryopids from the Permian of the East-European Platform. Paleontological Journal, 17(4), 110-115.
 
 Hampe, O. (1994). Neue Erkenntnisse zur permokarbonischen Xenacanthiden-Fauna (Chondrichthyes: Elasmobranchii) und deren Verbreitung im südwestdeutschen Saar-Nahe-Becken. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 192(1), 53–87.
 
@@ -693,6 +697,8 @@ from Gogolin (S Poland): the impact of microbial mats on trapping of
 vertebrate remains. Palaeogeogr. Palaeoclimatol. Palaeoecol. 466, 38–58.
 doi:10.1016/j.palaeo.2016.11.010
 
+Konzhukova, E.D., 1956. The Intan Lower Permian fauna of the northern Ural region. Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR, 62, 5-50. [in Russian]
+
 Königer, S., Lorenz, V., Stollhofen, H., & Armstrong, R. (2002). Origin, age and stratigraphic significance of distal fallout ash tuffs from the Carboniferous–Permian continental Saar-Nahe Basin (SW Germany). International Journal of Earth Sciences, 91(2), 341–356. https://doi.org/10.1007/s005310100221
 
 Kriwet, J., Witzmann, F., Klug, S., & Heidtke, U. H. J. (2008). First direct evidence of a vertebrate three-level trophic chain in the fossil record. Proceedings of the Royal Society B: Biological Sciences, 275(1631), 181–186. https://doi.org/10.1098/rspb.2007.1170
@@ -729,6 +735,8 @@ Liu, J., Li, J. L., Wang, Y., Xu, G. H., & Xing, L. D. (2024). A new 'deep-bodie
 Lombardo, C., Rusconi, M., and Tintori, A. (2008). New perleidiform from the
 Ladinian (Middle Triassic) of the northern Grigna (northern Italy). Riv. Ital.
 Paleontol. Stratigr. 114, 263–272. doi:10.13130/2039-4942/5901
+
+Lozovsky, V.R., Minikh, M.G., Grunt, T.A., Kukhtinov, D.A., Ponomarenko, A.G., and Sukacheva, I.D., 2009. The Ufimian Stage of the East European scale: Status, validity, and correlation potential. Stratigraphy and Geological Correlation, 17(6), 602-614.
 
 López-Arbarello, A., Bürgin, T., Furrer, H., and Stockar, R. (2016). New
 holostean fishes (Actinopterygii: Neopterygii) from the Middle Triassic of
@@ -803,6 +811,8 @@ interrelationships (Actinopterygii: Perleidiformes). PhD thesis. Zürich
 Mutter, R. J., and Herzog, A. (2004). A new genus of Triassic actinopterygian with an
 evaluation of deepened flank scales in fusiform fossil fishes. J. Vertebr. Paleontol.
 24, 794–801. doi:10.1671/0272-4634(2004)024[0794:ANGOTA]2.0.CO;2
+
+Naugolnykh, S.V., 2002. A new species of Todites (Pteridophyta) with in situ spores from the Upper Permian of Pechora Cis-Urals (Russia). Acta Palaeontologica Polonica, 47(3), 469-478.
 
 Near, T. J., Eytan, R. I., Dornburg, A., Kuhn, K. L., Moore, J. A., Davis, M. P., et al. (2012).
 Resolution of ray-finned fish phylogeny and timing of diversification. Proc. Natl.
@@ -1001,6 +1011,8 @@ Surlyk, F., Bjerager, M., Piasecki, S., and Stemmerik, L. (2017). Stratigraphy o
 marine Lower Triassic succession at Kap Stosch, Hold With Hope, north-east
 Greenland. Bull. Geol. Soc. Den. 65, 87–123.
 
+Syromyatnikov, K.V., 2000. Facies nature of clay minerals from the Inta Formation, southern Pechora Coal Basin. Lithology and Mineral Resources, 35(5), 466-474.
+
 Tanner, V. M. (1936). A study of Utah fossil fishes with the description of a new
 genus and species. Proc. Utah Acad. Sci. Arts Lett. 13, 81–89
 
@@ -1073,6 +1085,10 @@ Werneburg, R. (2007). Timeless design: colored pattern of skin in early Permian 
 Werneburg, R., Ronchi, A., Schneider, J. W., et al. (2007). The Early Permian branchiosaurids (Amphibia) of Sardinia (Italy): systematic palaeontology, palaeoecology, biostratigraphy and palaeobiogeographic problems. Palaeogeography, Palaeoclimatology, Palaeoecology, 252(3–4), 383–404. https://doi.org/10.1016/j.palaeo.2007.03.048
 
 Werneburg, R., & Ronchi, A. (2011). First evidence of a branchiosaurid amphibian in France: Apateon dracyensis sp. nov. from the Lower Permian Autun Basin. Bollettino della Società Paleontologica Italiana, 50(2), 163–170.
+
+Werneburg, R., Štamberg, S., and Steyer, J-S., 2020. A new stereospondylomorph, Korkonterpeton kalnense gen. et sp. nov., from lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2), 217-242.
+
+Werneburg, R. and Witzmann, F., 2024. The last eryopids: Clamorosaurus and Syndyodosuchus from the late Kungurian (Cisuralian, Permian) of Russia revisited. Fossil Record, 27(3), 353-380.
 
 Wendruff, A. J., and Wilson, M. V. H. (2012). A fork-tailed coelacanth, Rebellatrix
 divaricerca, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the
@@ -1159,6 +1175,7 @@ Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597-
 Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
