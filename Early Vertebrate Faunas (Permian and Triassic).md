@@ -108,21 +108,21 @@
 > - **References**: McLoughlin, 1994; Michaelsen and Henderson, 2000; Jones and Chen, 2000
 > - **Comments**:
 
-**A Formation/Member, Locality**
+**Archer City Formation, North-central Texas, United States**
+> - **Age**: Asselian to early Sakmarian, Early Permian (Cisuralian)
+> - **Taxa**: Chondrichthyes: Orthacanthus texensis, Orthacanthus compresus, Xenacanthus sp., Hybodus sp., Ctenacanthus sp., Barbclabornia luederensis (Johnson, 1999; Johnson, 2012). Osteichthyes: Ectosteorhachis nitidus, Sagenodus sp., Gnathorhiza sp., Palaeoniscoidea indet. (Thomson, 1964; Sander, 1989). Temnospondyli: Eryops megacephalus, Edops craigi, Neldasaurus wrightae, Phonerpeton pricei, Trimerorhachis insignis, Archeria crassidisca, Tersomius texensis, Acheloma sp., Broiliellus brevis, Broiliellus olsoni, "Dissorophus" angustus (Romer & Price, 1940; Romer & Witter, 1942; Chase, 1965; Dilkes, 1990; Dilkes, 2020; Milner & Schoch, 2013; Schoch, 2018). Nectridea: Diplocaulus sp., Crossotelos sp. (Romer & Price, 1940). Microsauria: Pantylus cordatus, Parioxys sp. (Romer & Price, 1940). Captorhinidae: Protorothyris archeri, Romeria texana, Romeria primus (Price, 1937; Clark & Carroll, 1973; Laurin, 1991). Bolosauridae: Eocaptorhinus sp. (Romer & Price, 1940). Caseidae: Casea sp. (Romer & Price, 1940). Varanopidae: Apsisaurus witteri, Varanosaurus wichitaensis, Mycterosaurus sp. (Romer & Price, 1940; Reisz et al., 2010). Ophiacodontidae: Ophiacodon uniformis, Ophiacodon retroversus, Ophiacodon navajovicus (Romer & Price, 1940). Edaphosauridae: Edaphosaurus boanerges (Romer & Price, 1940). Sphenacodontidae: Dimetrodon milleri, Dimetrodon limbatus, Dimetrodon natalis, Dimetrodon booneorum, Dimetrodon grandis, Dimetrodon giganhomogenes, Sphenacodon ferocior, Secodontosaurus obtusidens (Romer, 1937; Romer & Price, 1940). Synapsida incertae sedis: Stereophallodon ciscoensis, Baldwinonus trux, Lupeosaurus sp., Theropleura sp. (Romer & Price, 1940). Diadectidae: Diadectes sp. (Romer & Price, 1940).
+> - **Locality and horizon**: Formation outcrops in arc from Montague County through Clay, Archer, and Young counties to Throckmorton County, most broadly exposed in Clay and Archer counties; type section along Farm Road 2581, approximately 5 miles southeast of Archer City. Formation thickness 350-400 feet (107-122 m), containing 9-15 mappable sandstone members with intervening red mudstones. Principal bonebeds include Archer City Bonebed I, III (ACBB III, Circle A Ranch), and V (TMM-45923, Circle A Ranch), Rattlesnake Canyon Bonebed, Kola Switch locality (Clay County), and over 200 tetrapod sites (Hentz, 1988; Hook, 1989; Sander, 1989; Shelton, 2013; DiMichele et al., 2019).
+> - **References**: Chase, 1965; Clark & Carroll, 1973; Dilkes, 1990; Dilkes, 2020; DiMichele et al., 2018; DiMichele et al., 2019; Hentz, 1988; Hentz & Brown, 1987; Hook, 1989; Johnson, 1999; Johnson, 2012; Laurin, 1991; Lucas, 2006; Milner & Schoch, 2013; Price, 1937; Reisz et al., 2010; Romer, 1928; Romer, 1935; Romer, 1937; Romer & Price, 1940; Romer & Witter, 1942; Sander, 1987; Sander, 1989; Schoch, 2018; Shelton, 2013; Tabor & Montañez, 2004; Tabor et al., 2013; Thomson, 1964; Wardlaw, 2005.
+> - **Comments**: 
+
+**Nocona Formation, Texas, United States**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**A Formation/Member, Locality**
+**Blina Shale Formation, Kimberley region, Northwest Australia**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -1307,6 +1307,41 @@ Timofeev, P.P., Bogolyubova, L.I., and Koporulin, V.I., 2002. Sedimentogenez i l
 Tverdokhlebov, V.P., Tverdokhlebova, G.I., Minikh, A.V., Surkov, M.V., and Benton, M.J., 2005. Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. Earth-Science Reviews, 69(1-2): 27-77. https://doi.org/10.1016/j.earscirev.2004.07.003
 Vodolazskaya, M.A., Khramov, A.N., and Molostovsky, E.A., 2013. [Paleomagnetism and stratigraphy of Permian deposits of Pechora Coal Basin]. Cited in Aristov et al., 2021.
 Werneburg, R., Štamberg, S., and Steyer, J.-S., 2020. A new stereospondylomorph, Korkonerpeton kalnense gen. et sp. nov., from the Lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2): 217-242. https://doi.org/10.37520/fi.2020.019
+
+Barnes, V.E. (project director), 1987. Geologic atlas of Texas, Wichita Falls-Lawton sheet. University of Texas-Austin, Bureau of Economic Geology Geologic Atlas of Texas, 1 sheet, scale 1:250,000, Alfred Sherwood Romer memorial edition.
+Brown, L.F., Solis-Iriarte, R.F., and Johns, D.A., 1990. Regional depositional systems tracts, paleogeography, and sequence stratigraphy, upper Pennsylvanian and lower Permian strata, North-and-West-Central Texas. Bureau of Economic Geology Report of Investigations 197.
+Carroll, R.L., 1964. Early evolution of the dissorophid amphibians. Bulletin of the Museum of Comparative Zoology 131(7):161-250.
+Chase, J.N., 1965. Neldasaurus wrightae, a new rhachitomous labyrinthodont from the Texas Lower Permian. Bulletin of the Museum of Comparative Zoology 133(3):153-225.
+Clark, J., and Carroll, R.L., 1973. Romeriid Reptiles from the Lower Permian. Bulletin of the Museum of Comparative Zoology 144(5):353-407.
+Dilkes, D.W., 1990. A new trematopsid amphibian (Temnospondyli: Dissorophoidea) from the Lower Permian of Texas. Journal of Vertebrate Paleontology 10(2):222-243. https://doi.org/10.1080/02724634.1990.10011809
+Dilkes, D.W., 2020. Revision of the Early Permian dissorophid 'Dissorophus' angustus (Temnospondyli: Dissorophoidea). Journal of Vertebrate Paleontology 40(4):e1801704. https://doi.org/10.1080/02724634.2020.1801704
+DiMichele, W.A., Hook, R.W., Kerp, H., Hotton, C.L., Looy, C.V., and Chaney, D.S., 2018. Lower Permian Flora of the Sanzenbacher Ranch, Clay County, Texas. In: Transformative Paleobotany, pp. 95-126. Elsevier. https://doi.org/10.1016/B978-0-12-813012-4.00006-1
+DiMichele, W.A., Hotton, C.L., Looy, C.V., and Hook, R.W., 2019. Paleoecological and paleoenvironmental interpretation of three successive macrofloras and palynofloras from the Kola Switch locality, lower Permian (Archer City Formation, Bowie Group) of Clay County, Texas, USA. PalZ 93(3):423-451. https://doi.org/10.1007/s12542-019-00485-8
+Hentz, T.F., 1988. Lithostratigraphy and paleoenvironments of Upper Paleozoic continental red beds, North-central Texas: Bowie (new) and Wichita (revised) Groups. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations 170:1-55. https://doi.org/10.23867/RI0170D
+Hentz, T.F., and Brown, L.F. Jr., 1987. Wichita Falls-Lawton sheet. Geologic Atlas of Texas. Austin: The University of Texas and Bureau of Economic Geology.
+Hook, R.W., 1989. Stratigraphic distribution of tetrapods in the Bowie and Wichita Groups, Permo-Carboniferous of north-central Texas. In: Permo-Carboniferous Vertebrate Paleontology, Lithostratigraphy, and Depositional Environments of North-Central Texas. Field Trip Guidebook No. 2, 49th Annual Meeting of the Society of Vertebrate Paleontology, Austin, pp. 47-53.
+Johnson, G.D., 1992. Early Permian vertebrate microfossils from Archer City Bone Bed 3, Archer County, Texas. Journal of Vertebrate Paleontology Abstracts 12:35A-36A.
+Johnson, G.D., 1999. Dentitions of Late Palaeozoic Orthacanthus species and new species of Xenacanthus (Chondrichthyes: Xenacanthiformes) from North America. Acta Geologica Polonica 49:215-266.
+Johnson, G.D., 2012. Possible origin of the xenacanth sharks Orthacanthus texensis and Orthacanthus platypternus in the Lower Permian of Texas, USA. Historical Biology 24(4):369-379. https://doi.org/10.1080/08912963.2012.669128
+Laurin, M., 1991. The osteology of a Lower Permian eosuchian from Texas and a review of diapsid phylogeny. Zoological Journal of the Linnean Society 101(1):59-95. https://doi.org/10.1111/j.1096-3642.1991.tb00886.x
+Lucas, S.G., 2006. Global Permian tetrapod biostratigraphy and biochronology. Geological Society, London, Special Publications 265(1):65-93. https://doi.org/10.1144/GSL.SP.2006.265.01.04
+Milner, A.R., and Schoch, R.R., 2013. Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian of Texas and New Mexico: cranial osteology, taxonomy and biostratigraphy. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen 270(1):91-128. https://doi.org/10.1127/0077-7749/2013/0360
+Olson, E.C., 1941. The Family Trematopsidae. The Journal of Geology 49(2):149-176. https://doi.org/10.1086/624952
+Price, L.I., 1937. Two new cotylosaurs from the Permian of Texas. Proceedings of the New England Zoölogical Club 11:97-102.
+Reisz, R.R., Laurin, M., and Marjanović, D., 2010. Apsisaurus witteri from the Lower Permian of Texas: yet another small varanopid synapsid, not a diapsid. Journal of Vertebrate Paleontology 30(5):1628-1631. https://doi.org/10.1080/02724634.2010.501441
+Romer, A.S., 1928. Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. University of Texas Bulletin 2801:67-108.
+Romer, A.S., 1935. Early history of Texas redbeds vertebrates. Geological Society of America Bulletin 46(11):1597-1657. https://doi.org/10.1130/GSAB-46-1597
+Romer, A.S., 1937. New genera and species of pelycosaurian reptiles. Proceedings of the New England Zoological Club 16:89-97.
+Romer, A.S., and Price, L.I., 1940. Review of the Pelycosauria. Geological Society of America Special Papers 28:1-538. https://doi.org/10.1130/SPE28-p1
+Romer, A.S., and Witter, R.V., 1942. Edops, a Primitive Rhachitomous Amphibian from the Texas Red Beds. The Journal of Geology 50(8):925-960. https://doi.org/10.1086/625101
+Sander, P.M., 1987. Taphonomy of the Lower Permian Geraldine Bonebed in Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology 61:221-236. https://doi.org/10.1016/0031-0182(87)90051-4
+Sander, P.M., 1989. Early Permian depositional environments and pond bonebeds in central Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology 69:1-21. https://doi.org/10.1016/0031-0182(89)90153-3
+Schoch, R.R., 2018. Osteology of the temnospondyl Neldasaurus and the evolution of basal dvinosaurians. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen 287(1):1-16. https://doi.org/10.1127/njgpa/2018/0700
+Shelton, C.D., 2013. A new method to determine volume of bromalites: morphometrics of Lower Permian (Archer City Formation) heteropolar bromalites. Swiss Journal of Palaeontology 132:221-238. https://doi.org/10.1007/s13358-013-0057-z
+Tabor, N.J., and Montañez, I.P., 2004. Morphology and distribution of fossil soils in the Permo-Pennsylvanian Wichita and Bowie Groups, north-central Texas, USA: implications for western equatorial Pangean palaeoclimate during icehouse-greenhouse transition. Sedimentology 51(4):851-884. https://doi.org/10.1111/j.1365-3091.2004.00655.x
+Tabor, N.J., DiMichele, W.A., Montañez, I.P., and Chaney, D.S., 2013. Late Paleozoic continental warming of a cold tropical basin and floristic change in western Pangea. International Journal of Coal Geology 119:177-186. https://doi.org/10.1016/j.coal.2013.07.009
+Thomson, K.S., 1964. Revised generic diagnoses of the fossil fishes Megalichthys and Ectosteorhachis (family Osteolepidae). Bulletin of the Museum of Comparative Zoology at Harvard University 131(9):283-311.
+Wardlaw, B.R., 2005. Age assignment of the Pennsylvanian-Early Permian succession of North Central Texas. Permophiles 46:21-22.
 
 
 
