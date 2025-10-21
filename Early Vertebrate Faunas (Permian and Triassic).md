@@ -116,10 +116,10 @@
 > - **Comments**: 
 
 **Nocona Formation, Texas, United States**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Sakmarian, Early Permian (Cisuralian) 
+> - **Taxa**: Chondrichthyes: Barbclabornia luedersensis, Xenacanthus sp. (Johnson, 2003; Johnson, 2013). Osteichthyes: Paleoniscum sp., Acrolepis sp., Ectosteorhachis sp., Bourbonnella sp. (Dunkle, 1946; Sander, 1987). Amphibia (Temnospondyli): Eryops megacephalus, Trimerorhachis insignis, Trimerorhachis sp., Cacops morrisi, Cacops sp., Zygosaurus sp., Zatrachys serratus, Pasawioops mayi, Acheloma sp., Phonerpeton sp., Archeria crassidisca, Diplocaulus sp. (Romer and Price, 1940; Romer, 1957; Williston, 1910; Sander, 1987; Bourget and Anderson, 2011; Milner and Schoch, 2013; Schoch and Sues, 2013). Synapsida: Dimetrodon natalis, Dimetrodon limbatus, Dimetrodon booneorum, Dimetrodon milleri, Dimetrodon grandis, Ctenospondylus sp., Sphenacodon sp., Secodontosaurus sp., Varanosaurus sp., Ophiacodon sp., Edaphosaurus boanerges, Eothyris sp., Casea sp., Cotylorhynchus sp. (Cope, 1877; Case, 1907; Romer, 1937; Romer and Price, 1940; Hook and Hotton, 1991; Modesto, 1995; Shelton et al., 2012; Shelton and Sander, 2017; Agliano et al., 2021). Reptilia: Captorhinus aguti, Captorhinus sp., Rothianiscus sp., Araeoscelis sp., Bolosaurus sp., Romeria sp. (Cope, 1882; Vaughn, 1955; Fox and Bowman, 1966).
+> - **Locality and horizon**: Nocona Formation is exposed in Baylor County, Archer County, Clay County, and Montague County in north-central Texas, extending into Jefferson County, Oklahoma; stratotype located near Ringgold, Montague County, Texas (Hentz, 1988). 
+> - **References**: Cope, 1877; Cope, 1878; Cope, 1882; Case, 1907; Williston, 1910; Romer, 1937; Romer and Price, 1940; Romer, 1957; Dunkle, 1946; Vaughn, 1955; Fox and Bowman, 1966; Barnes, 1987; Hentz and Brown, 1987; Sander, 1987; Hentz, 1988; Sander, 1989; Hook and Hotton, 1991; Barnes, 1991; Modesto, 1995; Johnson, 2003; Bourget and Anderson, 2011; Shelton et al., 2012; Milner and Schoch, 2013; Johnson, 2013; Schoch and Sues, 2013; Shelton and Sander, 2017; Agliano et al., 2021
 > - **Comments**: 
 
 **Blina Shale Formation, Kimberley region, Northwest Australia**
@@ -1342,6 +1342,34 @@ Tabor, N.J., and Montañez, I.P., 2004. Morphology and distribution of fossil so
 Tabor, N.J., DiMichele, W.A., Montañez, I.P., and Chaney, D.S., 2013. Late Paleozoic continental warming of a cold tropical basin and floristic change in western Pangea. International Journal of Coal Geology 119:177-186. https://doi.org/10.1016/j.coal.2013.07.009
 Thomson, K.S., 1964. Revised generic diagnoses of the fossil fishes Megalichthys and Ectosteorhachis (family Osteolepidae). Bulletin of the Museum of Comparative Zoology at Harvard University 131(9):283-311.
 Wardlaw, B.R., 2005. Age assignment of the Pennsylvanian-Early Permian succession of North Central Texas. Permophiles 46:21-22.
+Agliano, A., Sander, P.M., and Wintrich, T., 2021. Bone histology and microanatomy of Edaphosaurus and Dimetrodon (Amniota, Synapsida) vertebrae from the Lower Permian of Texas. The Anatomical Record, v. 304, no. 3, p. 570-583.
+Barnes, V.E. (project director), 1987. Geologic atlas of Texas, Wichita Falls-Lawton sheet: University of Texas-Austin, Bureau of Economic Geology Geologic Atlas of Texas, 1 sheet, scale 1:250,000, Alfred Sherwood Romer memorial edition.
+Barnes, V.E. (project director), 1991. Geologic atlas of Texas, Sherman sheet [revision of 1967 ed.]: University of Texas-Austin, Bureau of Economic Geology Geologic Atlas of Texas, 1 sheet, [17 p.], scale 1:250,000, Walter Scott Adkins memorial edition.
+Bourget, H., and Anderson, J.S., 2011. A new amphibamid (Temnospondyli: Dissorophoidea) from the Early Permian of Texas. Journal of Vertebrate Paleontology, v. 31, no. 1, p. 32-49.
+Case, E.C., 1907. Revision of the Pelycosauria of North America. Carnegie Institution of Washington Publication, v. 55, 176 p.
+Cope, E.D., 1877. Descriptions of extinct Vertebrata from the Permian and Triassic formations of the United States. Proceedings of the American Philosophical Society, v. 17, no. 100, p. 182-193.
+Cope, E.D., 1878. Descriptions of extinct Batrachia and Reptilia from the Permian Formation of Texas. Proceedings of the American Philosophical Society, v. 17, no. 101, p. 505-530.
+Cope, E.D., 1882. Third contribution to the history of the Vertebrata of the Permian formation of Texas. Proceedings of the American Philosophical Society, v. 20, no. 112, p. 447-461.
+Dunkle, D.H., 1946. A new palaeoniscoid fish from the Lower Permian of Texas. Journal of the Washington Academy of Sciences, v. 36, no. 12, p. 402-409.
+Fox, R.C., and Bowman, M.C., 1966. Osteology and relationships of Captorhinus aguti (Cope) (Reptilia: Captorhinomorpha). The University of Kansas Paleontological Contributions, v. 11, p. 1-79.
+Hentz, T.F., 1988. Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas; Bowie (new) and Wichita (revised) Groups: University of Texas-Austin, Bureau of Economic Geology Report of Investigations, no. 170, 55 p. doi: 10.23867/RI0170D
+Hentz, T.F., and Brown, L.F., Jr., 1987. Wichita Falls-Lawton sheet, in Barnes, V.E. (project director), Geologic atlas of Texas: University of Texas-Austin, Bureau of Economic Geology.
+Hook, R.W., and Hotton, N., III, 1991. A new sphenacodontid pelycosaur (Synapsida) from the Wichita Group, Lower Permian of north-central Texas. Journal of Vertebrate Paleontology, v. 11, no. 1, p. 37-44. doi: 10.1080/02724634.1991.10011374
+Johnson, G.D., 2003. Dentitions of Barbclabornia (new genus, Chondrichthyes: Xenacanthiformes) from the Upper Palaeozoic of North America. Mitteilungen aus dem Museum für Naturkunde in Berlin, Geowissenschaftliche Reihe, v. 6, no. 1, p. 125-146.
+Johnson, G.D., 2013. Xenacanth sharks and other vertebrates from the Geraldine Bonebed, Lower Permian of Texas. New Mexico Museum of Natural History and Science Bulletin, v. 60, p. 161-167.
+Labandeira, C.C., and Allen, E.G., 2007. Minimal insect herbivory for the Lower Permian Coprolite Bone Bed site of north-central Texas, USA, and comparison to other Late Paleozoic floras. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 247, no. 3-4, p. 197-219. doi: 10.1016/j.palaeo.2006.10.015
+Milner, A.R., and Schoch, R.R., 2013. Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian of Texas and New Mexico: cranial osteology, taxonomy and biostratigraphy. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen, v. 270, no. 1, p. 91-128.
+Modesto, S.P., 1995. The skull of the herbivorous synapsid Edaphosaurus boanerges from the Lower Permian of Texas. Palaeontology, v. 38, no. 1, p. 213-239.
+Romer, A.S., 1937. New genera and species of pelycosaurian reptiles. Proceedings of the New England Zoological Club, v. 16, p. 89-96.
+Romer, A.S., 1957. The Appendicular Skeleton of the Permian Embolomerous Amphibian Archeria. Contributions from the Museum of Paleontology, v. 13, no. 5, p. 105-159.
+Romer, A.S., and Price, L.W., 1940. Review of the Pelycosauria. Geological Society of America Special Papers, v. 28, p. 1-538. doi: 10.1130/SPE28-p1
+Sander, P.M., 1987. Taphonomy of the Lower Permian Geraldine Bonebed in Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 61, p. 221-236. doi: 10.1016/0031-0182(87)90051-4
+Sander, P.M., 1989. Early Permian depositional environments and pond bonebeds in central Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 69, p. 1-21. doi: 10.1016/0031-0182(89)90153-3
+Schoch, R.R., and Sues, H.-D., 2013. A new dissorophid temnospondyl from the Lower Permian of north-central Texas. Comptes Rendus Palevol, v. 12, no. 7-8, p. 437-445.
+Shelton, C.D., and Sander, P.M., 2017. Long bone histology of Ophiacodon reveals the geologically earliest occurrence of fibrolamellar bone in the mammalian stem lineage. Comptes Rendus Palevol, v. 16, no. 4, p. 397-424.
+Shelton, C.D., Sander, P.M., Stein, K., and Winkelhorst, H., 2012. Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, v. 103, no. 3-4, p. 217-236. doi: 10.1017/S175569101300025X
+Vaughn, P.P., 1955. The Permian reptile Araeoscelis restudied. Bulletin of the Museum of Comparative Zoology, v. 113, no. 5, p. 303-467.
+Williston, S.W., 1910. Cacops, Desmospondylus; new genera of Permian vertebrates. Bulletin of the Geological Society of America, v. 21, p. 249-284.
 
 
 
