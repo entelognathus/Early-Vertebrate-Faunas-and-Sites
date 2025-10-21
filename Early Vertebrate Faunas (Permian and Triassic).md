@@ -95,10 +95,10 @@
 > - **Comments**:
 
 **Inta Formation, Pechora Coal Basin, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: upper Kungurian (latest Early Permian) to lower Roadian (earliest Middle Permian)
+> - **Taxa**: Actinopterygii: Elonichthys natalis, Acrolepis frequens, Uralina vicina, Uralina eximia (Lozovsky et al., 2009; Aristov et al., 2021). Temnospondyli: Clamorosaurus nocturnus, Clamorosaurus borealis (Gubin, 1983; Schoch & Werneburg, 2021); Intasuchus silvicola (Konzhukova, 1956; Werneburg et al., 2020). Captorhinidae: Captorhinid gen. et sp. indet. (Benton et al., 2004; Golubev, 2000). Bolosauridae: Bolosaurid gen. et sp. indet. (Benton et al., 2004; Golubev, 2000).
+> - **Locality and horizon**: Kozhim River section (left bank downstream from Kozhim-Rudnik village, Subpolar Urals, Komi Republic); Vorkuta region localities including Vorkuta 1, Inta type locality, Mylva, Pechora, Porog-1, Porog-2, Ters-Akkan, and Usva. Stratigraphic position within Vorkuta Series, above Lekvorkutskaia Formation and below Pechora Series, correlating with Solikamskian and lower Sheshmian horizons. Formation thickness 450-600 m, consisting of lacustrine and floodplain deposits with coal seams, carbonaceous shales, and argillaceous rocks (Konzhukova, 1956; Golubev, 2000; Lozovsky et al., 2009; Aristov et al., 2021).
+> - **References**: Aristov et al., 2021; Benton et al., 2004; Golubev, 2000; Gubin, 1983; Henderson et al., 2012; Konzhukova, 1956; Lozovsky et al., 2009; Schoch & Werneburg, 2021; Werneburg et al., 2020
 > - **Comments**:
 
 **Blackwater Group, Bowen Basin, Queensland, Australia**
@@ -1178,9 +1178,29 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 
 
 
-
-
-
+## To be organized and sorted
+Aristov, D.S., Rasnitsyn, A.P., and Naugolnykh, S.V., 2021. New Blattinopsidae (Insecta: Blattinopsida) in the Permian of the Pechora Basin (Komi Republic, Russia) in the Context of Landscape and Vegetation Evolution. Paleontological Journal, 55(6): 641-649. https://doi.org/10.1134/S0031030121060022
+Benton, M.J., Tverdokhlebov, V.P., and Surkov, M.V., 2004. Ecosystem remodelling among vertebrates at the Permian-Triassic boundary in Russia. Nature, 432: 97-100. https://doi.org/10.1038/nature02950
+Burdelnaya, N.S., Bushnev, D.A., Mokeev, M.V., and Kuzmin, D.V., 2019. Organic geochemistry of the Pechora basin coal and hypercoal as a perspective product of coal chemistry. Vestnik of Institute of Geology Komi SC UB RAS, 10: 3-10.
+Demin, A.P., 1991. Use of coal from the Inta seam group in the Vorkuta deposit, Pechora basin, for coking. Technical Report, ETDEWEB database.
+Golubev, V.K., 2000. The faunal assemblages of Permian terrestrial vertebrates from Eastern Europe. Paleontological Journal, 34(Suppl. 2): S211-S224.
+Gubin, Y.M., 1983. Pervye eriopidy iz permi Vostochno-Evropeyskoy platformy [The First Eryopids from the Permian of the East European Platform]. Paleontologicheskiy zhurnal, 1983(4): 110-115. [In Russian]
+Gubin, Y.M., 1991. Permskie arkhegozavroidnyi amfibii SSSR [Permian archegosauroid amphibians from the USSR]. Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR, 249: 1-138. [In Russian]
+Henderson, C.M., Davydov, V.I., and Wardlaw, B.R., 2012. The Permian Period. In: Gradstein, F.M., Ogg, J.G., Schmitz, M.D., and Ogg, G.M. (Eds.), The Geologic Time Scale 2012. Elsevier, Amsterdam.
+Isaev, V.S., Naugolnykh, S.V., and Kirilishina, E.M., 2018. Permian fossil plants from the sediments of the Vorkuta Series at the Pechora Coal Basin in the collection of the Earth Science Museum of Moscow State University. Moscow University Geology Bulletin, 73(5): 42-51. https://doi.org/10.3103/S0145875218050083
+Konzhukova, E.D., 1953. Nizhnepermskaya fauna nazemnykh pozvonochnykh Severnogo Priural'ya (basseyn r. Inty) [Fauna of vertebrates from Upper Permian of northern Priural region (basin of river Inta)]. Doklady Akademii Nauk SSSR, 89(4): 723-726. [In Russian]
+Konzhukova, E.D., 1956. Intinskaya fauna nizhney permi Severnogo Priural'ya [The Intan Lower Permian fauna of the northern Ural region]. Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR, 62: 5-50. [In Russian]
+Kotlyar, G.V., Kossovaya, O.L., Shishlov, S.B., Zhuravlev, A.V., and Pukhonto, S.K., 2004. Boundary between Permian Series in Diverse Sedimentary Facies of North European Russia: Constraints of Event Stratigraphy. Stratigraphy and Geological Correlation, 12(5): 460-484.
+Kotlyar, G.V., Silantiev, V.V., Naugolnykh, S.V., Korotkikh, P.B., and Burago, V.I., 2018. Interregional Correlation of the Permian Continental and Marine Deposits of Northeastern Russia, Southern Far East, Siberia, and Pechora Cisurals. Russian Journal of Pacific Geology, 12(1): 17-37. https://doi.org/10.1134/S1819714018010037
+Lozovsky, V.R., Minikh, M.G., Grunt, T.A., Kukhtinov, D.A., Ponomarenko, A.G., and Sukacheva, I.D., 2009. The Ufimian Stage of the East European Scale: Status, Validity, and Correlation Potential. Stratigraphy and Geological Correlation, 17(6): 602-614. https://doi.org/10.1134/S0869593809060033
+Naugolnykh, S.V., 2002. A new species of Todites Seward with in situ spores from the Upper Permian of Pechora Cis-Urals (Russia). Acta Palaeontologica Polonica, 47(3): 469-478.
+Naugolnykh, S.V., Kirilishina, E.M., and Isaev, V.S., 2021. New Data on Permian Plants of the Pechora Coal Basin According to the Collection of the Earth Science Museum of Moscow State University: The Coevolution of Plants and Insects. Moscow University Geology Bulletin, 76(3): 282-290. https://doi.org/10.3103/S0145875221030078
+Schoch, R.R. and Werneburg, R., 2021. The life cycle in late Paleozoic eryopid temnospondyls: developmental variation, plasticity and phylogeny. Fossil Record, 24: 295-325. https://doi.org/10.5194/fr-24-295-2021
+Syromyatnikov, K.V., 2000. Facies nature of clay minerals from the Inta Formation, southern Pechora Coal Basin. Lithology and Mineral Resources, 35(5): 466-474. https://doi.org/10.1007/BF02782732
+Timofeev, P.P., Bogolyubova, L.I., and Koporulin, V.I., 2002. Sedimentogenez i litogenez otlozhenii intinskoy svity yuga Pechorskogo ugol'nogo basseyna [Sedimentogenesis and lithogenesis of deposits of the Intinsky Formation south of the Pechora Coal Basin]. Trudy Geologicheskogo Instituta Rossiyskoy Akademii Nauk, Issue 540. Nauka, Moscow, 224 pp. [In Russian]
+Tverdokhlebov, V.P., Tverdokhlebova, G.I., Minikh, A.V., Surkov, M.V., and Benton, M.J., 2005. Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. Earth-Science Reviews, 69(1-2): 27-77. https://doi.org/10.1016/j.earscirev.2004.07.003
+Vodolazskaya, M.A., Khramov, A.N., and Molostovsky, E.A., 2013. [Paleomagnetism and stratigraphy of Permian deposits of Pechora Coal Basin]. Cited in Aristov et al., 2021.
+Werneburg, R., Štamberg, S., and Steyer, J.-S., 2020. A new stereospondylomorph, Korkonerpeton kalnense gen. et sp. nov., from the Lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2): 217-242. https://doi.org/10.37520/fi.2020.019
 
 
 
