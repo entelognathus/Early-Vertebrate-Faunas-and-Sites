@@ -122,12 +122,6 @@
 > - **References**: Cope, 1877; Cope, 1878; Cope, 1882; Case, 1907; Williston, 1910; Romer, 1937; Romer and Price, 1940; Romer, 1957; Dunkle, 1946; Vaughn, 1955; Fox and Bowman, 1966; Barnes, 1987; Hentz and Brown, 1987; Sander, 1987; Hentz, 1988; Sander, 1989; Hook and Hotton, 1991; Barnes, 1991; Modesto, 1995; Johnson, 2003; Bourget and Anderson, 2011; Shelton et al., 2012; Milner and Schoch, 2013; Johnson, 2013; Schoch and Sues, 2013; Shelton and Sander, 2017; Agliano et al., 2021
 > - **Comments**: 
 
-**Blina Shale Formation, Kimberley region, Northwest Australia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
 
 **A Formation/Member, Locality**
 > - **Age**:
@@ -244,10 +238,10 @@
 ## Early Triassic
 ### Induan, Early Triassic
 **Blina Shale Formation, Kimberley region, Northwest Australia**
-> - **Age**: Induan, Early Triassic.
-> - **Taxa**: *Batrachosuchus henwoodi*, *Deltasaurus kimberleyensis*, *Erythrobatrachus noonkanbahensis*, *Saurichthys*; *Aphelodus anapes*
-> - **Locality and horizon**: Blina Shale Formation, Kimberley region, Northwest Australi
-> - **References**:
+> - **Age**: Induan–Olenekian, Early Triassic.
+> - **Taxa**: *Batrachosuchus henwoodi*, *Deltasaurus kimberleyensis*, *Erythrobatrachus noonkanbahensis*, *Saurichthys*; *Aphelodus anapes*, *Watsonisuchus sp.*
+> - **Locality and horizon**: Blina Shale Formation, Kimberley region, Northwest Australi; marine to deltaic shales of the eastern Erskine Range near Noonkanbah Station
+> - **References**: Cosgriff, 1965; McKenzie, 1961; Cosgriff & Garbutt, 1972; Kear & Hamilton‑Bruce, 2011
 > - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
 
 ### Griesbachian, Induan, Early Triassic
@@ -1370,6 +1364,12 @@ Shelton, C.D., and Sander, P.M., 2017. Long bone histology of Ophiacodon reveals
 Shelton, C.D., Sander, P.M., Stein, K., and Winkelhorst, H., 2012. Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, v. 103, no. 3-4, p. 217-236. doi: 10.1017/S175569101300025X
 Vaughn, P.P., 1955. The Permian reptile Araeoscelis restudied. Bulletin of the Museum of Comparative Zoology, v. 113, no. 5, p. 303-467.
 Williston, S.W., 1910. Cacops, Desmospondylus; new genera of Permian vertebrates. Bulletin of the Geological Society of America, v. 21, p. 249-284.
+Cosgriff, J. W. (1965). A new genus of Temnospondyli from the Triassic of Western Australia. Journal of the Royal Society of Western Australia, 48, 65–90.
+mindat.org
+
+McKenzie, K. G. (1961). The vertebrate localities in the Triassic Blina Shale of the Canning Basin, Western Australia. Journal of the Royal Society of Western Australia, 44(3), 69–76.
+Cosgriff, J. W., & Garbutt, N. K. (1972). Erythrobatrachus noonkanbahensis, a trematosaurid species from the Blina Shale. Journal of the Royal Society of Western Australia, 55(1), 5–18.
+Kear, B. P., & Hamilton‑Bruce, R. J. (2011). Dinosaurs in Australia: Mesozoic Life from the Southern Continent. CSIRO Publishing.
 
 
 
