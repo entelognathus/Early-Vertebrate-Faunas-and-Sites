@@ -138,10 +138,10 @@
 > - **Comments**: 
 
 **Robledo Mountains Formation, south-central New Mexico, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian，Early Permian
+> - **Taxa**: Tetrapod footprints: Batrachichnus salamandroides, Batrachichnus aff. salamandroides, Dimetropus nicolasi, Dimetropus leisneranius, Dromopus lacertoides, cf. Erpetopus, Limnopus vagus, Gilmoreichnus hermitanus, Hyloidichnus bifurcatus (Minter & Braddy, 2009). Fish swimming trails: Undichna bina, Undichna britannica, Undichna? unisulca (Minter & Braddy, 2009).
+> - **Locality and horizon**: Robledo Mountains Formation of the Hueco Group exposed in the Robledo Mountains of Doña Ana County, south‑central New Mexico; interbedded marine limestones, calcareous shales and red‑bed siliciclastics deposited on an upper intertidal flat during the late Early Permian (Minter & Braddy, 2009).
+> - **References**: Minter & Braddy, 2009; Heckert et al., 2010
 > - **Comments**: 
 
 **Orby Head Formation, Prince Edward Island, Canada**
@@ -1405,6 +1405,7 @@ Schoch, R. R., & Sues, H.-D. (2013). A new dissorophid temnospondyl from the Low
 Shelton, C. D., & Sander, P. M. (2017). Long bone histology of Ophiacodon reveals the geologically earliest occurrence of fibrolamellar bone in the mammalian stem lineage. Comptes Rendus Palevol, 16(1), 1–10. https://doi.org/10.1016/j.crpv.2016.10.001
 
 Shelton, C. D., Sander, P. M., Stein, K., & Winkelhorst, H. (2012). Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 103(1–2), 1–10. https://doi.org/10.1017/S1755691012000057
+
 
 
 
