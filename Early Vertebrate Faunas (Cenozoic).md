@@ -21,13 +21,18 @@
 > - **References**:
 > - **Comments**:
 ### Thanetian
-
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+#### Woolwich Formation (Bottom), Herne Bay, Kent, UK
+> - **Age**: Thanetian
+> - **Taxa**: *Chimaera eophantasma*
+> - **Locality and horizon**: Woolwich Formation (Bottom), Herne Bay, Kent, UK
+> - **References**: (Ward, 1973)
 > - **Comments**:
-
+#### Thanet Formation, Herne Bay, Kent, UK
+> - **Age**: Thanetian
+> - **Taxa**: *Callorhinchus newtoni*
+> - **Locality and horizon**: Thanet Formation, Herne Bay, Kent, UK
+> - **References**: (Ward, 1973)
+> - **Comments**:
 ## Eocene
 ### Ypresian
 #### London Clay, Burnham-on-Crouch, Essex, England
@@ -115,6 +120,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
