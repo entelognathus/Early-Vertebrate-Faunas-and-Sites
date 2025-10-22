@@ -1406,6 +1406,9 @@ Shelton, C. D., & Sander, P. M. (2017). Long bone histology of Ophiacodon reveal
 
 Shelton, C. D., Sander, P. M., Stein, K., & Winkelhorst, H. (2012). Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 103(1–2), 1–10. https://doi.org/10.1017/S1755691012000057
 
+Minter, N. J., & Braddy, S. J. (2009). Ichnology of an Early Permian intertidal flat: The Robledo Mountains Formation of southern New Mexico, USA. Special Papers in Palaeontology, 82, 1–107.
+
+Heckert, A. B., Lucas, S. G., Furfey, R. T., & MacDonald, J. P. (2010). Vertebrate paleontology of the Robledo Mountains Member of the Hueco Formation, Doña Ana Mountains, New Mexico. In S. G. Lucas, K. Zeigler & J. A. Spielmann (Eds.), The Permian of central New Mexico (New Mexico Museum of Natural History and Science Bulletin 49, pp. 169–180).
 
 
 
