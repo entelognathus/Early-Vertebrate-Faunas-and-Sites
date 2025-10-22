@@ -124,16 +124,16 @@
 
 
 **Lueders Formation, north-central Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian，Early Permian
+> - **Taxa**: Chondrichthyes: Acrodus olsoni, Acrodus sweetlacruzensis, Lissodus zideki, Barbclabornia luedersensis, Ctenacanthus cf. amblyxiphias, Janassa sp., Orthacanthus platypternus, Orthacanthus texensis, Deltodus mercuri. Osteichthyes: Schaefferichthys leudersensis, Platysomus palmaris, Luederia kempi, Gnathorhiza serrata, Lawnia cf. taylorensis, Spermatodus pustulosus, Acrolepis sp., Sagenodus sp.. Amphibia: Eryops megacephalus, Diplocaulus magnicornis, Trimerorhachis sp., Crossotelos annulatus. Reptilia: Captorhinus sp.. Arthropoda: Panduralimulus babcocki. Mollusca: Koninckioceras bibbi, Metacoceras sp., Michelinoceras sp., Millkoninckioceras sp., Perrinitidae indet., Stenopoceras cf. whitei. Echinodermata: Crinoidea indet.. Bryozoa: Bryozoa indet.. Plantae: Tinsleya texana, Zeilleropteris wattii.
+> - **Locality and horizon**: Shackelford County, Texas
+> - **References**: Shell et al., 2024; Berman, 1970; Dalquest et al., 1988; Wikipedia contributors, 2025
 > - **Comments**: 
 
 **Nocona Formation, north-central Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: Asselian，Early Permian
+> - **Taxa**: Synapsida: Ctenorhachis jacksoni, Dimetrodon booneorum, Dimetrodon limbatus, Dimetrodon natalis, Edaphosaurus boanerges, Lupeosaurus kayi, Ophiacodon retroversus, Ophiacodon uniformis, Secodontosaurus obtusidens. Amphibia: Archeria crassidisca, Cardiocephalus sp., Diadectes sideropelicus, Diplocaulus sp., Eryops megacephalus, Rubeostratilia texensis, Scapanops neglecta, Trimerorhachis insignis, Zatrachys serratus. Platysomus sp., Sagenodus sp., Spermatodus pustulosus. Crustacea: Mamayocaris jaskoskii, Paulocaris jepseni.
+> - **Locality and horizon**: Exposures primarily in Archer, Clay, and northern Montague Counties, Texas, with type locality at a river bluff approximately 3.6 miles north of Ringgold, Montague County (Geolex, 2025).
 > - **References**:
 > - **Comments**: 
 
@@ -1377,6 +1377,13 @@ McKenzie, K. G. (1961). The vertebrate localities in the Triassic Blina 
 Cosgriff, J. W., & Garbutt, N. K. (1972). Erythrobatrachus noonkanbahensis, a trematosaurid species from the Blina Shale. Journal of the Royal Society of Western Australia, 55(1), 5–18.
 Kear, B. P., & Hamilton‑Bruce, R. J. (2011). Dinosaurs in Australia: Mesozoic Life from the Southern Continent. CSIRO Publishing.
 
+Shell, R., Ciampaglio, C., Peterman, D., Ivanov, A., Armstrong, A., Fuelling, L. J., & Jacquemin, S. J. (2024). A marine vertebrate fauna from the Early Permian (Artinskian) Lueders Formation of north-central Texas, USA. The Southwestern Naturalist, 68(2), 97–104. https://doi.org/10.1894/0038-4909-68.2.97
+
+Berman, D. S. (1970). Vertebrate fossils from the Lueders Formation: Lower Permian of North-central Texas. University of California Press.
+
+Dalquest, W. W., Kocurko, M. J., & Grimes, J. A. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. Tulane Studies in Geology and Paleontology, 21(3), 1–16.
+
+Wikipedia contributors. (2025). Lueders Formation. In Wikipedia, The Free Encyclopedia. Retrieved October 22, 2025, from https://en.wikipedia.org/wiki/Lueders_Formation
 
 
 
