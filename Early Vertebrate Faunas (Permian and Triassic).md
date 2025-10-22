@@ -1410,6 +1410,11 @@ Minter, N. J., & Braddy, S. J. (2009). Ichnology of an Early Per
 
 Heckert, A. B., Lucas, S. G., Furfey, R. T., & MacDonald, J. P. (2010). Vertebrate paleontology of the Robledo Mountains Member of the Hueco Formation, Doña Ana Mountains, New Mexico. In S. G. Lucas, K. Zeigler & J. A. Spielmann (Eds.), The Permian of central New Mexico (New Mexico Museum of Natural History and Science Bulletin 49, pp. 169–180).
 
+van de Poll, H. W. (1983). Geology of Prince Edward Island. Prince Edward Island Department of Energy and Forestry Report 83‑1, 66 pp.
+
+Case, E. C. (1905). Bathygnathus borealis Leidy, and the Permian of Prince Edward Island. Science, 22, 52–53.
+
+Brink, K. S., Campione, N. E., & Hawthorn, J. R. (2013). Amniote faunal revision of the Pictou Group (Permo‑Carboniferous), Prince Edward Island, Canada. Comptes Rendus Palevol, 12(7–8), 473–485. https://doi.org/10.1016/j.crpv.2013.05.002
 
 
 
