@@ -152,8 +152,8 @@
 > - **Comments**: 
 
 **Irati Formation, Paraná Basin, Brazil**
-> - **Age**:
-> - **Taxa**:
+> - **Age**: Kungurian, Early Permian
+> - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum, Brazilosaurus sanpauloensis. Chondrichthyes: Itapyrodus punctatus, Fairchildodus rioclarensis.
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
@@ -1415,6 +1415,7 @@ van de Poll, H. W. (1983). Geology of Prince Edward Island. Prince Edw
 Case, E. C. (1905). Bathygnathus borealis Leidy, and the Permian of Prince Edward Island. Science, 22, 52–53.
 
 Brink, K. S., Campione, N. E., & Hawthorn, J. R. (2013). Amniote faunal revision of the Pictou Group (Permo‑Carboniferous), Prince Edward Island, Canada. Comptes Rendus Palevol, 12(7–8), 473–485. https://doi.org/10.1016/j.crpv.2013.05.002
+
 
 
 
