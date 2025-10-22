@@ -23,7 +23,7 @@
 ### Thanetian
 #### Woolwich Formation (Bottom), Herne Bay, Kent, UK
 > - **Age**: Thanetian
-> - **Taxa**: *Chimaera eophantasma*
+> - **Taxa**: *Chimaera eophantasma*, *Callorhinchus regulbiensis*
 > - **Locality and horizon**: Woolwich Formation (Bottom), Herne Bay, Kent, UK
 > - **References**: (Ward, 1973)
 > - **Comments**:
@@ -132,6 +132,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
