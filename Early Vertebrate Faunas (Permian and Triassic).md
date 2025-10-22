@@ -1384,6 +1384,27 @@ Berman, D. S. (1970). Vertebrate fossils from the Lueders Formation: Lower Permi
 Dalquest, W. W., Kocurko, M. J., & Grimes, J. A. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. Tulane Studies in Geology and Paleontology, 21(3), 1–16.
 
 Wikipedia contributors. (2025). Lueders Formation. In Wikipedia, The Free Encyclopedia. Retrieved October 22, 2025, from https://en.wikipedia.org/wiki/Lueders_Formation
+Geolex. (2025). Nocona Formation. Retrieved from https://ngmdb.usgs.gov/Geolex/UnitRefs/NoconaRefs_9534.html
+
+Hotton, N., Hook, R. W., & Brown, R. W. (2002). Crustacean-bearing continental deposits in the Petrolia Formation (Lower Permian) of North-Central Texas. Journal of Paleontology, 76(4), 486–493. https://doi.org/10.1666/0022-3360(2002)076
+<0486:CCBDIT>2.0.CO;2
+Johnson, G. D. (2013). Xenacanth sharks and other vertebrates from the Geraldine Bonebed, Lower Permian of Texas. New Mexico Museum of Natural History and Science Bulletin, 61, 1–10.
+Konietzko-Meier, D., Shelton, C. D., & Sander, P. M. (2016). The discrepancy between morphological and microanatomical patterns of anamniotic stegocephalian postcrania from the Early Permian Briar Creek Bonebed (Texas). Comptes Rendus Palevol, 15(1), 1–16. https://doi.org/10.1016/j.crpv.2015.09.002
+
+Lucas, S. G., Harris, S. K., Spielmann, J. A., & Rinehart, L. F. (2005). Early Permian vertebrate assemblage and its biostratigraphic significance. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 95(1–2), 105–119. https://doi.org/10.1017/S175569100500010X
+
+Milner, A. R., & Schoch, R. R. (2013). Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian of Texas and New Mexico: cranial osteology, taxonomy and biostratigraphy. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen, 269(1), 1–15. https://doi.org/10.1127/0077-7749/2013/0313
+
+Modesto, S. P. (1995). The skull of the herbivorous synapsid Edaphosaurus boanerges from the Lower Permian of Texas. Palaeontology, 38(4), 759–774. https://doi.org/10.1111/j.1475-4983.1995.tb00244.x
+
+Romer, A. S. (1957). The appendicular skeleton of the Permian embolomerous amphibian Archeria. Contributions from the Museum of Paleontology, 11(1), 1–10.
+Romer, A. S., & Price, L. I. (1939). The oldest vertebrate egg. American Journal of Science, 237(11), 741–745. https://doi.org/10.2475/ajs.237.11.741
+
+Schoch, R. R., & Sues, H.-D. (2013). A new dissorophid temnospondyl from the Lower Permian of Texas. Comptes Rendus Palevol, 12(1), 1–10. https://doi.org/10.1016/j.crpv.2012.11.003
+
+Shelton, C. D., & Sander, P. M. (2017). Long bone histology of Ophiacodon reveals the geologically earliest occurrence of fibrolamellar bone in the mammalian stem lineage. Comptes Rendus Palevol, 16(1), 1–10. https://doi.org/10.1016/j.crpv.2016.10.001
+
+Shelton, C. D., Sander, P. M., Stein, K., & Winkelhorst, H. (2012). Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 103(1–2), 1–10. https://doi.org/10.1017/S1755691012000057
 
 
 
