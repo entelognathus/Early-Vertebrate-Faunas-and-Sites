@@ -123,21 +123,21 @@
 > - **Comments**: 
 
 
-**A Formation/Member, Locality**
+**Lueders Formation, north-central Texas, USA**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
+**Nocona Formation, north-central Texas, USA**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
+**Robledo Mountains Formation, south-central New Mexico, USA**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -1370,6 +1370,7 @@ mindat.org
 McKenzie, K. G. (1961). The vertebrate localities in the Triassic Blina Shale of the Canning Basin, Western Australia. Journal of the Royal Society of Western Australia, 44(3), 69–76.
 Cosgriff, J. W., & Garbutt, N. K. (1972). Erythrobatrachus noonkanbahensis, a trematosaurid species from the Blina Shale. Journal of the Royal Society of Western Australia, 55(1), 5–18.
 Kear, B. P., & Hamilton‑Bruce, R. J. (2011). Dinosaurs in Australia: Mesozoic Life from the Southern Continent. CSIRO Publishing.
+
 
 
 
