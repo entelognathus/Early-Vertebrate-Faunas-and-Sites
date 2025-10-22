@@ -144,28 +144,28 @@
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
+**Orby Head Formation, Prince Edward Island, Canada**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
+**Irati Formation, Paraná Basin, Brazil**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
+**Mangrullo Formation, Paraná Basin, Uruguay**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-**A Formation/Member, Locality**
+**Whitehill Formation, Karoo Basin, South Africa & Namibia**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -173,22 +173,28 @@
 > - **Comments**: 
 
 
-**A Formation/Member, Locality**
+**Cundlego Formation, Carnarvon & Perth Basins, Western Australia**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
 
-**A Formation/Member, Locality**
+**Divjinskian Formation, Krasnoufimsk, Cis-Urals, Russia**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
+**Sarginskian Formation, Krasnoufimsk, Cis-Urals, Russia**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
-**A Formation/Member, Locality**
+**The Rotliegend Group, Germany**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -1370,6 +1376,7 @@ mindat.org
 McKenzie, K. G. (1961). The vertebrate localities in the Triassic Blina Shale of the Canning Basin, Western Australia. Journal of the Royal Society of Western Australia, 44(3), 69–76.
 Cosgriff, J. W., & Garbutt, N. K. (1972). Erythrobatrachus noonkanbahensis, a trematosaurid species from the Blina Shale. Journal of the Royal Society of Western Australia, 55(1), 5–18.
 Kear, B. P., & Hamilton‑Bruce, R. J. (2011). Dinosaurs in Australia: Mesozoic Life from the Southern Continent. CSIRO Publishing.
+
 
 
 
