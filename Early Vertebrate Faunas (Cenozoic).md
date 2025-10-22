@@ -35,7 +35,19 @@
 > - **Comments**:
 ## Eocene
 ### Ypresian
-#### London Clay, Burnham-on-Crouch, Essex, England
+#### Oldhaven Formation, Herne Bay, Kent, UK
+> - **Age**: early Ypresian (Sparnacian)
+> - **Taxa**: *Amylodon eocenica*
+> - **Locality and horizon**: Oldhaven Formation, Herne Bay, Kent, UK
+> - **References**: (Ward, 1978)
+> - **Comments**:
+#### London Clay Formaiton (Beetle Bed, Lower Aldwick Beds), Herne Bay, Kent, UK
+> - **Age**: early Ypresian (Sparnacian)
+> - **Taxa**: *Amylodon venablesae*
+> - **Locality and horizon**: London Clay Formaiton (Beetle Bed, Lower Aldwick Beds), Herne Bay, Kent, UK
+> - **References**: (Ward, 1978)
+> - **Comments**:
+#### London Clay Formaiton, Burnham-on-Crouch, Essex, England
 > - **Age**: early Ypresian (Sparnacian)
 > - **Taxa**: *Alopias crochardi*
 > - **Locality and horizon**: London Clay; Cliff Reach, Burnham-on-Crouch, Essex
@@ -120,6 +132,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
