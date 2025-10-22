@@ -96,7 +96,9 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 fauna by Kellum (1926) demonstrated that it was younger, probably of lower Miocene age, although there was a possibility that might be Oligocene. The additions tend to confirm the lower Miocene age of the formation (Richards, 1943). 
 
 ### Burdigalian
-
+**Baripada beds**
+Signiffcant
+> - **Comments**: The Cenozoic fossiliferous sequences of the Baripada region (BMB) are conformably overlying the Precambrian metamorphic basement. The fossiliferous sequences are conformably overlain by the conglomerate bed of Pleistocene age. This sequence consists of sandstone, shale and limestone beds (Bose, 1904; Mahalik, 2006). Amongst these three units, sandstone lies at the bottom, which is followed by the deposition of shale and limestone (Khatun, 2006). The BMB are confined within limited area (within a radius of 8 km around Baripada), and are well exposed in the course of the Budhabalang river, with gentle dip of 4° to 5° towards south(Vaidyanadhan and Ramakrishnan, 2010, Bhaumik et al., 2017). The sandstone bed and shale bed are tentatively put in Burdigalian. 
 ### Langhian
 ### Serravallian
 ### Tortonian
@@ -106,12 +108,14 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Locality and horizon**: Baripada limestone beds; Baripada, Orissa, India
 > - **References**: (Mehrotra, 1981; Bhaumik et al., 2017)
 > - **Comments**: Integrated approach combining foraminiferal, sedimentological and bulk organic geochemical analyses on limestone unit of Baripada marine Beds reveal the following: Planktic foraminiferal study indicated that the limestone unit in the Baripada marine bed was deposited within the upper Miocene with a time frame ~12.6 to ~8.3 Ma (i.e. Serravallian to Tortonian age) (Bhaumik et al., 2017). Here we tentatively put it in Tortonian.
+
 ### Messinian
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
