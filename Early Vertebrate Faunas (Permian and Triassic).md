@@ -134,7 +134,7 @@
 > - **Age**: Asselian，Early Permian
 > - **Taxa**: Synapsida: Ctenorhachis jacksoni, Dimetrodon booneorum, Dimetrodon limbatus, Dimetrodon natalis, Edaphosaurus boanerges, Lupeosaurus kayi, Ophiacodon retroversus, Ophiacodon uniformis, Secodontosaurus obtusidens. Amphibia: Archeria crassidisca, Cardiocephalus sp., Diadectes sideropelicus, Diplocaulus sp., Eryops megacephalus, Rubeostratilia texensis, Scapanops neglecta, Trimerorhachis insignis, Zatrachys serratus. Platysomus sp., Sagenodus sp., Spermatodus pustulosus. Crustacea: Mamayocaris jaskoskii, Paulocaris jepseni.
 > - **Locality and horizon**: Exposures primarily in Archer, Clay, and northern Montague Counties, Texas, with type locality at a river bluff approximately 3.6 miles north of Ringgold, Montague County (Geolex, 2025).
-> - **References**:
+> - **References**: Lucas et al., 2005; Romer and Price, 1939; Hook and Hotton, 1991; Shelton et al., 2012; Agliano et al., 2021; Johnson, 2013; Modesto, 1995; Shelton and Sander, 2017; Romer, 1957; Konietzko-Meier et al., 2016; Bourget and Anderson, 2011; Schoch and Sues, 2013; Milner and Schoch, 2013; Hotton et al., 2002
 > - **Comments**: 
 
 **Robledo Mountains Formation, south-central New Mexico, USA**
@@ -1384,6 +1384,7 @@ Berman, D. S. (1970). Vertebrate fossils from the Lueders Formation: Lower Permi
 Dalquest, W. W., Kocurko, M. J., & Grimes, J. A. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. Tulane Studies in Geology and Paleontology, 21(3), 1–16.
 
 Wikipedia contributors. (2025). Lueders Formation. In Wikipedia, The Free Encyclopedia. Retrieved October 22, 2025, from https://en.wikipedia.org/wiki/Lueders_Formation
+
 
 
 
