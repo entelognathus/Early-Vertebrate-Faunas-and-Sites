@@ -1416,6 +1416,9 @@ Case, E. C. (1905). Bathygnathus borealis Leidy, and the Permian of Prince
 
 Brink, K. S., Campione, N. E., & Hawthorn, J. R. (2013). Amniote faunal revision of the Pictou Group (Permo‑Carboniferous), Prince Edward Island, Canada. Comptes Rendus Palevol, 12(7–8), 473–485. https://doi.org/10.1016/j.crpv.2013.05.002
 
+de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal, A. R., Freire, P. T. C., Viana Neto, B. C., & da Silva, J. H. (2020). Paleoenvironmental interpretations of Irati and Mangrullo Formations (Permian of Paraná Basin) based on rocks and fossil bones through spectroscopy techniques. Vibrational Spectroscopy, 110, 103110. https://doi.org/10.1016/j.vibspec.2020.103110
+ 
+Chahud, A. (2023). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. Estudios Geológicos, 79(2), e155. https://doi.org/10.3989/egeol.44987.632
 
 
 
