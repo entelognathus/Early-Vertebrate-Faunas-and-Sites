@@ -75,6 +75,14 @@
 > - **Comments**: 
 
 ### Maastrichtian
+####  Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
+> - **Age**: early Maastrichtian
+> - **Taxa**: *Cretolamna biauriculata*
+> - **Locality and horizon**: Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
+> - **References**: (Zalmout and Mustafa, 2001)
+> - **Comments**: 
+
+
 
 
 
