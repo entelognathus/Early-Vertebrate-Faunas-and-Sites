@@ -96,20 +96,25 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 fauna by Kellum (1926) demonstrated that it was younger, probably of lower Miocene age, although there was a possibility that might be Oligocene. The additions tend to confirm the lower Miocene age of the formation (Richards, 1943). 
 
 ### Burdigalian
-####  Baripada limestone beds, Baripada, Orissa
+
+### Langhian
+### Serravallian
+### Tortonian
+####  Baripada limestone beds, Baripada, Orissa/Odisha
 > - **Age**: Burdigalian
 > - **Taxa**: *Carcharhinus robusta*
 > - **Locality and horizon**: Baripada limestone beds; Baripada, Orissa, India
-> - **References**: (Mehrotra, 1981)
-> - **Comments**: The Age of Baripada limestone beds is not exact (Early Miocene). Here, we temporarily unify it as Burdigalian.
-### 
-### 
-### 
+> - **References**: (Mehrotra, 1981; Bhaumik et al., 2017)
+> - **Comments**: Integrated approach combining foraminiferal, sedimentological and bulk organic geochemical analyses on limestone unit of Baripada marine Beds reveal the following: Planktic foraminiferal study indicated that the limestone unit in the Baripada marine bed was deposited within the upper Miocene with a time frame ~12.6 to ~8.3 Ma (i.e. Serravallian to Tortonian age) (Bhaumik et al., 2017). Here we tentatively put it in Tortonian.
+### Messinian
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
+
+
 
 
 
