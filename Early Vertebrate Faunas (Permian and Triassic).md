@@ -145,10 +145,10 @@
 > - **Comments**: 
 
 **Orby Head Formation, Prince Edward Island, Canada**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian，Early Permian
+> - **Taxa**: Synapsida: Dimetrodon borealis. Parareptilia: indeterminate parareptile.
+> - **Locality and horizon**: Coastal exposures of the Orby Head Formation along the north‑central and northeastern coast of Prince Edward Island from Profitts Point to East Point; the formation is the youngest fining‑upward megacyclic sequence of the Pictou Group and consists of basal conglomerates overlain by wacke and red‑bed fluvial deposits (van de Poll, 1983; Brink et al., 2013).
+> - **References**: van de Poll, 1983; Case, 1905; Brink et al., 2013
 > - **Comments**: 
 
 **Irati Formation, Paraná Basin, Brazil**
@@ -1409,6 +1409,7 @@ Shelton, C. D., Sander, P. M., Stein, K., & Winkelhorst, H. (2012). Long bone hi
 Minter, N. J., & Braddy, S. J. (2009). Ichnology of an Early Permian intertidal flat: The Robledo Mountains Formation of southern New Mexico, USA. Special Papers in Palaeontology, 82, 1–107.
 
 Heckert, A. B., Lucas, S. G., Furfey, R. T., & MacDonald, J. P. (2010). Vertebrate paleontology of the Robledo Mountains Member of the Hueco Formation, Doña Ana Mountains, New Mexico. In S. G. Lucas, K. Zeigler & J. A. Spielmann (Eds.), The Permian of central New Mexico (New Mexico Museum of Natural History and Science Bulletin 49, pp. 169–180).
+
 
 
 
