@@ -15,7 +15,8 @@
 > - **Taxa**: Chondrichthyes: Xenacanthus sp. (freshwater xenacanthid shark), Actinopterygii: Progyrolepis sp. (palaeoniscoid fish), Dipnoi (lungfish): Sagenodus sp., emnospondyli (amphibians): Eryops grandis, Platyhystrix rugosus, Zatrachys serratus, Chenoprosopus milleri, Ecolsonia cutlerensis, Lepospondyli: Stegotretus agyrus, Seymouriamorpha: Seymouria sanjuanensis, Diadectomorpha: Limnoscelis paludis, Limnoscelis dynatis, Diadectes lentus, Tseajaia campi, Captorhinidae: Rhiodenticulatus heatoni, Araeoscelidia: Zarcasaurus tanyderus, Synapsida (early pelycosaurs): Oedaleops campi (eothyridid), Aerosaurus wellesi (varanopseid), Ophiacodon mirus (ophiacodontid), Edaphosaurus novomexicanus (edaphosaurid), Sphenacodon ferox (sphenacodontid)
 > - **Locality and horizon**: Exposed across the Four Corners region, notably in the Paradox Basin and Chama Basin. Key fossil sites include Placerville area (western Colorado) and Cañon del Cobre/Arroyo del Agua in north-central New Mexico, as well as Halgaito Formation outcrops in the Monument Valley region of Utah. Vertebrate remains derive from fluvial red-bed strata of the lower Cutler Group (e.g. Halgaito Tongue / El Cobre Canyon Formation), often in channel-fill conglomerates and sandstones near the Pennsylvanian–Permian boundary.
 > - **References**: Lewis and Vaughn, 1965; Hunt and Lucas, 1992; Berman et al., 1985; Lucas et al., 2010;
-> - **Comments**: 
+> - **Comments**: Diadectes fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
+>
 
 **Abo Formation, New Mexico, USA**
 > - **Age**: Early Permian (Cisuralian; middle Wolfcampian to early Leonardian)
@@ -1419,6 +1420,7 @@ Brink, K. S., Campione, N. E., & Hawthorn, J. R. (2013). Amniote
 de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal, A. R., Freire, P. T. C., Viana Neto, B. C., & da Silva, J. H. (2020). Paleoenvironmental interpretations of Irati and Mangrullo Formations (Permian of Paraná Basin) based on rocks and fossil bones through spectroscopy techniques. Vibrational Spectroscopy, 110, 103110. https://doi.org/10.1016/j.vibspec.2020.103110
  
 Chahud, A. (2023). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. Estudios Geológicos, 79(2), e155. https://doi.org/10.3989/egeol.44987.632
+
 
 
 
