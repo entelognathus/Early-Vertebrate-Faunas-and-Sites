@@ -1636,6 +1636,17 @@ Tong, J., Zhou, X., Erwin, D. H., Zuo, J., & Zhao, L. (2006). Fossil fis
 
 Jiang, D.‑Y., Motani, R., Huang, J.‑D., Tintori, A., Hu, Y.‑C., Rieppel, O., Fraser, N. C., Ji, C., Kelley, N. P., Fu, W.‑L., Zhang, R., & others. (2016). A large aberrant stem ichthyosauriform indicating early rise and demise of ichthyosauromorphs in the wake of the end‑Permian extinction. Scientific Reports, 6, 26232. https://doi.org/10.1038/srep26232
 
+Orchard, M. J., & Zonneveld, J.‑P. (2009). The Lower Triassic Sulphur Mountain Formation in the Wapiti Lake area: lithostratigraphy, conodont biostratigraphy, and a new biozonation for the lower Olenekian. Canadian Journal of Earth Sciences, 46(10), 757–790. https://doi.org/10.1139/E09‑051
+
+Neuman, A. G. (2015). Fishes from the Lower Triassic portion of the Sulphur Mountain Formation in Alberta, Canada: geological context and taxonomic composition. Canadian Journal of Earth Sciences, 52(8), 557–568. https://doi.org/10.1139/cjes‑2014‑0165
+ 
+Wendruff, A. J., & Wilson, M. V. H. (2012). A fork‑tailed coelacanth, Rebellatrix divaricerca, gen. et sp. nov. (Actinistia: Rebellatricidae fam. nov.), from the Lower Triassic of western Canada. Journal of Vertebrate Paleontology, 32(3), 499–511. https://doi.org/10.1080/02724634.2012.658919
+
+Mutter, R. J., & Neuman, A. G. (2006). An enigmatic chondrichthyan with Paleozoic affinities from the Lower Triassic of western Canada. Acta Palaeontologica Polonica, 51(2), 271–282. https://doi.org/10.4202/app.2006.0203
+
+Cuthbertson, R. S., Russell, A. P., & Anderson, J. S. (2013). Cranial morphology and relationships of a new grippidian (Ichthyopterygia) from the Vega–Phroso Siltstone Member (Lower Triassic) of British Columbia, Canada. Journal of Vertebrate Paleontology, 33(4), 831–847. https://doi.org/10.1080/02724634.2013.755989
+
+Nicholls, E. L., & Brinkman, D. B. (1993). A new specimen of Utatsusaurus (Reptilia: Ichthyosauria) from the Lower Triassic Sulphur Mountain Formation of British Columbia. Canadian Journal of Earth Sciences, 30(3), 486–490. https://doi.org/10.1139/e93‑037
 
 
 
