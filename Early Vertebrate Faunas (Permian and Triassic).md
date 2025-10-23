@@ -495,10 +495,10 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 Well-dated Spathian bony fish are known from China, Romania, and the western United States.
 
 **Nanlinghu Formation, Anhui, eastern China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**: Nanlinghu Formation, Anhui, eastern China.
-> - **References**:Sun et al., 2013; Tintori et al., 2014b
+> - **Age**: late Olenekian (Spathian), Early Triassic
+> - **Taxa**: Sauropterygia: Majiashanosaurus discocoracoidis. Actinopterygii: Chaohuperleidus primus, Chaohuichthys majiashanensis.
+> - **Locality and horizon**: Type section at Nanling Lake near Tongling District, Anhui Province. Fossil-bearing horizon at Majiashan Quarry, Chaohu, Anhui Province; bed 719 in the Upper Member of the Nanlinghu Formation, ~27 m above its base, within the ammonoid Subcolumbites zone (Spathian, Olenekian) (Jiang et al., 2016).
+> - **References**: Wang 1984; Jiang et al., 2014; Sun et al., 2013; Tintori et al., 2014b, Tong et al., 2006; Jiang et al., 2016.
 > - **Comments**: 
 
 **Romania**
@@ -1622,6 +1622,7 @@ Anderson, J. S., Henrici, A. C., Sumida, S. S., Martens, T., & B
 Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001). A new species of Dimetrodon (Synapsida: Sphenacodontidae) from the Lower Permian of Germany records first occurrence of genus outside of North America. Canadian Journal of Earth Sciences, 38(5), 803–812. https://doi.org/10.1139/e00-106
 
 Berman, D. S., Sumida, S. S., Henrici, A. C., Scott, D., Reisz, R. R., & Martens, T. (2021). The Early Permian bolosaurid Eudibamus cursoris: earliest reptile to combine parasagittal stride and digitigrade posture during quadrupedal and bipedal locomotion. Frontiers in Ecology and Evolution, 9, 674173. https://doi.org/10.3389/fevo.2021.674173
+
 
 
 
