@@ -1837,6 +1837,21 @@ Sun, Z., Jiang, D., Ji, C., & Hao, W. (2016). Integrated biochronology for 
 
 Wang, X., Lu, H., Jiang, D., Zhou, M., & Sun, Z. (2020). A new specimen of Yunguisaurus (Reptilia; Sauropterygia) from the Ladinian (Middle Triassic) Zhuganpo Member, Falang Formation, Guizhou, China and the restudy of Dingxiaosaurus. Palaeoworld, 29(1), 137–150. https://doi.org/10.1016/j.palwor.2019.05.006
 
+Barnes, V. E. (1987). *Geologic atlas of Texas, Wichita Falls–Lawton sheet.* University of Texas, Bureau of Economic Geology (1 sheet).  
+Beede, J. W., & Waite, V. V. (1918). *The geology of Runnels County.* University of Texas Bulletin.  
+Berman, D. S. (1968). Lungfish from the Lueders Formation (Lower Permian, Texas) and the *Gnathorhiza*–Lepidosirenid ancestry questioned. *Journal of Paleontology.*  
+Berman, D. S., & Johnson, G. D. (1978). *Lower Permian vertebrates of Texas.*  
+Dalquest, W. W., & Kocurko, M. J. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. *Tulane Studies in Geology and Paleontology*, 21 (3).  
+Johnson, G. D. (1981). Hybodontoidei (Chondrichthyes) from the Wichita–Albany Group (Early Permian) of Texas. *Journal of Vertebrate Paleontology.*  
+Lucas, S. G., Voigt, S., Lerner, A. J., & Nelson, W. J. (2011). Late Early Permian continental ichnofauna from Lake Kemp, north-central Texas, USA. *Palaeogeography, Palaeoclimatology, Palaeoecology.*  
+Maeda, H., Mapes, R., & Mapes, G. (2003). Taphonomic features of a Lower Permian beached cephalopod assemblage from central Texas. *Lethaia.*  
+Mamay, S. H. (1966). *Tinsleya, a new genus of seed-bearing callipterid plants from the Permian of north-central Texas.* U.S. Geological Survey Professional Paper.  
+Miller, A. K., & Youngquist, W. (1947). Lower Permian cephalopods from the Texas Colorado River valley. *University of Kansas Paleontological Contributions.*  
+Nelson, W. J., Hook, R. W., & Tabor, N. (2001). Clear Fork Group (Leonardian, Lower Permian) of north-central Texas. *Oklahoma Geological Survey Circular.*  
+Olson, E. C. (1958). Summary, review, and integration of the geology and the faunas. *Fieldiana: Geology.*  
+Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. *Texas Memorial Museum Bulletin.*  
+Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. *University of Texas Bulletin.*  
+Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. *University of Texas Bulletin.*
 
 
 
