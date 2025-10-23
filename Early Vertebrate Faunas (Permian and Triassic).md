@@ -1449,6 +1449,24 @@ Ivanov, A. O., Duffin, C. J., & Naugolnykh, S. V. (2017). A new euselach
 
 Karpinsky, A. P. (1899). Über die Reste von Edestiden und die neue Gattung Helicoprion. Verhandlungen der Russisch‑Kaiserlichen Mineralogischen Gesellschaft, Series 2 36, 361–475.
 
+Berman & Martens, 1993; Berman et al., 1998; Anderson et al., 2008; Berman et al., 2001; Berman et al., 2021.
+
+Comments: The Bromacker vertebrate assemblage is unusual among Early Permian deposits: aquatic and semi‑terrestrial forms are absent, basal synapsids (pelycosaurs) are rare, and herbivorous tetrapods (e.g., diadectids) are abundant, suggesting an upland ecosystem dominated by terrestrial herbivores
+bioone.org
+cdnsciencepub.com
+.
+
+References list
+
+Berman, D. S., & Martens, T. (1993). First occurrence of Seymouria (Amphibia: Batrachosauria) in the Lower Permian Rotliegend of central Germany. Annals of Carnegie Museum, 62(1), 63–79. https://doi.org/10.5962/p.226648
+
+Berman, D. S., Sumida, S. S., & Martens, T. (1998). Diadectes (Diadectomorpha: Diadectidae) from the early Permian of central Germany, with description of a new species. Annals of Carnegie Museum, 67(1), 53–93. https://doi.org/10.5962/p.215205
+
+Anderson, J. S., Henrici, A. C., Sumida, S. S., Martens, T., & Berman, D. S. (2008). Georgenthalia clavinasica, a new genus and species of dissorophoid Temnospondyli from the Early Permian of Germany, and the relationships of the family Amphibamidae. Journal of Vertebrate Paleontology, 28(1), 61–75.
+
+Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001). A new species of Dimetrodon (Synapsida: Sphenacodontidae) from the Lower Permian of Germany records first occurrence of genus outside of North America. Canadian Journal of Earth Sciences, 38(5), 803–812. https://doi.org/10.1139/e00-106
+
+Berman, D. S., Sumida, S. S., Henrici, A. C., Scott, D., Reisz, R. R., & Martens, T. (2021). The Early Permian bolosaurid Eudibamus cursoris: earliest reptile to combine parasagittal stride and digitigrade posture during quadrupedal and bipedal locomotion. Frontiers in Ecology and Evolution, 9, 674173. https://doi.org/10.3389/fevo.2021.674173
 
 
 
