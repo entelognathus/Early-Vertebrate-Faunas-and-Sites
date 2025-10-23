@@ -203,25 +203,26 @@
 > - **Comments**: 
 
 **Admiral Formation, north-central Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**:late Wolfcampian to early Leonardian, Early Permian.
+> - **Taxa**: Marine cephalopods (Nautilida, Ammonoidea): *Stearceras* sp., *Stenopoceras* sp., *Foordiceras ornatissimum*, *Liroceras globulare*, *Metacoceras cheneyi*, *Akmilleria adkinsi*, *Neopronorites* sp., *Pseudorthoceras knoxense*, *Bitaunioceras texanum* and ammonoid *Properrinites boesei*; gastropods: *Bellerophon (Bellerophon) complanatus* and *B. (Bellerophon) parvicristus* .
+> - **Locality and horizon**: Basal formation of the Wichita Group; forms a continuous high escarpment through Shackelford, Callahan and Coleman counties, central Texas (Plummer & Moore, 1922). In the Colorado River valley it encompasses, from base to top, the Lost Creek shale, Hords Creek limestone, Wildcat Creek shale and Overall limestone members. Fossil-bearing beds at the Coleman site belong to the Wildcat Creek Member (Lower Permian, Wolfcampian) (Maeda et al., 2003).
+> - **References**: Plummer & Moore, 1922; Miller & Youngquist, 1947; Barnes, 1987; Maeda et al., 2003
 > - **Comments**:
 
 **Lueders Formation, Baylor County, Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian–Kungurian, Early Permian
+> - **Taxa**: Amphibians (nectrideans and eryopids): *Crossotelos annulatus*, *Diplocaulus magnicornis*, *Eryops megacephalus* and *Trimerorhachis* sp.. bony fish: *Acrolepis* sp., lungfish *Gnathorhiza serrata*, palaeonisciforms *Lawnia cf. L. taylorensis*, *Luederia kempi*, ?*Platysomus palmaris*, lungfish *Sagenodus* and freshwater palaeonisciform *Schaefferichthys leudersensis*; acanthodian fish: *Acanthodes* sp.; cartilaginous fish: *Acrodus*, petalodonts *Janassa*, xenacanths: *Barbclabornia luedersensis*, *Orthacanthus platypternus* and *O. texensis*; synapsids including *Dimetrodon* sp.; 
+> - **Locality and horizon**: Top unit of the Albany Group consisting of interbedded shale and limestone; includes the Lake Kemp and Maybelle limestone members and underlies the Clear Fork Group. Fossil-rich deposits occur in the Maybelle Member at Lake Kemp Dam and along the Salt Fork of the Brazos River near Miller’s Creek (22 km south of Seymour) (Dalquest & Kocurko, 1988). The dolostone matrix of the Maybelle Member records shallow, near-shore marine environments, whereas darker shales yield freshwater and terrestrial assemblages.
+> - **References**: Dalquest & Kocurko, 1988; Johnson, 1981; Berman, 1968; Mamay, 1966; Berman & Johnson, 1978
 > - **Comments**:
 
 **Arroyo Formation, north-central Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Kungurian, the Early Permian 
+> - **Taxa**: *Orthacanthus platypternus*; lungfish: *Gnathorhiza*; amphibians: *Diplocaulus*, *Trimerorhachis*. eryopids: *Eryops*, seymouriamorphs: *Seymouria*, diadectomorphs: *Diadectes*, dissorophoid temnospondyls: *Acheloma*, *Broiliellus*, *Aspidosaurus*. microsaurs: *Pantylus*, *Microbrachis* and *Pelodosotis* (Olson, 1989); pelycosaurian synapsids: *Dimetrodon* spp., edaphosaurids: *Edaphosaurus pogonias*, varanopids: *Secodontosaurus*, *Varanosaurus*.  eureptiles: *Captorhinus*, *Labidosaurus*. araeoscelid: *Araeoscelis*.
+> - **Locality and horizon**: Basal unit of the Clear Fork Group; extends northeast from Concho County to Wilbarger County (Sellars, 1932). In the “southern area” (Runnels and Taylor counties) the formation comprises a sequence of terrestrial mudstones with interbedded marine limestones—Rainey, Lytle, Kirby Lake and Standpipe limestones—that preserve marine and reworked terrestrial fossils (Beede & Waite, 1918). In the “classic area” between the Salt Fork Brazos and Red River, red-clay floodplain deposits in Baylor, Wilbarger and Wichita counties yield abundant Early Permian tetrapod assemblages and plant impressions (Olson, 1989).
+> - **References**: Beede & Waite, 1918; Sellars, 1932; Olson, 1958; Olson, 1989; Nelson et al., 2001; Lucas et al., 2011.
+> - **Comments**: 
+
 
 **Vale Formation, Knox County, Texas, USA**
 > - **Age**:
@@ -1835,6 +1836,7 @@ Liu, G., Yin, G., Wang, X., Wang, S., & Huang, L. (2002). On a new marin
 Sun, Z., Jiang, D., Ji, C., & Hao, W. (2016). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou Province, South China. Journal of Asian Earth Sciences, 118, 101–119. https://doi.org/10.1016/j.jseaes.2016.01.004
 
 Wang, X., Lu, H., Jiang, D., Zhou, M., & Sun, Z. (2020). A new specimen of Yunguisaurus (Reptilia; Sauropterygia) from the Ladinian (Middle Triassic) Zhuganpo Member, Falang Formation, Guizhou, China and the restudy of Dingxiaosaurus. Palaeoworld, 29(1), 137–150. https://doi.org/10.1016/j.palwor.2019.05.006
+
 
 
 
