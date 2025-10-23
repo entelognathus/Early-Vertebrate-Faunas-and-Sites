@@ -33,6 +33,12 @@
 > - **Locality and horizon**: Thanet Formation, Herne Bay, Kent, UK
 > - **References**: (Ward, 1973)
 > - **Comments**:
+#### 
+> - **Age**: Thanetian, Sessao, Niger
+> - **Taxa**: *Atlantitrygon sudrei*, 
+> - **Locality and horizon**: 
+> - **References**: (Cappetta, 1972)
+> - **Comments**:
 ## Eocene
 ### Ypresian
 #### Oldhaven Formation, Herne Bay, Kent, UK
@@ -132,6 +138,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
