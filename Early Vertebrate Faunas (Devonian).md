@@ -811,6 +811,12 @@ Gauja stage (late Givetian)
 > - *Canowindara grossi* Thompson, 1973. 
 Mandageria fairfaxi
 
+**Upper zone of Picos Member, Pimenteira Formation, Eifelian to Frasnian, Picos, Piauí, Brazil**
+> - **Age**: Frasnian
+> - **Taxa**: *Ctenacanthus kegeli*
+> - **Locality and horizon**: Upper zone of Picos Member, Pimenteira Formation, 
+> - **References**: (Da Costa Machado, 2016; Neto, 2023; )
+> - **Comments**: The age of the Upper zone of Picos Member, Pimenteira Formation is tentively put in Frasnian. 
 
 
 
@@ -1015,6 +1021,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
