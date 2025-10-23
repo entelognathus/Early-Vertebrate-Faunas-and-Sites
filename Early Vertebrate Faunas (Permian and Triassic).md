@@ -196,10 +196,10 @@
 > - **Comments**: 
 
 **The Rotliegend Group, Germany**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian, Early Permian
+> - **Taxa**: Temnospondyli: Georgenthalia clavinasica. Seymouriamorpha: Seymouria sanjuanensis. Diadectomorpha: Diadectes sp.. Synapsida (Sphenacodontidae): Dimetrodon teutonis. Bolosauridae: Eudibamus cursoris.
+> - **Locality and horizon**: Fossils derive from the Bromacker quarry in the Tambach Formation (Upper Rotliegend), within the Tambach Basin of the Thuringian Forest in central Germany; exposures belong to the upper beds (“Bromacker horizon”) of the Artinskian-stage Tambach Formation
+> - **References**: Berman & Martens, 1993; Berman et al., 1998; Anderson et al., 2008; Berman et al., 2001; Berman et al., 2021
 > - **Comments**: 
 
 
@@ -1448,6 +1448,7 @@ Mironenko, A. A. (2022). Lower and upper jaws of the Early Permian goniatitid
 Ivanov, A. O., Duffin, C. J., & Naugolnykh, S. V. (2017). A new euselachian shark from the early Permian of the Middle Urals, Russia. Acta Palaeontologica Polonica, 62(2), 289–298. https://doi.org/10.4202/app.00347.2017
 
 Karpinsky, A. P. (1899). Über die Reste von Edestiden und die neue Gattung Helicoprion. Verhandlungen der Russisch‑Kaiserlichen Mineralogischen Gesellschaft, Series 2 36, 361–475.
+
 
 
 
