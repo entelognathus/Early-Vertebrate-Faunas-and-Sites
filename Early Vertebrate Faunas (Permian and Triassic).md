@@ -1435,6 +1435,10 @@ Damiani, R. J., & Rubidge, B. S. (2003). A review of the South African temno
 
 Verrière, A., & Fröbisch, J. (2022). Ontogenetic, dietary, and environmental shifts in Mesosauridae. PeerJ, 10, e13866. https://doi.org/10.7717/peerj.13866
 
+Willink, R. J., & Kapitany, T. (2024). The crinoid Jimbacrinus bostocki from the Lower Permian Cundlego Formation near Gascoyne Junction, Western Australia. Alcheringa: An Australasian Journal of Palaeontology, 48(2), 298–312. https://doi.org/10.1080/03115518.2024.2323461
+
+Mory, A. J., & Backhouse, J. (1997). Permian stratigraphy and palynology of the Carnarvon Basin, Western Australia. Western Australia Geological Survey Report 51, 46 pp.
+Archbold, N. W., & Thomas, G. A. (1985). Permian Spiriferellinae (Brachiopoda) from Western Australia. Alcheringa, 9(1), 35–48.
 
 
 
