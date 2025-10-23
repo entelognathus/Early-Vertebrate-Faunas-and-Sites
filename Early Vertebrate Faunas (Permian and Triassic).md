@@ -1623,6 +1623,15 @@ Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001
 
 Berman, D. S., Sumida, S. S., Henrici, A. C., Scott, D., Reisz, R. R., & Martens, T. (2021). The Early Permian bolosaurid Eudibamus cursoris: earliest reptile to combine parasagittal stride and digitigrade posture during quadrupedal and bipedal locomotion. Frontiers in Ecology and Evolution, 9, 674173. https://doi.org/10.3389/fevo.2021.674173
 
+Wang, G. (1984). Marine Triassic of Anhui (in Chinese). Anhui Science & Technology Press, Hefei.
+
+Jiang, D.‑Y., Motani, R., Tintori, A., Rieppel, O., Chen, G.‑B., Huang, J.‑D., Zhang, R., Sun, Z.‑Y., & Ji, C. (2014). The Early Triassic eosauropterygian Majiashanosaurus discocoracoidis, gen. et sp. nov. (Reptilia, Sauropterygia), from Chaohu, Anhui Province, People's Republic of China. Journal of Vertebrate Paleontology, 34(5), 1044‑1052. https://doi.org/10.1080/02724634.2014.846264
+
+Sun, Z., Tintori, A., Jiang, D., & Motani, R. (2013). A new perleidid from the Spathian (Olenekian, Early Triassic) of Chaohu, Anhui Province, China. Rivista italiana di Paleontologia e Stratigrafia, 119(3), 325‑335. https://doi.org/10.13130/2039-4942/6040
+
+Tong, J., Zhou, X., Erwin, D. H., Zuo, J., & Zhao, L. (2006). Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui Province, China. Journal of Paleontology, 80(1), 146‑161. https://doi.org/10.1666/0022-3360(2006)080[0146:FFFTLT]2.0.CO;2
+
+Jiang, D.‑Y., Motani, R., Huang, J.‑D., Tintori, A., Hu, Y.‑C., Rieppel, O., Fraser, N. C., Ji, C., Kelley, N. P., Fu, W.‑L., Zhang, R., & others. (2016). A large aberrant stem ichthyosauriform indicating early rise and demise of ichthyosauromorphs in the wake of the end‑Permian extinction. Scientific Reports, 6, 26232. https://doi.org/10.1038/srep26232
 
 
 
