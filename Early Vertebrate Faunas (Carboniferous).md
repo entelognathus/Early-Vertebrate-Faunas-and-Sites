@@ -598,7 +598,13 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Locality and horizon**: Oscar Formation; Waurika #1 site, Jefferson County, southern Oklahoma, USA
 > - **References**: (Maisey, 1983; Shelton, 1979)
 > - **Comments**: Oscar Group, Preferred name of the Oklahoma Geol. Survey rather than Kansas names Council Grove and Chase. Described from Noble County, central northern Oklahoma. Includes (descending) Herington Limestone, Enterprise Shale, Winfield Limestone, Doyle Shale, Fort Riley Limestone, Matfield Shale, Wreford Limestone, Garrison Shale, and, in subsurface, Witney (Hodges) sand, Cottonwood Limestone, Hotson sand, and Neva Limestone. Total thickness about 650 feet; outcrop thickness about 300 feet. Overlies Vanoss Group (in subsurface); underlies Sumner Group. **Age is latest Pennsylvanian (Gearyan), based on fossil data (see Branson, 1962; Wilson and Rashid [abs.], 1971; Clendening [abs.], 1971); previously considered earliest Permian**. From (Shelton, 1979, Geology and mineral resources of Noble County, Oklahoma, with a chapter on petroleum by J.W. Shelton and W.A. Jenkins and a chapter on water resources by R.H. Bingham: Oklahoma Geological Survey Bulletin, no. 128, 66 p.)
-> - 
+
+**Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau**
+> - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
+> - **Taxa**: *Cladodus parauariensis*, 
+> - **Locality and horizon**: Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
+> - **References**: (Silva-Santos, 1967)
+> - **Comments**:
 ## References
 1. Sepkoski JJ (2002) A compendium of fossil marine animal genera. Bull Am Paleont 363:1-560.
 
@@ -1290,6 +1296,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
