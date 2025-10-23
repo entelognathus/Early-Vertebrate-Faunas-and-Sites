@@ -629,10 +629,10 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 Romano (2021):
 
 **Yangliujing Formation, Guanling, Guizhou, China**
-> - **Age**: early Ladinian.
-> - **Taxa**: 
-> - **Locality and horizon**: Yangliujing Formation, Zhuganpo village, Guanling, Guizhou, China
-> - **References**: Chen et al. (2007)
+> - **Age**: late Anisian–Ladinian, Middle Triassic
+> - **Taxa**: Reptilia (Ichthyosauria?): Dingxiaosaurus luyinensis
+> - **Locality and horizon**:grey‑black middle‑ to thin‑bedded limestones at a quarry of the Luyin Cement Plant, c. 150 m west of Luyin village in the Dingxiao Economic Development Zone (Guanling County, Guizhou, China); Middle Triassic (Ladinian) Yangliujing Formation
+> - **References**: Chen et al., 2007; Liu et al., 2002; Sun et al., 2016; Wang et al., 2020.
 > - **Comments**:
 
 **Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China**
@@ -1647,6 +1647,7 @@ Mutter, R. J., & Neuman, A. G. (2006). An enigmatic chondrichthyan
 Cuthbertson, R. S., Russell, A. P., & Anderson, J. S. (2013). Cranial morphology and relationships of a new grippidian (Ichthyopterygia) from the Vega–Phroso Siltstone Member (Lower Triassic) of British Columbia, Canada. Journal of Vertebrate Paleontology, 33(4), 831–847. https://doi.org/10.1080/02724634.2013.755989
 
 Nicholls, E. L., & Brinkman, D. B. (1993). A new specimen of Utatsusaurus (Reptilia: Ichthyosauria) from the Lower Triassic Sulphur Mountain Formation of British Columbia. Canadian Journal of Earth Sciences, 30(3), 486–490. https://doi.org/10.1139/e93‑037
+
 
 
 
