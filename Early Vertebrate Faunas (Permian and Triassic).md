@@ -160,10 +160,10 @@
 > - **Comments**: 
 
 **Mangrullo Formation, Paraná Basin, Uruguay**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian, Early Permian
+> - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum
+> - **Locality and horizon**: Exposures cropping out in the Cerro Largo Department of northeastern Uruguay, especially at the Estancia “El Barón” locality, where the Mangrullo Formation (∼40 m thick) consists predominantly of laminated oil shale, claystone and siltstone beds of the Cerro Largo Group; fossiliferous horizons in the lower mudstone and claystone layers yield the mesosaurid community (Piñeiro et al., 2011; Calisto et al., 2022).
+> - **References**: de Queiroz et al., 2020; Piñeiro et al., 2011; Calisto et al., 2022
 > - **Comments**: 
 
 **Whitehill Formation, Karoo Basin, South Africa & Namibia**
@@ -1420,6 +1420,7 @@ Brink, K. S., Campione, N. E., & Hawthorn, J. R. (2013). Amniote
 de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal, A. R., Freire, P. T. C., Viana Neto, B. C., & da Silva, J. H. (2020). Paleoenvironmental interpretations of Irati and Mangrullo Formations (Permian of Paraná Basin) based on rocks and fossil bones through spectroscopy techniques. Vibrational Spectroscopy, 110, 103110. https://doi.org/10.1016/j.vibspec.2020.103110
  
 Chahud, A. (2023). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. Estudios Geológicos, 79(2), e155. https://doi.org/10.3989/egeol.44987.632
+
 
 
 
