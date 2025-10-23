@@ -1648,6 +1648,11 @@ Cuthbertson, R. S., Russell, A. P., & Anderson, J. S. (2013).
 
 Nicholls, E. L., & Brinkman, D. B. (1993). A new specimen of Utatsusaurus (Reptilia: Ichthyosauria) from the Lower Triassic Sulphur Mountain Formation of British Columbia. Canadian Journal of Earth Sciences, 30(3), 486–490. https://doi.org/10.1139/e93‑037
 
+Liu, G., Yin, G., Wang, X., Wang, S., & Huang, L. (2002). On a new marine reptile from the Middle Triassic Yangliujing Formation of Guizhou, China. Geological Journal of China Universities, 8(2), 220–225.
+
+Sun, Z., Jiang, D., Ji, C., & Hao, W. (2016). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou Province, South China. Journal of Asian Earth Sciences, 118, 101–119. https://doi.org/10.1016/j.jseaes.2016.01.004
+
+Wang, X., Lu, H., Jiang, D., Zhou, M., & Sun, Z. (2020). A new specimen of Yunguisaurus (Reptilia; Sauropterygia) from the Ladinian (Middle Triassic) Zhuganpo Member, Falang Formation, Guizhou, China and the restudy of Dingxiaosaurus. Palaeoworld, 29(1), 137–150. https://doi.org/10.1016/j.palwor.2019.05.006
 
 
 
