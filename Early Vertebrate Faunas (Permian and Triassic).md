@@ -1440,6 +1440,10 @@ Willink, R. J., & Kapitany, T. (2024). The crinoid Jimbacrinus bostock
 Mory, A. J., & Backhouse, J. (1997). Permian stratigraphy and palynology of the Carnarvon Basin, Western Australia. Western Australia Geological Survey Report 51, 46 pp.
 Archbold, N. W., & Thomas, G. A. (1985). Permian Spiriferellinae (Brachiopoda) from Western Australia. Alcheringa, 9(1), 35–48.
 
+Karpinsky, A. P. (1916). On a new species of Helicoprion (Helicoprion clerci, n. sp.). Bulletin de l’Académie Impériale des Sciences de Saint Pétersbourg, 6th Series, 10(9), 701–708.
+Naugolnykh, S. V. (2018). Artinskian (Early Permian) sea basin and its biota (Krasnoufimsk, Cis‑Urals). Stratigraphy and Geological Correlation, 26(7), 734–754. https://doi.org/10.1134/S0869593818070080
+
+Mironenko, A. A. (2022). Lower and upper jaws of the Early Permian goniatitid from the Divjinskian Formation (Artinskian Stage, Cisuralian, Lower Permian). Lethaia, 55(4), — pages. (Exact page numbers not available from the accessible source).
 
 
 
