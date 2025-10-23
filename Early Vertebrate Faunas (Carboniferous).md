@@ -11,7 +11,7 @@
 ### Tournaisian, Early Mississipian, Carboniferous
 **Köprülü Formation, Zap Valley, Hakkari, SE Turkey**
 > - **Age**: Tournaisian
-> - **Taxa**: Cochliodontiformes: *Cochliodus sp.*, **
+> - **Taxa**: Cochliodontiformes: *Cochliodus* sp.
 > - **Locality and horizon**: Köprülü Formation, Zap Valley, Hakkari, SE Turkey
 > - **References**: (Janvier, 1984)
 > - **Comments**: 
@@ -33,7 +33,7 @@
 > USA: Salem Limestone; Burlington limestone;
 
 **Horton Bluff and Albert Formations, Bay of Fundy, Canada**
-> - **Age**: Early/mid-Tournaisian.
+> - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Elonichthys ellsi*, *Elonichthys browni*, *Elonichthyes sp.*, *Rhadinichthys alberti*, *Rhadinichthys sp.*, *Acrolepis hortonensis*, *Palaeoniscus sp.*
 >> - Dipnoi: Unnamed ctenodont.
@@ -47,7 +47,7 @@
 > - **Comments**: Environment. Non-marine, lacustrine with marine 
 
 **Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia**
-> - **Age**: Early/mid-Tournaisian. 
+> - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Oxypteriscus minimus*, *Ministrella longicaudata*, *Palaeobergia microlepis*, *Bishofia lucida*, *Aetheretmon sp.*, *Ganolepis gracilis*, *Gyrolepidotus schmidtii*, *Grassator bidens*.
 >> - Megalichthyidae: *Rhizodopsis savenkovi*, *Greiserolepis minusensis*.
@@ -59,7 +59,7 @@
 > - **Comments**: Non-marine, brackish lagoon or lake. 
 
 **Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
-> - **Age**: Early/mid-Tournaisian.
+> - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: Novogonatodus kasantsevae, Mansfieldiscus sweeti, Mansfieldiscus gibbus.
 >> - Dipnoi: Delatitia breviceps.
@@ -71,11 +71,11 @@
 > - **Comments**: Non-marine, fluvial, floodplain. 
 
 **Foulden fish beds, Cementstone Group, Berwickshire, Scotland**
-> - **Age**: Mid/late Tournaisian.
+> - **Age**: Middle to late Tournaisian.
 > - **Taxa**:
->> - Actinopterygii: Styracopterus fulcratus, Phanerosteon ovensi, Strepheoschema fouldensis, Aetheretmon valentiacum, Cosmoptychius striatus, Rhadinichthys sp.
+>> - Actinopterygii: *Styracopterus fulcratus*, *Phanerosteon ovensi*, *Strepheoschema fouldensis*, *Aetheretmon valentiacum*, *Cosmoptychius striatus*, *Rhadinichthys* sp.
 >> - Dipnoi: Unnamed dipnoan.
->> - Rhizodontida: Strepsodus aulaconamensis, Strepsodus nov. sp.
+>> - Rhizodontida: *Strepsodus aulaconamensis*, *Strepsodus* nov. sp.
 >> - Actinistia: Rhabdoderma sp.
 >> - Holocephalii: Lophosteus sp.
 >> - Gyracanthida: Gyracanthides sp.
@@ -1290,6 +1290,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
