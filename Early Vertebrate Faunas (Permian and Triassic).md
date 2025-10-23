@@ -192,7 +192,7 @@
 > - **Age**: Artinskian, Early Permian
 > - **Taxa**: Chondrichthyes: Artiodus prominens, Helicoprion bessonovi
 > - **Locality and horizon**: Krasnoufimskie Klyuchiki quarry near the town of Krasnoufimsk, Sverdlovsk Region, Middle Urals, Russia; deposits belong to the Divya Formation within the Sarginskian Regional Stage (upper Artinskian) (Ivanov et al., 2017).
-> - **References**:
+> - **References**: Ivanov et al., 2017; Karpinsky, 1899.
 > - **Comments**: 
 
 **The Rotliegend Group, Germany**
@@ -1445,6 +1445,9 @@ Naugolnykh, S. V. (2018). Artinskian (Early Permian) sea basin and its biota
 
 Mironenko, A. A. (2022). Lower and upper jaws of the Early Permian goniatitid from the Divjinskian Formation (Artinskian Stage, Cisuralian, Lower Permian). Lethaia, 55(4), — pages. (Exact page numbers not available from the accessible source).
 
+Ivanov, A. O., Duffin, C. J., & Naugolnykh, S. V. (2017). A new euselachian shark from the early Permian of the Middle Urals, Russia. Acta Palaeontologica Polonica, 62(2), 289–298. https://doi.org/10.4202/app.00347.2017
+
+Karpinsky, A. P. (1899). Über die Reste von Edestiden und die neue Gattung Helicoprion. Verhandlungen der Russisch‑Kaiserlichen Mineralogischen Gesellschaft, Series 2 36, 361–475.
 
 
 
