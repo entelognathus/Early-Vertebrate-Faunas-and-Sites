@@ -532,12 +532,15 @@ Another probable Spathian occurrence is known from Spitsbergen (a specimen of Sa
 > - **Comments**: 
 The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
 
-**Sulphur Mountain Formation Fauna, Olenekian, Early Triassic** 
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+**Sulphur Mountain Formation Fauna, Wapiti Lake area, British Columbia, Canada** 
+> - **Age**: Olenekian, Early Triassic
+> - **Taxa**: Actinopterygii: Boreosomus spp., Birgeria sp., Bobasatrania canadensis, Australosomus sp., Saurichthys sp., Parasemionotus spp.. Actinistia: Rebellatrix divaricerca. Chondrichthyes: Listracanthus pectenatus. Thalattosauria: Agkistrognathus campbelli, Paralonectes merriami, Thalattosaurus borealis, Wapitisaurus problematicus. Ichthyosauria: Grippia longirostris, Utatsusaurus sp., Parvinatator wapitiensis.
+> - **Locality and horizon**: Marine vertebrate fossils are preserved in the Vega–Phroso Siltstone Member of the Sulphur Mountain Formation at exposures near Wapiti Lake Provincial Park in British Columbia, Canada; this member spans the Smithian–Spathian intervals of the Lower Triassic (Orchard & Zonneveld, 2009; Nicholls & Brinkman, 1993).
+> - **References**: Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
+> - **Comments**:
+
+
+
 > Wapiti Lake locality, British Columbian, Canada
 > Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
 > Rebellatrix divaricerca, Helmolepis and Birgeria 
@@ -1632,6 +1635,7 @@ Sun, Z., Tintori, A., Jiang, D., & Motani, R. (2013). A new perleidid from
 Tong, J., Zhou, X., Erwin, D. H., Zuo, J., & Zhao, L. (2006). Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui Province, China. Journal of Paleontology, 80(1), 146‑161. https://doi.org/10.1666/0022-3360(2006)080[0146:FFFTLT]2.0.CO;2
 
 Jiang, D.‑Y., Motani, R., Huang, J.‑D., Tintori, A., Hu, Y.‑C., Rieppel, O., Fraser, N. C., Ji, C., Kelley, N. P., Fu, W.‑L., Zhang, R., & others. (2016). A large aberrant stem ichthyosauriform indicating early rise and demise of ichthyosauromorphs in the wake of the end‑Permian extinction. Scientific Reports, 6, 26232. https://doi.org/10.1038/srep26232
+
 
 
 
