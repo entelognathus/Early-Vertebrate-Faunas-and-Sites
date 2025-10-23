@@ -1421,6 +1421,13 @@ de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal,�
  
 Chahud, A. (2023). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. Estudios Geológicos, 79(2), e155. https://doi.org/10.3989/egeol.44987.632
 
+de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal, A. R., Freire, P. T. C., Viana Neto, B. C., & da Silva, J. H. (2020). Paleoenvironmental interpretations of Irati and Mangrullo Formations (Permian of Paraná Basin) based on rocks and fossil bones through spectroscopy techniques. Vibrational Spectroscopy, 110, 103110. https://doi.org/10.1016/j.vibspec.2020.103110
+
+Piñeiro, G., Ramos, A., Goso, C., Scarabino, F., & Laurin, M. (2011). Unusual environmental conditions preserve a Permian mesosaur‑bearing Konservat‑Lagerstätte from Uruguay. Acta Palaeontologica Polonica, 57(2), 299–318. https://doi.org/10.4202/app.2010.0113
+
+Calisto, V., Piñeiro, G., & Lara, M. B. (2022). Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay. In Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay (pp. 37–37). Asociación Paleontológica Argentina / Consejo Nacional de Investigaciones Científicas y Técnicas – Instituto de Bio y Geociencias del NOA / Universidad Nacional de Salta.
+
+
 
 
 
