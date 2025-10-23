@@ -175,10 +175,10 @@
 
 
 **Cundlego Formation, Carnarvon & Perth Basins, Western Australia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian, Cisuralian, Early Permian
+> - **Taxa**: Echinodermata: Jimbacrinus bostocki. Brachiopoda: Spiriferella cundlegoensis, Fusispirifer cundlegoensis, Imperiospira sp., Hoskingia kennediensis
+> - **Locality and horizon**: Calcareous silty sandstone beds of the Cundlego Formation (Byro Group) exposed in the bed of the Gascoyne River just west of Gascoyne Junction and at Jimba Jimba Station in the Carnarvon Basin; the formation represents an early‑Permian marine deposit in a flooded interior rift basin within the Carnarvon and Perth basins (Willink & Kapitany, 2024; Mory & Backhouse, 1997).
+> - **References**: Willink & Kapitany, 2024; Mory & Backhouse, 1997; Archbold & Thomas, 1985.
 > - **Comments**:
 
 **Divjinskian Formation, Krasnoufimsk, Cis-Urals, Russia**
@@ -1434,6 +1434,7 @@ Modesto, S. P. (2010). The postcranial skeleton of the aquatic parareptile Mes
 Damiani, R. J., & Rubidge, B. S. (2003). A review of the South African temnospondyl amphibian record. Palaeontologia Africana, 39, 21–36.
 
 Verrière, A., & Fröbisch, J. (2022). Ontogenetic, dietary, and environmental shifts in Mesosauridae. PeerJ, 10, e13866. https://doi.org/10.7717/peerj.13866
+
 
 
 
