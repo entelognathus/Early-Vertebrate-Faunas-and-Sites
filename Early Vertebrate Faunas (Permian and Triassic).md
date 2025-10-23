@@ -182,10 +182,10 @@
 > - **Comments**:
 
 **Divjinskian Formation, Krasnoufimsk, Cis-Urals, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian Stage, Cisuralian， Early Permian
+> - **Taxa**: Chondrichthyes: Parahelicoprion clerci. Cephalopoda: Uraloceras sp.
+> - **Locality and horizon**: Exposures near the town of Krasnoufimsk (sections such as Krasnoufimskie Klyuchiki, After Selection and Sobolya) in the Cis‑Urals; stratotype sections of the Divjinskian Formation (upper Artinskian substage) (Naugolnykh, 2018; Mironenko, 2022).
+> - **References**: Karpinsky 1916; Naugolnykh 2018; Mironenko 2022.
 > - **Comments**: 
 
 **Sarginskian Formation, Krasnoufimsk, Cis-Urals, Russia**
@@ -1439,6 +1439,7 @@ Willink, R. J., & Kapitany, T. (2024). The crinoid Jimbacrinus bostock
 
 Mory, A. J., & Backhouse, J. (1997). Permian stratigraphy and palynology of the Carnarvon Basin, Western Australia. Western Australia Geological Survey Report 51, 46 pp.
 Archbold, N. W., & Thomas, G. A. (1985). Permian Spiriferellinae (Brachiopoda) from Western Australia. Alcheringa, 9(1), 35–48.
+
 
 
 
