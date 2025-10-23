@@ -1427,6 +1427,14 @@ Piñeiro, G., Ramos, A., Goso, C., Scarabino, F., & Laurin, M. (20
 
 Calisto, V., Piñeiro, G., & Lara, M. B. (2022). Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay. In Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay (pp. 37–37). Asociación Paleontológica Argentina / Consejo Nacional de Investigaciones Científicas y Técnicas – Instituto de Bio y Geociencias del NOA / Universidad Nacional de Salta.
 
+Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: a preliminary review of palaeoniscoid fishes and taphonomy. Records of the Western Australian Museum, Supplement 57, 175–181.
+
+Modesto, S. P. (2010). The postcranial skeleton of the aquatic parareptile Mesosaurus tenuidens from the Gondwanan Permian. Journal of Vertebrate Paleontology, 30(5), 1378–1395. https://doi.org/10.1080/02724634.2010.501443
+
+Damiani, R. J., & Rubidge, B. S. (2003). A review of the South African temnospondyl amphibian record. Palaeontologia Africana, 39, 21–36.
+
+Verrière, A., & Fröbisch, J. (2022). Ontogenetic, dietary, and environmental shifts in Mesosauridae. PeerJ, 10, e13866. https://doi.org/10.7717/peerj.13866
+
 
 
 
