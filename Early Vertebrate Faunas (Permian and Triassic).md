@@ -202,6 +202,188 @@
 > - **References**: Berman & Martens, 1993; Berman et al., 1998; Anderson et al., 2008; Berman et al., 2001; Berman et al., 2021
 > - **Comments**: 
 
+**Admiral Formation, north-central Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Lueders Formation, Baylor County, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Arroyo Formation, north-central Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Vale Formation, Knox County, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Choza Formation, Foard County, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**San Angelo Formation, north-central Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Abo Formation, central New Mexico, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Cutler Formation, Colorado, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Organ Rock Shale (Cutler Group), Utah–Arizona, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Chickasha Formation, Oklahoma, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Irati Formation, Paraná Basin, Brazil**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Rio do Rasto Formation, Paraná Basin, Brazil**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Whitehill Formation, Karoo Basin, South Africa**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Abrahamskraal Formation, Karoo Basin, South Africa**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Balfour Formation, Karoo Basin, South Africa**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Moradi Formation, northern Niger**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Tambach Formation, Thuringian Forest, Germany**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Meisenheim Formation, Saar–Nahe Basin, Germany**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Muse Formation, Autun Basin, France**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Millery Formation, Autun Basin, France**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Belebei Formation, Ocher locality, Perm Krai, Russia**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Naobaogou Formation, Daqing Mountains, Inner Mongolia, China**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Xidagou Formation, Dashankou, Gansu Province, China**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Kundaram Formation, Pranhita–Godavari Basin, India**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Tregiovo Formation, Dolomitic Alps, northern Italy**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Val Gardena Formation (Arenaria di Val Gardena), Dolomites, Italy**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 
 **A Formation/Member, Locality**
 > - **Age**:
@@ -1653,6 +1835,7 @@ Liu, G., Yin, G., Wang, X., Wang, S., & Huang, L. (2002). On a new marin
 Sun, Z., Jiang, D., Ji, C., & Hao, W. (2016). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou Province, South China. Journal of Asian Earth Sciences, 118, 101–119. https://doi.org/10.1016/j.jseaes.2016.01.004
 
 Wang, X., Lu, H., Jiang, D., Zhou, M., & Sun, Z. (2020). A new specimen of Yunguisaurus (Reptilia; Sauropterygia) from the Ladinian (Middle Triassic) Zhuganpo Member, Falang Formation, Guizhou, China and the restudy of Dingxiaosaurus. Palaeoworld, 29(1), 137–150. https://doi.org/10.1016/j.palwor.2019.05.006
+
 
 
 
