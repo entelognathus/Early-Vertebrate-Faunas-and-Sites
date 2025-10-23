@@ -167,10 +167,10 @@
 > - **Comments**: 
 
 **Whitehill Formation, Karoo Basin, South Africa & Namibia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian, Early Permian
+> - **Taxa**: Amniota: Mesosaurus tenuidens, Stereosternum tumidum. Actinopterygii: Watsonichthys lotzi, Palaeoniscum capensis. Cephalochordata: Palaeobranchiostoma sp.
+> - **Locality and horizon**: The Whitehill Formation crops out in the Karoo Basin of South Africa and the equivalent Karasberg Basin of Namibia. In South Africa the formation is exposed near Calvinia and Louriesfontein (Northern Cape Province), where recent collections of articulated fish and mesosaurids were made. The formation is a thin unit of black carbonaceous shale within the Ecca Group; it was deposited as laminated muds in an inland sea with limited ocean access. Equivalent horizons extend into the Huab and Kalahari basins of Namibia and correlate with the Irati Formation of Brazil and the Mangrullo Formation of Uruguay. 
+> - **References**: Evans & Bender, 1999; Modesto, 2010; Damiani & Rubidge, 2003; Verrière & Fröbisch, 2022
 > - **Comments**: 
 
 
@@ -1426,6 +1426,7 @@ de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal,�
 Piñeiro, G., Ramos, A., Goso, C., Scarabino, F., & Laurin, M. (2011). Unusual environmental conditions preserve a Permian mesosaur‑bearing Konservat‑Lagerstätte from Uruguay. Acta Palaeontologica Polonica, 57(2), 299–318. https://doi.org/10.4202/app.2010.0113
 
 Calisto, V., Piñeiro, G., & Lara, M. B. (2022). Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay. In Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay (pp. 37–37). Asociación Paleontológica Argentina / Consejo Nacional de Investigaciones Científicas y Técnicas – Instituto de Bio y Geociencias del NOA / Universidad Nacional de Salta.
+
 
 
 
