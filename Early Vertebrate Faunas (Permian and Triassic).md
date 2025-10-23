@@ -189,9 +189,9 @@
 > - **Comments**: 
 
 **Sarginskian Formation, Krasnoufimsk, Cis-Urals, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: Artinskian, Early Permian
+> - **Taxa**: Chondrichthyes: Artiodus prominens, Helicoprion bessonovi
+> - **Locality and horizon**: Krasnoufimskie Klyuchiki quarry near the town of Krasnoufimsk, Sverdlovsk Region, Middle Urals, Russia; deposits belong to the Divya Formation within the Sarginskian Regional Stage (upper Artinskian) (Ivanov et al., 2017).
 > - **References**:
 > - **Comments**: 
 
@@ -1444,6 +1444,7 @@ Karpinsky, A. P. (1916). On a new species of Helicoprion (Helicoprion clerci
 Naugolnykh, S. V. (2018). Artinskian (Early Permian) sea basin and its biota (Krasnoufimsk, Cis‑Urals). Stratigraphy and Geological Correlation, 26(7), 734–754. https://doi.org/10.1134/S0869593818070080
 
 Mironenko, A. A. (2022). Lower and upper jaws of the Early Permian goniatitid from the Divjinskian Formation (Artinskian Stage, Cisuralian, Lower Permian). Lethaia, 55(4), — pages. (Exact page numbers not available from the accessible source).
+
 
 
 
