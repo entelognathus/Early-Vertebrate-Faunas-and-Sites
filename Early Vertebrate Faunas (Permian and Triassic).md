@@ -386,6 +386,57 @@
 > - **Comments**:
 
 
+**San Angelo Formation, Texa**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Flowerpot Formation, Okla**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Chickasha Formation, Okla**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Qingtoushan Formation, Gans**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Inta Formation, Komi**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Belebey Formation, Bash**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Abrahamskraal Formation, Karoo**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+
+
 **A Formation/Member, Locality**
 > - **Age**:
 > - **Taxa**:
@@ -1852,6 +1903,7 @@ Olson, E. C. (1958). Summary, review, and integration of the geology and the fau
 Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. *Texas Memorial Museum Bulletin.*  
 Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. *University of Texas Bulletin.*  
 Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. *University of Texas Bulletin.*
+
 
 
 
