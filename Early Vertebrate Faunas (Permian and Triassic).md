@@ -2041,9 +2041,10 @@ Xu, G.-H., and Zhao, L.-J. (2016). A Middle Triassic stem-neopterygian fish from
 
 Zhang, L., Zhao, L., Chen, Z.-Q., Algeo, T. J., Li, Y., and Cao, L. (2015). Amelioration of marine environments at the Smithian-Spathian boundary, Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597- 2015
 
-Zigait ˇ e,˙ Z., and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
