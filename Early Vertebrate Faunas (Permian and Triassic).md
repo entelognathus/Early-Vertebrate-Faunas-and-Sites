@@ -645,6 +645,98 @@
 > - **References**:
 > - **Comments**:
 
+**Balfour Formation, Karoo Basin, South Africa**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Usili Formation, Ruhuhu Basin, Tanzania**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Madumabisa Mudstone Formation, Luangwa Basin, Zambia**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Moradi Formation, Agadez Region, Niger**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Sunjiagou Formation, Shanxi, China**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Naobaogou Formation, Inner Mongolia, China**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Wutonggou Formation, Turpan Basin, Xinjiang, China**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Kundaram Formation, Pranhita–Godavari Basin, India**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Cutties Hillock Sandstone Formation, Moray, Scotland, UK**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Urpalov Formation, Vyatka River Region, Russia**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Salarevo Formation, Northern Dvina Basin, Russia**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+**Rio do Rasto Formation, Paraná Basin, Brazil**  
+> - **Age**:  
+> - **Taxa**:  
+> - **Locality and horizon**:  
+> - **References**:  
+> - **Comments**:  
+
+
+
+
+
+
+
+
+
 
 **A Formation/Member, Locality**
 > - **Age**:
@@ -2112,6 +2204,7 @@ Olson, E. C. (1958). Summary, review, and integration of the geology and the fau
 Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. *Texas Memorial Museum Bulletin.*  
 Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. *University of Texas Bulletin.*  
 Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. *University of Texas Bulletin.*
+
 
 
 
