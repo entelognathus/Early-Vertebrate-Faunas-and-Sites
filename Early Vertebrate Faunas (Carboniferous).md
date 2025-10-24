@@ -46,7 +46,16 @@
 > - **References**:  Gardiner, 1966; Miller, 1996; Brazeau, 2005; Jeffery, 2006; Rygel et al., 2006.
 > - **Comments**: Environment. Non-marine, lacustrine with marine 
 
-**Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia**
+**Blue Beach, Nova Scotia, Canada**
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Taxa**:
+>> - Tetrapoda: Whatcheeriids, Embolomeres/“Reptiliomorphs”, Acanthostega? Ichthyostega? Colosteids?
+>> - (Basal actinopterygians, Rhizodontids, Acanthodids, Chondrichthyans, lungfish)
+> - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation，Nova Scotia, Canada
+> - **References**: Anderson et al., 2015; Mansky et al., 2013； Clack, 2000; Hunt, 2004; Lucas, 2004
+> - **Comments**::Western shore of the Avon River (confluence with Bay of Fundy) north of Hantsport
+
+**Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia, Russia**
 > - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Oxypteriscus minimus*, *Ministrella longicaudata*, *Palaeobergia microlepis*, *Bishofia lucida*, *Aetheretmon sp.*, *Ganolepis gracilis*, *Gyrolepidotus schmidtii*, *Grassator bidens*.
@@ -57,6 +66,19 @@
 > - **Locality and horizon**: Izkchul Village Fish Horizon, Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia.
 > - **References**: Obruchev,1967; Vorobyeva, 1967; Maisey,1984; Berg, 1967; Kazantseva, 1968; Prokofiev, 2004; Beznosov, 2009. 
 > - **Comments**: Non-marine, brackish lagoon or lake. 
+
+**Herbesskaya Formation, Shagonar City, Tuva, Western Siberia, Russia**
+> - **Age**: Late Tournaisian.
+> - **Taxa**:
+>> - Actinopterygii: Senekichthys hirundo, Ganolepis sp., Actinopterygii nov. gen. et sp., Grassator sp.
+>> - Megalichthyidae: Rhizodopsis savinkovi.
+>> - Rhizodontida: Pycnotenion sibiriacus.
+>> - Elasmobranchii: Psammodus linearis, Lagarodus angustus, “Ctenacanthus” (Hybodus) panderi, Cladodus sp.
+>> - Holocephali: Helodus antiquissimus, Helodus contractus, Psephodus dentatus.
+>> - Acanthodida: Acanthodes lopatini.
+> - **Locality and horizon**: Senek and Ortokhodan Creeks, Herbesskaya Formation, Shagonar City, Tuva, Western Siberia.
+> - **References**:Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
+> - **Comments**: Marine, shallow sea. 
 
 **Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
 > - **Age**: Early to middle Tournaisian.
@@ -85,19 +107,6 @@
 > - **References**: Brazeau,2009; Woodward, 1890; White, 1925; Moy-Thomas, 1938; Gardiner,1985.
 > - **Comments**: Environment. Non-marine, brackish alluvial, lacustrine. Dinantian of Foulden, Berwickshire, Scotland.
 
-**Herbesskaya Formation, Shagonar City, Tuva, Western Siberia**
-> - **Age**: Late Tournaisian.
-> - **Taxa**:
->> - Actinopterygii: Senekichthys hirundo, Ganolepis sp., Actinopterygii nov. gen. et sp., Grassator sp.
->> - Megalichthyidae: Rhizodopsis savinkovi.
->> - Rhizodontida: Pycnotenion sibiriacus.
->> - Elasmobranchii: Psammodus linearis, Lagarodus angustus, “Ctenacanthus” (Hybodus) panderi, Cladodus sp.
->> - Holocephali: Helodus antiquissimus, Helodus contractus, Psephodus dentatus.
->> - Acanthodida: Acanthodes lopatini.
-> - **Locality and horizon**: Senek and Ortokhodan Creeks, Herbesskaya Formation, Shagonar City, Tuva, Western Siberia.
-> - **References**:Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
-> - **Comments**: Marine, shallow sea. 
-
 **TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland**
 > - **Age**: Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
@@ -110,14 +119,8 @@
 > - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
 > - **References**: Otoo *et al*., 2019
 > - **Comments**:  Otoo *et al*. (2019): The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the *Ossirarus* and *Aytonerpeton* beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
-
-**Ballagan Formation, Burnmouth, Scotland**
-> - **Age**: Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**:
-> - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
-> - **References**:
-> - **Comments**: All derive from the Tournaisian argillaceous dolostone-bearing mudstone succession of Scotland. Formerly known as the Cementstone Group (the lower part of the Calciferous Sandstone Measures in Scotland), these rocks have now been assigned to the Ballagan Formation, Inverclyde Group. Most belong to the claviger-macra (CM) palynozone, dated as 348 to 347.6 Ma.
-> Pederpes from Scotland (Clack & Finney 2005).
+>> - All derive from the Tournaisian argillaceous dolostone-bearing mudstone succession of Scotland. Formerly known as the Cementstone Group (the lower part of the Calciferous Sandstone Measures in Scotland), these rocks have now been assigned to the Ballagan Formation, Inverclyde Group. Most belong to the claviger-macra (CM) palynozone, dated as 348 to 347.6 Ma.
+>> - *Pederpes* from Scotland (Clack & Finney 2005).
 
 **Willie’s Hole Shrimp Bed**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
@@ -148,15 +151,6 @@
 > - **Locality and horizon**:Ballagan Formation, Gin Head, Tantallon, near North Berwick, Scotland. 
 > - **References**:Smithson, 2012；Scott, 1988; Chen, 2009
 > - **Comments**:late Tournaisian or earliest Vise´an of Tantallon near North Berwick, Scotland (Chen, 2009). Sedimentary rocks close to the fossil plant localities of Castleton Bay and Oxroad Bay（Smithson, 2012）
-
-**Blue Beach, Nova Scotia, Canada**
-> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**:
->> - Tetrapoda: Whatcheeriids, Embolomeres/“Reptiliomorphs”, Acanthostega? Ichthyostega? Colosteids?
->> - (Basal actinopterygians, Rhizodontids, Acanthodids, Chondrichthyans, lungfish)
-> - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation，Nova Scotia, Canada
-> - **References**: Anderson et al., 2015; Mansky et al., 2013； Clack, 2000; Hunt, 2004; Lucas, 2004
-> - **Comments**::Western shore of the Avon River (confluence with Bay of Fundy) north of Hantsport
 
 ### Visean, Middle Mississipian, Carboniferous
 **Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa**
@@ -1296,6 +1290,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
