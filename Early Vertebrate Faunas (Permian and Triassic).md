@@ -519,6 +519,64 @@
 > - **References**:
 > - **Comments**: 
 
+**San Angelo Formation, Texas, United States**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Flowerpot Formation, Texas & Oklahoma, United States**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Chickasha Formation, Oklahoma, United States**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí), Brazil**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Collio Formation, Lombardy (Brescian Alps), Italy**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+**Qingtoushan Formation, Gansu, China**
+> - **Age**: 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**: 
+> - **Comments**: 
+
+
+
 
 **A Formation/Member, Locality**
 > - **Age**:
@@ -1986,6 +2044,7 @@ Olson, E. C. (1958). Summary, review, and integration of the geology and the fau
 Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. *Texas Memorial Museum Bulletin.*  
 Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. *University of Texas Bulletin.*  
 Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. *University of Texas Bulletin.*
+
 
 
 
