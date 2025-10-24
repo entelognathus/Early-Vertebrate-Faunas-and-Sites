@@ -435,6 +435,89 @@
 > - **References**: 
 > - **Comments**: 
 
+**Word Formation, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**San Angelo Formation, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Chickasha Formation, Oklahoma, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Flowerpot Formation, Oklahoma, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Rio do Rasto Formation, Brazil**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**La Lieude Formation, France**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Kazan Formation, Russia**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Abrahamskraal Formation, South Africa**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Madumabisa Mudstone, Zambia**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Ruhuhu Formation, Tanzania**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Qingtoushan Formation, Gansu, China**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Khuff Formation, Oman**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 
 **A Formation/Member, Locality**
@@ -1903,6 +1986,7 @@ Olson, E. C. (1958). Summary, review, and integration of the geology and the fau
 Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. *Texas Memorial Museum Bulletin.*  
 Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. *University of Texas Bulletin.*  
 Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. *University of Texas Bulletin.*
+
 
 
 
