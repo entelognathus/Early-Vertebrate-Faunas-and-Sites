@@ -30,7 +30,7 @@
 > - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
 
-> USA: Salem Limestone; Burlington limestone;
+**USA: Salem Limestone; Burlington limestone**
 
 **Horton Bluff and Albert Formations, Bay of Fundy, Canada**
 > - **Age**: Early to middle Tournaisian.
@@ -134,8 +134,8 @@
 **Dumbarton, Western Scotland**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:*Pederpes finneyae*
-> - **Locality and horizon**:Ballagan Formation, Inverclyde Group (formerly Cementstone Group, Calciferous Sandstone Series); claviger-macra (CM) palynozone (possibly from the lower part of this zone). Auchenreoch Glen, near Maryland Farm, 2–3 km north of Dumbarton, western Scotland.
-> - **References**: Smithson, 2012；Clack, 2002; Clack& Finney, 2005
+> - **Locality and horizon**: Ballagan Formation, Inverclyde Group (formerly Cementstone Group, Calciferous Sandstone Series); claviger-macra (CM) palynozone (possibly from the lower part of this zone). Auchenreoch Glen, near Maryland Farm, 2–3 km north of Dumbarton, western Scotland.
+> - **References**: Smithson, 2012；Clack, 2002; Clack & Finney, 2005
 > - **Comments**: Ivorian, Early Carboniferous (348–344 Myr)
 
 **Coldstream**
@@ -148,9 +148,9 @@
 **Tantallon Castle, East Lothian**
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:*Tantallognathus woodi*
-> - **Locality and horizon**:Ballagan Formation, Gin Head, Tantallon, near North Berwick, Scotland. 
+> - **Locality and horizon**: Ballagan Formation, Gin Head, Tantallon, near North Berwick, Scotland. 
 > - **References**:Smithson, 2012；Scott, 1988; Chen, 2009
-> - **Comments**:late Tournaisian or earliest Vise´an of Tantallon near North Berwick, Scotland (Chen, 2009). Sedimentary rocks close to the fossil plant localities of Castleton Bay and Oxroad Bay（Smithson, 2012）
+> - **Comments**: late Tournaisian or earliest Vise´an of Tantallon near North Berwick, Scotland (Chen, 2009). Sedimentary rocks close to the fossil plant localities of Castleton Bay and Oxroad Bay（Smithson, 2012）
 
 ### Visean, Middle Mississipian, Carboniferous
 **Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa**
@@ -165,7 +165,7 @@
 > - **Comments**: Non-marine, lacustrine.
 
 **Glencartholm Fish Bed, Dumfiresshire, Scotland**
-> - **Age**: Middle Visean, Middle Mississipian, Carboniferous,
+> - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: Protoeurynotus traquairi, Paramesolepis tuberculatus, Platysomus superbus, Cheirodopsis geikiei, Rhadinichthys canobiensis, Rhadinichthys macconochii, Rhadinichthys fusiformis, Rhadinichthys formosus, Rhadinichthys tuberculatus, Rhadinichthys sp., Cycloptychius concentricus, Mesopoma politum, Mesopoma pulchellum, Mesopoma crassum, Mesopoma macrocephalum, Canobius ramseyi, Canobius elegantulus, Canobius sp., Elonichthys serratus, Elonichthys pulcherrimus, Acrolepis ortholepis, Phanerosteon mirabile, Holurus parki, Styracopterus fulcratus, Tarrasius problematicus.
 >> - Megalichthyidae: Megalichthys sp. Rhizodontida: Archichthys portlocki, Strepsodus saurroides.
@@ -176,80 +176,55 @@
 > - **References**: 1, 6, 10, 24, 39, 148, 253, 254, 255.
 > - **Comments**: nearshore marine.
 
-
-51. Burdiehouse 39
-**Formation, Locality**
-> - **Age**:
+**Burdiehouse limestone, Edinburgh, Scotland**
+> - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Burdiehouse limestone, Edinburgh, Scotland. Age. Mid Viséan. 
-Environment. Non-marine, lacustrine, alluvial.
-Taxa. Actinopterygii: Elonichthys robinsoni, Elonichthys bucklandi, Elonichthys 
-striatulus, Rhadinichthys ornatissimus, Nematoptychius greenocki, Gonatodus punctatus, 
-Eurynotus crenatus, Elonichthys ovatus, Elonichthys striolatus. Dipnoi: Uronemus 
-lobatus, Ctenodus sp. Megalichthyidae: Megalichthys laticeps. Rhizodontida: Rhizodus 
-hibberti, Screbinodus ornatus. Elasmobranchii: Cladodus hibberti, Cladodus parvus,
-Diplodus minutus, Ptyctacanthus sublaevis, Sphenacanthus serratulus, Ageolodus 
-pectinatus. Gyracanthida: Gyracanthides rectus. Acanthodida: Acanthodes sulcatus. 
-Tetrapoda: Pholidogaster pisciformis, Dolichopareias disjectins.
-References. 6, 24, 41, 148, 256, 257, 258. 259, 260.
+>> - Actinopterygii: Elonichthys robinsoni, Elonichthys bucklandi, Elonichthys striatulus, Rhadinichthys ornatissimus, Nematoptychius greenocki, Gonatodus punctatus, Eurynotus crenatus, Elonichthys ovatus, Elonichthys striolatus.
+>> - Dipnoi: Uronemus lobatus, Ctenodus sp.
+>> - Megalichthyidae: Megalichthys laticeps.
+>> - Rhizodontida: Rhizodus hibberti, Screbinodus ornatus.
+>> - Elasmobranchii: Cladodus hibberti, Cladodus parvus, Diplodus minutus, Ptyctacanthus sublaevis, Sphenacanthus serratulus, Ageolodus pectinatus. Gyracanthida: Gyracanthides rectus. Acanthodida: Acanthodes sulcatus.
+>> - Tetrapoda: Pholidogaster pisciformis, Dolichopareias disjectins.
+> - **Locality and horizon**: Burdiehouse limestone, Edinburgh, Scotland.
+> - **References**: 6, 24, 41, 148, 256, 257, 258. 259, 260.
+> - **Comments**: Non-marine, lacustrine, alluvial.
 
-
-52. Ducabrook 39
-**Formation, Locality**
-> - **Age**:
+**Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australiay**
+> - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Middle Paddock Tetrapod Unit, Ducabrook Formation, 
-Drummond Basin, Queensland, Australia. Age. Mid-Viséan. Environment. Non-marine, 
-estuarine.
-40
-40
-Taxa. Actinopterygii: Elonichthys sp., Unnamed actinopterygian. Dipnoi: Ctenodus sp. 
-Rhizodontida: Strepsodus sp. Elasmobranchii: Unnamed xenacanth, Unnamed hybodont, 
-Ageolodus sp., Psammodus sp. Gyracanthida: Gyracanthides hawkinsi. Tetrapoda: 
-Ossinodus pueri.
-References. 260, 261, 262, 263, 264, 265, 266.
+>> - Actinopterygii: Elonichthys sp., Unnamed actinopterygian.
+>> - Dipnoi: Ctenodus sp.
+>> - Rhizodontida: Strepsodus sp.
+>> - Elasmobranchii: Unnamed xenacanth, Unnamed hybodont, Ageolodus sp., Psammodus sp. Gyracanthida: Gyracanthides hawkinsi.
+>> - Tetrapoda: Ossinodus pueri.
+> - **Locality and horizon**: Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australia.
+> - **References**: 260, 261, 262, 263, 264, 265, 266.
+> - **Comments**: Non-marine, estuarine.
 
-
-53. Wardie 40
-**Formation, Locality**
-> - **Age**:
+**Wardie Shales, Lower Lothian Group, Lothian, Scotland**
+> - **Age**: Late Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Wardie Shales, Lower Lothian Group, Lothian, Scotland. Age.
-Late Viséan. Environment. Non-marine, brackish lagoon.
-Taxa. Actinopterygii: Cosmoptychius striatus, Nematoptychius greenocki, Elonichthys 
-robinsoni, Elonichthys striatulus, Gonatodus punctatus, Eurynotus crenatus, Wardichthys 
-cyclosoma, Rhadinichthys brevis, Rhadinichthys carinatus, Rhadinichthys ferox, 
-Rhadinichthys orenatissimus, Chirodus sp. Dipnoi: Unnamed dipnoan. Megalichthyidae:
-Megalichthys sp. Rhizodontida: Rhizodus hibberti. Elasmobranchii: Onychoselache 
-traquari, Sphenacanthus serrulatus, Ctenacanthus sp., Diplodoselache woodi. 
-Acanthodida: Acanthodes sulcatus. Tetrapoda: Lethiscus stocki.
-Reference. 6.
+>> - Actinopterygii: Cosmoptychius striatus, Nematoptychius greenocki, Elonichthys robinsoni, Elonichthys striatulus, Gonatodus punctatus, Eurynotus crenatus, Wardichthys cyclosoma, Rhadinichthys brevis, Rhadinichthys carinatus, Rhadinichthys ferox, Rhadinichthys orenatissimus, Chirodus sp.
+>> - Dipnoi: Unnamed dipnoan.
+>> - Megalichthyidae: Megalichthys sp.
+>> - Rhizodontida: Rhizodus hibberti.
+>> - Elasmobranchii: Onychoselache traquari, Sphenacanthus serrulatus, Ctenacanthus sp., Diplodoselache woodi.
+>> - Acanthodida: Acanthodes sulcatus. Tetrapoda: Lethiscus stocki.
+> - **Locality and horizon**: Wardie Shales, Lower Lothian Group, Lothian, Scotland.
+> - **References**: 6
+> - **Comments**: Non-marine, brackish lagoon.
 
-
-54. Cheese Bay 40
-**Formation, Locality**
-> - **Age**:
+**Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland**
+> - **Age**: Late Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland. Age. Late Viséan. 
-Environment. Non-marine, brackish pools.
-Taxa. Actinopterygii: Gonatodus punctatus, Elonichthys robinsoni, Elonichthys 
-intermedius, Cosmoptychius striatus, Nematoptychius greenocki, Rhadinichthys brevis, 
-Rhadinichthys elegantulus, Rhadinichthys formosus, Rhadinichthys ornatissimus, 
-Wardichthys cyclosoma. Rhizodontida: Rhizodus hibberti. Actinistia: Rhabdoderma sp. 
-Acanthodida: Acanthodes sp. Tetrapoda: Casineria kiddi.
-References. 6, 267.
+>> - Actinopterygii: Gonatodus punctatus, Elonichthys robinsoni, Elonichthys intermedius, Cosmoptychius striatus, Nematoptychius greenocki, Rhadinichthys brevis, Rhadinichthys elegantulus, Rhadinichthys formosus, Rhadinichthys ornatissimus, Wardichthys cyclosoma.
+>> - Rhizodontida: Rhizodus hibberti.
+>> - Actinistia: Rhabdoderma sp.
+>> - Acanthodida: Acanthodes sp.
+>> - Tetrapoda: Casineria kiddi.
+> - **Locality and horizon**: Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland.
+> - **References**: 6, 267.
+> - **Comments**: Non-marine, brackish pools.
 
 The Gullane Shrimp Bed, exposed at Cheese Bay, on the East Lothian coast.
 The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Firth of Forth, about 3 km from the centre of Edinburgh. 
@@ -1290,6 +1265,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
