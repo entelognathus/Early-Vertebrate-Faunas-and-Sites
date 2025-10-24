@@ -88,12 +88,7 @@
 > - **References**:
 > - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
 
-**Inta Formation, Pechora Coal Basin, Russia**
-> - **Age**: Early-Middle Permian（Upper Kungurian to Lower Roadian）
-> - **Taxa**: Amphibia, Temnospondyli, Eryopidae: Clamorosaurus nocturnus, Clamorosaurus borealis, Syndyodosuchus tetricus (Gubin, 1983; Werneburg and Witzmann, 2024). Amphibia, Temnospondyli, Intasuchidae: Intasuchus silvicola (Konzhukova, 1956; Werneburg et al., 2020). Osteichthyes, Actinopterygii: Kutaichthys gubini, Kutaichthys dozmerensis (Esin and Bakaev, 2022).
-> - **Locality and horizon**: Left bank of Kozhim River, 4 km downstream from the bridge near Kozhim-Rudnik station, Bed 103, Intinskian Formation, Pechora Cis-Urals, Komi Republic, Russia (Naugolnykh, 2002). Coal mine 9, Inta, Komi Republic, Russia Gubin, 1983). Pechora (Dozmer locality), Troitsko-Pechorsk District, Komi Republic, Russia (Esin and Bakaev, 2022). The Inta Formation is part of the Vorkuta Group and consists of 450-600 m thick succession containing approximately 30 coal seams  (Syromyatnikov, 2000).
-> - **References**:
-> - **Comments**:
+
 
 **Inta Formation, Pechora Coal Basin, Russia**
 > - **Age**: upper Kungurian (latest Early Permian) to lower Roadian (earliest Middle Permian)
@@ -223,7 +218,6 @@
 > - **References**: Beede & Waite, 1918; Sellars, 1932; Olson, 1958; Olson, 1989; Nelson et al., 2001; Lucas et al., 2011.
 > - **Comments**: 
 
-
 **Vale Formation, Knox County, Texas, USA**
 > - **Age**:
 > - **Taxa**:
@@ -245,13 +239,6 @@
 > - **References**:
 > - **Comments**:
 
-**Abo Formation, central New Mexico, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-
 **Cutler Formation, Colorado, USA**
 > - **Age**:
 > - **Taxa**:
@@ -266,13 +253,6 @@
 > - **References**:
 > - **Comments**:
 
-**Chickasha Formation, Oklahoma, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-
 **Irati Formation, Paraná Basin, Brazil**
 > - **Age**:
 > - **Taxa**:
@@ -280,7 +260,7 @@
 > - **References**:
 > - **Comments**:
 
-**Rio do Rasto Formation, Paraná Basin, Brazil**
+**Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -294,7 +274,7 @@
 > - **References**:
 > - **Comments**:
 
-**Abrahamskraal Formation, Karoo Basin, South Africa**
+**Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -343,6 +323,13 @@
 > - **References**:
 > - **Comments**:
 
+**La Lieude Formation, France**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 **Belebei Formation, Ocher locality, Perm Krai, Russia**
 > - **Age**:
 > - **Taxa**:
@@ -350,7 +337,21 @@
 > - **References**:
 > - **Comments**:
 
+**Kazan Formation, Russia**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 **Naobaogou Formation, Daqing Mountains, Inner Mongolia, China**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+**Qingtoushan Formation, Gansu, China**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -385,195 +386,62 @@
 > - **References**:
 > - **Comments**:
 
-
-**San Angelo Formation, Texa**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Flowerpot Formation, Okla**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Chickasha Formation, Okla**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Qingtoushan Formation, Gans**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Inta Formation, Komi**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Belebey Formation, Bash**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Abrahamskraal Formation, Karoo**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
+**Flowerpot Formation, Texas & Oklahoma, United States**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
 
 **Word Formation, Texas, USA**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-
-**San Angelo Formation, Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+> - **Comments**:
 
 **Chickasha Formation, Oklahoma, USA**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-
-**Flowerpot Formation, Oklahoma, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Rio do Rasto Formation, Brazil**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**La Lieude Formation, France**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Kazan Formation, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-
-**Abrahamskraal Formation, South Africa**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+> - **Comments**:
 
 **Madumabisa Mudstone, Zambia**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
+> - **Comments**:
 
 **Ruhuhu Formation, Tanzania**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-
-**Qingtoushan Formation, Gansu, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+> - **Comments**:
 
 **Khuff Formation, Oman**
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-
-**San Angelo Formation, Texas, United States**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Flowerpot Formation, Texas & Oklahoma, United States**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Chickasha Formation, Oklahoma, United States**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
+> - **Comments**:
 
 **Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí), Brazil**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
-
-**Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
 
 **Collio Formation, Lombardy (Brescian Alps), Italy**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
 
-**Qingtoushan Formation, Gansu, China**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
-> - **Comments**: 
 
 
 
@@ -2044,6 +1912,7 @@ Olson, E. C. (1958). Summary, review, and integration of the geology and the fau
 Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. *Texas Memorial Museum Bulletin.*  
 Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. *University of Texas Bulletin.*  
 Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. *University of Texas Bulletin.*
+
 
 
 
