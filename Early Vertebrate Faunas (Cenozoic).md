@@ -67,6 +67,12 @@
 grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well De Wijk-19, Netherland
 > - **References**: (Bor, 1985; Sharma and Patnaik, 2014)
 > - **Comments**:
+#### Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
+> - **Age**:Lutetian
+> - **Taxa**: Selachians: *Hexanchus agassizi*, *Squatina cf. prima*, *Carcharias hopei*, *Cosmopolitodus praecursor*, *Cretolamna aschersoni*, *Carcharocles sokolowi*
+> - **Locality and horizon**:  Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
+> - **References**: (Mustafa, 2005)
+> - **Comments**: 
 #### Dongen Formation Brussels Sand Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
 > - **Taxa**: *Coupatezia sp.*,
@@ -138,6 +144,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
