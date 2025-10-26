@@ -219,10 +219,10 @@
 > - **Comments**: 
 
 **Vale Formation, Knox County, Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Kungurian, Early Permian
+> - **Taxa**: Fishes: Gnathorhiza dikeloda, Orthacanthus cf. platypternus. Amphibians: Diplocaulus magnicornis, Trimerorhachis insignis. Reptiles: Captorhinikos valensis, Araeoscelis gracilis. Synapsids: Dimetrodon giganhomogenes, Varanops brevirostris, Casea broilii.
+> - **Locality and horizon**: Fossils are concentrated in several horizons of the Vale Formation. Key localities include the northern Vale outcrop in Knox County (complete section), the Sid McAdams locality in the lower part of the Vale Formation (southern Taylor County), the Blackwood locality in the middle Vale (central Taylor County) and the Stamford locality in the middle Vale (southern Haskell County). Vertebrate fossils occur in channel conglomerates within red‑ and green‑coloured sands and clays of the Clear Fork Group.
+> - **References**: Olson 1948; Olson & Mead 1982; Modesto et al. 2014; Reisz & Tsuji 2006; Olson 1954; Gee et al. 2018
 > - **Comments**:
 
 **Choza Formation, Foard County, Texas, USA**
@@ -2044,6 +2044,7 @@ Zhang, L., Zhao, L., Chen, Z.-Q., Algeo, T. J., Li, Y., and Cao, L. (2015). Amel
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
+
 
 
 
