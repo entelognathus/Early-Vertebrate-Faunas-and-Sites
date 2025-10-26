@@ -2045,7 +2045,17 @@ Zhang, L., Zhao, L., Chen, Z.-Q., Algeo, T. J., Li, Y., and Cao, L. (2015). Amel
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
 
+## To be sorted
 
+Olson, E. C. (1948). A preliminary report on vertebrates from the Permian Vale Formation of Texas. Journal of Geology, 56(3), 186–198. https://doi.org/10.1086/625500
+
+Olson, E. C., & Mead, J. G. (1982). The Vale Formation (Lower Permian) – its vertebrates and paleoecology. Texas Memorial Museum Bulletin 29. https://doi.org/10.26153/tsw/41690
+
+Modesto, S. P., Lamb, A. J., & Reisz, R. R. (2014). The captorhinid reptile Captorhinikos valensis from the lower Permian Vale Formation of Texas, and the evolution of herbivory in eureptiles. Journal of Vertebrate Paleontology, 34(2), 291–302. https://doi.org/10.1080/02724634.2013.809358
+
+Reisz, R. R., & Tsuji, L. A. (2006). An articulated skeleton of Varanops with bite marks: the oldest known evidence of scavenging among terrestrial vertebrates. Journal of Vertebrate Paleontology, 26(4), 991–996.
+Olson, E. C. (1954). Fauna of the Vale and Choza: 7, Pelycosauria – Family Caseidae. Fieldiana: Geology, 10, 89–128.
+Gee, B. M., Rosscoe, S. J., Scott, D., Ostlien, J., & Reisz, R. R. (2018). Faunal overview of the Mud Hill locality from the early Permian Vale Formation of Taylor County, Texas. Journal of Paleontology, 92, 1092–1106. https://doi.org/10.1017/jpa.2018.26
 
 
 
