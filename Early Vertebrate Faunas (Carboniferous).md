@@ -78,7 +78,31 @@
 >> - Acanthodida: *Acanthodes lopatini*.
 > - **Locality and horizon**: Senek and Ortokhodan Creeks, Herbesskaya Formation, Shagonar City, Tuva, Western Siberia.
 > - **References**:Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
-> - **Comments**: Marine, shallow sea. 
+> - **Comments**: Marine, shallow sea.
+> - 
+**Formation, Locality**
+> - **Age**: Tournaisian.
+> - **Taxa**:
+>> - Elasmobranchii: *Lissodus pectinatus* 
+> - **Locality and horizon**: Central part of the Russia platform, Tula and Tver, Russia, : 1, Snetki-Pavlovskoye; 2, Zolotoy Verkh ravine; 3, Suvorov borehole 814; 4, Novy Oskol borehole 86; 5, Andreyevka-1; 6, Krasnoye (Mokraya Tabola River); 7, Prisady; 8, Chernyshino; 9, Znamenskoye. 
+> - **References**: Lebedev, 1996
+> - **Comments**: 
+
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**: Central part of the Russia platform, Tula, Russia, Visean: 1, Polotnyany Zavod; 2, Vitsa; 3, Priksha River; 4, Kamenka; 5, Gryzlovo quarry; 6, Azarovo; 7, Erino; 8, Gorenki; 9, Ust-Buzuluk borehole 41.
+> - **References**: Lebedev, 1996
+> - **Comments**: 
+
+
+**Formation, Locality**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**: Timan-Pechora Province. Visean: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
+> - **References**: Lebedev, 1996
+> - **Comments**: 
+
 
 **Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
 > - **Age**: Early to middle Tournaisian.
@@ -574,6 +598,7 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Locality and horizon**: Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
 > - **References**: (Silva-Santos, 1967)
 > - **Comments**:
+
 ## References
 1. Sepkoski JJ (2002) A compendium of fossil marine animal genera. Bull Am Paleont 363:1-560.
 
@@ -607,8 +632,7 @@ southern Wisconsin. Ecol Monog 27:325-349.
 coefficients. J Paleont 43:1130-1136.
 16. Dice LR (1945) Measures of the amount of ecological association between 
 species. Ecology 26:297-302.
-91
-91
+
 17. Hammer Ø (2002) Palaeontological community and diversity analysis – brief 
 notes. http://folk.uio.no/ohammer/past/community.pdf
 18. Morisita M (1959) Measuring of interspecific association and similarity between 
@@ -644,8 +668,7 @@ Jerusalem), pp. 420-509.
 Estonia. Eston J Earth Sci 57:219-230.
 32. Kleesment A, Mark-Kurik E (1997) in Geology and Mineral Resources of 
 Estonia, eds. A Ruakas, A Teedumae (Estonian Academy, Tallinn), pp. 107-121.
-92
-92
+
 33. Valiukevicius J (1988) New species of acanthodians from the Middle 
 Devonian of the Baltic region and Belorussia. Palaeont J 22:75-81.
 34. Valiukevicius J (1995) Acanthodians from marine and non-marine early and 
@@ -680,8 +703,7 @@ Ohio J Sci 71:120-124.
 Arbor).
 49. Schultze HP (1982) A dipterid dipnoan from the Middle Devonian of 
 Michigan, USA. J Vert Paleont 2:155-162.
-93
-93
+
 50. Ritchie A (1975) Groenlandaspis in Antarctica, Australia and Europe. Nature 
 254:569-573.
 51. Young GC (1988) Antiarchs (placoderm fishes) from the Devonian Aztec 
@@ -716,8 +738,7 @@ southern Victoria Land, Antarctica. Antarct Sci 21:71-88.
 63. Wang J, Wang N (1983) A new genus of Coccosteidae. Vert Palasiat 21:1-8.
 64. Wang J, Wang N (1984) New material of the arthrodira from the Wuding Region, 
 Yunnan. Vert Palasiat 22:1-7.
-94
-94
+
 65. Liu Y, Wang J (1981) On three new arthrodires from the Middle Devonian of 
 Yunnan. Vert Palastiat 19:295-304.
 66. Liu S (1983) Biogeography of Silurian and Devonian vertebrates in China. Vert 
@@ -752,8 +773,7 @@ Book Concern, Cincinnati)
 Devonian of Iowa. J Paleo 59:511-522.
 82. Schultze H-P (1992) A new long-headed dipnoan (Osteichthyes) from the Middle 
 Devonian of Iowa, USA. J Vert Paleo 12:42-58.
-95
-95
+
 83. Upeniece I (1995) A new species of Strunius (Sarcopterygii, Onychodontida) from 
 Latvia, Lode Quarry (Upper Devonian). Geobios 19:281-284.
 84. Upeniece I (2001) The Unique fossil assemblage of the Lode Quarry (Upper 
@@ -788,8 +808,7 @@ specimens of Holonema from the Upper Devonian of Western Australia. Phil Trans R
 Soc London B. 263:101-234.
 96. Friedman M, Coates MI (2005) A newly recognized fossil coelacanth highlights th 
 early morphological diversification of the clade. Proc R Soc B 273:245-250.
-96
-96
+
 97. Long JA, Trinajstic K, Young GC, Senden T (2008) Live birth in the Devonian 
 period. Nature 453:650-652.
 98. Choo B, Long JA, Trinajstic K (2009) A new genus and species of basal 
@@ -992,20 +1011,17 @@ microremains from Morocco and Sardinia. J Palaeont 82:984-995.
 Baltic area. Academia 1:273-280.
 185. Blieck A, et al. (2007) in Devonian Events and Correlations, eds RT Becker and 
 WT Kirchgasser (Geol Soc London, Northern Ireland), pp. 219-235.
-186. Lebedev O (1995) Middle Famennian (Upper Devonian) chondrichthyans and 
-sarcopterygians from Oryol region, central Russia. Geobios 19:361-368.
-187. Krupina N (1999) A new dipnoan from the Upper Devonian locality Rybnitsa in the 
-Oryol region. Palaeont J 33:627-629.
-188. Lebedev O (2004) A new tetrapod Jakubsonia livnensis from the Early Famennian 
-(Devonian) of Russia and palaeoecological remarks on the Late Devonian tetrapod 
-habitats. Acta Univ Latv 679:79-98.
-189. Young GC (1999) Preliminary report on the biostratigraphy of new placoderm 
-discoveries in the Hervey Group (Upper Devonian) of central New South Wales. Records 
-West Austral Mus 57:139-150.
-190. Long JA, Burrow CJ, Ritchie A (2004) A new Late Devonian acanthodian fish from 
-the Hunter Formation near Grenfell, New South Wales. Alcheringa 28:147-156.
-102
-102
+
+186. Lebedev O (1995) Middle Famennian (Upper Devonian) chondrichthyans and sarcopterygians from Oryol region, central Russia. Geobios 19:361-368.
+
+187. Krupina N (1999) A new dipnoan from the Upper Devonian locality Rybnitsa in the Oryol region. Palaeont J 33:627-629.
+
+188. Lebedev O (2004) A new tetrapod Jakubsonia livnensis from the Early Famennian (Devonian) of Russia and palaeoecological remarks on the Late Devonian tetrapod habitats. Acta Univ Latv 679:79-98.
+
+189. Young GC (1999) Preliminary report on the biostratigraphy of new placoderm discoveries in the Hervey Group (Upper Devonian) of central New South Wales. Records West Austral Mus 57:139-150.
+
+190. Long JA, Burrow CJ, Ritchie A (2004) A new Late Devonian acanthodian fish from the Hunter Formation near Grenfell, New South Wales. Alcheringa 28:147-156.
+
 191. Johansen Z, Ritchie A (2000) Rhipidistians (Sarcopterygii) from the Hunter 
 Siltstone (Late Famennian) near Grenfell, NSW, Australia. Mitt Mus Natkd Berl Geowiss 
 Reihe 3:111-136.
@@ -1265,6 +1281,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
