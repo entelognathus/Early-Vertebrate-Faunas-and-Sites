@@ -72,9 +72,9 @@
 > - **Taxa**:
 >> - Actinopterygii: *Senekichthys hirundo*, *Ganolepis* sp., Actinopterygii nov. gen. et sp., *Grassator* sp.
 >> - Megalichthyidae: *Rhizodopsis savinkovi*.
->> - Rhizodontida: *Pycnotenion sibiriacus*.
+>> - Rhizodontida: *Pycnotenion sibiriacus*. (This taxon to be checked.)
 >> - Elasmobranchii: *Psammodus linearis* (synonym of *Chomatodus linearis*), *Lagarodus angustus*, *“Ctenacanthus” (Hybodus) panderi*, *Cladodus* sp.
->> - Holocephali: *Helodus antiquissimus*, 8Helodus contractus*, *Psephodus dentatus*.
+>> - Holocephali: *Helodus antiquissimus*, *Helodus contractus*, *Psephodus dentatus*.
 >> - Acanthodida: *Acanthodes lopatini*.
 > - **Locality and horizon**: Senek and Ortokhodan Creeks, Herbesskaya Formation, Shagonar City, Tuva, Western Siberia.
 > - **References**:Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
@@ -1265,6 +1265,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
