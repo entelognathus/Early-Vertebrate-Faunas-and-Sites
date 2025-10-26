@@ -60,9 +60,9 @@
 > - **Taxa**:
 >> - Actinopterygii: *Oxypteriscus minimus*, *Ministrella longicaudata*, *Palaeobergia microlepis*, *Bishofia lucida*, *Aetheretmon sp.*, *Ganolepis gracilis*, *Gyrolepidotus schmidtii*, *Grassator bidens*.
 >> - Megalichthyidae: *Rhizodopsis savenkovi*, *Greiserolepis minusensis*.
->> - Rhizodontida: *Pyncnotenion sibiriacus*.
->> - Elasmobranchii: *Ctenacanthus peregrinus*, *Cladodus sp.*
->> - Acanthodida: *Acanthodes lopatini*。
+>> - Rhizodontida: *Pyncnotenion sibiriacus*. (This taxon to be checked.)
+>> - Elasmobranchii: *Ctenacanthus peregrinus* (synonym of *Avonacanthus brevis*), *Cladodus sp.*
+>> - Acanthodida: *Acanthodes lopatini*.
 > - **Locality and horizon**: Izkchul Village Fish Horizon, Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia.
 > - **References**: Obruchev,1967; Vorobyeva, 1967; Maisey,1984; Berg, 1967; Kazantseva, 1968; Prokofiev, 2004; Beznosov, 2009. 
 > - **Comments**: Non-marine, brackish lagoon or lake. 
@@ -1265,6 +1265,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
