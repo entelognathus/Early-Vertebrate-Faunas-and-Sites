@@ -2078,6 +2078,15 @@ Olson, E. C., & Beerbower, J. R. (1953). The San Angelo Formati
 
 Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
 
+Lewis, G. E., & Vaughn, P. P. (1965). Early Permian vertebrates from the Cutler Formation of the Placerville area, Colorado. Geological Survey Professional Paper 503‑C, 1–50. United States Geological Survey.
+
+Lucas, S. G., Harris, J. D., Spielmann, J. A., Berman, D. S., Henrici, A. C., Heckert, A. B., Zeigler, K. E., & Rinehart, L. F. (2005). Early Permian vertebrate assemblage and its biostratigraphic significance, Arroyo del Agua, Rio Arriba County, New Mexico. New Mexico Museum of Natural History and Science Bulletin, (volume and pages not specified).
+
+Condon, S. M. (1997). Geology of the Pennsylvanian and Permian Cutler Group and Permian Kaibab Limestone in the Paradox Basin, southeastern Utah and southwestern Colorado. U.S. Geological Survey Bulletin 2000‑P, iv + 46 pp.
+
+Gee, B. M., Berman, D. S., Henrici, A. C., Pardo, J. D., & Huttenlocker, A. K. (2021). New information on the dissorophid Conjunctio (Temnospondyli) based on a specimen from the Cutler Formation of Colorado, U.S.A. Journal of Vertebrate Paleontology, 40(6), e1877152. https://doi.org/10.1080/02724634.2020.1877152
+
+Grazul, K. R., Huntoon, J. E., & O’Keefe, J. M. (2015). Stratigraphy and fossil plants from the Cutler Formation (Late Paleozoic) and their paleoclimatic implications, eastern Paradox Basin, Colorado. Geology of the Intermountain West, 2, 9–27. https://doi.org/10.31711/giw.v2.pp9-27
 
 
 
