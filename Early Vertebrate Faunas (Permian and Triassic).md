@@ -270,10 +270,10 @@
 > - **Comments**:
 
 **Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wordian–Wuchiapingian, Guadalupian–Lopingian, Middle–Late Permian
+> - **Taxa**: Therapsida: Rastodon procurvidens, Pampaphoneus biccai. Parareptilia: Provelosaurus americanus. Temnospondyli: Konzhukovia sangabrielensis.
+> - **Locality and horizon**: Boqueirão farm (São Gabriel municipality, Rio Grande do Sul State)
+> - **References**: Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
 > - **Comments**:
 
 **Whitehill Formation, Karoo Basin, South Africa**
@@ -2110,6 +2110,7 @@ MacDougall, M. J., Cisneros, J. C., Modesto, S. P., & Fröbisch, J. (2020). Conf
 Soares, M. B. (2003). A taphonomic model for the Mesosauridae assemblage of the Irati Formation (Paraná Basin, Brazil). Anais da Academia Brasileira de Ciências, 75(4), 461–470. https://www.redalyc.org/pdf/505/50510404.pdf
 
 Ventura Santos, R., Souza, P. A., Mendonça-Filho, J. G., & Lima, E. F. (2006). SHRIMP U–Pb zircon dating and palynology of bentonitic layers from the Permian Irati Formation, Brazil. Gondwana Research, 9(4), 456–463. https://doi.org/10.1016/j.gr.2005.11.003
+
 
 
 
