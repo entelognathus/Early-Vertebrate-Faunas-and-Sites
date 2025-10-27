@@ -2068,10 +2068,11 @@ Olson, E. C. (1954). Fauna of the Vale and Choza: 7, Pelycosauria – Family
 
 Gee, B. M., Rosscoe, S. J., Scott, D., Ostlien, J., & Reisz, R. R. (2018). Faunal overview of the Mud Hill locality from the early Permian Vale Formation of Taylor County, Texas. Journal of Paleontology, 92, 1092–1106. https://doi.org/10.1017/jpa.2018.26
 
+Jung, J. P., & Sues, H.‑D. (2024). Reassessment of ‘Captorhinikos’ chozaensis, an early Permian (Cisuralian: Kungurian) captorhinid reptile from Oklahoma and north‑central Texas. Journal of Paleontology, 98(1), 115‑127. https://doi.org/10.1017/jpa.2023.85
 
+Olson, E. C. (1954). Fauna of the Vale and Choza: 7. Pelycosauria: Family Caseidae. Fieldiana: Geology, 10, 193‑218.
 
-
-
+Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
 
 
 
