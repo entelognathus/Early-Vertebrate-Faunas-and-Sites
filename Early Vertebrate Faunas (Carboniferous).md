@@ -80,29 +80,15 @@
 > - **References**:Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
 > - **Comments**: Marine, shallow sea.
 > - 
-**Formation, Locality**
+**Malevka and Upa Horizons, Central part of the Russia platform, Tula and Tver, Russia**
 > - **Age**: Tournaisian.
 > - **Taxa**:
->> - Elasmobranchii: *Lissodus pectinatus* 
-> - **Locality and horizon**: Central part of the Russia platform, Tula and Tver, Russia, : 1, Snetki-Pavlovskoye; 2, Zolotoy Verkh ravine; 3, Suvorov borehole 814; 4, Novy Oskol borehole 86; 5, Andreyevka-1; 6, Krasnoye (Mokraya Tabola River); 7, Prisady; 8, Chernyshino; 9, Znamenskoye. 
+>> - Elasmobranchii: *Lissodus pectinatus*, *Orodus tumidus* Trautschold, *Diplodoselache antiqua*, *Eunemacanthus krapivnensis*，*Psephodus dentatus*，*Stethacanthus altonensis* (St John & Worthen), *S. obtusus* (Trautschold), "*Acanthodes*' indet., *Ageleodus* sp.
+>> - Sarcopterygii: *Greiserolepis tulensis*，*Taeniolepis trautscholdi* (Chabakov), *Pycnoctenion aff. siberiacus* Chabakov, Dipnoi indet.,
+>> - Actinopterygii: *Strepheoschema* sp., *Rhadinichthys* sp., *Aetheretmon* sp.     
+> - **Locality and horizon**: Malevka and Upa Horizons, Central part of the Russia platform, Tula and Tver, Russia: 1, Snetki-Pavlovskoye; 2, Zolotoy Verkh ravine; 3, Suvorov borehole 814; 4, Novy Oskol borehole 86; 5, Andreyevka-1; 6, Krasnoye (Mokraya Tabola River); 7, Prisady; 8, Chernyshino; 9, Znamenskoye. 
 > - **References**: Lebedev, 1996
-> - **Comments**: 
-
-**Formation, Locality**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**: Central part of the Russia platform, Tula, Russia, Visean: 1, Polotnyany Zavod; 2, Vitsa; 3, Priksha River; 4, Kamenka; 5, Gryzlovo quarry; 6, Azarovo; 7, Erino; 8, Gorenki; 9, Ust-Buzuluk borehole 41.
-> - **References**: Lebedev, 1996
-> - **Comments**: 
-
-
-**Formation, Locality**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**: Timan-Pechora Province. Visean: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
-> - **References**: Lebedev, 1996
-> - **Comments**: 
-
+> - **Comments**: Lebedev, 1996: 1, Malevka Horizon; early Tournasian; 2, Upa Horizon, middle to late Tournasian. 
 
 **Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
 > - **Age**: Early to middle Tournaisian.
@@ -110,7 +96,7 @@
 >> - Actinopterygii: Novogonatodus kasantsevae, Mansfieldiscus sweeti, Mansfieldiscus gibbus.
 >> - Dipnoi: Delatitia breviceps.
 >> - Rhizodontida: *Barameda decipiens*.
->> - Elasmobranchii: Tristychius sp., Ctenacanthus sp., Ageleodus altus. Gyracanthida: Gyracanthus murrayi.
+>> - Elasmobranchii: *Tristychius* sp., *Ctenacanthus* sp., *Ageleodus altus*. Gyracanthida: *Gyracanthus murrayi*.
 >> - Acanthodida: Acanthodes australis, Eupleurogmus cresswelli.
 > - **Locality and horizon**: Broken River fish fauna, Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia.
 > - **References**: Long, 1988; Woodward, 1906; Warren, 2000; Holland, 2006; Garvey, 2006; Garvey, 2008.
@@ -260,95 +246,65 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:
 > - **Comments**: Early Dinantian, Tournasian; Late Dinantian, Visean.
 
-55. East Kirkton 40
-**Formation, Locality**
-> - **Age**:
+**East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland**
+> - **Age**: Late Visean.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. East Kirkton Limestone, West Lothian Oil Shale Formation, 
-Bathgate, Lothian, Scotland. Age. Late Viséan. Environment. Non-marine, lacustrine.
-Taxa. Actinopterygii: Elonichthys robinsoni, Cosmoptychius sp., Watsonichthys sp.,
-Rhadinichthys carinatus, Mesopoma sp., Eurynotus sp., Unnamed actinopterygian. 
-Rhizodontida: Unnamed rhizodont. Elasmobranchii: Tristychius arcuatus, 
-Diplodocanthus woodi. Gyracanthida: Unnamed gyracanthid. Acanthodida: Acanthodes 
-sp. Tetrapoda: Eucritta melanolimnetes, Balanerpeton woodi, Ophiderpeton kirktonense, 
-Eldeceeon rolfei, Silvanerpeton miripedes, Westlothiana lizziae.
-References. 6, 268, 269.
+>> - Actinopterygii: Elonichthys robinsoni, Cosmoptychius sp., Watsonichthys sp., Rhadinichthys carinatus, Mesopoma sp., Eurynotus sp., Unnamed actinopterygian.
+>> - Rhizodontida: Unnamed rhizodont.
+>> - Elasmobranchii: Tristychius arcuatus, Diplodocanthus woodi.
+>> - Gyracanthida: Unnamed gyracanthid. Acanthodida: Acanthodes sp.
+>> - Tetrapoda: Eucritta melanolimnetes, Balanerpeton woodi, Ophiderpeton kirktonense, Eldeceeon rolfei, Silvanerpeton miripedes, Westlothiana lizziae.
+> - **Locality and horizon**: East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland.
+> - **References**: 6, 268, 269.
+> - **Comments**: Non-marine, lacustrine.
 
-
-56. Gilmerton 41
-**Formation, Locality**
-> - **Age**:
+**Gilmerton Blackband Ironstone, Gilmerton, Scotland**
+> - **Age**: Late Visean.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Gilmerton Blackband Ironstone, Gilmerton, Scotland. Age. Late 
-Viséan. Environment. Non-marine, lacustrine, alluvial.
-Taxa. Actinopterygii: Elonichthys robinsoni, Pseudogonatodus macrolepis, Eurynotus 
-crenatus. Dipnoi: Uronemus splendens, Ctenodus interruptus, Sagenodus 
-quinquecostatus. Megalichthyidae: Megalichthys sp. Rhizodontida: Screbinodus ornatus, 
-Rhizodus hibberti. Holocephali: Harpacanthus fimbriatus. Acanthodida: Acanthodes sp. 
-Tetrapoda: Crassigyrinus scoticus, Eoherpeton watsoni, Loxomma allmanni, 
-Pholidogaster pisciformis.
-References. 6, 24, 235, 259, 260, 269, 270, 271, 272.
+>> - Actinopterygii: Elonichthys robinsoni, Pseudogonatodus macrolepis, Eurynotus crenatus. Dipnoi: Uronemus splendens, Ctenodus interruptus, Sagenodus quinquecostatus.
+>> - Megalichthyidae: Megalichthys sp.
+>> - Rhizodontida: Screbinodus ornatus, Rhizodus hibberti. Holocephali: Harpacanthus fimbriatus. Acanthodida: Acanthodes sp.
+>> - Tetrapoda: Crassigyrinus scoticus, Eoherpeton watsoni, Loxomma allmanni, Pholidogaster pisciformis.
+> - **Locality and horizon**: Gilmerton Blackband Ironstone, Gilmerton, Scotland.
+> - **References**: 6, 24, 235, 259, 260, 269, 270, 271, 272.
+> - **Comments**: Non-marine, lacustrine, alluvial.
 
-
-57. Ardross Castle 41
-**Formation, Locality**
-> - **Age**:
+**Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, Fife, Scotland**
+> - **Age**: Late Visean.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, 
-Fife, Scotland. Age. Late Viséan. Environment. Marine, marine forms stranded in a 
-saline lagoon.
-Taxa. Actinopterygii: Rhadinichthys carinatus, Rhadinoniscus wrighti, Elonichthys 
-robinsoni, Watsonichthys pectinatus, Chirodus crassus. Actinistia: Rhabdoderma 
-ardrossense, “Coelacanthopsis” curta. Elasmobranchii: Euphyacanthus semistriatus. 
-Holocephali: Deloptychius armigerus, Eucentrurus paradoxus, Unnamed helodont. 
-Acanthodida: Acanthodes sulcatus.
-Reference. 6.
+>> - Actinopterygii: Rhadinichthys carinatus, Rhadinoniscus wrighti, Elonichthys robinsoni, Watsonichthys pectinatus, Chirodus crassus.
+>> - Actinistia: Rhabdoderma ardrossense, “Coelacanthopsis” curta.
+>> - Elasmobranchii: Euphyacanthus semistriatus.
+>> - Holocephali: Deloptychius armigerus, Eucentrurus paradoxus, Unnamed helodont.
+>> - Acanthodida: Acanthodes sulcatus.
+> - **Locality and horizon**: Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, Fife, Scotland.
+> - **References**: 6.
+> - **Comments**: Marine, marine forms stranded in a saline lagoon.
 
-
-58. Abden 41
-**Formation, Locality**
-> - **Age**:
+**Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland**
+> - **Age**: Late Visean.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland. 
-Age. Late Viséan. Environment. Marine, open marine.
-Taxa. Actinopterygii: Chirodus crassus, Eurynotus crenatus, Nematoptychius greenocki, 
-Elonichthys robinsoni. Rhizodontida: Archichthys (Strepsodus) portlocki. Actinistia:
-Diplocercides davisi. Elasmobranchii: Tristychius arcuatus. Holocephalii: Deltoptychius 
-armigerus. Acanthodida: Acanthodes sp.
-References. 6, 24, 235, 272.
+>> - Actinopterygii: Chirodus crassus, Eurynotus crenatus, Nematoptychius greenocki, Elonichthys robinsoni.
+>> - Rhizodontida: Archichthys (Strepsodus) portlocki.
+>> - Actinistia: Diplocercides davisi.
+>> - Elasmobranchii: Tristychius arcuatus.
+>> - Holocephalii: Deltoptychius armigerus.
+>> - Acanthodida: Acanthodes sp.
+> - **Locality and horizon**: Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland.
+> - **References**: 6, 24, 235, 272.
+> - **Comments**: Marine, open marine.
 
-
-59. Inchkeith
-**Formation, Locality**
-> - **Age**:
+**Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland**
+> - **Age**: Late Visean.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland. 
-Age. Late Viséan. Environment. Non-marine, lacustrine. 
-Taxa. Actinopterygii: Psuedogonatodus sp., Elonichthys robinsoni, Nematoptychius sp., 
-Eurynotus sp. Dipnoi: Sagenodus sp., Uronemus sp. Rhizodontida: Strepstodus sp., 
-Rhizodus hibberti. Elasmobranchii: Ageleodus sp., Cynopodius crenulatus, 
-Pleuracanthus sp. Gyracanthida: Gyracanthus sp. Tetrapoda: Doragnathus woodi, 
-Palaeomolgophis.
-42
-42
-References. 6.
-
-
+>> - Actinopterygii: Psuedogonatodus sp., Elonichthys robinsoni, Nematoptychius sp., Eurynotus sp.
+>> - Dipnoi: Sagenodus sp., Uronemus sp.
+>> - Rhizodontida: Strepstodus sp., Rhizodus hibberti.
+>> - Elasmobranchii: Ageleodus sp., Cynopodius crenulatus, Pleuracanthus sp. Gyracanthida: Gyracanthus sp.
+>> - Tetrapoda: Doragnathus woodi, Palaeomolgophis.
+> - **Locality and horizon**: Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland.
+> - **References**: 6.
+> - **Comments**: Non-marine, lacustrine. 
 
 **Lower Waugh Member, Ste Genevieve Formation, Iowa, USA**
 > - **Age**: Visean.
@@ -357,11 +313,23 @@ References. 6.
 > - **References**: Snyder et al. (2024). Bolt,1990; Bolt & Lombard, 2006, 2010; Bolt et al., 1988; Lombard & Bolt, 1995; Schultze & Bolt, 1996.
 > - **Comments**: The age assignment follows Snyder et al. (2024).
 
-
 > Late Dinantian in NW Europe 
 
 > East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
 
+**Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia**
+> - **Age**: Visean.
+> - **Taxa**: *Bransonella nebraskensis*, *Cochliodus contortus*, *Oracanthus vetustus*
+> - **Locality and horizon**: Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia: 1, Polotnyany Zavod; 2, Vitsa; 3, Priksha River; 4, Kamenka; 5, Gryzlovo quarry; 6, Azarovo; 7, Erino; 8, Gorenki; 9, Ust-Buzuluk borehole 41.
+> - **References**: Lebedev, 1996
+> - **Comments**: 
+
+**Timan-Pechora Province, Russia**
+> - **Age**: Visean.
+> - **Taxa**:
+> - **Locality and horizon**: Timan-Pechora Province: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
+> - **References**: Lebedev, 1996
+> - **Comments**: 
 
 
 
@@ -1281,6 +1249,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
