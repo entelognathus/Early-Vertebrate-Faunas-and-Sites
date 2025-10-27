@@ -256,10 +256,10 @@
 > - **Comments**:
 
 **Organ Rock Shale (Cutler Group), Utah–Arizona, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: late Cisuralian, Early Permian
+> - **Taxa**: Temnospondyli: Trimerorhachis sp., Eryops sp., Zatrachys sp.. Diadectomorpha: Diadectes sp., Tseajaia campi. Seymouriamorpha: Seymouria sp.. Synapsida: Ophiacodon sp., Dimetrodon sp..
+> - **Locality and horizon**: Vertebrate fossils are derived from fluvial‑channel and overbank deposits within the Organ Rock Shale of the Cutler Group, exposed in Monument Valley and adjacent areas of southeastern Utah and northeastern Arizona. Outcrops occur around Canyonlands National Park, Natural Bridges National Monument and Monument Valley, where the unit is a dark‑red mudstone/siltstone interval between the Cedar Mesa Sandstone and the De Chelly/White Rim sandstones.
+> - **References**: Vaughn 1964; Condon 1997; Tabor & Poulsen 2008; Sumida et al. 1999a; Sumida et al. 1999b
 > - **Comments**:
 
 **Irati Formation, Paraná Basin, Brazil**
@@ -2087,6 +2087,7 @@ Condon, S. M. (1997). Geology of the Pennsylvanian and Permian Cutler Grou
 Gee, B. M., Berman, D. S., Henrici, A. C., Pardo, J. D., & Huttenlocker, A. K. (2021). New information on the dissorophid Conjunctio (Temnospondyli) based on a specimen from the Cutler Formation of Colorado, U.S.A. Journal of Vertebrate Paleontology, 40(6), e1877152. https://doi.org/10.1080/02724634.2020.1877152
 
 Grazul, K. R., Huntoon, J. E., & O’Keefe, J. M. (2015). Stratigraphy and fossil plants from the Cutler Formation (Late Paleozoic) and their paleoclimatic implications, eastern Paradox Basin, Colorado. Geology of the Intermountain West, 2, 9–27. https://doi.org/10.31711/giw.v2.pp9-27
+
 
 
 
