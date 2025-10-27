@@ -127,7 +127,14 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 ### Burdigalian
 **Baripada beds**
 Signiffcant
-> - **Comments**: The Cenozoic fossiliferous sequences of the Baripada region (BMB) are conformably overlying the Precambrian metamorphic basement. The fossiliferous sequences are conformably overlain by the conglomerate bed of Pleistocene age. This sequence consists of sandstone, shale and limestone beds (Bose, 1904; Mahalik, 2006). Amongst these three units, sandstone lies at the bottom, which is followed by the deposition of shale and limestone (Khatun, 2006). The BMB are confined within limited area (within a radius of 8 km around Baripada), and are well exposed in the course of the Budhabalang river, with gentle dip of 4° to 5° towards south(Vaidyanadhan and Ramakrishnan, 2010, Bhaumik et al., 2017). The sandstone bed and shale bed are tentatively put in Burdigalian. 
+> - **Comments**: The Cenozoic fossiliferous sequences of the Baripada region (BMB) are conformably overlying the Precambrian metamorphic basement. The fossiliferous sequences are conformably overlain by the conglomerate bed of Pleistocene age. This sequence consists of sandstone, shale and limestone beds (Bose, 1904; Mahalik, 2006). Amongst these three units, sandstone lies at the bottom, which is followed by the deposition of shale and limestone (Khatun, 2006). The BMB are confined within limited area (within a radius of 8 km around Baripada), and are well exposed in the course of the Budhabalang river, with gentle dip of 4° to 5° towards south(Vaidyanadhan and Ramakrishnan, 2010, Bhaumik et al., 2017). The sandstone bed and shale bed are tentatively put in Burdigalian.
+#### Bissex Hill Formation, Bissex Hill, Barbados
+> - **Age**: Burdigalian
+> - **Taxa**: *Alopias acutidens*, *Centroscymnus schaubi*, *Elmopterus acutidens*, *Centrophorus sp.*, * Cheirostephanus hurzeleri*, *Odontaspis sp.*, *Oxyrhina hastalis*, *Oxyrhina desori*, *Oxyrhina sp.*, *Alopias grandis*, *Hemipristis serra*, *Carcharhinus egertoni*, *Sphyrna laevissima*, *Sphyraena sp.*, *Sphyraena kugleri*, *Sphyraena senni*, *Eutrichiurides sp.*, *Diodon sp.*, *Lepidopus sp.*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **,
+> - **Locality and horizon**: Bissex Hill Formation, Bissex Hill, Barbados
+> - **References**: (Casier, 1958; 1966)
+> - **Comments**: Burdigalian or Burdigalian (Casier, 1958; 1966).
+
 ### Langhian
 ### Serravallian
 ### Tortonian
@@ -144,6 +151,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
