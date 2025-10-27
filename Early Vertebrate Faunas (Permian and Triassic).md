@@ -235,10 +235,10 @@
 > - **Comments**:
 
 **Choza Formation, Foard County, Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Kungurian, Cisuralian, Early Permian
+> - **Taxa**: Chondrichthyes: Xenacanthus cf. platypternus. Temnospondyli: Diplocaulus recurvatus, Eryops megacephalus. Synapsida: Dimetrodon gigashomogenes. Captorhinidae: Sumidadectes chozaensis.
+> - **Locality and horizon**: Vertebrate fossils from the Choza Formation occur in pond shales and channel conglomerates within red‑shale sequences of the Clear Fork Group at Foard County, Texas, between the Bullwagon Dolomite and the base of the San Angelo Formation.
+> - **References**: Jung & Sues, 2024; Olson, 1954; Beede & Waite, 1918
 > - **Comments**:
 
 **San Angelo Formation, north-central Texas, USA**
@@ -2067,6 +2067,7 @@ Reisz, R. R., & Tsuji, L. A. (2006). An articulated skeleton of Varanops 
 Olson, E. C. (1954). Fauna of the Vale and Choza: 7, Pelycosauria – Family Caseidae. Fieldiana: Geology, 10, 89–128.
 
 Gee, B. M., Rosscoe, S. J., Scott, D., Ostlien, J., & Reisz, R. R. (2018). Faunal overview of the Mud Hill locality from the early Permian Vale Formation of Taylor County, Texas. Journal of Paleontology, 92, 1092–1106. https://doi.org/10.1017/jpa.2018.26
+
 
 
 
