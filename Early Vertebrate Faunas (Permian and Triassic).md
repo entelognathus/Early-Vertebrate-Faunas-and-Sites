@@ -2088,6 +2088,15 @@ Gee, B. M., Berman, D. S., Henrici, A. C., Pardo, J. D., & Hut
 
 Grazul, K. R., Huntoon, J. E., & O’Keefe, J. M. (2015). Stratigraphy and fossil plants from the Cutler Formation (Late Paleozoic) and their paleoclimatic implications, eastern Paradox Basin, Colorado. Geology of the Intermountain West, 2, 9–27. https://doi.org/10.31711/giw.v2.pp9-27
 
+Condon, S. M. (1997). Geology of the Pennsylvanian and Permian Cutler Group and Permian Kaibab Limestone in the Paradox Basin, southeastern Utah and southwestern Colorado. U.S. Geological Survey Bulletin 2000‑P, 46 pp.
+
+Sumida, S. S., Walliser, J. B. D., & Lombard, B. E. (1999a). Late Paleozoic amphibian‑grade tetrapods of Utah. Miscellaneous Publication — Utah Geological Survey, 99(1), 21–30.
+
+Sumida, S. S., Lombard, B. E., Berman, D. S., & Henrici, A. C. (1999b). Late Paleozoic amniotes and their near relatives from Utah and northeastern Arizona, with comments on the Permian–Pennsylvanian boundary in Utah and northern Arizona. Miscellaneous Publication — Utah Geological Survey, 99(1), 21–30.
+
+Tabor, N. J., & Poulsen, C. J. (2008). Palaeoclimate across the Late Pennsylvanian–Early Permian tropical palaeolatitudes: A review of climate indicators, their distribution, and relation to palaeophysiographic climate factors. Palaeogeography, Palaeoclimatology, Palaeoecology, 268, 293–310.
+
+Vaughn, P. P. (1964). Vertebrates from the Organ Rock Shale of the Cutler Group, Permian of Monument Valley and vicinity, Utah and Arizona. Journal of Paleontology, 38, 567–583.
 
 
 
