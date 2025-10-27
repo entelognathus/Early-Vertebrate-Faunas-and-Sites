@@ -334,78 +334,62 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 
 ### Serpukhovian, Late Mississipian, Carboniferous
-60. Bearsden 42
+60. Bearsden，Manse Burn Formation, Scotland
 **Formation, Locality**
-> - **Age**:
+> - **Age**: Early Serpukhovian
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Manse Burn Formation, Bearsden, Scotland. Age. Early 
-Serpukhovian. Environment. Marine, coastal.
-Taxa. Actinopterygii: Mesopoma carricki, Mesopoma smithsoni, Mesopoma pancheni, 
-Frederichthys musadentatus, Melanecta anneiae, Woodichthys bearsdeni, Chirodus 
-crassus, Actinopterygii gen. et sp. nov., Watsonichthys sp., Unnamed actinopterygian 
-1(MIC pers. obs.), Unnamed actinopterygian 2 (MIC pers. obs.). Rhizodontida: Unnamed 
-rhizodont. Actinistia: Unnamed coelacanth. Elasmobranchii: Tristychius arcuatus, 
-Onychoselache traquairi. Symmoriformes: Akmonistion zangerli Holocephali: 
-Deltoptychius sp., Unnamed menaspid. Acanthodida: Acanthodes sulcatus.
-References. 6, 273, 274, 275, 276, 277.
+>> - Actinopterygii: *Mesopoma carricki*, *Mesopoma smithsoni*, *Mesopoma pancheni*, *Frederichthys musadentatus*, *Melanecta anneiae*, *Woodichthys bearsdeni*, *Chirodus crassus*, Actinopterygii gen. et sp. nov., *Watsonichthys sp.*, Unnamed actinopterygian 1(MIC pers. obs.), Unnamed actinopterygian 2 (MIC pers. obs.).
+>> - Rhizodontida: Unnamed rhizodont.
+>> - Actinistia: Unnamed coelacanth.
+>> - Elasmobranchii: *Tristychius arcuatus*, *Onychoselache traquairi*.
+>> - Symmoriformes: *Akmonistion zangerli*
+>> - Holocephali: *Deltoptychius sp.*, Unnamed menaspid.
+>> - Acanthodida: *Acanthodes sulcatus*.
+> - **Locality and horizon**: Manse Burn Formation, Bearsden, Scotland.
+> - **References**:6, 273, 274, 275, 276, 277
+> - **Comments**: Marine, coastal.
 
-
-61. Chokier 42
+61. Chokier Formation, Belgium
 **Formation, Locality**
-> - **Age**:
+> - **Age**: Early Serpukhovian.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Chokier Formation, Belgium. Age. Early Serpukhovian. 
-Environment. Marine, open marine. 
-Taxa. Actinopterygii: Elonichthys robinsoni, Mesonichthys aitkeni, Rhadinichthys 
-raineri. Actinistia: Rhabdoderma corneti, Rhabdoderma stensioei. Holocephali:
-Physonemus konincki.
-References. 205, 206.
+>> -  Actinopterygii: *Elonichthys robinsoni*, *Mesonichthys aitkeni*, *Rhadinichthys raineri*.
+>> -  Actinistia: *Rhabdoderma corneti*, *Rhabdoderma stensioei*.
+>> -  Holocephali: *Physonemus konincki*.
+> - **Locality and horizon**: chokier Formation, Belgium
+> - **References**:205, 206.
+> - **Comments**:  Marine, open marine
 
 
-62. Loanhead
+62. Loanhead, Scotland
 **Formation, Locality**
-> - **Age**:
+> - **Age**:Mid Serpukhovian.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Burghlee Ironstone, Limestone Coal Group, Loanhead, 
-Midlothian, Scotland. Age. Mid Serpukhovian. Environment. Non-marine, lacustrine. 
-Taxa. Actinopterygii: Cryphiolepis striatus, Drydenius insignis, Elonichthys robinsoni, 
-Protohaplolepis scotica, Nematoptychius greenocki, Pseudogonatodus parvidens, 
-Eurynotus crenatus, Blairolepis loanheadensis, Watsonichthys pectinatus. Dipnoi:
-Ctenodus sp., Uronemus splendens, Sagenodus quinquecostatus. Megalichthyidae:
-Rhizodopsis sp. Rhizodontidae: Rhizodus hibberti, Screbinodus ornatus, Strepsodus 
-sauroides , Strepsodus striatulus. Elasmobranchii: Pleuracanthus gracillimus,
-Pleuracanthus horridulus, Pleuracanthus elegans, Cynopodius crenulatus, Dicentrodus 
-bicuspidatus, Diplodus parvulus. Holocephali: Euctenius elegans, Euctenodopsis tenuis. 
-Gyracanthida: Aganacanthus striatulus, Gyracanthus nobilis, Gyracanthus youngi. 
-Acanthodida: Acanthodes sp. Tetrapoda: Caerorhachis bairdi, Unnamed aistopod, 
-Eoherpeton watsoni, Acheroniscus caledoniae, Adelogyrinus sp., Doragnathus woodi, 
-Loxomma sp., Papposaurus traquair, Spathicephalus mirus.
-References. 6, 24, 28, 41, 148, 259, 260, 262, 271, 277, 278, 279, 280, 281, 282.
+>> -  Actinopterygii: Cryphiolepis striatus, Drydenius insignis, Elonichthys robinsoni, Protohaplolepis scotica, Nematoptychius greenocki, Pseudogonatodus parvidens, Eurynotus crenatus, Blairolepis loanheadensis, Watsonichthys pectinatus.
+>> -  Dipnoi: Ctenodus sp., Uronemus splendens, Sagenodus quinquecostatus.
+>> -  Megalichthyidae: Rhizodopsis sp.
+>> -  Rhizodontidae: Rhizodus hibberti, Screbinodus ornatus, Strepsodus sauroides , Strepsodus striatulus.
+>> -  Elasmobranchii: Pleuracanthus gracillimus, Pleuracanthus horridulus, Pleuracanthus elegans, Cynopodius crenulatus, Dicentrodus bicuspidatus, Diplodus parvulus. Holocephali: Euctenius elegans, Euctenodopsis tenuis.
+>> -  Gyracanthida: Aganacanthus striatulus, Gyracanthus nobilis, Gyracanthus youngi.
+>> -  Acanthodida: Acanthodes sp.
+>> -  Tetrapoda: Caerorhachis bairdi, Unnamed aistopod, Eoherpeton watsoni, Acheroniscus caledoniae, Adelogyrinus sp., Doragnathus woodi, Loxomma sp., Papposaurus traquair, Spathicephalus mirus.
+> - **Locality and horizon**: Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
+> - **References**:6, 24, 28, 41, 148, 259, 260, 262, 271, 277, 278, 279, 280, 281, 282.
+> - **Comments**: Non-marine, lacustrine. 
 
 
-63. Niddrie 43
+63. Niddrie, Scotland.
 **Formation, Locality**
-> - **Age**:
+> - **Age**:Mid Serpukhovian. 
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Niddrie Colliery Shale overlying South Parrot Coal Seam, 
-Upper Limestone Group, Niddrie, Lothian, Scotland. Age. Mid Serpukhovian. 
-Environment. Non-marine, lacustrine, coal swamp. 
-Taxa. Dipnoi: Ctenodus interruptus. Rhizodontida: Strepsodus sauroides, Rhizodus 
-hibberti, Archichthys sulcidens. Gyracanthida: Gyracanthus youngi. Tetrapoda:
-Adelogyrinus sp., Doracanthus woodi. Unnamed anthracosaur.
-References. 6, 260, 262, 281.
+>> - Dipnoi: Ctenodus interruptus.
+>> - Rhizodontida: Strepsodus sauroides, Rhizodus hibberti, Archichthys sulcidens.
+>> - Gyracanthida: Gyracanthus youngi.
+>> - Tetrapoda: Adelogyrinus sp., Doracanthus woodi. Unnamed anthracosaur.
+> - **Locality and horizon**:Niddrie Colliery Shale overlying South Parrot Coal Seam, Upper Limestone Group, Niddrie, Lothian, Scotland.
+> - **References**: 6, 260, 262, 281.
+> - **Comments**: Non-marine, lacustrine, coal swamp. 
+
 
 
 64. Millstone Grit 43
@@ -1249,6 +1233,7 @@ relationships of lower actinopterygians. Geodiversitas 31:623-668.
 
 296. Lomax, D. R., Robinson, P., Cleal, C. J., Bowden, A., & Larkin, N. R. (2016). Exceptional preservation of upper carboniferous (lower Westphalian) fossils from Edlington, Doncaster, South Yorkshire, UK. Geological Journal, 51(1), 42-50.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
+
 
 
 
