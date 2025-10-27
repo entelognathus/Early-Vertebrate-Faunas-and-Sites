@@ -2111,6 +2111,11 @@ Soares, M. B. (2003). A taphonomic model for the Mesosauridae assemblage of the 
 
 Ventura Santos, R., Souza, P. A., Mendonça-Filho, J. G., & Lima, E. F. (2006). SHRIMP U–Pb zircon dating and palynology of bentonitic layers from the Permian Irati Formation, Brazil. Gondwana Research, 9(4), 456–463. https://doi.org/10.1016/j.gr.2005.11.003
 
+Holz, M., França, A. B., Souza, P. A., Iannuzzi, R., & Rohn, R. (2010). A stratigraphic chart of the Late Carboniferous/Permian succession of the eastern border of the Paraná Basin, Brazil, South America. Journal of South American Earth Sciences, 29(2), 381–399. https://doi.org/10.1016/j.jsames.2009.04.004
+
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., Soares, M. B., & Ilha, A. L. R. (2016). A new dicynodont (Therapsida: Anomodontia) from the Permian of Southern Brazil and its implications for bidentalian origins. PLOS ONE, 11(5), e0155000. https://doi.org/10.1371/journal.pone.0155000
+
+Cisneros, J. C., Dentzien‑Dias, P., & Francischini, H. (2021). The Brazilian pareiasaur revisited. Frontiers in Ecology and Evolution, 9, 758802. https://doi.org/10.3389/fevo.2021.758802
 
 
 
