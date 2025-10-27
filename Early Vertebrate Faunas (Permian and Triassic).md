@@ -2074,8 +2074,9 @@ Olson, E. C. (1954). Fauna of the Vale and Choza: 7. Pelycosauria: Fam
 
 Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
 
+Olson, E. C., & Beerbower, J. R. (1953). The San Angelo Formation, Permian of Texas, and its vertebrates. The Journal of Geology, 61(5), 389‑423. https://doi.org/10.1086/626109
 
-
+Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
 
 
 
