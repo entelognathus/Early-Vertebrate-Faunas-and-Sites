@@ -1297,10 +1297,6 @@ Bartsch, P. (1988). Funktionelle Morphologie und Evolution des Axialskelettes un
 
 Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
 
-Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
-
-Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin.
-
 Behrensmeyer, A. K., Kidwell, S. M., and Gastaldo, R. A. (2000). Taphonomy and paleobiology. Paleobiology. 26, 103–147. doi:10.1017/S0094837300026907
 
 Beltan, L. (1968). La Faune Ichthyologique de l’Eotrias du N.W. de Madagascar: le Neurocrane ˆ . Paris: Cahiers de Paléontologie CNRS
@@ -1346,8 +1342,6 @@ Berman, D. S., Sumida, S. S., & Martens, T. (1998). Diadectes (Diadectomorpha: D
 Berman, D. S., Sumida, S. S., Henrici, A. C., Scott, D., Reisz, R. R., & Martens, T. (2021). The Early Permian bolosaurid Eudibamus cursoris: earliest reptile to combine parasagittal stride and digitigrade posture during quadrupedal and bipedal locomotion. Frontiers in Ecology and Evolution, 9, 674173. https://doi.org/10.3389/fevo.2021.674173
 
 Betancur-R., R., Ortí, G., and Pyron, R. A. (2015). Fossil-based comparative analyses reveal ancient marine ancestry erased by extinction in ray-finned fishes. Ecol. Lett. 18, 441–450. doi:10.1111/ele.12423
-
-bioone.org
 
 Blieck, A. (2011). From adaptive radiations to biotic crises in Palaeozoic vertebrates: a geobiological approach. Geol. Belg. 14, 203–227
 
@@ -1443,8 +1437,6 @@ Coates, M. I. (2017). A fish and tetrapod fauna from Romer’s Gap preserved in 
 
 Coates, M. I., and Clack, J. A. (1995). Romer’s Gap: tetrapod origins and terrestriality. Bulletin du Muséum national d’Histoire naturelle, 4ème série, section C, Sciences de la Terre, Paléontologie, Géologie, Minéralogie 17, 373–388
 
-Condon, S. M. (1997). Geology of the Pennsylvanian and Permian Cutler Group and Permian Kaibab Limestone in the Paradox Basin, southeastern Utah and southwestern Colorado. U.S. Geological Survey Bulletin 2000‑P, 46 pp.
-
 Condon, S. M. (1997). Geology of the Pennsylvanian and Permian Cutler Group and Permian Kaibab Limestone in the Paradox Basin, southeastern Utah and southwestern Colorado. U.S. Geological Survey Bulletin 2000‑P, iv + 46 pp.
 
 Cope, E.D., 1877. Descriptions of extinct Vertebrata from the Permian and Triassic formations of the United States. Proceedings of the American Philosophical Society, v. 17, no. 100, p. 182-193.
@@ -1466,8 +1458,6 @@ Cui, Y., Brauner, S., Schneider, J. W., & Béthoux, O. (2022). Grylloblattidan i
 Cuthbertson, R. S., Russell, A. P., & Anderson, J. S. (2013). Cranial morphology and relationships of a new grippidian (Ichthyopterygia) from the Vega–Phroso Siltstone Member (Lower Triassic) of British Columbia, Canada. Journal of Vertebrate Paleontology, 33(4), 831–847. https://doi.org/10.1080/02724634.2013.755989
 
 Dai, X., and Song, H. (2020). Toward an understanding of cosmopolitanism in deep time: a case study of ammonoids from the middle Permian to the Middle Triassic. Paleobiology. 46, 533–549. doi:10.1017/pab.2020.40
-
-Dalquest, W. W., & Kocurko, M. J. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. Tulane Studies in Geology and Paleontology, 21 (3).
 
 Dalquest, W. W., Kocurko, M. J., & Grimes, J. A. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. Tulane Studies in Geology and Paleontology, 21(3), 1–16.
 
@@ -1533,7 +1523,7 @@ Gubin, Y.M., 1983. Pervye eriopidy iz permi Vostochno-Evropeyskoy platformy [The
 
 Gubin, Y.M., 1983. The first eryopids from the Permian of the East-European Platform. Paleontological Journal, 17(4), 110-115.
 
-Gubin, Y.M., 1991. Permskie arkhegozavroidnyi amfibii SSSR [Permian archegosauroid amphibians from the USSR]. Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR, 249: 1-138. [In Russian]
+Gubin, Y.M., 1991. Permskie arkhegozavroidnyi amfibii SSSR Permian archegosauroid amphibians from the USSR. Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR, 249: 1-138. [In Russian]
 
 Hampe, O. (1994). Neue Erkenntnisse zur permokarbonischen Xenacanthiden-Fauna (Chondrichthyes: Elasmobranchii) und deren Verbreitung im südwestdeutschen Saar-Nahe-Becken. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 192(1), 53–87.
 
@@ -1651,8 +1641,6 @@ Leu, M., Bucher, H., and Goudemand, N. (2019). Clade-dependent size response of 
 
 Lewis, G. E., & Vaughn, P. P. (1965). Early Permian vertebrates from the Cutler Formation of the Placerville area, Colorado, with a section on footprints from the Cutler Formation. U.S. Geological Survey Professional Paper 503-C, C1–C50. doi:10.3133/pp503C.
 
-Lewis, G. E., & Vaughn, P. P. (1965). Early Permian vertebrates from the Cutler Formation of the Placerville area, Colorado. Geological Survey Professional Paper 503‑C, 1–50. United States Geological Survey.
-
 Li, Q. (2009). A new parasemionotid-like fish from the Lower Triassic of jurong, Jiangsu province, South China. Palaeontology. 52, 369–384. doi:10.1111/j.1475- 4983.2009.00848.x
 
 Liu, G., Yin, G., Wang, X., Wang, S., & Huang, L. (2002). On a new marine reptile from the Middle Triassic Yangliujing Formation of Guizhou, China. Geological Journal of China Universities, 8(2), 220–225.
@@ -1664,8 +1652,6 @@ Liu, J., Li, J. L., Wang, Y., Xu, G. H., & Xing, L. D. (2024). A new 'deep-bodie
 Liu, S., Sun, Z., Ji, C., Zhou, M., and Jiang, D. (2020). Conodont biostratigraphy and age of the Early Triassic fish-bearing-nodule levels from Nanjing and Jurong, Jiangsu province, South China. J. Earth Sci. 31, 9–22. doi:10.1007/s12583-019-1232-y
 
 Lombardo, C., Rusconi, M., and Tintori, A. (2008). New perleidiform from the Ladinian (Middle Triassic) of the northern Grigna (northern Italy). Riv. Ital. Paleontol. Stratigr. 114, 263–272. doi:10.13130/2039-4942/5901
-
-Lozovsky, V.R., Minikh, M.G., Grunt, T.A., Kukhtinov, D.A., Ponomarenko, A.G., and Sukacheva, I.D., 2009. The Ufimian Stage of the East European scale: Status, validity, and correlation potential. Stratigraphy and Geological Correlation, 17(6), 602-614.
 
 Lozovsky, V.R., Minikh, M.G., Grunt, T.A., Kukhtinov, D.A., Ponomarenko, A.G., and Sukacheva, I.D., 2009. The Ufimian Stage of the East European Scale: Status, Validity, and Correlation Potential. Stratigraphy and Geological Correlation, 17(6): 602-614. https://doi.org/10.1134/S0869593809060033
 
@@ -1727,8 +1713,6 @@ Milner, A. R., & Schoch, R. R. (2013). Trimerorhachis (Amphibia: Temnospondyli) 
 
 Milner, A.R., and Schoch, R.R., 2013. Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian of Texas and New Mexico: cranial osteology, taxonomy and biostratigraphy. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen 270(1):91-128. https://doi.org/10.1127/0077-7749/2013/0360
 
-Milner, A.R., and Schoch, R.R., 2013. Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian of Texas and New Mexico: cranial osteology, taxonomy and biostratigraphy. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen, v. 270, no. 1, p. 91-128.
-
 mindat.org
 
 Minter, N. J., & Braddy, S. J. (2009). Ichnology of an Early Permian intertidal flat: The Robledo Mountains Formation of southern New Mexico, USA. Special Papers in Palaeontology, 82, 1–107.
@@ -1759,15 +1743,11 @@ Naugolnykh, S. V. (2018). Artinskian (Early Permian) sea basin and its biota (Kr
 
 Naugolnykh, S.V., 2002. A new species of Todites (Pteridophyta) with in situ spores from the Upper Permian of Pechora Cis-Urals (Russia). Acta Palaeontologica Polonica, 47(3), 469-478.
 
-Naugolnykh, S.V., 2002. A new species of Todites Seward with in situ spores from the Upper Permian of Pechora Cis-Urals (Russia). Acta Palaeontologica Polonica, 47(3): 469-478.
-
 Naugolnykh, S.V., Kirilishina, E.M., and Isaev, V.S., 2021. New Data on Permian Plants of the Pechora Coal Basin According to the Collection of the Earth Science Museum of Moscow State University: The Coevolution of Plants and Insects. Moscow University Geology Bulletin, 76(3): 282-290. https://doi.org/10.3103/S0145875221030078
 
 Near, T. J., Eytan, R. I., Dornburg, A., Kuhn, K. L., Moore, J. A., Davis, M. P., et al. (2012). Resolution of ray-finned fish phylogeny and timing of diversification. Proc. Natl. Acad. Sci. United States. 109, 13698–13703. doi:10.1073/pnas.1206625109
 
 Nelson, W. J., Hook, R. W., & Tabor, N. (2001). Clear Fork Group (Leonardian, Lower Permian) of north-central Texas. Oklahoma Geological Survey Circular.
-
-Neuman, A. G. (2015). Fishes from the Lower Triassic portion of the Sulphur Mountain Formation in Alberta, Canada: geological context and taxonomic composition. Can. J. Earth Sci. 52, 557–568. doi:10.1139/cjes-2014-0165
 
 Neuman, A. G. (2015). Fishes from the Lower Triassic portion of the Sulphur Mountain Formation in Alberta, Canada: geological context and taxonomic composition. Canadian Journal of Earth Sciences, 52(8), 557–568. https://doi.org/10.1139/cjes‑2014‑0165
 
@@ -1871,11 +1851,7 @@ Romer, A.S., 1935. Early history of Texas redbeds vertebrates. Geological Societ
 
 Romer, A.S., 1937. New genera and species of pelycosaurian reptiles. Proceedings of the New England Zoological Club 16:89-97.
 
-Romer, A.S., 1937. New genera and species of pelycosaurian reptiles. Proceedings of the New England Zoological Club, v. 16, p. 89-96.
-
 Romer, A.S., 1957. The Appendicular Skeleton of the Permian Embolomerous Amphibian Archeria. Contributions from the Museum of Paleontology, v. 13, no. 5, p. 105-159.
-
-Romer, A.S., and Price, L.I., 1940. Review of the Pelycosauria. Geological Society of America Special Papers 28:1-538. https://doi.org/10.1130/SPE28-p1
 
 Romer, A.S., and Price, L.W., 1940. Review of the Pelycosauria. Geological Society of America Special Papers, v. 28, p. 1-538. doi: 10.1130/SPE28-p1
 
@@ -1889,11 +1865,7 @@ Sanchez, S., De Ricqlès, A., Schoch, R., & Steyer, J.-S. (2010). A new tool for
 
 Sander, P. M., Rieppel, O. C., and Bucher, H. (1994). New marine vertebrate fauna from the Middle Triassic of Nevada. J. Paleontol. 68, 676–680
 
-Sander, P.M., 1987. Taphonomy of the Lower Permian Geraldine Bonebed in Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology 61:221-236. https://doi.org/10.1016/0031-0182(87)90051-4
-
 Sander, P.M., 1987. Taphonomy of the Lower Permian Geraldine Bonebed in Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 61, p. 221-236. doi: 10.1016/0031-0182(87)90051-4
-
-Sander, P.M., 1989. Early Permian depositional environments and pond bonebeds in central Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology 69:1-21. https://doi.org/10.1016/0031-0182(89)90153-3
 
 Sander, P.M., 1989. Early Permian depositional environments and pond bonebeds in central Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 69, p. 1-21. doi: 10.1016/0031-0182(89)90153-3
 
@@ -1977,8 +1949,6 @@ Sun, Z.-Y., Tintori, A., Lombardo, C., and Jiang, D.-Y. (2016b). New miniature n
 
 Surlyk, F., Bjerager, M., Piasecki, S., and Stemmerik, L. (2017). Stratigraphy of the marine Lower Triassic succession at Kap Stosch, Hold With Hope, north-east Greenland. Bull. Geol. Soc. Den. 65, 87–123.
 
-Syromyatnikov, K.V., 2000. Facies nature of clay minerals from the Inta Formation, southern Pechora Coal Basin. Lithology and Mineral Resources, 35(5), 466-474.
-
 Syromyatnikov, K.V., 2000. Facies nature of clay minerals from the Inta Formation, southern Pechora Coal Basin. Lithology and Mineral Resources, 35(5): 466-474. https://doi.org/10.1007/BF02782732
 
 Tabor, N. J., & Poulsen, C. J. (2008). Palaeoclimate across the Late Pennsylvanian–Early Permian tropical palaeolatitudes: A review of climate indicators, their distribution, and relation to palaeophysiographic climate factors. Palaeogeography, Palaeoclimatology, Palaeoecology, 268, 293–310.
@@ -2006,8 +1976,6 @@ Tintori, A., Lombardo, C., and Kustatscher, E. (2016). The Pelsonian (Anisian, M
 Tong, J., and Yin, H. (2002). The Lower Triassic of South China. J. Asian Earth Sci. 20, 803–815. doi:10.1016/S1367-9120(01)00058-X
 
 Tong, J., Zhou, X., Erwin, D. H., Zuo, J., & Zhao, L. (2006). Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui Province, China. Journal of Paleontology, 80(1), 146‑161. https://doi.org/10.1666/0022-3360(2006)080[0146:FFFTLT]2.0.CO;2
-
-Tong, J., Zhou, X., Erwin, D. H., Zuo, J., and Zhao, L. (2006). Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui province, China. J. Paleontol. 80, 146–161. doi:10.1666/0022-3360(2006)080[0146:FFFTLT]2.0.CO;2
 
 Tozer, E. T. (1965). Lower Triassic stages and ammonoid zones of Arctic Canada. Pap. Geol. Surv. Can. 65, 1–14
 
@@ -2065,8 +2033,6 @@ Werneburg, R., Kogan, I., and Sell, J. (2014). Saurichthys (Pisces: Actinopteryg
 
 Werneburg, R., Ronchi, A., Schneider, J. W., et al. (2007). The Early Permian branchiosaurids (Amphibia) of Sardinia (Italy): systematic palaeontology, palaeoecology, biostratigraphy and palaeobiogeographic problems. Palaeogeography, Palaeoclimatology, Palaeoecology, 252(3–4), 383–404. https://doi.org/10.1016/j.palaeo.2007.03.048
 
-Werneburg, R., Štamberg, S., and Steyer, J-S., 2020. A new stereospondylomorph, Korkonterpeton kalnense gen. et sp. nov., from lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2), 217-242.
-
 Werneburg, R., Štamberg, S., and Steyer, J.-S., 2020. A new stereospondylomorph, Korkonerpeton kalnense gen. et sp. nov., from the Lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2): 217-242. https://doi.org/10.37520/fi.2020.019
 
 Widmann, P., Bucher, H., Leu, M., Vennemann, T., Bagherpour, B., SchneebeliHermann, E., et al. (2020). Dynamics of the largest carbon isotope excursion during the Early Triassic biotic recovery. Front. Earth Sci. 8 (196), 1–16. doi:10. 3389/feart.2020.00196
@@ -2114,6 +2080,8 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
+
 
 
 
