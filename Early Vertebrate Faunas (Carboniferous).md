@@ -427,9 +427,12 @@ Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lowe
 > - **Comments**: Marine, reef. Bear Gulch Limestone Lagerstatte.
 > - Early Namurian in NW Europe
 
-Middle Serpukhovian. 3, Kalinovskie Vyselki (Moscow Region); 4, Zaborye (Moscow Region); 5, Zudna (Kaluga Region); Steshevian in Russian Regional stage.
-
-Lebedev et al., 2021: Middle Serpukhovian. Dashkovo Formation (Steshevian Regional Stage); 3, Kalinovskie Vyselki (Moscow Region); 4, Zaborye (Moscow Region); 5, Zudna (Kaluga Region); Protochimaera mirabilis
+**Dashkovo Formation, Moscow and Kaluga Regions, Russia**
+> - **Age**: Middle Serpukhovian. 
+> - **Taxa**: *Protochimaera mirabilis*
+> - **Locality and horizon**: Dashkovo Formation, Kalinovskie Vyselki (Moscow Region); Zaborye (Moscow Region); Zudna (Kaluga Region); Russia.
+> - **References**: Lebedev et al., 2021:
+> - **Comments**: Steshevian Regional Stage.
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
@@ -1097,5 +1100,6 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
