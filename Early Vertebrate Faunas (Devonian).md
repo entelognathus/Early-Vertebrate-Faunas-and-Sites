@@ -630,7 +630,9 @@ Gauja stage (late Givetian)
 
 > - Choo et al. (2024): Taking into account other microvertebrate evidence, Young and Turner (2000: fig. 4) correlated the Harajica fauna with the Antarctic Aztec fish assemblage (Macrovertebrate zone 6d), of probable Givetian age.
 
-
+***Asterolepis scabra beds of Fiskekløfta in Mimerdalen, Spitsbergen***, Givetian
+> - Taxa: *Atopacanthus sp.*
+> - 
 ***Tatong-South Blue Range fauna***, upper Givetian, 384.37, 382.7
 > Tatong, eastern Victoria, Australia. MAV7,
 > - *Bothriolepis tatongensis* Long and Werdelin, 1986.
@@ -1021,6 +1023,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
