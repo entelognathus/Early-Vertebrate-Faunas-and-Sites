@@ -242,10 +242,10 @@
 > - **Comments**:
 
 **San Angelo Formation, north-central Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Roadian, Guadalupian, Middle Permian
+> - **Taxa**: Caseidae: Angelosaurus dolani, Caseoides sanangeloensis. Sphenacodontidae: Dimetrodon angelensis
+> - **Locality and horizon**: The San Angelo Formation crops out in north‑central Texas (Hardeman, Foard, Jones counties) as the basal unit of the Pease River Group; vertebrate fossils occur in red shales, sandstones and conglomerates of flood‑plain deposits between the underlying Choza Formation (Clear Fork Group) and the overlying Blaine Formation.
+> - **References**: Olson & Beerbower, 1953; Beede & Waite, 1918.
 > - **Comments**:
 
 **Cutler Formation, Colorado, USA**
@@ -2073,6 +2073,7 @@ Jung, J. P., & Sues, H.‑D. (2024). Reassessment of ‘Captorhinikos’ cho
 Olson, E. C. (1954). Fauna of the Vale and Choza: 7. Pelycosauria: Family Caseidae. Fieldiana: Geology, 10, 193‑218.
 
 Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
+
 
 
 
