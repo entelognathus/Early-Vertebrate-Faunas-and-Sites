@@ -314,7 +314,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The age assignment follows Snyder et al. (2024).
 
 > Late Dinantian in NW Europe 
-
 > East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
 
 **Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia**
@@ -331,12 +330,9 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Lebedev, 1996
 > - **Comments**: 
 
-
-
 ### Serpukhovian, Late Mississipian, Carboniferous
-60. Bearsden，Manse Burn Formation, Scotland
-**Formation, Locality**
-> - **Age**: Early Serpukhovian
+**Manse Burn Formation, Bearsden, Scotland**
+> - **Age**: Early Serpukhovian.
 > - **Taxa**:
 >> - Actinopterygii: *Mesopoma carricki*, *Mesopoma smithsoni*, *Mesopoma pancheni*, *Frederichthys musadentatus*, *Melanecta anneiae*, *Woodichthys bearsdeni*, *Chirodus crassus*, Actinopterygii gen. et sp. nov., *Watsonichthys sp.*, Unnamed actinopterygian 1(MIC pers. obs.), Unnamed actinopterygian 2 (MIC pers. obs.).
 >> - Rhizodontida: Unnamed rhizodont.
@@ -349,21 +345,18 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:6, 273, 274, 275, 276, 277
 > - **Comments**: Marine, coastal.
 
-61. Chokier Formation, Belgium
-**Formation, Locality**
+**Chokier Formation, Belgium**
 > - **Age**: Early Serpukhovian.
 > - **Taxa**:
 >> -  Actinopterygii: *Elonichthys robinsoni*, *Mesonichthys aitkeni*, *Rhadinichthys raineri*.
 >> -  Actinistia: *Rhabdoderma corneti*, *Rhabdoderma stensioei*.
 >> -  Holocephali: *Physonemus konincki*.
-> - **Locality and horizon**: chokier Formation, Belgium
+> - **Locality and horizon**: Chokier Formation, Belgium.
 > - **References**:205, 206.
 > - **Comments**:  Marine, open marine
 
-
-62. Loanhead, Scotland
-**Formation, Locality**
-> - **Age**:Mid Serpukhovian.
+**Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland**
+> - **Age**: Middle Serpukhovian.
 > - **Taxa**:
 >> -  Actinopterygii: Cryphiolepis striatus, Drydenius insignis, Elonichthys robinsoni, Protohaplolepis scotica, Nematoptychius greenocki, Pseudogonatodus parvidens, Eurynotus crenatus, Blairolepis loanheadensis, Watsonichthys pectinatus.
 >> -  Dipnoi: Ctenodus sp., Uronemus splendens, Sagenodus quinquecostatus.
@@ -373,122 +366,68 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> -  Gyracanthida: Aganacanthus striatulus, Gyracanthus nobilis, Gyracanthus youngi.
 >> -  Acanthodida: Acanthodes sp.
 >> -  Tetrapoda: Caerorhachis bairdi, Unnamed aistopod, Eoherpeton watsoni, Acheroniscus caledoniae, Adelogyrinus sp., Doragnathus woodi, Loxomma sp., Papposaurus traquair, Spathicephalus mirus.
-> - **Locality and horizon**: Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
+> - **Locality and horizon**: Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland.
 > - **References**:6, 24, 28, 41, 148, 259, 260, 262, 271, 277, 278, 279, 280, 281, 282.
 > - **Comments**: Non-marine, lacustrine. 
 
-
-63. Niddrie, Scotland.
-**Formation, Locality**
-> - **Age**:Mid Serpukhovian. 
+**Upper Limestone Group, Niddrie, Lothian, Scotland**
+> - **Age**: Middle Serpukhovian. 
 > - **Taxa**:
 >> - Dipnoi: Ctenodus interruptus.
 >> - Rhizodontida: Strepsodus sauroides, Rhizodus hibberti, Archichthys sulcidens.
 >> - Gyracanthida: Gyracanthus youngi.
 >> - Tetrapoda: Adelogyrinus sp., Doracanthus woodi. Unnamed anthracosaur.
-> - **Locality and horizon**:Niddrie Colliery Shale overlying South Parrot Coal Seam, Upper Limestone Group, Niddrie, Lothian, Scotland.
+> - **Locality and horizon**: Niddrie Colliery Shale overlying South Parrot Coal Seam, Upper Limestone Group, Niddrie, Lothian, Scotland.
 > - **References**: 6, 260, 262, 281.
 > - **Comments**: Non-marine, lacustrine, coal swamp. 
 
-
-
-64. Millstone Grit 43
-**Formation, Locality**
-> - **Age**:
+**Millstone Grit, Summit, Lancashire, England**
+> - **Age**: Late Serpukhovian.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Millstone Grit, Summit, Lancashire, England. Age. Late 
-Serpukhovian. Environment. Marine, coastal marine. 
-Taxa. Actinopterygii: Rhadinichthys planti, Rhadinichthys microdon, Rhadinichthys 
-monensis, Rhadinichthys elegans, Elonichthys aitkeni, Elonichthys caudalis, Elonichthys 
-oblongus, Acrolepis hopkinsi, Elonichthys obliquus, Elonichthys ornatus, Platysomus sp. 
-Dipnoi: Sagenodus inequalis. Megalichthyidae: Megalichthys hibberti, Rhizodopsis 
-sauroides. Rhizodontida: Archichthys sulcidens. Actinistia: “Coelacanthus” sp. nov. 
-Elasmobranchii: Cladodus mirabilis, Acondylacanthus sp., Euctenodopsis tenuis, 
-Ctenacanthus major. Symmoriiformes: Falcatus falcatus. Holocephalii: Psephodus 
-minuta, Poecilodus jonesii, Janassa linguaeformis. Gyracanthida: Marsdenius summiti, 
-Oracanthus milleri. Acanthodida: Acanthodes wardi, Acanthodes striatus.
-References. 283, 284, 285, 286.
+>> - Actinopterygii: Rhadinichthys planti, Rhadinichthys microdon, Rhadinichthys monensis, Rhadinichthys elegans, Elonichthys aitkeni, Elonichthys caudalis, Elonichthys oblongus, Acrolepis hopkinsi, Elonichthys obliquus, Elonichthys ornatus, Platysomus sp.
+>> - Dipnoi: Sagenodus inequalis.
+>> - Megalichthyidae: Megalichthys hibberti, Rhizodopsis sauroides.
+>> - Rhizodontida: Archichthys sulcidens.
+>> - Actinistia: “Coelacanthus” sp. nov.
+>> - Elasmobranchii: Cladodus mirabilis, Acondylacanthus sp., Euctenodopsis tenuis, Ctenacanthus major.
+>> - Symmoriiformes: Falcatus falcatus.
+>> - Holocephalii: Psephodus minuta, Poecilodus jonesii, Janassa linguaeformis.
+>> - Gyracanthida: Marsdenius summiti, Oracanthus milleri. Acanthodida: Acanthodes wardi, Acanthodes striatus.
+> - **Locality and horizon**: Millstone Grit, Summit, Lancashire, England.
+> - **References**: 283, 284, 285, 286.
+> - **Comments**: Marine, coastal marine. 
 
-
-
-65. Dora 43
-**Formation, Locality**
-> - **Age**:
+**Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, Scotland**
+> - **Age**:Late Serpukhovian. 
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, 
-Scotland. Age. Late Serpukhovian. Environment. Non-marine, lacustrine, coal swamp.
-Taxa. Actinopterygii: Psuedogonatodus sp. Rhizodontida: Strepsodus sp. 
-Elasmobranchii: Dicentrodus bicuspidatus, Diploselache parvulus, Xenacanthus elegans. 
-Gyracanthida: Gyracanthus young, Aganacanthus striatulus. Tetrapoda: Eoherpeton 
-watsoni, Proterogyrinus sp., Crassigyrinus scoticus, Doragnathus woodi, Adelogyrinus 
-sp., Spathicephalus mirus, Unnamed anthracosaur.
-References. 6, 42, 235, 260, 281, 287, 288.
+>> - Actinopterygii: Psuedogonatodus sp. Rhizodontida: Strepsodus sp.
+>> - Elasmobranchii: Dicentrodus bicuspidatus, Diploselache parvulus, Xenacanthus elegans.
+>> - Gyracanthida: Gyracanthus young, Aganacanthus striatulus.
+>> - Tetrapoda: Eoherpeton watsoni, Proterogyrinus sp., Crassigyrinus scoticus, Doragnathus woodi, Adelogyrinus sp., Spathicephalus mirus, Unnamed anthracosaur.
+> - **Locality and horizon**: Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, Scotland.
+> - **References**:6, 42, 235, 260, 281, 287, 288.
+> - **Comments**: Non-marine, lacustrine, coal swamp.
 
-
-66. Bear Gulch
-**Formation, Locality**
-> - **Age**:
+**Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA**
+> - **Age**: Late Serpukhovian.
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
-Stratigraphy/Location. Bear Gulch Limestone, Heath Formation, Big Snowy Group, 
-Montana. Age. Late Serpukhovian. Environment. Marine, reef.
-Taxa. Actinopterygii: Paratarrasius hibbardi, Kalops monophrys, Kalops diophrys, 
-Unnamed tarrasiiform, Aesopichthys erinaceus, Proceramala montanensis, Cyranorhis 
-bergeraci, Discoserra pectinodon, Wendichthys dicksoni, Wendyichthys lautreci, 
-44
-44
-Guildayichthys carnegiei, Unnamed actinopterygian “copiosus”, Unnamed 
-actinopterygian “brevis”, Unnamed actinopterygian “prolatus”, Cornuboniscus sp., 
-Unnamed actinopterygian “gulo”, Phanerosteon sp., Unnamed actinopterygian “lundae”, 
-Unnamed actinopterygian “worm tail”, Unnamed actinopterygian “round tail”, Unnamed 
-actinopterygian “spike”, Unnamed actinopterygian “BGLP”, Unnamed actinopterygian 
-“big antorbital”, Unnamed actinopterygian “deep belly”, Unnamed actinopterygian “short 
-vertical cheek”, Unnamed actinopterygian “nude cheek”, Unnamed actinopterygian 
-“horizontal cheek”, Unnamed actinopterygian “fat fish”, Unnamed actinopterygian “deep 
-scale”, Unnamed actinopterygian “long pelvic”, Unnamed actinopterygian “barred scale”, 
-Unnamed actinopterygian “tube bod”, Unnamed actinopterygian “pseudo”, Beagiascus 
-pulcherrimus, Lineagruan snowyi, Lineagruan judithi, Platysomus sp. Rhizodontida:
-Strepsodus sp. Actinistia: Allenypterus montanus, Caridosuctor populosum, Hadronector 
-donbairdi, Lochmocercus aciculodontus, Polyosteorhynchus beargulchensis, Actinistia 
-gen. et sp. nov. Elasmobranchii: Heteropetalus elegantulus., Squatactinus montanus, 
-Orodus daedalus, Orodus springeri, Orodus sp., Thrinacoselache gracia, Listracanthus 
-sp., Symmoriiformes: Damocles serratus, Falcatus falcatus, Orestiacanthus fergusi, 
-Stethacanthus altonensis, Stethacanthus productus. Holocephali: Bellbonn rogaire, 
-Gregorius rexi, Srianta dawsoni, Srianta iarlis, Srianta srianta, Debeerius ellefseni, 
-Belantsea montana, Ctenopetalus serratus, Janassa clarki, Netsepoye hawesi, 
-Petalorhynchus beargulchensis, Polyrhizodus digitatus, Sikisika ottae, Venustodus 
-arguatus, Harpacanthus fimbriatus, Lisgodus sp., Delphyodontos dacriformes, 
-Harpagofututor volsellorhinus, Echinochimaera meltoni, Echinochimaera snyderi,
-Traquairius agkistrocephalus, Traquairius nudus, Traquairius nitidus, Rainerichthys 
-zengeri, Papillionichthys stahlae. Acanthodida: Acanthodes lundi.
-References. 44, 289, 290, 291, 292, 293, 294, 295, Carnegie Museum of Natural History
-Collections.
-
-
-> Early Namurian in NW Europe
-**Bear Gulch Limestone Lagerstatte**
-> late Serpukhovian: Wendyichthys dicksoni, Guildayichthys carnegiei, Discoserra pectinodon
-
-
-
-
+>> - Actinopterygii: Paratarrasius hibbardi, Kalops monophrys, Kalops diophrys, Unnamed tarrasiiform, Aesopichthys erinaceus, Proceramala montanensis, Cyranorhis bergeraci, Discoserra pectinodon, Wendichthys dicksoni, Wendyichthys lautreci, Guildayichthys carnegiei, Unnamed actinopterygian “copiosus”, Unnamed actinopterygian “brevis”, Unnamed actinopterygian “prolatus”, Cornuboniscus sp., Unnamed actinopterygian “gulo”, Phanerosteon sp., Unnamed actinopterygian “lundae”, Unnamed actinopterygian “worm tail”, Unnamed actinopterygian “round tail”, Unnamed actinopterygian “spike”, Unnamed actinopterygian “BGLP”, Unnamed actinopterygian “big antorbital”, Unnamed actinopterygian “deep belly”, Unnamed actinopterygian “short vertical cheek”, Unnamed actinopterygian “nude cheek”, Unnamed actinopterygian “horizontal cheek”, Unnamed actinopterygian “fat fish”, Unnamed actinopterygian “deep scale”, Unnamed actinopterygian “long pelvic”, Unnamed actinopterygian “barred scale”, Unnamed actinopterygian “tube bod”, Unnamed actinopterygian “pseudo”, Beagiascus pulcherrimus, Lineagruan snowyi, Lineagruan judithi, Platysomus sp.
+>> - Rhizodontida: Strepsodus sp.
+>> - Actinistia: Allenypterus montanus, Caridosuctor populosum, Hadronector donbairdi, Lochmocercus aciculodontus, Polyosteorhynchus beargulchensis, Actinistia gen. et sp. nov.
+>> - Elasmobranchii: Heteropetalus elegantulus., Squatactinus montanus, Orodus daedalus, Orodus springeri, Orodus sp., Thrinacoselache gracia, Listracanthus sp.,
+>> - Symmoriiformes: Damocles serratus, Falcatus falcatus, Orestiacanthus fergusi, Stethacanthus altonensis, Stethacanthus productus.
+>> - Holocephali: Bellbonn rogaire, Gregorius rexi, Srianta dawsoni, Srianta iarlis, Srianta srianta, Debeerius ellefseni, Belantsea montana, Ctenopetalus serratus, Janassa clarki, Netsepoye hawesi, Petalorhynchus beargulchensis, Polyrhizodus digitatus, Sikisika ottae, Venustodus arguatus, Harpacanthus fimbriatus, Lisgodus sp., Delphyodontos dacriformes, Harpagofututor volsellorhinus, Echinochimaera meltoni, Echinochimaera snyderi,Traquairius agkistrocephalus, Traquairius nudus, Traquairius nitidus, Rainerichthys zengeri, Papillionichthys stahlae.
+>> - Acanthodida: Acanthodes lundi.
+> - **Locality and horizon**: Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
+> - **References**: 44, 289, 290, 291, 292, 293, 294, 295, Carnegie Museum of Natural History
+> - **Comments**: Marine, reef. Bear Gulch Limestone Lagerstatte.
+> - Early Namurian in NW Europe
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
 > Late Namurian in NW Europe
 >
 > Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
-
-
-
 
 
 ### Moscovian, Middle Pennsylvanian, Carboniferous
@@ -1150,3 +1089,4 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
