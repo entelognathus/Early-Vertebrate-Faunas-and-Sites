@@ -263,10 +263,10 @@
 > - **Comments**:
 
 **Irati Formation, Paraná Basin, Brazil**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian–Kungurian, Cisuralian, Early Permian
+> - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum, Brazilosaurus sanpauloensis. Chondrichthyes: Itapyrodus punctatus, Taquaralodus albuquerquei, Fairchildodus rioclarensis, Orodus ipeunaensis, Sphenacanthus sanpauloensis. Actinopterygii & Coelacanthiformes: fragmentary scales and teeth.
+> - **Locality and horizon**: The formation crops out in the Paraná Basin across São Paulo, Paraná, Goiás, Mato Grosso do Sul, and Rio Grande do Sul States. It comprises two main members: the lower Taquaral Member (sandy–silty shale with chondrichthyan assemblages) and the upper Assistência Member (bituminous shale yielding Mesosauridae remains) (Soares, 2003; Chahud & Petri, 2013; MacDougall et al., 2020).
+> - **References**: Ventura Santos et al., 2006; Soares, 2003; Chahud & Petri, 2013; Chahud et al., 2010; Chahud et al., 2020; MacDougall et al., 2020; Cagliari et al., 2022.
 > - **Comments**:
 
 **Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil**
@@ -2097,6 +2097,7 @@ Sumida, S. S., Lombard, B. E., Berman, D. S., & Henrici, A. C.
 Tabor, N. J., & Poulsen, C. J. (2008). Palaeoclimate across the Late Pennsylvanian–Early Permian tropical palaeolatitudes: A review of climate indicators, their distribution, and relation to palaeophysiographic climate factors. Palaeogeography, Palaeoclimatology, Palaeoecology, 268, 293–310.
 
 Vaughn, P. P. (1964). Vertebrates from the Organ Rock Shale of the Cutler Group, Permian of Monument Valley and vicinity, Utah and Arizona. Journal of Paleontology, 38, 567–583.
+
 
 
 
