@@ -2098,6 +2098,18 @@ Tabor, N. J., & Poulsen, C. J. (2008). Palaeoclimate across the Late
 
 Vaughn, P. P. (1964). Vertebrates from the Organ Rock Shale of the Cutler Group, Permian of Monument Valley and vicinity, Utah and Arizona. Journal of Paleontology, 38, 567–583.
 
+Cagliari, J., Serratt, H., Basei, M. A. S., Chemale, F. Jr., & Kuyumjian, R. M. (2022). New high-precision U–Pb zircon age of the Irati Formation (Paraná Basin, Brazil). Geochronology Research Letters, 45, 77–89. https://scholarworks.boisestate.edu/geo_facpubs/654
+
+Chahud, A., & Petri, S. (2013). The silty shale Taquaral Member of the Early Permian Irati Formation (Paraná Basin, Brazil): Paleontology and paleoenvironments. Swiss Journal of Palaeontology, 132, 119–128. https://doi.org/10.1007/s13358-013-0055-1
+
+Chahud, A., Fairchild, T. R., Petri, S., & Coimbra, A. M. (2010). Chondrichthyans from the base of the Irati Formation (Early Permian, Paraná Basin), São Paulo, Brazil. Anuário do Instituto de Geociências, 33(1), 73–82.
+Chahud, A., Silva Santos, R., & Petri, S. (2020). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. bioRxiv Preprint. https://doi.org/10.1101/2020.10.09.333591
+
+MacDougall, M. J., Cisneros, J. C., Modesto, S. P., & Fröbisch, J. (2020). Conflicting evidence for the use of caudal autotomy in mesosaurs. PeerJ, 8, e9385. https://doi.org/10.7717/peerj.9385
+
+Soares, M. B. (2003). A taphonomic model for the Mesosauridae assemblage of the Irati Formation (Paraná Basin, Brazil). Anais da Academia Brasileira de Ciências, 75(4), 461–470. https://www.redalyc.org/pdf/505/50510404.pdf
+
+Ventura Santos, R., Souza, P. A., Mendonça-Filho, J. G., & Lima, E. F. (2006). SHRIMP U–Pb zircon dating and palynology of bentonitic layers from the Permian Irati Formation, Brazil. Gondwana Research, 9(4), 456–463. https://doi.org/10.1016/j.gr.2005.11.003
 
 
 
