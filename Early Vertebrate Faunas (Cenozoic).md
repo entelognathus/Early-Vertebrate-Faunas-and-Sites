@@ -82,7 +82,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### middle Eocene of Claiborne, Monroe County, State of Alabama, USA.
 > - **Age**:Lutetian
-> - **Taxa**: **, **, 
+> - **Taxa**: *Odontaspis macrota*, *Odontaspis cf. rutoti*, *Negaprion gibbesi gilmorei*, *Physodon secundus*, *Galeorhinus recticonus claibornensis*, *Galeorhinus cf. falconeri*, *Lutianus intermedius*, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: middle Eocene of Claiborne, Monroe County, State of Alabama, USA
 > - **References**: (White, 1956)
 > - **Comments**: 
@@ -165,6 +165,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
