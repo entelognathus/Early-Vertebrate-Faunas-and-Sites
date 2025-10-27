@@ -160,11 +160,13 @@ Signiffcant
 > - **Comments**: Integrated approach combining foraminiferal, sedimentological and bulk organic geochemical analyses on limestone unit of Baripada marine Beds reveal the following: Planktic foraminiferal study indicated that the limestone unit in the Baripada marine bed was deposited within the upper Miocene with a time frame ~12.6 to ~8.3 Ma (i.e. Serravallian to Tortonian age) (Bhaumik et al., 2017). Here we tentatively put it in Tortonian.
 
 ### Messinian
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+#### Usuba sandstone, Taga beds, Zyoban/Joban Coal-field.
+> - **Age**: Messinian
+> - **Taxa**: *Carcharhinus (Prionodon) praejaponicus*, *Carcharodon (Carcharocles) sagai*
+> - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
+> - **References**: (Yabe, 1949)
+> - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
+
 
 
 
