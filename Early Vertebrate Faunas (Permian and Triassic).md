@@ -249,10 +249,10 @@
 > - **Comments**:
 
 **Cutler Formation, Colorado, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wolfcampian, Early Permian
+> - **Taxa**: Temnospondyli: Conjunctio cf. C. multidens, Eryops grandis. Synapsida: Cutleria wilmarthi, Sphenacodon ferocior, Ophiacodon sp.. Diadectomorpha: Diadectes sp.. Parareptilia: Bolosaurus sp.
+> - **Locality and horizon**: Fossils are from the Placerville area in San Miguel County, Colorado; they occur in red‑bed deposits of the undivided Cutler Formation (Wolfcampian) exposed near Cutler Creek and correlate with classic Lower Permian continental formations.
+> - **References**: Lewis & Vaughn, 1965; Lucas et al., 2005; Condon, 1997; Gee et al., 2021; Grazul et al., 2015.
 > - **Comments**:
 
 **Organ Rock Shale (Cutler Group), Utah–Arizona, USA**
@@ -2077,6 +2077,7 @@ Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. Univer
 Olson, E. C., & Beerbower, J. R. (1953). The San Angelo Formation, Permian of Texas, and its vertebrates. The Journal of Geology, 61(5), 389‑423. https://doi.org/10.1086/626109
 
 Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
+
 
 
 
