@@ -9,86 +9,97 @@
 
 # Permian
 ## Cisuralian (Early Permian)
-
 **Cutler Formation, Four Corners (Colorado/Utah/Arizona/New Mexico), USA**
-> - **Age**: Asselian to Sakmarian, Cisuralian (Early Permian), Permian
-> - **Taxa**: Chondrichthyes: Xenacanthus sp. (freshwater xenacanthid shark), Actinopterygii: Progyrolepis sp. (palaeoniscoid fish), Dipnoi (lungfish): Sagenodus sp., emnospondyli (amphibians): Eryops grandis, Platyhystrix rugosus, Zatrachys serratus, Chenoprosopus milleri, *Ecolsonia cutlerensis*, Lepospondyli: Stegotretus agyrus, Seymouriamorpha: Seymouria sanjuanensis, Diadectomorpha: Limnoscelis paludis, Limnoscelis dynatis, Diadectes lentus, Tseajaia campi, Captorhinidae: Rhiodenticulatus heatoni, Araeoscelidia: Zarcasaurus tanyderus, Synapsida (early pelycosaurs): Oedaleops campi (eothyridid), Aerosaurus wellesi (varanopseid), Ophiacodon mirus (ophiacodontid), Edaphosaurus novomexicanus (edaphosaurid), Sphenacodon ferox (sphenacodontid)
+> - **Age**: Asselian to Sakmarian, Cisuralian (Early Permian), Permian.
+> - **Taxa**:
+>> - Chondrichthyes: *Xenacanthus* sp. (freshwater xenacanthid shark),
+>> - Actinopterygii: *Progyrolepis* sp. (palaeoniscoid fish),
+>> - Dipnoi (lungfish): *Sagenodus* sp.,
+>> - emnospondyli (amphibians): *Eryops grandis*, *Platyhystrix rugosus*, *Zatrachys serratus*, *Chenoprosopus milleri*, *Ecolsonia cutlerensis*,
+>> - Lepospondyli: *Stegotretus agyrus*,
+>> - Seymouriamorpha: *Seymouria sanjuanensis*,
+>> - Diadectomorpha: *Limnoscelis paludis*, *Limnoscelis dynatis*, *Diadectes lentus*, *Tseajaia campi*,
+>> - Captorhinidae: *Rhiodenticulatus heatoni*,
+>> - Araeoscelidia: *Zarcasaurus tanyderus*,
+>> - Synapsida (early pelycosaurs): *Oedaleops campi* (eothyridid), *Aerosaurus wellesi* (varanopseid), *Ophiacodon mirus* (ophiacodontid), *Edaphosaurus novomexicanus* (edaphosaurid), *Sphenacodon ferox* (sphenacodontid)
 > - **Locality and horizon**: Exposed across the Four Corners region, notably in the Paradox Basin and Chama Basin. Key fossil sites include Placerville area (western Colorado) and Cañon del Cobre/Arroyo del Agua in north-central New Mexico, as well as Halgaito Formation outcrops in the Monument Valley region of Utah. Vertebrate remains derive from fluvial red-bed strata of the lower Cutler Group (e.g. Halgaito Tongue / El Cobre Canyon Formation), often in channel-fill conglomerates and sandstones near the Pennsylvanian–Permian boundary.
 > - **References**: Lewis and Vaughn, 1965; Hunt and Lucas, 1992; Berman et al., 1985; Lucas et al., 2010;
-> - **Comments**: Diadectes fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
->
+> - **Comments**: *Diadectes* fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
 
 **Abo Formation, New Mexico, USA**
-> - **Age**: Early Permian (Cisuralian; middle Wolfcampian to early Leonardian)
-> - **Taxa**: Synapsida: Dimetrodon occidentalis. Dipnoi (lungfishes): Gnathorhiza sp.. Temnospondyli: Trimerorhachis sandovalensis.
+> - **Age**: Cisuralian (Early Permian), Permian.
+> - **Taxa**:
+>> - Synapsida: *Dimetrodon occidentalis*.
+>> - Dipnoi (lungfishes): *Gnathorhiza* sp..
+>> - Temnospondyli: *Trimerorhachis sandovalensis*.
 > - **Locality and horizon**: The Abo Formation is widely exposed in central New Mexico (type section at Abo Pass, Socorro County) and lies disconformably atop the Upper Pennsylvanian Bursum Formation, with a conformable contact below the Lower Permian Yeso Group (Lucas et al., 2013). Vertebrate remains from the Spanish Queen Mine near Jemez Springs (Sandoval County) further support assignment of the Abo to the Wolfcampian (early Permian) land-vertebrate age (Hunt and Lucas, 1996).
 > - **References**: Lucas et al., 2016; Berman, 1977; Lucas et al., 2013; Berman and Reisz, 1980; Hunt and Lucas, 1996; Lucas et al., 2001
-> - **Comments**: 
+> - **Comments**: middle Wolfcampian to early Leonardian.
 
 **Tambach Formation, Thuringian Forest, Germany**
-> - **Age**: Early Permian (Cisuralian）
-> - **Taxa**: Temnospondyl amphibians: Tambachia trogallas, Rotaryus gothae. Early amniotes (reptiles and synapsids): Eudibamus cursoris, Dimetrodon teutonis.
+> - **Age**: Cisuralian (Early Permian), Permian.
+> - **Taxa**:
+>> - Temnospondyl amphibians: *Tambachia trogallas*, *Rotaryus gothae*.
+>> - Early amniotes (reptiles and synapsids): *Eudibamus cursoris*, *Dimetrodon teutonis*.
 > - **Locality and horizon**: Bromacker Quarry near Tambach-Dietharz (Thuringian Forest, central Germany); Tambach Formation (lowermost Upper Rotliegend Group, Lower Permian) (Sumida et al., 1998; Berman et al., 2004).
 > - **References**: Sumida et al., 1998; Berman et al., 2000; Eberth et al., 2000; Berman et al., 2004; Berman et al., 2011
 > - **Comments**: 
 
 **Goldlauter Formation, Thuringian Forest, Germany**
-> - **Age**: Early Permian (Asselian Stage)
+> - **Age**: Asselian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Branchiosaurid Amphibians (Temnospondyli): Apateon dracyiensis, Apateon kontheri, Apateon flagrifer, Melanerpeton eisfeldi, Branchierpeton reinholdi . Actinopterygian Fishes: Amelangia ornata.
 > - **Locality and horizon**: Exposed in the Thuringian Forest Basin (central Germany) as part of the Lower Rotliegend Group. Vertebrate fossils originate chiefly from lacustrine shale horizons in the lower Goldlauter Formation (Asselian), notably at the Cabarz quarry near Tabarz and the Sperbersbach site near Gehlberg (Cui et al., 2022; Štamberg and Werneburg, 2023). These fossiliferous “lake” beds lie above the Manebach Formation and are correlated with the uppermost Gzhelian–Asselian continental sequence (Schneider et al., 2020, as cited in Cui et al., 2022).
 > - **References**: Werneburg et al., 2007; Werneburg, 1988; Štamberg and Werneburg, 2023; Cui et al., 2022; Buchwitz and Voigt, 2018; Käßner et al., 2024; Werneburg, 2007
 > - **Comments**:
 
 **Meisenheim Formation, Saar–Nahe Basin (Germany)**
-> - **Age**: Asselian Stage (Lower Permian), spanning the Carboniferous–Permian boundary
+> - **Age**: Asselian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes (cartilaginous fish): Xenacanthus meisenheimensis. Acanthodii: Acanthodes sp.. Actinopterygii: Paramblypterus duvernoy. Sarcopterygii: Palatinichthys laticeps. Amphibia (Temnospondyli): Sclerocephalus haeuseri, Glanochthon angusta, Archegosaurus decheni, Apateon pedestris.
 > - **Locality and horizon**: Continental lake deposits of the Lower Rotliegend (Glan Subgroup) in the Saar–Nahe Basin, SW Germany. Vertebrate fossils occur throughout the Meisenheim Formation (M1–M10 units), with major Lagerstätten in laminated shales and limestones at Jeckenbach (M6, Odernheim Subformation), Odernheim (M8 “Kalkbank”), Pfarrwald/Kappeln (M9 black shale), and Humberg near Odernheim (M10) (Boy et al., 2012; Schoch, 2021). These horizons lie in the Autunian-aged red-bed sequences of the basin’s Bad Kreuznach region (Rhineland-Palatinate)
 > - **References**: Boy, 1987; Boy, 1994; Hampe, 1994; Boy, 1996; Schoch and Hampe, 2004; Königer et al., 2002; Witzmann, 2006; Boy, 2003; Kriwet et al., 2008; Schoch and Witzmann, 2009a; Schoch and Witzmann, 2009b; Witzmann and Schoch, 2012; Boy et al., 2012; Schoch, 2021
-> - **Comments**: 
+> - **Comments**: spanning the Carboniferous–Permian boundary
 
 **Muse Formation, Autun Basin, France**
-> - **Age**: Early Permian (Asselian)
+> - **Age**: Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes (Xenacanthidae): Triodus cf. frossardi. Actinopterygii (Aeduellidae): Aeduella blainvillei. Temnospondyli (Eryopidae): Actinodon frossardi. Temnospondyli (Branchiosauridae): Apateon dracyensis.
 > - **Locality and horizon**: Exposed near Muse (Dracy-Saint-Loup commune) in Saône-et-Loire, this formation consists of deltaic-lacustrine strata with organic-rich oil-shale beds (the Lally and Muse oil-shale horizons) in the lower Autunian regional stage (Asselian, Cisuralian) (Pellenard et al., 2017; Soler-Gijón & Hampe, 1998).
 > - **References**: Pellenard et al., 2017; Soler-Gijón & Hampe, 1998; Heyler, 1969; Werneburg & Steyer, 1999; Sanchez et al., 2010; Werneburg & Ronchi, 2011
 > - **Comments**: 
 
 **Ecca Group, Karoo Basin, South Africa & Namibia**
-> - **Age**: Early Permian (Asselian–Roadian)
+> - **Age**: Asselian to Roadian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Reptilia (Mesosauridae): Mesosaurus tenuidens, Stereosternum tumidum. Actinopterygii (Palaeonisciformes): Watsonichthys lotzi, Palaeoniscum capensis. Temnospondyli: indeterminate labyrinthodont amphibian remains.
 > - **Locality and horizon**: Fossils are mainly found in the Whitehill Formation (lower Ecca Group) of the main Karoo Basin in South Africa, and in equivalent Permian strata of Namibia (the Whitehill or “White Band” and overlying Aussenkjer Formation in the southern Karoo Basin; the Tsarabis Formation in the Huab Basin of northern Namibia) (Evans and Bender, 1999; Ledendecker, 1992).
 > - **References**: Catuneanu et al., 2005; Oelofsen and Araújo, 1987; Evans and Bender, 1999; Ledendecker, 1992
 > - **Comments**: 
 
 **Irati Formation, Paraná Basin, Brazil**
-> - **Age**: Early Permian (Artinskian–Kungurian)
+> - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Mesosauridae (Parareptilia): Mesosaurus tenuidens, Stereosternum tumidum, Brazilosaurus sanpauloensis. Chondrichthyes: Sphenacanthus sanpauloensis, Taquaralodus albuquerquei, Xenacanthus pricei, Iratiacanthus santamariaensis, Itapyrodus punctatus, Fairchildodus rioclarensis, Orodus ipeunaensis.
 > - **Locality and horizon**: Widespread in the Paraná Basin of Brazil (with exposures in São Paulo, Paraná, and neighboring states); stratigraphically, the formation is divided into the lower Taquaral Member (siltstones and basal sandstones) and the upper Assistência Member (organic-rich shales and limestones) (Santos et al., 2006; Chahud, 2023).
 > - **References**: Santos et al., 2006; Chahud et al., 2010; Chahud, 2023
 > - **Comments**: 
 
 **Pedra de Fogo Formation, Parnaíba Basin, Brazil**
-> - **Age**: Early Permian (Artinskian–Kungurian)
+> - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**:
 > - **Locality and horizon**: Vertebrate fossils are distributed widely across Maranhão, Piauí, and Tocantins states. The principal fossil sites include Pastos Bons and Nova Iorque (Maranhão) yielding Prionosuchus and chondrichthyan remains from silty shale and chert layers; the Timon–Nazária region (Maranhão–Piauí) preserving Timonya, Procuhy, and captorhinids from lacustrine siltstones of the lower Pedra de Fogo Formation; and Guaraí (Tocantins), which has yielded fin spines and scales of sharks and palaeonisciform fishes (Price, 1948; Cisneros et al., 2015; Alves, 2010b). Most vertebrate-bearing levels correspond to the lower to middle parts of the formation (Basal Silex and lower Middle members).
 > - **References**:
 > - **Comments**: 
 
 **Liffey Group, Tasmania, Australia**
-> - **Age**: Early Permian (Sakmarian)
+> - **Age**: Sakmarian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: no vertebrate fossil?
 > - **Locality and horizon**: Western Bluff (Kansas Creek area, northern Tasmania); non-marine Liffey Group sandstones overlie the Golden Valley Group
 > - **References**:
 > - **Comments**:
 
 **Shanxi Formation, Shanxi Province, China**
-> - **Age**: Early Permian (Asselian)
+> - **Age**: Asselian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Ornithoprion sp., Palaeomolis sp. (Liu, 2013; Liu et al., 2024). Temnospondyli: Caerorhachis bairdi, Eryops sp., Platyhystrix sp. (Liu, 2013; Liu et al., 2024), Shanxitemnos qiangshuiensis (Chen et al., 2020). Reptiliomorpha: Shansiodon yangquanensis (Wang et al., 2023), Palaeogyrinus sp. (Liu et al., 2024).
 > - **Locality and horizon**: Qianshui quarry, Qinyuan County, and localities in Yangquan, Shanxi Province, China. Lower member (or lower part) of the Shanxi Formation (Liu, 2013; Chen et al., 2020; Wang et al., 2023).
 > - **References**:
 > - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
-
-
 
 **Inta Formation, Pechora Coal Basin, Russia**
 > - **Age**: upper Kungurian (latest Early Permian) to lower Roadian (earliest Middle Permian)
@@ -105,121 +116,119 @@
 > - **Comments**:
 
 **Archer City Formation, North-central Texas, United States**
-> - **Age**: Asselian to early Sakmarian, Early Permian (Cisuralian)
+> - **Age**: Asselian to early Sakmarian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Orthacanthus texensis, Orthacanthus compresus, Xenacanthus sp., Hybodus sp., Ctenacanthus sp., Barbclabornia luederensis (Johnson, 1999; Johnson, 2012). Osteichthyes: Ectosteorhachis nitidus, Sagenodus sp., Gnathorhiza sp., Palaeoniscoidea indet. (Thomson, 1964; Sander, 1989). Temnospondyli: Eryops megacephalus, Edops craigi, Neldasaurus wrightae, Phonerpeton pricei, Trimerorhachis insignis, Archeria crassidisca, Tersomius texensis, Acheloma sp., Broiliellus brevis, Broiliellus olsoni, "Dissorophus" angustus (Romer & Price, 1940; Romer & Witter, 1942; Chase, 1965; Dilkes, 1990; Dilkes, 2020; Milner & Schoch, 2013; Schoch, 2018). Nectridea: Diplocaulus sp., Crossotelos sp. (Romer & Price, 1940). Microsauria: Pantylus cordatus, Parioxys sp. (Romer & Price, 1940). Captorhinidae: Protorothyris archeri, Romeria texana, Romeria primus (Price, 1937; Clark & Carroll, 1973; Laurin, 1991). Bolosauridae: Eocaptorhinus sp. (Romer & Price, 1940). Caseidae: Casea sp. (Romer & Price, 1940). Varanopidae: Apsisaurus witteri, Varanosaurus wichitaensis, Mycterosaurus sp. (Romer & Price, 1940; Reisz et al., 2010). Ophiacodontidae: Ophiacodon uniformis, Ophiacodon retroversus, Ophiacodon navajovicus (Romer & Price, 1940). Edaphosauridae: Edaphosaurus boanerges (Romer & Price, 1940). Sphenacodontidae: Dimetrodon milleri, Dimetrodon limbatus, Dimetrodon natalis, Dimetrodon booneorum, Dimetrodon grandis, Dimetrodon giganhomogenes, Sphenacodon ferocior, Secodontosaurus obtusidens (Romer, 1937; Romer & Price, 1940). Synapsida incertae sedis: Stereophallodon ciscoensis, Baldwinonus trux, Lupeosaurus sp., Theropleura sp. (Romer & Price, 1940). Diadectidae: Diadectes sp. (Romer & Price, 1940).
 > - **Locality and horizon**: Formation outcrops in arc from Montague County through Clay, Archer, and Young counties to Throckmorton County, most broadly exposed in Clay and Archer counties; type section along Farm Road 2581, approximately 5 miles southeast of Archer City. Formation thickness 350-400 feet (107-122 m), containing 9-15 mappable sandstone members with intervening red mudstones. Principal bonebeds include Archer City Bonebed I, III (ACBB III, Circle A Ranch), and V (TMM-45923, Circle A Ranch), Rattlesnake Canyon Bonebed, Kola Switch locality (Clay County), and over 200 tetrapod sites (Hentz, 1988; Hook, 1989; Sander, 1989; Shelton, 2013; DiMichele et al., 2019).
 > - **References**: Chase, 1965; Clark & Carroll, 1973; Dilkes, 1990; Dilkes, 2020; DiMichele et al., 2018; DiMichele et al., 2019; Hentz, 1988; Hentz & Brown, 1987; Hook, 1989; Johnson, 1999; Johnson, 2012; Laurin, 1991; Lucas, 2006; Milner & Schoch, 2013; Price, 1937; Reisz et al., 2010; Romer, 1928; Romer, 1935; Romer, 1937; Romer & Price, 1940; Romer & Witter, 1942; Sander, 1987; Sander, 1989; Schoch, 2018; Shelton, 2013; Tabor & Montañez, 2004; Tabor et al., 2013; Thomson, 1964; Wardlaw, 2005.
 > - **Comments**: 
 
 **Nocona Formation, Texas, United States**
-> - **Age**: Sakmarian, Early Permian (Cisuralian) 
+> - **Age**: Sakmarian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Barbclabornia luedersensis, Xenacanthus sp. (Johnson, 2003; Johnson, 2013). Osteichthyes: Paleoniscum sp., Acrolepis sp., Ectosteorhachis sp., Bourbonnella sp. (Dunkle, 1946; Sander, 1987). Amphibia (Temnospondyli): Eryops megacephalus, Trimerorhachis insignis, Trimerorhachis sp., Cacops morrisi, Cacops sp., Zygosaurus sp., Zatrachys serratus, Pasawioops mayi, Acheloma sp., Phonerpeton sp., Archeria crassidisca, Diplocaulus sp. (Romer and Price, 1940; Romer, 1957; Williston, 1910; Sander, 1987; Bourget and Anderson, 2011; Milner and Schoch, 2013; Schoch and Sues, 2013). Synapsida: Dimetrodon natalis, Dimetrodon limbatus, Dimetrodon booneorum, Dimetrodon milleri, Dimetrodon grandis, Ctenospondylus sp., Sphenacodon sp., Secodontosaurus sp., Varanosaurus sp., Ophiacodon sp., Edaphosaurus boanerges, Eothyris sp., Casea sp., Cotylorhynchus sp. (Cope, 1877; Case, 1907; Romer, 1937; Romer and Price, 1940; Hook and Hotton, 1991; Modesto, 1995; Shelton et al., 2012; Shelton and Sander, 2017; Agliano et al., 2021). Reptilia: Captorhinus aguti, Captorhinus sp., Rothianiscus sp., Araeoscelis sp., Bolosaurus sp., Romeria sp. (Cope, 1882; Vaughn, 1955; Fox and Bowman, 1966).
 > - **Locality and horizon**: Nocona Formation is exposed in Baylor County, Archer County, Clay County, and Montague County in north-central Texas, extending into Jefferson County, Oklahoma; stratotype located near Ringgold, Montague County, Texas (Hentz, 1988). 
 > - **References**: Cope, 1877; Cope, 1878; Cope, 1882; Case, 1907; Williston, 1910; Romer, 1937; Romer and Price, 1940; Romer, 1957; Dunkle, 1946; Vaughn, 1955; Fox and Bowman, 1966; Barnes, 1987; Hentz and Brown, 1987; Sander, 1987; Hentz, 1988; Sander, 1989; Hook and Hotton, 1991; Barnes, 1991; Modesto, 1995; Johnson, 2003; Bourget and Anderson, 2011; Shelton et al., 2012; Milner and Schoch, 2013; Johnson, 2013; Schoch and Sues, 2013; Shelton and Sander, 2017; Agliano et al., 2021
 > - **Comments**: 
 
-
 **Lueders Formation, north-central Texas, USA**
-> - **Age**: Artinskian，Early Permian
+> - **Age**: Artinskian，Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Acrodus olsoni, Acrodus sweetlacruzensis, Lissodus zideki, Barbclabornia luedersensis, Ctenacanthus cf. amblyxiphias, Janassa sp., Orthacanthus platypternus, Orthacanthus texensis, Deltodus mercuri. Osteichthyes: Schaefferichthys leudersensis, Platysomus palmaris, Luederia kempi, Gnathorhiza serrata, Lawnia cf. taylorensis, Spermatodus pustulosus, Acrolepis sp., Sagenodus sp.. Amphibia: Eryops megacephalus, Diplocaulus magnicornis, Trimerorhachis sp., Crossotelos annulatus. Reptilia: Captorhinus sp.. Arthropoda: Panduralimulus babcocki. Mollusca: Koninckioceras bibbi, Metacoceras sp., Michelinoceras sp., Millkoninckioceras sp., Perrinitidae indet., Stenopoceras cf. whitei. Echinodermata: Crinoidea indet.. Bryozoa: Bryozoa indet.. Plantae: Tinsleya texana, Zeilleropteris wattii.
 > - **Locality and horizon**: Shackelford County, Texas
 > - **References**: Shell et al., 2024; Berman, 1970; Dalquest et al., 1988; Wikipedia contributors, 2025
 > - **Comments**: 
 
 **Nocona Formation, north-central Texas, USA**
-> - **Age**: Asselian，Early Permian
+> - **Age**: Asselian，Cisuralian (Early Permian), Permian.
 > - **Taxa**: Synapsida: Ctenorhachis jacksoni, Dimetrodon booneorum, Dimetrodon limbatus, Dimetrodon natalis, Edaphosaurus boanerges, Lupeosaurus kayi, Ophiacodon retroversus, Ophiacodon uniformis, Secodontosaurus obtusidens. Amphibia: Archeria crassidisca, Cardiocephalus sp., Diadectes sideropelicus, Diplocaulus sp., Eryops megacephalus, Rubeostratilia texensis, Scapanops neglecta, Trimerorhachis insignis, Zatrachys serratus. Platysomus sp., Sagenodus sp., Spermatodus pustulosus. Crustacea: Mamayocaris jaskoskii, Paulocaris jepseni.
 > - **Locality and horizon**: Exposures primarily in Archer, Clay, and northern Montague Counties, Texas, with type locality at a river bluff approximately 3.6 miles north of Ringgold, Montague County (Geolex, 2025).
 > - **References**: Lucas et al., 2005; Romer and Price, 1939; Hook and Hotton, 1991; Shelton et al., 2012; Agliano et al., 2021; Johnson, 2013; Modesto, 1995; Shelton and Sander, 2017; Romer, 1957; Konietzko-Meier et al., 2016; Bourget and Anderson, 2011; Schoch and Sues, 2013; Milner and Schoch, 2013; Hotton et al., 2002
 > - **Comments**: 
 
 **Robledo Mountains Formation, south-central New Mexico, USA**
-> - **Age**: Artinskian，Early Permian
+> - **Age**: Artinskian，Cisuralian (Early Permian), Permian.
 > - **Taxa**: Tetrapod footprints: Batrachichnus salamandroides, Batrachichnus aff. salamandroides, Dimetropus nicolasi, Dimetropus leisneranius, Dromopus lacertoides, cf. Erpetopus, Limnopus vagus, Gilmoreichnus hermitanus, Hyloidichnus bifurcatus (Minter & Braddy, 2009). Fish swimming trails: Undichna bina, Undichna britannica, Undichna? unisulca (Minter & Braddy, 2009).
 > - **Locality and horizon**: Robledo Mountains Formation of the Hueco Group exposed in the Robledo Mountains of Doña Ana County, south‑central New Mexico; interbedded marine limestones, calcareous shales and red‑bed siliciclastics deposited on an upper intertidal flat during the late Early Permian (Minter & Braddy, 2009).
 > - **References**: Minter & Braddy, 2009; Heckert et al., 2010
 > - **Comments**: 
 
 **Orby Head Formation, Prince Edward Island, Canada**
-> - **Age**: Artinskian，Early Permian
+> - **Age**: Artinskian，Cisuralian (Early Permian), Permian.
 > - **Taxa**: Synapsida: Dimetrodon borealis. Parareptilia: indeterminate parareptile.
 > - **Locality and horizon**: Coastal exposures of the Orby Head Formation along the north‑central and northeastern coast of Prince Edward Island from Profitts Point to East Point; the formation is the youngest fining‑upward megacyclic sequence of the Pictou Group and consists of basal conglomerates overlain by wacke and red‑bed fluvial deposits (van de Poll, 1983; Brink et al., 2013).
 > - **References**: van de Poll, 1983; Case, 1905; Brink et al., 2013
 > - **Comments**: 
 
 **Irati Formation, Paraná Basin, Brazil**
-> - **Age**: Kungurian, Early Permian
+> - **Age**: Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum, Brazilosaurus sanpauloensis. Chondrichthyes: Itapyrodus punctatus, Fairchildodus rioclarensis.
 > - **Locality and horizon**: Widespread exposures in the Paraná Basin of Brazil, especially in the state of São Paulo; the formation is divided into two members, the Taquaral (lower) and Assistência (upper). A sandy facies at the base of the Taquaral Member yields abundant chondrichthyan fossils, while the shales and limestones of the Assistência Member preserve mesosaurid reptiles (Chahud, 2023; de Queiroz et al., 2020).
 > - **References**: de Queiroz et al., 2020; Chahud, 2023
 > - **Comments**: 
 
 **Mangrullo Formation, Paraná Basin, Uruguay**
-> - **Age**: Artinskian, Early Permian
+> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum
 > - **Locality and horizon**: Exposures cropping out in the Cerro Largo Department of northeastern Uruguay, especially at the Estancia “El Barón” locality, where the Mangrullo Formation (∼40 m thick) consists predominantly of laminated oil shale, claystone and siltstone beds of the Cerro Largo Group; fossiliferous horizons in the lower mudstone and claystone layers yield the mesosaurid community (Piñeiro et al., 2011; Calisto et al., 2022).
 > - **References**: de Queiroz et al., 2020; Piñeiro et al., 2011; Calisto et al., 2022
 > - **Comments**: 
 
 **Whitehill Formation, Karoo Basin, South Africa & Namibia**
-> - **Age**: Artinskian, Early Permian
+> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Amniota: Mesosaurus tenuidens, Stereosternum tumidum. Actinopterygii: Watsonichthys lotzi, Palaeoniscum capensis. Cephalochordata: Palaeobranchiostoma sp.
 > - **Locality and horizon**: The Whitehill Formation crops out in the Karoo Basin of South Africa and the equivalent Karasberg Basin of Namibia. In South Africa the formation is exposed near Calvinia and Louriesfontein (Northern Cape Province), where recent collections of articulated fish and mesosaurids were made. The formation is a thin unit of black carbonaceous shale within the Ecca Group; it was deposited as laminated muds in an inland sea with limited ocean access. Equivalent horizons extend into the Huab and Kalahari basins of Namibia and correlate with the Irati Formation of Brazil and the Mangrullo Formation of Uruguay. 
 > - **References**: Evans & Bender, 1999; Modesto, 2010; Damiani & Rubidge, 2003; Verrière & Fröbisch, 2022
 > - **Comments**: 
 
-
 **Cundlego Formation, Carnarvon & Perth Basins, Western Australia**
-> - **Age**: Artinskian, Cisuralian, Early Permian
+> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Echinodermata: Jimbacrinus bostocki. Brachiopoda: Spiriferella cundlegoensis, Fusispirifer cundlegoensis, Imperiospira sp., Hoskingia kennediensis
 > - **Locality and horizon**: Calcareous silty sandstone beds of the Cundlego Formation (Byro Group) exposed in the bed of the Gascoyne River just west of Gascoyne Junction and at Jimba Jimba Station in the Carnarvon Basin; the formation represents an early‑Permian marine deposit in a flooded interior rift basin within the Carnarvon and Perth basins (Willink & Kapitany, 2024; Mory & Backhouse, 1997).
 > - **References**: Willink & Kapitany, 2024; Mory & Backhouse, 1997; Archbold & Thomas, 1985.
 > - **Comments**:
 
 **Divjinskian Formation, Krasnoufimsk, Cis-Urals, Russia**
-> - **Age**: Artinskian Stage, Cisuralian， Early Permian
+> - **Age**: Artinskian Stage, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Parahelicoprion clerci. Cephalopoda: Uraloceras sp.
 > - **Locality and horizon**: Exposures near the town of Krasnoufimsk (sections such as Krasnoufimskie Klyuchiki, After Selection and Sobolya) in the Cis‑Urals; stratotype sections of the Divjinskian Formation (upper Artinskian substage) (Naugolnykh, 2018; Mironenko, 2022).
 > - **References**: Karpinsky 1916; Naugolnykh 2018; Mironenko 2022.
 > - **Comments**: 
 
 **Sarginskian Formation, Krasnoufimsk, Cis-Urals, Russia**
-> - **Age**: Artinskian, Early Permian
+> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Artiodus prominens, Helicoprion bessonovi
 > - **Locality and horizon**: Krasnoufimskie Klyuchiki quarry near the town of Krasnoufimsk, Sverdlovsk Region, Middle Urals, Russia; deposits belong to the Divya Formation within the Sarginskian Regional Stage (upper Artinskian) (Ivanov et al., 2017).
 > - **References**: Ivanov et al., 2017; Karpinsky, 1899.
 > - **Comments**: 
 
 **The Rotliegend Group, Germany**
-> - **Age**: Artinskian, Early Permian
+> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Temnospondyli: Georgenthalia clavinasica. Seymouriamorpha: Seymouria sanjuanensis. Diadectomorpha: Diadectes sp.. Synapsida (Sphenacodontidae): Dimetrodon teutonis. Bolosauridae: Eudibamus cursoris.
 > - **Locality and horizon**: Fossils derive from the Bromacker quarry in the Tambach Formation (Upper Rotliegend), within the Tambach Basin of the Thuringian Forest in central Germany; exposures belong to the upper beds (“Bromacker horizon”) of the Artinskian-stage Tambach Formation
 > - **References**: Berman & Martens, 1993; Berman et al., 1998; Anderson et al., 2008; Berman et al., 2001; Berman et al., 2021
 > - **Comments**: 
 
 **Admiral Formation, north-central Texas, USA**
-> - **Age**:late Wolfcampian to early Leonardian, Early Permian.
+> - **Age**:late Wolfcampian to early Leonardian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Marine cephalopods (Nautilida, Ammonoidea): *Stearceras* sp., *Stenopoceras* sp., *Foordiceras ornatissimum*, *Liroceras globulare*, *Metacoceras cheneyi*, *Akmilleria adkinsi*, *Neopronorites* sp., *Pseudorthoceras knoxense*, *Bitaunioceras texanum* and ammonoid *Properrinites boesei*; gastropods: *Bellerophon (Bellerophon) complanatus* and *B. (Bellerophon) parvicristus* .
 > - **Locality and horizon**: Basal formation of the Wichita Group; forms a continuous high escarpment through Shackelford, Callahan and Coleman counties, central Texas (Plummer & Moore, 1922). In the Colorado River valley it encompasses, from base to top, the Lost Creek shale, Hords Creek limestone, Wildcat Creek shale and Overall limestone members. Fossil-bearing beds at the Coleman site belong to the Wildcat Creek Member (Lower Permian, Wolfcampian) (Maeda et al., 2003).
 > - **References**: Plummer & Moore, 1922; Miller & Youngquist, 1947; Barnes, 1987; Maeda et al., 2003
 > - **Comments**:
 
 **Lueders Formation, Baylor County, Texas, USA**
-> - **Age**: Artinskian–Kungurian, Early Permian
+> - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Amphibians (nectrideans and eryopids): *Crossotelos annulatus*, *Diplocaulus magnicornis*, *Eryops megacephalus* and *Trimerorhachis* sp.. bony fish: *Acrolepis* sp., lungfish *Gnathorhiza serrata*, palaeonisciforms *Lawnia cf. L. taylorensis*, *Luederia kempi*, ?*Platysomus palmaris*, lungfish *Sagenodus* and freshwater palaeonisciform *Schaefferichthys leudersensis*; acanthodian fish: *Acanthodes* sp.; cartilaginous fish: *Acrodus*, petalodonts *Janassa*, xenacanths: *Barbclabornia luedersensis*, *Orthacanthus platypternus* and *O. texensis*; synapsids including *Dimetrodon* sp.; 
 > - **Locality and horizon**: Top unit of the Albany Group consisting of interbedded shale and limestone; includes the Lake Kemp and Maybelle limestone members and underlies the Clear Fork Group. Fossil-rich deposits occur in the Maybelle Member at Lake Kemp Dam and along the Salt Fork of the Brazos River near Miller’s Creek (22 km south of Seymour) (Dalquest & Kocurko, 1988). The dolostone matrix of the Maybelle Member records shallow, near-shore marine environments, whereas darker shales yield freshwater and terrestrial assemblages.
 > - **References**: Dalquest & Kocurko, 1988; Johnson, 1981; Berman, 1968; Mamay, 1966; Berman & Johnson, 1978
 > - **Comments**:
 
 **Arroyo Formation, north-central Texas, USA**
-> - **Age**: Kungurian, the Early Permian 
+> - **Age**: Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: *Orthacanthus platypternus*; lungfish: *Gnathorhiza*; amphibians: *Diplocaulus*, *Trimerorhachis*. eryopids: *Eryops*, seymouriamorphs: *Seymouria*, diadectomorphs: *Diadectes*, dissorophoid temnospondyls: *Acheloma*, *Broiliellus*, *Aspidosaurus*. microsaurs: *Pantylus*, *Microbrachis* and *Pelodosotis* (Olson, 1989); pelycosaurian synapsids: *Dimetrodon* spp., edaphosaurids: *Edaphosaurus pogonias*, varanopids: *Secodontosaurus*, *Varanosaurus*.  eureptiles: *Captorhinus*, *Labidosaurus*. araeoscelid: *Araeoscelis*.
 > - **Locality and horizon**: Basal unit of the Clear Fork Group; extends northeast from Concho County to Wilbarger County (Sellars, 1932). In the “southern area” (Runnels and Taylor counties) the formation comprises a sequence of terrestrial mudstones with interbedded marine limestones—Rainey, Lytle, Kirby Lake and Standpipe limestones—that preserve marine and reworked terrestrial fossils (Beede & Waite, 1918). In the “classic area” between the Salt Fork Brazos and Red River, red-clay floodplain deposits in Baylor, Wilbarger and Wichita counties yield abundant Early Permian tetrapod assemblages and plant impressions (Olson, 1989).
 > - **References**: Beede & Waite, 1918; Sellars, 1932; Olson, 1958; Olson, 1989; Nelson et al., 2001; Lucas et al., 2011.
 > - **Comments**: 
 
 **Vale Formation, Knox County, Texas, USA**
-> - **Age**: Kungurian, Early Permian
+> - **Age**: Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Fishes: Gnathorhiza dikeloda, Orthacanthus cf. platypternus. Amphibians: Diplocaulus magnicornis, Trimerorhachis insignis. Reptiles: Captorhinikos valensis, Araeoscelis gracilis. Synapsids: Dimetrodon giganhomogenes, Varanops brevirostris, Casea broilii.
 > - **Locality and horizon**: Fossils are concentrated in several horizons of the Vale Formation. Key localities include the northern Vale outcrop in Knox County (complete section), the Sid McAdams locality in the lower part of the Vale Formation (southern Taylor County), the Blackwood locality in the middle Vale (central Taylor County) and the Stamford locality in the middle Vale (southern Haskell County). Vertebrate fossils occur in channel conglomerates within red‑ and green‑coloured sands and clays of the Clear Fork Group.
 > - **References**: Olson 1948; Olson & Mead 1982; Modesto et al. 2014; Reisz & Tsuji 2006; Olson 1954; Gee et al. 2018
@@ -2054,8 +2063,11 @@ Olson, E. C., & Mead, J. G. (1982). The Vale Formation (Lower Permian)
 Modesto, S. P., Lamb, A. J., & Reisz, R. R. (2014). The captorhinid reptile Captorhinikos valensis from the lower Permian Vale Formation of Texas, and the evolution of herbivory in eureptiles. Journal of Vertebrate Paleontology, 34(2), 291–302. https://doi.org/10.1080/02724634.2013.809358
 
 Reisz, R. R., & Tsuji, L. A. (2006). An articulated skeleton of Varanops with bite marks: the oldest known evidence of scavenging among terrestrial vertebrates. Journal of Vertebrate Paleontology, 26(4), 991–996.
+
 Olson, E. C. (1954). Fauna of the Vale and Choza: 7, Pelycosauria – Family Caseidae. Fieldiana: Geology, 10, 89–128.
+
 Gee, B. M., Rosscoe, S. J., Scott, D., Ostlien, J., & Reisz, R. R. (2018). Faunal overview of the Mud Hill locality from the early Permian Vale Formation of Taylor County, Texas. Journal of Paleontology, 92, 1092–1106. https://doi.org/10.1017/jpa.2018.26
+
 
 
 
