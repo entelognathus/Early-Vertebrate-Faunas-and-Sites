@@ -95,7 +95,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 ### Priabonian
 #### Jackson Formation, Priabonian, Clarke County, State of Alabama, USA
 > - **Age**: Priabonian
-> - **Taxa**: *Hemipristis wyattdurhami*, *Ginglymostoma obliquum*,*Isurus praecursor*, *Isurus americana*,*Odontaspis hopei*, *Carcharodon angustidens*,*Negaprion gibbesi*, *Negaprion  gilmorei*,*Galeocerdo clarkensis*, *Physodon secundus*,*Cylindracanthus rectus*, *Sphyraena cf. major*,*Pristis sp.*,*Myliobatis sp.*, *Heterodontus cf. woodwardi*,*Scyliorhinus enniskilleni*, *Odontaspis malletiana*,*Alopias latidens alabamensis*, *Hypoprion greyegertoni*,**, **,
+> - **Taxa**: *Hemipristis wyattdurhami*, *Ginglymostoma obliquum*,*Isurus praecursor*, *Isurus americana*,*Odontaspis hopei*, *Carcharodon angustidens*,*Negaprion gibbesi*, *Negaprion  gilmorei*,*Galeocerdo clarkensis*, *Physodon secundus*,*Cylindracanthus rectus*, *Sphyraena cf. major*,*Pristis sp.*,*Myliobatis sp.*, *Heterodontus cf. woodwardi*, *Scyliorhinus enniskilleni*, *Odontaspis malletiana*, *Alopias latidens alabamensis*, *Hypoprion greyegertoni*,*Ostracton sp.*, *Galeorhinus cf. falconert*, **, **, **, **, **, **, **, **, **, **,
 > - **Locality and horizon**: Jackson Formation, Clarke County, State of Alabama, USA
 > - **References**: (White, 1956)
 > - **Comments**:
@@ -165,6 +165,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
