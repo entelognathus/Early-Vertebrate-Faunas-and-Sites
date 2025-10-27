@@ -80,7 +80,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:  318-332m, Greenish-grey, sandy clay with rather much glauconite, some micaand some pyrite concretions. Many Foraminifera and molluscan shells are present. In the lower part light grey calcareous sandstone occurs with many Foraminifera and molluscan shells. At the base there is a layer with reworked shells, black elasmobranch teethand phosphoritic concretions. NAM-Well De Wijk-19, Netherland.
 > - **References**: (Bor, 1985)
 > - **Comments**:
-#### middle Eocene of Claiborne, Monroe County, State of Alabama, USA.
+#### Gosport Sand, Claiborne, Monroe County, State of Alabama, USA.
 > - **Age**:Lutetian
 > - **Taxa**: *Odontaspis macrota*, *Odontaspis cf. rutoti*, *Negaprion gibbesi gilmorei*, *Physodon secundus*, *Galeorhinus recticonus claibornensis*, *Galeorhinus cf. falconeri*, *Lutianus intermedius*, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: middle Eocene of Claiborne, Monroe County, State of Alabama, USA
@@ -165,6 +165,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
