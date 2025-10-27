@@ -323,6 +323,10 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Lebedev, 1996
 > - **Comments**: 
 
+Lebedev et al., 2021: Novoselki (Tula Region); Middle Visean, Olkhovets Formation of the Tulian Regional Stage (Visean) exposed in the Demidovo-Novoselki quarry between these two villages in the Lenin District of the Tula Region. In addition to this specimen (PIN 1488/96 Protochimaera mirabilis), the collection from this bed includes the remains of the chondrichthyans Stethacanthus sp., Saivodus cf. striatus (Agassiz, 1843), ‘Helodus’ sp., ?Petalorhynchus pseudosagittatus St. John & Worthen, 1875, Petalodus sp., ?Antliodus sp., Polyrhizodus sp., ?Edestiformes gen. et sp. nov., Cochliodus sp., Poecilodus sp., Psammodus rugosus Agassiz, 1838 and Platyxystrodus striatus (McCoy, 1855).
+Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
+
+
 **Timan-Pechora Province, Russia**
 > - **Age**: Visean.
 > - **Taxa**:
@@ -422,6 +426,10 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 44, 289, 290, 291, 292, 293, 294, 295, Carnegie Museum of Natural History
 > - **Comments**: Marine, reef. Bear Gulch Limestone Lagerstatte.
 > - Early Namurian in NW Europe
+
+Middle Serpukhovian. 3, Kalinovskie Vyselki (Moscow Region); 4, Zaborye (Moscow Region); 5, Zudna (Kaluga Region); Steshevian in Russian Regional stage.
+
+Lebedev et al., 2021: Middle Serpukhovian. Dashkovo Formation (Steshevian Regional Stage); 3, Kalinovskie Vyselki (Moscow Region); 4, Zaborye (Moscow Region); 5, Zudna (Kaluga Region); Protochimaera mirabilis
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
@@ -1089,4 +1097,5 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
