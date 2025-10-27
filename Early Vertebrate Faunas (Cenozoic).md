@@ -40,6 +40,7 @@
 > - **References**: (Cappetta, 1972)
 > - **Comments**:
 ## Eocene
+
 ### Ypresian
 #### Oldhaven Formation, Herne Bay, Kent, UK
 > - **Age**: early Ypresian (Sparnacian)
@@ -78,6 +79,12 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Taxa**: *Coupatezia sp.*,
 > - **Locality and horizon**:  318-332m, Greenish-grey, sandy clay with rather much glauconite, some micaand some pyrite concretions. Many Foraminifera and molluscan shells are present. In the lower part light grey calcareous sandstone occurs with many Foraminifera and molluscan shells. At the base there is a layer with reworked shells, black elasmobranch teethand phosphoritic concretions. NAM-Well De Wijk-19, Netherland.
 > - **References**: (Bor, 1985)
+> - **Comments**:
+#### middle Eocene of Claiborne, Monroe County, State of Alabama, USA.
+> - **Age**:Lutetian
+> - **Taxa**: **, **, 
+> - **Locality and horizon**: middle Eocene of Claiborne, Monroe County, State of Alabama, USA
+> - **References**: (White, 1956)
 > - **Comments**: 
 ### Bartonian
 > - **Age**:
@@ -86,6 +93,13 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **References**:
 > - **Comments**: 
 ### Priabonian
+#### Jackson Formation, Priabonian, Clarke County, State of Alabama, USA
+> - **Age**: Priabonian
+> - **Taxa**: *Hemipristis wyattdurhami*, *Ginglymostoma obliquum*,*Isurus praecursor*, *Isurus americana*,*Odontaspis hopei*, *Carcharodon angustidens*,*Negaprion gibbesi*, *Negaprion  gilmorei*,*Galeocerdo clarkensis*, *Physodon secundus*,*Cylindracanthus rectus*, *Sphyraena cf. major*,*Pristis sp.*,*Myliobatis sp.*, *Heterodontus cf. woodwardi*,*Scyliorhinus enniskilleni*, *Odontaspis malletiana*,*Alopias latidens alabamensis*, *Hypoprion greyegertoni*,**, **,
+> - **Locality and horizon**: Jackson Formation, Clarke County, State of Alabama, USA
+> - **References**: (White, 1956)
+> - **Comments**:
+
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -151,6 +165,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
 
 
 
