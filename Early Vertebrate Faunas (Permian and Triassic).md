@@ -277,10 +277,10 @@
 > - **Comments**:
 
 **Whitehill Formation, Karoo Basin, South Africa**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian–Kungurian, Early Permian
+> - **Taxa**: Reptilia: Mesosaurus tenuidens, Stereosternum tumidum, Noteosaurus africanus. Actinopterygii: Palaeoniscum capensis, Watsonichthys lotzi. 
+> - **Locality and horizon**: Fossils are preserved in carbonaceous black shales and dolomitic limestones within the Whitehill Formation (Ecca Group) exposed near Calvinia and Louriesfontein in the Northern Cape of South Africa and at other sites such as Brandhoek, Krantz Poort, Kenmoore Farm, Victoria West District and Burghersdorp; the formation lies between the underlying Prince Albert Formation and the overlying Collingham/Tierberg formations.
+> - **References**: Abubakre et al., 2021; Oelofsen, 1987; Evans & Bender, 1999; Geertsema & van den Heever, 1996; Visser, 1992.
 > - **Comments**:
 
 **Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa**
@@ -2080,6 +2080,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
