@@ -172,19 +172,21 @@
 >> - Acanthodida: *Acanthodes* sp.
 > - **Locality and horizon**: Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa.
 > - **References**: 230, 250, 251, 252.
-> - **Comments**: Non-marine, lacustrine.
+> - **Comments**: Non-marine, lacustrine. 
 
 **Glencartholm Fish Bed, Dumfiresshire, Scotland**
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Protoeurynotus traquairi, Paramesolepis tuberculatus, Platysomus superbus, Cheirodopsis geikiei, Rhadinichthys canobiensis, Rhadinichthys macconochii, Rhadinichthys fusiformis, Rhadinichthys formosus, Rhadinichthys tuberculatus, Rhadinichthys sp., Cycloptychius concentricus, Mesopoma politum, Mesopoma pulchellum, Mesopoma crassum, Mesopoma macrocephalum, Canobius ramseyi, Canobius elegantulus, Canobius sp., Elonichthys serratus, Elonichthys pulcherrimus, Acrolepis ortholepis, Phanerosteon mirabile, Holurus parki, Styracopterus fulcratus, Tarrasius problematicus.
->> - Megalichthyidae: Megalichthys sp. Rhizodontida: Archichthys portlocki, Strepsodus saurroides.
->> - Actinistia: Dumfregia huxleyi.
->> - Elasmobranchii:Goodrichichthys eskdalensis, Onychoselache traquairi, Sphenacanthus costellatus.
->> - Holocephalii: Deltoptychius armigerus, Antliodus scoticus, Chondrenchelys problematica. Acanthodida: Acanthodes nitidus.
+>> - Actinopterygii: *Protoeurynotus traquairi*, *Paramesolepis tuberculatus*, *Platysomus superbus*, *Cheirodopsis geikiei*, *Rhadinichthys canobiensis*, Rhadinichthys macconochii, Rhadinichthys fusiformis, Rhadinichthys formosus, Rhadinichthys tuberculatus, Rhadinichthys sp., Cycloptychius concentricus, Mesopoma politum, Mesopoma pulchellum, Mesopoma crassum, Mesopoma macrocephalum, Canobius ramseyi, Canobius elegantulus, Canobius sp., Elonichthys serratus, Elonichthys pulcherrimus, Acrolepis ortholepis, Phanerosteon mirabile, Holurus parki, Styracopterus fulcratus, Tarrasius problematicus.
+>> - Megalichthyidae: *Megalichthys* sp.
+>> - Rhizodontida: *Archichthys portlocki*, *Strepsodus saurroides*.
+>> - Actinistia: *Dumfregia huxleyi*.
+>> - Elasmobranchii: *Goodrichichthys eskdalensis*, *Onychoselache traquairi*, *Sphenacanthus costellatus*.
+>> - Holocephalii: *Deltoptychius armigerus*, *Antliodus scoticus*, *Chondrenchelys problematica*.
+>> - Acanthodida: *Acanthodes nitidus*.
 > - **Locality and horizon**: Glencartholm Fish Bed, Dumfiresshire, Scotland. 
 > - **References**: 1, 6, 10, 24, 39, 148, 253, 254, 255.
-> - **Comments**: nearshore marine.
+> - **Comments**: nearshore marine. The Glencartholm Fish Bed is a thin unit within the Glencartholm Volcanic Beds of the Upper Border Group of the Calciferous Sandstone (Lumsden et al., 1967).
 
 **Burdiehouse limestone, Edinburgh, Scotland**
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
@@ -323,10 +325,9 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Lebedev, 1996
 > - **Comments**: 
 
-Lebedev et al., 2021: Novoselki (Tula Region); Middle Visean, Olkhovets Formation of the Tulian Regional Stage (Visean) exposed in the Demidovo-Novoselki quarry between these two villages in the Lenin District of the Tula Region. In addition to this specimen (PIN 1488/96 Protochimaera mirabilis), the collection from this bed includes the remains of the chondrichthyans Stethacanthus sp., Saivodus cf. striatus (Agassiz, 1843), ‘Helodus’ sp., ?Petalorhynchus pseudosagittatus St. John & Worthen, 1875, Petalodus sp., ?Antliodus sp., Polyrhizodus sp., ?Edestiformes gen. et sp. nov., Cochliodus sp., Poecilodus sp., Psammodus rugosus Agassiz, 1838 and Platyxystrodus striatus (McCoy, 1855).
+> - Lebedev et al., 2021: Novoselki (Tula Region); Middle Visean, Olkhovets Formation of the Tulian Regional Stage (Visean) exposed in the Demidovo-Novoselki quarry between these two villages in the Lenin District of the Tula Region. In addition to this specimen (PIN 1488/96 Protochimaera mirabilis), the collection from this bed includes the remains of the chondrichthyans Stethacanthus sp., Saivodus cf. striatus (Agassiz, 1843), ‘Helodus’ sp., ?Petalorhynchus pseudosagittatus St. John & Worthen, 1875, Petalodus sp., ?Antliodus sp., Polyrhizodus sp., ?Edestiformes gen. et sp. nov., Cochliodus sp., Poecilodus sp., Psammodus rugosus Agassiz, 1838 and Platyxystrodus striatus (McCoy, 1855).
 
-Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
-
+> - Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
 
 **Timan-Pechora Province, Russia**
 > - **Age**: Visean.
@@ -1014,7 +1015,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 
 254. Moy-Thomas JA, Bradley-Dyne M (1938) Actinopterygin fishes from the Carboniferous of Glencartholm, Eskdale, Dumfriesshire. Trans R Soc Edinburgh Earth Sci 59:437-480.
 
-255. Coates MI, Gess RW (2007) A new reconstruction of Onychoselache traquairi, comments on early chondrichthyan pectoral girdles and hybodontiform phylogeny. Palaeontology 50:1421-1446.
+255. Coates MI, Gess RW (2007) A new reconstruction of *Onychoselache traquairi*, comments on early chondrichthyan pectoral girdles and hybodontiform phylogeny. Palaeontology 50:1421-1446.
 
 256. Traquair RH (1877a) On new and little-known fossil fishes from the Edinburgh district, No. I. Proc R Soc Edinburgh 9:262-272.
 
@@ -1101,6 +1102,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
