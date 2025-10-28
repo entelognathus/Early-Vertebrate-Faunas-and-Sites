@@ -2081,6 +2081,15 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
+Abubakre, A. O., de Kock, M. O., & others. (2021). Magnetostratigraphic constraints for Early Permian rocks of the southwestern Karoo Basin, South Africa. Gondwana Research, 90, 220–240. https://doi.org/10.1016/j.gr.2020.11.009
+
+Oelofsen, B. W. (1987). The biostratigraphy and fossils of the Whitehill and Irati shale formations of the Karoo and Paraná basins. In G. D. McKenzie (Ed.), Gondwana Six: Stratigraphy, Sedimentology, and Paleontology (pp. 131–147). American Geophysical Union. https://doi.org/10.1029/GM041p0131
+
+Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: A preliminary review of palaeoniscoid fishes and taphonomy. Julius‑Maximilians‑Universität Würzburg, 175–178.
+
+Geertsema, H., & van den Heever, J. A. (1996). A new beetle, Afrocupes firmae gen. et sp. nov. (Permocupedidae), from the late Palaeozoic Whitehill Formation of South Africa. South African Journal of Science, 92, 497–499.
+
+Visser, J. N. J. (1992). Deposition of the Early to Late Permian Whitehill Formation during a sea‑level highstand in a juvenile foreland basin. South African Journal of Geology, 95(2), 181–193.
 
 
 
