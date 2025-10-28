@@ -87,6 +87,13 @@
 > - **References**:(Brown, 1946)
 > - **Comments**: 
 
+**Basal sandstone, Mesaverde Formation, Laramie, Wyoming, USA**
+> - **Age**: Campanian
+> - **Taxa**:*Chimaerotheca newmexicana*, **,
+> - **Locality and horizon**:Basal sandstone, Mesaverde Formation,  20 miles west of Laramie, Wyoming, USA
+> - **References**:(Brown, 1946)
+> - **Comments**: 
+
 ### Maastrichtian
 ####  Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
 > - **Age**: early Maastrichtian
@@ -94,6 +101,7 @@
 > - **Locality and horizon**: Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
 > - **References**: (Zalmout and Mustafa, 2001)
 > - **Comments**: 
+
 
 
 
