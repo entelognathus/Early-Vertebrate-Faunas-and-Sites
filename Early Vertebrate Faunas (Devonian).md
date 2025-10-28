@@ -504,7 +504,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > Givetian, Middle Devonian.
 > - [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 
-**Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: Eifelian, Middle Devonian 
+
 
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
@@ -528,6 +528,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 -> Comment: Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
 and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fig. 3, Mark-Kurik and Poldvere, 2012), The Aruküla RSs is in early Givetian. In (Plink-Björklund, 2012), the Aruküla RSs was also put in early Givetian.  
 
+**Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: Givetian, Middle Devonian 
 
 ***Burtnieki Formation fauna***: lower Givetian
 > Burtnieki Formation, Baltic.
@@ -1025,6 +1026,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
