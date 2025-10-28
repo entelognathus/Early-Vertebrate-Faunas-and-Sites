@@ -129,7 +129,7 @@
 > - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
 > - **References**: Otoo *et al*., 2019
 > - **Comments**:  Otoo *et al*. (2019): The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the *Ossirarus* and *Aytonerpeton* beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
->> - All derive from the Tournaisian argillaceous dolostone-bearing mudstone succession of Scotland. Formerly known as the Cementstone Group (the lower part of the Calciferous Sandstone Measures in Scotland), these rocks have now been assigned to the Ballagan Formation, Inverclyde Group. Most belong to the claviger-macra (CM) palynozone, dated as 348 to 347.6 Ma.
+>> - All derive from the Tournaisian argillaceous dolostone-bearing mudstone succession of Scotland. Formerly known as the Cementstone Group (the lower part of the Calciferous Sandstone Measures in Scotland), these rocks have now been assigned to the Ballagan Formation, Inverclyde Group. Most belong to the claviger-macra (CM) palynozone, dated as 348 to 347.6 Ma.
 >> - *Pederpes* from Scotland (Clack & Finney 2005).
 
 **Willie’s Hole Shrimp Bed**
@@ -323,8 +323,9 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Lebedev, 1996
 > - **Comments**: 
 
-Lebedev et al., 2021: Novoselki (Tula Region); Middle Visean, Olkhovets Formation of the Tulian Regional Stage (Visean) exposed in the Demidovo-Novoselki quarry between these two villages in the Lenin District of the Tula Region. In addition to this specimen (PIN 1488/96 Protochimaera mirabilis), the collection from this bed includes the remains of the chondrichthyans Stethacanthus sp., Saivodus cf. striatus (Agassiz, 1843), ‘Helodus’ sp., ?Petalorhynchus pseudosagittatus St. John & Worthen, 1875, Petalodus sp., ?Antliodus sp., Polyrhizodus sp., ?Edestiformes gen. et sp. nov., Cochliodus sp., Poecilodus sp., Psammodus rugosus Agassiz, 1838 and Platyxystrodus striatus (McCoy, 1855).
-Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
+Lebedev et al., 2021: Novoselki (Tula Region); Middle Visean, Olkhovets Formation of the Tulian Regional Stage (Visean) exposed in the Demidovo-Novoselki quarry between these two villages in the Lenin District of the Tula Region. In addition to this specimen (PIN 1488/96 Protochimaera mirabilis), the collection from this bed includes the remains of the chondrichthyans Stethacanthus sp., Saivodus cf. striatus (Agassiz, 1843), ‘Helodus’ sp., ?Petalorhynchus pseudosagittatus St. John & Worthen, 1875, Petalodus sp., ?Antliodus sp., Polyrhizodus sp., ?Edestiformes gen. et sp. nov., Cochliodus sp., Poecilodus sp., Psammodus rugosus Agassiz, 1838 and Platyxystrodus striatus (McCoy, 1855).
+
+Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
 
 
 **Timan-Pechora Province, Russia**
@@ -1100,6 +1101,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
