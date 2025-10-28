@@ -465,6 +465,8 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 ***Michigan basin***
 > - Middle and Late Devonian
 > - see Stack and Sallan, 2018
+> - 
+**Columbus Formation, Fish fauna of the Bone Beds, Ohio, USA**: Emsian, Early Devonian
 
 ## Middle Devonian
 ***Tiaomajian fauna***: Eifelian, 393.3, 387.7 
@@ -502,7 +504,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > Givetian, Middle Devonian.
 > - [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 
-
+**Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: Eifelian, Middle Devonian 
 
 ***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
 > Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
@@ -1023,6 +1025,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
