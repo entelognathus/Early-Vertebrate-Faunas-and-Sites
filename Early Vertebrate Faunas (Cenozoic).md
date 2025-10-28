@@ -115,10 +115,11 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 
 ### Chattian
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Split Creek sandstone member, the Katalla Formation, Split Creek, Controller Bay, Alaska, USA**
+> - **Age**: Chattian
+> - **Taxa**: *Chimaerotheca alaskana*, 
+> - **Locality and horizon**:S plit Creek sandstone member, the Katalla Formation, Split Creek, Controller Bay, Alaska, USA
+> - **References**: (Brown, 1946)
 > - **Comments**: 
 
 # Neogene
@@ -130,7 +131,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: Skooner Gulch Formation; UCMP Locality V-75135, Schooner Gulch, Mendocino County, California
 > - **References**: (Welton, 1979; Pfeil, 1983)
 > - **Comments**:
-####  
+#### Trent Formation/Trent Marl Formation, eastern North Carolina  
 > - **Age**: Trent Formation/Trent Marl Formation, eastern North Carolina
 > - **Taxa**:*Abdounia furimskyi*, 
 > - **Locality and horizon**: Trent Formation, River Bend Plantation, New Bern, Craven County, North Carolina
@@ -166,6 +167,7 @@ Signiffcant
 > - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
 > - **References**: (Yabe, 1949)
 > - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
+
 
 
 
