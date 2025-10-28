@@ -322,7 +322,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 ***Svalbard Wood Bay Formation fauna***: Pragian to Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
 
-> - **Woodfjorden area and Dicksonfjorden-Austfjorden area**, Svalbard (Spitsbergen).
+**Woodfjorden area and Dicksonfjorden-Austfjorden area**, Svalbard (Spitsbergen).
 
 > - For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the [Sigurdfjellet], [Kapp Kjeldsen], [Keltiefjellet] (“Lykta fauna”) and [Stjørdalen] faunal divisions.
 
@@ -466,7 +466,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Middle and Late Devonian
 > - see Stack and Sallan, 2018
 > - 
-**Columbus Formation, Fish fauna of the Bone Beds, Ohio, USA**: Emsian, Early Devonian
+**Columbus Formation, Fish fauna of the Bone Beds, centralOhio, USA**: Emsian, Early Devonian
 
 ## Middle Devonian
 ***Tiaomajian fauna***: Eifelian, 393.3, 387.7 
@@ -1025,6 +1025,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
