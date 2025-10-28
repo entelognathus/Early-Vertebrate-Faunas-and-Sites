@@ -166,11 +166,11 @@
 **Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa**
 > - **Age**: Early Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Adroichthys tuberculatus, Mentzichthys walshi, Mentzichthys jubbi, Mentzichthys maraisi, Mentzichthys theroni, Aestaurichthys fulcratus, Soetendalichthys cromptoni, Australichthys longidorsalis, Willomorichthys striatulus, Sundayichthys elegantulus, Dwykia analensis.
+>> - Actinopterygii: *Adroichthys tuberculatus*, *Mentzichthys walshi*, *Mentzichthys jubbi*, *Mentzichthys maraisi*, *Mentzichthys theroni*, *Aestuarichthys fulcratus*, *Soetendalichthys cromptoni* (synonym of *Aestuarichthys fulcratus*), *Australichthys longidorsalis*, *Willomorichthys striatulus*, *Sundayichthys elegantulus*, *Dwykia analensis*.
 >> - Elasmobranchii: Unnamed protoacrodontid.
->> - Gyracanthida: Gyracanthides sp., Gyracanthus sp.
->> - Acanthodida: Acanthodes sp.
-> - **Locality and horizon**: Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa
+>> - Gyracanthida: *Gyracanthides* sp., *Gyracanthus* sp.
+>> - Acanthodida: *Acanthodes* sp.
+> - **Locality and horizon**: Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa.
 > - **References**: 230, 250, 251, 252.
 > - **Comments**: Non-marine, lacustrine.
 
@@ -1101,6 +1101,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
