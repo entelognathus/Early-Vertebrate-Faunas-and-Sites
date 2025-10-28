@@ -177,11 +177,11 @@
 **Glencartholm Fish Bed, Dumfiresshire, Scotland**
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: *Protoeurynotus traquairi*, *Paramesolepis tuberculatus*, *Platysomus superbus*, *Cheirodopsis geikiei*, *Rhadinichthys canobiensis*, Rhadinichthys macconochii, Rhadinichthys fusiformis, Rhadinichthys formosus, Rhadinichthys tuberculatus, Rhadinichthys sp., Cycloptychius concentricus, Mesopoma politum, Mesopoma pulchellum, Mesopoma crassum, Mesopoma macrocephalum, Canobius ramseyi, Canobius elegantulus, Canobius sp., Elonichthys serratus, Elonichthys pulcherrimus, Acrolepis ortholepis, Phanerosteon mirabile, Holurus parki, Styracopterus fulcratus, Tarrasius problematicus.
+>> - Actinopterygii: *Protoeurynotus traquairi*, *Paramesolepis tuberculatus*, *Platysomus superbus*, *Cheirodopsis geikiei*, *Rhadinichthys canobiensis*, *Rhadinichthys macconochii*, *Rhadinichthys fusiformis*, *Rhadinichthys formosus*, *Rhadinichthys tuberculatus*, *Rhadinichthys* sp., *Cycloptychius concentricus*, *Mesopoma politum*, *Mesopoma pulchellum*, *Mesopoma crassum*, *Mesopoma macrocephalum*, *Canobius ramseyi*, *Canobius elegantulus*, *Canobius* sp., *Elonichthys serratus*, *Elonichthys pulcherrimus*, *Acrolepis ortholepis*, *Phanerosteon mirabile*, *Holurus parki*, *Styracopterus fulcratus*, *Tarrasius problematicus*.
 >> - Megalichthyidae: *Megalichthys* sp.
 >> - Rhizodontida: *Archichthys portlocki*, *Strepsodus saurroides*.
 >> - Actinistia: *Dumfregia huxleyi*.
->> - Elasmobranchii: *Goodrichichthys eskdalensis*, *Onychoselache traquairi*, *Sphenacanthus costellatus*.
+>> - Elasmobranchii: *Goodrichthys eskdalensis*, *Onychoselache traquairi*, *Sphenacanthus costellatus* (now *Glencartius costellatus*).
 >> - Holocephalii: *Deltoptychius armigerus*, *Antliodus scoticus*, *Chondrenchelys problematica*.
 >> - Acanthodida: *Acanthodes nitidus*.
 > - **Locality and horizon**: Glencartholm Fish Bed, Dumfiresshire, Scotland. 
@@ -1102,6 +1102,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
