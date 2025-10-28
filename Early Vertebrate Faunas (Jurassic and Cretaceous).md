@@ -73,6 +73,19 @@
 > - **Locality and horizon**: Mesaverde Formation, Broom Draw Quad (PARRIS-LAMBERT site: NW 1/4 Sec. 12, T47N, R91W; Site 1: Center Sec. 2, T48N, R91W; Site 2: SE 1/4 Sec. 35, T48N, R91W; Site 2: 30: NW 1/4 Sec. 35, T48N, R91W; Site 3: SE 1/4 Sec. 27, T48N, R91W); McDermott's Butte Quad(Site 8: Lower center Sec. 16, T48N, R91W; Site 8: 30: Center Sec, 16, T48N, R91W; site 9: Center Sec. 9, T48N, R91W; Site 10: SE 1/4 Sec. 32, T49N, R91W (Big Horn County), Wyoming, USA.
 > - **References**: (Case, 1987)
 > - **Comments**: 
+**Trinidad sandstone, Raton, New Mexico, USA**
+> - **Age**: Campanian
+> - **Taxa**:*Chimaerotheca newmexicana*, **,
+> - **Locality and horizon**: Trinidad sandstone, near Raton, New Mexico, USA
+> - **References**:(Brown, 1946)
+> - **Comments**: 
+
+**Trinidad sandstone, Koehler, New Mexico, USA**
+> - **Age**: Campanian
+> - **Taxa**:*Chimaerotheca newmexicana*, **,
+> - **Locality and horizon**: Trinidad sandstone, Crow Creek Canyon, 1 mile northwest of Koehler, New Mexico, USA
+> - **References**:(Brown, 1946)
+> - **Comments**: 
 
 ### Maastrichtian
 ####  Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
@@ -81,6 +94,7 @@
 > - **Locality and horizon**: Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
 > - **References**: (Zalmout and Mustafa, 2001)
 > - **Comments**: 
+
 
 
 
