@@ -2081,6 +2081,9 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
+
+## to be sorted 
+
 Abubakre, A. O., de Kock, M. O., & others. (2021). Magnetostratigraphic constraints for Early Permian rocks of the southwestern Karoo Basin, South Africa. Gondwana Research, 90, 220–240. https://doi.org/10.1016/j.gr.2020.11.009
 
 Oelofsen, B. W. (1987). The biostratigraphy and fossils of the Whitehill and Irati shale formations of the Karoo and Paraná basins. In G. D. McKenzie (Ed.), Gondwana Six: Stratigraphy, Sedimentology, and Paleontology (pp. 131–147). American Geophysical Union. https://doi.org/10.1029/GM041p0131
@@ -2091,6 +2094,19 @@ Geertsema, H., & van den Heever, J. A. (1996). A new beetle, Afrocupes firmae�
 
 Visser, J. N. J. (1992). Deposition of the Early to Late Permian Whitehill Formation during a sea‑level highstand in a juvenile foreland basin. South African Journal of Geology, 95(2), 181–193.
 
+Day, M. O., Ramezani, J., Frazer, R. E., & Rubidge, B. S. (2021). U‑Pb zircon age constraints on the vertebrate assemblages and palaeomagnetic record of the Guadalupian Abrahamskraal Formation, Karoo Basin, South Africa. Journal of African Earth Sciences, 186, 104435. https://doi.org/10.1016/j.jafrearsci.2021.104435
+
+Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the Tapinocephalus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123, 149–164. https://doi.org/10.25131/sajg.123.0012
+
+Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the Eodicynodon Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123, 141–148. https://doi.org/10.25131/sajg.123.0010
+
+Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. South African Journal of Geology, 119(2), 415–424. https://doi.org/10.2113/gssajg.119.2.415
+
+Jirah, S., & Rubidge, B. S. (2014). Refined stratigraphy of the Middle Permian Abrahamskraal Formation (Beaufort Group) in the southern Karoo Basin. Journal of African Earth Sciences, 100, 121–135. https://doi.org/10.1016/j.jafrearsci.2014.06.014
+
+Rubidge, B. S., Day, M. O., & Benoit, J. (2021). New specimen of the enigmatic dicynodont Lanthanostegus mohoii (Therapsida, Anomodontia) from the southwestern Karoo Basin of South Africa, and its implications for Middle Permian biostratigraphy. Frontiers in Earth Science, 9, 668143. https://doi.org/10.3389/feart.2021.668143
+
+Rubidge, B. S., Day, M. O., & Benoit, J. (2023). First record of the rare dicynodont Colobodectes from the southern Karoo Basin of South Africa has implications for middle Permian continental biostratigraphy. Journal of African Earth Sciences, 208, 105097. https://doi.org/10.1016/j.jafrearsci.2023.105097
 
 
 
