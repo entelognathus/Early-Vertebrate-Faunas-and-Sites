@@ -95,12 +95,19 @@
 > - **Comments**: 
 
 ### Maastrichtian
-####  Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
+**Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan**
 > - **Age**: early Maastrichtian
 > - **Taxa**: *Cretolamna biauriculata*
 > - **Locality and horizon**: Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
 > - **References**: (Zalmout and Mustafa, 2001)
 > - **Comments**: 
+**Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA.
+> - **Age**: Maastrichtian
+> - **Taxa**: *Chimaerotheca montanana*
+> - **Locality and horizon**: Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA
+> - **References**: (Brown, 1946)
+> - **Comments**: 
+
 
 
 
