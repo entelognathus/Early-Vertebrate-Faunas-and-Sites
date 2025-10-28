@@ -284,10 +284,10 @@
 > - **Comments**:
 
 **Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: latest Wordian – late Capitanian, Middle Permian
+> - **Taxa**: Dinocephalia: Moschops capensis, Tapinocaninus pamelae. Dicynodontia: Eodicynodon oosthuizeni, Robertia broomiana, Eosimops newtoni, Lanthanostegus mohoii, Colobodectes sp.. Pareiasauria: Bradysaurus baini
+> - **Locality and horizon**: The Abrahamskraal Formation crops out across the Northern, Western and Eastern Cape provinces of South Africa within the main Karoo Basin. It is the basal formation of the Adelaide Subgroup of the Beaufort Group and overlies the Waterford Formation (Ecca Group); in the southwestern part of the basin it reaches 2 200–2 565 m in thickness and thins northeastward.
+> - **References**: Day et al., 2021; Day & Rubidge, 2020; Rubidge & Day, 2020; Cole et al., 2016; Jirah & Rubidge, 2014; Rubidge et al., 2021; Rubidge et al., 2023.
 > - **Comments**:
 
 **Balfour Formation, Karoo Basin, South Africa**
@@ -2090,6 +2090,7 @@ Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca 
 Geertsema, H., & van den Heever, J. A. (1996). A new beetle, Afrocupes firmae gen. et sp. nov. (Permocupedidae), from the late Palaeozoic Whitehill Formation of South Africa. South African Journal of Science, 92, 497–499.
 
 Visser, J. N. J. (1992). Deposition of the Early to Late Permian Whitehill Formation during a sea‑level highstand in a juvenile foreland basin. South African Journal of Geology, 95(2), 181–193.
+
 
 
 
