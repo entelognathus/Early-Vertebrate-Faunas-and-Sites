@@ -73,19 +73,28 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Taxa**: Selachians: *Hexanchus agassizi*, *Squatina cf. prima*, *Carcharias hopei*, *Cosmopolitodus praecursor*, *Cretolamna aschersoni*, *Carcharocles sokolowi*
 > - **Locality and horizon**:  Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
 > - **References**: (Mustafa, 2005)
-> - **Comments**: 
+> - **Comments**:
+> - 
 #### Dongen Formation Brussels Sand Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
 > - **Taxa**: *Coupatezia sp.*,
 > - **Locality and horizon**:  318-332m, Greenish-grey, sandy clay with rather much glauconite, some micaand some pyrite concretions. Many Foraminifera and molluscan shells are present. In the lower part light grey calcareous sandstone occurs with many Foraminifera and molluscan shells. At the base there is a layer with reworked shells, black elasmobranch teethand phosphoritic concretions. NAM-Well De Wijk-19, Netherland.
 > - **References**: (Bor, 1985)
 > - **Comments**:
+> - 
 #### Gosport Sand, Claiborne, Monroe County, State of Alabama, USA.
 > - **Age**:Lutetian
 > - **Taxa**: *Odontaspis macrota*, *Odontaspis cf. rutoti*, *Negaprion gibbesi gilmorei*, *Physodon secundus*, *Galeorhinus recticonus claibornensis*, *Galeorhinus cf. falconeri*, *Lutianus intermedius*, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: middle Eocene of Claiborne, Monroe County, State of Alabama, USA
 > - **References**: (White, 1956)
-> - **Comments**: 
+> - **Comments**:
+#### Lisbon Formation, Andalusia, Covington County, Alabama, USA
+> - **Age**: Lutetian
+> - **Taxa**:*Orectolobus ziegenhinei*, *Tethylamna dunni*, *Scoliodon conecuhensis*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, 
+> - **Locality and horizon**: Lisbon Formation, Andalusia, Covington County, Alabama, USA
+> - **References**:(Cappetta and Case, 2016)
+> - **Comments**:
+
 ### Bartonian
 > - **Age**:
 > - **Taxa**: 
@@ -167,6 +176,7 @@ Signiffcant
 > - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
 > - **References**: (Yabe, 1949)
 > - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
+
 
 
 
