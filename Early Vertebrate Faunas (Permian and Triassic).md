@@ -310,10 +310,10 @@
 > - **Comments**:
 
 **Moradi Formation, northern Niger**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Lopingian, Late Permian
+> - **Taxa**: Sauropsida: Moradisaurus grandis. Parareptilia: Bunostegos akokanensis. Therapsida: cf. Rubidginae. Temnospondyli: Saharastega moradiensis, Nigerpeton ricqlesi.
+> - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
+> - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
 > - **Comments**:
 
 **Tambach Formation, Thuringian Forest, Germany**
@@ -2133,6 +2133,7 @@ Smith, R. M. H., & Botha, J. (2005). The recovery of terrestrial vertebrate dive
 Smith, R. M. H., & Ward, P. D. (2001). Pattern of vertebrate extinctions across an event bed at the Permian–Triassic boundary in the Karoo Basin of South Africa. Geology, 29(12), 1147–1150. 
 
 Viglietti, P. A., Angielczyk, K. D., & Smith, R. M. H. (2021). Evidence for rapid, non-uniform recovery of terrestrial ecosystems after the end-Permian mass extinction. Nature Communications, 12, 5929. https://doi.org/10.1038/s41467-021-26157-1
+
 
 
 
