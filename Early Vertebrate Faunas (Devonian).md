@@ -912,6 +912,9 @@ Mandageria fairfaxi
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
+***Englewood Formation, South Dakota School of Mines V873, USA***: Frasnian
+> - *Cladodus eriensis*, *Cladodus springeri*
+
 
 ***Okse Bay Formation fauna***: Franian?
 > Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
@@ -1026,6 +1029,7 @@ The arthrodires comprise
 
 
 > - 
+
 
 
 
