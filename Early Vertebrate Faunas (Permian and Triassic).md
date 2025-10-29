@@ -303,10 +303,10 @@
 > - **Comments**:
 
 **Balfour Formation, Karoo Basin, South Africa**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Changhsingian, Lopingian, Late Permian to Griesbachian, Induan, Early Triassic
+> - **Taxa**: Therapsida: Lystrosaurus curvatus, L. declivis, L. maccaigi. Dicynodontia: Daptocephalus leoniceps. Gorgonopsia: Inostrancevia africana. Rubidgea atrox. Therocephalia: Moschorhinus kitchingi, Theriognathus microps. Amphibia: Micropholis stowi, Lydekkerina huxleyi
+> - **Locality and horizon**: Exposures across the main Karoo Basin in South Africa, particularly near Beaufort West, Cradock, Graaff-Reinet, and Nieu Bethesda; stratigraphically assigned to the upper part of the Beaufort Group, encompassing the Daptocephalus and Lystrosaurus Assemblage Zones, with formal lithostratigraphic members including Oudeberg, Daggaboersnek, Ripplemead (formerly Barberskrans), Elandsberg, and Palingkloof (Catuneanu et al., 2005; Smith & Ward, 2001).
+> - **References**: Catuneanu et al., 2005; Smith & Botha, 2005; Botha-Brink & Smith, 2011; Kammerer et al., 2011; Huttenlocker et al., 2011; Viglietti et al., 2021; Smith & Ward, 2001; Kammerer et al., 2023.
 > - **Comments**:
 
 **Moradi Formation, northern Niger**
@@ -2119,6 +2119,7 @@ Jirah, S., & Rubidge, B. S. (2014). Refined stratigraphy of the Midd
 Rubidge, B. S., Day, M. O., & Benoit, J. (2021). New specimen of the enigmatic dicynodont Lanthanostegus mohoii (Therapsida, Anomodontia) from the southwestern Karoo Basin of South Africa, and its implications for Middle Permian biostratigraphy. Frontiers in Earth Science, 9, 668143. https://doi.org/10.3389/feart.2021.668143
 
 Rubidge, B. S., Day, M. O., & Benoit, J. (2023). First record of the rare dicynodont Colobodectes from the southern Karoo Basin of South Africa has implications for middle Permian continental biostratigraphy. Journal of African Earth Sciences, 208, 105097. https://doi.org/10.1016/j.jafrearsci.2023.105097
+
 
 
 
