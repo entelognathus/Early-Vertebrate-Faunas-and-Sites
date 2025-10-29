@@ -2120,6 +2120,19 @@ Rubidge, B. S., Day, M. O., & Benoit, J. (2021). New specimen 
 
 Rubidge, B. S., Day, M. O., & Benoit, J. (2023). First record of the rare dicynodont Colobodectes from the southern Karoo Basin of South Africa has implications for middle Permian continental biostratigraphy. Journal of African Earth Sciences, 208, 105097. https://doi.org/10.1016/j.jafrearsci.2023.105097
 
+Botha-Brink, J., & Smith, R. M. H. (2011). Sedimentology and palaeontology of upper Permian to lower Triassic fluvial deposits in the Karoo Basin, South Africa: implications for the terrestrial end-Permian mass extinction. Palaeogeography, Palaeoclimatology, Palaeoecology, 312(1–2), 15–35. https://doi.org/10.1016/j.palaeo.2011.09.003
+
+Catuneanu, O., Wopfner, H., Eriksson, P. G., Cairncross, B., Rubidge, B. S., Smith, R. M. H., & Hancox, P. J. (2005). The Karoo basins of south-central Africa. Journal of African Earth Sciences, 43(1–3), 211–253. https://doi.org/10.1016/j.jafrearsci.2005.07.007
+
+Huttenlocker, A. K., Sidor, C. A., & Angielczyk, K. D. (2011). A new specimen of Promoschorhynchus (Therapsida: Therocephalia) from the Lower Triassic of South Africa and its implications for therocephalian survival across the Permo-Triassic boundary. Journal of Vertebrate Paleontology, 31(2), 385–401. https://doi.org/10.1080/02724634.2011.550358
+
+Kammerer, C. F., Angielczyk, K. D., & Fröbisch, J. (2011). A comprehensive taxonomic revision of Daptocephalus (Therapsida, Dicynodontia). Journal of Systematic Palaeontology, 9(2), 227–242. https://doi.org/10.1080/14772019.2010.499188
+
+Smith, R. M. H., & Botha, J. (2005). The recovery of terrestrial vertebrate diversity in the South African Karoo Basin after the end-Permian extinction. Comptes Rendus Palevol, 4(6–7), 555–568. https://doi.org/10.1016/j.crpv.2005.07.005
+
+Smith, R. M. H., & Ward, P. D. (2001). Pattern of vertebrate extinctions across an event bed at the Permian–Triassic boundary in the Karoo Basin of South Africa. Geology, 29(12), 1147–1150. 
+
+Viglietti, P. A., Angielczyk, K. D., & Smith, R. M. H. (2021). Evidence for rapid, non-uniform recovery of terrestrial ecosystems after the end-Permian mass extinction. Nature Communications, 12, 5929. https://doi.org/10.1038/s41467-021-26157-1
 
 
 
