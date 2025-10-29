@@ -2134,6 +2134,21 @@ Smith, R. M. H., & Ward, P. D. (2001). Pattern of vertebrate extinctions across 
 
 Viglietti, P. A., Angielczyk, K. D., & Smith, R. M. H. (2021). Evidence for rapid, non-uniform recovery of terrestrial ecosystems after the end-Permian mass extinction. Nature Communications, 12, 5929. https://doi.org/10.1038/s41467-021-26157-1
 
+Damiani, R., Sidor, C. A., & Steyer, J. S. (2006). A new temnospondyl from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 26(1), 1-10. https://doi.org/10.1671/0272-4634(2006)26[1:ANTFUT]2.0.CO;2
+
+O’Keefe, F. R., Sidor, C. A., & Steyer, J. S. (2005). The anatomy of Moradisaurus grandis (Reptilia, Procolophonoidea) from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 25(3), 564-576. https://doi.org/10.1671/0272-4634(2005)025[0564:TAOMGR]2.0.CO;2
+
+Sidor, C. A., Damiani, R., & Steyer, J. S. (2003). A new parareptile from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 23(3), 555-567. https://doi.org/10.1671/0272-4634(2003)023[0555:ANPFUT]2.0.CO;2
+
+Sidor, C. A., O'Keefe, F. R., Damiani, R., Steyer, J. S., Smith, R. M., Larsson, H. C., ... & Maga, A. (2005). The vertebrate fauna of the Upper Permian of Niger. II. Nigerpeton ricqlesi (Temnospondyli: Cochleosauridae). Journal of Vertebrate Paleontology, 25(2), 351-364. https://doi.org/10.1671/0272-4634(2005)025[0351:TVFOTU]2.0.CO;2
+
+Smiley, T. M., Sidor, C. A., & O'Keefe, F. R. (2008). A new ?rubidginae (Therapsida: Gorgonopsia) from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 28(2), 583-588. https://doi.org/10.1671/0272-4634(2008)28[583:ANRTGF]2.0.CO;2
+
+Smith, R. M. H., Botha-Brink, J., & Sidor, C. A. (2015). Palaeoenvironmental reconstruction of the Upper Permian Moradi Formation, Niger, based on vertebrate taphonomy and ichnology. Palaeogeography, Palaeoclimatology, Palaeoecology, 426, 1-12. https://doi.org/10.1016/j.palaeo.2015.02.020
+
+Taquet, P. (1969). Les reptiles du gisement de Moradi (Niger). Mémoires du Muséum National d'Histoire Naturelle, Nouvelle Série, Série C, Sciences de la Terre, 16, 1-104.
+
+Tsuji, L. A., Müller, J., & Reisz, R. R. (2013). First record of the parareptile Bunostegos akokanensis from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 33(1), 1-10. https://doi.org/10.1080/02724634.2012.714802
 
 
 
