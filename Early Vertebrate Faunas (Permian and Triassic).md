@@ -1123,7 +1123,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 **Upper Member, Guanling Formation, Panzhou, Guizhou, China**
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**:
->> - Actinopterygii: *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207; *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520; *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971; *Birgeria* sp. (Jiang et al., 2016); *Lashanichthys yangjuanensis* ‘=*Sangiorgioichthys yangjuanensis* Wu et al., 2015’ Chen et al., 2014 GMPKU-P-3055; *Saurichthys yangjuanensis* Wu et al., 2015 GMPKU-P-1220; *Yelangichthys macrocephalus*;
+>> - Actinopterygii: *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207; *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520; *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971; *Birgeria* sp. (Jiang et al., 2016); *Lashanichthys yangjuanensis* ‘=*Sangiorgioichthys yangjuanensis* Wu et al., 2015’ Chen et al., 2014 GMPKU-P-3055; *Saurichthys yangjuanensis* Wu et al., 2015 GMPKU-P-1220; *Yelangichthys macrocephalus* GMPKU-P1358, GMPKU-P1359, GMPKU-P1360 Wu et al., 2013;
 >> - Tetrapoda: *Panzhousaurus rotundirostris* (Jiang et al., 2019) GMPKU-P-1059; *Wumengosaurus delicatomandibularis* Jiang et al., 2008b GMPKU-P-1210; *Nothosaurus yangjuanensis* Jiang et al., 2006a GMPKU-P-1080; *Lariosaurus hongguoensis* Jiang et al., 2006b GMPKU-P-1011; *Placodus inexpectatus* Jiang et al., 2008a GMPKU-P-1054; *Largocephalosaurus qianensis* Li et al., 2014 IVPP V 15638; *Sinosaurosphargis yunguiensis* Li et al., 2011 IVPP V16076; *Dinocephalosaurus orientalis* Li, 2003, IVPP V 13767; *Phalarodon atavus*; *Mixosaurus cornalianus*; *Mixosaurus panxianensis* Jiang et al, 2006  GMPKU-P-1033; *Phalarodon* cf. *P. fraasi* Merriam, 1910 Jiang et al, 2007 GMPKU-P-1032; *Xinminosaurus catactes* Jiang et al, 2008 GMPKU-P-1071; *Qianosuchus mixtus* Li et al, 2006 IVPP V13899
 > - **Locality and horizon**: Upper Member, Guanling Formation; Dapianpo Quarry, Yangjuan Village, Xinmin, Panzhou, Guizhou, China.
 > - **References**:
@@ -2119,6 +2119,7 @@ Jirah, S., & Rubidge, B. S. (2014). Refined stratigraphy of the Midd
 Rubidge, B. S., Day, M. O., & Benoit, J. (2021). New specimen of the enigmatic dicynodont Lanthanostegus mohoii (Therapsida, Anomodontia) from the southwestern Karoo Basin of South Africa, and its implications for Middle Permian biostratigraphy. Frontiers in Earth Science, 9, 668143. https://doi.org/10.3389/feart.2021.668143
 
 Rubidge, B. S., Day, M. O., & Benoit, J. (2023). First record of the rare dicynodont Colobodectes from the southern Karoo Basin of South Africa has implications for middle Permian continental biostratigraphy. Journal of African Earth Sciences, 208, 105097. https://doi.org/10.1016/j.jafrearsci.2023.105097
+
 
 
 
