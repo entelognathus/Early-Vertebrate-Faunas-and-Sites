@@ -310,10 +310,10 @@
 > - **Comments**:
 
 **Belebei Formation, Ocher locality, Perm Krai, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Roadian–Wordian, Middle Permian
+> - **Taxa**: Temnospondyli: *Collidosuchus tchudinovi*, *Bashkirosaurus tcherdyncevi*, *Platyoposaurus stuckenbergi*, *Melosaurus* sp., *Rhipaeosaurus tricuspidens*. Parareptilia: *Belebey vegrandis*, *Belebey maximi*, *Belebey churkini*, *Belebey shumovi*, *Tokosaurus perforatus*, *Macroleter poezicus*, *Microsyodon orlovi*, *Kitiakia firma*. Therapsida: *Estemmenosuchus uralensis*, *Estemmenosuchus mirabilis*, *Biarmosuchus tener*, *Archaeosyodon praeventor*, *Konzhukovia tarda*, *Kamacops acervalis*, *Otsheria netzvetajevi*, *Otsheria lenocinator*, *Davletkulia gigantea*, *Molybdopygus arcanus*, *Gecatogomphius kavejevi*, *Bashkyroleter bashkyricus*. Actinopterygii: *Kazanichthys golyushermensis*, *Kargalichthys pritokensis*, *Platysomus bashkirus*, *Platysomus soloduchi*, *Varialepis* sp. Coelacanthiformes: *Phthinosaurus borissiaki* 
+> - **Locality and horizon**: Ocher (Ezhovo) locality, eastern Cis-Urals, Perm Krai, Russia; Belebei Formation, Upper Kazanian Substage (Tatarian Series), deposited in fluvial floodplain and lacustrine environments (Tverdokhlebov et al., 2005; Lozovsky, 2005).
+> - **References**: Bulanov et al., 2022; Ivakhnenko et al., 1997; Lozovsky, 2005; Reisz et al., 2007; Tverdokhlebov et al., 2005.
 > - **Comments**:
 
 **Kazan Formation, Russia**
@@ -2106,6 +2106,7 @@ Schneider, J. W., Werneburg, I., & Steyer, J.-S. (in press). A review of the Wes
 Gervais, P. (1858). *Zoologie et Paléontologie Françaises (Deuxième Édition)*. Arthus Bertrand.
 
 Werneburg, R., Spindler, F., Falconnet, J., & Schneider, J. W. (2022). A new caseid synapsid from the Permian (Guadalupian) of the Lodève Basin (Occitanie, France). *Fossil Record*, *25*(2), 357–384. https://doi.org/10.5194/fr-25-357-2022
+
 
 
 
