@@ -324,10 +324,10 @@
 > - **Comments**:
 
 **Meisenheim Formation, Saar–Nahe Basin, Germany**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Asselian to early Sakmarian, Cisuralian, Permian 
+> - **Taxa**: Temnospondyli: *Apateon pedestris*, *Leptorophus* sp., *Glanochthon angusta*, *Sclerocephalus haeuseri*. *Melanerpeton pusillum*, *Melanerpeton gracile*
+> - **Locality and horizon**: Obermoschel (middle Meisenheim Formation, laminated lacustrine mudstone); Rehborn (Member M10); Humberg lake system, Saarland (uppermost Meisenheim Formation, lacustrine deposits)
+> - **References**: Schindler et al., 2014; Schoch & Witzmann, 2009; Boy et al., 2012; Voigt et al., 2022.
 > - **Comments**:
 
 **Muse Formation, Autun Basin, France**
@@ -2175,6 +2175,7 @@ Menning, M., Glodny, J., Boy, J., Gast, R., Kowalczyk, G., Martens, T., Rößler
 Müller, J., & Berman, D. S. (2003). First record of a captorhinid reptile from the Lower Permian of Germany. Neues Jahrbuch für Geologie und Paläontologie, Monatshefte, 2003(10), 623–634. https://doi.org/10.1127/njgpm/2003/2003/623
 
 Sumida, S. S., Berman, D. S., & Martens, T. (1998). A new trematopid amphibian from the Lower Permian of central Germany. Palaeontology, 41(4), 605–629. https://doi.org/10.1111/j.1475-4983.1998.tb01405.x
+
 
 
 
