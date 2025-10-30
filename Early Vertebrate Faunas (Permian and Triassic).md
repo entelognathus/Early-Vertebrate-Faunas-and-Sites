@@ -2093,6 +2093,27 @@ Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebra
 
 Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
 
+Brignon, R. (2019). A review of the Lower Permian actinopterygian fish genus *Aeduella* Agassiz, 1833, from France and Germany. *Journal of Systematic Palaeontology*, *17*(15), 1287–1312. https://doi.org/10.1080/14772019.2018.1508063
+
+Falconnet, J. (2012). *Belebey augustodunensis* n. sp., a new parareptile (Acleistorhinidae) from the Lower Permian of France. *Comptes Rendus Palevol*, *11*(7), 493–500. https://doi.org/10.1016/j.crpv.2012.05.003
+
+Feys, J. (1991). Les dépôts continentaux permien inférieur du Bassin d'Autun (Massif Central, France). *Annales de la Société Géologique de Belgique*, *114*(1–2), 237–254.
+
+Gand, G., Steyer, J.-S., Chabard, J., Pellenard, P., Diez, J. B., Fechner, R., & Broutin, J. (2007). The continental "Autunian" succession of the Autun Basin (France): a multidisciplinary approach to the Carboniferous-Permian boundary. *Comptes Rendus Palevol*, *6*(3), 177–192. https://doi.org/10.1016/j.crpv.2006.11.003
+
+Gaudry, A. (1888). *Notice explicative de la carte géologique de la France au 1/50.000e, feuille d'Autun*. Notes et Mémoires du Bureau de Recherches Géologiques et Minières.
+
+Henderson, C. M. (2018). Global standard for the Asselian Stage (Lower Permian). *Episodes*, *41*(1), 41–52. https://doi.org/10.18814/epiiugs/2018/010016
+
+Heyler, D. (1957). Contribution à l'étude des amphibiens carboniféro-permiens de France. *Annales de Paléontologie*, *43*, 213–272.
+
+Heyler, D. (1969). *Vertebrata*. In *Rapport sur la carte géologique de la France, Mémoire 52, Bassin d'Autun*. BRGM.
+
+Luccisano, V., Pradel, A., Amiot, R., Gand, G., Steyer, J.-S., & Cuny, G. (2021). A new *Triodus* shark species (Xenacanthidae, Xenacanthiformes) from the lowermost Permian of France and its paleobiogeographic implications. *Journal of Vertebrate Paleontology*, *41*(2), e1926470. https://doi.org/10.1080/02724634.2021.1926470
+
+Pellenard, P., Gand, G., Juncal, M. A., Diez, J. B., Steyer, J.-S., Broutin, J., & Rodriguez-Barreiro, I. (2017). High-precision geochronology of the continental Carboniferous-Permian boundary in the French Massif Central. *Geology*, *45*(9), 835–838. https://doi.org/10.1130/G39078.1
+
+Schneider, J. W., Werneburg, I., & Steyer, J.-S. (in press). A review of the Westphalian–Early Permian tetrapod faunas of Western and Central Europe. In M. J. Benton, O. R. Addo-Bediako, & J. A. Harris (Eds.), *Tetrapods and Rhynchosaurs: A Memorial Volume to James M. Clark*. Geological Society of America Special Paper.
 
 
 
