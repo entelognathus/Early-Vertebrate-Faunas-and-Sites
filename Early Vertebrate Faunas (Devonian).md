@@ -1037,7 +1037,7 @@ The arthrodires comprise
 >> - Sarcopterygians:
 >> -  Coelacanth: _Serenichthys kowiensis_ (Gess & Coates, 2015a),
 >> -  Lungfish: _Isityumzi mlomomde_ (Gess & Clement, 2019),
->> -  Tetropodmorph: a previously unreported rhizodont (R.W. Gess & P.E. Ahlberg, in preparation) and a tristichopterid compared to Hyneria (Gess & Coates, 2008). In addition, two
+>> -  Tetropodomorph: a previously unreported rhizodont (R.W. Gess & P.E. Ahlberg, in preparation) and a tristichopterid compared to Hyneria (Gess & Coates, 2008). In addition, two
 >> -  Tetrapods: _Tutusius umlambo_ and _Umzantsia amazana_ (Gess & Ahlberg, 2018).
 >> -  Exeptionally, **larval fish** are sometimes preserved at the Waterloo Farm site, although these are often insufficiently mineralised to be fully diagnosed.
 >> - Plants: progymnosperm _Archaeopteris_ (Anderson et al., 1995); small arborescent lycopods (Gess & Prestianni, 2018); large single-stemmed lycopods, _Leptophloem rhombicum_ (Prestianni & Gess, 2014) and etc.
@@ -1055,6 +1055,7 @@ The arthrodires comprise
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
