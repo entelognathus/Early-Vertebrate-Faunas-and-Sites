@@ -1024,17 +1024,37 @@ The arthrodires comprise
 > Hunter Siltstone, Hervey Group, Grenfell, MAV15.
 > - *Grenfellaspis branagani* Ritchie et al., 1992 
 
-***Waterloo Farm lagerstätten**, Famennian.
-> Witpoort Formation, Witteberg Group, South Africa
+**Waterloo Farm Lagerstätte, Witpoort Formation, Witteberg Group, Cape Supergroup，Eastern Cape Province, South Africa** 
+> - **Age**: Famennian, Devonian
+> - **Taxa**:
+>> - Lamprey: _Priscomyzon riniensis_ (Gess, Coates, & Rubidge, 2006)
+>> - Placoderms:
+>> -  Antiarch: _Bothriolepis africana_ (Long et al., 1997)
+>> -  Phlyctaeniid Arthrodire: _Groenlandaspis riniensis_ (Long et al., 1997), _Africanaspis doryssa_ (Long et al., 1997) and _Africanaspis edmountaini_ (Gess & Trinajstic, 2017), at least two additional undescribed arthrodire placoderms (Gess & Whitfield, 2020)
+>> - Acanthodians: two diplacanthid acanthodians including _Diplacanthus acus_ (Gess, 2000), an acanthodiform acanthodian (Gess & Coates, 2008), a gyracanthid ‘acanthodian’ stem chondrichthyan (Gess & Coates, 2008)
+>> - Chondrichthyans: _Antarctilamna ultima_ and _Plesioselachus macracanthus_ (Anderson et al., 1999b; Gess & Coates, 2015b)
+>> - Actinopterygians undescribed (Gess & Coates, 2008)
+>> - Sarcopterygians:
+>> -  Coelacanth: _Serenichthys kowiensis_ (Gess & Coates, 2015a),
+>> -  Lungfish: _Isityumzi mlomomde_ (Gess & Clement, 2019),
+>> -  Tetropodmorph: a previously unreported rhizodont (R.W. Gess & P.E. Ahlberg, in preparation) and a tristichopterid compared to Hyneria (Gess & Coates, 2008). In addition, two
+>> -  Tetrapods: _Tutusius umlambo_ and _Umzantsia amazana_ (Gess & Ahlberg, 2018).
+>> -  Exeptionally, **larval fish** are sometimes preserved at the Waterloo Farm site, although these are often insufficiently mineralised to be fully diagnosed.
+>> - Plants: progymnosperm _Archaeopteris_ (Anderson et al., 1995); small arborescent lycopods (Gess & Prestianni, 2018); large single-stemmed lycopods, _Leptophloem rhombicum_ (Prestianni & Gess, 2014) and etc.
+>> - Algae and invertebrates
+> - **Locality and horizon**: 
+> - **References**: Gess & Hiller, 1995; Gess & Whitfield, 2020
+> - **Comments**:
+> - Gess & Whitfield, 2020: The Witpoort Formation of the Witteberg Group consists of mature quartz arenites, interpreted as having been deposited along a linear, sandy coastline, dominated by longshore drift (Hiller & Taylor, 1992). Occasional thin black shale horizons occur at intervals through the Witpoort Formation (Theron, 1972). On sedimentary grounds these have been interpreted as including estuarine and coastal lagoonal sediments (Hiller & Taylor, 1992; Taylor & Hiller, 1993).
+> -  The depositional environment of the Waterloo Farm site is interpreted as a seasonally open estuarine lake containing salinity gradients between areas more proximal and distal from the sea. Episodes of exceptional preservation are often represented by particularly fine-grained, carbon-rich layers that are indicative of large (>1,000 ha), deep (>5 m) semiisolated water bodies where water currents were minimal and meromictic conditions probable.
 
 
-> - 
 
 
 
 
-
-
+**References**
+Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
 
 
 
