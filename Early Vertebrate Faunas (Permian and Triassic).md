@@ -308,10 +308,10 @@
 > - **Comments**:
 
 **Millery Formation, Autun Basin, France**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Asselian, Cisuralian, Permian. 
+> - **Taxa**: Actinopterygii: *Aeduella blainvillei*, *Igornichthys doubingeri*, *Igornella comblei*, *Paramblypterus rohani*, *Paramblypterus* sp., *Elonichthys autuniensis*. Chondrichthyes: *Triodus aeduorum*, *Triodus* sp., 'Expleuracanthus' *frossardi*. Amphibia: *Branchiosaurus* sp., *Apateon* sp., *Onchiodon* sp., *Archegosaurus dyscriton*, *Melanerpeton pusillum*, *Melanerpeton gracile*. Synapsida: *Haptodus baylei*, *Callibrachion gaudryi*, *Callibrachion* sp., *Stereorhachis* sp.. Parareptilia: *Belebey augustodunensis*. Reptilia: *Seymouria baylorensis*, *Pelosaurus* sp., *Sauvarus* sp.. Dipnoi: *Sagenodus tardus*. 
+> - **Locality and horizon**: Lacustrine varved dolomitic mudstones with bituminous oil-shale beds (e.g., Muse OSB, Le Tèlots black shales) in the Saône-et-Loire department, Autun Basin, northern Massif Central, France; stratigraphically part of the upper Autunian series, overlying the Margenne coal seam and underlain by the Surmoulin Formation (Gand et al., 2007; Pellenard et al., 2017; Luccisano et al., 2021).
+> - **References**: Brignon, 2019; Falconnet, 2012; Feys, 1991; Gaudry, 1888; Gand et al., 2007; Henderson, 2018; Heyler, 1957; Heyler, 1969; Luccisano et al., 2021; Pellenard et al., 2017;
 > - **Comments**:
 
 **La Lieude Formation, France**
@@ -2092,6 +2092,7 @@ Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnosp
 Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. *Palaeobiodiversity and Palaeoenvironments*, *94*(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
 
 Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
+
 
 
 
