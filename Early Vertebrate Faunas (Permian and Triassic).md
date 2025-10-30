@@ -315,10 +315,10 @@
 > - **Comments**:
 
 **La Lieude Formation, France**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wordian–Capitanian, Guadalupian, Permian 
+> - **Taxa**: Synapsida: *Lalieudorhynchus gandi*, ?*Stereorachis dominans*. Temnospondyli: Tupilakosauridae indet. Amniota: Araeoscelidia indet., Seymouriamorpha indet.
+> - **Locality and horizon**: Lodève Basin, Occitanie, southern France; fossiliferous horizon located ~140 m above the base of the formation, southwest of La Lieude farmhouse, along the southern bank of the Salagou creek, within the “Dalle permienne à empreintes de reptiles de La Lieude” (Werneburg et al., 2022).
+> - **References**: Gervais, 1858; Werneburg et al., 2022.
 > - **Comments**:
 
 **Belebei Formation, Ocher locality, Perm Krai, Russia**
@@ -2114,6 +2114,7 @@ Luccisano, V., Pradel, A., Amiot, R., Gand, G., Steyer, J.-S., & Cuny, G. (2021)
 Pellenard, P., Gand, G., Juncal, M. A., Diez, J. B., Steyer, J.-S., Broutin, J., & Rodriguez-Barreiro, I. (2017). High-precision geochronology of the continental Carboniferous-Permian boundary in the French Massif Central. *Geology*, *45*(9), 835–838. https://doi.org/10.1130/G39078.1
 
 Schneider, J. W., Werneburg, I., & Steyer, J.-S. (in press). A review of the Westphalian–Early Permian tetrapod faunas of Western and Central Europe. In M. J. Benton, O. R. Addo-Bediako, & J. A. Harris (Eds.), *Tetrapods and Rhynchosaurs: A Memorial Volume to James M. Clark*. Geological Society of America Special Paper.
+
 
 
 
