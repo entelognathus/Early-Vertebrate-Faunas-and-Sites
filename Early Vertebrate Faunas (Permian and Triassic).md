@@ -2115,6 +2115,9 @@ Pellenard, P., Gand, G., Juncal, M. A., Diez, J. B., Steyer, J.-S., Broutin, J.,
 
 Schneider, J. W., Werneburg, I., & Steyer, J.-S. (in press). A review of the Westphalian–Early Permian tetrapod faunas of Western and Central Europe. In M. J. Benton, O. R. Addo-Bediako, & J. A. Harris (Eds.), *Tetrapods and Rhynchosaurs: A Memorial Volume to James M. Clark*. Geological Society of America Special Paper.
 
+Gervais, P. (1858). *Zoologie et Paléontologie Françaises (Deuxième Édition)*. Arthus Bertrand.
+
+Werneburg, R., Spindler, F., Falconnet, J., & Schneider, J. W. (2022). A new caseid synapsid from the Permian (Guadalupian) of the Lodève Basin (Occitanie, France). *Fossil Record*, *25*(2), 357–384. https://doi.org/10.5194/fr-25-357-2022
 
 
 
