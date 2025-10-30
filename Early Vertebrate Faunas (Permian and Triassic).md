@@ -160,13 +160,6 @@
 > - **References**: van de Poll, 1983; Case, 1905; Brink et al., 2013
 > - **Comments**: 
 
-**Irati Formation, Paraná Basin, Brazil**
-> - **Age**: Kungurian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum, Brazilosaurus sanpauloensis. Chondrichthyes: Itapyrodus punctatus, Fairchildodus rioclarensis.
-> - **Locality and horizon**: Widespread exposures in the Paraná Basin of Brazil, especially in the state of São Paulo; the formation is divided into two members, the Taquaral (lower) and Assistência (upper). A sandy facies at the base of the Taquaral Member yields abundant chondrichthyan fossils, while the shales and limestones of the Assistência Member preserve mesosaurid reptiles (Chahud, 2023; de Queiroz et al., 2020).
-> - **References**: de Queiroz et al., 2020; Chahud, 2023
-> - **Comments**: 
-
 **Mangrullo Formation, Paraná Basin, Uruguay**
 > - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum
@@ -263,13 +256,6 @@
 > - **Taxa**: Temnospondyli: Trimerorhachis sp., Eryops sp., Zatrachys sp.. Diadectomorpha: Diadectes sp., Tseajaia campi. Seymouriamorpha: Seymouria sp.. Synapsida: Ophiacodon sp., Dimetrodon sp..
 > - **Locality and horizon**: Vertebrate fossils are derived from fluvial‑channel and overbank deposits within the Organ Rock Shale of the Cutler Group, exposed in Monument Valley and adjacent areas of southeastern Utah and northeastern Arizona. Outcrops occur around Canyonlands National Park, Natural Bridges National Monument and Monument Valley, where the unit is a dark‑red mudstone/siltstone interval between the Cedar Mesa Sandstone and the De Chelly/White Rim sandstones.
 > - **References**: Vaughn 1964; Condon 1997; Tabor & Poulsen 2008; Sumida et al. 1999a; Sumida et al. 1999b
-> - **Comments**:
-
-**Irati Formation, Paraná Basin, Brazil**
-> - **Age**: Artinskian–Kungurian, Cisuralian, Early Permian
-> - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum, Brazilosaurus sanpauloensis. Chondrichthyes: Itapyrodus punctatus, Taquaralodus albuquerquei, Fairchildodus rioclarensis, Orodus ipeunaensis, Sphenacanthus sanpauloensis. Actinopterygii & Coelacanthiformes: fragmentary scales and teeth.
-> - **Locality and horizon**: The formation crops out in the Paraná Basin across São Paulo, Paraná, Goiás, Mato Grosso do Sul, and Rio Grande do Sul States. It comprises two main members: the lower Taquaral Member (sandy–silty shale with chondrichthyan assemblages) and the upper Assistência Member (bituminous shale yielding Mesosauridae remains) (Soares, 2003; Chahud & Petri, 2013; MacDougall et al., 2020).
-> - **References**: Ventura Santos et al., 2006; Soares, 2003; Chahud & Petri, 2013; Chahud et al., 2010; Chahud et al., 2020; MacDougall et al., 2020; Cagliari et al., 2022.
 > - **Comments**:
 
 **Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil**
@@ -2167,6 +2153,7 @@ Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnosp
 Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. *Palaeobiodiversity and Palaeoenvironments*, *94*(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
 
 Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
+
 
 
 
