@@ -317,9 +317,9 @@
 > - **Comments**:
 
 **Tambach Formation, Thuringian Forest, Germany**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: Sakmarian, Cisuralian, Early Permian.
+> - **Taxa**: Amphibia: Georgenthalia clavinasica. Diadectes absitus, D. dreigleichenensis. Orobates pabsti. Amniota incertae sedis: Eudibamus cursoris. Captorhinidae: Thuringothyris mahlendorffae. Varanopidae: Tambacarnifex unguifalcatus. Sphenacodontidae: Dimetrodon teutonis. Caseidae: Martensius bromackerensis. Microsauria: Tambaroter carrolli. Trematopidae: Tambachia trogallas, Rotaryus gothae. Seymouriamorpha: Seymouria sanjuanensis.
+> - **Locality and horizon**: Bromacker locality, near Tambach-Dietharz, Thuringian Forest, central Germany; within the Tambach Sandstone Member of the Tambach Formation, lower Rotliegend Group (Berman et al., 2000; Lützner et al., 2012).
 > - **References**:
 > - **Comments**:
 
@@ -2149,6 +2149,7 @@ Smith, R. M. H., Botha-Brink, J., & Sidor, C. A. (2015). Palaeoenvironmental rec
 Taquet, P. (1969). Les reptiles du gisement de Moradi (Niger). Mémoires du Muséum National d'Histoire Naturelle, Nouvelle Série, Série C, Sciences de la Terre, 16, 1-104.
 
 Tsuji, L. A., Müller, J., & Reisz, R. R. (2013). First record of the parareptile Bunostegos akokanensis from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 33(1), 1-10. https://doi.org/10.1080/02724634.2012.714802
+
 
 
 
