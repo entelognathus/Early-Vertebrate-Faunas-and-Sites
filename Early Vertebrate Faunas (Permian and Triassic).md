@@ -2150,6 +2150,31 @@ Taquet, P. (1969). Les reptiles du gisement de Moradi (Niger). Mémoires du Mus�
 
 Tsuji, L. A., Müller, J., & Reisz, R. R. (2013). First record of the parareptile Bunostegos akokanensis from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 33(1), 1-10. https://doi.org/10.1080/02724634.2012.714802
 
+Anderson, J. S., Henrici, A. C., Sumida, S. S., & Martens, T. (2008). Georgenthalia clavinasica, a new genus and species of dissorophoid temnospondyl from the Early Permian of Germany, and the relationships of the family Amphibamidae. Journal of Vertebrate Paleontology, 28(1), 61–75. https://doi.org/10.1671/0272-4634(2008)28[61:GCANGA]2.0.CO;2
+
+Berman, D. S., Henrici, A. C., Sumida, S. S., Hopf, H., & Martens, T. (2000). Lower Permian terrestrial paleoenvironments and vertebrate paleoecology of the Tambach Basin (Thuringia, Central Germany): The upland holy grail. PALAIOS, 15(4), 293–313. https://doi.org/10.2307/3515385
+
+Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001). A new species of Dimetrodon (Synapsida: Sphenacodontidae) from the Lower Permian of Germany records first occurrence of genus outside of North America. Canadian Journal of Earth Sciences, 38(5), 803–812. https://doi.org/10.1139/cjes-38-5-803
+
+Berman, D. S., Henrici, A. C., Kissel, R., Sumida, S. S., & Martens, T. (2004). A new diadectid (Diadectomorpha), Orobates pabsti, from the Early Permian of Central Germany. Bulletin of Carnegie Museum of Natural History, 35, 1–37. https://doi.org/10.2992/0145-9058(2004)35[1:ANDDFO]2.0.CO;2
+
+Berman, D. S., Henrici, A. C., Sumida, S. S., Martens, T., & Anderson, J. S. (2011). Rotaryus gothae, a new trematopid (Temnospondyli: Dissorophoidea) from the Lower Permian of Central Germany. Annals of Carnegie Museum, 80(1), 49–65. https://doi.org/10.2992/007.080.0106
+
+Berman, D. S., Henrici, A. C., & Martens, T. (2014). First European record of a varanodontine (Synapsida: Varanopidae): Member of a unique Early Permian upland paleoecosystem, Tambach Basin, Central Germany. In K. D. Angielczyk & J. Fröbisch (Eds.), Early Evolutionary History of the Synapsida (pp. 69–86). Springer. https://doi.org/10.1007/978-94-007-6841-3_5
+
+Brocklehurst, N., Romano, M., & Fröbisch, J. (2020). Martensius bromackerensis, a new basal caseid synapsid from the Lower Permian of Germany. Palaeontologia Electronica, 23(3), a57. https://doi.org/10.26879/1083
+
+Henrici, A. C., Martens, T., Berman, D. S., & Sumida, S. S. (2011). An ostodolepid 'microsaur' (Lepospondyli) from the Lower Permian Tambach Formation of central Germany. Journal of Vertebrate Paleontology, 31(5), 997–1004. https://doi.org/10.1080/02724634.2011.596601
+
+Lützner, H., Andreas, D., Schneider, J. W., Voigt, S., & Werneburg, R. (2012). Stefan und Rotliegend im Thüringer Wald und seiner Umgebung. In Stratigraphie von Deutschland X. Rotliegend. Teil I: Innervariscische Becken (pp. 418–487). Deutsche Gesellschaft für Geowissenschaften.
+
+Martens, T. (2018). Seymouria sanjuanensis from the Lower Permian of Central Germany. Paläontologische Zeitschrift, 92(2), 181–186. https://doi.org/10.1007/s12542-017-0375-7
+
+Menning, M., Glodny, J., Boy, J., Gast, R., Kowalczyk, G., Martens, T., Rößler, R., Schindler, T., von Seckendorff, V., & Voigt, S. (2022). The Rotliegend in the Stratigraphic Table of Germany 2016 (STG 2016). Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, 173(1), 3–139. https://doi.org/10.1127/zdgg/2022/0311
+
+Müller, J., & Berman, D. S. (2003). First record of a captorhinid reptile from the Lower Permian of Germany. Neues Jahrbuch für Geologie und Paläontologie, Monatshefte, 2003(10), 623–634. https://doi.org/10.1127/njgpm/2003/2003/623
+
+Sumida, S. S., Berman, D. S., & Martens, T. (1998). A new trematopid amphibian from the Lower Permian of central Germany. Palaeontology, 41(4), 605–629. https://doi.org/10.1111/j.1475-4983.1998.tb01405.x
 
 
 
