@@ -2176,6 +2176,13 @@ Müller, J., & Berman, D. S. (2003). First record of a captorhinid reptile from 
 
 Sumida, S. S., Berman, D. S., & Martens, T. (1998). A new trematopid amphibian from the Lower Permian of central Germany. Palaeontology, 41(4), 605–629. https://doi.org/10.1111/j.1475-4983.1998.tb01405.x
 
+Boy, J. A., Schindler, T., & Wuttke, M. (2012). *Melanerpeton* (Amphibia: Temnospondyli) from the Early Permian of the Saar–Nahe Basin, Germany: Taxonomy, biostratigraphy and palaeoecology. *Palaeobiodiversity and Palaeoenvironments*, *92*(3), 329–347. https://doi.org/10.1007/s12549-012-0085-3
+
+Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnospondyl genus *Sclerocephalus*. *Zoological Journal of the Linnean Society*, *157*(1), 135–168. https://doi.org/10.1111/j.1096-3642.2009.00535.x
+
+Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. *Palaeobiodiversity and Palaeoenvironments*, *94*(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
+
+Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
 
 
 
