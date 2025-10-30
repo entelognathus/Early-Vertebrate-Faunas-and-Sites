@@ -317,10 +317,10 @@
 > - **Comments**:
 
 **Kazan Formation, Russia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian-Kungurian, Cisuralian, Permian
+> - **Taxa**: Chondrichthyes: *Sphenacanthus maranhensis*, *Sphenacanthus ignis*, *Glikmanius* sp., *Bythiacanthus lopesi*, *Rubencanthus diplotuberculatus*, *Anisopleurodontis pricei*, *Taquaralodus albuquerquei*, *Itapyrodus punctatus*, Edestidae indet. Osteichthyes: *Brazilichthys macrognathus*, Palaeonisciformes indet., Dipnoi indet. Amphibia: *Prionosuchus plummeri*, *Timonya anneae*, *Procuhy nazariensis*, Rhinesuchidae indet. Reptilia: *Karutia fortunata*, *Captorhinikos* sp.
+> - **Locality and horizon**: Outcrops in the states of Maranhão, Piauí, and Tocantins, Brazil. The formation overlies the Piauí Formation and is overlain by the Motuca Formation. Vertebrate fossils are typically recovered from siltstone layers within the Basal Silex, Middle, and Trisidela members (Plummer, 1948; Cisneros et al., 2015).
+> - **References**: Iannuzzi et al., 2018; Figueroa & Gallo, 2017; Cisneros et al., 2015; Cisneros et al., 2020; Cox & Hutchinson, 1991; Plummer, 1948; Araújo et al., 2016
 > - **Comments**:
 
 **Naobaogou Formation, Daqing Mountains, Inner Mongolia, China**
@@ -2117,6 +2117,19 @@ Reisz, R. R., Müller, J., Tsuji, L., & Scott, D. (2007). The cranial osteology 
 
 Tverdokhlebov, V. P., Tverdokhlebova, G. I., & Ivakhnenko, M. F. (2005). Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. *Earth-Science Reviews*, *69*(1–2), 27–77. https://doi.org/10.1016/j.earscirev.2004.09.001
 
+Araújo, E. V., Rodrigues, F. S., de Miranda, T. S., & de Carvalho, M. S. S. (2016). Facies analysis and depositional model of the Permian Pedra de Fogo Formation, Parnaíba Basin, Brazil. *Journal of South American Earth Sciences*, 68, 113-132. https://doi.org/10.1016/j.jsames.2016.03.002
+
+Cisneros, J. C., Marsicano, C., Angielczyk, K. D., Smith, R. M. H., Richter, M., Fröbisch, J., Kammerer, C. F., & Sadleir, R. W. (2015). New Permian fauna from tropical Gondwana. *Nature Communications*, 6(1), 8676. https://doi.org/10.1038/ncomms9676
+
+Cisneros, J. C., Angielczyk, K. D., Kammerer, C. F., Smith, R. M. H., Fröbisch, J., Marsicano, C. A., & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Parnaíba Basin, northeastern Brazil. *PeerJ*, 8, e8719. https://doi.org/10.7717/peerj.8719
+
+Cox, C. B., & Hutchinson, P. (1991). Fishes and amphibians from the Late Permian Pedra De Fogo Formation of Northern Brazil. *Palaeontology*, 34(3), 561–573.
+
+Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. *Journal of South American Earth Sciences*, 80, 42-51. https://doi.org/10.1016/j.jsames.2017.09.010
+
+Iannuzzi, R., Rohn, R., & Lemos, V. B. (2018). The Parnaíba Basin: a window into the Permian of palaeotropical western Pangaea. In: Linol, B., de Wit, M.J. (Eds.), *Origin and Evolution of the Cape Mountains and Karoo Basin*. Regional Geology Reviews. Springer, Cham. pp. 233–263. https://doi.org/10.1007/978-3-319-40859-0_14
+
+Plummer, F. B. (1948). Relatório do Conselho Nacional do Petróleo de 1946. Rio de Janeiro, pp. 87-134.
 
 
 
