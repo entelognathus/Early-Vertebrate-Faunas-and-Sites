@@ -36,15 +36,6 @@
 > - **References**: Lucas et al., 2016; Berman, 1977; Lucas et al., 2013; Berman and Reisz, 1980; Hunt and Lucas, 1996; Lucas et al., 2001
 > - **Comments**: middle Wolfcampian to early Leonardian.
 
-**Tambach Formation, Thuringian Forest, Germany**
-> - **Age**: Cisuralian (Early Permian), Permian.
-> - **Taxa**:
->> - Temnospondyl amphibians: *Tambachia trogallas*, *Rotaryus gothae*.
->> - Early amniotes (reptiles and synapsids): *Eudibamus cursoris*, *Dimetrodon teutonis*.
-> - **Locality and horizon**: Bromacker Quarry near Tambach-Dietharz (Thuringian Forest, central Germany); Tambach Formation (lowermost Upper Rotliegend Group, Lower Permian) (Sumida et al., 1998; Berman et al., 2004).
-> - **References**: Sumida et al., 1998; Berman et al., 2000; Eberth et al., 2000; Berman et al., 2004; Berman et al., 2011
-> - **Comments**: 
-
 **Goldlauter Formation, Thuringian Forest, Germany**
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Branchiosaurid Amphibians (Temnospondyli): Apateon dracyiensis, Apateon kontheri, Apateon flagrifer, Melanerpeton eisfeldi, Branchierpeton reinholdi . Actinopterygian Fishes: Amelangia ornata.
@@ -2176,6 +2167,7 @@ Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnosp
 Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. *Palaeobiodiversity and Palaeoenvironments*, *94*(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
 
 Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
+
 
 
 
