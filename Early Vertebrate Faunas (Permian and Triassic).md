@@ -657,13 +657,6 @@
 > - **References**:  
 > - **Comments**:  
 
-**Kundaram Formation, Pranhita–Godavari Basin, India**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
-> - **Comments**:  
-
 **Cutties Hillock Sandstone Formation, Moray, Scotland, UK**  
 > - **Age**:  
 > - **Taxa**:  
@@ -2125,6 +2118,7 @@ Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnosp
 Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. *Palaeobiodiversity and Palaeoenvironments*, *94*(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
 
 Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
+
 
 
 
