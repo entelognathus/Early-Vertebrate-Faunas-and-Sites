@@ -2107,6 +2107,15 @@ Gervais, P. (1858). *Zoologie et Paléontologie Françaises (Deuxième Édition)
 
 Werneburg, R., Spindler, F., Falconnet, J., & Schneider, J. W. (2022). A new caseid synapsid from the Permian (Guadalupian) of the Lodève Basin (Occitanie, France). *Fossil Record*, *25*(2), 357–384. https://doi.org/10.5194/fr-25-357-2022
 
+Bulanov, Y. V., Kurochkin, E. N., & Bolkhovitinov, Y. A. (2022). New parareptiles (Parareptilia, Bolosauridae) from the Upper Kazanian Stage of the East European Platform. *Paleontological Journal*, *56*(1), 1–13. https://doi.org/10.1134/S003103012201004X
+
+Ivakhnenko, M. F., Tverdokhlebova, G. I., & Lozovski, V. Z. (1997). Tetrapod fauna of the Tatarian deposits of the Uralian Foreland. *Trudy Paleontologicheskogo Instituta, Akademiya Nauk SSSR*, *279*, 1–296.
+
+Lozovsky, V. Z. (2005). Late Permian tetrapods of Russia. *Journal of Asian Earth Sciences*, *25*(2), 247–263. https://doi.org/10.1016/j.jseaes.2004.06.013
+
+Reisz, R. R., Müller, J., Tsuji, L., & Scott, D. (2007). The cranial osteology of *Belebey vegrandis* (Parareptilia: Bolosauridae), from the Middle Permian of Russia, and its bearing on reptilian evolution. *Zoological Journal of the Linnean Society*, *151*(1), 191–214. https://doi.org/10.1111/j.1096-3642.2007.00287.x
+
+Tverdokhlebov, V. P., Tverdokhlebova, G. I., & Ivakhnenko, M. F. (2005). Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. *Earth-Science Reviews*, *69*(1–2), 27–77. https://doi.org/10.1016/j.earscirev.2004.09.001
 
 
 
