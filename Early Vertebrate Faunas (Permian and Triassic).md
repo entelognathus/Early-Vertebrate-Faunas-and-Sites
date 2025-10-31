@@ -2131,6 +2131,29 @@ Iannuzzi, R., Rohn, R., & Lemos, V. B. (2018). The Parnaíba Basin: a window int
 
 Plummer, F. B. (1948). Relatório do Conselho Nacional do Petróleo de 1946. Rio de Janeiro, pp. 87-134.
 
+Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 9. A new species of *Gansurhinus* (Reptilia: Captorhinidae) and a revision of Chinese captorhinids. *Journal of Vertebrate Paleontology*, *42*(5), e2203200. https://doi.org/10.1080/02724634.2023.2203200
+
+Liu, J., & Abdala, F. (2022). The emblematic South African therocephalian *Euchambersia* in China: a new link in the dispersal of late Permian vertebrates across Pangea. *Biology Letters*, *18*(7), 20220222. https://doi.org/10.1098/rsbl.2022.0222
+
+Liu, J., & Chen, J. (2021). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 7. *Laosuchus hun* sp. nov. (Chroniosuchia) and interrelationships of chroniosuchians. *Journal of Systematic Palaeontology*, *18*(24), 2043–2058. https://doi.org/10.1080/14772019.2021.1873435
+
+Liu, J. (2021). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 6. *Turfanodon jiufengensis* sp. nov. (Dicynodontia). *PeerJ*, *9*, e10854. https://doi.org/10.7717/peerj.10854
+
+Liu, J., & Abdala, F. (2020). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 5. *Caodeyao liuyufengi* gen. et sp. nov., a new peculiar therocephalian. *PeerJ*, *8*, e9160. https://doi.org/10.7717/peerj.9160
+
+Liu, J., & Abdala, F. (2019). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 3. *Jiufengia jiai* gen. et sp. nov., a large akidnognathid therocephalian. *PeerJ*, *7*, e6463. https://doi.org/1s/peerj.6463
+
+Liu, J., & Bever, G. S. (2018). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new species of *Elginia* (Parareptilia, Pareiasauria). *Papers in Palaeontology*, *4*(2), 197–209. https://doi.org/10.1002/spp2.1105
+
+Liu, J., & Abdala, F. (2017). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 1. *Shiguaignathus wangi* gen. et sp. nov., the first akidnognathid therocephalian from China. *PeerJ*, *5*, e4150. https://doi.org/10.7717/peerj.4150
+
+Liu, J., & Li, L. (2013). Large Tetrapod Burrows from the Permian Naobaogou Formation of the Daqingshan Area, Nei Mongol, China. *Acta Geologica Sinica (English Edition)*, *87*(6), 1533–1538. https://doi.org/10.1111/1755-6724.12154
+
+Shi, Y., & Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 10. *Jimusaria monanensis* sp. nov. (Dicynodontia) shows a unique epipterygoid. *PeerJ*, *11*, e15783. https://doi.org/10.7717/peerj.15783
+
+Yi, J., & Liu, J. (2025). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new mid‐sized pareiasaur *Yinshanosaurus angustus* and its implications for the phylogenetic relationships of pareiasaurs. *Papers in Palaeontology*, *11*(3), e70020. https://doi.org/10.1002/spp2.70020
+
+Zhu, Y. (1989). The discovery of dicynodonts in Daqingshan Mountain, Nei Mongol (Inner Mongolia). *Vertebrata PalAsiatica*, *27*(1), 9–27.
 
 
 
