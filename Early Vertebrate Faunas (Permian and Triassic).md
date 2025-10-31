@@ -324,10 +324,10 @@
 > - **Comments**:
 
 **Naobaogou Formation, Daqing Mountains, Inner Mongolia, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Lopingian, Late Permian.
+> - **Taxa**: Synapsida: *Caodeyao liuyufengi*, *Daqingshanodon limbus*, *Euchambersia liuyudongi*, *Jiufengia jiai*, *Jimusaria monanensis*, *Shiguaignathus wangi*, *Turfanodon jiufengensis*. Parareptilia: *Elginia wuyongae*, *Yinshanosaurus angustus*. Reptiliomorpha: *Gansurhinus naobaogouensis*, *Laosuchus hun*.
+> - **Locality and horizon**: Fossils are known from all three members of the formation in the Daqing Mountains, with specific localities in the Shiguai District of Baotou City and the Tumed Right Banner (Zhu, 1989; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025).
+> - **References**: Zhu, 1989; Liu & Li, 2013; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025
 > - **Comments**:
 
 **Qingtoushan Formation, Gansu, China**
@@ -2130,6 +2130,7 @@ Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedr
 Iannuzzi, R., Rohn, R., & Lemos, V. B. (2018). The Parnaíba Basin: a window into the Permian of palaeotropical western Pangaea. In: Linol, B., de Wit, M.J. (Eds.), *Origin and Evolution of the Cape Mountains and Karoo Basin*. Regional Geology Reviews. Springer, Cham. pp. 233–263. https://doi.org/10.1007/978-3-319-40859-0_14
 
 Plummer, F. B. (1948). Relatório do Conselho Nacional do Petróleo de 1946. Rio de Janeiro, pp. 87-134.
+
 
 
 
