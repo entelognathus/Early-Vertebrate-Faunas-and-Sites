@@ -449,6 +449,20 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2â€?315.2â€…Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
 
 **Mazon Creek lagerstÃ¤tte**
+> - **Age**: upper Moscovian stage, Middle Pennsylvanian
+> - **Taxa**:
+>> - *Tullimonstrum gregarium* (Richardson,1966; Johnson & Richardson,1969)
+>> - Cyclostomata：lamprey *Mayomyzon pieckoensis*
+>> - Chondrichthyes：*Phoebodus?*
+>> - Osteichthyes：Lungfish:*Conchopoma edesi* (Marshall, 1988)；*Illiniichthys cozarti*, *Nozamichthys contorta*, *"Elonichthys" peltigerus*，*“Elonichthys" hypsilepi*，*Elonichthys disjunctus*， *Elonichthys wolffi*， *Elonichthys remotus*（Schultze，1987）
+>> - Tetrapoda: Amphibamiformes (Mann, 2020)，Amphibamus (including Miobatrachus and Mazonerpeton)，Micrerpeton (including Eumicrerpeton)（Gregory，1950），*Phlegethontia mazonensis*（Gregory，1948）
+> - **Locality and horizon**: Francis Creek Shale, Carbondale Formation, Westphalian D, Illinois, USA
+> - **References**: Clements,2019; Shabica & Hay 1997; Nitecki，1979
+(general, Bardack, 1979; chondrichthyans, Zangerl, 1969, 1979; acanthodians, Zidek, 1976; lungfishes, Denison, 1969; Schultze, 1977; coelacanths, Schultze, 1972, 1980).
+> - **Comments**:  The Mazon Creek is named after a tributary of the Illinois River SW of Chicago (Illinois, USA), that flows close to the town of Morris, Grundy County, Illinois, USA. The fossiliferous concretions are found across an area of c. 150 km2 spanning several counties; when found in situ, the concretions occur within the lower 3–8 m of the Francis Creek Shale Member.
+> - Baird (1979) stated that the Francis Creek Shale Member was deposited at 290 Ma based on Eysinga (1975), whereas later work and reviews (i.e. Baird et al. 1985a; Shabica & Hay 1997; Schellenberg 2002) used an age of 296 Ma based on Harland et al. (1982). However, nearly all subsequent literature (i.e. Baird et al. 1985b, 1986; Sallan &Coates2014; Clementsetal.2016;Cotroneo et al. 2016; McCoy et al. 2016, etc.) cited the Francis Creek Shale Memberashavinganageof306–311 Ma.The latterageis based on studies utilizing palynological and palaeobotanical data (Pfefferkorn 1979; Wagner 1984; Peppers 1996), which indicate an age that equates to the upper part of the Moscovian stage, the top of which has been dated at 307.0±0.1 Ma (Cohen et al. 2013).
+The Mazon Creek Lagerstätte is characterized as an obrution deposit. Geological investigations have stated that the Francis Creek Shale Member represents a river delta system (e.g. Baird et al. 1985a, b, 1986).
+The Francis Creek Shale Member was deposited largely from sediment washout from rivers, which created a shallow-dipping (2°) terrigenous wedge that extended out into the shallow sea and buried the previously drowned forest of the Colchester Coal Member.
 > Francis Creek shale Member of the Carbondale Formation, late Moscovian
 > This is dated as late Moscovian (Westphalian D; Pfefferkorn, 1979; Heckel and Clayton, 2006) within the Pennsylvanian (âˆ?308â€?310 Ma; Gradstein et al., 2012).
 > - Mazon Creek fauna: *Bandringa rayi* (=*Bandringa herdinae*),
