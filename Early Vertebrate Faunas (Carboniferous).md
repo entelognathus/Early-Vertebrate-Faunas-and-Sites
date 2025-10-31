@@ -480,7 +480,13 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Locality and horizon**: Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
 > - **References**: (Maisey, 1983)
 > - **Comments**:
-
+**Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA**
+> - **Age**: Kasimovian
+> - **Taxa**: chondrichthyans (*Cooleyella cuspidata*, *Cooleyella quadrilobata*, *Cooleyella spatulata*, *Cooleyella peculiaris*, *Cooperella subsulcata*, *Cooperella eroda*, * Cooperella rectistriata*, *Cooperella striatula*,*Cooperella selluliformis*, *Cooperella ? sp*, *Cooperella typicalis*, *Cooperella, sp.*, *Idiacanthus cameratus*, *Idiognathodus symmetricus*, **, **, **, **, **, **, **, **, **, **, )
+> - **Locality and horizon**: Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
+> - **References**: (Gunnell, 1933)
+> - **Comments**:
+> - 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 **Hamilton Quarry, Hamilton County, Kansas, USA**
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
@@ -1102,6 +1108,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
