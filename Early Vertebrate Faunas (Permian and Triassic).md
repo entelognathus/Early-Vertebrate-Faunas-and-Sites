@@ -331,17 +331,17 @@
 > - **Comments**:
 
 **Qingtoushan Formation, Gansu, China**
-> - **Age**: Roadian, Guadalupian, Permian
+> - **Age**: Roadian, Guadalupian, Middle Permian
 > - **Taxa**: Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*. Sauropsida: *Belebey zhengi*, *Gansurhinus qingtoushanensis*. Temnospondyli: *Anakamacops petrolicus*. Chroniosuchia: *Phratochronis qilianensis*, *Ingentidens corridoricus*
 > - **Locality and horizon**: Vertebrate fossils occur in red mudstone in the upper part of the formation at the Dashankou locality, near Yumen, Gansu Province (Liu et al., 2009; Liu et al., 2012).
 > - **References**: Duhamel et al., 2021; Li & Cheng, 1999; Liu et al., 2009; Liu et al., 2012; Reisz et al., 2011
 > - **Comments**:
 
 **Xidagou Formation, Dashankou, Gansu Province, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Roadian, Guadalupian, Middle Permian
+> - **Taxa**: Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*, *Stenocybus acidentatus*. Parareptilia: *Belebey chengi*. Amphibia: *Anakamacops petrolicus*, *Ingentidens corridoricus*, *Phratochronis qilianensis*
+> - **Locality and horizon**: Dashankou locality, approximately 20 km southwest of Old Yumen City, Gansu Province, China. Fossils are recovered from red mudstone layers in the upper part of the Qingtoushan Formation, a fluvial deposit (Liu et al., 2009; Liu et al., 2012)
+> - **References**: Cheng and Ji, 1996; Cheng and Li, 1997; Li and Cheng, 1997; Li and Cheng, 1999; Müller et al., 2008; Liu et al., 2009; Liu et al., 2012; Chen and Liu, 2024
 > - **Comments**:
 
 **Kundaram Formation, Pranhita–Godavari Basin, India**
@@ -2165,6 +2165,21 @@ Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fau
 
 Reisz, R. R., Liu, J., Li, J. L., & Müller, J. (2011). A new captorhinid reptile, *Gansurhinus qingtoushanensis*, gen. et sp. nov., from the Permian of China. *Naturwissenschaften*, *98*(5), 435-441. [https://doi.org/10.1007/s00114-011-0793-0](https://doi.org/10.1007/s00114-011-0793-0)
 
+Chen, J., & Liu, J. (2024). Early Permian tetrapod footprints from Beijing, China, reveal the oldest record of amniotes from East Pangea. *National Science Review*, *11*(10), nwae249. [https://doi.org/10.1093/nsr/nwae249](https://www.google.com/search?q=https://doi.org/10.1093/nsr/nwae249)
+
+Cheng, Z., & Ji, S. (1996). First record of a primitive anteosaurid dinocephalian from the Upper Permian of Gansu, China. *Vertebrata PalAsiatica*, *34*(2), 123–134.
+
+Cheng, Z., & Li, J. (1997). A new genus of primitive dinocephalian - the third report on Late Permian Dashankou lower tetrapod fauna. *Vertebrata PalAsiatica*, *35*(1), 35–43.
+
+Li, J., & Cheng, Z. (1997). First discovery of eotitanosuchian (Therapsida, Synapsida) of China. *Vertebrata PalAsiatica*, *35*(4), 268–282.
+
+Li, J., & Cheng, Z. (1999). New anthracosaur and temnospondyl amphibians from Gansu, China—the fifth report on Late Permian Dashankou lower tetrapod fauna. *Vertebrata PalAsiatica*, *37*(3), 234–247.
+
+Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian origin for therapsids. *Acta Palaeontologica Polonica*, *54*(3), 393–400. [https://doi.org/10.4202/app.2008.0071](https://www.google.com/search?q=https://doi.org/10.4202/app.2008.0071)
+
+Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. *Vertebrata PalAsiatica*, *50*(4), 373–381.
+
+Müller, J., Li, J. L., & Reisz, R. R. (2008). A new bolosaurid parareptile, *Belebey chengi* sp. nov., from the Middle Permian of China and its paleogeographic significance. *Naturwissenschaften*, *95*(12), 1169–1174. [https://doi.org/10.1007/s00114-008-0438-0](https://doi.org/10.1007/s00114-008-0438-0)
 
 
 
