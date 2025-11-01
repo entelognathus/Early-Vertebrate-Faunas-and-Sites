@@ -2181,6 +2181,13 @@ Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fau
 
 Müller, J., Li, J. L., & Reisz, R. R. (2008). A new bolosaurid parareptile, *Belebey chengi* sp. nov., from the Middle Permian of China and its paleogeographic significance. *Naturwissenschaften*, *95*(12), 1169–1174. [https://doi.org/10.1007/s00114-008-0438-0](https://doi.org/10.1007/s00114-008-0438-0)
 
+Kammerer, C. F., Bandyopadhyay, S., & Ray, S. (2016). A new taxon of cistecephalid dicynodont from the upper Permian Kundaram Formation of India. *Papers in Palaeontology*, *2*(4), 569–584. [https://doi.org/10.1002/spp2.1055](https://doi.org/10.1002/spp2.1055)
+
+Ray, S. (1997). Some contributions to the Lower Gondwana stratigraphy of the Pranhita-Godavari valley, Deccan India. *Journal of the Geological Society of India*, *50*(5), 633-640.
+
+Ray, S., & Bandyopadhyay, S. (2003). Late Permian vertebrate community of the Pranhita–Godavari valley, India. *Journal of Asian Earth Sciences*, *21*(6), 643–654. [https://doi.org/10.1016/S1367-9120(02)00050-0](https://doi.org/10.1016/S1367-9120\(02\)00050-0)
+
+Reisz, R. R., Chatterjee, S., & Modesto, S. P. (2024). A new moradisaurine captorhinid reptile (Amniota: Eureptilia) from the upper Permian of India. *PeerJ*, *12*, e18394. [https://doi.org/10.7717/peerj.18394](https://www.google.com/search?q=https://doi.org/10.7717/peerj.18394)
 
 
 
