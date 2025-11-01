@@ -345,10 +345,10 @@
 > - **Comments**:
 
 **Kundaram Formation, Pranhita–Godavari Basin, India**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wuchiapingian, Lopingian, Permian
+> - **Taxa**: Synapsida: *Endothiodon mahalanobisi*, *Endothiodon bathystoma*, *Dicynodontoides* sp., *Sauroscaptor tharavati*, *Pristerodon mackayi*, *?Oudenodon* sp., *Emydops platyceps*, *Cistecephalus microrhinus*, Gorgonopsia indet. Reptilia: *Indosauriscus kuttyi* 
+> - **Locality and horizon**: Red mudstone dominated sequence of the Kundaram Formation, near the village of Golleti in the Adilabad district of Telangana. The formation overlies the Barren Measures Formation and underlies the Kamthi Formation (Ray and Bandyopadhyay, 2003; Kammerer et al., 2016).
+> - **References**: Ray, 1997; Ray and Bandyopadhyay, 2003; Kammerer et al., 2016; Reisz et al., 2024
 > - **Comments**:
 
 **Tregiovo Formation, Dolomitic Alps, northern Italy**
@@ -2180,6 +2180,7 @@ Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian ori
 Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. *Vertebrata PalAsiatica*, *50*(4), 373–381.
 
 Müller, J., Li, J. L., & Reisz, R. R. (2008). A new bolosaurid parareptile, *Belebey chengi* sp. nov., from the Middle Permian of China and its paleogeographic significance. *Naturwissenschaften*, *95*(12), 1169–1174. [https://doi.org/10.1007/s00114-008-0438-0](https://doi.org/10.1007/s00114-008-0438-0)
+
 
 
 
