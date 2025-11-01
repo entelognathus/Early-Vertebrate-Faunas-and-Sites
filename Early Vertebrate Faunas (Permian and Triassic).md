@@ -2155,6 +2155,15 @@ Yi, J., & Liu, J. (2025). The tetrapod fauna of the upper Permian Naobaogou Form
 
 Zhu, Y. (1989). The discovery of dicynodonts in Daqingshan Mountain, Nei Mongol (Inner Mongolia). *Vertebrata PalAsiatica*, *27*(1), 9–27.
 
+Duhamel, A., Benoit, J., Rubidge, B. S., & Liu, J. (2021). A re-assessment of the oldest therapsid Raranimus confirms its status as a basal member of the clade and fills Olson's gap. *The Science of Nature*, *108*(4), 26. [https://doi.org/10.1007/s00114-021-01736-y](https://doi.org/10.1007/s00114-021-01736-y)
+
+Li, J. L., & Cheng, Z. W. (1999). New anthracosaur and temnospondyl amphibians from Gansu, China – the Fifth Report on Late Permian Dashankou lower tetrapod fauna. *Vertebrata Palasiatica*, *37*(3), 234–247.
+
+Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian origin for therapsids. *Acta Palaeontologica Polonica*, *54*(3), 393-400. [https://doi.org/10.4202/app.2008.0071](https://www.google.com/search?q=https://doi.org/10.4202/app.2008.0071)
+
+Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. *Vertebrata PalAsiatica*, *50*(4), 373-381.
+
+Reisz, R. R., Liu, J., Li, J. L., & Müller, J. (2011). A new captorhinid reptile, *Gansurhinus qingtoushanensis*, gen. et sp. nov., from the Permian of China. *Naturwissenschaften*, *98*(5), 435-441. [https://doi.org/10.1007/s00114-011-0793-0](https://doi.org/10.1007/s00114-011-0793-0)
 
 
 
