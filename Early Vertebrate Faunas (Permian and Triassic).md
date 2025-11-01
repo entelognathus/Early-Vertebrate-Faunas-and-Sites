@@ -331,10 +331,10 @@
 > - **Comments**:
 
 **Qingtoushan Formation, Gansu, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Roadian, Guadalupian, Permian
+> - **Taxa**: Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*. Sauropsida: *Belebey zhengi*, *Gansurhinus qingtoushanensis*. Temnospondyli: *Anakamacops petrolicus*. Chroniosuchia: *Phratochronis qilianensis*, *Ingentidens corridoricus*
+> - **Locality and horizon**: Vertebrate fossils occur in red mudstone in the upper part of the formation at the Dashankou locality, near Yumen, Gansu Province (Liu et al., 2009; Liu et al., 2012).
+> - **References**: Duhamel et al., 2021; Li & Cheng, 1999; Liu et al., 2009; Liu et al., 2012; Reisz et al., 2011
 > - **Comments**:
 
 **Xidagou Formation, Dashankou, Gansu Province, China**
@@ -2154,6 +2154,7 @@ Shi, Y., & Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou For
 Yi, J., & Liu, J. (2025). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new mid‐sized pareiasaur *Yinshanosaurus angustus* and its implications for the phylogenetic relationships of pareiasaurs. *Papers in Palaeontology*, *11*(3), e70020. https://doi.org/10.1002/spp2.70020
 
 Zhu, Y. (1989). The discovery of dicynodonts in Daqingshan Mountain, Nei Mongol (Inner Mongolia). *Vertebrata PalAsiatica*, *27*(1), 9–27.
+
 
 
 
