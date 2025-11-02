@@ -2195,6 +2195,15 @@ Barth, S., & Mohr, B. A. R. (1994). Palynostratigraphically determined age of th
 
 Marchetti, L., Forte, G., Bernardi, M., Wappler, T., Hartkopf-Fröder, C., Krainer, K., & Kustatscher, E. (2015). Reconstruction of a Late Cisuralian (Early Permian) floodplain lake environment: Palaeontology and sedimentology of the Tregiovo Basin (Trentino-Alto Adige, Northern Italy). *Palaeogeography, Palaeoclimatology, Palaeoecology*, *440*, 510-529. [https://doi.org/10.1016/j.palaeo.2015.08.021](https://doi.org/10.1016/j.palaeo.2015.08.021)
 
+Ceoloni, P., Conti, M.A., Mariotti, N., & Nicosia, U. (1988). New Late Permian tetrapod footprints from ic and palaeoenvironmental meaning. *Palaeontographia Italica*, *70*, 1–91.
+
+Leonardi, G., Conti, M.A., Leonardi, P., Mariotti, N., & Nicosia, U. (1975). *Pachypes dolomiticus* n. gen. n. sp.; Pareiasaur footprint from the "Arenaria di Val Gardena" (Middle Permian) in the Western Dolomites (N. Italy). *Atti della Accademia Nazionale dei Lincei. Rendiconti. Classe di Scienze Fisiche, Matematiche e Naturali*, Serie 8, *57*, 221-232.
+
+Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints in the Venetian Prealps (Italy): new discoveries in a largely incomplete panorama. *Acta Palaeontologica Polonica*, *62*(4), 801-817.
+
+Marchetti, L., Citton, P., Bernardi, M., Buono, G., Carluccio, R., Ciferri, G. D., Francischini, H., Forte, G., Girardi, S., Gliozzi, E., Kustatscher, E., Petti, F. M., Romano, M., Santi, G., Schirolli, P., Spalluto, L., & Nicosia, U. (2020). The Lopingian tetrapod ichnoassociation from Italy, a key for the understanding of low-latitude faunas before the end-Permian crisis. *Journal of Mediterranean Earth Sciences*, *12*, 61-81.
+
+Massari, F., Conti, M. A., Fontana, D., Helmold, K., Mariotti, N., Neri, C., Nicosia, U., Ori, G. G., Pasini, M., & Pittau, P. (1988). The Val Gardena Sandstone and Bellerophon Formation in the Bletterbach gorge (Alto Adige, Italy): biostratigraphy and sedimentology. *Memorie di Scienze Geologiche*, *40*, 229-273.
 
 
 
