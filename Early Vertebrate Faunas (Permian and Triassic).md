@@ -2189,6 +2189,11 @@ Ray, S., & Bandyopadhyay, S. (2003). Late Permian vertebrate community of the Pr
 
 Reisz, R. R., Chatterjee, S., & Modesto, S. P. (2024). A new moradisaurine captorhinid reptile (Amniota: Eureptilia) from the upper Permian of India. *PeerJ*, *12*, e18394. [https://doi.org/10.7717/peerj.18394](https://www.google.com/search?q=https://doi.org/10.7717/peerj.18394)
 
+Avanzini, M., Neri, C., Nicosia, U., & Conti, M. A. (2008). A new Early Permian vertebrate ichnofauna from the Luco Basin (M.te Luco, Southern Alps, Italy). *Studi Trentini di Scienze Naturali, Acta Geologica*, *83*, 231-236.
+
+Barth, S., & Mohr, B. A. R. (1994). Palynostratigraphically determined age of the Tregiovo sedimentary complex in relation to radiometric emplacement ages of the Atesina volcanic complex (Permian, Southern Alps, N-Italy). *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen*, 192(2), 273-292.
+
+Marchetti, L., Forte, G., Bernardi, M., Wappler, T., Hartkopf-Fröder, C., Krainer, K., & Kustatscher, E. (2015). Reconstruction of a Late Cisuralian (Early Permian) floodplain lake environment: Palaeontology and sedimentology of the Tregiovo Basin (Trentino-Alto Adige, Northern Italy). *Palaeogeography, Palaeoclimatology, Palaeoecology*, *440*, 510-529. [https://doi.org/10.1016/j.palaeo.2015.08.021](https://doi.org/10.1016/j.palaeo.2015.08.021)
 
 
 
