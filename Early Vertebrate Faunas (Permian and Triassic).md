@@ -352,9 +352,9 @@
 > - **Comments**:
 
 **Tregiovo Formation, Dolomitic Alps, northern Italy**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: late Kungurian, Cisuralian, Permian
+> - **Taxa**: Reptilia: *Dromopus didactylus*, *Dromopus lacertoides*, cf. *Amphisauropus*; Amphibia: cf. *Batrachichnus*. 
+> - **Locality and horizon**: Intercalated within the upper part of the Monte Luco volcanic sequence, which is part of the Athesian Volcanic Group (Gruppo vulcanico atesino). The type locality is near the village of Tregiovo (46° 26' 18'' N, 11° 3' 10'' E) in the upper Val di Non, Trento Province (Barth & Mohr, 1994; Avanzini et al., 2008).
 > - **References**:
 > - **Comments**:
 
@@ -2188,6 +2188,7 @@ Ray, S. (1997). Some contributions to the Lower Gondwana stratigraphy of the Pra
 Ray, S., & Bandyopadhyay, S. (2003). Late Permian vertebrate community of the Pranhita–Godavari valley, India. *Journal of Asian Earth Sciences*, *21*(6), 643–654. [https://doi.org/10.1016/S1367-9120(02)00050-0](https://doi.org/10.1016/S1367-9120\(02\)00050-0)
 
 Reisz, R. R., Chatterjee, S., & Modesto, S. P. (2024). A new moradisaurine captorhinid reptile (Amniota: Eureptilia) from the upper Permian of India. *PeerJ*, *12*, e18394. [https://doi.org/10.7717/peerj.18394](https://www.google.com/search?q=https://doi.org/10.7717/peerj.18394)
+
 
 
 
