@@ -359,11 +359,11 @@
 > - **Comments**:
 
 **Val Gardena Formation (Arenaria di Val Gardena), Dolomites, Italy**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Late Permian
+> - **Taxa**: Parareptilia: *Pachypes dolomiticus*, *Procolophonichnium tirolensis*. Eureptilia: *Rhynchosauroides pallinii*, *Paradoxichnium problematicum*, cf. *Protochirotherium* isp., cf. *Dromopus* isp., cf. *Merifontichnus* isp. Therapsida: *Dicynodontipus* isp., *Dolomitipes accordii*, *Contiichnus tazelwurmi*, cf. *Capitosauroides* isp. Anamniota: cf. *Batrachichnus* isp. 
+> - **Locality and horizon**: The primary locality is the Bletterbach gorge (Redagno/Radein), with other occurrences in the Venetian Prealps and Carnic Alps. The tracks are found within the Arenaria di Val Gardena Formation, a sequence of alluvial and marginal marine red beds deposited in a semi-arid climate, representing a transition from a distal fluvial system to a coastal sabkha (Massari et al., 1988; Marchetti et al., 2020).
+> - **References**: Ceoloni et al., 1988; Conti et al., 1977; Leonardi et al., 1975; Marchetti et al., 2017; Marchetti et al., 2020; Massari et al., 1988.
+> - **Comments**: 
 
 **Flowerpot Formation, Texas & Oklahoma, United States**
 > - **Age**:
@@ -2194,6 +2194,7 @@ Avanzini, M., Neri, C., Nicosia, U., & Conti, M. A. (2008). A new Early Permian 
 Barth, S., & Mohr, B. A. R. (1994). Palynostratigraphically determined age of the Tregiovo sedimentary complex in relation to radiometric emplacement ages of the Atesina volcanic complex (Permian, Southern Alps, N-Italy). *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen*, 192(2), 273-292.
 
 Marchetti, L., Forte, G., Bernardi, M., Wappler, T., Hartkopf-Fröder, C., Krainer, K., & Kustatscher, E. (2015). Reconstruction of a Late Cisuralian (Early Permian) floodplain lake environment: Palaeontology and sedimentology of the Tregiovo Basin (Trentino-Alto Adige, Northern Italy). *Palaeogeography, Palaeoclimatology, Palaeoecology*, *440*, 510-529. [https://doi.org/10.1016/j.palaeo.2015.08.021](https://doi.org/10.1016/j.palaeo.2015.08.021)
+
 
 
 
