@@ -2212,6 +2212,13 @@ Marchetti, L., Citton, P., Bernardi, M., Buono, G., Carluccio, R., Ciferri, G. D
 
 Massari, F., Conti, M. A., Fontana, D., Helmold, K., Mariotti, N., Neri, C., Nicosia, U., Ori, G. G., Pasini, M., & Pittau, P. (1988). The Val Gardena Sandstone and Bellerophon Formation in the Bletterbach gorge (Alto Adige, Italy): biostratigraphy and sedimentology. *Memorie di Scienze Geologiche*, *40*, 229-273.
 
+Fay, R. O. (1962). Stratigraphy and general geology of Blaine County. In *Geology and mineral resources of Blaine County, Oklahoma*. Oklahoma Geological Survey, Bulletin 89, 12-99.
+
+Lucas, S. G., et al. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. *Bulletin de la Société Géologique de France*, *193*(10), 1-23. [https://doi.org/10.1051/bsgf/2022012](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022012)
+
+Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. *Oklahoma Geological Survey, Circular 70*, 1-90.
+
+Olson, E. C., & Barghusen, H. (1962). Permian vertebrates from Oklahoma and Texas. Part I.—Vertebrates from the Flowerpot Formation, Permian of Oklahoma. *Oklahoma Geological Survey, Circular 59*, 5-48.
 
 
 
