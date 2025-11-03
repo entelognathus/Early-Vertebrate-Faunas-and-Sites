@@ -2220,6 +2220,15 @@ Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Okl
 
 Olson, E. C., & Barghusen, H. (1962). Permian vertebrates from Oklahoma and Texas. Part I.—Vertebrates from the Flowerpot Formation, Permian of Oklahoma. *Oklahoma Geological Survey, Circular 59*, 5-48.
 
+Chorn, J. (1978). Helicoprion (Elasmobranchii, Edestidae) from the Bone Spring Formation (Lower Permian) of West Texas. *University of Kansas Paleontological Contributions*, Paper 89, 1-12.
+
+Clifton, R. L. (1945). Permian Word Formation: Its Faunal and Stratigraphic Correlatives, Texas. *AAPG Bulletin*, *29*(12), 1766-1776.
+
+Cooper, G. A., & Grant, R. E. (1964). New Permian stratigraphic units in Glass Mountains, West Texas. *American Association of Petroleum Geologists Bulletin*, *48*(9), 1581-1588.
+
+Kelly, M. A., & Zangerl, R. (1976). Helicoprion (Edestidae) in the Permian of West Texas. *Journal of Paleontology*, *50*(5), 992-994.
+
+King, R. E. (1931). The Geology of the Glass Mountains, Texas, Part II, Faunal summary and correlation of the Permian formations with description of Brachiopoda. *The University of Texas Bulletin*, 3042, 1-245.
 
 
 
