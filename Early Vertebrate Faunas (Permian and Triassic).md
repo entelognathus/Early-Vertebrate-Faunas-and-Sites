@@ -225,6 +225,13 @@
 > - **References**: Jung & Sues, 2024; Olson, 1954; Beede & Waite, 1918
 > - **Comments**:
 
+**Lower Embar Formation, Big Popo Agie Canyon, Lander, Wyoming, USA**
+> - **Age**: Kungurian
+> - **Taxa**:*Acondylacanthus browni*
+> - **Locality and horizon**: Lower Embar Formation, Big Popo Agie Canyon, Lander, Wyoming, USA
+> - **References**:(Branson, 1916)
+> - **Comments**: The age is not sure.
+
 **San Angelo Formation, north-central Texas, USA**
 > - **Age**: Roadian, Guadalupian, Middle Permian
 > - **Taxa**: Caseidae: Angelosaurus dolani, Caseoides sanangeloensis. Sphenacodontidae: Dimetrodon angelensis
@@ -2204,6 +2211,7 @@ Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints
 Marchetti, L., Citton, P., Bernardi, M., Buono, G., Carluccio, R., Ciferri, G. D., Francischini, H., Forte, G., Girardi, S., Gliozzi, E., Kustatscher, E., Petti, F. M., Romano, M., Santi, G., Schirolli, P., Spalluto, L., & Nicosia, U. (2020). The Lopingian tetrapod ichnoassociation from Italy, a key for the understanding of low-latitude faunas before the end-Permian crisis. *Journal of Mediterranean Earth Sciences*, *12*, 61-81.
 
 Massari, F., Conti, M. A., Fontana, D., Helmold, K., Mariotti, N., Neri, C., Nicosia, U., Ori, G. G., Pasini, M., & Pittau, P. (1988). The Val Gardena Sandstone and Bellerophon Formation in the Bletterbach gorge (Alto Adige, Italy): biostratigraphy and sedimentology. *Memorie di Scienze Geologiche*, *40*, 229-273.
+
 
 
 
