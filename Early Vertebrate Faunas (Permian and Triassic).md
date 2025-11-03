@@ -373,10 +373,10 @@
 > - **Comments**: 
 
 **Flowerpot Formation, Texas & Oklahoma, United States**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Roadian, Guadalupian, Middle Permian
+> - **Taxa**: Actinopterygii: Palaoniscidae? indet. Amphibia: *Cymatorhiza kittsi*. Reptilia: *Kahneria seltina*, *Rothianiscus multidonta*. Synapsida: *Angelosaurus romeri*, *Caseopsis agilis*, *Cotylorhynchus bransoni*, *Steppesaurus gurleyi* 
+> - **Locality and horizon**: he primary vertebrate fauna was recovered from the middle part of the Flowerpot Formation in Kingfisher County, Oklahoma, specifically from site KF-1 (Omega quarry) located at NW¼ NW¼ NW¼ NW¼ sec. 19, T. 17 N., R. 9 W. (Olson & Barghusen, 1962; Olson, 1965). Vertebrate fossils are also known from the Flowerpot Formation in Knox County, Texas (Olson & Barghusen, 1962).
+> - **References**: Fay, 1962; Lucas et al., 2022; Olson, 1965; Olson & Barghusen, 1962
 > - **Comments**:
 
 **Word Formation, Texas, USA**
@@ -2211,6 +2211,7 @@ Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints
 Marchetti, L., Citton, P., Bernardi, M., Buono, G., Carluccio, R., Ciferri, G. D., Francischini, H., Forte, G., Girardi, S., Gliozzi, E., Kustatscher, E., Petti, F. M., Romano, M., Santi, G., Schirolli, P., Spalluto, L., & Nicosia, U. (2020). The Lopingian tetrapod ichnoassociation from Italy, a key for the understanding of low-latitude faunas before the end-Permian crisis. *Journal of Mediterranean Earth Sciences*, *12*, 61-81.
 
 Massari, F., Conti, M. A., Fontana, D., Helmold, K., Mariotti, N., Neri, C., Nicosia, U., Ori, G. G., Pasini, M., & Pittau, P. (1988). The Val Gardena Sandstone and Bellerophon Formation in the Bletterbach gorge (Alto Adige, Italy): biostratigraphy and sedimentology. *Memorie di Scienze Geologiche*, *40*, 229-273.
+
 
 
 
