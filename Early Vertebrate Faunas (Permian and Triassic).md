@@ -375,16 +375,16 @@
 **Flowerpot Formation, Texas & Oklahoma, United States**
 > - **Age**: Roadian, Guadalupian, Middle Permian
 > - **Taxa**: Actinopterygii: Palaoniscidae? indet. Amphibia: *Cymatorhiza kittsi*. Reptilia: *Kahneria seltina*, *Rothianiscus multidonta*. Synapsida: *Angelosaurus romeri*, *Caseopsis agilis*, *Cotylorhynchus bransoni*, *Steppesaurus gurleyi* 
-> - **Locality and horizon**: he primary vertebrate fauna was recovered from the middle part of the Flowerpot Formation in Kingfisher County, Oklahoma, specifically from site KF-1 (Omega quarry) located at NW¼ NW¼ NW¼ NW¼ sec. 19, T. 17 N., R. 9 W. (Olson & Barghusen, 1962; Olson, 1965). Vertebrate fossils are also known from the Flowerpot Formation in Knox County, Texas (Olson & Barghusen, 1962).
+> - **Locality and horizon**: he primary vertebrate fauna was recovered from the middle part of the Flowerpot Formation in Kingfisher County, Oklahoma, specifically from site KF-1 (Omega quarry) (Olson & Barghusen, 1962; Olson, 1965). Vertebrate fossils are also known from the Flowerpot Formation in Knox County, Texas (Olson & Barghusen, 1962).
 > - **References**: Fay, 1962; Lucas et al., 2022; Olson, 1965; Olson & Barghusen, 1962
 > - **Comments**:
 
 **Word Formation, Texas, USA**
-> - **Age**:
+> - **Age**: Roadian-Wordian, Guadalupian, Permian
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Locality and horizon**: The type section is located in the Glass Mountains, Brewster County, Texas, near the old Word Ranch, approximately 17 miles north-northeast of Marathon. The formation conformably overlies the Road Canyon Formation and is overlain by the Capitan Formation (King, 1931; Clifton, 1945).
+> - **References**: King, 1931; Clifton, 1945; Cooper and Grant, 1964; Kelly and Zangerl, 1976; Chorn, 1978
+> - **Comments**: The formation contains a rich marine invertebrate fauna including brachiopods, gastropods, and ammonites (King, 1931). No vertebrate fossils are definitively reported from the Word Formation itself in the available literature. 
 
 **Chickasha Formation, Oklahoma, USA**
 > - **Age**:
@@ -2219,6 +2219,7 @@ Lucas, S. G., et al. (2022). The age of North America's youngest Paleozoic conti
 Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. *Oklahoma Geological Survey, Circular 70*, 1-90.
 
 Olson, E. C., & Barghusen, H. (1962). Permian vertebrates from Oklahoma and Texas. Part I.—Vertebrates from the Flowerpot Formation, Permian of Oklahoma. *Oklahoma Geological Survey, Circular 59*, 5-48.
+
 
 
 
