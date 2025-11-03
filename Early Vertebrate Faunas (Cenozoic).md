@@ -94,6 +94,18 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: Lisbon Formation, Andalusia, Covington County, Alabama, USA
 > - **References**:(Cappetta and Case, 2016)
 > - **Comments**:
+#### Late Lutetian, Oshosun, Nigeria
+> - **Age**: Late Lutetian
+> - **Taxa**: *Carcharias itoriensi*
+> - **Locality and horizon**:
+> - **References**: (White, 1926)
+> - **Comments**: 
+#### Late Lutetian, Ameki, Nigeria
+> - **Age**: Late Lutetian
+> - **Taxa**: **Aprionodon amekiensis*
+> - **Locality and horizon**:
+> - **References**: (White, 1926)
+> - **Comments**: 
 
 ### Bartonian
 > - **Age**:
@@ -176,6 +188,7 @@ Signiffcant
 > - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
 > - **References**: (Yabe, 1949)
 > - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
+
 
 
 
