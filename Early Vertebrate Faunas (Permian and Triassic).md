@@ -394,10 +394,10 @@
 > - **Comments**:
 
 **Madumabisa Mudstone, Zambia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wuchiapingian, Lopingian, Permian
+> - **Taxa**: Temnospondyli: *Rhineceps karibaensis*. Reptiliomorpha (Captorhinidae): *Amenoyengi mpunduensis*. Pareiasauria: *Pareiasuchus nasicornis*. Biarmosuchia: *Isengops luangwensis*, *Mobaceras zambeziense*. Gorgonopsia: *Arctops umulunshi*, *Cyonosaurus*, *Dinogorgon* sp.. Therocephalia: *Theriognathus microps*, *Mupashi migrator*. Cynodontia: *Procynosuchus delaharpeae*. Dicynodontia: *Aulacephalodon kapoliwacela*, *Compsodon helmoedi*, *Cistecephalus*, *Daptocephalus*, *Dicynodon*, *Diictodon feliceps*, *Digalodon cf. D. rubidgei*, *Endothiodon* (, *Kembawacela kitchingi* , *Odontocyclops*, *Oudenodon*, *Pristerodon mackayi* . Actinopterygii; Elasmobranchii.
+> - **Locality and horizon**: Upper Madumabisa Mudstone Formation, Luangwa Basin, northeastern Zambia (Sidor et al., 2021; Peecook et al., 2025; Jenkins et al., 2025). Also reported from the lower portion of the upper Madumabisa Mudstone Formation, Mid-Zambezi Basin, southern Zambia (Steyer & Sidor, 2025).
+> - **References**: Angielczyk et al., 2019; Jenkins et al., 2025; Peecook et al., 2025; Sidor et al., 2021; Steyer & Sidor, 2025
 > - **Comments**:
 
 **Ruhuhu Formation, Tanzania**
@@ -2241,6 +2241,7 @@ Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Okl
 Olson, E. C. (1972). Diplocaulus parvus n. sp. (Amphibia: Nectridea) from the Chickasha Formation (Permian: Guadalupian) of Oklahoma. *Journal of Paleontology*, *46*(5), 656–659.
 
 Reisz, R. R., & Laurin, M. (2004). A reevaluation of the enigmatic Permian synapsid Watongia and of its stratigraphic significance. *Canadian Journal of Earth Sciences*, *41*(4), 377–386. [https://doi.org/10.1139/e04-016](https://www.google.com/search?q=https://doi.org/10.1139/e04-016)
+
 
 
 
