@@ -387,10 +387,10 @@
 > - **Comments**: The formation contains a rich marine invertebrate fauna including brachiopods, gastropods, and ammonites (King, 1931). No vertebrate fossils are definitively reported from the Word Formation itself in the available literature. 
 
 **Chickasha Formation, Oklahoma, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Roadian, Guadalupian, Middle Permian
+> - **Taxa**: Chondrichthyes: *Xenacanthus sp.*. Amphibia: *Nooxobeia gracilis*, *Diplocaulus parvus*. Reptilia: *Rothianiscus robusta*. Synapsida: *Cotylorhynchus bransoni*, *Angelosaurus romeri*, *Varanodon agilis*, *Watongia meieri* 
+> - **Locality and horizon**: Vertebrate-bearing sites occur along the western margin of the Chickasha Tongue, a deltaic facies that interfingers with the Flowerpot, Blaine, and Dog Creek formations of the El Reno Group. Localities are found in a northwest-southeast trend through Blaine, Kingfisher, Canadian, and Grady Counties
+> - **References**: Gould, 1924; Olson, 1965; Olson, 1972; Reisz & Laurin, 2004; Gee et al., 2018; Laurin & Hook, 2022
 > - **Comments**:
 
 **Madumabisa Mudstone, Zambia**
@@ -2229,6 +2229,7 @@ Cooper, G. A., & Grant, R. E. (1964). New Permian stratigraphic units in Glass M
 Kelly, M. A., & Zangerl, R. (1976). Helicoprion (Edestidae) in the Permian of West Texas. *Journal of Paleontology*, *50*(5), 992-994.
 
 King, R. E. (1931). The Geology of the Glass Mountains, Texas, Part II, Faunal summary and correlation of the Permian formations with description of Brachiopoda. *The University of Texas Bulletin*, 3042, 1-245.
+
 
 
 
