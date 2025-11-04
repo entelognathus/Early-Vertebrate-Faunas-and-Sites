@@ -915,6 +915,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 ***Englewood Formation, South Dakota School of Mines V873, USA***: Frasnian
 > - *Cladodus eriensis*, *Cladodus springeri*
 
+***Chemung Group, New York and Pennsylvania, USA***: Frasnian
 
 ***Okse Bay Formation fauna***: Franian?
 > Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
@@ -1055,6 +1056,7 @@ The arthrodires comprise
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
