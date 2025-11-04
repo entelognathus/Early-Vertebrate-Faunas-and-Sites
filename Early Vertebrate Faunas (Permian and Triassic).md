@@ -2230,6 +2230,17 @@ Kelly, M. A., & Zangerl, R. (1976). Helicoprion (Edestidae) in the Permian of We
 
 King, R. E. (1931). The Geology of the Glass Mountains, Texas, Part II, Faunal summary and correlation of the Permian formations with description of Brachiopoda. *The University of Texas Bulletin*, 3042, 1-245.
 
+Gee, B. M., Scott, D., & Reisz, R. R. (2018). Reappraisal of the Permian dissorophid Fayella chickashaensis. *Canadian Journal of Earth Sciences*, *55*(10), 1103–1114. [https://doi.org/10.1139/cjes-2018-0053](https://www.google.com/search?q=https://doi.org/10.1139/cjes-2018-0053)
+
+Gould, C. N. (1924). A new classification of the Permian redbeds of southwestern Oklahoma. *American Association of Petroleum Geologists Bulletin*, *8*(3), 322–341.
+
+Laurin, M., & Hook, R. W. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. *BSGF - Earth Sciences Bulletin*, *193*, 10. [https://doi.org/10.1051/bsgf/2022007](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022007)
+
+Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. *Oklahoma Geological Survey Circular*, *70*, 1–70.
+
+Olson, E. C. (1972). Diplocaulus parvus n. sp. (Amphibia: Nectridea) from the Chickasha Formation (Permian: Guadalupian) of Oklahoma. *Journal of Paleontology*, *46*(5), 656–659.
+
+Reisz, R. R., & Laurin, M. (2004). A reevaluation of the enigmatic Permian synapsid Watongia and of its stratigraphic significance. *Canadian Journal of Earth Sciences*, *41*(4), 377–386. [https://doi.org/10.1139/e04-016](https://www.google.com/search?q=https://doi.org/10.1139/e04-016)
 
 
 
