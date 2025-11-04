@@ -2242,6 +2242,17 @@ Olson, E. C. (1972). Diplocaulus parvus n. sp. (Amphibia: Nectridea) from the Ch
 
 Reisz, R. R., & Laurin, M. (2004). A reevaluation of the enigmatic Permian synapsid Watongia and of its stratigraphic significance. *Canadian Journal of Earth Sciences*, *41*(4), 377–386. [https://doi.org/10.1139/e04-016](https://www.google.com/search?q=https://doi.org/10.1139/e04-016)
 
+Angielczyk, K. D., Benoit, J., & Rubidge, B. S. (2019). A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper Permian upper Madumabisa Mudstone Formation, Luangwa Basin, Zambia. *Papers in Palaeontology*, *7*(1), 405–446. [https://doi.org/10.1002/spp2.1285](https://doi.org/10.1002/spp2.1285)
+
+Jenkins, X. A., Browning, C., Choiniere, J., & Peecook, B. R. (2025). A new moradisaurine captorhinid from the Upper Permian (Lopingian) upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. *Journal of Vertebrate Paleontology*. [https://doi.org/10.1080/02724634.2024.2427529](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2427529)
+
+Olroyd, S. L., Sidor, C. A., & Angielczyk, K. D. (2018). New materials of the enigmatic dicynodont *Abajudon kaayai* (Therapsida, Anomodontia) from the lower Madumabisa Mudstone Formation, middle Permian of Zambia. *Journal of Vertebrate Paleontology*, *37*(6), e1403442. [https://doi.org/10.1080/02724634.2017.1403442](https://doi.org/10.1080/02724634.2017.1403442)
+
+Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). Successive assemblages of upper Permian vertebrates in the upper Madumabisa Mudstone Formation of the Luangwa Basin, Zambia. *Journal of Vertebrate Paleontology*, *45*(1, supplement), 234–257. [https://doi.org/10.1080/02724634.2025.2486065](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2025.2486065)
+
+Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burnetiamorph From Zambia Confirms Exceptional Levels of Endemism in Burnetiamorpha (Therapsida: Biarmosuchia) and an Updated Paleoenvironmental Interpretation of the Upper Madumabisa Mudstone Formation. *Frontiers in Ecology and Evolution*, *9*, 685244. [https://doi.org/10.3389/fevo.2021.685244](https://doi.org/10.3389/fevo.2021.685244)
+
+Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of *Rhineceps* from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. *Journal of Vertebrate Paleontology*. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
 
 
 
