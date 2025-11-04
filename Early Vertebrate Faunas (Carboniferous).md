@@ -30,7 +30,14 @@
 > - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
 
-**USA: Salem Limestone; Burlington limestone**
+**Salem Limestone, Lanesville, Indiana, USA**
+> - **Age**: Visean
+> - **Taxa**:*Chomatodus lanesvillensis*,*Ctenacanthus bellus*, *Cladodus indianensis* (**many need andded**)
+> - **Locality and horizon**:Salem Limestone, Lanesville, Indiana, USA
+> - **References**:(Branson, 1906)
+> - **Comments**:
+> - 
+**Burlington limestone**
 
 **Horton Bluff and Albert Formations, Bay of Fundy, Canada**
 > - **Age**: Early to middle Tournaisian.
@@ -1122,6 +1129,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
