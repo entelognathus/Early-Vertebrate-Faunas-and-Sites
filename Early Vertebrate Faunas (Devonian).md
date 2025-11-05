@@ -107,7 +107,6 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - **References**:
 > - **Comments**:
 
-
 **Nahkaoling Formation**: Pragian
 > - Galeaspida: [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975; [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973; [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986 (bottom of Yukiang Formation);
 > - Placodermi: [*Yujiangolepis liujingensis*](https://deepbone.cn/public/#/explor?s_id=2722&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
@@ -733,6 +732,13 @@ Gauja stage (late Givetian)
 > - Corresponding to the *Bothriolepis trautscholdti* placoderm Zone.
 > - **Pleurosteus trautscholdti*, *Holonema radiatum*, *Gyroplacosteus panderi*, *Eastmanosteus egloni*.
 
+**Quray limestone, Needle Mountain, Colorado, USA**
+> - **Age**:Frasnian
+> - **Taxa**:*Cladodus formosus*
+> - **Locality and horizon**: Quray limestone, Needle Mountain, Colorado, USA
+> - **References**:(Hay, 1902)
+> - **Comments**:
+
 ***Snezha and Prilovat fauna***, upper Frasnian
 > Snezha and Prilovat Regional Stages, Main Devonian Field, East European Platform.
 > - *Bothriolepis evaldi*.
@@ -1056,6 +1062,7 @@ The arthrodires comprise
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
