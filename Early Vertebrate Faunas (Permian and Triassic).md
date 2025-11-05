@@ -436,10 +436,10 @@
 > - **Comments**: 
 
 **Abrahamskraal Formation, Karoo Basin, South Africa**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
+> - **Age**: upper Wordian to upper Capitanian, upper Wordian to upper Capitanian, Permian
+> - **Taxa**: Therapsida: Dinocephalia, Dicynodontia, Therocephalia, Gorgonopsia, Biarmosuchia, basal Anomodontia. Reptilia: Pareiasauria, *Eunotosaurus*. Amphibia: Rhinesuchidae
+> - **Locality and horizon**: Lowermost formation of the lower Beaufort Group (Adelaide Subgroup, Karoo Supergroup) (Cole et al., 2016). Correlates with the *Tapinocephalus* Assemblage Zone (AZ) (Ronchi et al., 2023). The *Tapinocephalus* AZ within this formation is subdivided into the lower *Eosimops – Glanosuchus* Subzone (corresponding to the Leeuvlei, Koornplaats, and Swaerskraal members) and the upper *Diictodon – Styracocephalus* Subzone (corresponding to the Moordenaars and Karelskraal members) (Day & Rubidge, 2020). A key locality is the Gansfontein palaeosurface on Gansfontein farm, near Fraserburg (Bordy et al., 2023).
+> - **References**: Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
 > - **Comments**: 
 
 **Rio do Rasto Formation, Paraná Basin, Brazil**
@@ -2323,6 +2323,7 @@ Wardlaw, B. R. (1977). *Biostratigraphy and paleoecology of the Gerster Limeston
 Wardlaw, B. R., & Collinson, J. W. (1977). *Biostratigraphic zonation of the Park City Group*. U.S. Geological Survey Open-File Report 77-853, 15 p. 
 
 Yochelson, E. L., & Fraser, G. D. (1973). Interpretation of depositional environment in the Plympton Formation (Permian), southern Pequop Mountains, Nevada, from physical stratigraphy and a faunule. *U.S. Geological Survey Journal of Research*, *1*(1), 19–32.
+
 
 
 
