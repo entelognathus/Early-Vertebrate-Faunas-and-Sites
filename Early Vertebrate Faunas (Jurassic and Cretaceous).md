@@ -27,6 +27,12 @@
 ## Late Jurassic
 ### Oxfordian
 ### Kimmeridgian
+#### Nakanosawa Formation, Tomizawa, Soma City, Honshu, Japan**
+> - **Age**: Kimmeridgian
+> - **Taxa**:*Asteracanthus somaensis*
+> - **Locality and horizon**:Black compact limestone, Nakanosawa Formation, Tomizawa, Soma City, Honshu, Japan
+> - **References**:(Goto, 1994; Yabe, 1902)
+> - **Comments**: 
 ### Tithonian
 
 
@@ -107,6 +113,7 @@
 > - **Locality and horizon**: Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA
 > - **References**: (Brown, 1946)
 > - **Comments**: 
+
 
 
 
