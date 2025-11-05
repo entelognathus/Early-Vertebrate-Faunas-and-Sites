@@ -456,6 +456,12 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >
 > Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
 
+**Mazon Creek, Morris, Grundy County, Illinois, USA**
+> - **Age**: Moscovian
+> - **Taxa**: *Acanthodes beecheri*, **, **
+> - **Locality and horizon**: Mazon Creek, Morris, Grundy County, Illinois, USA**
+> - **References**:
+> - **Comments**: 
 
 ### Moscovian, Middle Pennsylvanian, Carboniferous
 > Westphalian in NW Europe
@@ -1136,6 +1142,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
