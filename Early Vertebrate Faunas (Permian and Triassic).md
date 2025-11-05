@@ -408,10 +408,10 @@
 > - **Comments**:
 
 **Khuff Formation, Oman**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wordian, Guadalupian, Permian
+> - **Taxa**: Chondrichthyes: *Glikmanius cf. myachkovensis*, *Glikmanius culmenis*, *Omanoselache hendersoni*, *Omanoselache angiolinii*, *cf. Omanoselache sp.*, *Reesodus underwoodi*, *Teresodus amplexus*, *Gunnellodus bellistriatus*, *Khuffia lenis*, *Khuffia prolixa*, *Euselachii sp. indet.*, *cf. 'Palaeozoic Genus 1' sp.* (Lonchidiidae), *Cooleyella cf. fordi*, *Nemacanthus sp.*, *Amelacanthus cf. sulcatus*. Holocephali: *Deltodus aff. mercurei*, *Solenodus cf. crenulatus* 
+> - **Locality and horizon**: Autochthonous Wordian Khuff Formation; well-exposed, low-palaeolatitude sections in the interior Haushi-Huqf area, Sultanate of Oman (Koot et al., 2013). The fauna was recovered from limestone units (Angiolini et al., 2003; Koot et al., 2013) corresponding to the three members of the Khuff Formation in the Haushi outcrop (Angiolini et al., 2003).
+> - **References**: Angiolini & Bucher, 1999; Angiolini et al., 2003; Koot et al., 2013
 > - **Comments**:
 
 **Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí), Brazil**
@@ -2265,6 +2265,7 @@ Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H.
 Shipps, B. K., Sidor, C. A., & Angielczyk, K. D. (2025). *$Dicynodontoides$ $kubwa$*, sp. nov. (Synapsida: Anomodontia), a new large emydopoid from the base of the Usili Formation (Ruhuhu Basin, Tanzania). *Journal of Vertebrate Paleontology*, *45*(sup1), 2440112. [https://doi.org/10.1080/02724634.2024.2440112](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2440112)
 
 Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2010). Tetrapod fauna of the lowermost Usili Formation (Songea Group, Ruhuhu Basin) of southern Tanzania, with a new burnetiid record. *Journal of Vertebrate Paleontology*, *30*(3), 696–703. [https://doi.org/10.1080/02724631003758086](https://doi.org/10.1080/02724631003758086)
+
 
 
 
