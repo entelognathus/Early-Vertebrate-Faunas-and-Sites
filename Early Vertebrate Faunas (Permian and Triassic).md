@@ -415,10 +415,10 @@
 > - **Comments**:
 
 **Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí), Brazil**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Kungurian, Cisuralian, Permian
+> - **Taxa**: Chondrichthyes: *Rubencanthus diplotuberculatus*, *Sphenacanthus ignis*, *Bythiacanthus lopesi*, *cf. Ctenacanthus sp.*, *cf. Cladodus sp.*. Actinopterygii: *Brazilichthys macrognathus*, Palaeonisciformes. Sarcopterygii: Coelacanthiformes, Dipnoiformes. Amphibia (Temnospondyli): *Prionosuchus plummeri*, *Timonya anneae*, *Procuhy nazariensis*. Reptilia (Captorhinidae): *Captorhinikos* sp., Moradisaurinae (new taxon), Captorhinidae indet.
+> - **Locality and horizon**: Outcrops in the states of Maranhão, Piauí, and Tocantins. Specific localities include the municipalities of Pastos Bons and Nova Iorque (Maranhão) (Cox & Hutchinson, 1991; Figueroa & Gallo, 2017); the municipalities of Nazária and Palmeirais, at quarries along the PI-130 highway (Piauí) (Cisneros et al., 2020); and the municipalities of Filadélfia, Barra do Ouro, and Guaraí (Tocantins), often from the Trisidela Member (Alves, 2010).
+> - **References**: Alves, 2010; Alves et al., 2021; Cisneros et al., 2020; Cox & Hutchinson, 1991; Figueroa & Gallo, 2017; Figueroa et al., 2019; Iannuzzi et al., 2018; Marsicano et al., 2021; Price, 1948
 > - **Comments**:
 
 **Collio Formation, Lombardy (Brescian Alps), Italy**
@@ -2271,6 +2271,7 @@ Angiolini, L., & Bucher, H. (1999). Taxonomy and quantitative biochronology of G
 Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *191*(3–4), 269–300. [https://doi.org/10.1016/s0031-0182(02)00668-5](https://doi.org/10.1016/s0031-0182(02)00668-5)
 
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
+
 
 
 
