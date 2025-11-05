@@ -226,6 +226,12 @@
 > - **Locality and horizon**: Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australia.
 > - **References**: 260, 261, 262, 263, 264, 265, 266.
 > - **Comments**: Non-marine, estuarine.
+**St. Louis Formation, Indiana, USA**
+> - **Age**: Visean
+> - **Taxa**: *Chomatodus newberryi*
+> - **Locality and horizon**: St. Louis Formation, Indiana, USA
+> - **References**:(Hay, 1902)
+> - **Comments**: 
 
 **Wardie Shales, Lower Lothian Group, Lothian, Scotland**
 > - **Age**: Late Visean, Middle Mississipian, Carboniferous.
@@ -1142,6 +1148,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
