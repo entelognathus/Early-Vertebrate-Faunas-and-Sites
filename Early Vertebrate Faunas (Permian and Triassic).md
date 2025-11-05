@@ -2324,6 +2324,13 @@ Wardlaw, B. R., & Collinson, J. W. (1977). *Biostratigraphic zonation of the Par
 
 Yochelson, E. L., & Fraser, G. D. (1973). Interpretation of depositional environment in the Plympton Formation (Permian), southern Pequop Mountains, Nevada, from physical stratigraphy and a faunule. *U.S. Geological Survey Journal of Research*, *1*(1), 19–32.
 
+Bordy, E. M., Smith, R. M. H., Choiniere, J. N., & Rubidge, B. S. (2023). Selected Karoo geoheritage sites of palaeontological significance in South Africa and Lesotho. *Geological Society, London, Special Publications*, *543*, 431–446. [https://doi.org/10.1144/SP543-2022-202](https://www.google.com/search?q=https://doi.org/10.1144/SP543-2022-202) 
+
+Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. *South African Journal of Geology*, *119*(2), 415-424. [https://doi.org/10.2113/gssajg.119.2.415](https://doi.org/10.2113/gssajg.119.2.415) 
+
+Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 149–164. [https://doi.org/10.25131/sajg.123.0012](https://doi.org/10.25131/sajg.123.0012) 
+
+Ronchi, A., Marchetti, L., Klein, H., & Groenewald, G. H. (2023). A Middle Permian Oasis for Vertebrate and Invertebrate Life in a High-Energy Fluvial Palaeoecosystem of Southern Gondwana (Karoo, Republic of South Africa). *Geosciences*, *13*(11), 325. [https://doi.org/10.3390/geosciences13110325](https://doi.org/10.3390/geosciences13110325) 
 
 
 
