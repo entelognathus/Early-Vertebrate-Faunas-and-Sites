@@ -17,7 +17,7 @@
 > - **Comments**: 
 **Kinderhook Limestone, Iowa, USA**
 > - **Age**: Tournaisian
-> - **Taxa**: *Bythiacanthus lucasi*
+> - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, **, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Kinderhook Limestone, Iowa, USA
 > - **References**:(Eastman, 1902)
 > - **Comments**: 
@@ -1142,6 +1142,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
