@@ -2266,6 +2266,11 @@ Shipps, B. K., Sidor, C. A., & Angielczyk, K. D. (2025). *$Dicynodontoides$ $kub
 
 Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2010). Tetrapod fauna of the lowermost Usili Formation (Songea Group, Ruhuhu Basin) of southern Tanzania, with a new burnetiid record. *Journal of Vertebrate Paleontology*, *30*(3), 696–703. [https://doi.org/10.1080/02724631003758086](https://doi.org/10.1080/02724631003758086)
 
+Angiolini, L., & Bucher, H. (1999). Taxonomy and quantitative biochronology of Guadalupian brachiopods from the Khuff Formation, Southeastern Oman. *Geobios*, *32*(5), 665–699. [https://doi.org/10.1016/S0016-6995(99)80057-6](https://doi.org/10.1016/S0016-6995(99)80057-6)
+
+Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *191*(3–4), 269–300. [https://doi.org/10.1016/s0031-0182(02)00668-5](https://doi.org/10.1016/s0031-0182(02)00668-5)
+
+Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
 
 
 
