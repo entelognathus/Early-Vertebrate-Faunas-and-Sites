@@ -107,7 +107,8 @@
 >> - Acanthodida: *Acanthodes australis*, *Eupleurogmus cresswelli*.
 > - **Locality and horizon**: Broken River fish fauna, Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia.
 > - **References**: Long, 1988; Woodward, 1906; Warren, 2000; Holland, 2006; Garvey, 2006; Garvey, 2008.
-> - **Comments**: Non-marine, fluvial, floodplain. 
+> - **Comments**: Non-marine, fluvial, floodplain.  *Eupleurogmus creswelli* (McCoy, 1890) can no longer be substantiated due to inadequate material (Long, 1986a),
+ *Acanthodes australis* (Woodward, 1906) is regarded as specifically indeterminate (Long, 1986a).
 
 **Foulden fish beds, Cementstone Group, Berwickshire, Scotland**
 > - **Age**: Middle to late Tournaisian.
@@ -1129,6 +1130,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
