@@ -422,10 +422,10 @@
 > - **Comments**:
 
 **Collio Formation, Lombardy (Brescian Alps), Italy**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian to early Kungurian, Cisuralian, Early Permian
+> - **Taxa**: Amphibia (Ichnotaxa): *Amphisauropus latus*, *"Batrachichnus" salamandroides*, *?Ichniotherium* sp., *Limnopus heterodactylus*. Reptilia (Ichnotaxa): *Camunipes cassinisi*, *Varanopus curvidactylus*, *Dromopus lacertoides*, *Erpetopus cassinisi*.
+> - **Locality and horizon**: Found in the Collio Basin (Val Trompia) and the Orobic Basin. Classic fossil localities in the Brescian Alps (Val Trompia) include Mount Dasdana, Rifugio Bonardi, Lago Dasdana, and Malga Dasdana. Fossils occur within the lower **Pian delle Baste member** (Member C of Cassinis, 1966) and the upper **Val Dorizzo member** (Member F of Cassinis, 1966), which are separated by the Dasdana I volcaniclastic bed.
+> - **References**: Berruti, 1970; Cadel, 1986; Cassinis, 1966; Cassinis & Doubinger, 1992; Ceoloni et al., 1987; Ronchi and Santi, 2003; Santi, 2005; Santi and Krieger, 2001; Schaltegger and Brack, 2007; Silantiev et al., 2022
 > - **Comments**:
 
 **Gerster Formation, Nevada, USA**
@@ -2289,6 +2289,7 @@ Iannuzzi, R., Neregato, R., Cisneros, J. C., Angielczyk, K. D., Rößler, R., Ro
 Marsicano, C., Angielczyk, K. D., Cisneros, J. C., Richter, M., Adeo, S., Abdala, F., & Smith, R. (2021). Brazilian Permian Dvinosaurs (Amphibia, Temnospondyli): Revised Description and Phylogeny. *Journal of Vertebrate Paleontology*, *41*(1), e1893181. [https://doi.org/10.1080/02724634.2021.1893181](https://doi.org/10.1080/02724634.2021.1893181)
 
 Price, L. I. (1948). *Um anfíbio labirintodonte da Formação Pedra de Fogo, Estado do Maranhão*. (Boletim No. 124). Ministério da Agricultura, Departamento Nacional da Produção Mineral, Divisão de Geologia e Mineralogia.
+
 
 
 
