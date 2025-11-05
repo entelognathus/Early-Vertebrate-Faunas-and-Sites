@@ -480,6 +480,13 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 **Shangshuanghe Formation, Qujing, Yunnan**
 > Eifelian, Middle Devonian.
 
+**Hamilton Formation/limestone, Hamilton, Milwaukee, Wisconsin, USA 
+> - **Age**: Eifelian, Middle Devonian
+> - **Taxa**:*Cladodus monroei*
+> - **Locality and horizon**: Hamilton Formation/limestone, Hamilton, Milwaukee, Wisconsin, USA
+> - **References**:(Eastman, 1900)
+> - **Comments**: 
+
 **Tanglishu Formation, Wuding and Luquan, Yunnan**
 > Eifelian, Middle Devonian.
 
@@ -1062,6 +1069,7 @@ The arthrodires comprise
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
