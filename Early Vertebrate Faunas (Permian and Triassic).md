@@ -2310,6 +2310,19 @@ Schaltegger, U., & Brack, P. (1999). Radiometric age constraints on the formatio
 
 Silantiev, V., Marchetti, L., Ronchi, A., Schirolli, P., Scholze, F. & Urazaeva, M. (2022). Permian non-marine bivalves from the Collio and Guncina formations (Southern Alps, Italy): revised biostratigraphy and palaeobiogeography. *Rivista Italiana di Paleontologia e Stratigrafia*, *128*(1), 43-67. [https://doi.org/10.54103/2039-4942/17050]
 
+Bissell, H. J. (1964). Patterns of sedimentation in Pennsylvanian and Permian strata of part of the eastern Great Basin. *In* D. F. Merriam (Ed.), *Symposium on cyclic sedimentation*. Kansas Geological Survey Bulletin 169, 43–56. 
+
+Larson, E. R., & Scott, J. B. (1955). Helicoprion from Elko County, Nevada. *Journal of Paleontology*, *29*(5), 918–919. 
+
+Lucas, S. G., & Orchard, M. J. (2007). Triassic lithostratigraphy and biostratigraphy north of Currie, Elko County, Nevada. *In* S. G. Lucas & J. A. Spielmann (Eds.), *Triassic of the American West*. New Mexico Museum of Natural History and Science Bulletin 40, 119–126. 
+
+Romano, C., Jenks, J. F., Jattiot, R., Scheyer, T. M., Bylund, K. G., & Bucher, H. (2017). Marine Early Triassic Actinopterygii from Elko County (Nevada, USA): implications for the Smithian equatorial vertebrate eclipse. *Journal of Paleontology*, *91*(5), 1025–1046. [https://doi.org/10.1017/jpa.2017.36](https://doi.org/10.1017/jpa.2017.36) 
+
+Wardlaw, B. R. (1977). *Biostratigraphy and paleoecology of the Gerster Limestone (Permian) in Nevada and Utah*. U.S. Geological Survey Open-File Report 77-470, 125 p. 
+
+Wardlaw, B. R., & Collinson, J. W. (1977). *Biostratigraphic zonation of the Park City Group*. U.S. Geological Survey Open-File Report 77-853, 15 p. 
+
+Yochelson, E. L., & Fraser, G. D. (1973). Interpretation of depositional environment in the Plympton Formation (Permian), southern Pequop Mountains, Nevada, from physical stratigraphy and a faunule. *U.S. Geological Survey Journal of Research*, *1*(1), 19–32.
 
 
 
