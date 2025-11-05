@@ -2290,6 +2290,25 @@ Marsicano, C., Angielczyk, K. D., Cisneros, J. C., Richter, M., Adeo, S., Abdala
 
 Price, L. I. (1948). *Um anfíbio labirintodonte da Formação Pedra de Fogo, Estado do Maranhão*. (Boletim No. 124). Ministério da Agricultura, Departamento Nacional da Produção Mineral, Divisão de Geologia e Mineralogia.
 
+Berruti, G. (1970). Osservazioni biostratigrafiche sulle formazioni continentali pre-quaternarie delle Valli Trompia e Sabbia. II. Sulla fauna fossile della Formazione di Collio (Alta Val Trompia). *«Natura Bresciana» Annali del Museo Civico di Storia Naturale di Brescia*. 
+
+Cadel, G. (1986). Geology and uranium mineralization of the Collio basin (central Southern Alps, Italy). *Uranium*, *2*, 215–240. 
+
+Cassinis, G. (1966). La Formazione di Collio nell'area-tipo dell'alta Val Trompia (Permiano inferiore bresciano). *Rivista Italiana di Paleontologia e Stratigrafia*. 
+
+Cassinis, G., & Doubinger, J. (1992). Artinskian to Ufimian palynomorph assemblages from the Central Southern Alps, Italy and their regional stratigraphic implications. In: *Contribution to Eurasian Geology. International* (pp. 9–18). 
+
+Ceoloni, P., Conti, M. A., Mariotti, N., Mietto, P., & Nicosia, U. (1987). Tetrapod footprints from Collio Formation (Lombardy, Northern Italy). *Memorie di Scienze Geologiche Padova*, *39*, 213–233. 
+
+Ronchi, A., & Santi, G. (2003). Non-marine biota from the Lower Permian of the central Southern Alps (Orobic and Collio basins, N Italy): a key to the paleoenvironment. *Geobios*, *36*(6), 749–760. 
+
+Santi, G. (2005). Lower Permian environmental changes proved by ichnofaunal evidence in the Collio Formation transition of the South Alpine region (North Italy). *Memoir of the Fukui Prefectural Dinosaur Museum*. 
+
+Santi, G., & Krieger, C. (2001). Lower Permian tetrapod footprints from Brembana Valley – Orobic Basin- (Lombardy, Northern Italy). *Revue de Paléobiologie*, *20*(1), 45-68. 
+
+Schaltegger, U., & Brack, P. (1999). Radiometric age constraints on the formation of the Collio Basin (Brescian Prealps). In: Cassinis G., et al. (coords), *Stratigraphy and facies of the Permian deposits between eastern Lombardy and the western Dolomites. Field trip guide-book Inter. Congr. on: “The continental Permian of the Southern Alps and Sardinia (Italy)”*. (p. 71). 
+
+Silantiev, V., Marchetti, L., Ronchi, A., Schirolli, P., Scholze, F. & Urazaeva, M. (2022). Permian non-marine bivalves from the Collio and Guncina formations (Southern Alps, Italy): revised biostratigraphy and palaeobiogeography. *Rivista Italiana di Paleontologia e Stratigrafia*, *128*(1), 43-67. [https://doi.org/10.54103/2039-4942/17050]
 
 
 
