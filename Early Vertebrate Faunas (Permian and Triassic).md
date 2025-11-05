@@ -2254,6 +2254,17 @@ Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burneti
 
 Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of *Rhineceps* from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. *Journal of Vertebrate Paleontology*. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
 
+Angielczyk, K. D., & Otoo, B. K. A. (2025). A new cryptodont dicynodont (Therapsida, Anomodontia) from the Lopingian Usili Formation, Ruhuhu Basin, Tanzania. *Journal of Vertebrate Paleontology*, *45*(sup1), 2441898. [https://doi.org/10.1080/02724634.2024.2441898](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2441898)
+
+Angielczyk, K. D., Steyer, J-S., Sidor, C. A., Smith, R. M. H., Whatley, R. L., & Tolan, S. (2014). Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fröbisch (Eds.), *Early Evolutionary History of the Synapsida* (pp. 93–138). Springer.
+
+Kammerer, C. F. (2019). Revision of the Tanzanian dicynodont *Dicynodon huenei* (Therapsida: Anomodontia) from the Permian Usili Formation. *PeerJ*, *7*, e7420. [https://doi.org/10.7717/peerj.7420](https://doi.org/10.7717/peerj.7420)
+
+Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). A diverse conglomerate-hosted fossil tetrapod assemblage occurs in a $\sim 4$ m-thick interval at the base of the upper Permian Usili Formation in the Ruhuhu Basin, Tanzania. *Journal of Vertebrate Paleontology*, *45*(sp1), 234–257. [https://doi.org/10.1080/02724634.2025.2466442](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2025.2466442)
+
+Shipps, B. K., Sidor, C. A., & Angielczyk, K. D. (2025). *$Dicynodontoides$ $kubwa$*, sp. nov. (Synapsida: Anomodontia), a new large emydopoid from the base of the Usili Formation (Ruhuhu Basin, Tanzania). *Journal of Vertebrate Paleontology*, *45*(sup1), 2440112. [https://doi.org/10.1080/02724634.2024.2440112](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2440112)
+
+Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2010). Tetrapod fauna of the lowermost Usili Formation (Songea Group, Ruhuhu Basin) of southern Tanzania, with a new burnetiid record. *Journal of Vertebrate Paleontology*, *30*(3), 696–703. [https://doi.org/10.1080/02724631003758086](https://doi.org/10.1080/02724631003758086)
 
 
 
