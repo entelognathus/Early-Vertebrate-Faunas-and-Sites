@@ -2272,6 +2272,23 @@ Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., 
 
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
 
+Alves, Y. M. (2010). Report on the Upper Permian and Lower Cretaceous fossiliferous localities vertebrates-bearing in the central- north of Tocantins State, Brazil. *Brazilian Geographical Journal: Geosciences and Humanities research medium*, *1*(2), 372-386.
+
+Alves, Y. M., Gama Junior, J. M., & Cupello, C. (2021). Palaeoniscoid remains from the Lower Permian Pedra de Fogo Formation (Parnaíba Basin): insights from general morphology and histology. *Historical Biology*, *33*(9), 1933–1943. [https://doi.org/10.1080/08912963.2020.1754815](https://doi.org/10.1080/08912963.2020.1754815)
+
+Cisneros, J. C., Angielczyk, K., Kammerer, C. F., Smith, R. M. H., Fröbisch, J., Marsicano, C. A., & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. *PeerJ*, *8*, e8719. [https://doi.org/10.7717/peerj.8719](https://doi.org/10.7717/peerj.8719)
+
+Cox, C. B., & Hutchinson, P. (1991). Fishes and amphibians from the Pedra de Fogo Formation of Northern Brazil. *Palaeontology*, *34*(3), 561-573.
+
+Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. *Journal of South American Earth Sciences*, *76*, 389–396. [https://doi.org/10.1016/j.jsames.2017.03.015](https://www.google.com/search?q=https://doi.org/10.1016/j.jsames.2017.03.015)
+
+Figueroa, R. T., Friedman, M., & Gallo, V. (2019). Cranial anatomy of the predatory actinopterygian *Brazilichthys macrognathus* from the Permian (Cisuralian) Pedra de Fogo Formation, Parnaíba Basin, Brazil. *Journal of Vertebrate Paleontology*, *39*(3), e1639722. [https://doi.org/10.1080/02724634.2019.1639722](https://doi.org/10.1080/02724634.2019.1639722)
+
+Iannuzzi, R., Neregato, R., Cisneros, J. C., Angielczyk, K. D., Rößler, R., Rohn, R., Marsicano, C., Fröbisch, J., Fairchild, T., Smith, R. M. H., Kurzawe, F., Richter, M., Langer, M. C., Tavares, T. M. V., Kammerer, C. F., Conceição, D. M., Pardo, J. D., & Roesler, G. (2018). Re-evaluation of the Permian macrofossils from the Parnaíba Basin: Biostratigraphic, palaeoenvironmental and palaeogeographical implications. *Geological Society, London, Special Publications*, *472*(1), 313-354. [https://doi.org/10.1144/sp472.14](https://www.google.com/search?q=https://doi.org/10.1144/sp472.14)
+
+Marsicano, C., Angielczyk, K. D., Cisneros, J. C., Richter, M., Adeo, S., Abdala, F., & Smith, R. (2021). Brazilian Permian Dvinosaurs (Amphibia, Temnospondyli): Revised Description and Phylogeny. *Journal of Vertebrate Paleontology*, *41*(1), e1893181. [https://doi.org/10.1080/02724634.2021.1893181](https://doi.org/10.1080/02724634.2021.1893181)
+
+Price, L. I. (1948). *Um anfíbio labirintodonte da Formação Pedra de Fogo, Estado do Maranhão*. (Boletim No. 124). Ministério da Agricultura, Departamento Nacional da Produção Mineral, Divisão de Geologia e Mineralogia.
 
 
 
