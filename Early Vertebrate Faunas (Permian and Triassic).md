@@ -429,10 +429,10 @@
 > - **Comments**:
 
 **Gerster Formation, Nevada, USA**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
+> - **Age**: Wordian, Guadalupian, Permian
+> - **Taxa**: Chondrichthyes: *Helicoprion* sp. 
+> - **Locality and horizon**: Elko County, Nevada, with significant exposures in the Medicine Range (Bissell, 1964), Pequop Mountains (Yochelson & Fraser, 1973), Palomino Ridge (Romano et al., 2017), and north of Currie (Lucas & Orchard, 2007). The formation consists of cherty, bioclastic limestone.
+> - **References**: Bissell, 1964; Larson & Scott, 1955; Lucas & Orchard, 2007; Romano et al., 2017; Wardlaw, 1977; Wardlaw & Collinson, 1977; Yochelson & Fraser, 1973
 > - **Comments**: 
 
 **Abrahamskraal Formation, Karoo Basin, South Africa**
@@ -2309,6 +2309,7 @@ Santi, G., & Krieger, C. (2001). Lower Permian tetrapod footprints from Brembana
 Schaltegger, U., & Brack, P. (1999). Radiometric age constraints on the formation of the Collio Basin (Brescian Prealps). In: Cassinis G., et al. (coords), *Stratigraphy and facies of the Permian deposits between eastern Lombardy and the western Dolomites. Field trip guide-book Inter. Congr. on: “The continental Permian of the Southern Alps and Sardinia (Italy)”*. (p. 71). 
 
 Silantiev, V., Marchetti, L., Ronchi, A., Schirolli, P., Scholze, F. & Urazaeva, M. (2022). Permian non-marine bivalves from the Collio and Guncina formations (Southern Alps, Italy): revised biostratigraphy and palaeobiogeography. *Rivista Italiana di Paleontologia e Stratigrafia*, *128*(1), 43-67. [https://doi.org/10.54103/2039-4942/17050]
+
 
 
 
