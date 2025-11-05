@@ -400,11 +400,11 @@
 > - **References**: Angielczyk et al., 2019; Jenkins et al., 2025; Peecook et al., 2025; Sidor et al., 2021; Steyer & Sidor, 2025
 > - **Comments**:
 
-**Ruhuhu Formation, Tanzania**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+**Usili Formation, Ruhuhu Basin, Tanzania**
+> - **Age**: Lopingian, Permian
+> - **Taxa**: Temnospondyli: *Peltobatrachus pustulatus*. Reptilia: *Anthodon serrarius*, *Pareiasaurus serridens*. Therapsida: *Daptocephalus huenei*, *Dicynodon angielczyki*, *Mdomowabata trilobops*, *Dicynodontoides kubwa*, *Katumbia parringtoni*, *Kawingasaurus fossilis*, *Ruhuhucerberus terror*, *Titanogorgon* sp., *Procynosuchus delaharpeae*
+> - **Locality and horizon**: Tetrapods occur at multiple stratigraphic horizons (Angielczyk et al., 2014a). A significant assemblage is concentrated in a conglomeratic unit at the base of the formation, interpreted as mass flow deposits on an alluvial fan (Sidor et al., 2010; Peecook et al., 2025).Specific localities include Z10, approx. 4 km west of Litumba Ndyosi (Songea District, Ruvuma Province) (Sidor et al., 2010)
+> - **References**: Angielczyk & Otoo, 2025; Angielczyk et al., 2014a; Kammerer, 2019; Peecook et al., 2025; Shipps et al., 2025; Sidor et al., 2010
 > - **Comments**:
 
 **Khuff Formation, Oman**
@@ -2253,6 +2253,7 @@ Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H.
 Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burnetiamorph From Zambia Confirms Exceptional Levels of Endemism in Burnetiamorpha (Therapsida: Biarmosuchia) and an Updated Paleoenvironmental Interpretation of the Upper Madumabisa Mudstone Formation. *Frontiers in Ecology and Evolution*, *9*, 685244. [https://doi.org/10.3389/fevo.2021.685244](https://doi.org/10.3389/fevo.2021.685244)
 
 Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of *Rhineceps* from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. *Journal of Vertebrate Paleontology*. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
+
 
 
 
