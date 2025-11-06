@@ -451,10 +451,10 @@
 > - **Comments**: 
 
 **Isheevo Formation, Tatarstan, Russia**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
-> - **References**: 
+> - **Age**: Wordian to early Capitanian, Guadalupian, Permian
+> - **Taxa**: Therapsida: *Ulemosaurus svijagensis*, *Ulemica invisa*, *Ulemica efremovi*. Parareptilia: *Permotriturus herrei*, *Belebey shumovi*.
+> - **Locality and horizon**: sheevo Locality, gorge Kurmy-Chugor, Kamennyi Ravine, left bank of Ulema River (tributary of Sviaga River), Apastovskii District, Tatarstan, Russia. Urzhumian Horizon (Dinocephalian Complex), Isheevo Faunal Assemblage (Zone II), corresponding to the Isheevo Formation (upper Urzhumian parastratotype) (Ivakhnenko, 1996; Silantiev et al., 2017).
+> - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
 > - **Comments**: 
 
 **Khuff Formation, Haushi-Huqf, Oman**
@@ -2348,6 +2348,7 @@ Eltink, E., & Langer, M. C. (2014). A new specimen of the temnospondyl *Australe
 Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Carboniferous Poti Formation and from the Permian Rio do Rasto Formation, Brazil. *Revista Brasileira de Paleontologia*, *19*(3), 401-406. [https://doi.org/10.4072/rbp.2016.3.05](https://doi.org/10.4072/rbp.2016.3.05)
 
 Martinelli, A. G., Francischini, H., Dentzien-Dias, P. C., Soares, M. B., & Schultz, C. L. (2016). The oldest archosauromorph from South America: postcranial remains from the Guadalupian (mid-Permian) Rio do Rasto Formation (Paraná Basin), southern Brazil. *Historical Biology*, *29*(1), 76-84. [https://doi.org/10.1080/08912963.2015.1125897](https://doi.org/10.1080/08912963.2015.1125897)
+
 
 
 
