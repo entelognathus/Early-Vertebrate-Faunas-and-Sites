@@ -443,9 +443,10 @@
 > - **Comments**: 
 
 **Rio do Rasto Formation, Paraná Basin, Brazil**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
+> - **Age**: Guadalupian–Lopingian, Permian
+> - **Taxa**: Amphibia: *Australerpeton cosgriffi*, *Bageherpeton longignathus*, *Parapytanga catarinensis*, Rhinesuchus-like amphibian. Parareptilia: *Provelosaurus americanus*. Synapsida: *Endothiodon* sp., *Rastodon procurvidens*, unnamed tapinocephalid dinocephalian. Archosauromorpha: unnamed basal archosauromorph. Sarcopterygii: Actinistia indet., Dipnoi indet. Actinopterygii: Paleonisciformes indet.
+> - **Locality and horizon**: rimarily from the Morro Pelado Member (Azevedo et al., 2018; Cisneros et al., 2005); also Serrinha Member (Dias-da-Silva, 2012). Key localities include the Serra do Cadeado area (Paraná State) (Boos et al., 2015); São Jerônimo da Serra Site (Paraná State) (Azevedo et al., 2018); and the Aceguá and Posto Queimado localities (Rio Grande do Sul State) (Cisneros et al., 2005; Dias & Barberena, 2001).
+>   - **References**: (Azevedo et al., 2018; Boos et al., 2015; Cisneros et al., 2005; Dias & Barberena, 2001; Dias-da-Silva, 2012; Eltink & Langer, 2014; Figueroa et al., 2016; Martinelli et al., 2016).
 > - **References**: 
 > - **Comments**: 
 
@@ -2331,6 +2332,7 @@ Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrah
 Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 149–164. [https://doi.org/10.25131/sajg.123.0012](https://doi.org/10.25131/sajg.123.0012) 
 
 Ronchi, A., Marchetti, L., Klein, H., & Groenewald, G. H. (2023). A Middle Permian Oasis for Vertebrate and Invertebrate Life in a High-Energy Fluvial Palaeoecosystem of Southern Gondwana (Karoo, Republic of South Africa). *Geosciences*, *13*(11), 325. [https://doi.org/10.3390/geosciences13110325](https://doi.org/10.3390/geosciences13110325) 
+
 
 
 
