@@ -928,7 +928,6 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 ***Englewood Formation, South Dakota School of Mines V873, USA***: Frasnian
 > - *Cladodus eriensis*, *Cladodus springeri*
 
-***Chemung Group, New York and Pennsylvania, USA***: Frasnian
 
 ***Okse Bay Formation fauna***: Franian?
 > Okse Bay Formation; Okse Bay Fjord, Ellesmere Island, Canada.
@@ -1032,7 +1031,14 @@ The arthrodires comprise
 ***Worange Point fauna***: lower Famennian.
 > Worange Point Formation, Eden-Pambula region, MAV14
 
-> -
+***Chemung Group/Formation, New York and Pennsylvania, USA***: Famennian
+> - **Comment: Dennison (1970) renamed the old Chemung Formation the Greenland Gap Group and divided it into the lower Scherr Formation and the upper Foreknobs Formation. De Witt (1974) extended the Scherr and Foreknobs into Pennsylvania, but did not use the term Greenland Gap Group.[3]
+
+Boswell, et al. (1987), does not recognize the Scherr and Foreknobs Formations in the subsurface of West Virginia and thus these formations are reduced from "group" to "formation" as the Greenland Gap Formation.[4]
+
+Rossbach and Dennison (1994) extended the Foreknobs into the Catawba syncline of southwestern Virginia.[5]
+
+The Foreknobs is divided into the following Members, in ascending order: Mallow Member, Briery Gap Sandstone Member, Blizzard Member, Pound Sandstone Member, and Red Lick Member
 
 ***Grenfell fauna***, upper Famennian;
 > Hunter Siltstone, Hervey Group, Grenfell, MAV15.
@@ -1069,6 +1075,7 @@ The arthrodires comprise
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
