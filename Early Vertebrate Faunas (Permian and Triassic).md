@@ -2333,6 +2333,21 @@ Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Ass
 
 Ronchi, A., Marchetti, L., Klein, H., & Groenewald, G. H. (2023). A Middle Permian Oasis for Vertebrate and Invertebrate Life in a High-Energy Fluvial Palaeoecosystem of Southern Gondwana (Karoo, Republic of South Africa). *Geosciences*, *13*(11), 325. [https://doi.org/10.3390/geosciences13110325](https://doi.org/10.3390/geosciences13110325) 
 
+Azevedo, K. L., Schemiko, D. C. B., Soares, M. B., Vega, C. S., & Vesely, F. F. (2018). The São Jerônimo da Serra Site, Rio do Rasto Formation (Middle/Upper Permian), Paraná Basin, Brazil: faciological and taphonomic context. *Brazilian Journal of Geology*, *48*(4), 821-837. [https://doi.org/10.1590/2317-4889201820170129](https://doi.org/10.1590/2317-4889201820170129)
+
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., & Paes Neto, V. D. (2015). A tapinocephalid dinocephalian (Synapsida, Therapsida) from the Rio do Rasto Formation (Paraná Basin, Brazil): taxonomic, ontogenetic and biostratigraphic considerations. *Journal of South American Earth Sciences*, *63*, 375–384. [https://doi.org/10.1016/j.jsames.2015.09.003](https://doi.org/10.1016/j.jsames.2015.09.003)
+
+Cisneros, J. C., Abdala, F., & Malabarba, M. C. (2005). Pareiasaurids from the Rio do Rasto Formation, southern Brazil: Biostratigraphic implications for Permian faunas of the Paraná Basin. *Revista Brasileira de Paleontologia*, *8*(1), 13-24.
+
+Dias, E. V., & Barberena, M. C. (2001). A Temnospondyl Amphibian from the Rio do Rasto Formation, Upper Permian of Southern Brazil. *Anais da Academia Brasileira de Ciências*, *73*(1), 135-143.
+
+Dias-da-Silva, S. (2012). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. *Lethaia*, *45*(1), 109–120. [https://doi.org/10.1111/j.1502-3931.2011.00263.x](https://www.google.com/search?q=https://doi.org/10.1111/j.1502-3931.2011.00263.x)
+
+Eltink, E., & Langer, M. C. (2014). A new specimen of the temnospondyl *Australerpeton cosgriffi* from the late Permian of Brazil (Rio do Rasto Formation, Paraná Basin): comparative anatomy and phylogenetic relationships. *Journal of Vertebrate Paleontology*, *34*(3), 524–538. [https://doi.org/10.1080/02724634.2013.826667](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2013.826667)
+
+Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Carboniferous Poti Formation and from the Permian Rio do Rasto Formation, Brazil. *Revista Brasileira de Paleontologia*, *19*(3), 401-406. [https://doi.org/10.4072/rbp.2016.3.05](https://doi.org/10.4072/rbp.2016.3.05)
+
+Martinelli, A. G., Francischini, H., Dentzien-Dias, P. C., Soares, M. B., & Schultz, C. L. (2016). The oldest archosauromorph from South America: postcranial remains from the Guadalupian (mid-Permian) Rio do Rasto Formation (Paraná Basin), southern Brazil. *Historical Biology*, *29*(1), 76-84. [https://doi.org/10.1080/08912963.2015.1125897](https://doi.org/10.1080/08912963.2015.1125897)
 
 
 
