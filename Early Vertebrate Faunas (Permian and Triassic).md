@@ -2349,6 +2349,19 @@ Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Ca
 
 Martinelli, A. G., Francischini, H., Dentzien-Dias, P. C., Soares, M. B., & Schultz, C. L. (2016). The oldest archosauromorph from South America: postcranial remains from the Guadalupian (mid-Permian) Rio do Rasto Formation (Paraná Basin), southern Brazil. *Historical Biology*, *29*(1), 76-84. [https://doi.org/10.1080/08912963.2015.1125897](https://doi.org/10.1080/08912963.2015.1125897)
 
+Bulanov, V. V. (2025). To the revision of the middle Permian bolosaurids (Tetrapoda, Bolosaurida) of Eastern Europe. *Paleontological Journal*, *59*(1), 67-78.
+
+Bulanov, V. V., Kovalenko, E. S., MacDougall, M. J., Golubev, V. K., Fröbisch, J., Podurets, K. M., & Bakaev, A. S. (2022). Tooth replacement and reparative dentine formation in the middle Permian bolosaurids of European Russia. *Historical Biology*, *35*(5), 748-761.
+
+Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. *Lethaia*, *45*(1), 109–120.
+
+Golubev, V. K. (2015). Dinocephalian stage in the history of the Permian tetrapod fauna of Eastern Europe. *Paleontological Journal*, *49*(12), 1346–1352.
+
+Ivakhnenko, M. F. (1996). Cranial morphology and evolution of Permian Dinomorpha (Eotherapsida) of eastern Europe. *Paleontological Journal*, *30*(5). [1, 2]
+
+Riabinin, A. N. (1938). Vertebrate fauna from the Upper Permian deposits of the Sviaga basin: 1. A new Dinocephalian, Ulemosaurus sviagensi n. gen. n. sp. *Ezhegodnik Muzeya Akademii F. N. Chernysheva*, *1*, 4–40.
+
+Silantiev, V. V., Arefiev, M. P., Nurgalieva, N. G., Mouraviev, F. A., Bulanov, V. V., Ivanov, A. O., & Urazaeva, M. N. (2017). New multidisciplinary studies of the Urzhumian parastratotype confirm its reference status for the Vyatka-Kazan region of European Russia. In D. Nurgaliev, M. Barclay, S. Nikolaeva, & V. Silantiev (Eds.), *Kazan Golovkinsky Stratigraphic Meeting, 2017. Advances in Devonian, Carboniferous and Permian Research: Stratigraphy, Environments, Climate and Resources* (pp. 206-215). Filodiritto International Proceedings.
 
 
 
