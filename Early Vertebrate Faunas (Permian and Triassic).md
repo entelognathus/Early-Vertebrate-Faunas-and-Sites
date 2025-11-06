@@ -458,9 +458,9 @@
 > - **Comments**: 
 
 **Khuff Formation, Haushi-Huqf, Oman**
-> - **Age**: 
-> - **Taxa**: 
-> - **Locality and horizon**: 
+> - **Age**: Wordian, Guadalupian, Permian
+> - **Taxa**: Chondrichthyes: *Glikmanius* cf. *myachkovensis*, *Glikmanius culmenis*, *Omanoselache hendersoni*, *Omanoselache angiolinii*, cf. *Omanoselache* sp., *Reesodus underwoodi*, *Teresodus amplexus*, *Gunnellodus bellistriatus*, *Khuffia lenis*, *Khuffia prolixa*, Euselachii sp. indet., cf. ‘Palaeozoic Genus 1’ sp., *Cooleyella* cf. *fordi*, *Nemacanthus* sp., *Amelacanthus* cf. *sulcatus*. Holocephali: *Deltodus* aff. *mercurei*, *Solenodus* cf. *crenulatus*.[1] Petalodontida: Indeterminate taxon
+> - **Locality and horizon**: utochthonous sections of the Khuff Formation (Wordian) cropping out in the interior Haushi-Huqf area, Oman; fauna recovered from limestone bulk rock samples (Koot et al., 2013). The specific member is not specified in the publication (Koot et al., 2013).
 > - **References**: 
 > - **Comments**: 
 
@@ -2362,6 +2362,7 @@ Ivakhnenko, M. F. (1996). Cranial morphology and evolution of Permian Dinomorpha
 Riabinin, A. N. (1938). Vertebrate fauna from the Upper Permian deposits of the Sviaga basin: 1. A new Dinocephalian, Ulemosaurus sviagensi n. gen. n. sp. *Ezhegodnik Muzeya Akademii F. N. Chernysheva*, *1*, 4–40.
 
 Silantiev, V. V., Arefiev, M. P., Nurgalieva, N. G., Mouraviev, F. A., Bulanov, V. V., Ivanov, A. O., & Urazaeva, M. N. (2017). New multidisciplinary studies of the Urzhumian parastratotype confirm its reference status for the Vyatka-Kazan region of European Russia. In D. Nurgaliev, M. Barclay, S. Nikolaeva, & V. Silantiev (Eds.), *Kazan Golovkinsky Stratigraphic Meeting, 2017. Advances in Devonian, Carboniferous and Permian Research: Stratigraphy, Environments, Climate and Resources* (pp. 206-215). Filodiritto International Proceedings.
+
 
 
 
