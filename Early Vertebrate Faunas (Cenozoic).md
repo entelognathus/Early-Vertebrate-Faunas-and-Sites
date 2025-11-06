@@ -131,7 +131,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 ### Rupelian
 **Boom Formation Rupel Group, Steendorp, Flanders, Belgium**
 > - **Age**:Rupelian
-> - **Taxa**:*Amylodon delheidi*, **, **
+> - **Taxa**:*Amylodon delheidi*, *Chimaera rupeliensis*, **
 > - **Locality and horizon**: Boom Formation Rupel Group, Steendorp, Flanders, Belgium
 > - **References**:(Storms, 1894)
 > - **Comments**:
@@ -189,6 +189,7 @@ Signiffcant
 > - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
 > - **References**: (Yabe, 1949)
 > - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
+
 
 
 
