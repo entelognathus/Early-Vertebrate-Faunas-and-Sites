@@ -17,9 +17,9 @@
 > - **Comments**: 
 **Kinderhook Limestone, Iowa, USA**
 > - **Age**: Tournaisian
-> - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, *Ctenacanthus longinodosus*, **, **, **, **, **, **, **, **, 
+> - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, *Ctenacanthus longinodosus*, *Ctenacanthus depressus*, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Kinderhook Limestone, Iowa, USA
-> - **References**:(Eastman, 1902)
+> - **References**:(Eastman, 1902; Newberry, 1897)
 > - **Comments**: 
 
 **Wangyou Formation, Muhua, Changshun, Guizhou, China**
@@ -226,12 +226,19 @@
 > - **Locality and horizon**: Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australia.
 > - **References**: 260, 261, 262, 263, 264, 265, 266.
 > - **Comments**: Non-marine, estuarine.
-**St. Louis Formation, Indiana, USA**
+**St. Louis Formation/limestone, Indiana, USA**
 > - **Age**: Visean
 > - **Taxa**: *Chomatodus newberryi*
 > - **Locality and horizon**: St. Louis Formation, Indiana, USA
 > - **References**:(Hay, 1902)
-> - **Comments**: 
+> - **Comments**:
+**St. Louis Formation/limestone, Alton, Illinois, USA**
+> - **Age**: Visean
+> - **Taxa**: *Asteroptychius gracilis*, **, **
+> - **Locality and horizon**: St. Louis Formation/limestone, Alton, Illinois, USA
+> - **References**:(Newberry, 1897)
+> - **Comments**:
+
 **Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK**
 > - **Age**: Visean
 > - **Taxa**: *Acanthodopsis acuta*
@@ -1161,6 +1168,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
