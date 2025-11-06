@@ -2363,6 +2363,11 @@ Riabinin, A. N. (1938). Vertebrate fauna from the Upper Permian deposits of the 
 
 Silantiev, V. V., Arefiev, M. P., Nurgalieva, N. G., Mouraviev, F. A., Bulanov, V. V., Ivanov, A. O., & Urazaeva, M. N. (2017). New multidisciplinary studies of the Urzhumian parastratotype confirm its reference status for the Vyatka-Kazan region of European Russia. In D. Nurgaliev, M. Barclay, S. Nikolaeva, & V. Silantiev (Eds.), *Kazan Golovkinsky Stratigraphic Meeting, 2017. Advances in Devonian, Carboniferous and Permian Research: Stratigraphy, Environments, Climate and Resources* (pp. 206-215). Filodiritto International Proceedings.
 
+Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003a). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *191*(3-4), 269–300. [https://doi.org/10.1016/S0031-0182(02)00668-5](https://www.google.com/search?q=https://doi.org/10.1016/S0031-0182\(02\)00668-5) 
+
+Angiolini, L., Nicora, A., Bucher, H., Vachard, D., Pillevuit, A., Platel, J. P., Baud, A., Broutin, J., Marcoux, J., & Al Hashmi, H. (1998). Late Permian fauna from the Khuff Formation, southeastern Oman: preliminary report. *Rivista Italiana di Paleontologia e Stratigrafia*, *104*(3), 329–340. 
+
+Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
 
 
 
