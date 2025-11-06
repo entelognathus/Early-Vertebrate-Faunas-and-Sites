@@ -341,6 +341,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Snyder et al. (2024). Bolt,1990; Bolt & Lombard, 2006, 2010; Bolt et al., 1988; Lombard & Bolt, 1995; Schultze & Bolt, 1996.
 > - **Comments**: The age assignment follows Snyder et al. (2024).
 
+**Keokuk limestone, Keokuk, Iowa, USA**
+> - **Age**: Visean
+> - **Taxa**: *Ctenacanthus acutus*, *Ctenacanthus xiphias*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, 
+> - **Locality and horizon**: Keokuk limestone, Keokuk, Iowa, USA
+> - **References**:(Eastman, 1897)
+> - **Comments**: 
+
 > Late Dinantian in NW Europe 
 > East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
 
@@ -1154,6 +1161,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
 ## References to be added and sorted.
+
 
 
 
