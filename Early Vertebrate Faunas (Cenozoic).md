@@ -54,12 +54,19 @@
 > - **Locality and horizon**: London Clay Formaiton (Beetle Bed, Lower Aldwick Beds), Herne Bay, Kent, UK
 > - **References**: (Ward, 1978)
 > - **Comments**:
-#### London Clay Formaiton, Burnham-on-Crouch, Essex, England
+#### London Clay Formaiton, Burnham-on-Crouch, Essex, England, UK
 > - **Age**: early Ypresian (Sparnacian)
 > - **Taxa**: *Alopias crochardi*
 > - **Locality and horizon**: London Clay; Cliff Reach, Burnham-on-Crouch, Essex
 > - **References**: (Ward, 1978)
+> - **Comments**:
+#### London Clay Formaiton, Isle of SHeppey, UK
+> - **Age**: early Ypresian (Sparnacian)
+> - **Taxa**: *Burnhamia davisi*
+> - **Locality and horizon**: London Clay Formaiton, Isle of SHeppey, UK
+> - **References**: (Woodward, 1889)
 > - **Comments**: 
+
 ### Lutetian
 #### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
@@ -189,6 +196,7 @@ Signiffcant
 > - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
 > - **References**: (Yabe, 1949)
 > - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
+
 
 
 
