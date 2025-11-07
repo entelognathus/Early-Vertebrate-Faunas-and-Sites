@@ -2379,6 +2379,25 @@ Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Ass
 
 Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the *Eodicynodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 141–148.
 
+Day, M. O., Güven, S., Abdala, F., Jirah, S., Rubidge, B., & Almond, J. (2015a). Youngest dinocephalian fossils extend the *Tapinocephalus* Zone, Karoo Basin, South Africa. *South African Journal of Science*, *111*(3–4), 1–5. [https://doi.org/10.17159/sajs.2015/20140309](https://www.google.com/search?q=https://doi.org/10.17159/sajs.2015/20140309)
+
+Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F., & Rubidge, B. S. (2015b). When and how did the terrestrial mid-Permian mass extinction occur? Evidence from the tetrapod record of the Karoo Basin, South Africa. *Proceedings of the Royal Society B: Biological Sciences*, *282*(1811), 20150834. [https://doi.org/10.1098/rspb.2015.0834](https://doi.org/10.1098/rspb.2015.0834)
+
+Day, M. O., Rubidge, B. S., & Abdala, F. (2016). A new mid-Permian burnetiamorph therapsid from the Main Karoo Basin of South Africa and a phylogenetic review of Burnetiamorpha. *Acta Palaeontologica Polonica*, *61*(4), 701–719. [https://doi.org/10.4202/app.00296.2016](https://doi.org/10.4202/app.00296.2016)
+
+Day, M. O., & Smith, R. M. H. (2020). Biostratigraphy of the *Endothiodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 165–180. [https://doi.org/10.25131/sajg.123.0011](https://doi.org/10.25131/sajg.123.0011)
+
+Day, M., Rubidge, B., Almond, J., & Jirah, S. (2013). Biostratigraphic correlation in the Karoo: The case of the Middle Permian parareptile *Eunotosaurus*. *South African Journal of Science*, *109*(3/4), 1–4. [https://doi.org/10.1590/sajs.2013/20120030](https://www.google.com/search?q=https://doi.org/10.1590/sajs.2013/20120030)
+
+Day, M. O., & Rubidge, B. S. (2021). The Late Capitanian Mass Extinction of Terrestrial Vertebrates in the Karoo Basin of South Africa. *Frontiers in Earth Science*, *9*, 631198. [https://doi.org/10.3389/feart.2021.631198](https://www.google.com/search?q=https://doi.org/10.3389/feart.2021.631198)
+
+Huttenlocker, A. K., & Smith, R. M. H. (2017). New whaitsioids (Therapsida: Therocephalia) from the Teekloof Formation of South Africa and therocephalian diversity during the end-Guadalupian extinction. *PeerJ*, *5*, e3868. [https://doi.org/10.7717/peerj.3868](https://www.google.com/search?q=https://doi.org/10.7717/peerj.3868)
+
+Rubidge, B. S., Erwin, D. H., Ramezani, J., Bowring, S. A., & de Klerk, W. J. (2013). High-precision temporal calibration of Late Permian vertebrate biostratigraphy: U-Pb zircon constraints from the Karoo Supergroup, South Africa. *Geology*, *41*(3), 363–366. [https://doi.org/10.1130/G33622.1](https://doi.org/10.1130/G33622.1)
+
+Smith, R. M. H. (1989). *Fluvial facies, vertebrate taphonomy and palaeosols of the Teekloof Formation (Permian) near Beaufort West, Cape Province, South Africa*. Unpublished Ph.D. thesis, University of Cape Town, Cape Town, South Africa.
+
+Smith, R. M. H., & Keyser, A. W. (1995). Biostratigraphy of the *Pristerognathus* Assemblage Zone. In B. S. Rubidge (Ed.), *Biostratigraphy of the Beaufort Group (Karoo Supergroup)* (pp. 13–17). South African Committee for Stratigraphy Biostratigraphic Series 1. Council for Geoscience.
 
 
 
