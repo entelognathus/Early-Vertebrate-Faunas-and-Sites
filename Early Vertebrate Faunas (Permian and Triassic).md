@@ -472,10 +472,10 @@
 > - **Comments**:  
 
 **Teekloof Formation (lower Poortjie Member), South Africa**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: latest Capitanian, Middle Permian
+> - **Taxa**:  Dinocephalia: *Anteosaurus*, *Criocephalosaurus*, *Titanosuchus*. Therocephalia: Baurioidea gen. indet. (ictidosuchid-grade),?*Ictidosuchoides*. 
+> - **Locality and horizon**: Basal/lowermost strata of the Poortjie Member, Teekloof Formation. Located in the southwestern Main Karoo Basin, near Beaufort West and Sutherland. 
+> - **References**: Day et al., 2013; Day et al., 2015a; Day et al., 2015b; Day and Smith, 2020; Huttenlocker and Smith, 2017; Rubidge et al., 2013; Smith, 1989; Smith and Keyser, 1995
 > - **Comments**:  
 
 **Madumabisa Mudstone Formation, Zambia**  
@@ -2378,6 +2378,7 @@ Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F
 Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 149–164. (https://doi.org/10.25131/sajg.123.0012)
 
 Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the *Eodicynodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 141–148.
+
 
 
 
