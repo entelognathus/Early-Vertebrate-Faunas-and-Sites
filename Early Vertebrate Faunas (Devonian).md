@@ -434,7 +434,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Weejasperaspis gavini White, 1978; weejasperaspid n.g. [long spinal] ANU V38 [shoulder girdle]; Brindabellaspis stensioi Young, 1980; brindabellaspid n.g. [with spines] ANU V1062, 1264, 1883, 2925 [shoulder girdles, spines]; Murrindalaspis wallacei Long and Young, 1988; rhenanid n.g. ANU V1077 [skull and braincase]; Notopetalichthys hillsi Woodward, 1941; Wijdeaspis warrooensis Young, 1978; Shearsbyaspis oepiki Young, 1985; Lunaspis sp. Young, 1985; petalichthyid n.g. ANU V2859 [skull and braincase]; ptyctodontid n.g. Young, 1976; ?ptyctodontid n. g. ANU V2902 [skull and braincase]; placoderm n.g. [reverse neckjoint articulation] ANU V2392 [ADL plate]; placoderm n.g. [indet. bone] ANU V3123 [shoulder girdle plate]
 > - new genus and species [‘fish vertebrae’; Zapaznik and Johnston, 1984]; Ohioaspis tumulosa Giffi n, 1980
 
-**Campbellton Formation, basal Atholville beds, Early Emsian, Campbellton, northern New Bruns
+**Campbellton Formation, basal Atholville beds, early Emsian, Campbellton, northern New Bruns
 wick, Canada**
 > - **Age**: Early Emsian
 > - **Taxa**:*Ankylacanthus incurvus*
@@ -442,6 +442,14 @@ wick, Canada**
 wick, Canada
 > - **References**:(Burrow et al., 2008)
 > - **Comments**:
+
+**Battery Point Formation, late Emsian, Cap-aux-Os, Gaspe´ Peninsula, Quebec, Canada**
+> - **Age**: late Emsian
+> - **Taxa**:*Ankylacanthus incurvus*
+> - **Locality and horizon**: Battery Point Formation, late Emsian, Cap-aux-Os, Gaspe´ Peninsula, Quebec, Canada
+> - **References**:(Burrow et al., 2008)
+> - **Comments**:
+
 
 ***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
 > Mulga Downs Group (sandstones); Darling Basin, western New South Wales, Australia. MAV2.
@@ -1084,6 +1092,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
