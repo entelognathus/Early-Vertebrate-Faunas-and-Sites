@@ -465,10 +465,10 @@
 > - **Comments**: 
 
 **Abrahamskraal Formation, South Africa**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: Wordian to Capitanian, Middle Permian
+> - **Taxa**: Therapsida:: *Tapinocephalus atherstonei*, *Moschops capensis*, *Tapinocaninus*.: *Eodicynodon*, *Robertia*, *Eosimops*, *Diictodon feliceps*.. [Gorgonopsia].. [Anomodontia]. Parareptilia: [Pareiasauria]: *Bradysaurus*. *Eunotosaurus*. Temnospondyli: *Rhinesuchus*. Pisces: *Namaichthys*.
+> - **Locality and horizon**: Lowermost formation of the Adelaide Subgroup, Beaufort Group, main Karoo Basin. Outcrops found in the Northern, Western, and Eastern Cape Provinces (Cole et al., 2016). Biostratigraphically comprises the *Eodicynodon* Assemblage Zone in the lowermost part and the *Tapinocephalus* Assemblage Zone in the upper part (Rubidge & Day, 2020; Day & Rubidge, 2020).
+> - **References**: Cole et al., 2016; Day et al., 2015; Rubidge & Day, 2020; Day & Rubidge, 2020; Bordy & Paiva, 2021
 > - **Comments**:  
 
 **Teekloof Formation (lower Poortjie Member), South Africa**  
@@ -2368,6 +2368,7 @@ Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., 
 Angiolini, L., Nicora, A., Bucher, H., Vachard, D., Pillevuit, A., Platel, J. P., Baud, A., Broutin, J., Marcoux, J., & Al Hashmi, H. (1998). Late Permian fauna from the Khuff Formation, southeastern Oman: preliminary report. *Rivista Italiana di Paleontologia e Stratigrafia*, *104*(3), 329–340. 
 
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
+
 
 
 
