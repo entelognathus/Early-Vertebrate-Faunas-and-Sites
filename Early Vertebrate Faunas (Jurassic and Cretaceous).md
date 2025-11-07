@@ -32,7 +32,15 @@
 > - **Taxa**:*Asteracanthus somaensis*
 > - **Locality and horizon**:Black compact limestone, Nakanosawa Formation, Tomizawa, Soma City, Honshu, Japan
 > - **References**:(Goto, 1994; Yabe, 1902)
-> - **Comments**: 
+> - **Comments**:
+
+> - #### Kimmeridge Clay Formation, England, Weymouth, UK**
+> - **Age**: Kimmeridgian
+> - **Taxa**:*Brachymylus minor*
+> - **Locality and horizon**:Kimmeridge Clay Formation, England, Weymouth, UK
+> - **References**:(Woodward, 1892)
+> - **Comments**:
+
 ### Tithonian
 
 
@@ -113,6 +121,7 @@
 > - **Locality and horizon**: Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA
 > - **References**: (Brown, 1946)
 > - **Comments**: 
+
 
 
 
