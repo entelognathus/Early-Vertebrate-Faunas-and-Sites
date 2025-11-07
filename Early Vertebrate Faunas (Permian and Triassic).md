@@ -2399,6 +2399,37 @@ Smith, R. M. H. (1989). *Fluvial facies, vertebrate taphonomy and palaeosols of 
 
 Smith, R. M. H., & Keyser, A. W. (1995). Biostratigraphy of the *Pristerognathus* Assemblage Zone. In B. S. Rubidge (Ed.), *Biostratigraphy of the Beaufort Group (Karoo Supergroup)* (pp. 13–17). South African Committee for Stratigraphy Biostratigraphic Series 1. Council for Geoscience.
 
+Acker, A., Peecook, B. R., Sidor, C. A., & Whitney, M. R. (2025). The first occurrence of Cyonosaurus (Therapsida, Gorgonsopsia) from the Luangwa Basin of Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2444407. [https://doi.org/10.1080/02724634.2024.2444407](https://doi.org/10.1080/02724634.2024.2444407)
+
+Angielczyk, K. D., Benoit, J., & Rubidge, B. S. (2019). A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper Permian upper Madumabisa Mudstone Formation, Luangwa Basin, Zambia. *Papers in Palaeontology*, *7*(1), 1–42. [https://doi.org/10.1002/spp2.1285](https://doi.org/10.1002/spp2.1285)
+
+Angielczyk, K. D., Sidor, C. A., Nesbitt, S. J., Smith, R. M. H., & Tsuji, L. A. (2014). Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fröbisch (Eds.), *Early evolutionary history of the Synapsida* (pp. 97–135). Springer.
+
+Drysdall, A. R., & Kitching, J. W. (1963). A re-examination of the Karroo succession and fossil localities of part of the Upper Luangwa Valley. *Geological Survey, Northern Rhodesia. Memoir 1*, 1–62.
+
+Jenkins, X. A., Browning, C., Choiniere, J., & Peecook, B. R. (2025). A new moradisaurine captorhinid from the Upper Permian (Lopingian) upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), e2427529. [https://doi.org/10.1080/02724634.2024.2427529](https://doi.org/10.1080/02724634.2024.2427529)
+
+Kammerer, C. F., & Sidor, C. A. (2021). A new burnetiid from the middle Permian of Zambia and a reanalysis of burnetiamorph relationships. *Papers in Palaeontology*, *7*(3), 1261–1287. [https://doi.org/10.1002/spp2.1341](https://doi.org/10.1002/spp2.1341)
+
+Mann, A., & Sidor, C. A. (2025). Arctops umulunshi, sp. nov. (Therapsida: Gorgonopsia) from the upper Madumabisa Mudstone Formation of Zambia, with new information on gorgonopsian postcranial anatomy. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2444405. [https://doi.org/10.1080/02724634.2024.2444405](https://doi.org/10.1080/02724634.2024.2444405)
+
+Nyambe, I. A., & Dixon, O. (2000). Sedimentology of the Madumabisa Mudstone Formation (Late Permian), Lower Karoo Group, mid-Zambezi Valley Basin, southern Zambia. *Journal of African Earth Sciences*, *30*(3), 535–553.(https://doi.org/10.1016/S0899-5362(00)00037-4)
+
+Peecook, B. R., Sidor, C. A., McIntosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). Successive assemblages of upper Permian vertebrates in the upper Madumabisa Mudstone Formation of the Luangwa Basin, Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), e2486065. [https://doi.org/10.1080/02724634.2025.2486065](https://doi.org/10.1080/02724634.2025.2486065)
+
+Rubidge, B. S., Day, M. O., & Barbolini, N. (2013). Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup, South Africa). *Journal of African Earth Sciences*, *79*, 101–117. [https://doi.org/10.1016/j.jafrearsci.2013.03.003](https://doi.org/10.1016/j.jafrearsci.2013.03.003)
+
+Sidor, C. A. (2015). The first biarmosuchian from the upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. *Palaeontologia Africana*, *49*, 1–7.
+
+Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2014). Tapinocephalids (Therapsida, Dinocephalia) from the Permian Madumabisa Mudstone Formation (Lower Karoo, Mid-Zambezi Basin) of southern Zambia. *Journal of Vertebrate Paleontology*, *34*(4), 980–985. [https://doi.org/10.1080/02724634.2014.839841](httpshttps://doi.org/10.1080/02724634.2014.839841)
+
+Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burnetiamorph From Zambia Confirms Exceptional Levels of Endemism in Burnetiamorpha (Therapsida: Biarmosuchia) and an Updated Paleoenvironmental Interpretation of the Upper Madumabisa Mudstone Formation. *Frontiers in Ecology and Evolution*, *9*, 685244. [https://doi.org/10.3389/fevo.2021.685244](https://doi.org/10.3389/fevo.2021.685244)
+
+Smith, R. M. H., Viglietti, P. A., & Rubidge, B. S. (2020). Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup, South Africa). *South African Journal of Geology*, *123*(2), 237–256. [https://doi.org/10.2113/123.0016](https://doi.org/10.2113/123.0016)
+
+Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of Rhineceps from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2451312. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
+
+Whitney, M. R., & Sidor, C. A. (2016). A new therapsid from the Permian Madumabisa Mudstone Formation (Mid-Zambezi Basin) of southern Zambia. *Journal of Vertebrate Paleontology*, *36*(4), e1150767. [https://doi.org/10.1080/02724634.2016.1150767](https://doi.org/10.1080/02724634.2016.1150767)
 
 
 
