@@ -2357,7 +2357,7 @@ Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto 
 
 Golubev, V. K. (2015). Dinocephalian stage in the history of the Permian tetrapod fauna of Eastern Europe. *Paleontological Journal*, *49*(12), 1346–1352.
 
-Ivakhnenko, M. F. (1996). Cranial morphology and evolution of Permian Dinomorpha (Eotherapsida) of eastern Europe. *Paleontological Journal*, *30*(5). [1, 2]
+Ivakhnenko, M. F. (1996). Cranial morphology and evolution of Permian Dinomorpha (Eotherapsida) of eastern Europe. *Paleontological Journal*, *30*(5). 
 
 Riabinin, A. N. (1938). Vertebrate fauna from the Upper Permian deposits of the Sviaga basin: 1. A new Dinocephalian, Ulemosaurus sviagensi n. gen. n. sp. *Ezhegodnik Muzeya Akademii F. N. Chernysheva*, *1*, 4–40.
 
@@ -2369,6 +2369,15 @@ Angiolini, L., Nicora, A., Bucher, H., Vachard, D., Pillevuit, A., Platel, J. P.
 
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
 
+Bordy, E. M., & Paiva, F. (2021). Stratigraphic architecture of the Karoo river channels at the End-Capitanian. *Frontiers in Earth Science*, *8*, 521766. (https://doi.org/10.3389/feart.2020.521766)
+
+Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. *South African Journal of Geology*, *119*(2), 415–424.
+
+Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F., & Rubidge, B. S. (2015). When and how did the terrestrial mid-Permian mass extinction occur? Evidence from the tetrapod record of the Karoo Basin, South Africa. *Proceedings of the Royal Society B: Biological Sciences*, *282*(1811), 20150834. (https://doi.org/10.1098/rspb.2015.0834)
+
+Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 149–164. (https://doi.org/10.25131/sajg.123.0012)
+
+Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the *Eodicynodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 141–148.
 
 
 
