@@ -479,10 +479,10 @@
 > - **Comments**:  
 
 **Madumabisa Mudstone Formation, Zambia**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: Guadalupian (lower formation); Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
+> - **Taxa**: *Mobaceras zambeziense* (lower MMF), *Tapinocephalid indet.* (lower MMF).: *Wantulignathus gwembensis* (middle MMF); *Rhineceps karibaensis* (upper MMF); *Endothiodon* sp. (upper MMF); *Kembawacela kitchingi* (upper MMF); *Aulacephalodon kapoliwacela* (upper MMF); *Daptocephalus* sp. (upper MMF); *Dicynodon* sp. (upper MMF); *Procynosuchus delaharpeae* (upper MMF); *Theriognathus microps* (upper MMF); *Arctops umulunshi* (upper MMF); *Cyonosaurus* sp. (upper MMF); *Isengops luangwensis* (upper MMF); *Biarmosuchia indet.* (upper MMF); *Moradisaurine captorhinid* (upper MMF).
+> - **Locality and horizon**: Vertebrate fossils are known from the lower, middle, and upper members of the formation, primarily from the Luangwa Basin (e.g., North Luangwa National Park, Munyamadzi Game Management Area, localities L322, L359, Locality 4) and the Mid-Zambezi Basin (e.g., Gwembe District, locality L70). (Sidor et al., 2021; Peecook et al., 2025; Drysdall and Kitching, 1963; Whitney & Sidor, 2016; Sidor, 2015; Sidor et al., 2014)
+> - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
 > - **Comments**:  
 
 **Rio do Rasto Formation, Brazil**  
@@ -2398,6 +2398,7 @@ Rubidge, B. S., Erwin, D. H., Ramezani, J., Bowring, S. A., & de Klerk, W. J. (2
 Smith, R. M. H. (1989). *Fluvial facies, vertebrate taphonomy and palaeosols of the Teekloof Formation (Permian) near Beaufort West, Cape Province, South Africa*. Unpublished Ph.D. thesis, University of Cape Town, Cape Town, South Africa.
 
 Smith, R. M. H., & Keyser, A. W. (1995). Biostratigraphy of the *Pristerognathus* Assemblage Zone. In B. S. Rubidge (Ed.), *Biostratigraphy of the Beaufort Group (Karoo Supergroup)* (pp. 13–17). South African Committee for Stratigraphy Biostratigraphic Series 1. Council for Geoscience.
+
 
 
 
