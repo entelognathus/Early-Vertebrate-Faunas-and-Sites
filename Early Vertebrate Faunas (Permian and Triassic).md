@@ -562,13 +562,6 @@
 > - **References**:  
 > - **Comments**:  
 
-**Wutonggou Formation, Turpan Basin, Xinjiang, China**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
-> - **Comments**:  
-
 **Cutties Hillock Sandstone Formation, Moray, Scotland, UK**  
 > - **Age**:  
 > - **Taxa**:  
@@ -2422,6 +2415,7 @@ Piveteau, J. (1926). Paléontologie de Madagascar, XIII. Amphibiens et reptiles 
 
 Piveteau, J. (1955). Existence d’un reptile du groupe des Procolophonidés à Madagascar. *Comptes Rendus de l'Académie des Sciences, Paris*, *241*, 1315–1317.
 ```
+
 
 
 
