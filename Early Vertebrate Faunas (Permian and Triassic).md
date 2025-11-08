@@ -2414,7 +2414,17 @@ Meckert, D. (1995). The procolophonid *Barasaurus* from the Upper Permian of Ran
 Piveteau, J. (1926). Paléontologie de Madagascar, XIII. Amphibiens et reptiles permiens. *Annales de Paléontologie*, *15*, 55–128.
 
 Piveteau, J. (1955). Existence d’un reptile du groupe des Procolophonidés à Madagascar. *Comptes Rendus de l'Académie des Sciences, Paris*, *241*, 1315–1317.
-```
+
+Liu, J. (2018). New progress on the correlation of Chinese terrestrial Permo-Triassic strata. *Vertebrata PalAsiatica*, *56*(4), 327–342.
+
+Liu, J., & Yang, W. (2022). A gorgonopsian from the Wutonggou Formation (Changhsingian, Permian) of Turpan Basin, Xinjiang, China. *Palaeoworld*, *31*(3), 383–388. [https://doi.org/10.1016/j.palwor.2022.04.004](https://doi.org/10.1016/j.palwor.2022.04.004)
+
+Lucas, S. G. (1998). Toward a tetrapod biochronology of the Permian. In S. G. Lucas, J. W. Estep, & J. M. Hoffer (Eds.), *Permian Stratigraphy and Paleontology of the Robledo Mountains, New Mexico* (New Mexico Museum of Natural History and Sciences, Bulletin No. 12, pp. 71–91).
+
+Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., Mundil, R., Wang, X., & Lucas, S. G. (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. *Journal of Asian Earth Sciences*, *36*, 503–520.
+
+Shi, Y.-T., & Liu, J. (2024). Osteology of *Turfanodon bogdaensis* (Dicynodontia). *Vertebrata Palasiatica*, *62*(3), 186–200.
+
 
 
 
