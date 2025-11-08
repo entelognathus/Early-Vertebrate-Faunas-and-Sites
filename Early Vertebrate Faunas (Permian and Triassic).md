@@ -442,14 +442,6 @@
 > - **References**: Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
 > - **Comments**: 
 
-**Rio do Rasto Formation, Paraná Basin, Brazil**
-> - **Age**: Guadalupian–Lopingian, Permian
-> - **Taxa**: Amphibia: *Australerpeton cosgriffi*, *Bageherpeton longignathus*, *Parapytanga catarinensis*, Rhinesuchus-like amphibian. Parareptilia: *Provelosaurus americanus*. Synapsida: *Endothiodon* sp., *Rastodon procurvidens*, unnamed tapinocephalid dinocephalian. Archosauromorpha: unnamed basal archosauromorph. Sarcopterygii: Actinistia indet., Dipnoi indet. Actinopterygii: Paleonisciformes indet.
-> - **Locality and horizon**: rimarily from the Morro Pelado Member (Azevedo et al., 2018; Cisneros et al., 2005); also Serrinha Member (Dias-da-Silva, 2012). Key localities include the Serra do Cadeado area (Paraná State) (Boos et al., 2015); São Jerônimo da Serra Site (Paraná State) (Azevedo et al., 2018); and the Aceguá and Posto Queimado localities (Rio Grande do Sul State) (Cisneros et al., 2005; Dias & Barberena, 2001).
->   - **References**: (Azevedo et al., 2018; Boos et al., 2015; Cisneros et al., 2005; Dias & Barberena, 2001; Dias-da-Silva, 2012; Eltink & Langer, 2014; Figueroa et al., 2016; Martinelli et al., 2016).
-> - **References**: 
-> - **Comments**: 
-
 **Isheevo Formation, Tatarstan, Russia**
 > - **Age**: Wordian to early Capitanian, Guadalupian, Permian
 > - **Taxa**: Therapsida: *Ulemosaurus svijagensis*, *Ulemica invisa*, *Ulemica efremovi*. Parareptilia: *Permotriturus herrei*, *Belebey shumovi*.
@@ -487,9 +479,9 @@
 
 **Rio do Rasto Formation, Brazil**  
 > - **Age**: Roadian, Guadalupian, Middle Permian to Wuchiapingian, Lopingian, Late Permian
-> - **Taxa**: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet., *Provelosaurus americanus*, *Bageherpeton longignathus*, *Australerpeton cosgriffi*, "Rhinesuchus-like" temnospondyl, Actinistia indet., Dipnoi indet., Paleonisciformes indet., Chondrichthyes indet.: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, vertebrate coprolites, lungfish aestivation burrows
+> - **Taxa**: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet., *Provelosaurus americanus*, *Bageherpeton longignathus*, *Australerpeton cosgriffi*, "Rhinesuchus-like" temnospondyl, Actinistia indet., Dipnoi indet., Paleonisciformes indet., Chondrichthyes indet.: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, *Parapytanga catarinensis*, unnamed basal archosauromorph, vertebrate coprolites, lungfish aestivation burrows
 > - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the Morro Pelado Member. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015).
-> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025
+> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016
 > - **Comments**:
 
 **Teekloof Formation, Karoo Basin – South Africa**
@@ -576,12 +568,6 @@
 > - **References**:
 > - **Comments**:
 
-**Rio do Rasto Formation, Paraná Basin – Brazil**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
 
 **Burngrove Formation, Bowen Basin – Queensland, Australia**
 > - **Age**:
@@ -2462,6 +2448,7 @@ Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacan
 Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. *Revista Brasileira de Paleontologia*, *14*(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
 
 Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
+
 
 
 
