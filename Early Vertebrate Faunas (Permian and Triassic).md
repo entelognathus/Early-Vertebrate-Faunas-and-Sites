@@ -2431,6 +2431,37 @@ Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zamb
 
 Whitney, M. R., & Sidor, C. A. (2016). A new therapsid from the Permian Madumabisa Mudstone Formation (Mid-Zambezi Basin) of southern Zambia. *Journal of Vertebrate Paleontology*, *36*(4), e1150767. [https://doi.org/10.1080/02724634.2016.1150767](https://doi.org/10.1080/02724634.2016.1150767)
 
+Azevedo, K. L., Schemiko, D. C. B., Soares, M. B., Vega, C. S., & Vesely, F. F. (2018). The São Jerônimo da Serra Site, Rio do Rasto Formation (Middle/Upper Permian), Paraná Basin, Brazil: faciological and taphonomic context. *Brazilian Journal of Geology*, *48*(4), 821-837. [https://doi.org/10.1590/2317-4889201820170129](https://doi.org/10.1590/2317-4889201820170129)
+
+Barberena, M. C. (1998). Australerpeton cosgriffi n.g., n.sp., a Late Permian Rhinesuchoid amphibian from Brazil. *Anais da Academia Brasileira de Ciências*, *70*(1), 125–137.
+
+Barberena, M. C., & Dias, E. V. (1998). On the presence of a short-snouted rhinesuchoid amphibian in the Rio do Rasto Formation (Late Permian of Paraná Basin, Brazil). *Anais da Academia Brasileira de Ciências*, *70*(3), 465–468.
+
+Boos, A. D. S., Schultz, C. L., Vega, C. S., & Aumond, J. J. (2013). On the presence of the Late Permian dicynodont Endothiodon in Brazil. *Palaeontology*, *56*(4), 837–848. [https://doi.org/10.1111/pala.12020](https://doi.org/10.1111/pala.12020)
+
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., & Paes Neto, V. D. (2015). A tapinocephalid dinocephalian (Synapsida, Therapsida) from the Rio do Rasto Formation (Paraná Basin, Brazil): taxonomic, ontogenetic and biostratigraphic considerations. *Journal of South American Earth Sciences*, *63*, 375–384. [https://doi.org/10.1016/j.jsames.2015.09.003](https://doi.org/10.1016/j.jsames.2015.09.003)
+
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., Soares, M. B., & Ilha, A. L. R. (2016). A New Dicynodont (Therapsida: Anomodontia) from the Permian of Southern Brazil and Its Implications for Bidentalian Origins. *PLoS One*, *11*(5), e0155000. [https://doi.org/10.1371/journal.pone.0155000](https://doi.org/10.1371/journal.pone.0155000)
+
+Cisneros, J. C., Abdala, F., & Malabarba, M. C. (2005). Pareiasaurids from the Rio do Rasto Formation, southern Brazil: Biostratigraphic implications for Permian faunas of the Paraná Basin. *Revista Brasileira de Paleontologia*, *8*(1), 13-24.
+
+Cisneros, J. C., Abdala, F., Atayman-Güven, S., Rubidge, B. S., Şengör, A. M. C., & Schultz, C. L. (2012). Carnivorous dinocephalian from the Middle Permian of Brazil and tetrapod dispersal in Pangaea. *Proceedings of the National Academy of Sciences*, *109*(5), 1584–1588. [https://doi.org/10.1073/pnas.1115975109](https://doi.org/10.1073/pnas.1115975109)
+
+Dias, E. V., & Barberena, M. C. (2001). A Temnospondyl amphibian from the Rio do Rasto Formation, Upper Permian of southern Brazil. *Anais da Academia Brasileira de Ciências*, *73*(1), 135-143. [https://doi.org/10.1590/s0001-37652001000100011](https://doi.org/10.1590/s0001-37652001000100011)
+
+Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. *Lethaia*, *45*(1), 109–120. [https://doi.org/10.1111/j.1502-3931.2011.00263.x](https://doi.org/10.1111/j.1502-3931.2011.00263.x)
+
+Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Carboniferous Poti Formation and from the Permian Rio do Rasto Formation, Brazil. *Revista Brasileira de Paleontologia*, *19*(3), 401-406. [https://doi.org/10.4072/rbp.2016.3.05](https://doi.org/10.4072/rbp.2016.3.05)
+
+Francischini, H., Dentzien-Dias, P., Guerra-Sommer, M., Menegat, R., Santos, J. O. S., Manfroi, J., & Schultz, C. L. (2018). A middle permian (Roadian) lungfish aestivation burrow from the Rio Do Rasto Formation (Paraná Basin, Brazil) and associated U-Pb dating. *Palaios*, *33*(2), 69-84. [https://doi.org/10.2110/palo.2017.050](https://doi.org/10.2110/palo.2017.050)
+
+Malabarba, M. C., Abdala, F., Weiss, F. E., & Perez, P. A. (2003). New data on the Late Permian vertebrate fauna of Posto Queimado, Rio do Rasto Formation, southern Brazil. *Revista Brasileira de Paleontologia*, *6*, 49–54.
+
+Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacanthiformes shark (Chondrichthyes, Elasmobranchii) from the Late Paleozoic Rio do Rasto Formation (Paraná Basin), Southern Brazil. *Anais da Academia Brasileira de Ciências*, *86*(1), 135–145. [https://doi.org/10.1590/0001-37652014107612](https://doi.org/10.1590/0001-37652014107612)
+
+Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. *Revista Brasileira de Paleontologia*, *14*(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
+
+Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
 
 
 
