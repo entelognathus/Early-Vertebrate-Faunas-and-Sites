@@ -484,13 +484,6 @@
 > - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016
 > - **Comments**:
 
-**Teekloof Formation, Karoo Basin – South Africa**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-
 **Usili Formation, Ruhuhu Basin – Tanzania**
 > - **Age**:
 > - **Taxa**:
@@ -2448,6 +2441,7 @@ Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacan
 Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. *Revista Brasileira de Paleontologia*, *14*(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
 
 Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
+
 
 
 
