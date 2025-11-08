@@ -393,13 +393,6 @@
 > - **References**: Gould, 1924; Olson, 1965; Olson, 1972; Reisz & Laurin, 2004; Gee et al., 2018; Laurin & Hook, 2022
 > - **Comments**:
 
-**Madumabisa Mudstone, Zambia**
-> - **Age**: Wuchiapingian, Lopingian, Permian
-> - **Taxa**: Temnospondyli: *Rhineceps karibaensis*. Reptiliomorpha (Captorhinidae): *Amenoyengi mpunduensis*. Pareiasauria: *Pareiasuchus nasicornis*. Biarmosuchia: *Isengops luangwensis*, *Mobaceras zambeziense*. Gorgonopsia: *Arctops umulunshi*, *Cyonosaurus*, *Dinogorgon* sp.. Therocephalia: *Theriognathus microps*, *Mupashi migrator*. Cynodontia: *Procynosuchus delaharpeae*. Dicynodontia: *Aulacephalodon kapoliwacela*, *Compsodon helmoedi*, *Cistecephalus*, *Daptocephalus*, *Dicynodon*, *Diictodon feliceps*, *Digalodon cf. D. rubidgei*, *Endothiodon* (, *Kembawacela kitchingi* , *Odontocyclops*, *Oudenodon*, *Pristerodon mackayi* . Actinopterygii; Elasmobranchii.
-> - **Locality and horizon**: Upper Madumabisa Mudstone Formation, Luangwa Basin, northeastern Zambia (Sidor et al., 2021; Peecook et al., 2025; Jenkins et al., 2025). Also reported from the lower portion of the upper Madumabisa Mudstone Formation, Mid-Zambezi Basin, southern Zambia (Steyer & Sidor, 2025).
-> - **References**: Angielczyk et al., 2019; Jenkins et al., 2025; Peecook et al., 2025; Sidor et al., 2021; Steyer & Sidor, 2025
-> - **Comments**:
-
 **Usili Formation, Ruhuhu Basin, Tanzania**
 > - **Age**: Lopingian, Permian
 > - **Taxa**: Temnospondyli: *Peltobatrachus pustulatus*. Reptilia: *Anthodon serrarius*, *Pareiasaurus serridens*. Therapsida: *Daptocephalus huenei*, *Dicynodon angielczyki*, *Mdomowabata trilobops*, *Dicynodontoides kubwa*, *Katumbia parringtoni*, *Kawingasaurus fossilis*, *Ruhuhucerberus terror*, *Titanogorgon* sp., *Procynosuchus delaharpeae*
@@ -474,7 +467,7 @@
 > - **Age**: Guadalupian (lower formation); Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
 > - **Taxa**: *Mobaceras zambeziense* (lower MMF), *Tapinocephalid indet.* (lower MMF).: *Wantulignathus gwembensis* (middle MMF); *Rhineceps karibaensis* (upper MMF); *Endothiodon* sp. (upper MMF); *Kembawacela kitchingi* (upper MMF); *Aulacephalodon kapoliwacela* (upper MMF); *Daptocephalus* sp. (upper MMF); *Dicynodon* sp. (upper MMF); *Procynosuchus delaharpeae* (upper MMF); *Theriognathus microps* (upper MMF); *Arctops umulunshi* (upper MMF); *Cyonosaurus* sp. (upper MMF); *Isengops luangwensis* (upper MMF); *Biarmosuchia indet.* (upper MMF); *Moradisaurine captorhinid* (upper MMF).
 > - **Locality and horizon**: Vertebrate fossils are known from the lower, middle, and upper members of the formation, primarily from the Luangwa Basin (e.g., North Luangwa National Park, Munyamadzi Game Management Area, localities L322, L359, Locality 4) and the Mid-Zambezi Basin (e.g., Gwembe District, locality L70). (Sidor et al., 2021; Peecook et al., 2025; Drysdall and Kitching, 1963; Whitney & Sidor, 2016; Sidor, 2015; Sidor et al., 2014)
-> - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
+> - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor et al., 2021; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
 > - **Comments**:  
 
 **Rio do Rasto Formation, Brazil**  
@@ -482,13 +475,6 @@
 > - **Taxa**: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet., *Provelosaurus americanus*, *Bageherpeton longignathus*, *Australerpeton cosgriffi*, "Rhinesuchus-like" temnospondyl, Actinistia indet., Dipnoi indet., Paleonisciformes indet., Chondrichthyes indet.: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, *Parapytanga catarinensis*, unnamed basal archosauromorph, vertebrate coprolites, lungfish aestivation burrows
 > - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the Morro Pelado Member. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015).
 > - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016
-> - **Comments**:
-
-**Madumabisa Mudstone Formation, Luangwa Basin – Zambia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
 > - **Comments**:
 
 **Moradi Formation, Agadez region – Niger**
@@ -2427,6 +2413,7 @@ Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacan
 Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. *Revista Brasileira de Paleontologia*, *14*(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
 
 Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
+
 
 
 
