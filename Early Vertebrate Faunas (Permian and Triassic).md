@@ -486,10 +486,10 @@
 > - **Comments**:  
 
 **Rio do Rasto Formation, Brazil**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: Roadian, Guadalupian, Middle Permian to Wuchiapingian, Lopingian, Late Permian
+> - **Taxa**: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet., *Provelosaurus americanus*, *Bageherpeton longignathus*, *Australerpeton cosgriffi*, "Rhinesuchus-like" temnospondyl, Actinistia indet., Dipnoi indet., Paleonisciformes indet., Chondrichthyes indet.: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, vertebrate coprolites, lungfish aestivation burrows
+> - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the Morro Pelado Member. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015).
+> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025
 > - **Comments**:
 
 **Teekloof Formation, Karoo Basin – South Africa**
@@ -2430,6 +2430,7 @@ Smith, R. M. H., Viglietti, P. A., & Rubidge, B. S. (2020). Biostratigraphy of t
 Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of Rhineceps from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2451312. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
 
 Whitney, M. R., & Sidor, C. A. (2016). A new therapsid from the Permian Madumabisa Mudstone Formation (Mid-Zambezi Basin) of southern Zambia. *Journal of Vertebrate Paleontology*, *36*(4), e1150767. [https://doi.org/10.1080/02724634.2016.1150767](https://doi.org/10.1080/02724634.2016.1150767)
+
 
 
 
