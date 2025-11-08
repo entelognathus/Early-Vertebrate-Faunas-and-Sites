@@ -2400,6 +2400,28 @@ Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian R
 
 Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
 
+Bandyopadhyay, S., & Ray, S. (2020). Gondwana Vertebrate Faunas of India: Their Diversity and Intercontinental Relationships. *Episodes*, *43*(1), 438–448. [https://doi.org/10.18814/epiiugs/2020/020028](https://doi.org/10.18814/epiiugs/2020/020028)
+
+Bickelmann, C., Müller, J., & Reisz, R. R. (2009). The enigmatic diapsid *Acerosodontosaurus piveteaui* (Reptilia: Neodiapsida) from the Upper Permian of Madagascar and the paraphyly of “younginiform” reptiles. *Canadian Journal of Earth Sciences*, *46*(9), 651–661. [https://doi.org/10.1139/E09-038](https://doi.org/10.1139/E09-038)
+
+Carroll, R. L. (1978). Permo-Triassic lizards from the Karoo system. Part II. A gliding reptile from the Upper Permian of Madagascar. *Palaeontologia africana*, *21*, 143–159.
+
+Carroll, R. L. (1981). Plesiosaur ancestors from the Upper Permian of Madagascar. *Philosophical Transactions of the Royal Society of London B: Biological Sciences*, *293*(1068), 315–383.
+
+Currie, P. (1980). A new younginid (Reptilia: Eosuchia) from the Upper Permian of Madagascar. *Canadian Journal of Earth Sciences*, *17*(4), 500–511.
+
+Currie, P. J. (1981). *Hovasaurus boulei*, an aquatic eosuchian from the upper Permian of Madagascar. *Palaeontologia africana*, *21*, 99–168.
+
+Ketchum, H. F., & Barrett, P. M. (2004). New reptile material from the lower Triassic of Madagascar: implications for the Permian Triassic extinction event. *Canadian Journal of Earth Sciences*, *41*(1), 1–8. [https://doi.org/10.1139/e03-084](https://doi.org/10.1139/e03-084)
+
+Mazin, J. M., & King, G. M. (1991). The first dicynodont from the Late Permian of Madagascar. *Palaeontology*, *34*(4), 837–842.
+
+Meckert, D. (1995). The procolophonid *Barasaurus* from the Upper Permian of Ranohira, Madagascar. *In* II International Symposium on Lithographic Limestones, 9–11 July 1995, Cuenca, Spain.
+
+Piveteau, J. (1926). Paléontologie de Madagascar, XIII. Amphibiens et reptiles permiens. *Annales de Paléontologie*, *15*, 55–128.
+
+Piveteau, J. (1955). Existence d’un reptile du groupe des Procolophonidés à Madagascar. *Comptes Rendus de l'Académie des Sciences, Paris*, *241*, 1315–1317.
+```
 
 
 
