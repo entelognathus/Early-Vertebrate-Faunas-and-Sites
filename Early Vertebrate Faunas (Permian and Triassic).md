@@ -2426,6 +2426,23 @@ Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., Mundil, R., Wang, X.,
 
 Shi, Y.-T., & Liu, J. (2024). Osteology of *Turfanodon bogdaensis* (Dicynodontia). *Vertebrata Palasiatica*, *62*(3), 186–200.
 
+Liu, J. (2019). The tetrapod fauna of the upper Permian Naobaogou Formation of China— 4. the diversity of dicynodonts. *Vertebrata Palasiatica*, *57*(3), 173-180.
+
+Liu, J., & Abdala, F. (2017). Therocephalian (Therapsida) and chroniosuchian (Reptiliomorpha) from the Permo-Triassic transitional Guodikeng Formation of the Dalongkou Section, Jimsar, Xinjiang, China. *Vertebrata PalAsiatica*, *55*(1), 24–40.
+
+Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., [et al.] (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. *Journal of Asian Earth Sciences*, *36*(6), 503-520.
+
+Sun, A. L. (1963). The Chinese kannemeyerids. *Palaeontologia Sinica, New Series C*, *17*, 1–109.
+
+Sun, A. L. (1973b). Permo-Triassic dicynodonts from Turfan, Sinkiang. *Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology Academia Sinica*, *10*, 53–68.
+
+Sun, A. L. (1978). Two new genera of Dicynodontidae. *Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology Academia Sinica*, *13*, 19–25.
+
+Yang, W., Wan, M., Crowley, J. L., Wang, J., Luo, X., Tabor, N., Angielczyk, K. D., Gastaldo, R., Geissman, J., Liu, F., Roopnarine, P., & Sidor, C. A. (2021). Paleoenvironmental and paleoclimatic evolution and cyclo- and chrono-stratigraphy of upper Permian-lower Triassic fluvial-lacustrine deposits in Bogda Mountains, NW China—implications for diachronous plant evolution across the Permian-Triassic boundary. *Earth-Science Reviews*, *222*, 103741.
+
+Yuan, P. L., & Young, C. C. (1934a). On the discovery of a new Dicynodon in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 563–573.
+
+Yuan, P. L., & Young, C. C. (1934b). On the occurrence of Lystrosaurus in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 575-580.
 
 
 
