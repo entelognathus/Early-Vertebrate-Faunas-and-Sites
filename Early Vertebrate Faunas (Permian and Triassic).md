@@ -478,10 +478,10 @@
 > - **Comments**:
 
 **Lower Sakamena Formation, Morondava Basin – Madagascar**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian 
+> - **Taxa**: Actinopterygii: *Atherstonia* sp.. Temnospondyli: *Rhinesuchus* sp.. Parareptilia: *Barasaurus besairiei*. Neodiapsida: *Acerosodontosaurus piveteaui*; *Claudiosaurus germaini*; *Coelurosauravus elivensis*; *Hovasaurus boulei*; *Thadeosaurus* sp.. Therapsida: *Oudenodon sakamenensis*.
+> - **Locality and horizon**: Principally from the Morondava Basin, with specific localities including the Sakamena River Valley (Tulear) and Ranohira, southern Madagascar; from the Lower Sakamena Formation, Sakamena Group (Currie, 1980; Ketchum & Barrett, 2004; Meckert, 1995).
+> - **References**: Bandyopadhyay & Ray, 2020; Bickelmann et al., 2009; Carroll, 1978; Carroll, 1981; Currie, 1980; Currie, 1981; Ketchum & Barrett, 2004; Mazin & King, 1991; Meckert, 1995; Piveteau, 1926; Piveteau, 1955
 > - **Comments**:
 
 **Wutonggou Formation, Turpan Basin – Xinjiang, China**
@@ -2399,6 +2399,7 @@ Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacan
 Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. *Revista Brasileira de Paleontologia*, *14*(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
 
 Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
+
 
 
 
