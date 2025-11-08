@@ -485,10 +485,10 @@
 > - **Comments**:
 
 **Wutonggou Formation, Turpan Basin – Xinjiang, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian
+> - **Taxa**: Gorgonopsia indet. ; indeterminate Dicynodontia
+> - **Locality and horizon**: Sections at Dalongkou and Lucaogou, Turpan Basin, Xinjiang, China. At Dalongkou, the formation is 121 m thick and represents a dominantly fluvial environment (Metcalfe et al., 2009; Liu & Yang, 2022).
+> - **References**: Liu, 2018; Liu & Yang, 2022; Lucas, 1998; Metcalfe et al., 2009; Shi & Liu, 2024
 > - **Comments**:
 
 **Guodikeng Formation, Junggar Basin – Xinjiang, China**
@@ -2415,6 +2415,7 @@ Piveteau, J. (1926). Paléontologie de Madagascar, XIII. Amphibiens et reptiles 
 
 Piveteau, J. (1955). Existence d’un reptile du groupe des Procolophonidés à Madagascar. *Comptes Rendus de l'Académie des Sciences, Paris*, *241*, 1315–1317.
 ```
+
 
 
 
