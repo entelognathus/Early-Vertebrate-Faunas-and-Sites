@@ -492,9 +492,10 @@
 > - **Comments**:
 
 **Guodikeng Formation, Junggar Basin – Xinjiang, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: Changhsingian, Late Permian and Induan, Early Triassic
+> - **Taxa**: Therapsida: *Jimusaria sinkianensis*, *Jimusaria taoshuyuanensis*, *Turfanodon bogdaensis*, *Striodon magnus*, *Kunpania scopulusa*, *Diictodon tienshanensis*, *Diictodon feliceps*, *Lystrosaurus* sp., *Lystrosaurus hedini*, *Lystrosaurus youngi*, *Dalongkoua fuae*. Reptiliomorpha: Bystrowianidae indet.
+> - **Locality and horizon**: Type section at Quanzijie, Jimusar County, Xinjiang; reference section at Dalongkou, south of Santai Town, Jimusar County, Xinjiang (Institute of Geology... & SRIIBGMRXUAR, 1990; Liu & Abdala, 2017). Fossils are known from the lower, middle, and upper parts of the formation, notably from the Dalongkou section (Liu & Abdala, 2017).
+> - **References**: Institute of Geology, Chinese Academy of Geological Sciences and the Scientific Research Institute of the Bureau of Geology and Mineral Resources of Xinjiang Uygur Autonomous Region, 1990; Liu, 2019; Liu & Abdala, 2017; Metcalfe et al., 2009; Sun, 1963; Sun, 1973b; Sun, 1978; Yang et al., 2021; Yuan & Young, 1934a; Yuan & Young, 1934b
 > - **References**:
 > - **Comments**:
 
@@ -2424,6 +2425,7 @@ Lucas, S. G. (1998). Toward a tetrapod biochronology of the Permian. In S. G. Lu
 Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., Mundil, R., Wang, X., & Lucas, S. G. (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. *Journal of Asian Earth Sciences*, *36*, 503–520.
 
 Shi, Y.-T., & Liu, J. (2024). Osteology of *Turfanodon bogdaensis* (Dicynodontia). *Vertebrata Palasiatica*, *62*(3), 186–200.
+
 
 
 
