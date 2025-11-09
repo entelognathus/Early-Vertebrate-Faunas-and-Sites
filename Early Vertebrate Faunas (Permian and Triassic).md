@@ -500,10 +500,10 @@
 > - **Comments**:
 
 **Sunjiagou Formation, Ordos Basin – Shanxi, China**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Lopingian; Wuchiapingian, Permian
+> - **Taxa**: Parareptilia: *Shihtienfenia permica*, *Shihtienfenia completus*, *Shansisaurus xuecunensis*, *Huanghesaurus liulinensis*, *Sanchuansaurus pygmaeus*. Therapsida: *Taoheodon baizhijuni*, Cryptodontia indet. Anthracosauria: *Seroherpeton yangquanensis* 
+> - **Locality and horizon**: Recovered from localities including Baode, Liulin (Xuecun Town), Shouyang, and Yangquan in Shanxi Province, China (Young and Yeh, 1963; Li and Liu, 2013; Chen and Liu, 2020; Yi and Liu, 2020). The formation consists of fluvial and lacustrine deposits (Liu, 2020; Yi and Liu, 2020).
+> - **References**: Benton, 2016; Chen and Liu, 2020; Li and Liu, 2013; Liu, 2020; Wang et al., 2019; Yi and Liu, 2020; Young and Yeh, 1963
 > - **Comments**:
 
 **Kupferschiefer (Werra Fm, Zechstein Gp), Thuringia – Germany/Poland**
@@ -2429,6 +2429,7 @@ Yang, W., Wan, M., Crowley, J. L., Wang, J., Luo, X., Tabor, N., Angielczyk, K. 
 Yuan, P. L., & Young, C. C. (1934a). On the discovery of a new Dicynodon in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 563–573.
 
 Yuan, P. L., & Young, C. C. (1934b). On the occurrence of Lystrosaurus in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 575-580.
+
 
 
 
