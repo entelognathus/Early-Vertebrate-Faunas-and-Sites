@@ -2430,6 +2430,19 @@ Yuan, P. L., & Young, C. C. (1934a). On the discovery of a new Dicynodon in Sink
 
 Yuan, P. L., & Young, C. C. (1934b). On the occurrence of Lystrosaurus in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 575-580.
 
+Benton, M. J. (2016). The Chinese pareiasaurs. *Zoological Journal of the Linnean Society*, *177*(4), 813–853. [https://doi.org/10.1111/zoj.12389](https://doi.org/10.1111/zoj.12389)
+
+Chen, J., & Liu, J. (2020). The youngest occurrence of embolomeres (Tetrapoda: Anthracosauria) from the Sunjiagou Formation (Lopingian, Permian) of North China. *Fossil Record*, *23*(2), 205–213. [https://doi.org/10.5194/fr-23-205-2020](https://doi.org/10.5194/fr-23-205-2020)
+
+Li, X.-W., & Liu, J. (2013). New specimens of pareiasaurs from the Upper Permian Sunjiagou Formation of Liulin, Shanxi and their indications for the taxonomy of Chinese pareiasaurs. *Vertebrata PalAsiatica*, *51*(3), 199–204.
+
+Liu, J. (2020). Taoheodon baizhijuni gen. et sp. nov. (Anomodontia, Dicynodontoidea) from the upper Permian Sunjiagou Formation of China and its implications. *Journal of Vertebrate Paleontology*, *40*(1), e1762088. [https://doi.org/10.1080/02724634.2020.1762088](https://doi.org/10.1080/02724634.2020.1762088)
+
+Wang, J. Y., Yi, J., & Liu, J. (2019). The first complete pareiasaur skull from China. *Acta Palaeontologica Sinica*, *58*(2), 216–221.
+
+Yi, J., & Liu, J. (2020). Pareiasaur and dicynodont fossils from upper Permian of Shouyang, Shanxi, China. *Vertebrata PalAsiatica*, *58*(1), 16–23. [https://doi.org/10.19615/j.cnki.1000-3118.191121](https://doi.org/10.19615/j.cnki.1000-3118.191121)
+
+Young, C. C., & Yeh, H. K. (1963). On a new pareiasaur from the Upper Permian of Shansi, China. *Vertebrata PalAsiatica*, *7*(3), 195–212.
 
 
 
