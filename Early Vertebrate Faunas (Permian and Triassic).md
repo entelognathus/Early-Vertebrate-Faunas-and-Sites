@@ -540,14 +540,7 @@
 > - **Taxa**:  
 > - **Locality and horizon**:  
 > - **References**:  
-> - **Comments**:  
-
-**Sunjiagou Formation, Shanxi, China**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
-> - **Comments**:  
+> - **Comments**:   
 
 **Naobaogou Formation, Inner Mongolia, China**  
 > - **Age**:  
@@ -2436,6 +2429,7 @@ Yang, W., Wan, M., Crowley, J. L., Wang, J., Luo, X., Tabor, N., Angielczyk, K. 
 Yuan, P. L., & Young, C. C. (1934a). On the discovery of a new Dicynodon in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 563–573.
 
 Yuan, P. L., & Young, C. C. (1934b). On the occurrence of Lystrosaurus in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 575-580.
+
 
 
 
