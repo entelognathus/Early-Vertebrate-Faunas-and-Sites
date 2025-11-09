@@ -514,10 +514,10 @@
 > - **Comments**:
 
 **Val Gardena Sandstone, Dolomites – Northern Italy**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Late Permian
+> - **Taxa**: Tetrapod Ichnotaxa) *Pachypes dolomiticus*, *Dicynodontipus geinitzi*.: *Paradoxichnium* isp., *Rhynchosauroides pallinii*, *Procolophonichnium tirolensis*, *cf. Capitosauroides* isp., *cf. Merifontichnus* isp.
+> - **Locality and horizon**: Prominent localities include the Bletterbach Gorge, Tramin/Termeno, and the Recoaro area. The formation unconformably overlies the Lower Permian Athesian Volcanic Group and is conformably overlain by (and interfingers with) the Bellerophon Formation (Bernardi et al., 2018; Marchetti et al., 2017).
+> - **References**: Bernardi et al., 2018; Conti et al., 1977; Kustatscher et al., 2017; Leonardi et al., 1975; Marchetti et al., 2017; Massari et al., 1994; Prinoth, 2017
 > - **Comments**:
 
 **Marl Slate Formation, County Durham – England, UK**
@@ -2471,6 +2471,7 @@ Spener, C. M. (1710). Disquisitio de crocodilo in lapide scissili expresso, alii
 Tsuji, L. A., & Müller, J. (2008). A re-evaluation of $\textit{Parasaurus geinitzi}$, the first-named pareiasaur (Amniota, Parareptilia). *Canadian Journal of Earth Sciences*, *45*(10), 1111-1121.
 
 Witzmann, F. (2005). A dissorophid temnospondyl in the Upper Permian Kupferschiefer of Germany. *Neues Jahrbuch für Geologie und Paläontologie-Abhandlungen*, *237*(1), 103-122.
+
 
 
 
