@@ -507,10 +507,10 @@
 > - **Comments**:
 
 **Kupferschiefer (Werra Fm, Zechstein Gp), Thuringia – Germany/Poland**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Wuchiapingian, Lopingian, Upper Permian
+> - **Taxa**: *Protorosaurus speneri*, *Parasaurus geinitzi*, *Weigeltisaurus jaekeli*, Dissorophidae indet..: *Wodnika striatula*, *Janassa bituminosa*,?*Gansuselache* sp., *Palaeoniscum freieslebeni*, *Pygopterus humboldti*, *Platysomus striatus*, *Dorypterus hoffmanni*, *Acentrophorus glaphyurus*, *Coelacanthus granulatus*. 
+> - **Locality and horizon**: Kupferschiefer (T1), Werra Formation (Z1), Zechstein Group. Localities include Kupfersuhl, Gera, Kamsdorf (Thuringia, Germany); Mansfeld, Sangerhausen (Saxony-Anhalt, Germany); localities in Hesse, Germany; and the North-Sudetic Basin and Fore-Sudetic Monocline (e.g., Leszczyna, Nowy Kościół quarries) in SW Poland. (Paul et al., 2018; Diedrich, 2009; Gottmann-Quesada & Sander, 2009; Brauns et al., 2003; Witzmann, 2005; Dankina et al., 2021; Dankina et al., 2023; Peryt et al., 2012)
+> - **References**: Brauns et al., 2003; Dankina et al., 2021; Dankina et al., 2023; Diedrich, 2009; Fischer et al., 2021; Gottmann-Quesada & Sander, 2009; Haubold & Schaumberg, 1985; Meyer, 1832; Paul, 2006; Paul et al., 2018; Peryt et al., 2012; Spener, 1710; Tsuji & Müller, 2008; Witzmann, 2005
 > - **Comments**:
 
 **Val Gardena Sandstone, Dolomites – Northern Italy**
@@ -2443,6 +2443,7 @@ Wang, J. Y., Yi, J., & Liu, J. (2019). The first complete pareiasaur skull from 
 Yi, J., & Liu, J. (2020). Pareiasaur and dicynodont fossils from upper Permian of Shouyang, Shanxi, China. *Vertebrata PalAsiatica*, *58*(1), 16–23. [https://doi.org/10.19615/j.cnki.1000-3118.191121](https://doi.org/10.19615/j.cnki.1000-3118.191121)
 
 Young, C. C., & Yeh, H. K. (1963). On a new pareiasaur from the Upper Permian of Shansi, China. *Vertebrata PalAsiatica*, *7*(3), 195–212.
+
 
 
 
