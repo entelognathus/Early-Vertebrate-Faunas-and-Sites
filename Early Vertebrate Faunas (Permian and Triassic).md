@@ -2472,6 +2472,19 @@ Tsuji, L. A., & Müller, J. (2008). A re-evaluation of $\textit{Parasaurus geini
 
 Witzmann, F. (2005). A dissorophid temnospondyl in the Upper Permian Kupferschiefer of Germany. *Neues Jahrbuch für Geologie und Paläontologie-Abhandlungen*, *237*(1), 103-122.
 
+Bernardi, M., Tomasoni, R., Petti, F. M., Kustatscher, E., Nowak, H., Prinoth, H., Roghi, G., Preto, N., & Gianolla, P. (2018). Permian–Triassic terrestrial ecosystems of the Dolomites (Southern Alps): Field trip on the occasion of the Paleodays 2018. *Geo.Alp*, *15*.
+
+Conti, M. A., Leonardi, G., Mariotti, N., & Nicosia, U. (1977). Tetrapod footprints of the «Val Gardena Sandstone» (North Italy). Their paleontological, stratigraphic and paleoenvironmental meaning. *Palaeontographia Italica*, *70*(40), 1–91.
+
+Kustatscher, E., Bernardi, M., Petti, F. M., Franz, M., van Konijnenburg-van Cittert, J. H. A., & Kerp, H. (2017). Sea-level changes in the Lopingian (late Permian) of the northwestern Tethys and their effects on the terrestrial palaeoenvironments, biota and fossil preservation. *Global and Planetary Change*, *148*, 166-180. [https://doi.orgimg/10.1016/j.gloplacha.2016.12.006](https://doi.org/10.1016/j.gloplacha.2016.12.006)
+
+Leonardi, P., Conti, M. A., Leonardi, G., Mariotti, N., & Nicosia, U. (1975). *Pachypes dolomiticus* n. gen. n. sp.; Pareiasaur footprint from the "Arenaria di Val Gardena" (Middle Permian) in the Western Dolomites (N. Italy). *Rendiconti Lincei - Matematica e Applicazioni*, *57*(3-4), 221-232.
+
+Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints from the Venetian Prealps, Italy: New discoveries in a largely incomplete panorama. *Acta Palaeontologica Polonica*, *62*(4), 801–817. [https://doi.org/10.4202/app.00392.2017](https://doi.org/10.4202/app.00392.2017)
+
+Massari, F., Neri, C., Pittau, P., Fontana, D., & Stefani, C. (1994). Sedimentology, palynostratigraphy and sequence stratigraphy of a continental to shallow-marine rift-related succession: Upper Permian of the eastern Southern Alps (Italy). *Memorie di Scienze Geologiche*, *46*, 119-243.
+
+Prinoth, H. (2017). The Cephalopod Bank in the Gröden/Val Gardena Sandstone of the Bletterbach (preliminary paper). *Geo.Alp*, *14*, 85–91.
 
 
 
