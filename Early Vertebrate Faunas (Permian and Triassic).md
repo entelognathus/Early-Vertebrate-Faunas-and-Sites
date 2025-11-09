@@ -2444,6 +2444,33 @@ Yi, J., & Liu, J. (2020). Pareiasaur and dicynodont fossils from upper Permian o
 
 Young, C. C., & Yeh, H. K. (1963). On a new pareiasaur from the Upper Permian of Shansi, China. *Vertebrata PalAsiatica*, *7*(3), 195–212.
 
+Brauns, U. (2003). A Re–Os study bearing on the age of the Kupferschiefer mineralization at Sangerhausen (Germany). In *Proceedings of the XVth International Congress of Carboniferous and Permian Stratigraphy: Utrecht, Royal Netherlands Academy of Arts and Scences, Abstracts*, (p. 66).
+
+Dankina, D., Spiridonov, A., Raczyński, P., & Radzevičius, S. (2021). Late Permian ichthyofauna from the North-Sudetic Basin, SW Poland. *Acta Palaeontologica Polonica*, *66*(Supplement to 3), 47–57.
+
+Dankina, D., Spiridonov, A., Raczyński, P., Radzevičius, S., & Antczak, M. (2023). The first Late Permian fish fossils from Leszczyna quarry in South-West Poland. *Earth and Environmental Science Transactions of The Royal Society of Edinburgh*, *114*(1-2), 65-74.
+
+Diedrich, C. G. (2009). A coelacanthid-rich site at Hasbergen (NW Germany): taphonomy and palaeoenvironment of a first systematic excavation in the Kupferschiefer (Upper Permian, Lopingian). *Palaeobiodiversity and Palaeoenvironments*, *89*(1), 67-94.
+
+Fischer, T., Schöllmann, L., & Haunert, J. (2021). The Late Permian Kupferschiefer Fossils and the Geological Educational Trail in the UNESCO Global Geopark TERRA.vita (NW Germany). *Geoconservation Research*, *4*(1), 278-289.
+
+Gottmann-Quesada, A., & Sander, P. M. (2009). A redescription of the early archosauromorph $\textit{Protorosaurus speneri}$ MEYER, 1832, and its phylogenetic relationships. *Palaeontographica Abteilung A*, *287*(4-6), 123-220.
+
+Haubold, H., & Schaumberg, G. (1985). *Die Fossilien des Kupferschiefers*. Neue Brehm-Bücherei, Ziemsen, Lutherstadt-Wittenberg.
+
+Meyer, H. v. (1832). *Palaeologica zur Geschichte der Erde und ihrer Geschöpfe*. Verlag von Siegmund Schmerber.
+
+Paul, J. (2006). Der Kupferschiefer: Lithologie, Stratigraphie, Fazies und Metallogenese eines Schwarzschiefers. *Zeitschrift der Deutschen Gesellschaft für Geowissenschaften*, *157*(1), 57-78.
+
+Paul, J., Heggemann, H., Dittrich, D., Hug-Diegel, N., Huckriede, H., Nitsch, E., & der SKPT/DSK, A G Zechstein. (2018). Comments to the Stratigraphic Chart of Germany 2016: the Zechstein Group. *Zeitschrift der Deutschen Gesellschaft für Geowissenschaften*, *169*(2), 139–145.
+
+Peryt, T., Durakiewicz, T., Kotarba, M. J., & Oszczepalski, S. (2012). Carbon isotope stratigraphy of the basal Zechstein (Lopingian) strata in Northern Poland. *Geological Quarterly*, *56*(2), 285-298.
+
+Spener, C. M. (1710). Disquisitio de crocodilo in lapide scissili expresso, aliisque Lithozois. *Miscellanea Berolinensia ad incrementum scientiarum ex scriptis Societati Regiae Scientiarum exhibitis*, *1*, 92-110.
+
+Tsuji, L. A., & Müller, J. (2008). A re-evaluation of $\textit{Parasaurus geinitzi}$, the first-named pareiasaur (Amniota, Parareptilia). *Canadian Journal of Earth Sciences*, *45*(10), 1111-1121.
+
+Witzmann, F. (2005). A dissorophid temnospondyl in the Upper Permian Kupferschiefer of Germany. *Neues Jahrbuch für Geologie und Paläontologie-Abhandlungen*, *237*(1), 103-122.
 
 
 
