@@ -316,6 +316,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6.
 > - **Comments**: Marine, marine forms stranded in a saline lagoon.
 
+**Black Rock Limestione, Bristol, UK**
+> - **Age**: late Visean
+> - **Taxa**: *Chalazacanthus verrucosus*
+> - **Locality and horizon**: Black Rock Limestione, late Visean, Bristol, UK
+> - **References**:(Davis, 1883)
+> - **Comments**: late Visean to early Serpukhovian
+
 **Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland**
 > - **Age**: Late Visean.
 > - **Taxa**:
@@ -1186,6 +1193,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
