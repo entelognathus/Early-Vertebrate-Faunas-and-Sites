@@ -532,6 +532,17 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **References**: Anderson _et al_., 1997
 > - **Comments**: In common with many Upper Carboniferous Lagerstatten, the fossils are preserved within siderite nodules hosted by coal seam roof shales.
 
+**Joggins Fossil Cliffs, Joggins Formation, western Cumberland County, Nova Scotia, Canada**
+> - **Age**: Moscovian
+> - **Taxa**:
+>> - Reptile: _Hylonomus lyelli_,
+>> - Invertebrate: _Dendropupa vetusta_,
+>> - Tracks: _Arthropleura_
+>>
+> - **Locality and horizon**: 
+> - **References**: Grey & Finkel, 2011
+> - **Comments**：Grey & Finkel, 2011: The Joggins Fossil Cliffs site comprises a 14.7-km-long coastal section. The pioneering Canadian geologist, William Logan, first described the section at Joggins in 1843 and logged over 4 km of it in just five  days (Rygel and Shipley 2005). Over the next 150 years, the sedimentology and stratigraphy of the section were revised by several researchers, including Dawson (1868), Bell (1912, 1914, 1944) and Copeland (1959). To date, the most complete lithostratigraphic investigations of the entire Joggins section remain those by Ryan et al. (1991) and Ryan and Boehner (1994). Ryan et al. (1991) were the first to delineate and name formations and informal members in the Cumberland Group, and this work was expanded upon by Davies et al. (2005), Calder et al. (2005a) and others. Recent tectonostratigraphic work on the oldest, Mabou Group, part of the section was the subject of a M.Sc. thesis by McLeod (2010). Today, the section is considered to include units of the Early Carboniferous (Mississippian) Mabou Group (Shepody and Claremont formations) and the Late Carboniferous (Pennsylvanian) Cumberland Group (Boss Point, Little River, Joggins, Springhill Mines, and Ragged Reef formations)。
+
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
 **Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA**
@@ -1167,7 +1178,14 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 
 297. Anderson, L. I., Dunlop, J. A., Horrocks, C. A., Winkelmann, H. M., & Eagar, R. M. C. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). Geological Journal, 32(3), 197-210.
 
+298. Grey, M. G., & Finkel, Z. V. (2011). The Joggins Fossil Cliffs UNESCO World Heritage site: a review of recent research. atlantic GeoloGy, 47, 185-200. 
+
+299. Davies, S. J., Gibling, M. R., Rygel, M. C., Calder, J. H., & Skilliter, D. M. (2005). The Pennsylvanian Joggins Formation of Nova Scotia: sedimentological log and stratigraphic framework of the historic fossil cliffs. Atlantic Geology, 41(2), 87-102.
+
+300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
+
 ## References to be added and sorted.
+
 
 
 
