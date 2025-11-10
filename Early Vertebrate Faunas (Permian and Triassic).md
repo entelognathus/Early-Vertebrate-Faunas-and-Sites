@@ -2486,6 +2486,37 @@ Massari, F., Neri, C., Pittau, P., Fontana, D., & Stefani, C. (1994). Sedimentol
 
 Prinoth, H. (2017). The Cephalopod Bank in the Gröden/Val Gardena Sandstone of the Bletterbach (preliminary paper). *Geo.Alp*, *14*, 85–91.
 
+Brauns, C.M., Pätzold, T., & Haack, U. (2003). A Re–Os study bearing on the age of the Kupferschiefer. (Referenced in [2, 3, 4, 5, 6, 7]).
+
+Evans, S. E. (1988). The Upper Permian reptile Adelosaurus from Durham. *Palaeontology*, *31*(4), 957–964.
+
+Evans, S.E. and Haubold, H. (1987). A review of the Upper Permian genera Coelurosauravus, Weigeltisaurus and Gracilisaurus (Reptilia: Diapsida). *Zoological Journal of the Linnean Society*, *90*(3), 275-303.
+
+Evans, S. E. and King, M. S. (1993). A new specimen of Protorosaurus (Reptilia: Diapsida) from the Marl Slate (late Permian) of Britain. *Proceedings of the Yorkshire Geological Society*, *49*(3), 229–234.
+
+Hancock, A. and Howse, R. (1870a). On Dorypterus Hoffmanni, Germar, from the Marl-slate of Midderidge, Durham. *Quarterly Journal of the Geological Society of London*, *26*, 556-564.
+
+Hancock, A. and Howse, R. (1870b). On a new Labyrinthodont Amphibian from the Magnesian Limestone of Midderidge, Durham [and] On Protorosaurus Speneri, Von Meyer, and a new species, Proterosaurus Huxleyi, from the Marl-slate of Midderidge, Durham. *Quarterly Journal of the Geological Society of London*, *26*, 565-572.
+
+Howse, R. (1890b). Catalogue of the local fossils in the museum of the Natural History Society. *Natural History Transactions of Northumberland, Durham, and Newcastle-upon-Tyne*, *10*, 227–288.
+
+Parry, J. W. D. (2024). *The Marl Slate: A Taphonomic and Petrographic Analysis*. Masters thesis, Durham University.
+
+Pettigrew, T. H. (1979). A new specimen of *Coelurosauravus* (Reptilia: Diapsida) from the Marl Slate of Eppleton Quarry, Tyne and Wear. *Nature*. (Referenced in [8, 9, 10]).
+
+Smith, D. B., and Francis, E. A. (1967). *Geology of the country between Durham and West Hartlepool*. Memoir of the Geological Survey of Great Britain, Sheet 27. HMSO.
+
+Stephenson, M.H. & McLean, D. (2023). Lopingian (Late Permian) palynomorphs from the Cadeby Formation, Cadeby Quarry, Yorkshire, UK. *Rivista Italiana di Paleontologia e Stratigrafia*, *129*(1), 25-47.
+
+Swift, A. and Aldridge, R. J. (1982). Conodonts from the Upper Permian strata of Nottinghamshire and North Yorkshire. *Palaeontology*, *25*(4), 845–856.
+
+Turner, P. and Magaritz, M. (1986). Chemical and isotopic studies of a core of Marl Slate from NE England: influence of freshwater influx into the Zechstein Sea. *Geological Society, London, Special Publications*, *22*(1), 29-41.
+
+Watson, D. M. S. (1914). *Broomia perplexa* gen. et. sp. nov., a fossil reptile from South Africa. *Proceedings of the Zoological Society of London*, *1914*, 995-1010.
+
+Westoll, T. S. (1934). The Permian 'paleoniscoids' of the Marl Slate. Unpublished PhD thesis, University of Durham.
+
+Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. *Proceedings of the Zoological Society of London B*, *111*, 39–58.
 
 
 
