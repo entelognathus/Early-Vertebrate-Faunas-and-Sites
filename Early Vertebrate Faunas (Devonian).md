@@ -833,6 +833,12 @@ Gauja stage (late Givetian)
 > - MAV11.
 > - *Placolepis budwawangensis* Ritchie, 1984.
 
+**Naples shales, Ontario County, New York, USA**, upper Frasnian
+> - **Age**: late Frasnian
+> - **Taxa**:*Acanthodes pristis*
+> - **Locality and horizon**: Naples shales, Ontario County, New York, USA
+> - **References**: (Clarke, 1885) 
+> - **Comments**: 
 
 ***Twofold Bay fauna***, upper Frasnian
 > Twofold Bay Formation, Eden, NSW, Australia. MAV12.
@@ -1092,6 +1098,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
