@@ -534,13 +534,6 @@
 > - **References**: Ayaz, Martin, et al., 2016; Shi et al., 2010
 > - **Comments**:
 
-**Naobaogou Formation, Inner Mongolia, China**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
-> - **Comments**:  
-
 **Cutties Hillock Sandstone Formation, Moray, Scotland, UK**  
 > - **Age**:  
 > - **Taxa**:  
@@ -2513,6 +2506,7 @@ Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. *Pro
 Ayaz, S. A., Martin, M., Esterle, J., Amelin, Y., & Nicoll, R. S. (2016). Age of the Yarrabee and accessory tuffs: implications for the upper Permian sediment-accumulation rates across the Bowen Basin. *Australian Journal of Earth Sciences*, *63*(7), 843-856. [https://doi.org/10.1080/08120099.2016.1255254](https://doi.org/10.1080/08120099.2016.1255254)
 
 Shi, G. R., Waterhouse, J. B., & McLoughlin, S. (2010). The Lopingian of Australasia: a review of biostratigraphy, correlations, palaeogeography and palaeobiogeography. *Geological Journal*, *45*(2-3), 230–263. [https://doi.org/10.1002/gj.1189](https://doi.org/10.1002/gj.1189)
+
 
 
 
