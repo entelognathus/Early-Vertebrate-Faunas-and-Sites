@@ -521,10 +521,10 @@
 > - **Comments**:
 
 **Marl Slate Formation, County Durham – England, UK**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: early Wuchiapingian, Lopingian, Permian
+> - **Taxa**: Reptilia: *Protorosaurus speneri*, *Adelosaurus huxleyi*, *Weigeltisaurus jaekeli* (syn. *Coelurosauravus*), *Lepidotosaurus duffii*.: Pisces (Fish): *Palaeoniscum freieslebeni*, *Palaeoniscum elegans*, *Palaeoniscum macrophthalmus*, *Dorypterus hoffmanni*, *Lekanichthys* sp., *Platysomus striatus*, *Pygopterus mandibularis*, *Acentrophorus glaphyrus*, *Janassa bituminosa*, *Wodnika striatula*, *Coelacanthus granulatus*.; Conodonta: *Merrillina divergens*.
+> - **Locality and horizon**: Key localities in County Durham include Middridge Quarry, Quarrington Hill (Hepplewhites) Quarry, Crime Rigg Quarry, and Eppleton Quarry (Hetton-le-Hole) (Smith and Francis, 1967; Pettigrew, 1979; Evans and King, 1993). The formation is the basal unit of the Zechstein Group (Z1 cycle), unconformably overlying the aeolian Yellow Sands Formation or Carboniferous Coal Measures, and underlying the Raisby Formation (Smith and Francis, 1967).
+> - **References**: Brauns et al., 2003; Evans, 1988; Evans and Haubold, 1987; Evans and King, 1993; Hancock and Howse, 1870a; Hancock and Howse, 1870b; Howse, 1890b; Parry, 2024; Pettigrew, 1979; Smith and Francis, 1967; Stephenson and McLean, 2023; Swift and Aldridge, 1982; Turner and Magaritz, 1986; Watson, 1914; Westoll, 1934; Westoll, 1941b
 > - **Comments**:
 
 
@@ -2485,6 +2485,7 @@ Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints
 Massari, F., Neri, C., Pittau, P., Fontana, D., & Stefani, C. (1994). Sedimentology, palynostratigraphy and sequence stratigraphy of a continental to shallow-marine rift-related succession: Upper Permian of the eastern Southern Alps (Italy). *Memorie di Scienze Geologiche*, *46*, 119-243.
 
 Prinoth, H. (2017). The Cephalopod Bank in the Gröden/Val Gardena Sandstone of the Bletterbach (preliminary paper). *Geo.Alp*, *14*, 85–91.
+
 
 
 
