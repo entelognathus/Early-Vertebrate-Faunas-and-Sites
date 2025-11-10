@@ -401,7 +401,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:205, 206.
 > - **Comments**:  Marine, open marine
 
-**Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland**
+**Blackband Ironstone/Borough Lee Ironstone/Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland**
 > - **Age**: Middle Serpukhovian.
 > - **Taxa**:
 >> -  Actinopterygii: Cryphiolepis striatus, Drydenius insignis, Elonichthys robinsoni, Protohaplolepis scotica, Nematoptychius greenocki, Pseudogonatodus parvidens, Eurynotus crenatus, Blairolepis loanheadensis, Watsonichthys pectinatus.
@@ -412,9 +412,10 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> -  Gyracanthida: Aganacanthus striatulus, Gyracanthus nobilis, Gyracanthus youngi.
 >> -  Acanthodida: Acanthodes sp.
 >> -  Tetrapoda: Caerorhachis bairdi, Unnamed aistopod, Eoherpeton watsoni, Acheroniscus caledoniae, Adelogyrinus sp., Doragnathus woodi, Loxomma sp., Papposaurus traquair, Spathicephalus mirus.
-> - **Locality and horizon**: Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland.
+> - **Locality and horizon**: Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland; Burghlee/Borough Lee, Edinburgh, UK
 > - **References**:6, 24, 28, 41, 148, 259, 260, 262, 271, 277, 278, 279, 280, 281, 282.
-> - **Comments**: Non-marine, lacustrine. 
+> - **Comments**: Non-marine, lacustrine. Following a drafting error in the geological section published by Traquair (1903), the Blackband Ironstone from Burghlee (Borough Lee Ironstone of Traquair 1881, 1882, 1890a) was, for a long time, erroneously thought to be equivalent to the Loanhead Ironstone No 2. This was shown to be incorrect by Smithson (1985), who demonstrated that it was instead equivalent to the Rumbles Ironstone or Loanhead Ironstone No 3. This was later verified and confirmed by Andrews and Brand (in Andrews & Carroll 1991). The Rumbles Ironstone lies above the Great Seam (Tulloch & Walton 1958), near the top of the Limestone Coal Formation in the E1a ammonoid zone of the Pendleian substage of the Namurian in Scotland (Browne et al. 1999), in the upper part of the Serpukhovian, in the upper Mississippian (Smithson et al., 2019).
+
 
 **Upper Limestone Group, Niddrie, Lothian, Scotland**
 > - **Age**: Middle Serpukhovian. 
@@ -1185,6 +1186,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
