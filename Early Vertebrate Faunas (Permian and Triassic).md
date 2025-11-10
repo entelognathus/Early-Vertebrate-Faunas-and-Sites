@@ -527,12 +527,11 @@
 > - **References**: Brauns et al., 2003; Evans, 1988; Evans and Haubold, 1987; Evans and King, 1993; Hancock and Howse, 1870a; Hancock and Howse, 1870b; Howse, 1890b; Parry, 2024; Pettigrew, 1979; Smith and Francis, 1967; Stephenson and McLean, 2023; Swift and Aldridge, 1982; Turner and Magaritz, 1986; Watson, 1914; Westoll, 1934; Westoll, 1941b
 > - **Comments**:
 
-
 **Burngrove Formation, Bowen Basin – Queensland, Australia**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: late Changhsingian, Lopingian, Late Permian 
+> - **Taxa**: Ichnofossils: Probable fish trails; probable amphibian digit imprints and foraging grooves; large irregular (fish or amphibian?) trails; large, single-grooved sinuous trails (fish or amphibian tail drag mark?); paired scuff-marks (vertebrate appendage indentations?) ; en echelon sets of indentations (vertebrate fin or toe marks?) 
+> - **Locality and horizon**: Type section of the Burngrove Formation (Blackwater Group), north of Blackwater (approx. 23°14'S, 148°47'E), from a single lacustrine mudstone bedding plane (Shi et al., 2010).
+> - **References**: Ayaz, Martin, et al., 2016; Shi et al., 2010
 > - **Comments**:
 
 **Madumabisa Mudstone Formation, Luangwa Basin, Zambia**  
@@ -2517,6 +2516,7 @@ Watson, D. M. S. (1914). *Broomia perplexa* gen. et. sp. nov., a fossil reptile 
 Westoll, T. S. (1934). The Permian 'paleoniscoids' of the Marl Slate. Unpublished PhD thesis, University of Durham.
 
 Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. *Proceedings of the Zoological Society of London B*, *111*, 39–58.
+
 
 
 
