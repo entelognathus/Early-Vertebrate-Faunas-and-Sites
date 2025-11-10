@@ -2501,7 +2501,7 @@ Howse, R. (1890b). Catalogue of the local fossils in the museum of the Natural H
 
 Parry, J. W. D. (2024). *The Marl Slate: A Taphonomic and Petrographic Analysis*. Masters thesis, Durham University.
 
-Pettigrew, T. H. (1979). A new specimen of *Coelurosauravus* (Reptilia: Diapsida) from the Marl Slate of Eppleton Quarry, Tyne and Wear. *Nature*. (Referenced in [8, 9, 10]).
+Pettigrew, T. H. (1979). A new specimen of *Coelurosauravus* (Reptilia: Diapsida) from the Marl Slate of Eppleton Quarry, Tyne and Wear. *Nature*.
 
 Smith, D. B., and Francis, E. A. (1967). *Geology of the country between Durham and West Hartlepool*. Memoir of the Geological Survey of Great Britain, Sheet 27. HMSO.
 
@@ -2517,6 +2517,9 @@ Westoll, T. S. (1934). The Permian 'paleoniscoids' of the Marl Slate. Unpublishe
 
 Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. *Proceedings of the Zoological Society of London B*, *111*, 39–58.
 
+Ayaz, S. A., Martin, M., Esterle, J., Amelin, Y., & Nicoll, R. S. (2016). Age of the Yarrabee and accessory tuffs: implications for the upper Permian sediment-accumulation rates across the Bowen Basin. *Australian Journal of Earth Sciences*, *63*(7), 843-856. [https://doi.org/10.1080/08120099.2016.1255254](https://doi.org/10.1080/08120099.2016.1255254)
+
+Shi, G. R., Waterhouse, J. B., & McLoughlin, S. (2010). The Lopingian of Australasia: a review of biostratigraphy, correlations, palaeogeography and palaeobiogeography. *Geological Journal*, *45*(2-3), 230–263. [https://doi.org/10.1002/gj.1189](https://doi.org/10.1002/gj.1189)
 
 
 
