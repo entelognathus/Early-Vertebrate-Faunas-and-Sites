@@ -535,10 +535,10 @@
 > - **Comments**:
 
 **Cutties Hillock Sandstone Formation, Moray, Scotland, UK**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: Changhsingian, Lopingian, Permian
+> - **Taxa**: Pareiasauria: *Elginia mirabilis*. Dicynodontia: *Gordonia* spp., *Geikia elegans*, *Dicynodon traquairi* 
+> - **Locality and horizon**: Type locality is Cutties Hillock Quarry, Moray, Scotland(Benton & Spencer, 1995). Fossils were recovered from the base of an aeolian unit, just above pebbly sheet-flood deposits (Benton & Walker, 1985).
+> - **References**: Benton & Spencer, 1995; Benton & Walker, 1985; Cruickshank et al., 2005; George et al., 2024; Scottish Natural Heritage, n.d.
 > - **Comments**:  
 
 **Urpalov Formation, Vyatka River Region, Russia**  
@@ -2506,6 +2506,7 @@ Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. *Pro
 Ayaz, S. A., Martin, M., Esterle, J., Amelin, Y., & Nicoll, R. S. (2016). Age of the Yarrabee and accessory tuffs: implications for the upper Permian sediment-accumulation rates across the Bowen Basin. *Australian Journal of Earth Sciences*, *63*(7), 843-856. [https://doi.org/10.1080/08120099.2016.1255254](https://doi.org/10.1080/08120099.2016.1255254)
 
 Shi, G. R., Waterhouse, J. B., & McLoughlin, S. (2010). The Lopingian of Australasia: a review of biostratigraphy, correlations, palaeogeography and palaeobiogeography. *Geological Journal*, *45*(2-3), 230–263. [https://doi.org/10.1002/gj.1189](https://doi.org/10.1002/gj.1189)
+
 
 
 
