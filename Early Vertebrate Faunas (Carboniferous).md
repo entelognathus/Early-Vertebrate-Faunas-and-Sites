@@ -30,23 +30,24 @@
 > - **References**: Wang and Turner, 1985; Wang, 1989; 
 > - **Comments**: Gedongguan Bed of Hou et al. (1985).
 
-**Muhua Formation, Muhua, Changshun, Guizhou, China**
+#### Muhua Formation, Muhua, Changshun, Guizhou, China
 > - **Age**: middle Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: protacrodont, ctenacanth, hybodont.*Thrinacodus bicuspidatus*，*Stethacanthussp.*，*Tamiobatis sp. *，*Protacrodussp.*，*Protacrodus* cf. *serra*，Protacrodontidae?genetsp.indet.，*Cassisodus margaritae*，Hybodontiformes gen. et sp. indet.，*Chomatodus linearis*，*Cristatodens sigmoidalis* , Protacrodontidae? gen. et sp. indet.，*Chondrenchelys sp.*，Chondrenchelyidae gen. et sp. indet.，*Chomatodus davisi*， Ctenacanthiformesgen. etsp. indet.，*Diclitodus denshumani*，*Helodus coniculus*，*Deltodus* cf. *sublaevis*
 > - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
 > - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
 
-**Salem Limestone, Lanesville, Indiana, USA**
+#### Salem Limestone, Lanesville, Indiana, USA
 > - **Age**: Visean
 > - **Taxa**:*Chomatodus lanesvillensis*,*Ctenacanthus bellus*, *Cladodus indianensis* (**many need andded**)
 > - **Locality and horizon**:Salem Limestone, Lanesville, Indiana, USA
 > - **References**:(Branson, 1906)
 > - **Comments**:
 > - 
-**Burlington limestone**
 
-**Horton Bluff and Albert Formations, Bay of Fundy, Canada**
+#### Burlington limestone
+
+#### Horton Bluff and Albert Formations, Bay of Fundy, Canada
 > - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Elonichthys ellsi*, *Elonichthys browni*, *Elonichthyes sp.*, *Rhadinichthys alberti*, *Rhadinichthys sp.*, *Acrolepis hortonensis*, *Palaeoniscus sp.*
@@ -1194,6 +1195,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
