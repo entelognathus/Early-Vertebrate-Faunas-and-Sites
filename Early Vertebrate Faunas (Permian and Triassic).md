@@ -2507,6 +2507,15 @@ Ayaz, S. A., Martin, M., Esterle, J., Amelin, Y., & Nicoll, R. S. (2016). Age of
 
 Shi, G. R., Waterhouse, J. B., & McLoughlin, S. (2010). The Lopingian of Australasia: a review of biostratigraphy, correlations, palaeogeography and palaeobiogeography. *Geological Journal*, *45*(2-3), 230–263. [https://doi.org/10.1002/gj.1189](https://doi.org/10.1002/gj.1189)
 
+Benton, M. J., & Spencer, P. S. (1995). *Fossil Reptiles of Great Britain*. Geological Conservation Review Series No. 10, JNCC, Peterborough.
+
+Benton, M. J., & Walker, A. D. (1985). Palaeoecology, taphonomy, and dating of Permo-Triassic reptiles from Elgin, north-east Scotland. *Palaeontology*, *28*(2), 207–234.
+
+Cruickshank, A. R. I., Clark, N. D. L., & Adams, C. (2005). A new specimen of *Dicynodon traquairi* (Newton) (Synapsida: Anomodontia) from the Late Permian (Tartarian) of northern Scotland. *Palaeontologia Africana*, *41*, 35–43.
+
+George, H., Kammerer, C. F., Foffa, D., Clark, N. D. L., & Brusatte, S. (2024). Micro-CT data reveals new information on the craniomandibular and neuroanatomy of the dicynodont Gordonia (Therapsida: Anomodontia) from the late Permian of Scotland. *Zoological Journal of the Linnean Society*, 1–31. [https://doi.org/10.1093/zoolinnean/zlae065](https://doi.org/10.1093/zoolinnean/zlae065)
+
+Scottish Natural Heritage. (n.d.). *CUTTIES HILLOCK Site of Special Scientific Interest SITE MANAGEMENT STATEMENT*. SNH.
 
 
 
