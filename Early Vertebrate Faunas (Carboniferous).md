@@ -1,5 +1,5 @@
 # Early Vertebrate Faunas and Sites
-**Formation, Locality**
+#### Formation, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -9,20 +9,21 @@
 # Carboniferous
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
-**Köprülü Formation, Zap Valley, Hakkari, SE Turkey**
+#### Köprülü Formation, Zap Valley, Hakkari, SE Turkey
 > - **Age**: Tournaisian
 > - **Taxa**: Cochliodontiformes: *Cochliodus* sp.
 > - **Locality and horizon**: Köprülü Formation, Zap Valley, Hakkari, SE Turkey
 > - **References**: (Janvier, 1984)
 > - **Comments**: 
-**Kinderhook Limestone, Iowa, USA**
+
+#### Kinderhook Limestone, Iowa, USA
 > - **Age**: Tournaisian
 > - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, *Ctenacanthus longinodosus*, *Ctenacanthus depressus*, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Kinderhook Limestone, Iowa, USA
 > - **References**:(Eastman, 1902; Newberry, 1897)
 > - **Comments**: 
 
-**Wangyou Formation, Muhua, Changshun, Guizhou, China**
+#### Wangyou Formation, Muhua, Changshun, Guizhou, China
 > - **Age**: early Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: *Acanthodes guizhouensis*
 > - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
@@ -1193,6 +1194,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
