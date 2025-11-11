@@ -13,6 +13,12 @@
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+#### Fakse Quarry, Danian Limestone, Sjælland, Denmark
+> - **Age**: Danian
+> - **Taxa**: *Scorpaena corallophilus*
+> - **Locality and horizon**: Danian Limestone, Sjælland, Denmark
+> - **References**: (Schwarzhans, 2003)
+> - **Comments**:
 
 ### Selandian
 > - **Age**:
@@ -39,8 +45,26 @@
 > - **Locality and horizon**: 
 > - **References**: (Cappetta, 1972)
 > - **Comments**:
-## Eocene
+#### Vestre Gasværk, Copenhagen, Denmark
+> - **Age**: Selandian
+> - **Taxa**: *Sparidarum sp. *, *Acropoma sp.*
+> - **Locality and horizon**: Vestre Gasværk, Copenhagen, Denmark
+> - **References**: (Schwarzhans, 2003)
+> - **Comments**:
+#### Sundkrogen Harbour basin, Denmark
+> - **Age**: Selandian
+> - **Taxa**: *Sparidarum sp. *
+> - **Locality and horizon**: Sundkrogen, Denmark
+> - **References**: (Schwarzhans, 2003)
+> - **Comments**:
+#### Tashlik Formation, Luzanivka, Cherkasy district, Ukraine
+> - **Age**: Selandian, (NP5 - NP6)
+> - **Taxa**: *Epigonidarum tyassminensis*, *Haemulidarum gullentopsi*, * Haemulidarum makarenkoi*, *Sparidarum spatiatus*, *Leiognathidarum tashlikensis*
+> - **Locality and horizon**: Luzanivka, Cherkasy district, Ukraine
+> - **References**: (Schwarzhans, 2011)
+> - **Comments**:
 
+## Eocene
 ### Ypresian
 #### Oldhaven Formation, Herne Bay, Kent, UK
 > - **Age**: early Ypresian (Sparnacian)
@@ -66,6 +90,18 @@
 > - **Locality and horizon**: London Clay Formaiton, Isle of SHeppey, UK
 > - **References**: (Woodward, 1889)
 > - **Comments**: 
+#### Chashan'ao (Xiejiashan) Formaiton, Sanbanqiao, Shimen, Linli county, Hunan Province, China
+> - **Age**: Ypresian
+> - **Taxa**: *Tungtingichthys gracilis*
+> - **Locality and horizon**: Sanbanqiao, Shimen, Linli county, Hunan Province, China
+> - **References**: (Chang, M.M., 1998)
+> - **Comments**:
+### Pesciara, Monte Bolca Lagerstätte, north-eastern Italy
+> - **Age**: Late Ypresian, middle Cuisian, between 48.96 and 48.5 Ma
+> - **Taxa**: *Neilpeartia ceratoi*, *Stefanichthys mariannae*
+> - **Locality and horizon**: Pesciara site, Bolca Lagerstätte, north-eastern Italy
+> - **References**: (Carnevale, G.,2020)
+> - **Comments**: 
 
 ### Lutetian
 #### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
@@ -81,14 +117,12 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:  Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
 > - **References**: (Mustafa, 2005)
 > - **Comments**:
-> - 
 #### Dongen Formation Brussels Sand Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
 > - **Taxa**: *Coupatezia sp.*,
 > - **Locality and horizon**:  318-332m, Greenish-grey, sandy clay with rather much glauconite, some micaand some pyrite concretions. Many Foraminifera and molluscan shells are present. In the lower part light grey calcareous sandstone occurs with many Foraminifera and molluscan shells. At the base there is a layer with reworked shells, black elasmobranch teethand phosphoritic concretions. NAM-Well De Wijk-19, Netherland.
 > - **References**: (Bor, 1985)
 > - **Comments**:
-> - 
 #### Gosport Sand, Claiborne, Monroe County, State of Alabama, USA.
 > - **Age**:Lutetian
 > - **Taxa**: *Odontaspis macrota*, *Odontaspis cf. rutoti*, *Negaprion gibbesi gilmorei*, *Physodon secundus*, *Galeorhinus recticonus claibornensis*, *Galeorhinus cf. falconeri*, *Lutianus intermedius*, **, **, **, **, **, **, **, **, 
@@ -113,6 +147,12 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:
 > - **References**: (White, 1926)
 > - **Comments**: 
+#### Hsiawanpu Formaiton, Xiawanpu, Xiangxiang county, Hunan Province, China
+> - **Age**: Priabonian
+> - **Taxa**: *Tungtingichthys hsiawanpuensis*
+> - **Locality and horizon**: Xiawanpu, Xiangxiang county, Hunan Province, China
+> - **References**: (Chang, M.M., 1998)
+> - **Comments**:
 
 ### Bartonian
 > - **Age**:
@@ -142,6 +182,12 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: Boom Formation Rupel Group, Steendorp, Flanders, Belgium
 > - **References**:(Storms, 1894)
 > - **Comments**:
+#### Byram Formation
+> - **Age**: Rupelian
+> - **Taxa**: *Sciaena pseudoradians*, *Aplodinotus gemma*, *Sciaenops sp.*, *Sparus elegantulus*
+> - **Locality and horizon**: North Carolina, U.S.A.
+> - **References**: (Stringer, 2020)
+> - **Comments**:
 
 ### Chattian
 **Split Creek sandstone member, the Katalla Formation, Split Creek, Controller Bay, Alaska, USA**
@@ -150,6 +196,18 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:S plit Creek sandstone member, the Katalla Formation, Split Creek, Controller Bay, Alaska, USA
 > - **References**: (Brown, 1946)
 > - **Comments**: 
+#### Aix-en-Provence Formation, Bouches-du-Rhône, Southern France
+> - **Age**: Chattian
+> - **Taxa**: *Pharisatichthys aquensis*
+> - **Locality and horizon**: Bouches-du-Rhône, Southern France
+> - **References**: (Gaudant, 2017)
+> - **Comments**:
+#### Belgrade Formation, North Carolina, U.S.A.
+> - **Age**: latest Oligocene–early Miocene
+> - **Taxa**: *Equetulus silverdalensis*
+> - **Locality and horizon**: North Carolina, U.S.A.
+> - **References**: (Stringer, 2020)
+> - **Comments**:
 
 # Neogene
 ## Miocene
@@ -167,21 +225,70 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **References**: (Case, 1980)
 > - **Comments**: The Trent marl of North Carolina was originally regarded as Eocene (Miller 1912); however, a restudy of the formation including an analysis of its invertebrate 
 fauna by Kellum (1926) demonstrated that it was younger, probably of lower Miocene age, although there was a possibility that might be Oligocene. The additions tend to confirm the lower Miocene age of the formation (Richards, 1943). 
+#### Pirabas Formation, Atalaia beach, Brazil
+> - **Age**: Aquitanian to Early Burdigalian
+> - **Taxa**: *Cantarius nolfi*, *Pristipomoides sp.*, *Archosargus sp.*, *Ocyurus sp.*, * Aplodinotus santosi*, *Equetulus amazonensis*, *Equetulus fitchi*, *Protolarimus mauryae*, *Sciaenops rossettiae*, *Plagioscion marinus*, *Plagioscion travassosi*, *Protosciaena brasiliensis*, *Xenotolithus retrolobatus*
+> - **Locality and horizon**: Atalaia beach, Salinopolis Municipality, Para State, Brazil
+> - **References**: (Aguilera, 2014)
+> - **Comments**:
+#### Cantaure Formation, San Jose´ de Cocodite, Paraguana´ Peninsula, Venezuela
+> - **Age**: Aquitanian
+> - **Taxa**: *Cantarius nolfi*
+> - **Locality and horizon**: San Jose´ de Cocodite, Paraguana´ Peninsula, Venezuela
+> - **References**: (Aguilera, 2013)
+> - **Comments**:
+#### Castillo Formation, Cerro La Cruz, Lara State, Venezuela
+> - **Age**: Aquitanian
+> - **Taxa**: *Cantarius nolfi*
+> - **Locality and horizon**: Cerro La Cruz, Lara State, Venezuela
+> - **References**: (Aguilera, 2013)
+> - **Comments**:
+#### Castilletes Formation, Alta Guajira Peninsula, Colombia
+> - **Age**: Aquitanian
+> - **Taxa**: *Cantarius nolfi*
+> - **Locality and horizon**: Alta Guajira Peninsula, Colombia
+> - **References**: (Aguilera, 2013)
+> - **Comments**:
 
 ### Burdigalian
 **Baripada beds**
 Signiffcant
 > - **Comments**: The Cenozoic fossiliferous sequences of the Baripada region (BMB) are conformably overlying the Precambrian metamorphic basement. The fossiliferous sequences are conformably overlain by the conglomerate bed of Pleistocene age. This sequence consists of sandstone, shale and limestone beds (Bose, 1904; Mahalik, 2006). Amongst these three units, sandstone lies at the bottom, which is followed by the deposition of shale and limestone (Khatun, 2006). The BMB are confined within limited area (within a radius of 8 km around Baripada), and are well exposed in the course of the Budhabalang river, with gentle dip of 4° to 5° towards south(Vaidyanadhan and Ramakrishnan, 2010, Bhaumik et al., 2017). The sandstone bed and shale bed are tentatively put in Burdigalian.
-
 #### Bissex Hill Formation, Bissex Hill, Barbados
 > - **Age**: Burdigalian
 > - **Taxa**: *Alopias acutidens*, *Centroscymnus schaubi*, *Elmopterus acutidens*, *Centrophorus sp.*, * Cheirostephanus hurzeleri*, *Odontaspis sp.*, *Oxyrhina hastalis*, *Oxyrhina desori*, *Oxyrhina sp.*, *Alopias grandis*, *Hemipristis serra*, *Carcharhinus egertoni*, *Sphyrna laevissima*, *Sphyraena sp.*, *Sphyraena kugleri*, *Sphyraena senni*, *Eutrichiurides sp.*, *Diodon sp.*, *Lepidopus sp.*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **,
 > - **Locality and horizon**: Bissex Hill Formation, Bissex Hill, Barbados
 > - **References**: (Casier, 1958; 1966)
 > - **Comments**: Burdigalian or Burdigalian (Casier, 1958; 1966).
+#### Navidad Formation, Chile
+> - **Age**: Burdigalian
+> - **Taxa**: *Agonopsis cume*
+> - **Locality and horizon**: Rio Rapel, Chile
+> - **References**: (Schwarzhans, 2021)
+> - **Comments**:
+#### Rio Banano Formation, Pacuare de Tres Equis, Costa Rica
+> - **Age**: Lower Miocene
+> - **Taxa**: *Diplodus jomnitanus*
+> - **Locality and horizon**: Pacuare de Tres Equis, Costa Rica
+> - **References**: (Laurito,2014)
+> - **Comments**
 
 ### Langhian
+#### Hrušky Formation, Kienberg at Mikulov, Czech Republic
+> - **Age**: Late Langhian
+> - **Taxa**: *Diplodus sitifensis*, *Pagrus cinctus*, *Sparus umbonatus*
+> - **Locality and horizon**: Kienberg at Mikulov, Czech Republic
+> - **References**: (Schwarzhans, 2010)
+> - **Comments**:
+
 ### Serravallian
+### Agnevo Formation, Sakhalin Island, Eastern Russia
+> - **Age**: Middle-Late Miocene; Late Serravallian to Early Tortonian, N13–N14 planktonic foraminiferal zones
+> - **Taxa**: *Pentaceros sakhalinicus*, *Pentaceros sakhalinicus*
+> - **Locality and horizon**: The coastal cliff of the Tartar strait at 1 km north from the Agnevo River mouth, Sakhalin Island, Eastern Russia
+> - **References**: (Nazarkin & Bannikov, 2021)
+> - **Comments**:
+
 ### Tortonian
 ####  Baripada limestone beds, Baripada, Orissa/Odisha
 > - **Age**: Burdigalian
@@ -189,6 +296,24 @@ Signiffcant
 > - **Locality and horizon**: Baripada limestone beds; Baripada, Orissa, India
 > - **References**: (Mehrotra, 1981; Bhaumik et al., 2017)
 > - **Comments**: Integrated approach combining foraminiferal, sedimentological and bulk organic geochemical analyses on limestone unit of Baripada marine Beds reveal the following: Planktic foraminiferal study indicated that the limestone unit in the Baripada marine bed was deposited within the upper Miocene with a time frame ~12.6 to ~8.3 Ma (i.e. Serravallian to Tortonian age) (Bhaumik et al., 2017). Here we tentatively put it in Tortonian.
+#### Shanwang Formation, Shanwang, Shandong, China
+> - **Age**: Late Langhian
+> - **Taxa**: *Coreoperca shandongensis*
+> - **Locality and horizon**: Shanwang Formation, Shanwang, Shandong, China
+> - **References**: (Cheng, P.F.,1999)
+> - **Comments**:
+#### Tapu Formation, Shulin, Taiwan
+> - **Age**: Late Miocene
+> - **Taxa**: *Taosciaena jiangi*, *Nibea chaoi*, *Sillago sp.*, *Uranoscopus sp.*, * Pomadasys sp.*, *Argyrosomus sp.*, *Larimichthys crocea*, *Larimichthys polyactis*, *Larimichthys koae*, *Miichthys miiuy*, *Nibea chaoi*, *Nibea albiflora*, *Protonibea diacanthus*, *Taosciaena hui*, *Taosciaena jiangi*
+> - **Locality and horizon**: Shulin, Taiwan
+> - **References**: (Lin, 2021)
+> - **Comments**:
+### St. Marys Formation, Calvert Cliffs, Maryland, U.S.A.
+> - **Age**: Tortonian
+> - **Taxa**: *Astroscopus countermani*, *Astroscopus ygraecum*, *Astroscopus guttatus*
+> - **Locality and horizon**: Calvert Cliffs, Maryland, U.S.A.
+> - **References**: (Carnevale,2015)
+> - **Comments**:
 
 ### Messinian
 #### Usuba sandstone, Taga beds, Zyoban/Joban Coal-field.
@@ -197,21 +322,76 @@ Signiffcant
 > - **Locality and horizon**: Usuba sandstone, Taga beds, Zyoban/Joban Coal-field
 > - **References**: (Yabe, 1949)
 > - **Comments**: boundary between the Pliocenen and Miocene. Here we put it in Messinian tentatively.
-
 #### 'Liushu' Formation, Yihachi assemblage, Yihachi, Dongxiang County, Gansu, China
 > - **Age**: Bahean LMS/A; early Late Miocene (Qiu et al., 2023)
 > - **Taxa**:
 > - **Locality and horizon**: 'Liushu' Formation, IVPP Loc. LX 201807; 35°38′48.46″N, 103°23′01.48″E.
 > - **References**: Qiu and Li, 2023；Qiu et al., 2023; Qiu et al., 2025.
 > - **Comments**: early Late Miocene = Bahean LMS/A；late Late Miocene = Baodean LMS/A
+#### Sahabi Formation, Sahabi, Libya
+> - **Age**: Messinian
+> - **Taxa**: *Argyrosomus sp.*
+> - **Locality and horizon**: Sahabi, Libya
+> - **References**: (Otero, 2013)
+> - **Comments**:
 
+## Pliocene
+### Zanclean
+#### Kanapoi Formation, southwest of modern Lake Turkana.
+> - **Age**: Zanclean
+> - **Taxa**: *Lates niloticus*
+> - **Locality and horizon**: southwest of modern Lake Turkana
+> - **References**: (Kathlyn, 2018)
+> - **Comments**: The Kanapoi Formation dates from 4.4 to 3.4 Ma, while the major fossiliferous deposits date between 4.195 and 4.108 Ma.
+#### Menilite Formation, Polish Carpathians, close to Krosno, Winnica
+> - **Age**: Zanclean
+> - **Taxa**: *Salwaichthys paratethyensis*
+> - **Locality and horizon**: Polish Carpathians, close to Krosno, Winnica
+> - **References**: (Bannikov,2020)
+> - **Comments**:
+#### Pshekha regional state, Adygea, SW Russia
+> - **Age**: Zanclean
+> - **Taxa**: *Salwaichthys paratethyensis*
+> - **Locality and horizon**: Pshekha regional state, Adygea, SW Russia
+> - **References**: (Bannikov,2020)
+> - **Comments**:
+#### Monte Hermoso Formation, Farola Monte Hermoso, southern Buenos Aires, Argentina
+> - **Age**: Zanclean
+> - **Taxa**: *Plesiopercichthys dimartinoi*
+> - **Locality and horizon**: Farola Monte Hermoso, southern Buenos Aires, Argentina
+> - **References**: (Agnolin,2014)
+> - **Comments**:
 
+### Piacenzian
+
+# Quaternary
+## Pleistocene
+### Gelasian
+
+### Calabrian
+
+### Chibanian
+#### Chibanian Miyata Formation, Kanagawa Prefecture, Japan
+> - **Age**: Chibanian
+> - **Taxa**: *Parascombrops ohei*, *Cepola schlegeli*, *Sebastiscus marmoratus*, * Lepidotrigla sp.*, *Sillago japonica*, *Pagrus major*, *Ammodytes sp.*, *Triglops sp.*
+> - **Locality and horizon**: Kanagawa Prefecture, Japan
+> - **References**: (Mitsui,2007)
+> - **Comments**:
+
+### Upper
+
+### Greenlandian
+
+### Northgrippian
+
+### Meghalayan
 
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
 
