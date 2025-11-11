@@ -1,6 +1,6 @@
 # Early Vertebrate Faunas and Sites (Carboniferous)
 #### Formation, Locality
-#####  Age:
+> - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
@@ -1197,6 +1197,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
