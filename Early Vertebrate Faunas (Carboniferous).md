@@ -1,4 +1,4 @@
-# Early Vertebrate Faunas and Sites
+# Early Vertebrate Faunas and Sites (Carboniferous)
 #### Formation, Locality
 > - **Age**:
 > - **Taxa**:
@@ -6,7 +6,6 @@
 > - **References**:
 > - **Comments**: 
 
-# Carboniferous
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
 #### Köprülü Formation, Zap Valley, Hakkari, SE Turkey
@@ -61,7 +60,7 @@
 > - **References**:  Gardiner, 1966; Miller, 1996; Brazeau, 2005; Jeffery, 2006; Rygel et al., 2006.
 > - **Comments**: Environment. Non-marine, lacustrine with marine 
 
-** Blue Beach Member, Horton Bluff Formation, Blue Beach, Nova Scotia, Canada**
+#### Blue Beach Member, Horton Bluff Formation, Blue Beach, Nova Scotia, Canada
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Tetrapoda: Whatcheeriids, Embolomeres/“Reptiliomorphs”, Acanthostega? Ichthyostega? Colosteids?
@@ -70,7 +69,7 @@
 > - **References**: Anderson et al., 2015; Mansky et al., 2013； Clack, 2000; Hunt, 2004; Lucas, 2004
 > - **Comments**: Western shore of the Avon River (confluence with Bay of Fundy) north of Hantsport
 
-**Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia, Russia**
+#### Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia, Russia
 > - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Oxypteriscus minimus*, *Ministrella longicaudata*, *Palaeobergia microlepis*, *Bishofia lucida*, *Aetheretmon sp.*, *Ganolepis gracilis*, *Gyrolepidotus schmidtii*, *Grassator bidens*.
@@ -82,7 +81,7 @@
 > - **References**: Obruchev, 1967; Vorobyeva, 1967; Maisey, 1984; Berg, 1967; Kazantseva, 1968; Prokofiev, 2004; Beznosov, 2009. 
 > - **Comments**: Non-marine, brackish lagoon or lake. 
 
-**Herbesskaya Formation, Shagonar City, Tuva, Western Siberia, Russia**
+#### Herbesskaya Formation, Shagonar City, Tuva, Western Siberia, Russia
 > - **Age**: Late Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Senekichthys hirundo*, *Ganolepis* sp., Actinopterygii nov. gen. et sp., *Grassator* sp.
@@ -95,7 +94,7 @@
 > - **References**: Maisey, 1984; Stahl, 1999; Prokofiev, 2004; Lebedev, 1996.
 > - **Comments**: Marine, shallow sea.
 > - 
-**Malevka and Upa Horizons, Central part of the Russia platform, Tula and Tver, Russia**
+#### Malevka and Upa Horizons, Central part of the Russia platform, Tula and Tver, Russia
 > - **Age**: Tournaisian.
 > - **Taxa**:
 >> - Elasmobranchii: *Lissodus pectinatus*, *Orodus tumidus* Trautschold, *Diplodoselache antiqua*, *Eunemacanthus krapivnensis*，*Psephodus dentatus*，*Stethacanthus altonensis* (St John & Worthen), *S. obtusus* (Trautschold), "*Acanthodes*' indet., *Ageleodus* sp.
@@ -105,7 +104,7 @@
 > - **References**: Lebedev, 1996
 > - **Comments**: Lebedev, 1996: 1, Malevka Horizon; early Tournasian; 2, Upa Horizon, middle to late Tournasian. 
 
-**Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia**
+#### Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
 > - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Novogonatodus kasantsevae*, *Mansfieldiscus sweeti*, *Mansfieldiscus gibbus*.
@@ -118,7 +117,7 @@
 > - **Comments**: Non-marine, fluvial, floodplain.  *Eupleurogmus creswelli* (McCoy, 1890) can no longer be substantiated due to inadequate material (Long, 1986a),
  *Acanthodes australis* (Woodward, 1906) is regarded as specifically indeterminate (Long, 1986a).
 
-**Foulden fish beds, Cementstone Group, Berwickshire, Scotland**
+#### Foulden fish beds, Cementstone Group, Berwickshire, Scotland
 > - **Age**: Middle to late Tournaisian.
 > - **Taxa**:
 >> - Actinopterygii: *Styracopterus fulcratus*, *Phanerosteon ovensi*, *Strepheoschema fouldensis*, *Aetheretmon valentiacum*, *Cosmoptychius striatus*, *Rhadinichthys* sp.
@@ -133,7 +132,7 @@
 > - **References**: Brazeau,2009; Woodward, 1890; White, 1925; Moy-Thomas, 1938; Gardiner,1985.
 > - **Comments**: Environment. Non-marine, brackish alluvial, lacustrine. Dinantian of Foulden, Berwickshire, Scotland.
 
-**TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland**
+#### TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland
 > - **Age**: Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
 >> - rhizodonts: cf. _Strepsodus sauroides_, aff. _Archichthys portlocki_;
@@ -148,7 +147,7 @@
 >> - All derive from the Tournaisian argillaceous dolostone-bearing mudstone succession of Scotland. Formerly known as the Cementstone Group (the lower part of the Calciferous Sandstone Measures in Scotland), these rocks have now been assigned to the Ballagan Formation, Inverclyde Group. Most belong to the claviger-macra (CM) palynozone, dated as 348 to 347.6 Ma.
 >> - *Pederpes* from Scotland (Clack & Finney 2005).
 
-**Ballagan Formation, Willie’s Hole near Chimiside, Scotland**
+#### Ballagan Formation, Willie’s Hole near Chimiside, Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: 
 >> - Actinopterygian: *Phanerosteon ovensi*， *Aetheretmon valentiacum*
@@ -157,21 +156,21 @@
 > - **References**: Smithson et al., 2012；Cater, 1989
 > - **Comments**: 
 
-**Ballagan Formation, Auchenreoch Glen (Dumbarton), Western Scotland**
+#### Ballagan Formation, Auchenreoch Glen (Dumbarton), Western Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: *Pederpes finneyae*
 > - **Locality and horizon**: Ballagan Formation, Inverclyde Group (formerly Cementstone Group, Calciferous Sandstone Series); Auchenreoch Glen (Dumbarton), Western Scotland.
 > - **References**: Smithson et al., 2012；Clack, 2002; Clack & Finney, 2005
 > - **Comments**: Ivorian, Early Carboniferous (348–344 Myr). claviger-macra (CM) palynozone (possibly from the lower part of this zone). Auchenreoch Glen, near Maryland Farm, 2–3 km north of Dumbarton, western Scotland.
 
-**Ballagan Formation, Coldstream, Scotland**
+#### Ballagan Formation, Coldstream, Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: (tetrapod skull bones and vertebrae, as well as lungfish and rhizodont elements，Gyracanthus spines, and scorpion fragments)
 > - **Locality and horizon**:
 > - **References**: Smithson et al., 2012；
 > - **Comments**: Previously dated as Visean.
 
-**Ballagan Formation, Tantallon Castle, East Lothian, Scotland**
+#### Ballagan Formation, Tantallon Castle, East Lothian, Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: *Tantallognathus woodi* Chen and Ahlberg, 2009.
 > - **Locality and horizon**: Ballagan Formation, Gin Head, Tantallon, near North Berwick, Scotland. 
@@ -179,7 +178,7 @@
 > - **Comments**: late Tournaisian or earliest Visean of Tantallon near North Berwick, Scotland (Chen and Ahlberg, 2009). Sedimentary rocks close to the fossil plant localities of Castleton Bay and Oxroad Bay (Smithson et al., 2012).
 
 ### Visean, Middle Mississipian, Carboniferous
-**Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa**
+#### Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa
 > - **Age**: Early Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: *Adroichthys tuberculatus*, *Mentzichthys walshi*, *Mentzichthys jubbi*, *Mentzichthys maraisi*, *Mentzichthys theroni*, *Aestuarichthys fulcratus*, *Soetendalichthys cromptoni* (synonym of *Aestuarichthys fulcratus*), *Australichthys longidorsalis*, *Willomorichthys striatulus*, *Sundayichthys elegantulus*, *Dwykia analensis*.
@@ -190,7 +189,7 @@
 > - **References**: 230, 250, 251, 252.
 > - **Comments**: Non-marine, lacustrine. 
 
-**Glencartholm Fish Bed, Dumfiresshire, Scotland**
+#### Glencartholm Fish Bed, Dumfiresshire, Scotland
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: *Protoeurynotus traquairi*, *Paramesolepis tuberculatus*, *Platysomus superbus*, *Cheirodopsis geikiei*, *Rhadinichthys canobiensis*, *Rhadinichthys macconochii*, *Rhadinichthys fusiformis*, *Rhadinichthys formosus*, *Rhadinichthys tuberculatus*, *Rhadinichthys* sp., *Cycloptychius concentricus*, *Mesopoma politum*, *Mesopoma pulchellum*, *Mesopoma crassum*, *Mesopoma macrocephalum*, *Canobius ramseyi*, *Canobius elegantulus*, *Canobius* sp., *Elonichthys serratus*, *Elonichthys pulcherrimus*, *Acrolepis ortholepis*, *Phanerosteon mirabile*, *Holurus parki*, *Styracopterus fulcratus*, *Tarrasius problematicus*.
@@ -204,7 +203,7 @@
 > - **References**: 1, 6, 10, 24, 39, 148, 253, 254, 255.
 > - **Comments**: nearshore marine. The Glencartholm Fish Bed is a thin unit within the Glencartholm Volcanic Beds of the Upper Border Group of the Calciferous Sandstone (Lumsden et al., 1967).
 
-**Burdiehouse limestone, Edinburgh, Scotland**
+#### Burdiehouse limestone, Edinburgh, Scotland
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: Elonichthys robinsoni, Elonichthys bucklandi, Elonichthys striatulus, Rhadinichthys ornatissimus, Nematoptychius greenocki, Gonatodus punctatus, Eurynotus crenatus, Elonichthys ovatus, Elonichthys striolatus.
@@ -217,7 +216,7 @@
 > - **References**: 6, 24, 41, 148, 256, 257, 258. 259, 260.
 > - **Comments**: Non-marine, lacustrine, alluvial.
 
-**Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australiay**
+#### Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australiay
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: Elonichthys sp., Unnamed actinopterygian.
@@ -228,27 +227,29 @@
 > - **Locality and horizon**: Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australia.
 > - **References**: 260, 261, 262, 263, 264, 265, 266.
 > - **Comments**: Non-marine, estuarine.
-**St. Louis Formation/limestone, Indiana, USA**
+
+#### St. Louis Formation/limestone, Indiana, USA
 > - **Age**: Visean
 > - **Taxa**: *Chomatodus newberryi*
 > - **Locality and horizon**: St. Louis Formation, Indiana, USA
 > - **References**:(Hay, 1902)
 > - **Comments**:
-**St. Louis Formation/limestone, Alton, Illinois, USA**
+
+#### St. Louis Formation/limestone, Alton, Illinois, USA
 > - **Age**: Visean
 > - **Taxa**: *Asteroptychius gracilis*, **, **
 > - **Locality and horizon**: St. Louis Formation/limestone, Alton, Illinois, USA
 > - **References**:(Newberry, 1897)
 > - **Comments**:
 
-**Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK**
+#### Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK
 > - **Age**: Visean
 > - **Taxa**: *Acanthodopsis acuta*
 > - **Locality and horizon**: Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK
 > - **References**:(Wellburn, 1902)
 > - **Comments**: 
 
-**Wardie Shales, Lower Lothian Group, Lothian, Scotland**
+#### Wardie Shales, Lower Lothian Group, Lothian, Scotland
 > - **Age**: Late Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: Cosmoptychius striatus, Nematoptychius greenocki, Elonichthys robinsoni, Elonichthys striatulus, Gonatodus punctatus, Eurynotus crenatus, Wardichthys cyclosoma, Rhadinichthys brevis, Rhadinichthys carinatus, Rhadinichthys ferox, Rhadinichthys orenatissimus, Chirodus sp.
@@ -261,7 +262,7 @@
 > - **References**: 6
 > - **Comments**: Non-marine, brackish lagoon.
 
-**Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland**
+#### Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland
 > - **Age**: Late Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Actinopterygii: Gonatodus punctatus, Elonichthys robinsoni, Elonichthys intermedius, Cosmoptychius striatus, Nematoptychius greenocki, Rhadinichthys brevis, Rhadinichthys elegantulus, Rhadinichthys formosus, Rhadinichthys ornatissimus, Wardichthys cyclosoma.
@@ -276,14 +277,14 @@
 The Gullane Shrimp Bed, exposed at Cheese Bay, on the East Lothian coast.
 The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Firth of Forth, about 3 km from the centre of Edinburgh. 
 
-**Granton Shrimp Bed, Firth of Forth, Scotland**
+#### Granton Shrimp Bed, Firth of Forth, Scotland
 > - **Age**: Visean.
 > - **Taxa**:
 > - **Locality and horizon**: Granton Shrimp Bed, Lower Oil Shale Group, Firth of Forth, Scotland*
 > - **References**:
 > - **Comments**: Early Dinantian, Tournasian; Late Dinantian, Visean.
 
-**East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland**
+#### East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland
 > - **Age**: Late Visean.
 > - **Taxa**:
 >> - Actinopterygii: Elonichthys robinsoni, Cosmoptychius sp., Watsonichthys sp., Rhadinichthys carinatus, Mesopoma sp., Eurynotus sp., Unnamed actinopterygian.
@@ -295,7 +296,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6, 268, 269.
 > - **Comments**: Non-marine, lacustrine.
 
-**Gilmerton Blackband Ironstone, Gilmerton, Scotland**
+#### Gilmerton Blackband Ironstone, Gilmerton, Scotland
 > - **Age**: Late Visean.
 > - **Taxa**:
 >> - Actinopterygii: Elonichthys robinsoni, Pseudogonatodus macrolepis, Eurynotus crenatus. Dipnoi: Uronemus splendens, Ctenodus interruptus, Sagenodus quinquecostatus.
@@ -306,7 +307,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6, 24, 235, 259, 260, 269, 270, 271, 272.
 > - **Comments**: Non-marine, lacustrine, alluvial.
 
-**Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, Fife, Scotland**
+#### Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, Fife, Scotland
 > - **Age**: Late Visean.
 > - **Taxa**:
 >> - Actinopterygii: Rhadinichthys carinatus, Rhadinoniscus wrighti, Elonichthys robinsoni, Watsonichthys pectinatus, Chirodus crassus.
@@ -318,14 +319,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6.
 > - **Comments**: Marine, marine forms stranded in a saline lagoon.
 
-**Black Rock Limestione, Bristol, UK**
+#### Black Rock Limestione, Bristol, UK
 > - **Age**: late Visean
 > - **Taxa**: *Chalazacanthus verrucosus*
 > - **Locality and horizon**: Black Rock Limestione, late Visean, Bristol, UK
 > - **References**:(Davis, 1883)
 > - **Comments**: late Visean to early Serpukhovian
 
-**Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland**
+#### Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland
 > - **Age**: Late Visean.
 > - **Taxa**:
 >> - Actinopterygii: Chirodus crassus, Eurynotus crenatus, Nematoptychius greenocki, Elonichthys robinsoni.
@@ -338,7 +339,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6, 24, 235, 272.
 > - **Comments**: Marine, open marine.
 
-**Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland**
+#### Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland
 > - **Age**: Late Visean.
 > - **Taxa**:
 >> - Actinopterygii: Psuedogonatodus sp., Elonichthys robinsoni, Nematoptychius sp., Eurynotus sp.
@@ -350,14 +351,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6.
 > - **Comments**: Non-marine, lacustrine. 
 
-**Lower Waugh Member, Ste Genevieve Formation, Iowa, USA**
+#### Lower Waugh Member, Ste Genevieve Formation, Iowa, USA
 > - **Age**: Visean.
 > - **Taxa**: Gyracanthus? jasperi, (Lombard & Bolt, 1995),
 > - **Locality and horizon**: Lower Waugh Member, Ste Genevieve Formation, Hiemstra Quarry, near Delta, Iowa, USA (41°17′41″N, 92°20′9″W).
 > - **References**: Snyder et al. (2024). Bolt,1990; Bolt & Lombard, 2006, 2010; Bolt et al., 1988; Lombard & Bolt, 1995; Schultze & Bolt, 1996.
 > - **Comments**: The age assignment follows Snyder et al. (2024).
 
-**Keokuk limestone, Keokuk, Iowa, USA**
+#### Keokuk limestone, Keokuk, Iowa, USA
 > - **Age**: Visean
 > - **Taxa**: *Ctenacanthus acutus*, *Ctenacanthus xiphias*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Keokuk limestone, Keokuk, Iowa, USA
@@ -367,7 +368,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > Late Dinantian in NW Europe 
 > East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
 
-**Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia**
+#### Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia
 > - **Age**: Visean.
 > - **Taxa**: *Bransonella nebraskensis*, *Cochliodus contortus*, *Oracanthus vetustus*
 > - **Locality and horizon**: Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia: 1, Polotnyany Zavod; 2, Vitsa; 3, Priksha River; 4, Kamenka; 5, Gryzlovo quarry; 6, Azarovo; 7, Erino; 8, Gorenki; 9, Ust-Buzuluk borehole 41.
@@ -378,7 +379,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 > - Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
 
-**Timan-Pechora Province, Russia**
+#### Timan-Pechora Province, Russia
 > - **Age**: Visean.
 > - **Taxa**:
 > - **Locality and horizon**: Timan-Pechora Province: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
@@ -386,7 +387,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: 
 
 ### Serpukhovian, Late Mississipian, Carboniferous
-**Manse Burn Formation, Bearsden, Scotland**
+#### Manse Burn Formation, Bearsden, Scotland
 > - **Age**: Early Serpukhovian.
 > - **Taxa**:
 >> - Actinopterygii: *Mesopoma carricki*, *Mesopoma smithsoni*, *Mesopoma pancheni*, *Frederichthys musadentatus*, *Melanecta anneiae*, *Woodichthys bearsdeni*, *Chirodus crassus*, Actinopterygii gen. et sp. nov., *Watsonichthys sp.*, Unnamed actinopterygian 1(MIC pers. obs.), Unnamed actinopterygian 2 (MIC pers. obs.).
@@ -400,7 +401,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:6, 273, 274, 275, 276, 277
 > - **Comments**: Marine, coastal.
 
-**Chokier Formation, Belgium**
+#### Chokier Formation, Belgium
 > - **Age**: Early Serpukhovian.
 > - **Taxa**:
 >> -  Actinopterygii: *Elonichthys robinsoni*, *Mesonichthys aitkeni*, *Rhadinichthys raineri*.
@@ -410,7 +411,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:205, 206.
 > - **Comments**:  Marine, open marine
 
-**Blackband Ironstone/Borough Lee Ironstone/Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland**
+#### Blackband Ironstone/Borough Lee Ironstone/Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - **Age**: Middle Serpukhovian.
 > - **Taxa**:
 >> -  Actinopterygii: Cryphiolepis striatus, Drydenius insignis, Elonichthys robinsoni, Protohaplolepis scotica, Nematoptychius greenocki, Pseudogonatodus parvidens, Eurynotus crenatus, Blairolepis loanheadensis, Watsonichthys pectinatus.
@@ -425,8 +426,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:6, 24, 28, 41, 148, 259, 260, 262, 271, 277, 278, 279, 280, 281, 282.
 > - **Comments**: Non-marine, lacustrine. Following a drafting error in the geological section published by Traquair (1903), the Blackband Ironstone from Burghlee (Borough Lee Ironstone of Traquair 1881, 1882, 1890a) was, for a long time, erroneously thought to be equivalent to the Loanhead Ironstone No 2. This was shown to be incorrect by Smithson (1985), who demonstrated that it was instead equivalent to the Rumbles Ironstone or Loanhead Ironstone No 3. This was later verified and confirmed by Andrews and Brand (in Andrews & Carroll 1991). The Rumbles Ironstone lies above the Great Seam (Tulloch & Walton 1958), near the top of the Limestone Coal Formation in the E1a ammonoid zone of the Pendleian substage of the Namurian in Scotland (Browne et al. 1999), in the upper part of the Serpukhovian, in the upper Mississippian (Smithson et al., 2019).
 
-
-**Upper Limestone Group, Niddrie, Lothian, Scotland**
+#### Upper Limestone Group, Niddrie, Lothian, Scotland
 > - **Age**: Middle Serpukhovian. 
 > - **Taxa**:
 >> - Dipnoi: Ctenodus interruptus.
@@ -437,7 +437,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 6, 260, 262, 281.
 > - **Comments**: Non-marine, lacustrine, coal swamp. 
 
-**Millstone Grit, Summit, Lancashire, England**
+#### Millstone Grit, Summit, Lancashire, England
 > - **Age**: Late Serpukhovian.
 > - **Taxa**:
 >> - Actinopterygii: Rhadinichthys planti, Rhadinichthys microdon, Rhadinichthys monensis, Rhadinichthys elegans, Elonichthys aitkeni, Elonichthys caudalis, Elonichthys oblongus, Acrolepis hopkinsi, Elonichthys obliquus, Elonichthys ornatus, Platysomus sp.
@@ -453,7 +453,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: 283, 284, 285, 286.
 > - **Comments**: Marine, coastal marine. 
 
-**Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, Scotland**
+#### Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, Scotland
 > - **Age**:Late Serpukhovian. 
 > - **Taxa**:
 >> - Actinopterygii: Psuedogonatodus sp. Rhizodontida: Strepsodus sp.
@@ -464,7 +464,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:6, 42, 235, 260, 281, 287, 288.
 > - **Comments**: Non-marine, lacustrine, coal swamp.
 
-**Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA**
+#### Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA
 > - **Age**: Late Serpukhovian.
 > - **Taxa**:
 >> - Actinopterygii: Paratarrasius hibbardi, Kalops monophrys, Kalops diophrys, Unnamed tarrasiiform, Aesopichthys erinaceus, Proceramala montanensis, Cyranorhis bergeraci, Discoserra pectinodon, Wendichthys dicksoni, Wendyichthys lautreci, Guildayichthys carnegiei, Unnamed actinopterygian “copiosus”, Unnamed actinopterygian “brevis”, Unnamed actinopterygian “prolatus”, Cornuboniscus sp., Unnamed actinopterygian “gulo”, Phanerosteon sp., Unnamed actinopterygian “lundae”, Unnamed actinopterygian “worm tail”, Unnamed actinopterygian “round tail”, Unnamed actinopterygian “spike”, Unnamed actinopterygian “BGLP”, Unnamed actinopterygian “big antorbital”, Unnamed actinopterygian “deep belly”, Unnamed actinopterygian “short vertical cheek”, Unnamed actinopterygian “nude cheek”, Unnamed actinopterygian “horizontal cheek”, Unnamed actinopterygian “fat fish”, Unnamed actinopterygian “deep scale”, Unnamed actinopterygian “long pelvic”, Unnamed actinopterygian “barred scale”, Unnamed actinopterygian “tube bod”, Unnamed actinopterygian “pseudo”, Beagiascus pulcherrimus, Lineagruan snowyi, Lineagruan judithi, Platysomus sp.
@@ -479,7 +479,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Marine, reef. Bear Gulch Limestone Lagerstatte.
 > - Early Namurian in NW Europe
 
-**Dashkovo Formation, Moscow and Kaluga Regions, Russia**
+#### Dashkovo Formation, Moscow and Kaluga Regions, Russia
 > - **Age**: Middle Serpukhovian. 
 > - **Taxa**: *Protochimaera mirabilis*
 > - **Locality and horizon**: Dashkovo Formation, Kalinovskie Vyselki (Moscow Region); Zaborye (Moscow Region); Zudna (Kaluga Region); Russia.
@@ -492,7 +492,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >
 > Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
 
-**Mazon Creek, Morris, Grundy County, Illinois, USA**
+#### Mazon Creek, Morris, Grundy County, Illinois, USA
 > - **Age**: Moscovian
 > - **Taxa**: *Acanthodes beecheri*, **, **
 > - **Locality and horizon**: Mazon Creek, Morris, Grundy County, Illinois, USA**
@@ -504,7 +504,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 > Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2â€?315.2â€…Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
 
-**Mazon Creek lagerstÃ¤tte**
+#### Mazon Creek lagerstÃ¤tte
 > - **Age**: upper Moscovian stage, Middle Pennsylvanian
 > - **Taxa**:
 >> - *Tullimonstrum gregarium* (Richardson,1966; Johnson & Richardson,1969)
@@ -525,7 +525,7 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - Essex biota (marine): *Tullimonstrum gregarium*
 > - Braidwood biota (freshwater): *Illiniichthys cozarti*
 
-**Edlington Spoil Tip Site, Yorkshire, Doncaster, UK**
+#### Edlington Spoil Tip Site, Yorkshire, Doncaster, UK
 > - **Age**: lower Westphalian in NW Europe. The age of fauna is considered to be early Westphalina (late Langsettian or early Duckmantian) and flora probably from the _Lonchopteris rugosa_ Zone.
 > - **Taxa**:
 >> - **plants**: Alethopteris decurrens (Artis) Zeiller, Alethopteris urophylla (Brongniart) Presl, Neuropteris obliqua (Brongniart) Zeiller, Laveineopteris loshii (Brongniart) Cleal et al., Cyclopteris sp., Paripteris pseudogigantea (Potonié) Gothan, ?Linopteris sp., Mariopteris muricata (Brongniart) Zeiller, Eusphenopteris sauveurii (Crépin) Simson-Scharold, Palmatopteris sp., Pecopteris plumosa (Artis) Brongniart, Sphenophyllum majus (Bronn) Bronn, Annularia radiata Brongniart, Annularia gallioides (Lindley and Hutton) Kidston, Asterophyllites equisetiformis Brongniart, Asterophyllites charaeformis (Sternberg) Unger, Calamites sp., Cordaites sp., Pinnularia sp., Lepidodendron cf. ophiurus Brongniart, Ulodendron landsburgii (Kidston) Thomas, Sigillaria sp., Lepidostrobus sp., Lepidostrobophyllum sp., Cyperites bicarinatus Lindley and Hutton, Asolanus camptotaenia Wood, as well as seeds (including Cordaicarpus) and cf. Whittleseya (pollen organ), and other fragments including cf. Potoniea and numerous indeterminate cone, lycopsid and general leafy twig/shoot fragments. **bivalves**: _Carbonicola_, _Anthraconaia_, _?Acharax radiata_ (Meek and Worthen), _Myalinella_ sp. **arthropods** (primarily xiphosurans): _Euproops rotundatus_ (Prestwich). **tentaculitids (microconchids)**: _Neuropteris obliqua_, _Spirorbis_ (Taylor and Vinn, 2006)
@@ -534,7 +534,7 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Lomax, _et al_., 2016
 > - **Comments**: The fossil remains are found in siderite nodules and shales. Unfortunately, as the remains derive from a spoil tip, they are unstratified and out of context.
 
-**Westphalian A (Langsettian) Lagerstatten, Lancashire, UK**
+#### Westphalian A (Langsettian) Lagerstatten, Lancashire, UK
 > - **Age**: Westphalian A (Langsettian), late Carboniferous
 > - **Taxa**: plants, nonmarine bivalves, crustaceans, insects, arthropleurid fragments, a euthycarcinoid,
 xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprolites
@@ -542,7 +542,7 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **References**: Anderson _et al_., 1997
 > - **Comments**: In common with many Upper Carboniferous Lagerstatten, the fossils are preserved within siderite nodules hosted by coal seam roof shales.
 
-**Joggins Fossil Cliffs, Joggins Formation, western Cumberland County, Nova Scotia, Canada**
+#### Joggins Fossil Cliffs, Joggins Formation, western Cumberland County, Nova Scotia, Canada
 > - **Age**: Moscovian
 > - **Taxa**:
 >> - Reptile: _Hylonomus lyelli_,
@@ -555,13 +555,15 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
-**Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA**
+
+#### Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
 > - **Age**: Kasimovian (Missourian)
 > - **Taxa**: chondrichthyans (*Acondylacanthus*, *Amelacanthus americanus*, *Bythiacanthus*, Hybodontidae, gen. et sp. indet., *"Physonemus" baculiformis*, *"Physonemus" stellatus*, **, **,)
 > - **Locality and horizon**: Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
 > - **References**: (Maisey, 1983)
 > - **Comments**:
-**Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA**
+
+#### Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
 > - **Age**: Kasimovian
 > - **Taxa**: chondrichthyans (*Cooleyella cuspidata*, *Cooleyella quadrilobata*, *Cooleyella spatulata*, *Cooleyella peculiaris*, *Cooperella subsulcata*, *Cooperella eroda*, * Cooperella rectistriata*, *Cooperella striatula*,*Cooperella selluliformis*, *Cooperella ? sp*, *Cooperella typicalis*, *Cooperella, sp.*, *Idiacanthus cameratus*, *Idiognathodus symmetricus*, **, **, **, **, **, **, **, **, **, **, )
 > - **Locality and horizon**: Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
@@ -569,21 +571,21 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Comments**:
 > - 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
-**Hamilton Quarry, Hamilton County, Kansas, USA**
+#### Hamilton Quarry, Hamilton County, Kansas, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: *Orthacanthus platypternus*, *Acanthodes bridgei*,
 > - **Locality and horizon**: Hamilton Quarry, Hamilton County, Kansas, USA
 > - **References**: (Zidek, 1976)
 > - **Comments**:
 > - 
-**Oscar Formation, southern Oklahoma, USA**
+#### Oscar Formation, southern Oklahoma, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: chondrichthyans (*Anodontacanthus belemnoideus*, , **, **,)
 > - **Locality and horizon**: Oscar Formation; Waurika #1 site, Jefferson County, southern Oklahoma, USA
 > - **References**: (Maisey, 1983; Shelton, 1979)
 > - **Comments**: Oscar Group, Preferred name of the Oklahoma Geol. Survey rather than Kansas names Council Grove and Chase. Described from Noble County, central northern Oklahoma. Includes (descending) Herington Limestone, Enterprise Shale, Winfield Limestone, Doyle Shale, Fort Riley Limestone, Matfield Shale, Wreford Limestone, Garrison Shale, and, in subsurface, Witney (Hodges) sand, Cottonwood Limestone, Hotson sand, and Neva Limestone. Total thickness about 650 feet; outcrop thickness about 300 feet. Overlies Vanoss Group (in subsurface); underlies Sumner Group. **Age is latest Pennsylvanian (Gearyan), based on fossil data (see Branson, 1962; Wilson and Rashid [abs.], 1971; Clendening [abs.], 1971); previously considered earliest Permian**. From (Shelton, 1979, Geology and mineral resources of Noble County, Oklahoma, with a chapter on petroleum by J.W. Shelton and W.A. Jenkins and a chapter on water resources by R.H. Bingham: Oklahoma Geological Survey Bulletin, no. 128, 66 p.)
 
-**Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau**
+#### Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: *Cladodus parauariensis*, 
 > - **Locality and horizon**: Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
@@ -1195,6 +1197,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
