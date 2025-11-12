@@ -2517,6 +2517,19 @@ George, H., Kammerer, C. F., Foffa, D., Clark, N. D. L., & Brusatte, S. (2024). 
 
 Scottish Natural Heritage. (n.d.). *CUTTIES HILLOCK Site of Special Scientific Interest SITE MANAGEMENT STATEMENT*. SNH.
 
+Arefiev, M. P., et al. (2015). Paleogeographical reorganization of the Moscow Syneclise during the Severodvinian (Capitanian–Wuchiapingian) time based on isotopic (d13C and d18O) and paleontological data. *Paleontological Journal*, *49*(11), 1165–1214.
+
+Benton, M. J., Newell, A. J., Khlyupin, A. Yu., Shumov, I. S., Price, G. D., & Kurkin, A. A. (2012). Preservation of exceptional vertebrate assemblages in Middle Permian fluviolacustrine mudstones of Kotel'nich, Russia: stratigraphy, sedimentology, and taphonomy. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *319-320*, 58–83. [https://doi.org/10.1016/j.palaeo.2012.01.005](https://doi.org/10.1016/j.palaeo.2012.01.005)
+
+Fröbisch, J., & Reisz, R. R. (2009). The Late Permian herbivore Suminia and the early evolution of arboreality in terrestrial vertebrate ecosystems. *Proceedings of the Royal Society B: Biological Sciences*, *276*(1673), 3611–3618. [https://doi.org/10.1098/rspb.2009.0911](https://doi.org/10.1098/rspb.2009.0911)
+
+Ivakhnenko, M. F. (2011). Permian and Triassic therocephals (Eutherapsida) of Eastern Europe. *Paleontological Journal*, *45*(9), 981–1144.
+
+Kammerer, C. F., & Masyutin, V. (2018). Gorgonopsian therapsids (Nochnitsa gen. nov. and Viatkogorgon) from the Permian Kotelnich locality of Russia. *PeerJ*, *6*:e4954. [https://doi.org/10.7717/peerj.4954](https://doi.org/10.7717/peerj.4954)
+
+Kordikova, E. G., & Khlyupin, A. J. (2001). First evidence of a neonate dentition in pareiasaurs from the Upper Permian of Russia. *Acta Palaeontologica Polonica*, *46*(4), 589–594.
+
+Tatarinov, L. P. (1997). Noviy skalopozavr (Reptilia, Theriodonta) s neobychnoy sensornoy sistemoy iz verkhney Permy Kirovskoy Oblasty. *Paleontologicheskii Zhurnal*, *1997*(6), 88–95.
 
 
 
