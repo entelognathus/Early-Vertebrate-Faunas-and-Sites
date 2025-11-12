@@ -542,10 +542,10 @@
 > - **Comments**:  
 
 **Urpalov Formation, Vyatka River Region, Russia**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: lowermost Wuchiapingian, Lopingian, Permian
+> - **Taxa**: Parareptilia: *Deltavjatia vjatkensis*, *Emeroleter laevis*, *Chroniosaurus* sp..: Therapsida: *Suminia getmanovi*, *Viatkogorgon ivakhnenkoi*, *Nochnitsa geminidens*, *Proburnetia viatkensis*, *Perplexisaurus foveatus*, *Perplexisaurus lepusculus*, *Viatkosuchus sumini*, *Karenites ornamentatus*, *Chlynovia serridentata*, *Scalopodon tenuifrons*, *Scalopodontes kotelnichi*, *Kotelcephalon viatkensis*, *Muchia microdenta*.
+> - **Locality and horizon**: Kotel'nich locality, western (right) bank of the Vyatka River, Kirov district, Russia (Kordikova & Khlyupin, 2001). Fossils are primarily from red calcareous mudstones and brownish-red siltstones (Kordikova & Khlyupin, 2001; Benton et al., 2012) of the **Vanyushonkov Member** (also Vanyushenki) (Kordikova & Khlyupin, 2001; Benton et al., 2012), the main fossiliferous horizon of the **Urpalov Formation** (Kordikova & Khlyupin, 2001). This corresponds to the *Deltavjatia vjatkensis* Assemblage Zone (Arefiev et al., 2015).
+> - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
 > - **Comments**:  
 
 **Salarevo Formation, Northern Dvina Basin, Russia**  
@@ -2516,6 +2516,7 @@ Cruickshank, A. R. I., Clark, N. D. L., & Adams, C. (2005). A new specimen of *D
 George, H., Kammerer, C. F., Foffa, D., Clark, N. D. L., & Brusatte, S. (2024). Micro-CT data reveals new information on the craniomandibular and neuroanatomy of the dicynodont Gordonia (Therapsida: Anomodontia) from the late Permian of Scotland. *Zoological Journal of the Linnean Society*, 1–31. [https://doi.org/10.1093/zoolinnean/zlae065](https://doi.org/10.1093/zoolinnean/zlae065)
 
 Scottish Natural Heritage. (n.d.). *CUTTIES HILLOCK Site of Special Scientific Interest SITE MANAGEMENT STATEMENT*. SNH.
+
 
 
 
