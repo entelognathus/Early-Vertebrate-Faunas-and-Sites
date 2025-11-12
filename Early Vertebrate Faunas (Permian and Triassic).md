@@ -549,10 +549,10 @@
 > - **Comments**:  
 
 **Salarevo Formation, Northern Dvina Basin, Russia**  
-> - **Age**:  
-> - **Taxa**:  
-> - **Locality and horizon**:  
-> - **References**:  
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
+> - **Taxa**: Parareptilia/Amphibia: *Dvinosaurus primus*, *Kotlassia prima*, *Karpinskiosaurus secundus*, *Chroniosuchus licharevi*, *Chroniosuchus vjuschkovi*, *Scutosaurus karpinskii*, *Scutosaurus tuberculatus*, *Suchonosaurus minimus*.: Therapsida: *Inostrancevia alexandri*, *Inostrancevia latifrons*, *Pravoslavlevia parva*, *Annatherapsidus petri*, *Dvinia prima*, *Elph borealis*, *Fortunodon trautscholdi*, *Fortunodon amalitzkii*, *Dicynodon amalitzkii*, *Dicynodon trautscholdi*, *Peramodon* sp.: Actinopterygii: *Isadia arefievi*
+> - **Locality and horizon**: Includes the Sokolki (PIN 2005), Zavrazh'e (PIN 2353, 2356), Savvatii, Aristovo, and Eleonora localities. These are located in the Arkhangelsk and Vologda Regions, along the Malaya Northern Dvina and Sukhona Rivers. Fossils are characteristic of the **Komaritsa Member** of the **Salarevo Formation**, corresponding to the **Sokolki Subassemblage** of the **Sokolki Assemblage** (Bulanov, 2003; Sennikov et al., 2003; Aristov et al., 2013; Minikh et al., 2015; Arefiev et al., 2015).
+> - **References**: Arefiev et al., 2015; Aristov et al., 2013; Bulanov, 2003; Golubev, 2000a; Ivakhnenko, 2008; Minikh et al., 2015; Sennikov et al., 2003; Sushkin, 1926; Tverdokhlebova and Ivakhnenko, 1994; Yakimenko et al., 2000.
 > - **Comments**:  
 
 
@@ -2530,6 +2530,7 @@ Kammerer, C. F., & Masyutin, V. (2018). Gorgonopsian therapsids (Nochnitsa gen. 
 Kordikova, E. G., & Khlyupin, A. J. (2001). First evidence of a neonate dentition in pareiasaurs from the Upper Permian of Russia. *Acta Palaeontologica Polonica*, *46*(4), 589–594.
 
 Tatarinov, L. P. (1997). Noviy skalopozavr (Reptilia, Theriodonta) s neobychnoy sensornoy sistemoy iz verkhney Permy Kirovskoy Oblasty. *Paleontologicheskii Zhurnal*, *1997*(6), 88–95.
+
 
 
 
