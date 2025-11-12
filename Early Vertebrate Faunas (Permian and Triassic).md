@@ -77,7 +77,7 @@
 
 **Pedra de Fogo Formation, Parnaíba Basin, Brazil**
 > - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian), Permian.
-> - **Taxa**:
+> - **Taxa**: *Anisopleurodontis pricei*, *Itapyrodus punctatus* (Chondrichthyes). *Brazilichthys macrognathus* (Actinopterygii). *Prionosuchus plummeri* (Temnospondyli). *Timonya anneae*, *Procuhy nazariensis* (Temnospondyli). *Captorhinikos* sp., Moradisaurinae Gen. et sp. indet. (Reptilia).
 > - **Locality and horizon**: Vertebrate fossils are distributed widely across Maranhão, Piauí, and Tocantins states. The principal fossil sites include Pastos Bons and Nova Iorque (Maranhão) yielding Prionosuchus and chondrichthyan remains from silty shale and chert layers; the Timon–Nazária region (Maranhão–Piauí) preserving Timonya, Procuhy, and captorhinids from lacustrine siltstones of the lower Pedra de Fogo Formation; and Guaraí (Tocantins), which has yielded fin spines and scales of sharks and palaeonisciform fishes (Price, 1948; Cisneros et al., 2015; Alves, 2010b). Most vertebrate-bearing levels correspond to the lower to middle parts of the formation (Basal Silex and lower Middle members).
 > - **References**:
 > - **Comments**: 
@@ -2550,6 +2550,7 @@ Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new or
 Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
 
 Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
+
 
 
 
