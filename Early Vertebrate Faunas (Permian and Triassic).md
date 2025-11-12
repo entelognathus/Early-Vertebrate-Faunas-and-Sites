@@ -17,7 +17,7 @@
 > - **Comments**: *Diadectes* fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
 
 **Abo Formation, New Mexico, USA**
-> - **Age**: Cisuralian (Early Permian), Permian.
+> - **Age**: Cisuralian, Permian.
 > - **Taxa**:
 >> - Synapsida: *Dimetrodon occidentalis*.
 >> - Dipnoi (lungfishes): *Gnathorhiza* sp..
@@ -25,6 +25,20 @@
 > - **Locality and horizon**: The Abo Formation is widely exposed in central New Mexico (type section at Abo Pass, Socorro County) and lies disconformably atop the Upper Pennsylvanian Bursum Formation, with a conformable contact below the Lower Permian Yeso Group (Lucas et al., 2013). Vertebrate remains from the Spanish Queen Mine near Jemez Springs (Sandoval County) further support assignment of the Abo to the Wolfcampian (early Permian) land-vertebrate age (Hunt and Lucas, 1996).
 > - **References**: Lucas et al., 2016; Berman, 1977; Lucas et al., 2013; Berman and Reisz, 1980; Hunt and Lucas, 1996; Lucas et al., 2001
 > - **Comments**: middle Wolfcampian to early Leonardian.
+
+**Waggoner Ranch Formation, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+**Petrolia Formation, Texas, USA**
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 **Goldlauter Formation, Thuringian Forest, Germany**
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
@@ -2536,6 +2550,7 @@ Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new or
 Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
 
 Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
+
 
 
 
