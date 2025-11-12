@@ -11,7 +11,7 @@
 ## Cisuralian (Early Permian)
 **Cutler Formation, Four Corners (Colorado/Utah/Arizona/New Mexico), USA**
 > - **Age**: Asselian to Sakmarian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Chondrichthyes: *Xenacanthus* sp. (freshwater xenacanthid shark), Actinopterygii: *Progyrolepis* sp. (palaeoniscoid fish), Dipnoi (lungfish): *Sagenodus* sp., emnospondyli (amphibians): *Eryops grandis*, *Platyhystrix rugosus*, *Zatrachys serratus*, *Chenoprosopus milleri*, *Ecolsonia cutlerensis*, Lepospondyli: *Stegotretus agyrus*, Seymouriamorpha: *Seymouria sanjuanensis*, Diadectomorpha: *Limnoscelis paludis*, *Limnoscelis dynatis*, *Diadectes lentus*, *Tseajaia campi*, Captorhinidae: *Rhiodenticulatus heatoni*, Araeoscelidia: *Zarcasaurus tanyderus*, Synapsida (early pelycosaurs): *Oedaleops campi* (eothyridid), *Aerosaurus wellesi* (varanopseid), *Ophiacodon mirus* (ophiacodontid), *Edaphosaurus novomexicanus* (edaphosaurid), *Sphenacodon ferox* (sphenacodontid)
+> - **Taxa**: Chondrichthyes: *Xenacanthus* sp. (freshwater xenacanthid shark), Actinopterygii: *Progyrolepis* sp. (palaeoniscoid fish), Dipnoi (lungfish): *Sagenodus* sp., Temnospondyli (amphibians): *Eryops grandis*, *Platyhystrix rugosus*, *Zatrachys serratus*, *Chenoprosopus milleri*, *Ecolsonia cutlerensis*, Lepospondyli: *Stegotretus agyrus*, Seymouriamorpha: *Seymouria sanjuanensis*, Diadectomorpha: *Limnoscelis paludis*, *Limnoscelis dynatis*, *Diadectes lentus*, *Tseajaia campi*, Captorhinidae: *Rhiodenticulatus heatoni*, Araeoscelidia: *Zarcasaurus tanyderus*, Synapsida (early pelycosaurs): *Oedaleops campi* (eothyridid), *Aerosaurus wellesi* (varanopseid), *Ophiacodon mirus* (ophiacodontid), *Edaphosaurus novomexicanus* (edaphosaurid), *Sphenacodon ferox* (sphenacodontid)
 > - **Locality and horizon**: Exposed across the Four Corners region, notably in the Paradox Basin and Chama Basin. Key fossil sites include Placerville area (western Colorado) and Cañon del Cobre/Arroyo del Agua in north-central New Mexico, as well as Halgaito Formation outcrops in the Monument Valley region of Utah. Vertebrate remains derive from fluvial red-bed strata of the lower Cutler Group (e.g. Halgaito Tongue / El Cobre Canyon Formation), often in channel-fill conglomerates and sandstones near the Pennsylvanian–Permian boundary.
 > - **References**: Lewis and Vaughn, 1965; Hunt and Lucas, 1992; Berman et al., 1985; Lucas et al., 2010;
 > - **Comments**: *Diadectes* fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
@@ -2550,6 +2550,7 @@ Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new or
 Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
 
 Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
+
 
 
 
