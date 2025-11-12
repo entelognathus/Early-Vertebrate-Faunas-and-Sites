@@ -2531,6 +2531,21 @@ Kordikova, E. G., & Khlyupin, A. J. (2001). First evidence of a neonate dentitio
 
 Tatarinov, L. P. (1997). Noviy skalopozavr (Reptilia, Theriodonta) s neobychnoy sensornoy sistemoy iz verkhney Permy Kirovskoy Oblasty. *Paleontologicheskii Zhurnal*, *1997*(6), 88–95.
 
+Arefiev, M. P., Golubev, V. K., & Kurkin, A. A. (2015)..... Retrieved from http://www.ginras.ru/materials/files/2015-Arefiev.pdf
+
+Aristov, D. S., et al. (2013). Vyatkian–Olenekian Localities. *Paleontological Journal*, *47*(7), 661-662.
+
+Bulanov, V. V. (2003). Evolution and systematics of seymouriamorph parareptiles. *Paleontological Journal*, *37*(Suppl. 1), S1-S105.
+
+Golubev, V. K. (2000a). Permian and Triassic chronosuchians and biostratigraphy of the upper Tatarian deposits of Eastern Europe by tetrapods. *Trudy Paleontologicheskogo Instituta*, *276*, 1-176.
+
+Minikh, A. V., Arefiev, M. P., & Golubev, V. K. (2015). A new fish species of the genus $Isadia$ (Actinopterygii, Eurynotoidiformes) from the new locality on the Malaya Northern Dvina river (terminal Permian, Vologda Region). *Paleontological Journal*, *49*(6), 615–626.
+
+Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new oryctocenosis of the aquatic vertebrate community from the Late Permian of Central Russia. *Paleontological Journal*, *37*(4), 416-423.
+
+Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
+
+Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
 
 
 
