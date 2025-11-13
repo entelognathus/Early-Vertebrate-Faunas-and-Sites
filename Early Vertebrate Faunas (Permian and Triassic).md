@@ -2551,6 +2551,29 @@ Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
 
 Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
 
+Clark, J., & Carroll, R. L. (1973). Romeriid reptiles from the Lower Permian. *Bulletin of the Museum of Comparative Zoology*, *144*(5), 353–407.
+
+Fox, R. C., & Bowman, M. C. (1966). Osteology and Relationships of Captorhinus aguti (Cope) (Reptilia: Captorhinomorpha). *The University of Kansas Paleontological Contributions, Series Vertebrata*, *11*, 1–79.
+
+Heaton, M. J. (1979). *Cranial Anatomy of Primitive Captorhinid Reptiles from the Late Pennsylvanian and Early Permian, Oklahoma and Texas*. Oklahoma Geological Survey, Bulletin 127, 1–84.
+
+Hentz, T. F. (1988). *Lithostratigraphy and Paleoenvironments of Upper Paleozoic Continental Red Beds, North-Central Texas: Bowie (New) and Wichita (Revised) Groups*. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations No. 170.
+
+Johnson, G. D. (2008). Ctenacanthiform Cladodont Teeth from the Lower PermianWichita Group, Texas, U.S.A. *Acta Geologica Polonica*, *58*(2), 205–209.
+
+Mamay, S. H., Hook, R. W., & Hotton III, N. (1998). Amphibian eggs from the Lower Permian of north-central Texas. *Journal of Vertebrate Paleontology*, *18*(Supplement to 3), 61A.
+
+Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. *University of Texas Bulletin*, *2801*, 67–108.
+
+Romer, A. S., & Price, L. I. (1940). Review of the Pelycosauria. *Geological Society of America Special Paper*, *28*, 1–538.
+
+Sumida, S. S., Dodick, J., Metcalf, A., & Albright, G. (2010). Reiszorhinus olsoni, a new single-tooth-rowed captorhinid reptile from the Lower Permian of Texas. *Journal of Vertebrate Paleontology*, *30*(3), 704–714.
+
+Vaughn, P. P. (1955). The Permian reptile Araeoscelis restudied. *Bulletin of the Museum of Comparative Zoology*, *113*(5), 303–467.
+
+Williston, S. W. (1914). Broiliellus, a new genus of amphibians from the Permian of Texas. *Journal of Geology*, *22*(1), 49–56.
+
+Williston, S. W. (1915). New genera of Permian reptiles. *The American Journal of Science, Series 4*, *39*(233), 575–579.
 
 
 
