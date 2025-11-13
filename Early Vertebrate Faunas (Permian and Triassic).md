@@ -34,10 +34,10 @@
 > - **Comments**: 
 
 **Petrolia Formation, Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Cisuralian, Early Permian
+> - **Taxa**: Chondrichthyes: Undetermined hybodont spine. Acanthodii: *Acanthodes* sp. Osteichthyes: *Platysomus* sp., *Sagenodus* sp., *Spermatodus pustulosus*. Temnospondyli: *Eryops* sp. (*E. megacephalus*), *Trimerorhachis* sp., *Zatrachys* sp., *Aspidosaurus* sp. (*A. glascocki*), *Tersomius texensis*, *Parioxys ferricolus*. Lepospondyli: *Cardiocephalus sternbergi*. Reptiliomorpha: *Cricotus* sp. Diadectomorpha: *Diadectes* sp. (*D. sideropelicus*). Eureptilia: *Protocaptorhinus pricei*, *Bolosaurus striatus*, *B. major*. Synapsida: *Dimetrodon* sp. (*D. macrospondylus*, *D. natalis*, *D. booneorum*, *D. limbatus*), *Ctenospondylus casei*, *Ophiacodon* sp. (*O. retroversus*, *O. uniformis*, *O. major*), *Varanosaurus wichitaensis*, *Secodontosaurus obtusidens*, *Edaphosaurus* sp. (*E. cruciger*), *Eothyris parkeyi*, *Casea* sp. 
+> - **Locality and horizon**: Middle formation of the Wichita Group, overlying the Nocona Formation and underlying the Waggoner Ranch Formation (Hentz, 1988). Outcrops in Archer, Baylor, Wichita, and Clay Counties, Texas (Hentz, 1988). Specific fossil localities include Tit Mountain (Archer Co.), Mount Barry (Wichita Co.), Slippery Creek locality (Archer Co.), Rattlesnake Canyon (lowermost Petrolia Fm.), and South of Fulda locality (Baylor Co.) (Romer, 1928; Clark and Carroll, 1973; Reisz et al., 2009; Schoch and Sues, 2022).
+> - **References**: Berman et al., 1992; Clark and Carroll, 1973; Hentz, 1988; Hotton et al., 2002; Pawley and Warren, 2006; Reisz et al., 2009; Romer, 1928; Scheyer, 2007; Schoch and Sues, 2022
 > - **Comments**: 
 
 **Goldlauter Formation, Thuringian Forest, Germany**
@@ -2574,6 +2574,7 @@ Vaughn, P. P. (1955). The Permian reptile Araeoscelis restudied. *Bulletin of th
 Williston, S. W. (1914). Broiliellus, a new genus of amphibians from the Permian of Texas. *Journal of Geology*, *22*(1), 49–56.
 
 Williston, S. W. (1915). New genera of Permian reptiles. *The American Journal of Science, Series 4*, *39*(233), 575–579.
+
 
 
 
