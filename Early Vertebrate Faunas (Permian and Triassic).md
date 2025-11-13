@@ -11,7 +11,7 @@
 ## Cisuralian (Early Permian)
 **Cutler Formation, Four Corners (Colorado/Utah/Arizona/New Mexico), USA**
 > - **Age**: Asselian to Sakmarian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Chondrichthyes: *Xenacanthus* sp. (freshwater xenacanthid shark), Actinopterygii: *Progyrolepis* sp. (palaeoniscoid fish), Dipnoi (lungfish): *Sagenodus* sp., Temnospondyli (amphibians): *Eryops grandis*, *Platyhystrix rugosus*, *Zatrachys serratus*, *Chenoprosopus milleri*, *Ecolsonia cutlerensis*, Lepospondyli: *Stegotretus agyrus*, Seymouriamorpha: *Seymouria sanjuanensis*, Diadectomorpha: *Limnoscelis paludis*, *Limnoscelis dynatis*, *Diadectes lentus*, *Tseajaia campi*, Captorhinidae: *Rhiodenticulatus heatoni*, Araeoscelidia: *Zarcasaurus tanyderus*, Synapsida (early pelycosaurs): *Oedaleops campi* (eothyridid), *Aerosaurus wellesi* (varanopseid), *Ophiacodon mirus* (ophiacodontid), *Edaphosaurus novomexicanus* (edaphosaurid), *Sphenacodon ferox* (sphenacodontid)
+> - **Taxa**: Chondrichthyes: *Xenacanthus* sp. (freshwater xenacanthid shark), Actinopterygii: *Progyrolepis* sp. (palaeoniscoid fish), Dipnoi (lungfish): *Sagenodus* sp., Temnospondyli (amphibians): *Eryops grandis*, *Platyhystrix rugosus*, *Zatrachys serratus*, *Chenoprosopus milleri*, *Ecolsonia cutlerensis*, Lepospondyli: *Stegotretus agyrus*, Seymouriamorpha: *Seymouria sanjuanensis*, Diadectomorpha: *Limnoscelis paludis*, *Limnoscelis dynatis*, *Diadectes lentus*, *Tseajaia campi*, Captorhinidae: *Rhiodenticulatus heatoni*, Araeoscelidia: *Zarcasaurus tanyderus*, Synapsida (early pelycosaurs): *Cutleria wilmarthi*, *Oedaleops campi* (eothyridid), *Aerosaurus wellesi* (varanopseid), *Ophiacodon mirus* (ophiacodontid), *Edaphosaurus novomexicanus* (edaphosaurid), *Sphenacodon ferox* (sphenacodontid)
 > - **Locality and horizon**: Exposed across the Four Corners region, notably in the Paradox Basin and Chama Basin. Key fossil sites include Placerville area (western Colorado) and Cañon del Cobre/Arroyo del Agua in north-central New Mexico, as well as Halgaito Formation outcrops in the Monument Valley region of Utah. Vertebrate remains derive from fluvial red-bed strata of the lower Cutler Group (e.g. Halgaito Tongue / El Cobre Canyon Formation), often in channel-fill conglomerates and sandstones near the Pennsylvanian–Permian boundary.
 > - **References**: Lewis and Vaughn, 1965; Hunt and Lucas, 1992; Berman et al., 1985; Lucas et al., 2010;
 > - **Comments**: *Diadectes* fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
@@ -241,13 +241,6 @@
 > - **Taxa**: Caseidae: Angelosaurus dolani, Caseoides sanangeloensis. Sphenacodontidae: Dimetrodon angelensis
 > - **Locality and horizon**: The San Angelo Formation crops out in north‑central Texas (Hardeman, Foard, Jones counties) as the basal unit of the Pease River Group; vertebrate fossils occur in red shales, sandstones and conglomerates of flood‑plain deposits between the underlying Choza Formation (Clear Fork Group) and the overlying Blaine Formation.
 > - **References**: Olson & Beerbower, 1953; Beede & Waite, 1918.
-> - **Comments**:
-
-**Cutler Formation, Colorado, USA**
-> - **Age**: Wolfcampian, Early Permian
-> - **Taxa**: Temnospondyli: Conjunctio cf. C. multidens, Eryops grandis. Synapsida: Cutleria wilmarthi, Sphenacodon ferocior, Ophiacodon sp.. Diadectomorpha: Diadectes sp.. Parareptilia: Bolosaurus sp.
-> - **Locality and horizon**: Fossils are from the Placerville area in San Miguel County, Colorado; they occur in red‑bed deposits of the undivided Cutler Formation (Wolfcampian) exposed near Cutler Creek and correlate with classic Lower Permian continental formations.
-> - **References**: Lewis & Vaughn, 1965; Lucas et al., 2005; Condon, 1997; Gee et al., 2021; Grazul et al., 2015.
 > - **Comments**:
 
 **Organ Rock Shale (Cutler Group), Utah–Arizona, USA**
@@ -2592,6 +2585,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
