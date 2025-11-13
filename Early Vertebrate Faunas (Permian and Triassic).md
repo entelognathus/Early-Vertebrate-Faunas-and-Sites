@@ -2575,6 +2575,23 @@ Williston, S. W. (1914). Broiliellus, a new genus of amphibians from the Permian
 
 Williston, S. W. (1915). New genera of Permian reptiles. *The American Journal of Science, Series 4*, *39*(233), 575–579.
 
+Berman, D. S., Sumida, S. S., & Lombard, R. E. (1992). Reinterpretation of the systematic position of *Casea* and the evolution of permutation in synapsids. *Journal of Paleontology*, *66*(3), 481-499.
+
+Clark, J., & Carroll, R. L. (1973). Romeriid reptiles from the Lower Permian. *Bulletin of the Museum of Comparative Zoology*, *144*(5), 353–407.
+
+Hentz, T. F. (1988). *Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas: Bowie (new) and Wichita (revised) Groups*. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations No. 170, 55 p.
+
+Hotton, N., III, Feldmann, R. M., Hook, R. W., & DiMichele, W. A. (2002). Crustacean-bearing continental deposits in the Petrolia Formation (Leonardian Series, Lower Permian) of north-central Texas. *Journal of Paleontology*, *76*(3), 486–494.
+
+Pawley, K., & Warren, A. (2006). The appendicular skeleton of *Eryops megacephalus* (Temnospondyli: Eryopoidea) from the Lower Permian of North America. *Journal of Paleontology*, *80*(3), 561–580.
+
+Reisz, R. R., Godfrey, S. J., & Scott, D. (2009). *Eothyris* and *Oedaleops*: Do these Early Permian synapsids from Texas and New Mexico form a clade? *Journal of Vertebrate Paleontology*, *29*(1), 39–47.
+
+Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. *University of Texas Bulletin*, *2801*, 67–108.
+
+Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
+
+Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
 
 
 
