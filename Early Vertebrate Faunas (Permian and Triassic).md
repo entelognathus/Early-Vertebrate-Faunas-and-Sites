@@ -27,10 +27,10 @@
 > - **Comments**: middle Wolfcampian to early Leonardian.
 
 **Waggoner Ranch Formation, Texas, USA**
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Artinskian-Kungurian, Cisuralian, Early Permian
+> - **Taxa**: Chondrichthyes: *Glikmanius occidentalis*. Temnospondyli: *Broiliellus texensis*, *Eryops megacephalus*, *Eryops* sp., *Trimerorhachis* sp.. Lepospondyli: *Diplocaulus* sp.. Diadectomorpha: *Chilonyx rapidens*, *Diadectes sideropelicus*, *Diadectes* sp.. Reptilia: *Araeoscelis casei*, *Captorhinus aguti*, *Captorhinus laticeps*, *Pantylus cordatus*, *Protocaptorhinus cf. pricei*, *Reiszorhinus olsoni*, *Captorhinus* sp.. Synapsida: *Dimetrodon limbatus*, *Glaucosaurus megalops*, *Mycterosaurus longiceps*, *Ophiacodon major*, *Secodontosaurus obtusidens*, *Varanosaurus wichitaensis*, *Dimetrodon* sp., *Ophiacodon* sp.
+> - **Locality and horizon**: Located in Baylor, Archer, Wichita, and Wilbarger Counties, north-central Texas. Key localities include Mitchell Creek, Mount Barry, and the Bluff Bonebed. Stratigraphically, it is the upper formation of the Wichita Group, overlying the Petrolia Formation and underlying the Arroyo Formation (Clear Fork Group). (Hentz, 1988; Romer, 1928; Sumida et al., 2010; Fox & Bowman, 1966).
+> - **References**: Clark & Carroll, 1973; Fox & Bowman, 1966; Heaton, 1979; Hentz, 1988; Johnson, 2008; Mamay et al., 1998; Romer, 1928; Romer & Price, 1940; Sumida et al., 2010; Vaughn, 1955; Williston, 1914; Williston, 1915
 > - **Comments**: 
 
 **Petrolia Formation, Texas, USA**
@@ -2550,6 +2550,7 @@ Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new or
 Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
 
 Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
+
 
 
 
