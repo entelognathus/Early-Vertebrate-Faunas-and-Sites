@@ -386,6 +386,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Lebedev, 1996
 > - **Comments**: 
 
+
 ### Serpukhovian, Late Mississipian, Carboniferous
 #### Manse Burn Formation, Bearsden, Scotland
 > - **Age**: Early Serpukhovian.
@@ -400,7 +401,12 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Locality and horizon**: Manse Burn Formation, Bearsden, Scotland.
 > - **References**:6, 273, 274, 275, 276, 277
 > - **Comments**: Marine, coastal.
-
+#### Chester limestone, Chester, Illinois, USA
+> - **Age**: Serpukhovian.
+> - **Taxa**: *Ctenacanthus cannaliratus*
+> - **Locality and horizon**: Chester limestone, Chester, Illinois, USA
+> - **References**:(St. John and Worthen, 1883)
+> - **Comments**: 
 #### Chokier Formation, Belgium
 > - **Age**: Early Serpukhovian.
 > - **Taxa**:
@@ -1203,6 +1209,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
