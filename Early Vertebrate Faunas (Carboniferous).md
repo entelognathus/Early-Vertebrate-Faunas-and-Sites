@@ -503,6 +503,12 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > Westphalian in NW Europe
 
 > Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2â€?315.2â€…Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
+#### Upper Coal Measures, Manhattan, Kansas, USA
+> - **Age**: upper Moscovian
+> - **Taxa**: *Acondylacanthus mudgianus*, **, **
+> - **Locality and horizon**: Upper Coal Measures, Rock Creek, Manhattan, Kansas, USA
+> - **References**:(St. John and Worthen, 1883)
+> - **Comments**: Comparison of Upper Coal Measures miospore assemblages with those recorded from parts of Russia and the United States suggests correlation with the upper parts of the Moscovian and Desmoinesian Series, respectively. There is some doubt regarding the presence in Britain of assemblages equivalent to those recorded from the highest parts of either of these series (Butterworth and Smith, 1976). 
 
 #### Mazon Creek lagerstÃ¤tte
 > - **Age**: upper Moscovian stage, Middle Pennsylvanian
@@ -1197,6 +1203,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
