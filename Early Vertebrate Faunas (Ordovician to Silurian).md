@@ -675,7 +675,7 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 > Ainiktozoon loganense, Jamoytius kerwoodi, L. scotica
 
 ## Wenlock
-1) **Chargat Formation, Mongolia**
+#### Chargat Formation, Mongolia
 > - **Age**: Sheinwoodian, Wenlock.
 > - **Taxa**:Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*, *Loganellia asiatica*, *Loganellia sibrica*, *Loganellia tuvaensis*. Chondrichthyes: *Mongolepis rozmanae*, *Sodolepis lucens*, *Teslepis jucunda*, *Deltalepis parva*, *Deltalepis magna*.
 > - **Locality and horizon**: Khutsynbulak Beds, Chargat Formation, Mount Tchagartay, Mongolia.
@@ -683,7 +683,7 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 > - **Comments**: Žigaitė (2013): "The samples analysed originate from the Lake Basin outcrop at the Chargat locality, in the Khutsyn–Bulag Member (Khutsynbulak Beds) of the Lower Wenlock Chargat Formation (Rozman 1986; Minjin et al. 2001). ...The limestone inliers represent marginal shallow-water sedimentary facies rich in fauna, including the numerous vertebrate microremains first reported by Karatajute-Talimaa et al. (1990)." Andreev et al. (2017) used the age 'Salhit Regional Stage, Upper Llandovery to Lower Wenlock' for the Chargat Formation. Here we adopted the age assignment of Žigaitė (2013).
 
 
-2a) **Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
+#### 2a) Baytal Formation, Elegest and Kadvoi Localities, Central Tuva, Russia
 > - **Age**: Sheinwoodian, Wenlock.
 > - **Taxa**: Thelodonti: Helenolepis multicostata, Helenolepis obruchevi, Helenolepis sp., Loganellia tuvaensis, Talimaalepis kadvoiensis.
 Osteostraci: indet.
@@ -693,29 +693,28 @@ Chondrichthyes: Elegestolepis grossi, Udalepis sp.
 > - **References**: (Karatajūte-Talimaa, 1973; Sennikov et al., 2015; Vladimirskaya and Kulkov, 1999)
 > - **Comments**:
 
-2b) **Dashtygoi Formation, Elegest and Kadvoi Localities, Central Tuva, Russia**
+#### 2b) Dashtygoi Formation, Elegest and Kadvoi Localities, Central Tuva, Russia
 > - **Age**: Homerian, Wenlock.
 > - **Taxa**: Thelodonti: *Loganellia sibrica*,
 > - **Locality and horizon**: Dashtygoi Formation, Elegest and Kadvoi Localities, Central Tuva, Russia.
 > - **References**: 
 > - **Comments**:
 
-
-3) **Barmo Formation, Balturino District, East Siberia, Russia** 10
+#### 3) Barmo Formation, Balturino District, East Siberia, Russia
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
 > - **Taxa**: Thelodonti: Loganellia sp. indet., Talimaalepis rimae.
 > - **Locality and horizon**: Barmo Formation, Khakomian Regional Stage, Balturino District, East Siberia, Russia.
 > - **References**:(Zigaite and Blieck, 2006; Žigaitė et al., 2011)
 > - **Comments**:
 
-4) **Usas Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 16
+#### 4) Usas Formation, Kochumdek District, Pretunguska, West Siberia, Russia
 > - **Age**: Wenlock to Gorstian.
 > - **Taxa**: Thelodonti: *Talimaalepis rimae*.
 > - **Locality and horizon**: Usas Formation, Khakomian Regional Stage, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
 > - **References**: (Žigaitė, 2013; Zigaite and Blieck, 2006; Žigaitė et al., 2011)
 > - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
 
-5) **Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### 5) Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
 > - **Taxa**: Anaspida: Birkenia elegans, Birkenia robusta, Birkenia sp.
 Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus laevis, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
@@ -723,7 +722,7 @@ Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus laevis, Loganellia avo
 > - **References**: (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
 > - **Comments**: 
 
-6) **Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### 6) Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
 > - **Taxa**:Anaspida: Birkenia elegans?, Pterygolepis nitida, Schidiosteus mustelensis.
 Thelodonti: Shielia multispinata, Paralogania consimilis.
@@ -731,14 +730,14 @@ Thelodonti: Shielia multispinata, Paralogania consimilis.
 > - **References**: (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002; Stetson, 1931)
 > - **Comments**:
 
-7) **Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### 7) Samojlovich Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
 > - **Taxa**: Thelodonti: Thelodus calvus, Thelodus carinatus, Thelodus inauditus, Thelodus laevis, Thelodus visvaldi, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata, Shielia gibba, Shielia parca, Shielia taiti.
 > - **Locality and horizon**: Samojlovich Formation, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
 > - **Comments**: 
 
-8) **Upper Samojlovich Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+#### 8) Upper Samojlovich Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Sheinwoodian to Homerian, Wenlock.
 > - **Taxa**:Anaspida: Rhyncholepis parvula, Rytidolepis quenstedti.
 Thelodonti: Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Thelodus carinatus, Thelodus laevis, Thelodus visvaldi.
@@ -746,21 +745,21 @@ Thelodonti: Paralogania consimilis, Paralogania martinssoni, Thelodus calvus, Th
 > - **References**:(Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2002)
 > - **Comments**: 
 
-**Ostrovets Formation, Grodno Region, Belarus**
+#### Ostrovets Formation, Grodno Region, Belarus
 > - **Age**: Homerian.
 > - **Taxa**: Thelodonti: Loganellia einari, Loganellia grossi, Thelodus sp.
 > - **Locality and horizon**: Ostrovets Formation, Grodno Region, Belarus.
 > - **References**: (Plax and Märss, 2011)
 > - **Comments**: 
 
-**Allen Bay Formation, Cornwallis Island, Canada**
+#### Allen Bay Formation, Cornwallis Island, Canada
 > - **Age**: early Sheinwoodian.
 > - **Taxa**: Heterostraci: *Tolypelepis* sp.
 > - **Locality and horizon**: Allen Bay Formation, Cornwallis Island, Canada.
 > - **References**:(Boucot and Janis, 1983; Denison, 1964)
 > - **Comments**: 
 
-**Cape Phillips Formation, Thorsteinsson Quarry, Cape Phillips, Cornwallis Island, Nunavut, Canada**
+#### Cape Phillips Formation, Thorsteinsson Quarry, Cape Phillips, Cornwallis Island, Nunavut, Canada
 > - **Age**: early Sheinwoodian.
 > - **Taxa**: Anaspida: Birkenia elegans, Ha ha.
 Thelodonti: Archipelepis bifurcata, Archipelepis turbinate, Eestilepis prominens, Erepsilepis margaritifera, Illoganellia colossa, Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia grossi, Loganellia prolata, Loganellia sulcata, Phillipsilepis cornuta, Phillipsilepis pusilla, Phillipsilepis crassa, Shielia gibba, Shielia parca, Shielia multispinata, Shielia taiti, Thelodus inauditus, Thelodus calvus.
@@ -769,7 +768,7 @@ Chondrichthyes: Frigorilepis caldwelli, Wellingtonella gagnieri.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Chen et al., 2012; Karatajūte-Talimaa and Märss, 2002; Märss, 2001; Märss and Miller, 2004; Märss et al., 2002; Plotnick, 1999; Soehn et al., 2001; Stetson, 1931; Su, 2022)
 > - **Comments**: 
 
-**Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada**
+#### Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**:Anaspida: Birkeniida gen. et sp. indet. 1, Birkeniida gen. et sp. indet. 2, Birkeniida gen. et sp. indet. 3, Birkenia elegans, Birkenia elegans?, Birkenia sp., Ha et sp.
 Heterostraci: Eriptychiida gen. et sp. indet., Traquairaspidida gen. et sp. indet.
@@ -779,7 +778,7 @@ Chondrichthyes: Kannathalepis milleri.
 > - **References**:(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 1997; Märss et al., 2002; Plotnick, 1999; Soehn et al., 2001; Su, 2022)
 > - **Comments**:
 
-**Road River Formation, Mackenzie Mountains, Canada**
+#### Road River Formation, Mackenzie Mountains, Canada
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**: Heterostraci: *Archegonaspis* sp., *Ariaspis* sp., *Vernonaspis* sp., gen. indet.
 Anaspida: Birkenia elegans?, Birkenia sp.
@@ -788,14 +787,14 @@ Thelodonti: Archipelepis bifurcata, Archipelepis turbinate, Overia adraini, Para
 > - **References**:(Blieck et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Märss et al., 2006; Soehn et al., 2001; Wilson and Caldwell, 1998; Wilson and Soehn, 1990)
 > - **Comments**: 
 
-**Kap Morton Formation, Northern Greenland**
+#### Kap Morton Formation, Northern Greenland
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**: Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia prolata, Loganellia sulcata.
 > - **Locality and horizon**: Kap Morton Formation, Cape Lucie Marie, Washington Land, Northern Greenland.
 > - **References**: (Cocks et al., 2003; Märss et al., 2002; Pickerill and Harland, 1988; Plotnick, 1999; Turner and Peel, 1986)
 > - **Comments**: 
 
-**Maasi, Tagavere, Viita, and Kuusnomme Beds, Estonia and Latvia, East Baltic**
+#### Maasi, Tagavere, Viita, and Kuusnomme Beds, Estonia and Latvia, East Baltic
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**: Anaspida: Birkenia elegans, Birkenia sp., Schidiosteus mustelensis.
 Heterostraci: *Cyathaspis integer*.
@@ -805,7 +804,7 @@ Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganelli
 > - **References**:(Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 1977; Märss, 1986; Märss, 2003; Märss et al., 2015; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner, 2000; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**: 
 
-**Jaagarahu Formation, Saaremaa Island, Estonia**
+#### Jaagarahu Formation, Saaremaa Island, Estonia
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**: Anaspida: Pterygolepis nitida, Rhyncholepis parvula.
 Osteostraci: Ateleaspis sp. cf. tessellate.
@@ -814,7 +813,7 @@ Thelodonti: Loganellia grossi, Loganellia einari.
 > - **References**: (Blom et al., 2002; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss et al., 2015; Qu et al., 2015)
 > - **Comments**: 
 
-**Rootsikula Formation, Saaremaa Island, Estonia**
+#### Rootsikula Formation, Saaremaa Island, Estonia
 > - **Age**: Homerian to Gorstian.
 > - **Taxa**:Anaspida: Birkenia robusta, Pterygolepis nitida, Rhyncholepis parvula, Rhyncholepis butriangula, Rytidolepis quenstedti, Vesikulepis funiforma.
 Osteostraci: Meelaidaspis gennadii, Aestiaspis viitaensis, Tremataspis perforata, Tremataspis rohoni, Tremataspis schmidti, Tremataspis milleri, Tremataspis schrenkii, Tremataspis sp., Witaaspis schrenkii.
@@ -823,7 +822,7 @@ Thelodonti: Paralogania martinssoni.
 > - **References**:(Blom et al., 2002; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss et al., 2015; Qu et al., 2015)
 > - **Comments**: 
 
-**Halla, Mulde, Klinteberg, and Slite Formation, Gotland, Sweden**
+#### Halla, Mulde, Klinteberg, and Slite Formation, Gotland, Sweden
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**: Anaspida: Birkeniida sp. 1, Birkeniida sp. 2, Birkeniida sp. 3, Pterygolepis nitida, Rhyncholepis parvula, Rhyncholepis butriangula, Rytidolepis quenstedti, Schidiosteus mustelensis.
 Osteostraci: Oeselaspis sp., Tremataspis sp., gen. indet.
@@ -832,14 +831,14 @@ Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganelli
 > - **References**: (Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Calner et al., 2004; Cocks et al., 2003; Fredholm, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss et al., 2002; Martinsson, 1966; Plotnick, 1999)
 > - **Comments**: 
 
-**Malmoya Formation, Norway**
+#### Malmoya Formation, Norway
 > - **Age**: Sheinwoodian.
 > - **Taxa**: Thelodonti: Loganellia einari.
 > - **Locality and horizon**: Malmoya Formation, Gjettum Station, Asker, Oslo, Norway.
 > - **References**: (Bremer et al., 2019; Marss, 1996)
 > - **Comments**: 
 
-**Ranberget Member, Steinsfjorden, Sundvollen Formation, Norway**
+#### Ranberget Member, Steinsfjorden, Sundvollen Formation, Norway
 > - **Age**: Late Homerian.
 > - **Taxa**: Anaspida: Birkenia elegans?, Pterygolepis nitida, Rhyncholepis parvula, Pharyngolepis oblonga.
 Thelodonti: Loganellia avonia, Loganellia einari, Loganellia exilis, Loganellia grossi, Loganellia colossea, Loganellia sulcate, Loganellia prolata.
@@ -848,28 +847,28 @@ Osteostraci: cf. Tyriaspis whitei, gen. indet.
 > - **References**: (Blom et al., 2002; Bremer et al., 2019; Davies et al., 2005)
 > - **Comments**: 
 
-**Bunnamohaun Siltstone, Ireland**
+#### Bunnamohaun Siltstone, Ireland
 > - **Age**: Sheinwoodian.
 > - **Taxa**: Anaspida: Birkenia elegans.
 > - **Locality and horizon**: Bunnamohaun Siltstone, Clew Bay, County Mayo, Ireland.
 > - **References**: (Blom et al., 2002; Maguire and Graham, 1995; Palmer et al., 1989)
 > - **Comments**: 
 
-**Brinkmarsh Beds, Brinkmarsh Quarry, Whitefield, UK**
+#### Brinkmarsh Beds, Brinkmarsh Quarry, Whitefield, UK
 > - **Age**: Sheinwoodian.
 > - **Taxa**:Thelodonti: Loganellia avonia.
 > - **Locality and horizon**: Brinkmarsh Beds, Brinkmarsh Quarry, Whitefield, UK.
 > - **References**:(Boucot and Janis, 1983; Turner, 2000)
 > - **Comments**: 
 
-**Brinkmarsh Beds, Tortworth Inlier, Gloucestershire, UK**
+#### Brinkmarsh Beds, Tortworth Inlier, Gloucestershire, UK
 > - **Age**: Sheinwoodian.
 > - **Taxa**: (Boucot and Janis, 1983; Märss et al., 2002; Siveter and Turner, 1982)
 > - **Locality and horizon**:Brinkmarsh Beds, Tortworth Inlier, Gloucestershire, UK
 > - **References**: Thelodonti: Loganellia avonia, Loganellia colossea, Loganellia einari, Loganellia prolata, Loganellia sulcata, Logania sp. cf. cuneata, Logania cruciformis, Logania ludlowiensis, Logania scotica, Thelodus sp. cf. traquairi.
 > - **Comments**: 
 
-**Fish Bed and Smithy Burn Formations, Glenbuck Group, Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland**
+#### Fish Bed and Smithy Burn Formations, Glenbuck Group, Hagshaw Hills, Old Red Sandstone, Midland Valley, Scotland
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**: Anaspida: Birkenia elegans.
 Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa, Shielia taiti.
@@ -877,7 +876,7 @@ Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinul
 > - **References**:(Märss and Ritchie, 1998; Plotnick, 1999)
 > - **Comments**: 
 
-**Fish Bed and Henshaw Formations, Lyne Water, Pentland Hills, Midland Valley, Scotland**
+#### Fish Bed and Henshaw Formations, Lyne Water, Pentland Hills, Midland Valley, Scotland
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**:Anaspida: Birkenia elegans, Lasanius problematicus.
 Thelodonti: Shielia gibba, Shielia multispinata, Shielia parca, Shielia taiti.
@@ -885,7 +884,7 @@ Thelodonti: Shielia gibba, Shielia multispinata, Shielia parca, Shielia taiti.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss et al., 2002; Plotnick, 1999; Stetson, 1931; Traquair, 1898a)
 > - **Comments**:
 > -  
-**Slot Burn and Birkenhead Burn Formations, Lesmahagow, Lanarkshire, Midland Valley, Scotland**
+#### Slot Burn and Birkenhead Burn Formations, Lesmahagow, Lanarkshire, Midland Valley, Scotland
 > - **Age**: Sheinwoodian to Homerian.
 > - **Taxa**:Anaspida: Birkenia elegans.
 Thelodonti: Lanarkia horrida, Lanarkia lanceolata, Lanarkia sp., Lanarkia spinulosa.
@@ -894,35 +893,35 @@ Osteostraci: Ateleaspis tesselata.
 > - **References**:(Blom et al., 2002; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898a; Walton and Oliver, 1991; Wellman and Richardson, 1993)
 > - **Comments**: 
 
-**Longwood Shale Formation, New Jersey, USA**
+#### Longwood Shale Formation, New Jersey, USA
 > - **Age**: Homerian to Gorstian.
 > - **Taxa**: Heterostraci: *Vernonaspis* sp.
 > - **Locality and horizon**: Longwood Shale Formation, New Jersey, USA.
 > - **References**: (Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
 > - **Comments**: 
 
-**Medina Formation, Shawangunk Formation, New York, USA**
+#### Medina Formation, Shawangunk Formation, New York, USA
 > - **Age**: Homerian to Gorstian.
 > - **Taxa**: Heterostraci: *Eoarchegonaspis wardelli*, *Vernonaspis* sp., *Vernonaspis vaningeni*.
 > - **Locality and horizon**: Medina Formation, Shawangunk Formation, New York, USA.
 > - **References**: (Boucot and Janis, 1983; Bryant, 1926; Denison, 1964; Fillmore et al., 2020; Flower and Wayland-Smith, 1952; Kiaer, 1932; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**: 
 
-**Niur Formation, Derenjal Mountains, Iran**
+#### Niur Formation, Derenjal Mountains, Iran
 > - **Age**: Homerian to Gorstian.
 > - **Taxa**: Thelodonti: Niurolepis susanae.
 > - **Locality and horizon**: Niur Formation, Derenjal Mountains, Iran.
 > - **References**: (Hairapetian et al., 2008)
 > - **Comments**: 
 
-**Miaogou Formation, Zoige, Gansu and Tewo, Sichuan, China**
+#### Miaogou Formation, Zoige, Gansu and Tewo, Sichuan, China
 > - **Age**: Homerian.
 > - **Taxa**: Acanthodii: Nostolepis tewonensis.
 > - **Locality and horizon**: Miaogou Formation, Zoige, Gansu and Tewo, Sichuan, China.
 > - **References**: (Chen et al., 2024b; Rong et al., 2019; Wang et al., 1998a; Zhao et al., 2012; Zhao and Zhu, 2010)
 > - **Comments**: 
 
-**The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
+#### The Archipelepis bifurcata/Arch. turbinata Zone**: early Sheinwoodian
 > Cape Phillips Formation, lower Sheinwoodian, lower Wenlock; sample at 90.0 m in the Baillie-Hamilton BH1 section, which corresponds to a level in the Monograptus riccartonensis - Monograptus belophorus GZ as determined by the carbon isotope curve pattern (Marss et al. 1998a).
 
 > Cape Phillips Formation, Sheinwoodian, Cornwallis Island, and the north shore of Baumann Fiord on Ellesmere Island; Road River Formation, 1 R Member, Sheinwoodian, lower Wenlock, Avalanche Lake sections, Mackenzie Mountains, northern Canada.
@@ -930,28 +929,28 @@ Osteostraci: Ateleaspis tesselata.
 > -  Archipelepis bifurcata, L. sulcata, Shielia parca, S. gibba, Phillipsilepis crassa, Frigorilepis caldwelli, Lanarkia cf. horrida in the Baillie-Hamilton BH1 section;
 > -  Arch. turbinata, Lanarkia cf. horrida, a yet undescribed Loganellia (L. cf. sulcata herein) in the Avalanche Lake sections.
 
-**The Loganellia grossi Zone**: late Sheinwoodian (early to middle late Sheinwoodian)
+#### The Loganellia grossi Zone: late Sheinwoodian (early to middle late Sheinwoodian)
 > Maasi Beds (except their lower part) of the Jaagarahu Stage, upper Sheinwoodian, Lower Wenlock; interval 68.4ñ79.0 m of the Sakla core, Saaremaa, Estonia.
 
 > Sundvollen  Formation, Lower Ringerike Group, Wenlock, Ringerike Area, Norway; lower part of the Kap Morton Formation, mid-Wenlock, Kap Lucie Marie, Washington Land, North Greenland; Cape Phillips Formation, upper Sheinwoodian of Baillie- Hamilton  Island,  Arctic   Canada;  Wenlock,   Timan- Pechora Region and northern Urals; upper half of the Samojlovich  Formation,  Matusevich  River,  October Revolution Island, Severnaya Zemlya Archipelago.
 
 > -  Loganellia grossi, Thelodus sp., Rhyncholepis parvula.
 
-**The Overia adraini Zone**: late Sheinwoodian (late late Sheinwoodian)
+#### The Overia adraini Zone: late Sheinwoodian (late late Sheinwoodian)
 > Cape Phillips Formation, upper Sheinwoodian, Wenlock; interval 140.0ñ144.5 m in the Baillie-Hamilton 1 section, Arctic Canada.
 
 > Delorme Formation (Member 1D) of Avalanche Lake, Mackenzie Mountains, northern Canada.
 
 > - Frigorilepis caldwelli, Lanarkia horrida.
 
-**The Loganellia einari Zone**: late Sheinwoodian (late late Sheinwoodian) to early Homerian
+#### The Loganellia einari Zone: late Sheinwoodian (late late Sheinwoodian) to early Homerian
 > Tagavere Beds of the Jaagarahu Formation (Jaagarahu Stage), Sheinwoodian, lower Wenlock; interval 58.20ñ62.7 m in the Sakla core, Saaremaa, Estonia.
 
 > Sundvollen Formation, Lower Ringerike Group, Wenlock, Ringerike Area, Norway. In the Ostrovets sections 7ts, 73 and  195 in Belarus, L. grossi and L. einari have been found together.
 
 > - Thelodus sp., L. grossi,L. einari in the Riksu-803 and Vesiku-507 drill cores.
 
-**The Paralogania martinssoni Zone**: late Homerian to early Gorstian
+#### The Paralogania martinssoni Zone: late Homerian to early Gorstian
 > Viita Beds, Rootsik¸la Stage, upper Homerian, uppermost Wenlock; interval 143.67ñ153.20 m in the Ohesaare core section, Estonia.
 
 > Rootsik¸la and lower Paadla stages, respectively upper Homerian (uppermost Wenlock) and lower Gorstian (lowermost Ludlow), Estonia; Halla, Mulde and Klinteberg beds, and Hemse unit a, Homerian (upper Wenlock) and lower Gorstian (Ludlow), Gotland. 1D Member  of the  Delorme Group  in  the  Avalanche  Lake  sections,  Mackenzie Mountains,  Cape  Phillips  Formation,  Homerian,  on Baillie-Hamilton  Island,  the  uppermost  Wenlock  or lowermost Ludlow, Prince of Wales Island, Northern Canada; Bed 10, upper Wenlock, Ringerike, Norway; upper  Voron′ya  Beds,  upper  Wenlock  Mikhajlovsk Pond area, Central Urals, Russia; lower part of the Ust′- Spokojnaya  Formation,  Wenlock,  Matusevich  River section, October Revolution Island, Severnaya Zemlya, Russia; middle Elton Formation, lower Gorstian, lower Ludlow of Welsh Borderland, southern Britain.
@@ -960,341 +959,341 @@ Osteostraci: Ateleaspis tesselata.
 
 ## Ludlow
 
-**Formation, Chance’s Pitch, Malvern Hills, Herefordshire, U**
+#### Formation, Chance’s Pitch, Malvern Hills, Herefordshire, UK
 > - **Age**: Gorstian.
 > - **Taxa**:Thelodonti: Phlebolepis elegans, Phlebolepis ornata.
 > - **Locality and horizon**: Chance’s Pitch, Malvern Hills, Herefordshire, UK.
 > - **References**:(Boucot and Janis, 1983; Dineley and Metcalf, 1999; Mark-Kurik, 1969; Märss, 1986; Märss and Miller, 2004; Sepkoski, 1998; Turner, 2000)
 > - **Comments**: 
 
-**Black Cock Beds, Cwar Glas, Dyfed, Wales, UK**
+#### Black Cock Beds, Cwar Glas, Dyfed, Wales, UK
 > - **Age**: Gorstian.
 > - **Taxa**: Heterostraci: *Archegonaspis ludensis*.
 > - **Locality and horizon**: Black Cock Beds, Cwar Glas, Dyfed, Wales, UK.
 > - **References**:(Denison, 1964; Dineley and Metcalf, 1999)
 > - **Comments**: 
 
-**Middle Elton Formation, Goggin Road, Mortimer Forest, Shropshire, UK**
+#### Middle Elton Formation, Goggin Road, Mortimer Forest, Shropshire, UK
 > - **Age**: Gorstian.
 > - **Taxa**: Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 > - **Locality and horizon**: Middle Elton Formation, Goggin Road/ Mortimer Forest, Shropshire, UK.
 > - **References**: (Blieck et al., 2002; Boucot and Janis, 1983; Dineley and Metcalf, 1999; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Turner and Burrow, 2018)
 > - **Comments**: 
 
-**Elton, Bringewood, and Leintwardine Formation, Sunnyhill Quarry, Sunnydingle Cottage, Shropshire, UK**
+#### Elton, Bringewood, and Leintwardine Formation, Sunnyhill Quarry, Sunnydingle Cottage, Shropshire, UK
 > - **Age**:Gorstian to Ludfordian.
 > - **Taxa**: Thelodonti: Paralogania ludlowiensis, Paralogania martinssoni, Paralogania kaarmisensis, Phlebolepis ornata, Phlebolepis elegans, Thelodus sp.
 > - **Locality and horizon**: Elton, Bringewood, and Leintwardine Formation, Sunnyhill Quarry, Sunnydingle Cottage, Shropshire, UK.
 > - **References**:(Blieck et al., 2002; Boucot and Janis, 1983; Cherns, 1999; Gross, 1968; Mark-Kurik, 1969; Märss, 1986; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Turner, 2000)
 > - **Comments**: 
 
-**Whitcliffe Formation and Ludlow Bone Bed, River Severn, Tite’s Point, Gloucestershire, UK**
+#### Whitcliffe Formation and Ludlow Bone Bed, River Severn, Tite’s Point, Gloucestershire, UK
 > - **Age**: Ludfordian to Pridoli.
 > - **Taxa**: Heterostraci: *Cyathaspis banksi*, *Cyathaspis* sp. Thelodonti: Thelodus bicostatus, Thelodus parvidens, Thelodus pugniformis, Thelodus trilobatus. Acanthodii: Onchus sp., indet.
 > - **Locality and horizon**: Whitcliffe Formation and Ludlow Bone Bed, River Severn, Tite’s Point, Gloucestershire, UK.
 > - **References**:(Dineley and Metcalf, 1999; Märss and Miller, 2004; Plotnick, 1999)
 > - **Comments**: 
 
-**Lower Leintwardine Formation, Church Hill, Herefordshire, UK**
+#### Lower Leintwardine Formation, Church Hill, Herefordshire, UK
 > - **Age**: Ludfordian.
 > - **Taxa**: Heterostraci: *Archegonaspis ludensis*.
 > - **Locality and horizon**: Lower Leintwardine Formation, Church Hill, Herefordshire, UK.
 > - **References**: (Boucot and Janis, 1983; Dineley and Metcalf, 1999)
 > - **Comments**: 
 
-**Whitcliffe (Overton) Formation and Downton Castle Formation, Ludlow Much Wenlock District, Shropshire, UK**
+#### Whitcliffe (Overton) Formation and Downton Castle Formation, Ludlow Much Wenlock District, Shropshire, UK
 > - **Age**: Ludfordian to Pridoli.
 > - **Taxa**:Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus marginatus, Thelodus matukhini, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus parvidens, Nethertonodus prodigialis.
 > - **Locality and horizon**: Whitcliffe (Overton) Formation and Downton Castle Formation, Ludlow Much Wenlock District, Shropshire, UK.
 > - **References**:(Antia, 1980; Antia, 1981; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**: 
 
-**Leintwardine Formation, Onibury, Shropshire, UK**
+#### Leintwardine Formation, Onibury, Shropshire, UK
 > - **Age**: Ludfordian.
 > - **Taxa**: Thelodonti: Paralogania kaarmisensis, Paralogania consimilis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae.
 > - **Locality and horizon**:Leintwardine Formation, Onibury, Shropshire, UK.
 > - **References**: (Boucot and Janis, 1983; Cherns, 1999; Märss and Miller, 2004; Musteikis, 1999; Plotnick, 1999)
 > - **Comments**: 
 
-**Whitcliffe Formation and Downton Castle Sandstone Formation, Netherton, UK**
+#### Whitcliffe Formation and Downton Castle Sandstone Formation, Netherton, UK
 > - **Age**: Ludfordian to early Pridoli.
 > - **Taxa**: Thelodonti: Nethertonodus laadjalaensis, Nethertonodus prodigialis, Paralogania borealis, Paralogania cf. P. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania tarranti, Paralogania wilsoni, Thelodus parvidens.
 > - **Locality and horizon**: Whitcliffe Formation and Downton Castle Sandstone Formation, Netherton, UK.
 > - **References**: (Boucot and Janis, 1983; Dineley and Metcalf, 1999; Märss and Miller, 2004; Plotnick, 1999)
 > - **Comments**: 
 
-**Sundvollen Formation, Ringerike, Oslo, Norway**
+#### Sundvollen Formation, Ringerike, Oslo, Norway
 > - **Age**: Gorstian.
 > - **Taxa**:Anaspida: Pharyngolepis oblonga, Pterygolepis cf. P. nitida, Rhyncholepis parvula. Thelodonti: Loganellia einari, Loganellia sp.?, Paralogania martinssoni, Thelodus sp.
 > - **Locality and horizon**: Sundvollen Formation, Ringerike, Oslo, Norway.
 > - **References**:(Blom et al., 2002; Bremer et al., 2019; Davies et al., 2005)
 > - **Comments**: 
 
-**Vesiku, Soeginina, Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Kuressaare, Ohesaare, and Paadla Formations, Estonia and Latvia, East Baltic**
+#### Vesiku, Soeginina, Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Kuressaare, Ohesaare, and Paadla Formations, Estonia and Latvia, East Baltic
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Anaspida: Pharyngolepis sp., Tahulalepis elongituberculata, Schidiosteus mustelensis, Silmalepis erinacea. Heterostraci: *Archegonaspis* sp., *Archegonaspis* sp. B, *Cyathaspis integer*. Osteostraci: Tremataspis sp. Thelodonti: Loganellia cuneata, Loganellia sp. cf. L. grossi, Loganellia incompta, Oeselia mosaica, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania sp. cf. P. ludlowiensis, Phlebolepis elegans, Phlebolepis ornata, Thelodus sculptilis, Thelodus parvidens, Thelodus schmidti, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 > - **Locality and horizon**: Vesiku, Soeginina, Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Kuressaare, Ohesaare, and Paadla Formations, Kuressaare, Paadla, Kaugatuma Regional Stages, Estonia and Latvia, East Baltic.
 > - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 1977; Märss, 2003; Märss et al., 2015)
 > - **Comments**: 
 
-**Hemse Group, Eke, Burgsvik, Hamra, and Sundre Formation, Gotland, Sweden**
+#### Hemse Group, Eke, Burgsvik, Hamra, and Sundre Formation, Gotland, Sweden
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Anaspida: Liivilepis curvata, Pharyngolepis sp., Schidiosteus mustelensis, Septentrionia dissimilis, Septentrionia mucronata, Tahulalepis elongituberculata. Heterostraci: *Archegonaspis lindstromi*, *Cyathaspis integer*. Osteostraci: gen. indet., Tahulaspis sp. Thelodonti: Loganellia cuneata, Loganellia sp. cf. L. grossi, Loganellia incompta, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae, Phlebolepis elegans, Phlebolepis ornata, Thelodus parvidens, Thelodus carinatus, Thelodus admirabilis, Thelodus calvus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi. Osteichthyes: Andreolepis hedei, Andreolepis petri.
 > - **Locality and horizon**: Hemse Group, Eke, Burgsvik, Hamra, and Sundre Formation, Gotland, Sweden.
 > - **References**: (Blieck et al., 2002; Blom, 1999; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Bremer and Blom, 2015; Bremer et al., 2020; Cherns, 1999; Eriksson et al., 2009; Fredholm, 1990; Gross, 1968; Karatajūtė-Talimaa, 1990; Kunth, 1872; Mark-Kurik, 1969; Märss, 2001; Märss, 2003; Märss and Karatajūtē-Talimaa, 2002; Märss and Männik, 2013; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner and Burrow, 2018; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**: 
 
-**Paadla Formation, Oesel Island, Estonia**
+#### Paadla Formation, Oesel Island, Estonia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**:Anaspida: Rhyncholepis (Saarolepis) oeselensis. Osteostraci: Cephalaspis oeselensis, Dartmuthia gemmifera, Oeselaspis pustulata, Saaremaaspis mickwitzi, Thyestes verrucosus, Tremataspis mamillata, Tremataspis milleri, Tremataspis panderi, Tremataspis patteni, Tremataspis rohoni, Tremataspis scalaris, Tremataspis schmidti, Witaaspis patteni, Witaaspis schrenkii. Thelodonti: Coelolepis luhai. Heterostraci: *Tolypelepis undulata*.
 > - **Locality and horizon**: Paadla Formation, Oesel Island, Estonia.
 > - **References**: (Boucot and Janis, 1983; Kiaer, 1932; Ritchie, 1980; Robertson, 1939; Robertson, 1941; Robertson, 1945; Robertson, 1950)
 > - **Comments**: 
 
-**Paadla Formation, Sauvere, Himmiste and Uduvere Beds, Saaremaa Island, Estonia**
+#### Paadla Formation, Sauvere, Himmiste and Uduvere Beds, Saaremaa Island, Estonia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: (Blom et al., 2002; Boucot and Janis, 1983; Janvier and Lelievre, 1994; Kiipli et al., 2011; Märss, 2001; Märss et al., 2015; Qu et al., 2015)
 > - **Locality and horizon**: Paadla Formation, Sauvere, Himmiste and Uduvere Beds, Saaremaa Island, Estonia.
 > - **References**: Anaspida: Rytidolepis quenstedti, Saarolepis (Rhyncholepis) oeselensis, Schidiosteus mustelensis, Silmalepis erinacea, Vesikulepis funiforma. Osteostraci: Dartmuthia gemmifera, Dartmuthia procera, Oeselaspis pustulata, Procephalaspis aff. oeselensis, Procephalaspis oeselensis, Saaremaaspis mickwitzi, Tahulaspis praevia, Thyestes verrucosus, Tremataspis mamillata, Tremataspis milleri, Tremataspis obruchevi, Tremataspis patteni, Tremataspis perforata, Tremataspis rohoni, Witaaspis schrenkii. Thelodonti: Longodus acicularis, Paralogania consimilis, Paralogania kaarmisensis, Paralogania martinssoni, Paralogania menneri, Phlebolepis elegans, Phlebolepis ornata, Thelodus sculptilis. Osteichthyes: Andreolepis herdei.
 > - **Comments**: 
 
-**Kuressaare and Kaugatuma Formation, Tahula, Kudjape and Aigu Beds, Saaremaa Island, Estonia**
+#### Kuressaare and Kaugatuma Formation, Tahula, Kudjape and Aigu Beds, Saaremaa Island, Estonia
 > - **Age**: Late Ludfordian to Pridoli
 > - **Taxa**: Anaspida: Liivilepis curvata, Tahulalepis elongituberculata, Trimpleylepis concatenate. Osteostraci: Dartmuthia procera, Ohesaareaspis ponticulata, Tahulaspis aff. ordinata, Tahulaspis cf. praevia, Tahulaspis ordinata. Thelodonti: Longodus acicularis, Nethertonodus laadjalaensis, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri, Paralogania perensae, Thelodus admirabilis, Thelodus sculptilis. Acanthodii: Nostolepis gracilis.
 > - **Locality and horizon**: Kuressaare and Kaugatuma Formation, Tahula, Kudjape and Aigu Beds, Saaremaa Island, Estonia.
 > - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Janvier and Lelievre, 1994; Märss et al., 2015; Märss and Männik, 2013; Miller et al., 2004; Qu et al., 2015) (Einasto, 1990)
 > - **Comments**: 
 
-**Wita Quarry, Oesel Island, Estonia**
+#### Wita Quarry, Oesel Island, Estonia
 > - **Age**: Gorstian.
 > - **Taxa**: Osteostraci: Rotsikiillaspis obrutchevi.
 > - **Locality and horizon**: Wita Quarry, Oesel Island, Estonia.
 > - **References**:(Robertson, 1938)
 > - **Comments**: 
 
-**Klinta and Oved Sandstone Formation, Oved Ramsasa Group, Katina, Helvetesgraben, Rinnebacks bro, Ramsasa, Skane, South Sweden**
+#### Klinta and Oved Sandstone Formation, Oved Ramsasa Group, Katina, Helvetesgraben, Rinnebacks bro, Ramsasa, Skane, South Sweden
 > - **Age**: Ludfordian to Pridoli
 > - **Taxa**: Anaspida: Liivilepis curvata, Ramsaalepis porosa, Tahulalepis elongituberculata. Thelodonti: Goniporous alatus, Loganellia asiatica, Loganellia cruciformis, Loganellia cuneata, Loganellia incompta, Loganellia sp., Loganellia sp. cf. L. grossi, Loganellia tuvaensis, Loganellia unispinata, Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania martinssoni, Paralogania menneri, Paralogania perensae, Thelodus admirabilis, Thelodus bicostatus, Thelodus calvus, Thelodus costatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi, Trimerolepis tricava. Acanthodii: Nostolepis sp. Osteichthyes: Andreolepis sp.
 > - **Locality and horizon**: Klinta and Oved Sandstone Formation, Oved Ramsasa Group, Katina, Helvetesgraben, Rinnebacks bro, Ramsasa, Skane, South Sweden.
 > - **References**:  (Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Cherns, 1999; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss and Karatajūtē-Talimaa, 2002; Märss and Männik, 2013; Märss and Miller, 2004; Märss et al., 2003; Mehlqvist et al., 2014; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**:
 
-**Upper Winnica Formation, Winnica section, Holy Cross Mountains, Poland.**
+#### Upper Winnica Formation, Winnica section, Holy Cross Mountains, Poland
 > - **Age**: Ludfordian to Pridoli
 > - **Taxa**: Anaspida: indet. cf. Liivilepis. Thelodonti: Thelodus parvidens, Thelodus trilobatus. Acanthodii: Radioporacanthodes biblicus, Radioporacanthodes sp.
 > - **Locality and horizon**: Upper Winnica Formation, Winnica section, Holy Cross Mountains, Poland.
 > - **References**:(Bremer, 2017)
 > - **Comments**:
 
-**Upper Winnica Formation, Rzepin Section, Holy Cross Mountains, Poland.**
+#### Upper Winnica Formation, Rzepin Section, Holy Cross Mountains, Poland
 > - **Age**: Ludfordian to Pridoli
 > - **Taxa**: Anaspida: indet. cf. Liivilepis. Thelodonti: Thelodus parvidens, Thelodus trilobatus, Paralogania ludlowiensis. Osteostraci: Tahulaspis cf. ordinata. Acanthodii: indet. cf. Gomphonchus, Nostolepis gracilis, Radioporacanthodes biblicus, Radioporacanthodes sp.
 > - **Locality and horizon**: Upper Winnica Formation, Rzepin Section, Holy Cross Mountains, Poland.
 > - **References**:(Bremer et al., 2017)
 > - **Comments**: 
 
-**Bloomsburg Formation, Appalachian Mountains, USA**
+#### Bloomsburg Formation, Appalachian Mountains, USA
 > - **Age**: Gorstian.
 > - **Taxa**: Anaspida: Septentrionia dissimilis.
 > - **Locality and horizon**: Bloomsburg Formation, Appalachian Mountains, USA.
 > - **References**:(Fillmore et al., 2020; Märss and Miller, 2004)
 > - **Comments**: 
 
-**Bloomsburg Formation, Mt. Union, Monroe, Pennsylvania, USA**
+#### Bloomsburg Formation, Mt. Union, Monroe, Pennsylvania, USA
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Heterostraci: *Vernonaspis bryanti*, *Vernonaspis vaningeni*, *Vernonaspis* sp., *Americaspis americana*. Thelodonti: Thelodus admibilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 > - **Locality and horizon**: Bloomsburg Formation, Mt. Union, Monroe, Pennsylvania, USA.
 > - **References**:(Antia, 1981; Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Giffin, 1979; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002)
 > - **Comments**: 
 
-**Vernon Formation, Kenwood, New York, USA**
+#### Vernon Formation, Kenwood, New York, USA
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Heterostraci: *Archegonaspis drummondi*, *Vernonaspis* sp., *Vernonaspis allenae*, *Vernonaspis leonardi*.
 > - **Locality and horizon**: Vernon Formation, Kenwood, New York, USA.
 > - **References**:(Boucot and Janis, 1983; Broad and Lenz, 1972; Flower and Wayland-Smith, 1952; Plotnick, 1999)
 > - **Comments**: 
 
-**Longwood Shale Formation, New Jersey, USA**
+#### Longwood Shale Formation, New Jersey, USA
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**:Heterostraci: *Americaspis claypolei*.
 > - **Locality and horizon**: Longwood Shale Formation, New Jersey, USA.
 > - **References**:(Boucot and Janis, 1983; Denison, 1964)
 > - **Comments**: 
 
-**Cape Clarence Member, Leopold Formation, Nunavut, Canada**
+#### Cape Clarence Member, Leopold Formation, Nunavut, Canada
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Heterostraci: *Archegonaspis* sp.
 > - **Locality and horizon**: Cape Clarence Member, Leopold Formation, Nunavut, Canada.
 > - **References**: (Plotnick, 1999)
 > - **Comments**: 
 
-**Peel Sound Formation, Somerset Island, Northwest Territories, Canada**
+#### Peel Sound Formation, Somerset Island, Northwest Territories, Canada
 > - **Age**: Gorstian.
 > - **Taxa**:Heterostraci: *Alainaspis platyrhina*, *Rhachiaspis pteriga*.
 > - **Locality and horizon**: Peel Sound Formation, Somerset Island, Northwest Territories, Canada.
 > - **References**:(Boucot and Janis, 1983; Elliott, 1983; Elliott and Dineley, 1983; Jones and Dixon, 1977)
 > - **Comments**: 
 
-**Mcadam Brook and Moydart Formation, Arisaig, Cape George, Nova Scotia, Canada**
+#### Mcadam Brook and Moydart Formation, Arisaig, Cape George, Nova Scotia, Canada
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 > - **Locality and horizon**: Mcadam Brook and Moydart Formation, Arisaig, Cape George, Nova Scotia, Canada.
 > - **References**:(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Dineley, 1963; Mark-Kurik, 1969; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner and Burrow, 2018)
 > - **Comments**: 
 
-**Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada**
+#### Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Anaspida: Birkeniidae gen. et sp. indet. Thelodonti: *Loganellia asiatica*, *Loganellia* sp. cf. *grossi*, *Loganellia cuneata*, *Loganellia incompta*, *Loganellia* sp4., *Nunavutia fasciata*.
 > - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
 > - **References**:(Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Märss et al., 1997)
 > - **Comments**: Age to be checked.
 
-**Road River Formation, Yukon Territory, Canada**
+#### Road River Formation, Yukon Territory, Canada
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**:Heterostraci: *Ariaspis ornata*, *Dikenaspis yukonensis*, *Homalaspis borealis*, *Ptomaspis canadensis*, *Vernonaspis epitegosa*, *Vernonaspis major*, *Vernonaspis sekwiae*.
 > - **Locality and horizon**: Road River Formation, Yukon Territory, Canada.
 > - **References**:(Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964)
 > - **Comments**: 
 
-**Delorme Group, Mount Sekwi, Keele River, Canada**
+#### Delorme Group, Mount Sekwi, Keele River, Canada
 > - **Age**: Ludfordian.
 > - **Taxa**: Heterostraci: *Vernonaspis sekwiae*.
 > - **Locality and horizon**: Delorme Group, Mount Sekwi, Keele River, Canada.
 > - **References**: (Boucot and Janis, 1983; Denison, 1964)
 > - **Comments**: 
 
-**Kemum Formation?, Lorentz River, Irian Jaya, Papua, Western New Guinea.**
+#### Kemum Formation?, Lorentz River, Irian Jaya, Papua, Western New Guinea
 > - **Age**: Ludfordian.
 > - **Taxa**: Thelodonti: Thelodus sp. cf. T. trilobatus, Turinia sp., indet. Acanthodii: Gomphonchus sp. cf. G. sandelensis, Nostolepis sp. cf. N. striata, fam. gen. et sp. indet., indet. Chondrichthyes: gen. et sp. indet.
 > - **Locality and horizon**: Kemum Formation?, Lorentz River, Irian Jaya, Papua, Western New Guinea.
 > - **References**:(Bowman et al., 2019; Burrow et al., 2010; Liu et al., 2021; Oliver et al., 1995; Talent et al., 2003; Turner et al., 1995)
 > - **Comments**: 
 
-**Niur Formation, Derenjal Mountains, Iran**
+#### Niur Formation, Derenjal Mountains, Iran
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Thelodonti: Loganellia sp. cf. L. grossi. Acanthodii: indet.
 > - **Locality and horizon**: Niur Formation, Derenjal Mountains, Iran.
 > - **References**:(Hairapetian et al., 2008)
 > - **Comments**: 
 
-**Russia**
+#### Russia
 
-**Ust-Spokojnaya Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+#### Ust-Spokojnaya Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Gorstian.
 > - **Taxa**: Thelodonti: Paralogania consimilis, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania menneri.
 > - **Locality and horizon**: Ust-Spokojnaya Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Blieck et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
 > - **Comments**: 
 
-**Ust'-Spokojnaya Formation, Matusevich River, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+#### Ust'-Spokojnaya Formation, Matusevich River, Pioneer Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Anaspida: Schidiosteus mustelensis, Spokoinolepis alternans. Thelodonti: Paralogania kaarmisensis, Paralogania menneri, Paralogania martinssoni, Phlebolepis elegans, Thelodus sp., Thelodus visvaldi, Valiukia flabellata, Valiukia sp.
 > - **Locality and horizon**:Ust'-Spokojnaya Formation, Matusevich River, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Blieck et al., 2002; Blom et al., 2002; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: 
 
-**Ust-Spokojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### Ust-Spokojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Anaspida: Birkeniida sp., Pterygolepis nitida, Rytidolepis quenstedti. Thelodonti: Loganellia sp. cf. L. grossi, Loganellia incompta, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi, Paralogania kaarmisensis, Paralogania ludlowiensis, Paralogania martinssoni, Paralogania consimilis, Paralogania ex gr. martinssoni, Paralogania sp. cf. P. ludlowiensis, Valiukia sp. 1.
 > - **Locality and horizon**: Ust-Spokojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**:(Antia, 1981; Blieck et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Männik et al., 2002; Mark-Kurik, 1969; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Sepkoski, 1998; Turner and Burrow, 2018; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**: 
 
-**Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Anaspida: Birkenia elegans?, Birkenia sp.?, Rhyncholepis parvula, Schidiosteus mustelensis, Spokoinolepis alternans, Vesikulepis funiforma. Heterostraci: indet.
 > - **Locality and horizon**: Ust-Spokojnaya Formation, Spokoinaya River and Ushalov River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Blom et al., 2002; Männik et al., 2002)
 > - **Comments**: 
 
-**Ust'-Spokojnaya Formation and Krasnaya Bukhta, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### Ust'-Spokojnaya Formation and Krasnaya Bukhta, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Ludfordian to Pridoli.
 > - **Taxa**: Thelodonti: Paralogania ludlowiensis, Paralogania kaarmisensis, Paralogania menneri, Paralogania perensae, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni.
 > - **Locality and horizon**: Ust'-Spokojnaya Formation and Krasnaya Bukhta, Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**:(Cherns, 1999; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999)
 > - **Comments**: 
 
-**Samojlovich and Ust' Spokoinaya Formation, Novaya Zemlya Archipelago, Russia**
+#### Samojlovich and Ust' Spokoinaya Formation, Novaya Zemlya Archipelago, Russia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**:Thelodonti: Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sinensis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi.
 > - **Locality and horizon**: Samojlovich and Ust' Spokoinaya Formation, Novaya Zemlya Archipelago, Russia.
 > - **References**:(Antia, 1981; Boucot and Janis, 1983; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999)
 > - **Comments**: 
 
-**Taungateli Horizon, Baytal Formation, Khondergei Formation, Elegest and Kadvoi Rivers, Tuva, Russia**
+#### Taungateli Horizon, Baytal Formation, Khondergei Formation, Elegest and Kadvoi Rivers, Tuva, Russia
 > - **Age**: Gorstian to Ludfordian.
 > - **Taxa**: Thelodonti: Helenolepis navicularis, Loganellia sp. cf. L. grossi, Loganellia cuneata, Loganellia incompta, Loganellia cf. L. tuvaensis, Loganellia unispinata.
 > - **Locality and horizon**: Taungateli Horizon, Baytal Formation, Khondergei Formation, Elegest and Kadvoi Rivers, Tuva, Russia.
 > - **References**: (Blom, 1999; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Sennikov et al., 2015)
 > - **Comments**: 
 
-**Tabuska Beds, Tabuska River, Central Ural Mountains, Russia**
+#### Tabuska Beds, Tabuska River, Central Ural Mountains, Russia
 > - **Age**: Ludfordian to Pridoli.
 > - **Taxa**: Anaspida: Liivilepis curvata, Schidiosteus mustelensis, Septentrionia dissimilis?, Septentrionia mucronata. Heterostraci: *Archegonaspis* sp., *Cyathaspis alexanderi*, *Tolypelepis*? Thelodonti: Thelodus parvidens, Thelodus sculptilis. Acanthodii: Nostolepis striata, Poracanthodes porosus. Osteichthyes: Andreolepis petri.
 > - **Locality and horizon**: Tabuska Beds, Upper Paadla Regional Stage, Tabuska River, Central Ural Mountains, Russia.
 > - **References**: (Blom et al., 2002; Märss, 2019; Märss and Miller, 2004; Vergoossen, 2004)
 > - **Comments**: 
 
-**Ludlow Red beds, South China**
+#### Ludlow Red beds, South China
 
-15) **Xiaoxi Formation, Baojing, Hunan, China**
+#### 15) Xiaoxi Formation, Baojing, Hunan, China
 > - **Age**: Late Ludfordian, Ludlow.
 > - **Taxa**: Galeaspida: Dunyu xiushanensis, Dunyu cf. xiushanensis, Eugaleaspis cf. xiushanensis.
 > - **Locality and horizon**: Xiaoxi Formation, Baojing, Hunan, China.
 > - **References**:(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
 > - **Comments**: 
 
-15) **Xiaoxi Formation, Xiushan, Chongqing, China**
+#### 15) Xiaoxi Formation, Xiushan, Chongqing, China
 > - **Age**: Late Ludfordian, Ludlow.
 > - **Taxa**: Galeaspida: Dunyu xiushanensis; Placodermi?: Bianchengichthys micros.
 > - **Locality and horizon**: Xiaoxi Formation, Xiushan, Chongqing, China.
 > - **References**:(Li et al., 2021; Rong et al., 2012; Zhao et al., 2018)
 > - **Comments**: 
 
-15) **Xiaoxi Formation,  Lixian,, Hunan, China**
+#### 15) Xiaoxi Formation,  Lixian,, Hunan, China
 > - **Age**: Late Ludfordian, Ludlow.
 > - **Taxa**: Placodermi: Shimenolepis graniferus.
 > - **Locality and horizon**: Xiaoxi Formation, Shanmen, Reservoir, Lixian, Hunan, China.
 > - **References**:(Li et al., 2021; Rong et al., 2012; Wang, 1991; Zhao et al., 2018; Zhao et al., 2016)
 > - **Comments**: 
 
-15) **Kuanti and Miaokao Formations, Qujing, East Yunnan, China**
+#### 15) Kuanti and Miaokao Formations, Qujing, East Yunnan, China
 > - **Age**: Late Ludfordian, Ludlow.
 > - **Taxa**: Galeaspida: Dunyu longiforus, Polybranchiaspis sp. Thelodonti: Thelodus sinensis, Thelodus admirabilis, Thelodus calvus, Thelodus carinatus, Thelodus hoskinsi, Thelodus laevis, Thelodus marginatus, Thelodus matukhini, Thelodus parvidens, Thelodus schmidti, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Thelodus visvaldi. Acanthodii: Gomphonchus sp., Hanilepis wangi, Nostolepis sinica, Nostolepis sp., Nostolepis striata, Poracanthodes qujingensis. Osteichthyes: Guiyu oneiros, Kawalepis comptus, Ligulalepis yunnanensis, Megamastax amblyodus, Naxilepis gracilis, Sparalepis tingi. Placodermi: Entelognathus primordialis, Silurolepis platydorsalis, Qilinyu rostrata.
 > - **Locality and horizon**:  Kuanti and Miaokao Formations, Qujing, East Yunnan, China.
 > - **References**: (Antia, 1981; Blieck et al., 2002; Cai et al., 2020; Chen et al., 2024b; Choo et al., 2017; Mark-Kurik, 1969; Märss et al., 2003; Mu et al., 1986; Musteikis, 1999; Wang and Dong, 1989; Zhao, 2010; Zhao and Zhu, 2015; Zhu et al., 2016; Zhu et al., 2013; Zhu et al., 2009; Zhu et al., 2019)
 > - **Comments**:
 
-**The Phlebolepis  ornata  Zone**: late Gorstian
+#### The Phlebolepis ornata Zone: late Gorstian
 > Sauvere Beds (excluding the lowermost part) of the Paadla Stage, Gorstian, lower Ludlow, interval 111.80ñ112.25 m in the Ohesaare core section, Saaremaa, Estonia. The zone has been recognized only in the sections on Saaremaa and Gotland islands, in the middle  and upper parts of the  Sauvere Beds, Paadla Stage, and in units band c of the Hemse Beds, respectively.
 
 > - Phlebolepis ornata, Thelodus sp. and Par. martinssoni.
 
-**The Phlebolepis elegans Zone**: late Gorstian
+#### The Phlebolepis elegans Zone: late Gorstian
 > Himmiste Beds (except their lower half) of the Paadla Stage, upper Gorstianñ lower Ludfordian, Ludlow, interval 105.03ñ108.30 m in the Ohesaare core section, Saaremaa. Saaremaa, western mainland of Estonia (middle and upper Himmiste Beds and lower Uduvere Beds of the Paadla  Stage), Gotland,  Sweden (the uppermost part of unit c and the lower half of unit d of the Hemse limestones and the corresponding interval of the Hemse marlsin NW Gotland).
 > Upper Bringewood  and  lower Leintwardine  formations,  Gorstian  and  Ludfordian  of the Welsh Borderland, southern Britain; upper Mielnik Stage, Ludlow, eastern Poland; middle Gerd″yu Stage, upper Gorstian and lower Ludfordian, western slope of the North and Central Urals; Velikaya River Formation, Ludlow,  Timan-Pechora  Region;  middle  part  of the Ust′-Spokojnaya Formation, Ludlow, Matusevich River, and lower part of the same formation in the Spokojnaya River section, October Revolution Island,  Severnaya Zemlya.
 
 > - Phl. elegans, Thelodus laevis, T. carinatus  (Pander), Par. martinssoni, Tremataspis mammillata Patten, Tremataspis  milleri, Dartmuthia gemmifera  Patten, Oeselaspis  pustulata, Witaaspis schrenkii, Thyestes verrucosus, Procephalaspis oeselensis (Robertson),  Vesikulepis funiforma , Silmalepis erinacea, Rytidolepis? quenstedtii.
 
-**The Andreolepis hedei Zone**: early to middle Ludfordian
+#### The Andreolepis hedei Zone: early to middle Ludfordian
 > Mituva Formation, Paadla Stage, Ludfordian, Ludlow, interval 472.4ñ484.5 m in the Ventspils-D3 core section, western Latvia.
 > Upper (excluding the uppermost part) of the Ust′-Spokojnaya Formation, Ludlow, October Revolution, Pioneer and Komsomolets islands, Severnaya Zemlya; uppermost part of the West Khatanzej Formation, Ludlow, Khatanzej Peninsula, Novaya Zemlya; Velikaya River  Formation,  Gerd″yu  Stage,  Ludlow,  Velikaya River, northern Timan; upper part of the Kuba Beds, lower Ludfordian, Ludlow, of the southern Mikhajlovsk Pond section, Mikhajlovsk Subzone, Central Urals.
 >
 > - Thelodus laevis, T. carinatus,  Par. martinssoni,  Par. kaarmisensis, Phl. elegans; Archegonaspis sp.; Nostolepis  striata and Gomphonchus sandelensis.
 
-**The Thelodus sculptilis Zone**: late Ludfordian
+#### The Thelodus sculptilis Zone: late Ludfordian
 > Lower  part  of  the Tahula Beds of the Kuressaare Stage, upper Ludfordian, Ludlow; interval  83.10ñ95.17 m  in the  Ohesaare  core section, Saaremaa.
 > Lower part  of the  Tahula Beds  of  the  Kuressaare  Stage,  upper  Ludfordian  in western Latvia and Estonia; upper Pagegiai Formation, upper Ludlow, Lithuania; Burgsvik Formation, Ludfordian, Gotland, Sweden.
 > ÷ved  Sandstone  Formation, ÷ved-RamsÂsa Beds, SkÂne, southern Sweden; uppermost Gerd″yu Stage, upper Ludlow, Timan-Pechora Region, Tabuska Beds; upper Ludlow or lower Přidoli (see above about the Tabuska Beds), Central Urals; Greben′ Stage, upper Ludlow, Novaya Zemlya Archipelago, Russia.
 > 
 > - Thelodus sculptilis, T. parvidens Agassiz,  T. traquairi  (Gross), Loganellia cuneata (Gross), Par. ludlowiensis (Gross), Par. perensae M‰rss, Nethertonodus laadjalaensis M‰rss,  Trimerolepis tricava (Gross), Longodus acicularis M‰rss; heterostracan Archegonaspis sp.;  osteostracan  Zenaspis? sp.;  anaspid Tahulalepis elongituberculata Blom, M‰rss & Miller; acanthodians Nostolepis striata Pander,  Gomphonchus sandelensis (Pander), Poracanthodes porosus Brotzen
 
-**The Thelodus admirabilis Zone**: late Ludfordian
+#### The Thelodus admirabilis Zone: late Ludfordian
 > Uppermost part of the Tahula  and  Kudjape  beds  of  the  Kuressaare  Stage, uppermost Ludfordian, upper Ludlow; interval 64.65ñ 83.10 m in the Ohesaare core section, Saaremaa.
 > Upper Tahula and Kudjape beds, Kuressaare Stage, upper Ludlow, and the lower ƒigu  Beds,  Kaugatuma  Stage,  lower  Přidoli,  Latvia and Estonia; upper Pagegiai Formation, upper Ludlow, Central Lithuania.
 >  ÷ved Sandstone Formation, ÷ved RamsÂsa Group, lower Přidoli, SkÂne, southern Sweden.
 
-***Xiaoxiang Vertebrate Fauna***: Ludfordian, late Ludlow.
+#### Xiaoxiang Vertebrate Fauna: Ludfordian, late Ludlow.
 > The fauna, including two vertebrate assemblages (Yangtze and Hongmiao assemblages), is characterised by the radiation of placoderms and acanthodians, and the early occurrence and divergence of osteichthyans. It is distributed mainly in Qujing of Yunnan and partialy in north-western Hunan. The age of the Xiaoxiang Vertebrate Fauna is restricted to the Ludfordian (late Ludlow, 425.6, 423.0), lasting for about 2.6 million years.
 > Horizons: Kuanti, Miaogao, and Yulungssu (lower part) formations in Qujing, Yunnan; Xiaoxi Formation in north-western Hunan and south-eastern Chongqing.
 
@@ -1306,98 +1305,98 @@ Osteostraci: Ateleaspis tesselata.
 
 ## Pridoli
 
-**Stonehouse Formation, Arisaig, Cape George, Nova Scotia, Canada**
+#### Stonehouse Formation, Arisaig, Cape George, Nova Scotia, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Thelodonti: Thelodus cf. parvidens. Acanthodii: Machaeraporus stonehousensis.
 > - **Locality and horizon**: Stonehouse Formation, Arisaig, Cape George, Nova Scotia, Canada.
 > - **References**:(Boucot and Janis, 1983; Burrow et al., 2013; Turner and Burrow, 2018)
 > - **Comments**: 
 
-**Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada**
+#### Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Thelodonti: Trimerolepis lithuanica, Trimerolepis timanica, Trimerolepis triangulus, Trimerolepis tricava.
 > - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
 > - **References**: (Boucot and Janis, 1983; Mark-Kurik, 1969; Märss et al., 1997)
 > - **Comments**: 
 
-**Cape Clarence Member, Leopold Formation, Nunavut, Canada**
+#### Cape Clarence Member, Leopold Formation, Nunavut, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Heterostraci: *Corvaspis* cf. *arctica*, *Kallostrakon*? sp. indet., *Ptomaspis* n.sp., *Tolypelepis* cf. *leopoldensis*, *Tolypelepis leopoldensis*.
 > - **Locality and horizon**: Cape Clarence Member, Leopold Formation, Nunavut, Canada.
 > - **References**: (Loeffler and Jones, 1977; Miall and Kerr, 1977; Plotnick, 1999)
 > - **Comments**: 
 
-**Bertie Formation, southern Ontario, Canada**
+#### Bertie Formation, southern Ontario, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Acanthodii: Nerepisacanthus denisoni.
 > - **Locality and horizon**: Bertie Formation, southern Ontario, Canada.
 > - **References**: (Burrow and Rudkin, 2014)
 > - **Comments**: 
 
-**Clinton Member, Cunningham Creek Formation, Nerepis Hills, New Brunswick, Canada**
+#### Clinton Member, Cunningham Creek Formation, Nerepis Hills, New Brunswick, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Anaspida: Ctenopleuron nerepisense. Thelodonti: Thelodus macintoshi. Heterostraci: *Cyathaspis acadica*. Acanthodii: Nerepisacanthus denisoni.
 > - **Locality and horizon**: Clinton Member, Cunningham Creek Formation, Nerepis Hills, New Brunswick, Canada.
 > - **References**:(Burrow, 2011; Denison, 1956; Matthew, 1889; Matthew, 1907; Robertson, 1941; Turner, 1986; Turner and Burrow, 2018)
 > - **Comments**:
 
-**Somerset Formation, Somerset Island, Northwest Territories, Canada**
+#### Somerset Formation, Somerset Island, Northwest Territories, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Heterostraci: *Alainaspis platyrhina*, *Anchipteraspis crenulate*, *Archegonaspis schmidti*, *Ariaspis arctata*, *Boothiaspis alata*, *Boothiaspis ovata*, *Capitaspis giblingi*, *Corvaspis arctica*, *Pionaspis* sp., *Torpedaspis elongate*. Osteostraci: Hemicyclaspis murchinsoni.
 > - **Locality and horizon**: Somerset Formation, Somerset Island, Northwest Territories, Canada.
 > - **References**:(Boucot and Janis, 1983; Broad and Dineley, 1973; Elliott and Dineley, 1983; Elliott and Swift, 2010; Jones and Dixon, 1977; Loeffler and Dineley, 1976; Miall et al., 1978; Novitskaya, 2007)
 > - **Comments**:
 
-**Road River and Gossage Formatio, Yukon Territory, Canada**
+#### Road River and Gossage Formatio, Yukon Territory, Canada
 > - **Age**: Pridoli.
 > - **Taxa**: Heterostraci: *Vernonaspis allenae*, *Vernonaspis bamberi*, *Vernonaspis bryanti*, *Vernonaspis epitegosa*, *Vernonaspis leonardi*, *Vernonaspis major*.
 > - **Locality and horizon**: Road River and Gossage Formatio, Yukon Territory, Canada.
 > - **References**: (Boucot and Janis, 1983; Broad and Lenz, 1972; Denison, 1964; Lenz, 1982)
 > - **Comments**: 
 
-**Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Oesel, Jura, and Tilze Formations, Estonia and Latvia, East Baltic**
+#### Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Oesel, Jura, and Tilze Formations, Estonia and Latvia, East Baltic
 > - **Age**: Pridoli.
 > - **Taxa**: Heterostraci: *Oniscolepis dentata*, *Strosipherus indentatus*, *Tolypelepis undulata*, *Tylodus deltoides*. Thelodonti: Goniporous alatus, Katoporodus tricavus, Loganellia asiatica, Loganellia cf. tuvaensis, Loganellia cuneata, Loganellia incompta, Loganellia tuvaensis, Loganellia unispinata, Logania kummerowi, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni, Thelodus admirabilis, Thelodus bicostatus, Thelodus carinatus, Thelodus costatus, Thelodus parvidens, Thelodus pugniformis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus, Trimerolepis lithuanica, Trimerolepis triangulus, Trimerolepis tricava. Acanthodii: Onchus wheathillensis, Nostolepis alta, Nostolepis gracilis, Nostolepis kozhymica, Nostolepis paravolborthi, Nostolepis striata, Nostolepis zinaidae.
 > - **Locality and horizon**: Himmiste, Tahula, Uduvere, Aigu, and Kudjape Beds, Oesel, Jura, and Tilze Formations, Estonia and Latvia, East Baltic.
 > - **References**: (Antia, 1981; Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Karatajūtė-Talimaa, 1990; Kiipli et al., 2011; Mark-Kurik, 1969; Märss, 1977; Märss, 1986; Märss et al., 2015; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Märss et al., 2003; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Turner, 2000; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**:
 
-**Burgsvik Sandstone, Gotland, Sweden**
+#### Burgsvik Sandstone, Gotland, Sweden
 > - **Age**: Pridoli.
 > - **Taxa**: Thelodonti: Thelodus bicostatus, Thelodus carinatus, Thelodus costatus, Thelodus pugniformis, Thelodus sculptilis, Thelodus sp., Thelodus traquairi, Thelodus trilobatus. Osteichthyes: Andreolepis hedei, Andreolepis petri.
 > - **Locality and horizon**: Burgsvik Sandstone, Gotland, Sweden.
 > - **References**:(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Bremer, 2017; Bremer and Blom, 2015; Cherns, 1999; Eriksson et al., 2009; Gross, 1968; Karatajūtė-Talimaa, 1990; Mark-Kurik, 1969; Märss, 2001; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Martinsson, 1966; Musteikis, 1999; Plotnick, 1999; Sepkoski, 1998; Vergoossen, 2002; Vergoossen, 2004)
 > - **Comments**: 
 
-**Ringerike Group, Steinsfjorden, Upper Sundvollen Formation, Holmestrand, Oslo, Norway.**
+#### Ringerike Group, Steinsfjorden, Upper Sundvollen Formation, Holmestrand, Oslo, Norway
 > - **Age**: Pridoli.
 > - **Taxa**: Osteostraci: Hemicyclaspis kiaeri, Hemicyclaspis murchinsoni.
 > - **Locality and horizon**: Ringerike Group, Steinsfjorden, Upper Sundvollen Formation, Holmestrand, Oslo, Norway.
 > - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Davies et al., 2005; Davies et al., 2006)
 > - **Comments**:
 
-**Vernon-Pittsford Formation, Kenwood, New York, USA**
+#### Vernon-Pittsford Formation, Kenwood, New York, USA
 > - **Age**: Pridoli.
 > - **Taxa**: Heterostraci: *Archegonaspis* sp., *Vernonaspis* sp.
 > - **Locality and horizon**: Vernon-Pittsford Formation, Kenwood, New York, USA.
 > - **References**: (Boucot and Janis, 1983; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**: 
 
-**Downton Castle Sandstone Formation and Ledbury Formation, Ledbury, Herefordshire, UK**
+#### Downton Castle Sandstone Formation and Ledbury Formation, Ledbury, Herefordshire, UK
 > - **Age**: Pridoli.
 > - **Taxa**: Anaspida: Tahulalepis kingi. Heterostraci: *Kallostrakon* sp.. Osteostraci: Auchenaspis egertoni, Auchenaspis sp., Didymaspis grindrodi, Hemicyclaspis lightbodii, Hemicyclaspis murchisoni. Acanthodii: Onchus mirabilis, Onchus sp., Plectrodus mirabilis, Plectrodus sp..
 > - **Locality and horizon**: Downton Castle Sandstone Formation and Ledbury Formation, Ledbury, Herefordshire, UK.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Dineley and Metcalf, 1999)
 > - **Comments**: 
 
-**Krasnaya Bukhta Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia**
+#### Krasnaya Bukhta Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Pridoli.
 > - **Taxa**: Anaspida: Spokoinolepis alternans. Thelodonti: Loganellia asiatica, Loganellia cf. tuvaensis, Loganellia incompta, Loganellia tuvaensis, Loganellia unispinata, Paralogania borealis, Paralogania cf. borealis, Paralogania foliala, Paralogania kachanovi, Paralogania kummerowi, Paralogania tarranti, Paralogania wilsoni, Thelodus sp..
 > - **Locality and horizon**: Krasnaya Bukhta Formation, Pioneer Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**:(Blieck et al., 2002; Blom et al., 2002; Boucot and Janis, 1983; Männik et al., 2002; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998)
 > - **Comments**: 
 
-**Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group, Northern Timan (Timan-Pechora Region), Russia**
+#### Eptarma Formation and Ovinparma Formation 1-2 and Velikaya River Formation, Eptarma Group, Northern Timan (Timan-Pechora Region), Russia
 > - **Age**: Pridoli.
 > - **Taxa**: Osteostraci: *Timanaspis kossovoii*.
 > - Heterostraci: *Oniscolepis dentata*.
@@ -1407,35 +1406,34 @@ Osteostraci: Ateleaspis tesselata.
 > - **References**: (Blieck et al., 2002; Boucot and Janis, 1983; Märss, 2019; Märss and Karatajūte-Talimaa, 2009; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Musteikis, 1999; Sepkoski, 1998; Valiukevicius, 2003)
 > - **Comments**: 
 
-**Chester Bjerg Formation, Halls Grav locality and Monument, Hall Land, North Greenland.**
+#### Chester Bjerg Formation, Halls Grav locality and Monument, Hall Land, North Greenland
 > - **Age**: Pridoli to Lochkovian.
 > - **Taxa**: Anaspida: Septentrionia seducta. Thelodonti: Loganellia sp. cf. L. tuvaensis, Nikolivia auriculata, Nikolivia sp., Paralogania denisoni, Paralogania foliala, Praetrilogania grabion, Talivalia elongata, Talivalia sp.. Heterostraci: Cyathaspidiformes indet., *Oniscolepis* sp., *Poraspis* sp.. Osteostraci: Indet.. Acanthodii: Climatiida indet., Gomphonchus cf. G. sandelensis, Nostolepis halli, Poracanthodes cf. P. punctatus, Indet.. Chondrichthyes: Indet..
 > - **Locality and horizon**: Chester Bjerg Formation, Halls Grav locality and Monument, Hall Land, North Greenland.
 > - **References**:(Blieck and Janvier, 1991; Blom, 1999; Blom et al., 2002)
 > - **Comments**:
 
-15) **Yulungssu Formation, Qujing, East Yunnan, China**
+#### 15) Yulungssu Formation, Qujing, East Yunnan, China
 > - **Age**: Pridoli.
 > - **Taxa**:[*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > - **Locality and horizon**:  Yulungssu Formation, Qujing, East Yunnan, China.
 > - **References**:
 > - **Comments**: upper part of the Yulungssu Formation, Qujing, Yunnan.
 
-
-**The Nostolepis gracilis Zone**: early Pridoli
+#### The Nostolepis gracilis Zone: early Pridoli
 > Upper ƒigu and Lıo beds (excluding the uppermost part) of the Kaugatuma Stage, Přidoli, interval 55.6ñ94.8 m in the Sırve-514 drill core, Saaremaa.
 > Upper ƒigu and Lıo beds (excluding the uppermost part) of the Kaugatuma Stage, Přidoli, Estonia  and Latvia; most of the Kaugatuma Stage (excluding the lower part), Kaliningrad District; upper Minija and lower Jūra formations, Lithuania. Middle  Downton  (Holdgate Group), Welsh Borderland, southern Britain.
 
 > - N. gracilis, T. parvidens,  T. traquairi,  L. cuneata, Trimerolepis tricava, Tolypelepis undulata, G. sandelensis, Por. porosus and Lophosteus connexus.
 
-**The Poracanthodes punctatus Zone**: late Pridoli
+#### The Poracanthodes punctatus Zone: late Pridoli
 > Uppermost Kaugatuma Stage and most of the Ohesaare Stage, interval 276.2ñ 325.2 m in the Ventspils-D3 drill core, Latvia.
 > Uppermost Kaugatuma Stage and most of the Ohesaare Stage, Estonia, Latvia, Lithuania and the Kaliningrad District.
 > Barlow Inlet Formation, Přidoli, Read Bay southern section, Cornwallis Island, Arctic Canada.
 
 > - T. parvidens,  T. traquairi,  L. cuneata,  Tr. tricava, N. striata and G. sandelensis, as well as those of the Ohesaare (uppermost Silurian) and Tilûe (Lower Devonian) stages, (Goniporus alatus (Gross), Tolypelepis undulata Pander,  Oniscolepis  dentata  Pander,  Gomphonchus hoppei  Gross, Lophosteus superbus  Pander,  Tylodus deltoides Rohon).
 
-**The Trimerolepis timanica Zone**: latest Pridoli
+#### The Trimerolepis timanica Zone: latest Pridoli
 > Uppermost Ohesaare Stage, Přidoli; interval 269.5ñ276.2 m in the Ventspils- D3 drill core, Latvia.
 > Uppermost Ohesaare Stage, Latvia (Tr. timanica) and Lithuania (Tr. lithuanica); in Estonia, the sedimentary rocks of this age are missing.
 > Uppermost Přidoli in the Timan- Pechora region, NW  Russia  (with both  Tr. timanica and Tr. lithuanica present); Ledbury Formation, Welsh Borderland, southern Britain (Tr. cf. timanica, see remarks below).
@@ -1925,6 +1923,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
