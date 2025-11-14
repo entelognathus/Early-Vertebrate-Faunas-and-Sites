@@ -91,7 +91,7 @@
 
 **Shanxi Formation, Shanxi Province, China**
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Chondrichthyes: Ornithoprion sp., Palaeomolis sp. (Liu, 2013; Liu et al., 2024). Temnospondyli: Caerorhachis bairdi, Eryops sp., Platyhystrix sp. (Liu, 2013; Liu et al., 2024), Shanxitemnos qiangshuiensis (Chen et al., 2020). Reptiliomorpha: Shansiodon yangquanensis (Wang et al., 2023), Palaeogyrinus sp. (Liu et al., 2024).
+> - **Taxa**: Chondrichthyes: Ornithoprion sp., Palaeomolis sp. (Liu, 2013; Liu et al., 2024). Temnospondyli: Shanxitemnos qiangshuiensis (Chen et al., 2020). Reptiliomorpha: Shansiodon yangquanensis (Wang et al., 2023)
 > - **Locality and horizon**: Qianshui quarry, Qinyuan County, and localities in Yangquan, Shanxi Province, China. Lower member (or lower part) of the Shanxi Formation (Liu, 2013; Chen et al., 2020; Wang et al., 2023).
 > - **References**:
 > - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
@@ -2564,6 +2564,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
