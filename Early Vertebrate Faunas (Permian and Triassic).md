@@ -292,13 +292,6 @@
 > - **References**:
 > - **Comments**:
 
-**Meisenheim Formation, Saar–Nahe Basin, Germany**
-> - **Age**: Asselian to early Sakmarian, Cisuralian, Permian 
-> - **Taxa**: Temnospondyli: *Apateon pedestris*, *Leptorophus* sp., *Glanochthon angusta*, *Sclerocephalus haeuseri*. *Melanerpeton pusillum*, *Melanerpeton gracile*
-> - **Locality and horizon**: Obermoschel (middle Meisenheim Formation, laminated lacustrine mudstone); Rehborn (Member M10); Humberg lake system, Saarland (uppermost Meisenheim Formation, lacustrine deposits)
-> - **References**: Schindler et al., 2014; Schoch & Witzmann, 2009; Boy et al., 2012; Voigt et al., 2022.
-> - **Comments**:
-
 **Millery Formation, Autun Basin, France**
 > - **Age**: Asselian, Cisuralian, Permian. 
 > - **Taxa**: Actinopterygii: *Aeduella blainvillei*, *Igornichthys doubingeri*, *Igornella comblei*, *Paramblypterus rohani*, *Paramblypterus* sp., *Elonichthys autuniensis*. Chondrichthyes: *Triodus aeduorum*, *Triodus* sp., 'Expleuracanthus' *frossardi*. Amphibia: *Branchiosaurus* sp., *Apateon* sp., *Onchiodon* sp., *Archegosaurus dyscriton*, *Melanerpeton pusillum*, *Melanerpeton gracile*. Synapsida: *Haptodus baylei*, *Callibrachion gaudryi*, *Callibrachion* sp., *Stereorhachis* sp.. Parareptilia: *Belebey augustodunensis*. Reptilia: *Seymouria baylorensis*, *Pelosaurus* sp., *Sauvarus* sp.. Dipnoi: *Sagenodus tardus*. 
@@ -2585,6 +2578,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
