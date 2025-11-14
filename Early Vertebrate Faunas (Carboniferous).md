@@ -16,7 +16,7 @@
 > - **Comments**: 
 
 #### Kinderhook Limestone, Iowa, USA
-> - **Age**: Tournaisian
+> - **Age**: early to middle Tournaisian
 > - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, *Ctenacanthus longinodosus*, *Ctenacanthus depressus*, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Kinderhook Limestone, Iowa, USA
 > - **References**:(Eastman, 1902; Newberry, 1897)
@@ -1211,6 +1211,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
