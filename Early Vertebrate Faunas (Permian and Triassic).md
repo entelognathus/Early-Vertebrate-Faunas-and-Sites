@@ -144,14 +144,7 @@
 > - **Taxa**: Mesosauridae: Mesosaurus tenuidens, Stereosternum tumidum
 > - **Locality and horizon**: Exposures cropping out in the Cerro Largo Department of northeastern Uruguay, especially at the Estancia “El Barón” locality, where the Mangrullo Formation (∼40 m thick) consists predominantly of laminated oil shale, claystone and siltstone beds of the Cerro Largo Group; fossiliferous horizons in the lower mudstone and claystone layers yield the mesosaurid community (Piñeiro et al., 2011; Calisto et al., 2022).
 > - **References**: de Queiroz et al., 2020; Piñeiro et al., 2011; Calisto et al., 2022
-> - **Comments**: 
-
-**Whitehill Formation, Karoo Basin, South Africa & Namibia**
-> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Amniota: Mesosaurus tenuidens, Stereosternum tumidum. Actinopterygii: Watsonichthys lotzi, Palaeoniscum capensis. Cephalochordata: Palaeobranchiostoma sp.
-> - **Locality and horizon**: The Whitehill Formation crops out in the Karoo Basin of South Africa and the equivalent Karasberg Basin of Namibia. In South Africa the formation is exposed near Calvinia and Louriesfontein (Northern Cape Province), where recent collections of articulated fish and mesosaurids were made. The formation is a thin unit of black carbonaceous shale within the Ecca Group; it was deposited as laminated muds in an inland sea with limited ocean access. Equivalent horizons extend into the Huab and Kalahari basins of Namibia and correlate with the Irati Formation of Brazil and the Mangrullo Formation of Uruguay. 
-> - **References**: Evans & Bender, 1999; Modesto, 2010; Damiani & Rubidge, 2003; Verrière & Fröbisch, 2022
-> - **Comments**: 
+> - **Comments**:  
 
 **Cundlego Formation, Carnarvon & Perth Basins, Western Australia**
 > - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
@@ -2544,6 +2537,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
