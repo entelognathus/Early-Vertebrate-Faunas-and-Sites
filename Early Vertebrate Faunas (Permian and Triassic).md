@@ -103,13 +103,6 @@
 > - **References**: Aristov et al., 2021; Benton et al., 2004; Golubev, 2000; Gubin, 1983; Henderson et al., 2012; Konzhukova, 1956; Lozovsky et al., 2009; Schoch & Werneburg, 2021; Werneburg et al., 2020
 > - **Comments**:
 
-**Blackwater Group, Bowen Basin, Queensland, Australia**
-> - **Age**: Late Permian (Lopingian)
-> - **Taxa**: Branchiopoda (Leaioidea): Hemicycloleaia deflectomarginis, Glossopteridales (Glossopteris): Glossopteris gladiforma
-> - **Locality and horizon**: Central-eastern Bowen Basin (Clermont region, Queensland) in the coal-bearing Blackwater Group (including Moranbah and Rangal Coal Measures)
-> - **References**: McLoughlin, 1994; Michaelsen and Henderson, 2000; Jones and Chen, 2000
-> - **Comments**:
-
 **Archer City Formation, North-central Texas, United States**
 > - **Age**: Asselian to early Sakmarian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Chondrichthyes: Orthacanthus texensis, Orthacanthus compresus, Xenacanthus sp., Hybodus sp., Ctenacanthus sp., Barbclabornia luederensis (Johnson, 1999; Johnson, 2012). Osteichthyes: Ectosteorhachis nitidus, Sagenodus sp., Gnathorhiza sp., Palaeoniscoidea indet. (Thomson, 1964; Sander, 1989). Temnospondyli: Eryops megacephalus, Edops craigi, Neldasaurus wrightae, Phonerpeton pricei, Trimerorhachis insignis, Archeria crassidisca, Tersomius texensis, Acheloma sp., Broiliellus brevis, Broiliellus olsoni, "Dissorophus" angustus (Romer & Price, 1940; Romer & Witter, 1942; Chase, 1965; Dilkes, 1990; Dilkes, 2020; Milner & Schoch, 2013; Schoch, 2018). Nectridea: Diplocaulus sp., Crossotelos sp. (Romer & Price, 1940). Microsauria: Pantylus cordatus, Parioxys sp. (Romer & Price, 1940). Captorhinidae: Protorothyris archeri, Romeria texana, Romeria primus (Price, 1937; Clark & Carroll, 1973; Laurin, 1991). Bolosauridae: Eocaptorhinus sp. (Romer & Price, 1940). Caseidae: Casea sp. (Romer & Price, 1940). Varanopidae: Apsisaurus witteri, Varanosaurus wichitaensis, Mycterosaurus sp. (Romer & Price, 1940; Reisz et al., 2010). Ophiacodontidae: Ophiacodon uniformis, Ophiacodon retroversus, Ophiacodon navajovicus (Romer & Price, 1940). Edaphosauridae: Edaphosaurus boanerges (Romer & Price, 1940). Sphenacodontidae: Dimetrodon milleri, Dimetrodon limbatus, Dimetrodon natalis, Dimetrodon booneorum, Dimetrodon grandis, Dimetrodon giganhomogenes, Sphenacodon ferocior, Secodontosaurus obtusidens (Romer, 1937; Romer & Price, 1940). Synapsida incertae sedis: Stereophallodon ciscoensis, Baldwinonus trux, Lupeosaurus sp., Theropleura sp. (Romer & Price, 1940). Diadectidae: Diadectes sp. (Romer & Price, 1940).
@@ -2564,6 +2557,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
