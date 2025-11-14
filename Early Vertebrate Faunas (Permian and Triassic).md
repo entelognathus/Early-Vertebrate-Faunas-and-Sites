@@ -75,12 +75,12 @@
 > - **References**: Santos et al., 2006; Chahud et al., 2010; Chahud, 2023
 > - **Comments**: 
 
-**Pedra de Fogo Formation, Parnaíba Basin, Brazil**
+**Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí–Tocantins), Brazil**
 > - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: *Anisopleurodontis pricei*, *Itapyrodus punctatus* (Chondrichthyes). *Brazilichthys macrognathus* (Actinopterygii). *Prionosuchus plummeri* (Temnospondyli). *Timonya anneae*, *Procuhy nazariensis* (Temnospondyli). *Captorhinikos* sp., Moradisaurinae Gen. et sp. indet. (Reptilia).
-> - **Locality and horizon**: Vertebrate fossils are distributed widely across Maranhão, Piauí, and Tocantins states. The principal fossil sites include Pastos Bons and Nova Iorque (Maranhão) yielding Prionosuchus and chondrichthyan remains from silty shale and chert layers; the Timon–Nazária region (Maranhão–Piauí) preserving Timonya, Procuhy, and captorhinids from lacustrine siltstones of the lower Pedra de Fogo Formation; and Guaraí (Tocantins), which has yielded fin spines and scales of sharks and palaeonisciform fishes (Price, 1948; Cisneros et al., 2015; Alves, 2010b). Most vertebrate-bearing levels correspond to the lower to middle parts of the formation (Basal Silex and lower Middle members).
-> - **References**:
-> - **Comments**: 
+> - **Taxa**: **Chondrichthyes**: *Anisopleurodontis pricei*, *Itapyrodus punctatus*, *Rubencanthus diplotuberculatus*, *Sphenacanthus ignis*, *Bythiacanthus lopesi*, *cf. Ctenacanthus sp.*, *cf. Cladodus sp.* **Actinopterygii**: *Brazilichthys macrognathus*, Palaeonisciformes, palaeonisciform-like fin spines and scales. **Sarcopterygii**: Coelacanthiformes, Dipnoiformes. **Temnospondyli**: *Prionosuchus plummeri*, *Timonya anneae*, *Procuhy nazariensis*. **Reptilia (Captorhinidae)**: *Captorhinikos* sp., Moradisaurinae gen. et sp. indet., Captorhinidae indet.
+> - **Locality and horizon**: Vertebrate fossils occur widely across Maranhão, Piauí, and Tocantins. Key localities include Pastos Bons and Nova Iorque (Maranhão), yielding *Prionosuchus* and chondrichthyan remains from silty shale and chert layers; the Timon–Nazária region (Maranhão–Piauí), preserving *Timonya*, *Procuhy*, and captorhinids from lacustrine siltstones of the lower Pedra de Fogo Formation; Nazária and Palmeirais (PI-130 highway quarries, Piauí); and Filadélfia, Barra do Ouro, and Guaraí (Tocantins), which have produced fin spines and palaeonisciform remains, often from the Trisidela Member. Most vertebrate-bearing levels correspond to the Basal Silex and lower Middle members.
+> - **References**: Price, 1948; Cox & Hutchinson, 1991; Alves, 2010; Alves, 2010b; Cisneros et al., 2015; Cisneros et al., 2020; Figueroa & Gallo, 2017; Figueroa et al., 2019; Iannuzzi et al., 2018; Alves et al., 2021; Marsicano et al., 2021.
+> - **Comments**:
 
 **Liffey Group, Tasmania, Australia**
 > - **Age**: Sakmarian, Cisuralian (Early Permian), Permian.
@@ -388,13 +388,6 @@
 > - **Taxa**: Chondrichthyes: *Glikmanius cf. myachkovensis*, *Glikmanius culmenis*, *Omanoselache hendersoni*, *Omanoselache angiolinii*, *cf. Omanoselache sp.*, *Reesodus underwoodi*, *Teresodus amplexus*, *Gunnellodus bellistriatus*, *Khuffia lenis*, *Khuffia prolixa*, *Euselachii sp. indet.*, *cf. 'Palaeozoic Genus 1' sp.* (Lonchidiidae), *Cooleyella cf. fordi*, *Nemacanthus sp.*, *Amelacanthus cf. sulcatus*. Holocephali: *Deltodus aff. mercurei*, *Solenodus cf. crenulatus* 
 > - **Locality and horizon**: Autochthonous Wordian Khuff Formation; well-exposed, low-palaeolatitude sections in the interior Haushi-Huqf area, Sultanate of Oman (Koot et al., 2013). The fauna was recovered from limestone units (Angiolini et al., 2003; Koot et al., 2013) corresponding to the three members of the Khuff Formation in the Haushi outcrop (Angiolini et al., 2003).
 > - **References**: Angiolini & Bucher, 1999; Angiolini et al., 2003; Koot et al., 2013
-> - **Comments**:
-
-**Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí), Brazil**
-> - **Age**: Kungurian, Cisuralian, Permian
-> - **Taxa**: Chondrichthyes: *Rubencanthus diplotuberculatus*, *Sphenacanthus ignis*, *Bythiacanthus lopesi*, *cf. Ctenacanthus sp.*, *cf. Cladodus sp.*. Actinopterygii: *Brazilichthys macrognathus*, Palaeonisciformes. Sarcopterygii: Coelacanthiformes, Dipnoiformes. Amphibia (Temnospondyli): *Prionosuchus plummeri*, *Timonya anneae*, *Procuhy nazariensis*. Reptilia (Captorhinidae): *Captorhinikos* sp., Moradisaurinae (new taxon), Captorhinidae indet.
-> - **Locality and horizon**: Outcrops in the states of Maranhão, Piauí, and Tocantins. Specific localities include the municipalities of Pastos Bons and Nova Iorque (Maranhão) (Cox & Hutchinson, 1991; Figueroa & Gallo, 2017); the municipalities of Nazária and Palmeirais, at quarries along the PI-130 highway (Piauí) (Cisneros et al., 2020); and the municipalities of Filadélfia, Barra do Ouro, and Guaraí (Tocantins), often from the Trisidela Member (Alves, 2010).
-> - **References**: Alves, 2010; Alves et al., 2021; Cisneros et al., 2020; Cox & Hutchinson, 1991; Figueroa & Gallo, 2017; Figueroa et al., 2019; Iannuzzi et al., 2018; Marsicano et al., 2021; Price, 1948
 > - **Comments**:
 
 **Collio Formation, Lombardy (Brescian Alps), Italy**
@@ -2571,6 +2564,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
