@@ -37,7 +37,7 @@
 > - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
 
 #### Salem Limestone, Lanesville, Indiana, USA
-> - **Age**: Visean
+> - **Age**: middle Visean
 > - **Taxa**:*Chomatodus lanesvillensis*,*Ctenacanthus bellus*, *Cladodus indianensis* (**many need andded**)
 > - **Locality and horizon**:Salem Limestone, Lanesville, Indiana, USA
 > - **References**:(Branson, 1906)
@@ -1211,6 +1211,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
