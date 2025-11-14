@@ -163,42 +163,42 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **References**: (Salad Hersi and Dix, 1999; Sinclair, 1958)
 > - **Comments**: 
 
-**Upper-most Pamelia Formation, Canada**
+#### Upper-most Pamelia Formation, Canada
 > - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?
 > - **Locality and horizon**: Upper-most Pamelia Formation, Ouareau River, Quebec, Canada.
 > - **References**: (Eliuk, 1973; Salad Hersi and Dix, 1999)
 > - **Comments**: 
 
-**Lower Leray Formation–Lowville Formation, Canada**
+#### Lower Leray Formation–Lowville Formation, Canada
 > - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?
 > - **Locality and horizon**: Lower Leray Formation–Lowville Formation, Pont-Rouge, Quebec, Canada.
 > - **References**: (Eliuk, 1973; Salad Hersi and Dix, 1999)
 > - **Comments**: 
 
-**Whitewood Formation, Canada**
+#### Whitewood Formation, Canada
 > - **Age**: Sandbian.
 > - **Taxa**: Astraspida: *Astraspis* sp. or *desiderata*?; Pteraspidomorpha: *Pycnaspis* cf. *splendens*.
 > - **Locality and horizon**: Whitewood Formation, Bighorn Group, Sheep Mountain, Spearfish Canyon, Black Hills region, South Dakota, USA.
 > - **References**: (Boucot and Janis, 1983; Fahrenbach et al., 2017; Ørvig, 1958)
 > - **Comments**: 
 
-**Niil Formation, Western Australia**
+#### Niil Formation, Western Australia
 > - **Age**: Katian.
 > - **Taxa**: Astraspida: *Ritchieichthys nibili*.
 > - **Locality and horizon**: Nibil Formation, Subsurface Kidson 1 core, Western Australia.
 > - **References**:(Sansom et al., 2013)
 > - **Comments**:
 
-**Anzaldo Formation, Bolivia**
+#### Anzaldo Formation, Bolivia
 > - **Age**: Katian.
 > - **Taxa**: Arandaspida: *Sacabambaspis janvieri*.
 > - **Locality and horizon**: Anzaldo Formation, Cochabamba Province, Bolivia.
 > - **References**: (Gagnier et al., 1986; Gagnier, 1989; 1993a; Emig C, 2006; Gagnier, 1992; Pradel et al., 2007)
 > - **Comments**: 
 
-**Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Katian.
 > - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
 > - **Locality and horizon**: uppermost beds of the Ozernaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
@@ -206,7 +206,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: Sample MF 49-7. The latest age assignment follows Mannik et al. (2009).
 > - Märss and Karatajūtē-Talimaa, 2002: Sample MF 49-7 (Middle-Late Ordovician). Thelodont finds occur between the two described conodont levels and their age is determined as Middle-Upper (sample MF 49-7) to Upper Ordovician (samples MF 49-9 up to MF 50-3).
 
-**Khoreiver and Muker Formations, Timan-Pechora, Russia**
+#### Khoreiver and Muker Formations, Timan-Pechora, Russia
 > - **Age**: Katian to Hirnantian.
 > - **Taxa**: Thelodonti: *Sandivia augusta*, *Sandivia melnikovi*.
 > - **Locality and horizon**: Khoreiver and Muker Formations, Timan-Pechora, Russia.
@@ -214,21 +214,21 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **Comments**: The post-Sandbian record sees the appearance of a number of thelodont taxa (*Sandivia* and *Stroinolepis*) in Laurentian and Baltic terranes (see Karatajūtė-Talimaa, 1997; Märss and Karatajūtė-Talimaa, 2002; Turner et al., 2004).
 > - Märss and Karatajūtē-Talimaa, 2002: "The first definite Ordovician thelodonts, *Sandivia melnikovi* Karatajūtē-Talimaa, 1997 and *S. angusta* Karatajūtē-Talimaa, 1997, have been described from the **Bagan Formation**, Middle-Upper Ordovician, and Muker and Khoreiver formations, Upper Ordovician, from 14 bore core sections of Timan-Pechora Region by Karatajūtē-Talimaa (1997)."
 
-**Strojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia**
+#### Strojnaya Formation, October Revolution Island, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Hirnantian.
 > - **Taxa**: Thelodonti: *Stroinolepis maenniki*.
 > - **Locality and horizon**: Strojnaya Formation, Strojnaya River, October Revolution Island, Russia.
 > - **References**: (Mannik et al., 2009; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: 
 
-**Soom Shale, South Africa**
+#### Soom Shale, South Africa
 > - **Age**: Late Hirnantian.
 > - **Taxa**: nakedanaspid.
 > - **Locality and horizon**: Soom Shale Lagerstätte, South Africa.
 > - **References**:（Aldridge et al., 2001; Gabbott et al., 2016)
 > - **Comments**: what may be a nakedanaspid from the late Hirnantian Soom Shale Lagerstätte of South Africa （Aldridge et al., 2001; Gabbott et al., 2016).
 
-**Tchunia River, Russia**
+#### Tchunia River, Russia
 > - **Age**: Late Katian, Late Ordovician to Telychian, Llandovery, Silurian.
 > - **Taxa**: *Tesakoviaspis concentrica*.
 > - **Locality and horizon**: Tchunia (Tchunku) River, Nizhniaya, Siberian Platform, Russia.
@@ -238,59 +238,58 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - Tesserae of *Tesakoviaspis* sp. 1 nov. were discovered in three separate localities, in the borings of Viliuj district (III7, III8) in the east part of the Tunguska syncline, and in the Middle Morkoka area, in Late Ordovician, Ashgill deposits. Hirnantian.
 > -  Two species - *Tesakoviaspis* sp. 2 nov. and *Tesakoviaspis concentrica* are peculiar to the Upper Llandoverian deposits (Khastyrian Regional Stage) of the Lower Silurian. Very small, but well preserved tesserae of *Tesakoviaspis* sp. 2 nov. were discovered in boring 142, depth 135 m in the Morkoka area, Viliuj district (III8). Telychian.
 
-# Silurian
-## Llandovery
-> **Siberia, Russia**
-1) **Melichan Formation, Niuya-Beresovo District, East Siberia, Russia**
+## Silurian
+### Llandovery
+#### 1) Melichan Formation, Niuya-Beresovo District, East Siberia, Russia
 > - **Age**: Rhuddanian to early middle Aeronian.
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia sibirica*.
 > - **Locality and horizon**: Melichan Formation, Niuya-Beresovo District, East Siberia, Russia.
 > - **References**: (Karatajuté-Talimaa and Smith, 2003; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: The age assignment follows Žigaitė (2013). The thelodont discoveries in Niuya-Beresovo District are restricted to the Llandovery series and two formations: the Melichan Formation, lower Llandovery (Rhudanian–lower middle Aeronian), and the Utakan Formation (upper middle Aeronian–Telychian).
 
-2) **Utakan Formation, Niuya-Beresovo District, East Siberia, Russia** 16
+#### 2) Utakan Formation, Niuya-Beresovo District, East Siberia, Russia
 > - **Age**: late middle Aeronian to Telychian (Agidyan Regional Stage).
 > - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia aldridgei*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *L. scotica*.
 > - **Locality and horizon**: Utakan Formations, Niuya-Beresovo District, East Siberia, Russia.
 > - **References**: (Aldridge et al., 1996; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: The age assignment follows Žigaitė (2013).
 
-3) **Kochumdek Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 15
+#### 3) Kochumdek Formation, Kochumdek District, Pretunguska, West Siberia, Russia
 > - **Age**: Rhudanian to early Aeronian.
 > - **Taxa**: Thelodonti: Loganellia sibirica.
 > - **Locality and horizon**: Kochumdek Formation, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
 > - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:  The age assignment follows Žigaitė (2013). The lower Llandovery of the Kochumdek district is represented by the Kochumdek Formation (Rhudanian–lower Aeronian), and the middle Llandovery by the Kulinna Formation (middle–upper Aeronian). The overlying Razvilka Formation (upper Llandovery, Telychian) is followed by the Usas Formation (Wenlock–uppermost Gorstian).
 
-4) **Kulinna Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 15
+#### 4) Kulinna Formation, Kochumdek District, Pretunguska, West Siberia, Russia
 > - **Age**: middle to late Aeronian.
 > - **Taxa**: Thelodonti: Loganellia sibirica, Loganellia sp. indet.
 > - **Locality and horizon**: Kulinna Formation, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
 > - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:  The age assignment follows Žigaitė (2013). 
 
-5) **Razvilka Formation, Kochumdek District, Pretunguska, West Siberia, Russia** 15
+#### 5) Razvilka Formation, Kochumdek District, Pretunguska, West Siberia, Russia
 > - **Age**: Telychian.
 > - **Taxa**: Thelodonti: Angaralepis moskalenkoae, Loganellia sibirica, Loganellia sp. indet.
 > - **Locality and horizon**: Razvilka Formation, Lower Tchunku River, Kochumdek District, Pretunguska, Russia.
 > - **References**: (Aldridge et al., 1996; Hurst, 1975; Karatajūtė-Talimaa, 1990; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:  The age assignment follows Žigaitė (2013). 
 
-6) **Omnutakh Formation, Tururkhansk District, West Siberia, Russia**39
+#### 6) Omnutakh Formation, Tururkhansk District, West Siberia, Russia
 > - **Age**: Telychian.
 > - **Taxa**: Thelodonti: *Talimaalepis rimae*.
 > - **Locality and horizon**:Omnutakh Formation, Agidyan Regional Stage, Tururkhansk District, West Siberia, Russia.
 > - **References**:(Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: 
 
-7) **Raasokha Formation, Ilim District, East Sibera, Russia** 13, 14
+#### 7) Raasokha Formation, Ilim District, East Sibera, Russia
 > - **Age**: Rhudanian to Telychian. 
 > - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia matura*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *scotica*.  *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*, Loganellia sp. indet., *Talimaalepis kadvoiensis*.
 > - **Locality and horizon**: Raasokha Formation, Moyerocanian, Agidyan, and Khaastyrian Regional Stages, Angara-Ilim, Irkutsk Territory, East Sibera, Russia.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Plotnick, 1999)(Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**: The Ilim stratigraphic district, comprising the drainage basins of the middle Angara River and the Ilim River, yielded vertebrates from only the Rassokha Formation (Rhudanian–Telychian).
 
-8) **Balturino Formation, Balturino District, East Siberia, Russia** 24
+#### 8) Balturino Formation, Balturino District, East Siberia, Russia
 > - **Age**: Rhudanian to Telychian.
 > - **Taxa**: Thelodonti: *Loganellia asiatica*, *Loganellia* indet., *Loganellia sibirica*, *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
 > - Acanthodii: *Tchunacanthu*s sp., *Tchunacanthus* sp. indet.
@@ -299,7 +298,7 @@ Unknown: *Eleochera glossa*, *Skiichthys halsteadi*.
 > - **References**: (Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Sennikov et al., 2015; Tesakov, 2004; Žigaitė, 2013; Zigaite and Blieck, 2006)
 > - **Comments**:
 
-9) **Moyerochan Formation, Krasnoyarsk Territory, Russia**
+#### 9) Moyerochan Formation, Krasnoyarsk Territory, Russia
 > - **Age**: Rhuddanian to Aeronian.
 > - **Taxa**: Thelodonti: *Angaralepis moskalenkoae*, *Loganellia asiatica*, *Loganellia sibirica*.
 Acanthodii: *Lenacanthus priscus*, *Tchunacanthus obruchevi*.
@@ -308,15 +307,15 @@ Unknown: *Tesakoviaspis concentrica*.
 > - **Locality and horizon**: Moyerochan Formation, Moyero River, Moyerocanian, Krasnoyarsk Territory, Russia.
 > - **References**: (Aldridge et al., 1996; Karatajute-Talimaa and Smith, 2004; Märss and Karatajūtē-Talimaa, 2002; Märss and Miller, 2004; Sennikov et al., 2015; Sepkoski, 1998)
 > - **Comments**:
->
-10) **Golomyannyj Formation, Severnaya Zemlya Archipelago, Russia** 12, 17, 19
+
+#### 10) Golomyannyj Formation, Severnaya Zemlya Archipelago, Russia
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia matura*, *Loganellia sibirica*, *Paralogania klubovi*.
 > - **Locality and horizon**: Golomyannyj Formation, 1) Srednii Island, Sedova Archipelago; 2) Pioneer Island; 3) Strojnaya River, October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - **References**: (Männik et al., 2002; Männik et al., 2009; Märss and Karatajūtē-Talimaa, 2002)
 > - **Comments**: 
 
-11) **Elegest Formation, Tuva, Russia** 28
+#### 11) Elegest Formation, Tuva, Russia
 > - **Age**: Aeronian to Telychian
 > - **Taxa**: Thelodonti: *Loganellia aldridgei*, *Loganellia asiatica*, *Loganellia scotica*, *Loganellia sibirica*, *Loganellia* sp. cf. *L. cuneata*, *Loganellia* sp. cf. *L. scotica*, *Loganellia tuvaensis*, *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
 Acanthodii: *Tchunacanthus obruchevi*.
@@ -325,7 +324,7 @@ Chondrichthyes: *Elegestolepis* sp., *Udalepis* sp.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Hurst, 1975; Märss and Miller, 2004; Plotnick, 1999; Sennikov et al., 2015; Sepkoski, 1998; Vergoossen, 2002; Žigaitė, 2013)
 > - **Comments**:
 
-12) **Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia**
+#### 12) Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia
 > - **Age**: early Telychian.
 > - **Taxa**: Thelodonti: *Talimaalepis kadvoiensis*, *Talimaalepis rimae*.
 > - **Locality and horizon**: Kyzyl-Tchiraa Formation, Kyzyl-Tchiraa, Tuva, Russia. 
@@ -336,63 +335,63 @@ Chondrichthyes: *Elegestolepis* sp., *Udalepis* sp.
 > - The lower Wenlock corresponds to the Akchalym Formation (lower–middle Sheinwoodian), composed of siltstones with clayey interbeds, but barren of vertebrate fauna. The upper Wenlock sediments correspond to the Dashtygoi Formation (upper Sheinwoodian–middle Ludlow), composed of condensed limestones with thin siltstone intercalations (Vladimirskaya et al. 1986; Karatajute-Talimaa & Ratanov 2002)."
 > - Three Tuva localities: Kyzyl–Tchiraa, Elegest and Kadvoi.
 
-13) **Angatchi Formation, Kadvoi, Tuva, Russia**
+#### 13) Angatchi Formation, Kadvoi, Tuva, Russia
 > - **Age**: late Telychian (Angatchi Regional Stage, latest Llandovery)
 > - **Taxa**: Thelodonti: *Talimaalepis rimae*.
 > - **Locality and horizon**: Angatchi Formation, Kadvoi locality, central Tuva, Russia.
 > - **References**:  Žigaitė (2013)
 > - **Comments**: 
 
-14) **Clemville Formation, Quebec, Canada**
+#### 14) Clemville Formation, Quebec, Canada
 > - **Age**: Rhuddanian to early Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Clemville Formation, Petit River Port Daniel, Chaleur Bay, Clemville, Quebec, Canada.
 > - **References**: (Turner and Nowland, 1995)
 > - **Comments**: 2m below the top of the Clemville Formation, Chaleurs Group. The *Valyalepis crista* Zone, Valyalepis crista; Loganellia scotica-type and L. sibirica-type thelodonts.
 
-15) **Hendricks Formation, Door County, Wisconsin, USA**
+#### 15) Hendricks Formation, Door County, Wisconsin, USA
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Valyalepis crista*.
 > - **Locality and horizon**: Hendricks Formation, Door County, Wisconsin, USA.
 > - **References**: (Turner et al., 1999; Turner and Nowland, 1995)
 > - **Comments**: 
 
-16) **Hendricks Formation, Sturgeon Bay, Wisconsin, USA** 11
+#### 16) Hendricks Formation, Sturgeon Bay, Wisconsin, USA
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Sturgeon Bay, Wisconsin, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-17) **Hendricks Formation, Michigan, USA** 6
+#### 17) Hendricks Formation, Michigan, USA
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Hendricks Formation, Burnt Bluff Group, Fayette State Park, Michigan, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-18) **Byron Formation, Michigan, USA.** 10
+#### 18) Byron Formation, Michigan, USA
 > - **Age**: Aeronian.
 > - **Taxa**: Thelodonti: *Zuegelepis potanus*.
 > - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
 > - **References**: (Turner et al., 1999)
 > - **Comments**: 
 
-19) **Upper Saelabonn Formation, Norway** 7
+#### 19) Upper Saelabonn Formation, Norway
 > - **Age**: middle Aeronian.
 > - **Taxa**: Thelodonti: *Loganellia* cf. *aldridgei*.
 > - **Locality and horizon**: Upper Saelabonn Formation, Bjellum, Hadeland, Oslo, Norway.
 > - **References**: (Bremer et al., 2019)
 > - **Comments**: 
 
-20) **Jogeva Beds, Estonia** 8
+#### 20) Jogeva Beds, Estonia
 > - **Age**: Aeronian (Raikkula Regional Stage).
 > - **Taxa**: Osteostraci: *Kalanaspis delectabilis*.
 > - **Locality and horizon**: Jogeva Beds, Kalana Quarry, Estonia.
 > - **References**: (Tinn and Märss, 2018)
 > - **Comments**: 
 
-21) **Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK** 18
+#### 21) Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK
 > - **Age**: Aeronian to Telychian.
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia matura, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Minsterley, Purple Shales, and Venusbank Formation, Shropshire, UK.
@@ -400,28 +399,28 @@ Chondrichthyes: *Elegestolepis* sp., *Udalepis* sp.
 > - **Comments**: The *Loganellia aldridgei* Zone, late Aeronian to middle Telychian.
 > - Purple Shales Formation, Telychian; calcareous beds in the middle part of the sequence at the Devilís Dingle locality, Buildwas, Shropshire, Welsh Borderland, Britain. Venusbank and Minsterley formations, middle and upper Aeronian; Purple Shale Formation, lower Telychian, Shropshire, Welsh Borderland, Britain.
 
-22) **Byron Formation, Michigan, USA** 10
+#### 22) Byron Formation, Michigan, USA
 > - **Age**: Aeronian.
 > - **Taxa**:Thelodonti: Zuegelepis potanus.
 > - **Locality and horizon**: Byron Formation, Burnt Bluff Group, Schoolcraft County, Michigan, USA.
 > - **References**:(Turner et al., 1999)
 > - **Comments**: 
 
-23) **Vik Formation, Norway** 21
+#### 23) Vik Formation, Norway
 > - **Age**: Middle–Late Telychian.
 > - **Taxa**: Thelodonti: Thelodus sp., Thelodus parvidens.
 > - **Locality and horizon**: Vik Formation, Gjettum Station, Asker, Oslo, Norway.
 > - **References**: (Bremer et al., 2019; Turner, 1986)
 > - **Comments**: 
 
-24) **Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada** 23
+#### 24) Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada
 > - **Age**: Telychian
 > - **Taxa**: Thelodonti: Loganellia scotica.
 > - **Locality and horizon**: Cape Phillips Formation, Baillie-Hamilton Island, Nunavut, Canada.
 > - **References**: (Boucot and Janis, 1983; Märss et al., 1997)
 > - **Comments**: 
 
-25) **Cape Phillips Formation, Devon Island, Nunavut, Canada** 27
+#### 25) Cape Phillips Formation, Devon Island, Nunavut, Canada
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Cape Phillips Formation, Cape Phillips, Devon Island, Nunavut, Canada.
@@ -435,62 +434,62 @@ Chondrichthyes: *Elegestolepis* sp., *Udalepis* sp.
 > - **References**:(Aldridge et al., 1996; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998)
 > - **Comments**: 
 
-27) **Lower Visby Formation, Gotland, Sweden** 30
+#### 27) Lower Visby Formation, Gotland, Sweden
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Lower Visby Formation, Gotland, Sweden.
 > - **References**: (Aldridge et al., 1996; Bremer, 2017; Calner et al., 2004; Märss and Miller, 2004; Sepkoski, 1998)
 > - **Comments**:
 > - 
-28) **Wych Formation, UK** 31
+#### 28) Wych Formation, UK
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Wych Formation, Gullett Quarry, Worcestershire, UK.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Sepkoski, 1998)
 > - **Comments**: 
 
-29) **Lafayette Bugt Formation, Greenland** 32
+#### 29) Lafayette Bugt Formation, Greenland
 > - **Age**:Telychian
 > - **Taxa**:Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**:Lafayette Bugt Formation, Hall Land, Greenland.
 > - **References**:(Aldridge et al., 1996; Blom, 1999; Boucot and Janis, 1983; Märss and Miller, 2004; Pickerill and Harland, 1988; Sepkoski, 1998; Žigaitė and Goujet, 2012)
 > - **Comments**:
 
-30) **Kip Burn and Patrick Burn Formation, Scotland** 33
+#### 30) Kip Burn and Patrick Burn Formation, Scotland
 > - **Age**:Telychian
 > - **Taxa**:Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Kip Burn and Patrick Burn Formation, Priesthill Group, Lesmahagow, Lanarkshire, Midland Valley, Scotland.
 > - **References**:(Aldridge et al., 1996; Blom, 1999; Märss and Miller, 2004; Märss and Ritchie, 1998; Plotnick, 1999; Traquair, 1898b; Žigaitė and Goujet, 2012)
 > - **Comments**:
 
-31) **Reservoir Formation, Scotland** 34
+#### 31) Reservoir Formation, Scotland
 > - **Age**:Telychian
 > - **Taxa**: Thelodonti: Loganellia aldridgei, Loganellia asiatica, Loganellia scotica, Loganellia sibirica, Loganellia sp. cf. L. scotica.
 > - **Locality and horizon**: Reservoir Formation (Gutterford Burn Formation), North Esk Inlier, Pentland Hills, Midland Valley, Scotland.
 > - **References**: (Aldridge et al., 1996; Boucot and Janis, 1983; Märss and Miller, 2004; Plotnick, 1999; Sepkoski, 1998; Turner, 2000)
 
-32) **Ceratiocaris Bed, Kip Burn Formation, Scotland** 36
+#### 32) Ceratiocaris Bed, Kip Burn Formation, Scotland
 > - **Age**:Telychian
 > - **Taxa**: Anaspida: Birkenia sp., Jamoytius kerwoodi.
 > - **Locality and horizon**: Ceratiocaris Bed, Kip Burn Formation, Shanks Castle, Logan Water, Lanarkshire, Midland Valley, Scotland.
 > - **References**:(Blom et al., 2002; Boucot and Janis, 1983; Märss and Ritchie, 1998; Ritchie, 1985)
 > - **Comments**: 
 
-33) **Hauge Bjerge and Lafayette Bugt Formations, Greenland** 40
+#### 33) Hauge Bjerge and Lafayette Bugt Formations, Greenland
 > - **Age**: Telychian
 > - **Taxa**: Anaspida: Birkenia?.
 > - **Locality and horizon**: Kap Tyson Outcrop, Hauge Bjerge and Lafayette Bugt Formations, Peary Land Group, Washington Land, Greenland.
 > - **References**: (Blom et al., 2002; Pickerill and Harland, 1988)
 > - **Comments**: 
 
-34) **Thors Fjord Member, Wulff Land Formation, Greenland** 42
+#### 34) Thors Fjord Member, Wulff Land Formation, Greenland
 > - **Age**: Telychian
 > - **Taxa**: Thelodonti: Loganellia scotica.
 > - **Locality and horizon**: Thors Fjord Member, Wulff Land Formation, Wulff Land, Greenland.
 > - **References**:(Pickerill and Harland, 1988; Žigaitė and Goujet, 2012)
 > - **Comments**: 
 
-35) **Road River and Whittaker Formations, Canada**
+#### 35) Road River and Whittaker Formations, Canada
 > - **Age**:Telychian
 > - **Taxa**: Anaspida: *Birkenia elegans*.
 Thelodonti: *Archipelepis bifurcata*, *Archipelepis turbinata*, *Lanarkia* sp. cf. *horrida*, *Pezopallichthys ritchiei*.
@@ -499,27 +498,27 @@ Heterostraci: *Ariaspis* sp., *Athenaegis chattertoni*, *Ptomaspis* sp.
 > - **References**: (Blom et al., 2002; Boucot and Janis, 1983; Soehn et al., 2001; Soehn et al., 2000)
 > - **Comments**: Blom et al. (2002): "In the Mackenzie Mountains, northwestern Canada, Birkenia sp. has been identified in the Avalanche Lake section AV-1G. The age has been determined by P. Mannik, Tallinn, as Telychian, late Llandovery based on conodonts."
 
-36) **Whittaker and Road River formations, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.** 47
+#### 36) Whittaker and Road River formations, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada
 > - **Age**: Latest Telychian to Early Sheinwoodian.
 > - **Taxa**: Thelodonti: Archipelepis turbinata.
 > - **Locality and horizon**:Whittaker and Road River formations/ North Shore of Baumann Fiord section, Ellesmere Island, Queen Elizabeth Islands, Nunavut, Canada.
 > - **References**:(Boucot and Janis, 1983; Soehn et al., 2001)
 
-## China
-**Lower Red beds, South China/Wentang Assemblage, late Aeronian to early Telychian**
+### China
+#### Lower Red beds, South China/Wentang Assemblage, late Aeronian to early Telychian
 > - **Zhangjiajie vertebrate fauna**: Late Aeronian to Telychian
 > - - areas：Zhangjiajie of Hunan Province, Jiujiang of Jiangxi Province, Changxing and Huzhou of Zhejiang Province, Chaohu of Anhui Province, Wuhan of Hubei Province, AKsu of Xinjiang.
 >   - Horizons: three horizons, **late Aeronian to early Telychian** including Rongxi Formation, Qingshui Formation, Houchiatang Formation, Tangjiawu Formation, and Tataertag Formation; **middle Telychian** including Xiushan Formation and Fentou Formation, and Ymogantau Formation; **late Telychian** including Xikeng Formation, Huixingshao Formation, Maoshan Formation, and Kezirtag Formation.
 >   - Assemblages: the fauna is divided into Wentang Assemblage (late Aeronian to early Telychian), Fentou Assemblage (middle Telychian), and Maoshan Assemblage (upper Telychian) in ascending order.
 
-1) **Rongxi Formation, Shiqian, Guizhou, China**
+#### 1) Rongxi Formation, Shiqian, Guizhou, China
 > - **Age**: Late Aeronian.
 > - **Taxa**: Chondrichthyes: *Qianodus duplicis* Andreev et al., 2022; *Fanjingshania renovata* Andreev et al., 2022.
 > - **Locality and horizon**: Rongxi Formation, Shiqian–Tunping section at Leijiatun Village, Guizhou Province, China.
 > - **References**: (Andreev et al., 2022a; Andreev et al., 2022b; Zhao and Zhu, 2010)
 > - **Comments**: 
 
-2) **Rongxi Formation, Zhangjiajie, Hunan, China**
+#### 2) Rongxi Formation, Zhangjiajie, Hunan, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: Galeaspida: *Dayongaspis hunanensis* Pan and Zeng, 1985; *Konoceraspis grandoculus* Pan, 1992; Konoceraspis sp.
 Chondrichthyes: *Sinacanthus wuchangensis*; *Neosinacanthus planispinatus*; *Neosinacanthus* sp.1; *Neosinacanthus* sp.2; *Tarimacanthus bachuensis*; *Eosinacanthus shanmenensis*; *Hunanacanthus lixianensis*; *Neosinacanthus* sp.; *Sinacanthus* sp.
@@ -527,14 +526,14 @@ Chondrichthyes: *Sinacanthus wuchangensis*; *Neosinacanthus planispinatus*; *Neo
 > - **References**: (Mu et al., 1986; Wang et al., 1987; Zhao and Zhu, 2010; Zhu and Gai, 2007)
 > - **Comments**: 
 
-3) **Rongxi Formation, Xiushan, Chongqing, China**
+#### 3) Rongxi Formation, Xiushan, Chongqing, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: 
 > - **Locality and horizon**: Rongxi Formation, Xiushan, Chongqing, China.
 > - **References**:
 > - **Comments**: 
 
-4) **Qingshui Formation, Jiangxi, China**
+#### 4) Qingshui Formation, Jiangxi, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: Galeaspida: Jiangxialepis retrospina. *Xiyuichthys lixiensis* Shan *et al*., 2023; *Qingshuiaspis junqingi* Shan *et al*., 2022; *Anjiaspis ericius* Shan et al., 2022; [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023;
 Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet Fin spine morphology2, Indet Fin spine morphology3, Neosinacanshus planispinatus, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangenis, Tarimacanthus bachuensis. *Neosinacanthus* sp. 
@@ -542,7 +541,7 @@ Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet F
 > - **References**: (Liu et al., 2023; Liu et al., 
 > - **Comments**: 
 
-5) **Qingshui Formation, Hubei, China**
+#### 5) Qingshui Formation, Hubei, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: Galeaspida: [*Hanyangaspis guodingshanensis* P'an and Liu, 1975](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen); [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020;  *Sinacanthus wuchangensis*; *Sinacanthus triangulatus*; *Neosinacanthus planispinatus*; *Tarimacanthus bachuensis*;  
 Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet Fin spine morphology2, Indet Fin spine morphology3, Neosinacanshus planispinatus, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangenis, Tarimacanthus bachuensis. *Neosinacanthus* sp. 
@@ -550,7 +549,7 @@ Chondrichthyes: Eosinacanthus shanmenensis, Indet Fin spine morphology1, Indet F
 > - **References**: (Liu et al., 2023; Liu et al., 2020)(Liu et al., 2024; Sepkoski, 1998; Wang et al., 1987; Zhu and Wang, 2000; Zong et al., 2011)
 > - **Comments**: Qingshui Formation, Wuhan (sensu Liu et al. 2020) or Houchiatang Formation, Wuhan (sensu Chen and Wu, 1989). Fish fossils came from the upper part of the formation, and brachiopods are common in the Leijiatun, Xiangshuyuan, Shihniulan, Niuchang, Lojoping, and Shamao formations in the Upper Yangtze Region. 
 
-6) **Kangshan Formation, Zhejiang, China**
+#### 6) Kangshan Formation, Zhejiang, China
 > - **Age**:Late Aeronian to early Telychian.
 > - **Taxa**: Galeaspida: Hanyangaspis sp., *Changxingaspis gui* Wang, 1991; *Shuyu zhejiangensis*(Pan, 1986); *Meishanaspis lehmani* Wang, 1991; *Anjiaspis reticularis* Gai and Zhu, 2005; 
 Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp.1
@@ -558,37 +557,36 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 > - **References**:(Sansom et al., 2000; Wang et al., 1998b; Zhao and Zhu, 2010; Zhao and Zhu, 2015; Zhu and Gai, 2007)
 > - **Comments**: The formation used to be regarded as the “Maoshan Formation" or "Tangjiawu Formation" (Rong et al., 2023).
 
-7) **Tangjiawu Formation, Chunan, Zhejiang, China**
+#### 7) Tangjiawu Formation, Chunan, Zhejiang, China
 > - **Age**:Late Aeronian to early Telychian.
 > - **Taxa**: 
 > - **Locality and horizon**: Tangjiawu Formation, Chunan, Zhejiang, China.
 > - **References**:
 > - **Comments**: 
 
-8) **Houchiatang  Formation, Anhui and Jiangsu, China**
+#### 8) Houchiatang  Formation, Anhui and Jiangsu, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**:  *Latirostraspis chaohuensis* Wang *et al*., 1980; *Neosinacanthus wanzhongensis*. 
 > - **Locality and horizon**: Houchiatang  Formation, 1) Chaohu, Anhui; 2) Nanjing, Jiangsu, China.
 > - **References**: 
 > - **Comments**: The Houchiatang Formation (between Fontou Formation and Gaojiabian Formation) is also distributed in Nanjing, Jiangsu.
 
-9) **Lower Jukeng Formation, Anhui, China**
+#### 9) Lower Jukeng Formation, Anhui, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: 
 > - **Locality and horizon**: Lower Jukeng Formation, 1) Ningguo; 2) Huangshan, Anhui, China.
 > - **References**: 
 > - **Comments**:
 
-10) **Wuxiahe (Wujiahe) Formation, Shaanxi, China**
+#### 10) Wuxiahe (Wujiahe) Formation, Shaanxi, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: Galeaspida: Hanyangaspis guodingshanensis.
 > - **Locality and horizon**: Wuxiahe (Wujiahe) Formation, Shaanxi, China.
 > - **References**:(Chen et al., 2002; Pan and Dineley, 1988; Tang et al., 2015; Zhao and Zhu, 2010)
 > - **Comments**: 
 
-**Fentou Assemblage, middle Telychian**
-
-11) **Fentou Formation, Wuhan, Hubei, China**
+#### Fentou Assemblage, middle Telychian
+#### 11) Fentou Formation, Wuhan, Hubei, China
 > - **Age**: middle Telychian.
 > - **Taxa**: Galeaspida: *Hanyangaspis guodingshanensis* P'an and Liu, 1975; [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021;
 > - Chondrichthyes: *Sinacanthus wuchangensis*, *Sinacanthus triangulatus*, *Neosinacanthus planispinatus*; *Eosinacanthus shanmenensis*; 
@@ -596,7 +594,7 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 > - **References**:
 > - **Comments**: To be checked.
 
-12) **Fentou Formation, Nanjing, Jiangsu, China**
+#### 12) Fentou Formation, Nanjing, Jiangsu, China
 > - **Age**: middle Telychian.
 > - **Taxa**: Galeaspida: [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993, *Hanyangaspis chaohuensis*, *Hanyangaspis pani*, *Hanyangaspis* sp., *Latirostraspis caohuensis*.
 > - Chondrichthyes: *Neosinacanshus planispinatus*, *Neosinacanshus* sp.2, *Sinacanthus* sp., *Sinacanthus triangulates*.
@@ -604,21 +602,21 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 > - **References**: Boucot and Janis, 1983; Pan, 1986; Pan and Chen, 1993; Zhao and Zhu, 2010; Zhu and Gai, 2007
 > - **Comments**:
 
-13) **Xiushan Formation, Xiushan, Chongqing, China**
+#### 13) Xiushan Formation, Xiushan, Chongqing, China
 > - **Age**: middle Telychian.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-14) **Xiushan Formation, Shiqian, Guizhou, China**
+#### 14) Xiushan Formation, Shiqian, Guizhou, China
 > - **Age**: middle Telychian.
 > - **Taxa**: [*Shiqianolepis hollandi* Sansom et al., 2000; *Xinjiangichthys pleuridentatus*; *Sinacanthus* sp.; *Rongolepis cosmetica* Sansom et al., 2000; *Chenolepis asketa* Sansom et al., 2000. *Sinacanthus wuchangenis*, *Xinjiangichthys* sp.
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
-15) **Xiushan Formation, Zhangjiajie, Hunan, China**
+#### 15) Xiushan Formation, Zhangjiajie, Hunan, China
 > - **Age**: middle Telychian.
 > - **Taxa**: [*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023; *Sinacanthus* sp.
 > 
@@ -626,9 +624,9 @@ Chondrichthyes: Sinacanthus sp., *Sinacanthus wuchangensis*; *Neosinacanthus* sp
 > - **References**:
 > - **Comments**: 
 
-**Upper Red beds, South China, Maoshan Assemblage, upper Telychian**
+#### Upper Red beds, South China, Maoshan Assemblage, upper Telychian
 
-16) **Huixingshao Formation, China**
+#### 16) Huixingshao Formation, China
 > - **Age**: late Telychian.
 > - **Taxa**: Galeaspida: [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022; [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022; [*Miaojiaaspis dichotomus*] Chen *et al*., 2024; 
 Chondrichthyes:  [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022;  
@@ -637,7 +635,7 @@ Placodermi: [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_i
 > - **References**: (Chen et al., 2022; Chen et al., 2024a; Holland and Bassett, 2002; Li et al., 2021; Rong et al., 2019; Wang et al., 1986; Zhao and Zhu, 2010; Zhu and Gai, 2007; Zhu et al., 2022)
 > - **Comments**:
 
-17) **Xikeng Formation, Xiushui and De'an, Jiangxi, China.**
+#### 17) Xikeng Formation, Xiushui and De'an, Jiangxi, China
 > - **Age**: late Telychian.
 > - **Taxa**:
 Galeaspida: Sinogaleaspis zhejiangensis, Deanaspis longpingi,  [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983; 51. [*Sinogaleaspis shankouensis*](https://deepbone.org/public/#/explor?s_id=320&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980; [*Rumporostralis xikengensis*](https://deepbone.org/public/#/explor?s_id=326&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1980);  [*Rumporostralis shipanensis*](https://deepbone.org/public/#/explor?s_id=83050&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2020
@@ -645,22 +643,22 @@ Galeaspida: Sinogaleaspis zhejiangensis, Deanaspis longpingi,  [*Xiushuiaspis ji
 > - **References**:(Bassett and Rong, 2002; Pan and Wang, 1983; Shan et al., 2023; Shan et al., 2020; Zhao and Zhu, 2010)(Shan et al., 2022; Shan et al., 2020; Zhao and Zhu, 2010) Lin et al., 2025
 > - **Comments**:
 > - 
-**Xinjiang, China**
-**Tataertag Formation, Xinjiang, China**
+#### Xinjiang, China
+#### Tataertag Formation, Xinjiang, China
 > - **Age**: Late Aeronian to early Telychian.
 > - **Taxa**: Galeaspida: Platycarpaspis tianshanensis.  [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018; [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007); *Changxingaspis nianzhongi* Li *et al*.., 2024; [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023; [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002; *Sinacanthus wuchangensis*; *Tarimacanthus bachuensis*; *Tielikewatielepis sinensis*; *Xiaohaizilepis liui*
 > - **Locality and horizon**: Tataertag (Tataaiertage) Formation, Tielikewatie Village, Kalpin and Bachu, Xinjiang, China.
 > - **References**:
 > - **Comments**: 
 
-**Ymogantau Formation, Xinjiang**
+#### Ymogantau Formation, Xinjiang
 > - **Age**: middle Telychian.
 > - **Taxa**: Galeaspida: Changxingaspis nianzhongi, Kapinolepis taimensis, Hanyangaspis sp., Jiangxialepis retrospina, Jiaoyu imperfectus, Nanjianaspis kalpinensis, Nanjianaspis sp. cf. zhangi,  [*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996; Chondrichthyes: *Rongolepis cosmetica*; *Taklamakanolepis asiaticus*; *Shiqianolepis hollandi*; *Xinijiangichthys pleuridentatus*; *Tielikewatilepis sinensis*; *Xiaohaizilepis liui*; Chenolepis asketa; Yuanolepis bachuensis;  cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus planispinatus, Neosinacanthus sp., Neosinacanthus sp.2, Rongolepis cosmetica, Sinacanthus sp., Sinacanthus triangulates, Sinacanthus wuchangensis, Tarimacanthus bachuensis, Xinjiangichthys pluridentatus, Xinjiangichthys tarimensis.
 > - **Locality and horizon**: Ymogantau (Yimugantawu Formation), Kalpin and Bachu, Xinjiang, China.
 > - **References**: (Andreev et al., 2020; Jiang et al., 2009; Li et al., 2024; Liu et al., 2023; Liu et al., 2019; Lu et al., 2007; Wang et al., 2002; Wang et al., 1998b; Zhao and Zhu, 2010)
 > - **Comments**:
 
- **Kezirtag Formation, Xinjiang**
+#### Kezirtag Formation, Xinjiang
 > - **Age**: late Telychian.
 > - **Taxa**: Galeaspida: Changxingaspis nianzhongi, Kapinolepis taimensis, Hanyangaspis sp., Jiangxialepis retrospina, [*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019J, Nanjianaspis kalpinensis, Nanjianaspis sp. cf. zhangi, Pseudoduyunaspis bachuensis. Galeaspida: Jiaoyu indet., Microphymaspis pani, Xiyuaspis zhangi.
 > - Placodermi: Arthorodira indet.
@@ -669,10 +667,10 @@ Chondrichthyes: cf. Elegestolepis, cf. Mongolepis rozmanae, Neosinacanthus plani
 > - **References**: (Andreev et al., 2020; Jiang et al., 2009; Li et al., 2024; Liu et al., 2023; Liu et al., 2019; Lu et al., 2007; Wang et al., 2002; Wang et al., 1998b; Zhao and Zhu, 2010)(Andreev et al., 2020; Liu et al., 2019; Lu et al., 2007; Wang et al., 2002)
 > - **Comments**:To be checked.
 
-**The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
+#### The Loganellia aldridgei Zone**, late Aeronian to middle Telychian
 > Loganellia aldridgei, another L. scotica-type loganelliid.
 > 
-**The Loganellia scotica Zone**, late Telychian
+#### The Loganellia scotica Zone, late Telychian
 > Patrick Burn Formation, Priesthill Group, upper Telychian, Upper Llandovery; Logan Water section, Lesmahagow, Scotland. Ree Burn Formation, Hagshaw, Scotland; Lafayette Bugt Formation, North Greenland; Wych Formation and upper part of the Purple Shale Formation, Worcester and Hereford, Welsh Borderland; Anse aux Cascons and Anse a Pierre Loiselle formations, QuÈbec, eastern Canada; Cape Phillips Formation, Cornwallis and Baillie-Hamilton islands, Arctic Canada.
 > Ainiktozoon loganense, Jamoytius kerwoodi, L. scotica
 
@@ -1927,6 +1925,7 @@ Zigaite, Z. and Blieck, A., 2006. Palaeobiogeographical significance of Early Si
 Žigaitė, Ž., Karatajūtė-Talimaa, V. and Blieck, A., 2011. Vertebrate microremains from the Lower Silurian of Siberia and Central Asia: palaeobiodiversity and palaeobiogeography. Journal of Micropalaeontology, 30: 97-106.
 
 Zong, R., Liu, Q. and Gong, Y., 2011. Fossil association and sedimentary environments of the lower Silurian Fentou Formation in Wuhan, Hubei province. Journal of Palaeogeography, 13(3): 299-308.
+
 
 
 
