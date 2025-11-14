@@ -257,13 +257,6 @@
 > - **References**: Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
 > - **Comments**:
 
-**Whitehill Formation, Karoo Basin, South Africa**
-> - **Age**: Artinskian–Kungurian, Early Permian
-> - **Taxa**: Reptilia: Mesosaurus tenuidens, Stereosternum tumidum, Noteosaurus africanus. Actinopterygii: Palaeoniscum capensis, Watsonichthys lotzi. 
-> - **Locality and horizon**: Fossils are preserved in carbonaceous black shales and dolomitic limestones within the Whitehill Formation (Ecca Group) exposed near Calvinia and Louriesfontein in the Northern Cape of South Africa and at other sites such as Brandhoek, Krantz Poort, Kenmoore Farm, Victoria West District and Burghersdorp; the formation lies between the underlying Prince Albert Formation and the overlying Collingham/Tierberg formations.
-> - **References**: Abubakre et al., 2021; Oelofsen, 1987; Evans & Bender, 1999; Geertsema & van den Heever, 1996; Visser, 1992.
-> - **Comments**:
-
 **Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa**
 > - **Age**: latest Wordian – late Capitanian, Middle Permian
 > - **Taxa**: Dinocephalia: Moschops capensis, Tapinocaninus pamelae. Dicynodontia: Eodicynodon oosthuizeni, Robertia broomiana, Eosimops newtoni, Lanthanostegus mohoii, Colobodectes sp.. Pareiasauria: Bradysaurus baini
@@ -2578,6 +2571,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
