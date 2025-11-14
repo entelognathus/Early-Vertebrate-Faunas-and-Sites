@@ -113,7 +113,7 @@
 
 **Nocona Formation, Texas, United States**
 > - **Age**: Sakmarian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Chondrichthyes: Barbclabornia luedersensis, Xenacanthus sp. (Johnson, 2003; Johnson, 2013). Osteichthyes: Paleoniscum sp., Acrolepis sp., Ectosteorhachis sp., Bourbonnella sp. (Dunkle, 1946; Sander, 1987). Amphibia (Temnospondyli): Eryops megacephalus, Trimerorhachis insignis, Trimerorhachis sp., Cacops morrisi, Cacops sp., Zygosaurus sp., Zatrachys serratus, Pasawioops mayi, Acheloma sp., Phonerpeton sp., Archeria crassidisca, Diplocaulus sp. (Romer and Price, 1940; Romer, 1957; Williston, 1910; Sander, 1987; Bourget and Anderson, 2011; Milner and Schoch, 2013; Schoch and Sues, 2013). Synapsida: Dimetrodon natalis, Dimetrodon limbatus, Dimetrodon booneorum, Dimetrodon milleri, Dimetrodon grandis, Ctenospondylus sp., Sphenacodon sp., Secodontosaurus sp., Varanosaurus sp., Ophiacodon sp., Edaphosaurus boanerges, Eothyris sp., Casea sp., Cotylorhynchus sp. (Cope, 1877; Case, 1907; Romer, 1937; Romer and Price, 1940; Hook and Hotton, 1991; Modesto, 1995; Shelton et al., 2012; Shelton and Sander, 2017; Agliano et al., 2021). Reptilia: Captorhinus aguti, Captorhinus sp., Rothianiscus sp., Araeoscelis sp., Bolosaurus sp., Romeria sp. (Cope, 1882; Vaughn, 1955; Fox and Bowman, 1966).
+> - **Taxa**: Chondrichthyes: Barbclabornia luedersensis, Xenacanthus sp. (Johnson, 2003; Johnson, 2013). Osteichthyes: Paleoniscum sp., Acrolepis sp., Ectosteorhachis sp., Bourbonnella sp. (Dunkle, 1946; Sander, 1987). Amphibia (Temnospondyli): Eryops megacephalus, Trimerorhachis insignis, Trimerorhachis sp., Cacops morrisi, Cacops sp., Zygosaurus sp., Zatrachys serratus, Pasawioops mayi, Acheloma sp., Phonerpeton sp., Archeria crassidisca, Diplocaulus sp. (Romer and Price, 1940; Romer, 1957; Williston, 1910; Sander, 1987; Bourget and Anderson, 2011; Milner and Schoch, 2013; Schoch and Sues, 2013). Synapsida: Dimetrodon natalis, Dimetrodon limbatus, Dimetrodon booneorum, Dimetrodon milleri, Dimetrodon grandis, Ctenospondylus sp., Sphenacodon sp., Secodontosaurus sp., Varanosaurus sp., Ophiacodon sp., Edaphosaurus boanerges, Eothyris sp., Casea sp. (Cope, 1877; Case, 1907; Romer, 1937; Romer and Price, 1940; Hook and Hotton, 1991; Modesto, 1995; Shelton et al., 2012; Shelton and Sander, 2017; Agliano et al., 2021). Reptilia: Captorhinus aguti, Captorhinus sp., Araeoscelis sp., Bolosaurus sp., Romeria sp. (Cope, 1882; Vaughn, 1955; Fox and Bowman, 1966).
 > - **Locality and horizon**: Nocona Formation is exposed in Baylor County, Archer County, Clay County, and Montague County in north-central Texas, extending into Jefferson County, Oklahoma; stratotype located near Ringgold, Montague County, Texas (Hentz, 1988). 
 > - **References**: Cope, 1877; Cope, 1878; Cope, 1882; Case, 1907; Williston, 1910; Romer, 1937; Romer and Price, 1940; Romer, 1957; Dunkle, 1946; Vaughn, 1955; Fox and Bowman, 1966; Barnes, 1987; Hentz and Brown, 1987; Sander, 1987; Hentz, 1988; Sander, 1989; Hook and Hotton, 1991; Barnes, 1991; Modesto, 1995; Johnson, 2003; Bourget and Anderson, 2011; Shelton et al., 2012; Milner and Schoch, 2013; Johnson, 2013; Schoch and Sues, 2013; Shelton and Sander, 2017; Agliano et al., 2021
 > - **Comments**: 
@@ -123,13 +123,6 @@
 > - **Taxa**: Chondrichthyes: Acrodus olsoni, Acrodus sweetlacruzensis, Lissodus zideki, Barbclabornia luedersensis, Ctenacanthus cf. amblyxiphias, Janassa sp., Orthacanthus platypternus, Orthacanthus texensis, Deltodus mercuri. Osteichthyes: Schaefferichthys leudersensis, Platysomus palmaris, Luederia kempi, Gnathorhiza serrata, Lawnia cf. taylorensis, Spermatodus pustulosus, Acrolepis sp., Sagenodus sp.. Amphibia: Eryops megacephalus, Diplocaulus magnicornis, Trimerorhachis sp., Crossotelos annulatus. Reptilia: Captorhinus sp.. Arthropoda: Panduralimulus babcocki. Mollusca: Koninckioceras bibbi, Metacoceras sp., Michelinoceras sp., Millkoninckioceras sp., Perrinitidae indet., Stenopoceras cf. whitei. Echinodermata: Crinoidea indet.. Bryozoa: Bryozoa indet.. Plantae: Tinsleya texana, Zeilleropteris wattii.
 > - **Locality and horizon**: Shackelford County, Texas
 > - **References**: Shell et al., 2024; Berman, 1970; Dalquest et al., 1988; Wikipedia contributors, 2025
-> - **Comments**: 
-
-**Nocona Formation, north-central Texas, USA**
-> - **Age**: Asselian，Cisuralian (Early Permian), Permian.
-> - **Taxa**: Synapsida: Ctenorhachis jacksoni, Dimetrodon booneorum, Dimetrodon limbatus, Dimetrodon natalis, Edaphosaurus boanerges, Lupeosaurus kayi, Ophiacodon retroversus, Ophiacodon uniformis, Secodontosaurus obtusidens. Amphibia: Archeria crassidisca, Cardiocephalus sp., Diadectes sideropelicus, Diplocaulus sp., Eryops megacephalus, Rubeostratilia texensis, Scapanops neglecta, Trimerorhachis insignis, Zatrachys serratus. Platysomus sp., Sagenodus sp., Spermatodus pustulosus. Crustacea: Mamayocaris jaskoskii, Paulocaris jepseni.
-> - **Locality and horizon**: Exposures primarily in Archer, Clay, and northern Montague Counties, Texas, with type locality at a river bluff approximately 3.6 miles north of Ringgold, Montague County (Geolex, 2025).
-> - **References**: Lucas et al., 2005; Romer and Price, 1939; Hook and Hotton, 1991; Shelton et al., 2012; Agliano et al., 2021; Johnson, 2013; Modesto, 1995; Shelton and Sander, 2017; Romer, 1957; Konietzko-Meier et al., 2016; Bourget and Anderson, 2011; Schoch and Sues, 2013; Milner and Schoch, 2013; Hotton et al., 2002
 > - **Comments**: 
 
 **Robledo Mountains Formation, south-central New Mexico, USA**
@@ -2558,6 +2551,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
