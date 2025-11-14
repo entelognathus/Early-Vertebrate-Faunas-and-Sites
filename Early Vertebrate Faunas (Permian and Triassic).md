@@ -167,13 +167,6 @@
 > - **References**: Ivanov et al., 2017; Karpinsky, 1899.
 > - **Comments**: 
 
-**The Rotliegend Group, Germany**
-> - **Age**: Artinskian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Temnospondyli: Georgenthalia clavinasica. Seymouriamorpha: Seymouria sanjuanensis. Diadectomorpha: Diadectes sp.. Synapsida (Sphenacodontidae): Dimetrodon teutonis. Bolosauridae: Eudibamus cursoris.
-> - **Locality and horizon**: Fossils derive from the Bromacker quarry in the Tambach Formation (Upper Rotliegend), within the Tambach Basin of the Thuringian Forest in central Germany; exposures belong to the upper beds (“Bromacker horizon”) of the Artinskian-stage Tambach Formation
-> - **References**: Berman & Martens, 1993; Berman et al., 1998; Anderson et al., 2008; Berman et al., 2001; Berman et al., 2021
-> - **Comments**: 
-
 **Admiral Formation, north-central Texas, USA**
 > - **Age**:late Wolfcampian to early Leonardian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: Marine cephalopods (Nautilida, Ammonoidea): *Stearceras* sp., *Stenopoceras* sp., *Foordiceras ornatissimum*, *Liroceras globulare*, *Metacoceras cheneyi*, *Akmilleria adkinsi*, *Neopronorites* sp., *Pseudorthoceras knoxense*, *Bitaunioceras texanum* and ammonoid *Properrinites boesei*; gastropods: *Bellerophon (Bellerophon) complanatus* and *B. (Bellerophon) parvicristus* .
@@ -2537,6 +2530,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
