@@ -188,13 +188,6 @@
 > - **References**: Plummer & Moore, 1922; Miller & Youngquist, 1947; Barnes, 1987; Maeda et al., 2003
 > - **Comments**:
 
-**Lueders Formation, Baylor County, Texas, USA**
-> - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Amphibians (nectrideans and eryopids): *Crossotelos annulatus*, *Diplocaulus magnicornis*, *Eryops megacephalus* and *Trimerorhachis* sp.. bony fish: *Acrolepis* sp., lungfish *Gnathorhiza serrata*, palaeonisciforms *Lawnia cf. L. taylorensis*, *Luederia kempi*, ?*Platysomus palmaris*, lungfish *Sagenodus* and freshwater palaeonisciform *Schaefferichthys leudersensis*; acanthodian fish: *Acanthodes* sp.; cartilaginous fish: *Acrodus*, petalodonts *Janassa*, xenacanths: *Barbclabornia luedersensis*, *Orthacanthus platypternus* and *O. texensis*; synapsids including *Dimetrodon* sp.; 
-> - **Locality and horizon**: Top unit of the Albany Group consisting of interbedded shale and limestone; includes the Lake Kemp and Maybelle limestone members and underlies the Clear Fork Group. Fossil-rich deposits occur in the Maybelle Member at Lake Kemp Dam and along the Salt Fork of the Brazos River near Miller’s Creek (22 km south of Seymour) (Dalquest & Kocurko, 1988). The dolostone matrix of the Maybelle Member records shallow, near-shore marine environments, whereas darker shales yield freshwater and terrestrial assemblages.
-> - **References**: Dalquest & Kocurko, 1988; Johnson, 1981; Berman, 1968; Mamay, 1966; Berman & Johnson, 1978
-> - **Comments**:
-
 **Arroyo Formation, north-central Texas, USA**
 > - **Age**: Kungurian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: *Orthacanthus platypternus*; lungfish: *Gnathorhiza*; amphibians: *Diplocaulus*, *Trimerorhachis*. eryopids: *Eryops*, seymouriamorphs: *Seymouria*, diadectomorphs: *Diadectes*, dissorophoid temnospondyls: *Acheloma*, *Broiliellus*, *Aspidosaurus*. microsaurs: *Pantylus*, *Microbrachis* and *Pelodosotis* (Olson, 1989); pelycosaurian synapsids: *Dimetrodon* spp., edaphosaurids: *Edaphosaurus pogonias*, varanopids: *Secodontosaurus*, *Varanosaurus*.  eureptiles: *Captorhinus*, *Labidosaurus*. araeoscelid: *Araeoscelis*.
@@ -2551,6 +2544,7 @@ Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous
 Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
 
 Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
+
 
 
 
