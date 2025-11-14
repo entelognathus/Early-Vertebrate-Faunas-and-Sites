@@ -44,7 +44,9 @@
 > - **Comments**:
 > - 
 
-#### Burlington limestone
+#### Burlington limestone, Illinois and Iowa, USA
+> - **Age**: late Tournaisian.
+> - **Taxa**:
 
 #### Horton Bluff and Albert Formations, Bay of Fundy, Canada
 > - **Age**: Early to middle Tournaisian.
@@ -359,7 +361,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The age assignment follows Snyder et al. (2024).
 
 #### Keokuk limestone, Keokuk, Iowa, USA
-> - **Age**: Visean
+> - **Age**: early Visean
 > - **Taxa**: *Ctenacanthus acutus*, *Ctenacanthus xiphias*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Keokuk limestone, Keokuk, Iowa, USA
 > - **References**:(Eastman, 1897)
@@ -1209,6 +1211,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
