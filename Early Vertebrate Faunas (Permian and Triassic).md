@@ -840,6 +840,10 @@ Romano (2021):
 
 ## References
 
+Abubakre, A. O., de Kock, M. O., & others. (2021). Magnetostratigraphic constraints for Early Permian rocks of the southwestern Karoo Basin, South Africa. Gondwana Research, 90, 220–240. https://doi.org/10.1016/j.gr.2020.11.009
+
+Acker, A., Peecook, B. R., Sidor, C. A., & Whitney, M. R. (2025). The first occurrence of Cyonosaurus (Therapsida, Gorgonsopsia) from the Luangwa Basin of Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23. Journal of Vertebrate Paleontology, 45(1, supplement), 2444407. [https://doi.org/10.1080/02724634.2024.2444407](https://doi.org/10.1080/02724634.2024.2444407)
+
 Agassiz, L. (1833–1844). Recherches sur les poissons fossiles, Tome I–V. Neuchaˆtel: Imprimerie de Petitpierre.
 
 Agliano, A., Sander, P.M., and Wintrich, T., 2021. Bone histology and microanatomy of Edaphosaurus and Dimetrodon (Amniota, Synapsida) vertebrae from the Lower Permian of Texas. The Anatomical Record, v. 304, no. 3, p. 570-583.
@@ -848,23 +852,67 @@ Aldinger, H. (1931). U¨ ber Reste von Birgeria (Pisces, Palaeoniscidae) aus der
 
 Aldinger, H. (1937). Permische Ganoidfische aus Ostgro¨nland. Meddelelser om Grønland, 102(3), 1–392.
 
+Alves, Y. M. (2010). Report on the Upper Permian and Lower Cretaceous fossiliferous localities vertebrates-bearing in the central- north of Tocantins State, Brazil. Brazilian Geographical Journal: Geosciences and Humanities research medium, 1(2), 372-386.
+
+Alves, Y. M., Gama Junior, J. M., & Cupello, C. (2021). Palaeoniscoid remains from the Lower Permian Pedra de Fogo Formation (Parnaíba Basin): insights from general morphology and histology. Historical Biology, 33(9), 1933–1943. [https://doi.org/10.1080/08912963.2020.1754815](https://doi.org/10.1080/08912963.2020.1754815)
+
 Alves, Y.M. (2010a). Los vertebrados fósiles del Paleozoico y Mesozoico del Estado de Tocantins (Brasil): síntesis preliminar. Caminhos de Geografia 11(36): 224–236. (In Spanish)
 
 Alves, Y.M. (2010b). Report on the Upper Permian and Lower Cretaceous fossiliferous localities (vertebrate-bearing) in the central-north of Tocantins State, Brazil. Brazilian Geographical Journal: Geosciences and Humanities research medium 1(2): 372–386.
 
+Anderson, J. S., Henrici, A. C., Sumida, S. S., & Martens, T. (2008). Georgenthalia clavinasica, a new genus and species of dissorophoid temnospondyl from the Early Permian of Germany, and the relationships of the family Amphibamidae. Journal of Vertebrate Paleontology, 28(1), 61–75. https://doi.org/10.1671/0272-4634(2008)28[61:GCANGA]2.0.CO;2
+
 Anderson, J. S., Henrici, A. C., Sumida, S. S., Martens, T., & Berman, D. S. (2008). Georgenthalia clavinasica, a new genus and species of dissorophoid Temnospondyli from the Early Permian of Germany, and the relationships of the family Amphibamidae. Journal of Vertebrate Paleontology, 28(1), 61–75.
 
+Angielczyk, K. D., & Otoo, B. K. A. (2025). A new cryptodont dicynodont (Therapsida, Anomodontia) from the Lopingian Usili Formation, Ruhuhu Basin, Tanzania. Journal of Vertebrate Paleontology, 45(sup1), 2441898. [https://doi.org/10.1080/02724634.2024.2441898](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2441898)
+
+Angielczyk, K. D., Benoit, J., & Rubidge, B. S. (2019). A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper Permian upper Madumabisa Mudstone Formation, Luangwa Basin, Zambia. Papers in Palaeontology, 7(1), 1–42. [https://doi.org/10.1002/spp2.1285](https://doi.org/10.1002/spp2.1285)
+
+Angielczyk, K. D., Benoit, J., & Rubidge, B. S. (2019). A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper Permian upper Madumabisa Mudstone Formation, Luangwa Basin, Zambia. Papers in Palaeontology, 7(1), 405–446. [https://doi.org/10.1002/spp2.1285](https://doi.org/10.1002/spp2.1285)
+
+Angielczyk, K. D., Sidor, C. A., Nesbitt, S. J., Smith, R. M. H., & Tsuji, L. A. (2014). Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fröbisch (Eds.), Early evolutionary history of the Synapsida (pp. 97–135). Springer.
+
+Angielczyk, K. D., Steyer, J-S., Sidor, C. A., Smith, R. M. H., Whatley, R. L., & Tolan, S. (2014). Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fröbisch (Eds.), Early Evolutionary History of the Synapsida (pp. 93–138). Springer.
+
+Angiolini, L., & Bucher, H. (1999). Taxonomy and quantitative biochronology of Guadalupian brachiopods from the Khuff Formation, Southeastern Oman. Geobios, 32(5), 665–699. [https://doi.org/10.1016/S0016-6995(99)80057-6](https://doi.org/10.1016/S0016-6995(99)80057-6)
+
+Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. Palaeogeography, Palaeoclimatology, Palaeoecology, 191(3–4), 269–300. [https://doi.org/10.1016/s0031-0182(02)00668-5](https://doi.org/10.1016/s0031-0182(02)00668-5)
+
+Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003a). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. Palaeogeography, Palaeoclimatology, Palaeoecology, 191(3-4), 269–300. [https://doi.org/10.1016/S0031-0182(02)00668-5](https://www.google.com/search?q=https://doi.org/10.1016/S0031-0182\(02\)00668-5)
+
+Angiolini, L., Nicora, A., Bucher, H., Vachard, D., Pillevuit, A., Platel, J. P., Baud, A., Broutin, J., Marcoux, J., & Al Hashmi, H. (1998). Late Permian fauna from the Khuff Formation, southeastern Oman: preliminary report. Rivista Italiana di Paleontologia e Stratigrafia, 104(3), 329–340.
+
+Araújo, E. V., Rodrigues, F. S., de Miranda, T. S., & de Carvalho, M. S. S. (2016). Facies analysis and depositional model of the Permian Pedra de Fogo Formation, Parnaíba Basin, Brazil. Journal of South American Earth Sciences, 68, 113-132. https://doi.org/10.1016/j.jsames.2016.03.002
+
 Archbold, N. W., & Thomas, G. A. (1985). Permian Spiriferellinae (Brachiopoda) from Western Australia. Alcheringa, 9(1), 35–48.
+
+Arefiev, M. P., et al. (2015). Paleogeographical reorganization of the Moscow Syneclise during the Severodvinian (Capitanian–Wuchiapingian) time based on isotopic (d13C and d18O) and paleontological data. Paleontological Journal, 49(11), 1165–1214.
+
+Arefiev, M. P., Golubev, V. K., & Kurkin, A. A. (2015)..... Retrieved from http://www.ginras.ru/materials/files/2015-Arefiev.pdf
+
+Aristov, D. S., et al. (2013). Vyatkian–Olenekian Localities. Paleontological Journal, 47(7), 661-662.
 
 Aristov, D.S., Rasnitsyn, A.P., and Naugolnykh, S.V., 2021. New Blattinopsidae (Insecta: Blattinopsida) in the Permian of the Pechora Basin (Komi Republic, Russia) in the Context of Landscape and Vegetation Evolution. Paleontological Journal, 55(6): 641-649. https://doi.org/10.1134/S0031030121060022
 
 Arratia and G. Viohl (München: Dr. Friedrich Pfeil), 114, 555–565.
 
-Arratia, G. (2013). Morphology, taxonomy, and phylogeny of Triassic pholidophorid fishes (Actinopterygii, Teleostei). J. Vertebr. Paleontol. 33, 1–138. doi:10.1080/02724634.2013.835642
+Arratia, G. (2013). Morphology, taxonomy, and phylogeny of Triassic pholidophorid fishes (Actinopterygii, Teleostei). J. Vertebr. Paleontol. 33, 1–138. https://doi.org/10.1080/02724634.2013.835642
 
-Bagherpour, B., Bucher, H., Baud, A., Brosse, M., Vennemann, T., Martini, R., et al. (2017). Onset, development, and cessation of basal Early Triassic microbialites (BETM) in the Nanpanjiang pull-apart basin, South China block. Gondwana Res. 44, 178–204. doi:10.1016/j.gr.2016.11.013
+Avanzini, M., Neri, C., Nicosia, U., & Conti, M. A. (2008). A new Early Permian vertebrate ichnofauna from the Luco Basin (M.te Luco, Southern Alps, Italy). Studi Trentini di Scienze Naturali, Acta Geologica, 83, 231-236.
 
-Balini, M., Lucas, S. G., Jenks, J. F., and Spielmann, J. A. (2010). Triassic ammonoid biostratigraphy: an overview. London. Geol. Soc. Spec. Publ. 334, 221–262. doi:10.1144/SP334.10
+Ayaz, S. A., Martin, M., Esterle, J., Amelin, Y., & Nicoll, R. S. (2016). Age of the Yarrabee and accessory tuffs: implications for the upper Permian sediment-accumulation rates across the Bowen Basin. Australian Journal of Earth Sciences, 63(7), 843-856. [https://doi.org/10.1080/08120099.2016.1255254](https://doi.org/10.1080/08120099.2016.1255254)
+
+Azevedo, K. L., Schemiko, D. C. B., Soares, M. B., Vega, C. S., & Vesely, F. F. (2018). The São Jerônimo da Serra Site, Rio do Rasto Formation (Middle/Upper Permian), Paraná Basin, Brazil: faciological and taphonomic context. Brazilian Journal of Geology, 48(4), 821-837. [https://doi.org/10.1590/2317-4889201820170129](https://doi.org/10.1590/2317-4889201820170129)
+
+Bagherpour, B., Bucher, H., Baud, A., Brosse, M., Vennemann, T., Martini, R., et al. (2017). Onset, development, and cessation of basal Early Triassic microbialites (BETM) in the Nanpanjiang pull-apart basin, South China block. Gondwana Res. 44, 178–204. https://doi.org/10.1016/j.gr.2016.11.013
+
+Balini, M., Lucas, S. G., Jenks, J. F., and Spielmann, J. A. (2010). Triassic ammonoid biostratigraphy: an overview. London. Geol. Soc. Spec. Publ. 334, 221–262. https://doi.org/10.1144/SP334.10
+
+Bandyopadhyay, S., & Ray, S. (2020). Gondwana Vertebrate Faunas of India: Their Diversity and Intercontinental Relationships. Episodes, 43(1), 438–448. [https://doi.org/10.18814/epiiugs/2020/020028](https://doi.org/10.18814/epiiugs/2020/020028)
+
+Barberena, M. C. (1998). Australerpeton cosgriffi n.g., n.sp., a Late Permian Rhinesuchoid amphibian from Brazil. Anais da Academia Brasileira de Ciências, 70(1), 125–137.
+
+Barberena, M. C., & Dias, E. V. (1998). On the presence of a short-snouted rhinesuchoid amphibian in the Rio do Rasto Formation (Late Permian of Paraná Basin, Brazil). Anais da Academia Brasileira de Ciências, 70(3), 465–468.
 
 Barberena, M.C. (1972). South American Late Paleozoic tetrapods. Anais da Academia Brasileira de Ciências 44 (Suppl. 1): 67–75.
 
@@ -876,11 +924,13 @@ Barnes, V.E. (project director), 1987. Geologic atlas of Texas, Wichita Falls-La
 
 Barnes, V.E. (project director), 1991. Geologic atlas of Texas, Sherman sheet [revision of 1967 ed.]: University of Texas-Austin, Bureau of Economic Geology Geologic Atlas of Texas, 1 sheet, [17 p.], scale 1:250,000, Walter Scott Adkins memorial edition.
 
+Barth, S., & Mohr, B. A. R. (1994). Palynostratigraphically determined age of the Tregiovo sedimentary complex in relation to radiometric emplacement ages of the Atesina volcanic complex (Permian, Southern Alps, N-Italy). Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 192(2), 273-292.
+
 Bartsch, P. (1988). Funktionelle Morphologie und Evolution des Axialskelettes und der caudalis Ursprunglicher Knochenfishe. Palaeontographica A, 204, 117–226.
 
 Beede, J. W., & Waite, V. V. (1918). The geology of Runnels County. University of Texas Bulletin, 1816, 1‑64.
 
-Behrensmeyer, A. K., Kidwell, S. M., and Gastaldo, R. A. (2000). Taphonomy and paleobiology. Paleobiology. 26, 103–147. doi:10.1017/S0094837300026907
+Behrensmeyer, A. K., Kidwell, S. M., and Gastaldo, R. A. (2000). Taphonomy and paleobiology. Paleobiology. 26, 103–147. https://doi.org/10.1017/S0094837300026907
 
 Beltan, L. (1968). La Faune Ichthyologique de l’Eotrias du N.W. de Madagascar: le Neurocrane ˆ . Paris: Cahiers de Paléontologie CNRS
 
@@ -890,9 +940,17 @@ Beltan, L. (1980). Eotrias du nord-ouest de Madagascar: Etude de quelques poisso
 
 Beltan, L. (1996). Overview of systematics, paleobiology, and paleoecology of Triassic fishes of northwestern Madagascar. In G. Arratia & G. Viohl (Eds.), Mesozoic fishes—systematics and paleoecology (pp. 479–500). Mu¨nchen: Verlag Dr. Friedrich Pfeil.
 
-Beltan, L., Freneix, S., Janvier, P., & Lo´pez-Paulsen, O. (1987). La faune triasique de la formation de Vitiacua dans la re´gion de Villamontes (De´partement de Chuquisaca, Bolivie). Neues Jahrbuch fu¨r Geologie und Pala¨ontogie, Monatshefte, 1987, 99–115.Argyriou, T., Giles, S., Friedman, M., Romano, C., Kogan, I., and Sánchez-Villagra, M. R. (2018). Internal cranial anatomy of Early Triassic species of †Saurichthys (Actinopterygii: †Saurichthyiformes): implications for the phylogenetic placement of †saurichthyiforms. BMC Evol. Biol. 218, 161. doi:10.1186/s12862-018-1264-4
+Beltan, L., Freneix, S., Janvier, P., & Lo´pez-Paulsen, O. (1987). La faune triasique de la formation de Vitiacua dans la re´gion de Villamontes (De´partement de Chuquisaca, Bolivie). Neues Jahrbuch fu¨r Geologie und Pala¨ontogie, Monatshefte, 1987, 99–115.Argyriou, T., Giles, S., Friedman, M., Romano, C., Kogan, I., and Sánchez-Villagra, M. R. (2018). Internal cranial anatomy of Early Triassic species of †Saurichthys (Actinopterygii: †Saurichthyiformes): implications for the phylogenetic placement of †saurichthyiforms. BMC Evol. Biol. 218, 161. https://doi.org/10.1186/s12862-018-1264-4
 
-Benton, M. J., Zhang, Q., Hu, S., Chen, Z.-Q., Wen, W., Liu, J., et al. (2013). Exceptional vertebrate biotas from the Triassic of China, and the expansion of marine ecosystems after the Permo-Triassic mass extinction. Earth Sci. Rev. 125, 199–243. doi:10.1016/j.earscirev.2013.05.014
+Benton, M. J. (2016). The Chinese pareiasaurs. Zoological Journal of the Linnean Society, 177(4), 813–853. [https://doi.org/10.1111/zoj.12389](https://doi.org/10.1111/zoj.12389)
+
+Benton, M. J., & Spencer, P. S. (1995). Fossil Reptiles of Great Britain. Geological Conservation Review Series No. 10, JNCC, Peterborough.
+
+Benton, M. J., & Walker, A. D. (1985). Palaeoecology, taphonomy, and dating of Permo-Triassic reptiles from Elgin, north-east Scotland. Palaeontology, 28(2), 207–234.
+
+Benton, M. J., Newell, A. J., Khlyupin, A. Yu., Shumov, I. S., Price, G. D., & Kurkin, A. A. (2012). Preservation of exceptional vertebrate assemblages in Middle Permian fluviolacustrine mudstones of Kotel'nich, Russia: stratigraphy, sedimentology, and taphonomy. Palaeogeography, Palaeoclimatology, Palaeoecology, 319-320, 58–83. [https://doi.org/10.1016/j.palaeo.2012.01.005](https://doi.org/10.1016/j.palaeo.2012.01.005)
+
+Benton, M. J., Zhang, Q., Hu, S., Chen, Z.-Q., Wen, W., Liu, J., et al. (2013). Exceptional vertebrate biotas from the Triassic of China, and the expansion of marine ecosystems after the Permo-Triassic mass extinction. Earth Sci. Rev. 125, 199–243. https://doi.org/10.1016/j.earscirev.2013.05.014
 
 Benton, M.J., Tverdokhlebov, V.P., and Surkov, M.V., 2004. Ecosystem remodelling among vertebrates at the Permian-Triassic boundary in Russia. Nature, 432: 97-100. https://doi.org/10.1038/nature02950
 
@@ -910,25 +968,57 @@ Berman, D. S., & Martens, T. (1993). First occurrence of Seymouria (Amphibia: Ba
 
 Berman, D. S., & Reisz, R. R. (1980). A new species of Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian Abo Formation of New Mexico, with discussion of Permian faunal distributions in that state. Annals of Carnegie Museum, 49, 455–485.
 
-Berman, D. S., Henrici, A. C., Martens, T., Sumida, S. S., & Anderson, J. S. (2011). Rotaryus gothae, a new trematopid (Temnospondyli: Dissorophoidea) from the Lower Permian of central Germany. Annals of Carnegie Museum, 80(1), 49–65. doi:10.2992/007.080.0106
+Berman, D. S., Henrici, A. C., & Martens, T. (2014). First European record of a varanodontine (Synapsida: Varanopidae): Member of a unique Early Permian upland paleoecosystem, Tambach Basin, Central Germany. In K. D. Angielczyk & J. Fröbisch (Eds.), Early Evolutionary History of the Synapsida (pp. 69–86). Springer. https://doi.org/10.1007/978-94-007-6841-3_5
+
+Berman, D. S., Henrici, A. C., Kissel, R., Sumida, S. S., & Martens, T. (2004). A new diadectid (Diadectomorpha), Orobates pabsti, from the Early Permian of Central Germany. Bulletin of Carnegie Museum of Natural History, 35, 1–37. https://doi.org/10.2992/0145-9058(2004)35[1:ANDDFO]2.0.CO;2
+
+Berman, D. S., Henrici, A. C., Martens, T., Sumida, S. S., & Anderson, J. S. (2011). Rotaryus gothae, a new trematopid (Temnospondyli: Dissorophoidea) from the Lower Permian of central Germany. Annals of Carnegie Museum, 80(1), 49–65. https://doi.org/10.2992/007.080.0106
 
 Berman, D. S., Henrici, A. C., Sumida, S. S., & Martens, T. (2004). New materials of Dimetrodon teutonis (Synapsida: Sphenacodontidae) from the Early Permian of central Germany. Annals of Carnegie Museum, 73(2), 48–56.
 
+Berman, D. S., Henrici, A. C., Sumida, S. S., Hopf, H., & Martens, T. (2000). Lower Permian terrestrial paleoenvironments and vertebrate paleoecology of the Tambach Basin (Thuringia, Central Germany): The upland holy grail. PALAIOS, 15(4), 293–313. https://doi.org/10.2307/3515385
+
+Berman, D. S., Henrici, A. C., Sumida, S. S., Martens, T., & Anderson, J. S. (2011). Rotaryus gothae, a new trematopid (Temnospondyli: Dissorophoidea) from the Lower Permian of Central Germany. Annals of Carnegie Museum, 80(1), 49–65. https://doi.org/10.2992/007.080.0106
+
 Berman, D. S., Reisz, R. R., & Eberth, D. A. (1985). Ecolsonia cutlerensis, an Early Permian dissorophid amphibian from the Cutler Formation of north-central New Mexico. New Mexico Bureau of Mines and Mineral Resources, Circular 191, 31 pp.
+
+Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001). A new species of Dimetrodon (Synapsida: Sphenacodontidae) from the Lower Permian of Germany records first occurrence of genus outside of North America. Canadian Journal of Earth Sciences, 38(5), 803–812. https://doi.org/10.1139/cjes-38-5-803
 
 Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001). A new species of Dimetrodon (Synapsida: Sphenacodontidae) from the Lower Permian of Germany records first occurrence of genus outside of North America. Canadian Journal of Earth Sciences, 38(5), 803–812. https://doi.org/10.1139/e00-106
 
-Berman, D. S., Reisz, R. R., Scott, D., Henrici, A. C., Sumida, S. S., & Martens, T. (2000). Early Permian bipedal reptile. Science, 290(5493), 969–972. doi:10.1126/science.290.5493.969
+Berman, D. S., Reisz, R. R., Scott, D., Henrici, A. C., Sumida, S. S., & Martens, T. (2000). Early Permian bipedal reptile. Science, 290(5493), 969–972. https://doi.org/10.1126/science.290.5493.969
+
+Berman, D. S., Sumida, S. S., & Lombard, R. E. (1992). Reinterpretation of the systematic position of *Casea* and the evolution of permutation in synapsids. Journal of Paleontology, 66(3), 481-499.
 
 Berman, D. S., Sumida, S. S., & Martens, T. (1998). Diadectes (Diadectomorpha: Diadectidae) from the early Permian of central Germany, with description of a new species. Annals of Carnegie Museum, 67(1), 53–93. https://doi.org/10.5962/p.215205
 
 Berman, D. S., Sumida, S. S., Henrici, A. C., Scott, D., Reisz, R. R., & Martens, T. (2021). The Early Permian bolosaurid Eudibamus cursoris: earliest reptile to combine parasagittal stride and digitigrade posture during quadrupedal and bipedal locomotion. Frontiers in Ecology and Evolution, 9, 674173. https://doi.org/10.3389/fevo.2021.674173
 
-Betancur-R., R., Ortí, G., and Pyron, R. A. (2015). Fossil-based comparative analyses reveal ancient marine ancestry erased by extinction in ray-finned fishes. Ecol. Lett. 18, 441–450. doi:10.1111/ele.12423
+Bernardi, M., Tomasoni, R., Petti, F. M., Kustatscher, E., Nowak, H., Prinoth, H., Roghi, G., Preto, N., & Gianolla, P. (2018). Permian–Triassic terrestrial ecosystems of the Dolomites (Southern Alps): Field trip on the occasion of the Paleodays 2018. Geo.Alp, 15.
+
+Berruti, G. (1970). Osservazioni biostratigrafiche sulle formazioni continentali pre-quaternarie delle Valli Trompia e Sabbia. II. Sulla fauna fossile della Formazione di Collio (Alta Val Trompia). «Natura Bresciana» Annali del Museo Civico di Storia Naturale di Brescia.
+
+Betancur-R., R., Ortí, G., and Pyron, R. A. (2015). Fossil-based comparative analyses reveal ancient marine ancestry erased by extinction in ray-finned fishes. Ecol. Lett. 18, 441–450. https://doi.org/10.1111/ele.12423
+
+Bickelmann, C., Müller, J., & Reisz, R. R. (2009). The enigmatic diapsid *Acerosodontosaurus piveteaui* (Reptilia: Neodiapsida) from the Upper Permian of Madagascar and the paraphyly of “younginiform” reptiles. Canadian Journal of Earth Sciences, 46(9), 651–661. [https://doi.org/10.1139/E09-038](https://doi.org/10.1139/E09-038)
+
+Bissell, H. J. (1964). Patterns of sedimentation in Pennsylvanian and Permian strata of part of the eastern Great Basin. In D. F. Merriam (Ed.), Symposium on cyclic sedimentation. Kansas Geological Survey Bulletin 169, 43–56.
 
 Blieck, A. (2011). From adaptive radiations to biotic crises in Palaeozoic vertebrates: a geobiological approach. Geol. Belg. 14, 203–227
 
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., & Paes Neto, V. D. (2015). A tapinocephalid dinocephalian (Synapsida, Therapsida) from the Rio do Rasto Formation (Paraná Basin, Brazil): taxonomic, ontogenetic and biostratigraphic considerations. Journal of South American Earth Sciences, 63, 375–384. [https://doi.org/10.1016/j.jsames.2015.09.003](https://doi.org/10.1016/j.jsames.2015.09.003)
+
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., Soares, M. B., & Ilha, A. L. R. (2016). A New Dicynodont (Therapsida: Anomodontia) from the Permian of Southern Brazil and Its Implications for Bidentalian Origins. PLoS One, 11(5), e0155000. [https://doi.org/10.1371/journal.pone.0155000](https://doi.org/10.1371/journal.pone.0155000)
+
 Boos, A. D. S., Kammerer, C. F., Schultz, C. L., Soares, M. B., & Ilha, A. L. R. (2016). A new dicynodont (Therapsida: Anomodontia) from the Permian of Southern Brazil and its implications for bidentalian origins. PLOS ONE, 11(5), e0155000. https://doi.org/10.1371/journal.pone.0155000
+
+Boos, A. D. S., Schultz, C. L., Vega, C. S., & Aumond, J. J. (2013). On the presence of the Late Permian dicynodont Endothiodon in Brazil. Palaeontology, 56(4), 837–848. [https://doi.org/10.1111/pala.12020](https://doi.org/10.1111/pala.12020)
+
+Bordy, E. M., & Paiva, F. (2021). Stratigraphic architecture of the Karoo river channels at the End-Capitanian. Frontiers in Earth Science, 8, 521766. (https://doi.org/10.3389/feart.2020.521766)
+
+Bordy, E. M., Smith, R. M. H., Choiniere, J. N., & Rubidge, B. S. (2023). Selected Karoo geoheritage sites of palaeontological significance in South Africa and Lesotho. Geological Society, London, Special Publications, 543, 431–446. [https://doi.org/10.1144/SP543-2022-202](https://www.google.com/search?q=https://doi.org/10.1144/SP543-2022-202)
+
+Botha-Brink, J., & Smith, R. M. H. (2011). Sedimentology and palaeontology of upper Permian to lower Triassic fluvial deposits in the Karoo Basin, South Africa: implications for the terrestrial end-Permian mass extinction. Palaeogeography, Palaeoclimatology, Palaeoecology, 312(1–2), 15–35. https://doi.org/10.1016/j.palaeo.2011.09.003
 
 Bourget, H., and Anderson, J.S., 2011. A new amphibamid (Temnospondyli: Dissorophoidea) from the Early Permian of Texas. Journal of Vertebrate Paleontology, v. 31, no. 1, p. 32-49.
 
@@ -942,13 +1032,23 @@ Boy, J. A. (2003). Paläoökologische Rekonstruktion von Wirbeltieren: Möglichk
 
 Boy, J. A., Haneke, J., Kowalczyk, G., Lorenz, V., Schindler, T., Stollhofen, H., & Thum, H. (2012). Rotliegend im Saar-Nahe-Becken, am Taunus-Südrand und im nördlichen Oberrheingraben. In H. Lützner & G. Kowalczyk (Eds.), Stratigraphie von Deutschland X: Rotliegend, Teil I – Innervariscische Becken (Vol. 61, pp. 185–203). Hannover: Deutsche Stratigraphische Kommission (Schriftenreihe der Deutschen Gesellschaft für Geowissenschaften).
 
-Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Brühwiler, T., Goudemand, N., et al. (2009). Good genes and good luck: ammonoid diversity and the endPermian mass extinction. Science. 325, 1118–1121. doi:10.1126/science.1174638
+Boy, J. A., Schindler, T., & Wuttke, M. (2012). *Melanerpeton* (Amphibia: Temnospondyli) from the Early Permian of the Saar–Nahe Basin, Germany: Taxonomy, biostratigraphy and palaeoecology. Palaeobiodiversity and Palaeoenvironments, 92(3), 329–347. https://doi.org/10.1007/s12549-012-0085-3
 
-Brayard, A., Krumenacker, L. J., Botting, J. P., Jenks, J. F., Bylund, K. G., Fara, E., et al. (2017). Unexpected Early Triassic marine ecosystem and the rise of the Modern evolutionary fauna. Sci. Adv. 3, e1602159. doi:10.1126/sciadv.1602159
+Brauns, C.M., Pätzold, T., & Haack, U. (2003). A Re–Os study bearing on the age of the Kupferschiefer. (Referenced in [2, 3, 4, 5, 6, 7]).
+
+Brauns, U. (2003). A Re–Os study bearing on the age of the Kupferschiefer mineralization at Sangerhausen (Germany). In Proceedings of the XVth International Congress of Carboniferous and Permian Stratigraphy: Utrecht, Royal Netherlands Academy of Arts and Scences, Abstracts, (p. 66).
+
+Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Brühwiler, T., Goudemand, N., et al. (2009). Good genes and good luck: ammonoid diversity and the endPermian mass extinction. Science. 325, 1118–1121. https://doi.org/10.1126/science.1174638
+
+Brayard, A., Krumenacker, L. J., Botting, J. P., Jenks, J. F., Bylund, K. G., Fara, E., et al. (2017). Unexpected Early Triassic marine ecosystem and the rise of the Modern evolutionary fauna. Sci. Adv. 3, e1602159. https://doi.org/10.1126/sciadv.1602159
+
+Brignon, R. (2019). A review of the Lower Permian actinopterygian fish genus *Aeduella* Agassiz, 1833, from France and Germany. Journal of Systematic Palaeontology, 17(15), 1287–1312. https://doi.org/10.1080/14772019.2018.1508063
 
 Brink, K. S., Campione, N. E., & Hawthorn, J. R. (2013). Amniote faunal revision of the Pictou Group (Permo‑Carboniferous), Prince Edward Island, Canada. Comptes Rendus Palevol, 12(7–8), 473–485. https://doi.org/10.1016/j.crpv.2013.05.002
 
 Brinkmann, W., Romano, C., Bucher, H., Ware, D., and Jenks, J. (2010). Palaeobiogeography and stratigraphy of advanced gnathostomian fishes (chondrichthyes and Osteichthyes) in the Early Triassic and from selected Anisian localities (report 1863–2009). Zbl. Geol. Paläontol. Teil II 2009, 765–812
+
+Brocklehurst, N., Romano, M., & Fröbisch, J. (2020). Martensius bromackerensis, a new basal caseid synapsid from the Lower Permian of Germany. Palaeontologia Electronica, 23(3), a57. https://doi.org/10.26879/1083
 
 Brough, J. (1939). The Triassic Fishes of Besano, Lombardy. London, United Kingdom: British Museum (Natural History)
 
@@ -958,9 +1058,17 @@ Bucher, H. (1989). Lower Anisian ammonoids from the northern Humboldt range (nor
 
 Buchwitz, M., & Voigt, S. (2018). On the morphological variability of Ichniotherium tracks and evolution of locomotion in the sister group of amniotes. PeerJ, 6, e4346. https://doi.org/10.7717/peerj.4346
 
+Bulanov, V. V. (2003). Evolution and systematics of seymouriamorph parareptiles. Paleontological Journal, 37(Suppl. 1), S1-S105.
+
+Bulanov, V. V. (2025). To the revision of the middle Permian bolosaurids (Tetrapoda, Bolosaurida) of Eastern Europe. Paleontological Journal, 59(1), 67-78.
+
+Bulanov, V. V., Kovalenko, E. S., MacDougall, M. J., Golubev, V. K., Fröbisch, J., Podurets, K. M., & Bakaev, A. S. (2022). Tooth replacement and reparative dentine formation in the middle Permian bolosaurids of European Russia. Historical Biology, 35(5), 748-761.
+
+Bulanov, Y. V., Kurochkin, E. N., & Bolkhovitinov, Y. A. (2022). New parareptiles (Parareptilia, Bolosauridae) from the Upper Kazanian Stage of the East European Platform. Paleontological Journal, 56(1), 1–13. https://doi.org/10.1134/S003103012201004X
+
 Burdelnaya, N.S., Bushnev, D.A., Mokeev, M.V., and Kuzmin, D.V., 2019. Organic geochemistry of the Pechora basin coal and hypercoal as a perspective product of coal chemistry. Vestnik of Institute of Geology Komi SC UB RAS, 10: 3-10.
 
-Böttcher, R. (2014). Phyllodont tooth plates of Bobasatrania scutata (Gervais, 1852) (Actinoperygii, Bobasatraniiformes) from the Middle Triassic (Longobardian) Grenzbonebed of southern Germany and eastern France, with an overview of Triassic and Palaeozoic phyllodont tooth plates. N. Jb. Geol. Paläont. Abh. 274, 291–311. doi:10.1127/njgpa/2014/0454
+Böttcher, R. (2014). Phyllodont tooth plates of Bobasatrania scutata (Gervais, 1852) (Actinoperygii, Bobasatraniiformes) from the Middle Triassic (Longobardian) Grenzbonebed of southern Germany and eastern France, with an overview of Triassic and Palaeozoic phyllodont tooth plates. N. Jb. Geol. Paläont. Abh. 274, 291–311. https://doi.org/10.1127/njgpa/2014/0454
 
 Bürgin, T. (1992). Basal ray-finned fishes (Osteichthyes; Actinopterygii) from the Middle Triassic of Monte San Giorgio (Canton Tessin, Switzerland). Systematic palaeontology with notes on functional morphology and palaeoecology. Schweizerische Paläontologische Abhandlungen. 114, 1–164
 
@@ -972,9 +1080,15 @@ Bürgin, T., and Herzog, A. (2002). Die Gattung Ctenognathichthys (Actinopterygi
 
 Bürgin, T., Eichenberger, U., Furrer, H., and Tschanz, K. (1991). Die Prosanto Formation – eine fischreiche Fossil-Lagerstätte in der Mitteltrias der SilvrettaDecke (Kanton Graubünden, Schweiz). Eclogae Geologicae Helvetiae. 84, 921–990
 
+Cadel, G. (1986). Geology and uranium mineralization of the Collio basin (central Southern Alps, Italy). Uranium, 2, 215–240.
+
 Cagliari, J., Serratt, H., Basei, M. A. S., Chemale, F. Jr., & Kuyumjian, R. M. (2022). New high-precision U–Pb zircon age of the Irati Formation (Paraná Basin, Brazil). Geochronology Research Letters, 45, 77–89. https://scholarworks.boisestate.edu/geo_facpubs/654
 
 Calisto, V., Piñeiro, G., & Lara, M. B. (2022). Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay. In Late Paleozoic insects from the Konservat‑Lagerstätte Mangrullo Formation, Paraná Basin, Uruguay (pp. 37–37). Asociación Paleontológica Argentina / Consejo Nacional de Investigaciones Científicas y Técnicas – Instituto de Bio y Geociencias del NOA / Universidad Nacional de Salta.
+
+Carroll, R. L. (1978). Permo-Triassic lizards from the Karoo system. Part II. A gliding reptile from the Upper Permian of Madagascar. Palaeontologia africana, 21, 143–159.
+
+Carroll, R. L. (1981). Plesiosaur ancestors from the Upper Permian of Madagascar. Philosophical Transactions of the Royal Society of London B: Biological Sciences, 293(1068), 315–383.
 
 Carroll, R.L., 1964. Early evolution of the dissorophid amphibians. Bulletin of the Museum of Comparative Zoology 131(7):161-250.
 
@@ -982,15 +1096,23 @@ Case, E. C. (1905). Bathygnathus borealis Leidy, and the Permian of Prince Edwar
 
 Case, E.C., 1907. Revision of the Pelycosauria of North America. Carnegie Institution of Washington Publication, v. 55, 176 p.
 
+Cassinis, G. (1966). La Formazione di Collio nell'area-tipo dell'alta Val Trompia (Permiano inferiore bresciano). Rivista Italiana di Paleontologia e Stratigrafia.
+
+Cassinis, G., & Doubinger, J. (1992). Artinskian to Ufimian palynomorph assemblages from the Central Southern Alps, Italy and their regional stratigraphic implications. In: Contribution to Eurasian Geology. International (pp. 9–18).
+
 Catuneanu, O., Wopfner, H., Eriksson, P. G., Cairncross, B., Rubidge, B. S., Smith, R. M. H., & Hancox, P. J. (2005). The Karoo basins of south-central Africa. Journal of African Earth Sciences, 43(1–3), 211–253. https://doi.org/10.1016/j.jafrearsci.2005.07.007
 
-Cavin, L., and Gradinaru, E. (2014). ˘ Dobrogeria aegyssensis, a new early Spathian (Early Triassic) coelacanth from north Dobrogea (Romania). Acta Geol. Pol. 64, 161–187. doi:10.2478/agp-2014-0010
+Cavin, L., and Gradinaru, E. (2014). ˘ Dobrogeria aegyssensis, a new early Spathian (Early Triassic) coelacanth from north Dobrogea (Romania). Acta Geol. Pol. 64, 161–187. https://doi.org/10.2478/agp-2014-0010
 
-Cavin, L., Furrer, H., and Obrist, C. (2013). New coelacanth material from the Middle Triassic of eastern Switzerland, and comments on the taxic diversity of actinistians. Swiss J. Geosci. 106, 161–177. doi:10.1007/s00015-013-0143-7
+Cavin, L., Furrer, H., and Obrist, C. (2013). New coelacanth material from the Middle Triassic of eastern Switzerland, and comments on the taxic diversity of actinistians. Swiss J. Geosci. 106, 161–177. https://doi.org/10.1007/s00015-013-0143-7
 
-Cavin, L., Mennecart, B., Obrist, C., Costeur, L., and Furrer, H. (2017). Heterochronic evolution explains novel body shape in a Triassic coelacanth from Switzerland. Sci. Rep. 7, 13695. doi:10.1038/s41598-017- 13796-0
+Cavin, L., Mennecart, B., Obrist, C., Costeur, L., and Furrer, H. (2017). Heterochronic evolution explains novel body shape in a Triassic coelacanth from Switzerland. Sci. Rep. 7, 13695. https://doi.org/10.1038/s41598-017- 13796-0
 
 cdnsciencepub.com
+
+Ceoloni, P., Conti, M. A., Mariotti, N., Mietto, P., & Nicosia, U. (1987). Tetrapod footprints from Collio Formation (Lombardy, Northern Italy). Memorie di Scienze Geologiche Padova, 39, 213–233.
+
+Ceoloni, P., Conti, M.A., Mariotti, N., & Nicosia, U. (1988). New Late Permian tetrapod footprints from ic and palaeoenvironmental meaning. Palaeontographia Italica, 70, 1–91.
 
 Chahud, A. (2023). Holocephali from the Irati Formation (Paraná Basin), Brazil: Origin, paleogeographical and paleoenvironmental considerations. Estudios Geológicos, 79(2), e155. https://doi.org/10.3989/egeol.44987.632
 
@@ -1004,23 +1126,57 @@ Chase, J.N., 1965. Neldasaurus wrightae, a new rhachitomous labyrinthodont from 
 
 Chen, J. D., Liu, J., & Xu, G. H. (2020). A new changxingi-like temnospondyl from the lower Permian Shanxi Formation of Shanxi, China. Historical Biology, 32(10), 1358-1365. https://doi.org/10.1080/08912963.2019.1585805
 
+Chen, J., & Liu, J. (2020). The youngest occurrence of embolomeres (Tetrapoda: Anthracosauria) from the Sunjiagou Formation (Lopingian, Permian) of North China. Fossil Record, 23(2), 205–213. [https://doi.org/10.5194/fr-23-205-2020](https://doi.org/10.5194/fr-23-205-2020)
+
+Chen, J., & Liu, J. (2024). Early Permian tetrapod footprints from Beijing, China, reveal the oldest record of amniotes from East Pangea. National Science Review, 11(10), nwae249. [https://doi.org/10.1093/nsr/nwae249](https://www.google.com/search?q=https://doi.org/10.1093/nsr/nwae249)
+
 Chen, Z.-Q., and Benton, M. J. (2012). The timing and pattern of biotic recovery following the end-Permian mass extinction. Nat. Geosci. 5, 375–383. https://doi. org/10.1038/ngeo1475
+
+Cheng, Z., & Ji, S. (1996). First record of a primitive anteosaurid dinocephalian from the Upper Permian of Gansu, China. Vertebrata PalAsiatica, 34(2), 123–134.
+
+Cheng, Z., & Li, J. (1997). A new genus of primitive dinocephalian - the third report on Late Permian Dashankou lower tetrapod fauna. Vertebrata PalAsiatica, 35(1), 35–43.
+
+Chorn, J. (1978). Helicoprion (Elasmobranchii, Edestidae) from the Bone Spring Formation (Lower Permian) of West Texas. University of Kansas Paleontological Contributions, Paper 89, 1-12.
+
+Cisneros, J. C., Abdala, F., & Malabarba, M. C. (2005). Pareiasaurids from the Rio do Rasto Formation, southern Brazil: Biostratigraphic implications for Permian faunas of the Paraná Basin. Revista Brasileira de Paleontologia, 8(1), 13-24.
+
+Cisneros, J. C., Abdala, F., Atayman-Güven, S., Rubidge, B. S., Şengör, A. M. C., & Schultz, C. L. (2012). Carnivorous dinocephalian from the Middle Permian of Brazil and tetrapod dispersal in Pangaea. Proceedings of the National Academy of Sciences, 109(5), 1584–1588. [https://doi.org/10.1073/pnas.1115975109](https://doi.org/10.1073/pnas.1115975109)
+
+Cisneros, J. C., Angielczyk, K. D., Kammerer, C. F., Smith, R. M. H., Fröbisch, J., Marsicano, C. A., & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Parnaíba Basin, northeastern Brazil. PeerJ, 8, e8719. https://doi.org/10.7717/peerj.8719
+
+Cisneros, J. C., Angielczyk, K., Kammerer, C. F., Smith, R. M. H., Fröbisch, J., Marsicano, C. A., & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. PeerJ, 8, e8719. [https://doi.org/10.7717/peerj.8719](https://doi.org/10.7717/peerj.8719)
 
 Cisneros, J. C., Dentzien‑Dias, P., & Francischini, H. (2021). The Brazilian pareiasaur revisited. Frontiers in Ecology and Evolution, 9, 758802. https://doi.org/10.3389/fevo.2021.758802
 
-Cisneros, J.C., Angielczyk, K.D., Kammerer, C.F., Smith, R.M.H., Fröbisch, J., Marsicano, C.A. & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. PeerJ 8: e8719. DOI: 10.7717/peerj.8719
+Cisneros, J. C., Marsicano, C., Angielczyk, K. D., Smith, R. M. H., Richter, M., Fröbisch, J., Kammerer, C. F., & Sadleir, R. W. (2015). New Permian fauna from tropical Gondwana. Nature Communications, 6(1), 8676. https://doi.org/10.1038/ncomms9676
 
-Cisneros, J.C., Marsicano, C., Angielczyk, K.D., Smith, R.M.H., Richter, M., Fröbisch, J. & others (2015). New Permian fauna from tropical Gondwana. Nature Communications 6: 8676. DOI: 10.1038/ncomms9676
+Cisneros, J.C., Angielczyk, K.D., Kammerer, C.F., Smith, R.M.H., Fröbisch, J., Marsicano, C.A. & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. PeerJ 8: e8719. https://doi.org/10.7717/peerj.8719
 
-Cisneros, J.C., Sena, M.V.A., Kammerer, C.F., Angielczyk, K.D., Melo, R.V., Marsicano, C.A. & Ruta, M. (2021). A new reptile from the lower Permian of Brazil (Karutia fortunata gen. et sp. nov.) and the interrelationships of Parareptilia. Journal of Systematic Palaeontology 18(23): 1939–1959. DOI: 10.1080/14772019.2020.1863487
+Cisneros, J.C., Marsicano, C., Angielczyk, K.D., Smith, R.M.H., Richter, M., Fröbisch, J. & others (2015). New Permian fauna from tropical Gondwana. Nature Communications 6: 8676. https://doi.org/10.1038/ncomms9676
+
+Cisneros, J.C., Sena, M.V.A., Kammerer, C.F., Angielczyk, K.D., Melo, R.V., Marsicano, C.A. & Ruta, M. (2021). A new reptile from the lower Permian of Brazil (Karutia fortunata gen. et sp. nov.) and the interrelationships of Parareptilia. Journal of Systematic Palaeontology 18(23): 1939–1959. https://doi.org/10.1080/14772019.2020.1863487
+
+Clark, J., & Carroll, R. L. (1973). Romeriid reptiles from the Lower Permian. Bulletin of the Museum of Comparative Zoology, 144(5), 353–407.
 
 Clark, J., and Carroll, R.L., 1973. Romeriid Reptiles from the Lower Permian. Bulletin of the Museum of Comparative Zoology 144(5):353-407.
 
-Coates, M. I. (2017). A fish and tetrapod fauna from Romer’s Gap preserved in Scottish Tournaisian floodplain deposits. Palaeontology. 62, 225–253. doi:10. 1111/pala.12395
+Clifton, R. L. (1945). Permian Word Formation: Its Faunal and Stratigraphic Correlatives, Texas. AAPG Bulletin, 29(12), 1766-1776.
+
+Coates, M. I. (2017). A fish and tetrapod fauna from Romer’s Gap preserved in Scottish Tournaisian floodplain deposits. Palaeontology. 62, 225–253. https://doi.org/10 1111/pala.12395
 
 Coates, M. I., and Clack, J. A. (1995). Romer’s Gap: tetrapod origins and terrestriality. Bulletin du Muséum national d’Histoire naturelle, 4ème série, section C, Sciences de la Terre, Paléontologie, Géologie, Minéralogie 17, 373–388
 
+Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. South African Journal of Geology, 119(2), 415-424. [https://doi.org/10.2113/gssajg.119.2.415](https://doi.org/10.2113/gssajg.119.2.415)
+
+Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. South African Journal of Geology, 119(2), 415–424.
+
+Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. South African Journal of Geology, 119(2), 415–424. https://doi.org/10.2113/gssajg.119.2.415
+
 Condon, S. M. (1997). Geology of the Pennsylvanian and Permian Cutler Group and Permian Kaibab Limestone in the Paradox Basin, southeastern Utah and southwestern Colorado. U.S. Geological Survey Bulletin 2000‑P, iv + 46 pp.
+
+Conti, M. A., Leonardi, G., Mariotti, N., & Nicosia, U. (1977). Tetrapod footprints of the «Val Gardena Sandstone» (North Italy). Their paleontological, stratigraphic and paleoenvironmental meaning. Palaeontographia Italica, 70(40), 1–91.
+
+Cooper, G. A., & Grant, R. E. (1964). New Permian stratigraphic units in Glass Mountains, West Texas. American Association of Petroleum Geologists Bulletin, 48(9), 1581-1588.
 
 Cope, E.D., 1877. Descriptions of extinct Vertebrata from the Permian and Triassic formations of the United States. Proceedings of the American Philosophical Society, v. 17, no. 100, p. 182-193.
 
@@ -1032,15 +1188,25 @@ Cosgriff, J. W. (1965). A new genus of Temnospondyli from the Triassic of Wester
 
 Cosgriff, J. W., & Garbutt, N. K. (1972). Erythrobatrachus noonkanbahensis, a trematosaurid species from the Blina Shale. Journal of the Royal Society of Western Australia, 55(1), 5–18.
 
-County, Nevada, United States). J. Paleontol. 93, 971–1000. doi:10.1017/jpa. 2019.18
+County, Nevada, United States). J. Paleontol. 93, 971–1000. https://doi.org/10.1017/jpa 2019.18
+
+Cox, C. B., & Hutchinson, P. (1991). Fishes and amphibians from the Late Permian Pedra De Fogo Formation of Northern Brazil. Palaeontology, 34(3), 561–573.
+
+Cox, C. B., & Hutchinson, P. (1991). Fishes and amphibians from the Pedra de Fogo Formation of Northern Brazil. Palaeontology, 34(3), 561-573.
 
 Cox, C.B. & Hutchinson, P. (1991). Fishes and amphibians from the Late Permian Pedra de Fogo Formation of northern Brazil. Palaeontology 34(3): 561–573.
 
+Cruickshank, A. R. I., Clark, N. D. L., & Adams, C. (2005). A new specimen of *Dicynodon traquairi* (Newton) (Synapsida: Anomodontia) from the Late Permian (Tartarian) of northern Scotland. Palaeontologia Africana, 41, 35–43.
+
 Cui, Y., Brauner, S., Schneider, J. W., & Béthoux, O. (2022). Grylloblattidan insects from Sperbersbach and Cabarz (Germany), two new early Permian and insect-rich localities. Journal of Paleontology, 96(2), 355–374. https://doi.org/10.1017/jpa.2021.101
+
+Currie, P. (1980). A new younginid (Reptilia: Eosuchia) from the Upper Permian of Madagascar. Canadian Journal of Earth Sciences, 17(4), 500–511.
+
+Currie, P. J. (1981). *Hovasaurus boulei*, an aquatic eosuchian from the upper Permian of Madagascar. Palaeontologia africana, 21, 99–168.
 
 Cuthbertson, R. S., Russell, A. P., & Anderson, J. S. (2013). Cranial morphology and relationships of a new grippidian (Ichthyopterygia) from the Vega–Phroso Siltstone Member (Lower Triassic) of British Columbia, Canada. Journal of Vertebrate Paleontology, 33(4), 831–847. https://doi.org/10.1080/02724634.2013.755989
 
-Dai, X., and Song, H. (2020). Toward an understanding of cosmopolitanism in deep time: a case study of ammonoids from the middle Permian to the Middle Triassic. Paleobiology. 46, 533–549. doi:10.1017/pab.2020.40
+Dai, X., and Song, H. (2020). Toward an understanding of cosmopolitanism in deep time: a case study of ammonoids from the middle Permian to the Middle Triassic. Paleobiology. 46, 533–549. https://doi.org/10.1017/pab.2020.40
 
 Dalquest, W. W., Kocurko, M. J., & Grimes, J. A. (1988). Geology and vertebrate paleontology of a Lower Permian deposit on the Brazos River, Baylor County, Texas, with the description of a new genus and species of acanthodian fish. Tulane Studies in Geology and Paleontology, 21(3), 1–16.
 
@@ -1048,13 +1214,53 @@ Dames, W. (1888). Die Ganoiden des deutschen Muschelkalks. Paläontologische Abh
 
 Damiani, R. J., & Rubidge, B. S. (2003). A review of the South African temnospondyl amphibian record. Palaeontologia Africana, 39, 21–36.
 
+Damiani, R., Sidor, C. A., & Steyer, J. S. (2006). A new temnospondyl from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 26(1), 1-10. https://doi.org/10.1671/0272-4634(2006)26[1:ANTFUT]2.0.CO;2
+
+Dankina, D., Spiridonov, A., Raczyński, P., & Radzevičius, S. (2021). Late Permian ichthyofauna from the North-Sudetic Basin, SW Poland. Acta Palaeontologica Polonica, 66(Supplement to 3), 47–57.
+
+Dankina, D., Spiridonov, A., Raczyński, P., Radzevičius, S., & Antczak, M. (2023). The first Late Permian fish fossils from Leszczyna quarry in South-West Poland. Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 114(1-2), 65-74.
+
 Davies, G. R., Moslow, T. F., and Sherwin, M. D. (1997). Ganoid fish Albertonia sp. from the Lower Triassic Montney Formation, western Canada sedimentary basin. Bull. Can. Petrol. Geol. 45, 715–718
+
+Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123(2), 149–164. (https://doi.org/10.25131/sajg.123.0012)
+
+Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123(2), 149–164. [https://doi.org/10.25131/sajg.123.0012](https://doi.org/10.25131/sajg.123.0012)
+
+Day, M. O., & Rubidge, B. S. (2021). The Late Capitanian Mass Extinction of Terrestrial Vertebrates in the Karoo Basin of South Africa. Frontiers in Earth Science, 9, 631198. [https://doi.org/10.3389/feart.2021.631198](https://www.google.com/search?q=https://doi.org/10.3389/feart.2021.631198)
+
+Day, M. O., & Smith, R. M. H. (2020). Biostratigraphy of the *Endothiodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123(2), 165–180. [https://doi.org/10.25131/sajg.123.0011](https://doi.org/10.25131/sajg.123.0011)
+
+Day, M. O., Güven, S., Abdala, F., Jirah, S., Rubidge, B., & Almond, J. (2015a). Youngest dinocephalian fossils extend the *Tapinocephalus* Zone, Karoo Basin, South Africa. South African Journal of Science, 111(3–4), 1–5. [https://doi.org/10.17159/sajs.2015/20140309](https://www.google.com/search?q=https://doi.org/10.17159/sajs.2015/20140309)
+
+Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F., & Rubidge, B. S. (2015). When and how did the terrestrial mid-Permian mass extinction occur? Evidence from the tetrapod record of the Karoo Basin, South Africa. Proceedings of the Royal Society B: Biological Sciences, 282(1811), 20150834. (https://doi.org/10.1098/rspb.2015.0834)
+
+Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F., & Rubidge, B. S. (2015b). When and how did the terrestrial mid-Permian mass extinction occur? Evidence from the tetrapod record of the Karoo Basin, South Africa. Proceedings of the Royal Society B: Biological Sciences, 282(1811), 20150834. [https://doi.org/10.1098/rspb.2015.0834](https://doi.org/10.1098/rspb.2015.0834)
+
+Day, M. O., Rubidge, B. S., & Abdala, F. (2016). A new mid-Permian burnetiamorph therapsid from the Main Karoo Basin of South Africa and a phylogenetic review of Burnetiamorpha. Acta Palaeontologica Polonica, 61(4), 701–719. [https://doi.org/10.4202/app.00296.2016](https://doi.org/10.4202/app.00296.2016)
+
+Day, M., Rubidge, B., Almond, J., & Jirah, S. (2013). Biostratigraphic correlation in the Karoo: The case of the Middle Permian parareptile *Eunotosaurus*. South African Journal of Science, 109(3/4), 1–4. [https://doi.org/10.1590/sajs.2013/20120030](https://www.google.com/search?q=https://doi.org/10.1590/sajs.2013/20120030)
+
+Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the Tapinocephalus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123, 149–164. https://doi.org/10.25131/sajg.123.0012
+
+Day, M. O., Ramezani, J., Frazer, R. E., & Rubidge, B. S. (2021). U‑Pb zircon age constraints on the vertebrate assemblages and palaeomagnetic record of the Guadalupian Abrahamskraal Formation, Karoo Basin, South Africa. Journal of African Earth Sciences, 186, 104435. https://doi.org/10.1016/j.jafrearsci.2021.104435
 
 de Queiroz, L. C., Carlisbino, T., Agressott, E. V. H., Paschoal, A. R., Freire, P. T. C., Viana Neto, B. C., & da Silva, J. H. (2020). Paleoenvironmental interpretations of Irati and Mangrullo Formations (Permian of Paraná Basin) based on rocks and fossil bones through spectroscopy techniques. Vibrational Spectroscopy, 110, 103110. https://doi.org/10.1016/j.vibspec.2020.103110
 
 Deecke, W. (1927). Über die Triasfische. Paläontol. Z. 8, 184–198
 
 Demin, A.P., 1991. Use of coal from the Inta seam group in the Vorkuta deposit, Pechora basin, for coking. Technical Report, ETDEWEB database.
+
+Dias, E. V., & Barberena, M. C. (2001). A Temnospondyl Amphibian from the Rio do Rasto Formation, Upper Permian of Southern Brazil. Anais da Academia Brasileira de Ciências, 73(1), 135-143.
+
+Dias, E. V., & Barberena, M. C. (2001). A Temnospondyl amphibian from the Rio do Rasto Formation, Upper Permian of southern Brazil. Anais da Academia Brasileira de Ciências, 73(1), 135-143. [https://doi.org/10.1590/s0001-37652001000100011](https://doi.org/10.1590/s0001-37652001000100011)
+
+Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. Lethaia, 45(1), 109–120.
+
+Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. Lethaia, 45(1), 109–120. [https://doi.org/10.1111/j.1502-3931.2011.00263.x](https://doi.org/10.1111/j.1502-3931.2011.00263.x)
+
+Dias-da-Silva, S. (2012). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. Lethaia, 45(1), 109–120. [https://doi.org/10.1111/j.1502-3931.2011.00263.x](https://www.google.com/search?q=https://doi.org/10.1111/j.1502-3931.2011.00263.x)
+
+Diedrich, C. G. (2009). A coelacanthid-rich site at Hasbergen (NW Germany): taphonomy and palaeoenvironment of a first systematic excavation in the Kupferschiefer (Upper Permian, Lopingian). Palaeobiodiversity and Palaeoenvironments, 89(1), 67-94.
 
 Dilkes, D.W., 1990. A new trematopsid amphibian (Temnospondyli: Dissorophoidea) from the Lower Permian of Texas. Journal of Vertebrate Paleontology 10(2):222-243. https://doi.org/10.1080/02724634.1990.10011809
 
@@ -1064,41 +1270,97 @@ DiMichele, W.A., Hook, R.W., Kerp, H., Hotton, C.L., Looy, C.V., and Chaney, D.S
 
 DiMichele, W.A., Hotton, C.L., Looy, C.V., and Hook, R.W., 2019. Paleoecological and paleoenvironmental interpretation of three successive macrofloras and palynofloras from the Kola Switch locality, lower Permian (Archer City Formation, Bowie Group) of Clay County, Texas, USA. PalZ 93(3):423-451. https://doi.org/10.1007/s12542-019-00485-8
 
+Drysdall, A. R., & Kitching, J. W. (1963). A re-examination of the Karroo succession and fossil localities of part of the Upper Luangwa Valley. Geological Survey, Northern Rhodesia. Memoir 1, 1–62.
+
+Duhamel, A., Benoit, J., Rubidge, B. S., & Liu, J. (2021). A re-assessment of the oldest therapsid Raranimus confirms its status as a basal member of the clade and fills Olson's gap. The Science of Nature, 108(4), 26. [https://doi.org/10.1007/s00114-021-01736-y](https://doi.org/10.1007/s00114-021-01736-y)
+
 Dunkle, D.H., 1946. A new palaeoniscoid fish from the Lower Permian of Texas. Journal of the Washington Academy of Sciences, v. 36, no. 12, p. 402-409.
 
-E., Hochuli, P. A., et al. (2013). Climatic and biotic upheavals following the endPermian mass extinction. Nat. Geosci. 6, 57–60. doi:10.1038/ngeo1667
+E., Hochuli, P. A., et al. (2013). Climatic and biotic upheavals following the endPermian mass extinction. Nat. Geosci. 6, 57–60. https://doi.org/10.1038/ngeo1667
 
 Eberth, D. A., Berman, D. S., Sumida, S. S., & Hopf, H. (2000). Lower Permian terrestrial paleoenvironments and vertebrate paleoecology of the Tambach Basin (Thuringia, central Germany): The upland holy grail. PALAIOS, 15(4), 293–313.
+
+Eltink, E., & Langer, M. C. (2014). A new specimen of the temnospondyl *Australerpeton cosgriffi* from the late Permian of Brazil (Rio do Rasto Formation, Paraná Basin): comparative anatomy and phylogenetic relationships. Journal of Vertebrate Paleontology, 34(3), 524–538. [https://doi.org/10.1080/02724634.2013.826667](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2013.826667)
 
 Esin, D.N. and Bakaev, A.S., 2022. New Ray-Finned Fishes (Actinopterygii, Osteichthyes) from the Permian of European Russia. Paleontological Journal, 56(11), 1437-1453.
 
 Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: a preliminary review of palaeoniscoid fishes and taphonomy. Records of the Western Australian Museum, Supplement 57, 175–181.
 
-Figueroa, R.T. & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. Journal of South American Earth Sciences 76: 389–396. DOI: 10.1016/j.jsames.2017.03.015
+Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: A preliminary review of palaeoniscoid fishes and taphonomy. Julius‑Maximilians‑Universität Würzburg, 175–178.
+
+Evans, S. E. (1988). The Upper Permian reptile Adelosaurus from Durham. Palaeontology, 31(4), 957–964.
+
+Evans, S. E. and King, M. S. (1993). A new specimen of Protorosaurus (Reptilia: Diapsida) from the Marl Slate (late Permian) of Britain. Proceedings of the Yorkshire Geological Society, 49(3), 229–234.
+
+Evans, S.E. and Haubold, H. (1987). A review of the Upper Permian genera Coelurosauravus, Weigeltisaurus and Gracilisaurus (Reptilia: Diapsida). Zoological Journal of the Linnean Society, 90(3), 275-303.
+
+Falconnet, J. (2012). *Belebey augustodunensis* n. sp., a new parareptile (Acleistorhinidae) from the Lower Permian of France. Comptes Rendus Palevol, 11(7), 493–500. https://doi.org/10.1016/j.crpv.2012.05.003
+
+Fay, R. O. (1962). Stratigraphy and general geology of Blaine County. In Geology and mineral resources of Blaine County, Oklahoma. Oklahoma Geological Survey, Bulletin 89, 12-99.
+
+Feys, J. (1991). Les dépôts continentaux permien inférieur du Bassin d'Autun (Massif Central, France). Annales de la Société Géologique de Belgique, 114(1–2), 237–254.
+
+Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. Journal of South American Earth Sciences, 76, 389–396. [https://doi.org/10.1016/j.jsames.2017.03.015](https://www.google.com/search?q=https://doi.org/10.1016/j.jsames.2017.03.015)
+
+Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. Journal of South American Earth Sciences, 80, 42-51. https://doi.org/10.1016/j.jsames.2017.09.010
+
+Figueroa, R. T., Friedman, M., & Gallo, V. (2019). Cranial anatomy of the predatory actinopterygian *Brazilichthys macrognathus* from the Permian (Cisuralian) Pedra de Fogo Formation, Parnaíba Basin, Brazil. Journal of Vertebrate Paleontology, 39(3), e1639722. [https://doi.org/10.1080/02724634.2019.1639722](https://doi.org/10.1080/02724634.2019.1639722)
+
+Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Carboniferous Poti Formation and from the Permian Rio do Rasto Formation, Brazil. Revista Brasileira de Paleontologia, 19(3), 401-406. [https://doi.org/10.4072/rbp.2016.3.05](https://doi.org/10.4072/rbp.2016.3.05)
+
+Figueroa, R.T. & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. Journal of South American Earth Sciences 76: 389–396. https://doi.org/10.1016/j.jsames.2017.03.015
+
+Fischer, T., Schöllmann, L., & Haunert, J. (2021). The Late Permian Kupferschiefer Fossils and the Geological Educational Trail in the UNESCO Global Geopark TERRA.vita (NW Germany). Geoconservation Research, 4(1), 278-289.
 
 Forey, P. L. (1998). History of the Coelacanth Fishes. London, United Kingdom: Chapman & Hall
 
+Fox, R. C., & Bowman, M. C. (1966). Osteology and Relationships of Captorhinus aguti (Cope) (Reptilia: Captorhinomorpha). The University of Kansas Paleontological Contributions, Series Vertebrata, 11, 1–79.
+
 Fox, R.C., and Bowman, M.C., 1966. Osteology and relationships of Captorhinus aguti (Cope) (Reptilia: Captorhinomorpha). The University of Kansas Paleontological Contributions, v. 11, p. 1-79.
 
-Friedman, M. (2015). The early evolution of ray-finned fishes. Palaeontology. 58, 213–228. doi:10.1111/pala.12150
+Francischini, H., Dentzien-Dias, P., Guerra-Sommer, M., Menegat, R., Santos, J. O. S., Manfroi, J., & Schultz, C. L. (2018). A middle permian (Roadian) lungfish aestivation burrow from the Rio Do Rasto Formation (Paraná Basin, Brazil) and associated U-Pb dating. Palaios, 33(2), 69-84. [https://doi.org/10.2110/palo.2017.050](https://doi.org/10.2110/palo.2017.050)
 
-Galfetti, T., Hochuli, P. A., Brayard, A., Bucher, H., Weissert, H., and Vigran, J. O. (2007). Smithian–Spathian boundary event: evidence for global climatic change in the wake of the end-Permian biotic crisis. Geology. 35, 291–294. doi:10.1130/ G23117A.1
+Friedman, M. (2015). The early evolution of ray-finned fishes. Palaeontology. 58, 213–228. https://doi.org/10.1111/pala.12150
 
-Gall, J.-C., and Grauvogel-Stamm, L. (2005). The early Middle Triassic ‘Grès à Voltzia’ Formation of eastern France: a model of environmental refugium. Comptes Rendus Palevol. 4, 637–652. doi:10.1016/j.crpv.2005.04.007
+Fröbisch, J., & Reisz, R. R. (2009). The Late Permian herbivore Suminia and the early evolution of arboreality in terrestrial vertebrate ecosystems. Proceedings of the Royal Society B: Biological Sciences, 276(1673), 3611–3618. [https://doi.org/10.1098/rspb.2009.0911](https://doi.org/10.1098/rspb.2009.0911)
+
+Galfetti, T., Hochuli, P. A., Brayard, A., Bucher, H., Weissert, H., and Vigran, J. O. (2007). Smithian–Spathian boundary event: evidence for global climatic change in the wake of the end-Permian biotic crisis. Geology. 35, 291–294. https://doi.org/10.1130/ G23117A.1
+
+Gall, J.-C., and Grauvogel-Stamm, L. (2005). The early Middle Triassic ‘Grès à Voltzia’ Formation of eastern France: a model of environmental refugium. Comptes Rendus Palevol. 4, 637–652. https://doi.org/10.1016/j.crpv.2005.04.007
 
 Gall, J.-C., Grauvogel, L., and Lehman, J.-P. (1974). Faune du Buntsandstein, V. Les Poissons fossiles de la collection Grauvogel-Gall. Ann. Paleontol. 60, 129–147
+
+Gand, G., Steyer, J.-S., Chabard, J., Pellenard, P., Diez, J. B., Fechner, R., & Broutin, J. (2007). The continental "Autunian" succession of the Autun Basin (France): a multidisciplinary approach to the Carboniferous-Permian boundary. Comptes Rendus Palevol, 6(3), 177–192. https://doi.org/10.1016/j.crpv.2006.11.003
+
+Gaudry, A. (1888). Notice explicative de la carte géologique de la France au 1/50.000e, feuille d'Autun. Notes et Mémoires du Bureau de Recherches Géologiques et Minières.
 
 Gee, B. M., Berman, D. S., Henrici, A. C., Pardo, J. D., & Huttenlocker, A. K. (2021). New information on the dissorophid Conjunctio (Temnospondyli) based on a specimen from the Cutler Formation of Colorado, U.S.A. Journal of Vertebrate Paleontology, 40(6), e1877152. https://doi.org/10.1080/02724634.2020.1877152
 
 Gee, B. M., Rosscoe, S. J., Scott, D., Ostlien, J., & Reisz, R. R. (2018). Faunal overview of the Mud Hill locality from the early Permian Vale Formation of Taylor County, Texas. Journal of Paleontology, 92, 1092–1106. https://doi.org/10.1017/jpa.2018.26
 
+Gee, B. M., Scott, D., & Reisz, R. R. (2018). Reappraisal of the Permian dissorophid Fayella chickashaensis. Canadian Journal of Earth Sciences, 55(10), 1103–1114. [https://doi.org/10.1139/cjes-2018-0053](https://www.google.com/search?q=https://doi.org/10.1139/cjes-2018-0053)
+
+Geertsema, H., & van den Heever, J. A. (1996). A new beetle, Afrocupes firmae gen. et sp. nov. (Permocupedidae), from the late Palaeozoic Whitehill Formation of South Africa. South African Journal of Science, 92, 497–499.
+
 Geng, B.-H., Jin, F., Wu, F.-X., and Wang, Q. (2012). New perleidid fishes from the Middle Triassic strata of yunnan province. Geol. Bull. China. 31, 915–927.
+
+George, H., Kammerer, C. F., Foffa, D., Clark, N. D. L., & Brusatte, S. (2024). Micro-CT data reveals new information on the craniomandibular and neuroanatomy of the dicynodont Gordonia (Therapsida: Anomodontia) from the late Permian of Scotland. Zoological Journal of the Linnean Society, 1–31. [https://doi.org/10.1093/zoolinnean/zlae065](https://doi.org/10.1093/zoolinnean/zlae065)
+
+Gervais, P. (1858). Zoologie et Paléontologie Françaises (Deuxième Édition). Arthus Bertrand.
+
+Golubev, V. K. (2000a). Permian and Triassic chronosuchians and biostratigraphy of the upper Tatarian deposits of Eastern Europe by tetrapods. Trudy Paleontologicheskogo Instituta, 276, 1-176.
+
+Golubev, V. K. (2015). Dinocephalian stage in the history of the Permian tetrapod fauna of Eastern Europe. Paleontological Journal, 49(12), 1346–1352.
 
 Golubev, V.K., 2000. The faunal assemblages of Permian terrestrial vertebrates from Eastern Europe. Paleontological Journal, 34(Suppl. 2): S211-S224.
 
 Golubev, V.K., 2015. The faunal assemblages of Permian terrestrial vertebrates from Eastern Europe. Paleontological Journal, 49(7), 700-774.
 
-Goudemand, N., Romano, C., Leu, M., Bucher, H., Trotter, J. A., and Williams, I. S. (2019). Dynamic interplay between climate and marine biodiversity upheavals during the Early Triassic Smithian-Spathian biotic crisis. Earth Sci. Rev. 195, 169–178. doi:10.1016/j.earscirev.2019.01.013
+Gottmann-Quesada, A., & Sander, P. M. (2009). A redescription of the early archosauromorph $\textit{Protorosaurus speneri}$ MEYER, 1832, and its phylogenetic relationships. Palaeontographica Abteilung A, 287(4-6), 123-220.
+
+Goudemand, N., Romano, C., Leu, M., Bucher, H., Trotter, J. A., and Williams, I. S. (2019). Dynamic interplay between climate and marine biodiversity upheavals during the Early Triassic Smithian-Spathian biotic crisis. Earth Sci. Rev. 195, 169–178. https://doi.org/10.1016/j.earscirev.2019.01.013
+
+Gould, C. N. (1924). A new classification of the Permian redbeds of southwestern Oklahoma. American Association of Petroleum Geologists Bulletin, 8(3), 322–341.
 
 Grazul, K. R., Huntoon, J. E., & O’Keefe, J. M. (2015). Stratigraphy and fossil plants from the Cutler Formation (Late Paleozoic) and their paleoclimatic implications, eastern Paradox Basin, Colorado. Geology of the Intermountain West, 2, 9–27. https://doi.org/10.31711/giw.v2.pp9-27
 
@@ -1110,23 +1372,43 @@ Gubin, Y.M., 1991. Permskie arkhegozavroidnyi amfibii SSSR Permian archegosauroi
 
 Hampe, O. (1994). Neue Erkenntnisse zur permokarbonischen Xenacanthiden-Fauna (Chondrichthyes: Elasmobranchii) und deren Verbreitung im südwestdeutschen Saar-Nahe-Becken. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 192(1), 53–87.
 
+Hancock, A. and Howse, R. (1870a). On Dorypterus Hoffmanni, Germar, from the Marl-slate of Midderidge, Durham. Quarterly Journal of the Geological Society of London, 26, 556-564.
+
+Hancock, A. and Howse, R. (1870b). On a new Labyrinthodont Amphibian from the Magnesian Limestone of Midderidge, Durham [and] On Protorosaurus Speneri, Von Meyer, and a new species, Proterosaurus Huxleyi, from the Marl-slate of Midderidge, Durham. Quarterly Journal of the Geological Society of London, 26, 565-572.
+
+Haubold, H., & Schaumberg, G. (1985). Die Fossilien des Kupferschiefers. Neue Brehm-Bücherei, Ziemsen, Lutherstadt-Wittenberg.
+
+Heaton, M. J. (1979). Cranial Anatomy of Primitive Captorhinid Reptiles from the Late Pennsylvanian and Early Permian, Oklahoma and Texas. Oklahoma Geological Survey, Bulletin 127, 1–84.
+
 Heckert, A. B., Lucas, S. G., Furfey, R. T., & MacDonald, J. P. (2010). Vertebrate paleontology of the Robledo Mountains Member of the Hueco Formation, Doña Ana Mountains, New Mexico. In S. G. Lucas, K. Zeigler & J. A. Spielmann (Eds.), The Permian of central New Mexico (New Mexico Museum of Natural History and Science Bulletin 49, pp. 169–180).
+
+Henderson, C. M. (2018). Global standard for the Asselian Stage (Lower Permian). Episodes, 41(1), 41–52. https://doi.org/10.18814/epiiugs/2018/010016
 
 Henderson, C.M., Davydov, V.I., and Wardlaw, B.R., 2012. The Permian Period. In: Gradstein, F.M., Ogg, J.G., Schmitz, M.D., and Ogg, G.M. (Eds.), The Geologic Time Scale 2012. Elsevier, Amsterdam.
 
+Henrici, A. C., Martens, T., Berman, D. S., & Sumida, S. S. (2011). An ostodolepid 'microsaur' (Lepospondyli) from the Lower Permian Tambach Formation of central Germany. Journal of Vertebrate Paleontology, 31(5), 997–1004. https://doi.org/10.1080/02724634.2011.596601
+
+Hentz, T. F. (1988). Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas: Bowie (new) and Wichita (revised) Groups. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations No. 170, 55 p.
+
+Hentz, T. F. (1988). Lithostratigraphy and Paleoenvironments of Upper Paleozoic Continental Red Beds, North-Central Texas: Bowie (New) and Wichita (Revised) Groups. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations No. 170.
+
 Hentz, T.F., 1988. Lithostratigraphy and paleoenvironments of Upper Paleozoic continental red beds, North-central Texas: Bowie (new) and Wichita (revised) Groups. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations 170:1-55. https://doi.org/10.23867/RI0170D
 
-Hentz, T.F., 1988. Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas; Bowie (new) and Wichita (revised) Groups: University of Texas-Austin, Bureau of Economic Geology Report of Investigations, no. 170, 55 p. doi: 10.23867/RI0170D
+Hentz, T.F., 1988. Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas; Bowie (new) and Wichita (revised) Groups: University of Texas-Austin, Bureau of Economic Geology Report of Investigations, no. 170, 55 p. https://doi.org/10.23867/RI0170D
 
 Hentz, T.F., and Brown, L.F. Jr., 1987. Wichita Falls-Lawton sheet. Geologic Atlas of Texas. Austin: The University of Texas and Bureau of Economic Geology.
 
 Hentz, T.F., and Brown, L.F., Jr., 1987. Wichita Falls-Lawton sheet, in Barnes, V.E. (project director), Geologic atlas of Texas: University of Texas-Austin, Bureau of Economic Geology.
 
-Hermann, E., Hochuli, P. A., Méhay, S., Bucher, H., Brühwiler, T., Ware, D., et al. (2011). Organic matter and palaeoenvironmental signals during the Early Triassic biotic recovery: the Salt Range and Surghar Range records. Sediment. Geol. 234, 19–41. doi:10.1016/j.sedgeo.2010.11.003
+Hermann, E., Hochuli, P. A., Méhay, S., Bucher, H., Brühwiler, T., Ware, D., et al. (2011). Organic matter and palaeoenvironmental signals during the Early Triassic biotic recovery: the Salt Range and Surghar Range records. Sediment. Geol. 234, 19–41. https://doi.org/10.1016/j.sedgeo.2010.11.003
 
-Herzog, A. (2003). Eine Neubeschreibung der Gattung Eoeugnathus Brough, 1939 (Actinopterygii; Halecomorphi) aus der alpinen Mitteltrias Graubündens (Schweiz). Paläontol. Z. 77, 223–240. doi:10.1007/BF03004570
+Herzog, A. (2003). Eine Neubeschreibung der Gattung Eoeugnathus Brough, 1939 (Actinopterygii; Halecomorphi) aus der alpinen Mitteltrias Graubündens (Schweiz). Paläontol. Z. 77, 223–240. https://doi.org/10.1007/BF03004570
 
-Herzog, A., and Bürgin, T. (2005). A new species of the genus Besania Brough 1939 from the Middle Triassic of Canton Grisons (Switzerland) with a discussion of the phylogenetic status of the taxon. Eclogae Geol. Helv. 98, 113–122. doi:10. 1007/s00015-005-1153-x
+Herzog, A., and Bürgin, T. (2005). A new species of the genus Besania Brough 1939 from the Middle Triassic of Canton Grisons (Switzerland) with a discussion of the phylogenetic status of the taxon. Eclogae Geol. Helv. 98, 113–122. https://doi.org/10 1007/s00015-005-1153-x
+
+Heyler, D. (1957). Contribution à l'étude des amphibiens carboniféro-permiens de France. Annales de Paléontologie, 43, 213–272.
+
+Heyler, D. (1969). Vertebrata. In Rapport sur la carte géologique de la France, Mémoire 52, Bassin d'Autun. BRGM.
 
 Heyler, D. (1969). Vertébrés de l’Autunien de France. Cahiers de Paléontologie, CNRS Éd., Paris (255 pp).
 
@@ -1136,21 +1418,43 @@ Holz, M., França, A. B., Souza, P. A., Iannuzzi, R., & Rohn, R. (2010). A strat
 
 Hook, R.W., 1989. Stratigraphic distribution of tetrapods in the Bowie and Wichita Groups, Permo-Carboniferous of north-central Texas. In: Permo-Carboniferous Vertebrate Paleontology, Lithostratigraphy, and Depositional Environments of North-Central Texas. Field Trip Guidebook No. 2, 49th Annual Meeting of the Society of Vertebrate Paleontology, Austin, pp. 47-53.
 
-Hook, R.W., and Hotton, N., III, 1991. A new sphenacodontid pelycosaur (Synapsida) from the Wichita Group, Lower Permian of north-central Texas. Journal of Vertebrate Paleontology, v. 11, no. 1, p. 37-44. doi: 10.1080/02724634.1991.10011374
+Hook, R.W., and Hotton, N., III, 1991. A new sphenacodontid pelycosaur (Synapsida) from the Wichita Group, Lower Permian of north-central Texas. Journal of Vertebrate Paleontology, v. 11, no. 1, p. 37-44. https://doi.org/10.1080/02724634.1991.10011374
 
 Hotton, N., Hook, R. W., & Brown, R. W. (2002). Crustacean-bearing continental deposits in the Petrolia Formation (Lower Permian) of North-Central Texas. Journal of Paleontology, 76(4), 486–493. https://doi.org/10.1666/0022-3360(2002)076 <0486:CCBDIT>2.0.CO;2
+
+Hotton, N., III, Feldmann, R. M., Hook, R. W., & DiMichele, W. A. (2002). Crustacean-bearing continental deposits in the Petrolia Formation (Leonardian Series, Lower Permian) of north-central Texas. Journal of Paleontology, 76(3), 486–494.
+
+Howse, R. (1890b). Catalogue of the local fossils in the museum of the Natural History Society. Natural History Transactions of Northumberland, Durham, and Newcastle-upon-Tyne, 10, 227–288.
 
 Hunt, A. P., & Lucas, S. G. (1992). The paleoflora of the lower Cutler Formation (Pennsylvanian: Desmoinesian?) in El Cobre Canyon, New Mexico and its biochronological significance. New Mexico Geological Society, 43rd Field Conference Guidebook, 145–150.
 
 Hunt, A. P., & Lucas, S. G. (1996). Late Paleozoic fossil vertebrates from the Spanish Queen mine locality and vicinity, Sandoval County, New Mexico. In New Mexico Geological Society 47th Field Conference Guidebook, 22–23.
 
-Iannuzzi, R., Neregato, R., Cisneros, J.C., et al. (2018). Re-evaluation of the Permian macrofossils from the Parnaíba Basin: biostratigraphic, palaeoenvironmental and palaeogeographical implications. In: P. Dentzien-Dias et al. (eds.), Late Paleozoic biotas of Latin America, Geological Society, London, Special Publications 472: 223–249. DOI: 10.1144/SP472.14
+Huttenlocker, A. K., & Smith, R. M. H. (2017). New whaitsioids (Therapsida: Therocephalia) from the Teekloof Formation of South Africa and therocephalian diversity during the end-Guadalupian extinction. PeerJ, 5, e3868. [https://doi.org/10.7717/peerj.3868](https://www.google.com/search?q=https://doi.org/10.7717/peerj.3868)
+
+Huttenlocker, A. K., Sidor, C. A., & Angielczyk, K. D. (2011). A new specimen of Promoschorhynchus (Therapsida: Therocephalia) from the Lower Triassic of South Africa and its implications for therocephalian survival across the Permo-Triassic boundary. Journal of Vertebrate Paleontology, 31(2), 385–401. https://doi.org/10.1080/02724634.2011.550358
+
+Iannuzzi, R., Neregato, R., Cisneros, J. C., Angielczyk, K. D., Rößler, R., Rohn, R., Marsicano, C., Fröbisch, J., Fairchild, T., Smith, R. M. H., Kurzawe, F., Richter, M., Langer, M. C., Tavares, T. M. V., Kammerer, C. F., Conceição, D. M., Pardo, J. D., & Roesler, G. (2018). Re-evaluation of the Permian macrofossils from the Parnaíba Basin: Biostratigraphic, palaeoenvironmental and palaeogeographical implications. Geological Society, London, Special Publications, 472(1), 313-354. [https://doi.org/10.1144/sp472.14](https://www.google.com/search?q=https://doi.org/10.1144/sp472.14)
+
+Iannuzzi, R., Neregato, R., Cisneros, J.C., et al. (2018). Re-evaluation of the Permian macrofossils from the Parnaíba Basin: biostratigraphic, palaeoenvironmental and palaeogeographical implications. In: P. Dentzien-Dias et al. (eds.), Late Paleozoic biotas of Latin America, Geological Society, London, Special Publications 472: 223–249. https://doi.org/10.1144/SP472.14
+
+Iannuzzi, R., Rohn, R., & Lemos, V. B. (2018). The Parnaíba Basin: a window into the Permian of palaeotropical western Pangaea. In: Linol, B., de Wit, M.J. (Eds.), Origin and Evolution of the Cape Mountains and Karoo Basin. Regional Geology Reviews. Springer, Cham. pp. 233–263. https://doi.org/10.1007/978-3-319-40859-0_14
 
 Isaev, V.S., Naugolnykh, S.V., and Kirilishina, E.M., 2018. Permian fossil plants from the sediments of the Vorkuta Series at the Pechora Coal Basin in the collection of the Earth Science Museum of Moscow State University. Moscow University Geology Bulletin, 73(5): 42-51. https://doi.org/10.3103/S0145875218050083
 
+Ivakhnenko, M. F. (1996). Cranial morphology and evolution of Permian Dinomorpha (Eotherapsida) of eastern Europe. Paleontological Journal, 30(5).
+
+Ivakhnenko, M. F. (2011). Permian and Triassic therocephals (Eutherapsida) of Eastern Europe. Paleontological Journal, 45(9), 981–1144.
+
+Ivakhnenko, M. F., Tverdokhlebova, G. I., & Lozovski, V. Z. (1997). Tetrapod fauna of the Tatarian deposits of the Uralian Foreland. Trudy Paleontologicheskogo Instituta, Akademiya Nauk SSSR, 279, 1–296.
+
 Ivanov, A. O., Duffin, C. J., & Naugolnykh, S. V. (2017). A new euselachian shark from the early Permian of the Middle Urals, Russia. Acta Palaeontologica Polonica, 62(2), 289–298. https://doi.org/10.4202/app.00347.2017
 
-Ji, C., Zhang, C., Jiang, D.-Y., Bucher, H., Motani, R., and Tintori, A. (2015). Ammonoid age control of the Early Triassic marine reptiles from Chaohu (South China). Palaeoworld. 24, 277–282. doi:10.1016/j.palwor.2014.11.009
+Jenkins, X. A., Browning, C., Choiniere, J., & Peecook, B. R. (2025). A new moradisaurine captorhinid from the Upper Permian (Lopingian) upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. Journal of Vertebrate Paleontology. [https://doi.org/10.1080/02724634.2024.2427529](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2427529)
+
+Jenkins, X. A., Browning, C., Choiniere, J., & Peecook, B. R. (2025). A new moradisaurine captorhinid from the Upper Permian (Lopingian) upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23. Journal of Vertebrate Paleontology, 45(1, supplement), e2427529. [https://doi.org/10.1080/02724634.2024.2427529](https://doi.org/10.1080/02724634.2024.2427529)
+
+Ji, C., Zhang, C., Jiang, D.-Y., Bucher, H., Motani, R., and Tintori, A. (2015). Ammonoid age control of the Early Triassic marine reptiles from Chaohu (South China). Palaeoworld. 24, 277–282. https://doi.org/10.1016/j.palwor.2014.11.009
 
 Jiang, D.‑Y., Motani, R., Huang, J.‑D., Tintori, A., Hu, Y.‑C., Rieppel, O., Fraser, N. C., Ji, C., Kelley, N. P., Fu, W.‑L., Zhang, R., & others. (2016). A large aberrant stem ichthyosauriform indicating early rise and demise of ichthyosauromorphs in the wake of the end‑Permian extinction. Scientific Reports, 6, 26232. https://doi.org/10.1038/srep26232
 
@@ -1158,7 +1462,11 @@ Jiang, D.‑Y., Motani, R., Tintori, A., Rieppel, O., Chen, G.‑B., Huang, J.�
 
 Jiang, L., Ni, P. G., Sun, Z. Y., & Jiang, D. Y. (2016). Discovery and its significance of Birgeria sp. from the Middle Triassic Panxian Fauna, Guizhou Province, China. Acta Scientiarum Naturalium Universitatis Pekinensis, 52(3), 437–443.
 
+Jirah, S., & Rubidge, B. S. (2014). Refined stratigraphy of the Middle Permian Abrahamskraal Formation (Beaufort Group) in the southern Karoo Basin. Journal of African Earth Sciences, 100, 121–135. https://doi.org/10.1016/j.jafrearsci.2014.06.014
+
 Johnson, G. D. (1981). Hybodontoidei (Chondrichthyes) from the Wichita–Albany Group (Early Permian) of Texas. Journal of Vertebrate Paleontology.
+
+Johnson, G. D. (2008). Ctenacanthiform Cladodont Teeth from the Lower PermianWichita Group, Texas, U.S.A. Acta Geologica Polonica, 58(2), 205–209.
 
 Johnson, G. D. (2013). Xenacanth sharks and other vertebrates from the Geraldine Bonebed, Lower Permian of Texas. New Mexico Museum of Natural History and Science Bulletin, 61, 1–10.
 
@@ -1178,17 +1486,33 @@ Jung, J. P., & Sues, H.‑D. (2024). Reassessment of ‘Captorhinikos’ chozaen
 
 Jörg, E. (1969). Eine Fischfauna aus dem Oberen Buntsandstein (Unter-Trias) von Karlsruhe-Durlach (Nordbaden). Beiträge zur Naturkundlichen Forschung in Südwestdeutschland. 28, 87–102
 
+Kammerer, C. F. (2019). Revision of the Tanzanian dicynodont *Dicynodon huenei* (Therapsida: Anomodontia) from the Permian Usili Formation. PeerJ, 7, e7420. [https://doi.org/10.7717/peerj.7420](https://doi.org/10.7717/peerj.7420)
+
+Kammerer, C. F., & Masyutin, V. (2018). Gorgonopsian therapsids (Nochnitsa gen. nov. and Viatkogorgon) from the Permian Kotelnich locality of Russia. PeerJ, 6:e4954. [https://doi.org/10.7717/peerj.4954](https://doi.org/10.7717/peerj.4954)
+
+Kammerer, C. F., & Sidor, C. A. (2021). A new burnetiid from the middle Permian of Zambia and a reanalysis of burnetiamorph relationships. Papers in Palaeontology, 7(3), 1261–1287. [https://doi.org/10.1002/spp2.1341](https://doi.org/10.1002/spp2.1341)
+
+Kammerer, C. F., Angielczyk, K. D., & Fröbisch, J. (2011). A comprehensive taxonomic revision of Daptocephalus (Therapsida, Dicynodontia). Journal of Systematic Palaeontology, 9(2), 227–242. https://doi.org/10.1080/14772019.2010.499188
+
+Kammerer, C. F., Bandyopadhyay, S., & Ray, S. (2016). A new taxon of cistecephalid dicynodont from the upper Permian Kundaram Formation of India. Papers in Palaeontology, 2(4), 569–584. [https://doi.org/10.1002/spp2.1055](https://doi.org/10.1002/spp2.1055)
+
 Karpinsky, A. P. (1899). Über die Reste von Edestiden und die neue Gattung Helicoprion. Verhandlungen der Russisch‑Kaiserlichen Mineralogischen Gesellschaft, Series 2 36, 361–475.
 
 Karpinsky, A. P. (1916). On a new species of Helicoprion (Helicoprion clerci, n. sp.). Bulletin de l’Académie Impériale des Sciences de Saint Pétersbourg, 6th Series, 10(9), 701–708.
 
 Kear, B. P., & Hamilton‑Bruce, R. J. (2011). Dinosaurs in Australia: Mesozoic Life from the Southern Continent. CSIRO Publishing.
 
+Kelly, M. A., & Zangerl, R. (1976). Helicoprion (Edestidae) in the Permian of West Texas. Journal of Paleontology, 50(5), 992-994.
+
+Ketchum, H. F., & Barrett, P. M. (2004). New reptile material from the lower Triassic of Madagascar: implications for the Permian Triassic extinction event. Canadian Journal of Earth Sciences, 41(1), 1–8. [https://doi.org/10.1139/e03-084](https://doi.org/10.1139/e03-084)
+
+King, R. E. (1931). The Geology of the Glass Mountains, Texas, Part II, Faunal summary and correlation of the Permian formations with description of Brachiopoda. The University of Texas Bulletin, 3042, 1-245.
+
 Kogan, I. (2011). Remains of Saurichthys (Pisces, Actinopterygii) from the Early Triassic Wordie Creek Formation of east Greenland. Bull. Geol. Soc. Den. 59, 93–100.
 
-Kogan, I., and Romano, C. (2016a). Redescription of Saurichthys madagascariensis Piveteau, 1945 (Actinopterygii, Early Triassic), with implications for the early saurichthyid morphotype. J. Vertebr. Paleontol. 36, e1151886. doi:10.1080/ 02724634.2016.1151886
+Kogan, I., and Romano, C. (2016a). Redescription of Saurichthys madagascariensis Piveteau, 1945 (Actinopterygii, Early Triassic), with implications for the early saurichthyid morphotype. J. Vertebr. Paleontol. 36, e1151886. https://doi.org/10.1080/ 02724634.2016.1151886
 
-Kogan, I., and Romano, C. (2016b). A new postcranium of Saurichthys from the Early Triassic of Spitsbergen. Paläontologie, Stratigraphie, Fazies 23. Freiberger Forschungshefte-A C. 550, 205–221. doi:10.5167/uzh-136748
+Kogan, I., and Romano, C. (2016b). A new postcranium of Saurichthys from the Early Triassic of Spitsbergen. Paläontologie, Stratigraphie, Fazies 23. Freiberger Forschungshefte-A C. 550, 205–221. https://doi.org/10.5167/uzh-136748
 
 Konietzko-Meier, D., Shelton, C. D., & Sander, P. M. (2016). The discrepancy between morphological and microanatomical patterns of anamniotic stegocephalian postcrania from the Early Permian Briar Creek Bonebed (Texas). Comptes Rendus Palevol, 15(1), 1–16. https://doi.org/10.1016/j.crpv.2015.09.002
 
@@ -1198,19 +1522,29 @@ Konzhukova, E.D., 1956. Intinskaya fauna nizhney permi Severnogo Priural'ya [The
 
 Konzhukova, E.D., 1956. The Intan Lower Permian fauna of the northern Ural region. Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR, 62, 5-50. [in Russian]
 
+Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. Palaeontology, 56(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
+
+Kordikova, E. G., & Khlyupin, A. J. (2001). First evidence of a neonate dentition in pareiasaurs from the Upper Permian of Russia. Acta Palaeontologica Polonica, 46(4), 589–594.
+
 Kotlyar, G.V., Kossovaya, O.L., Shishlov, S.B., Zhuravlev, A.V., and Pukhonto, S.K., 2004. Boundary between Permian Series in Diverse Sedimentary Facies of North European Russia: Constraints of Event Stratigraphy. Stratigraphy and Geological Correlation, 12(5): 460-484.
 
 Kotlyar, G.V., Silantiev, V.V., Naugolnykh, S.V., Korotkikh, P.B., and Burago, V.I., 2018. Interregional Correlation of the Permian Continental and Marine Deposits of Northeastern Russia, Southern Far East, Siberia, and Pechora Cisurals. Russian Journal of Pacific Geology, 12(1): 17-37. https://doi.org/10.1134/S1819714018010037
 
-Kowal-Linka, M., and Bodzioch, A. (2017). Genesis of the Lower Triassic bonebeds from Gogolin (S Poland): the impact of microbial mats on trapping of vertebrate remains. Palaeogeogr. Palaeoclimatol. Palaeoecol. 466, 38–58. doi:10.1016/j.palaeo.2016.11.010
+Kowal-Linka, M., and Bodzioch, A. (2017). Genesis of the Lower Triassic bonebeds from Gogolin (S Poland): the impact of microbial mats on trapping of vertebrate remains. Palaeogeogr. Palaeoclimatol. Palaeoecol. 466, 38–58. https://doi.org/10.1016/j.palaeo.2016.11.010
 
 Kriwet, J., Witzmann, F., Klug, S., & Heidtke, U. H. J. (2008). First direct evidence of a vertebrate three-level trophic chain in the fossil record. Proceedings of the Royal Society B: Biological Sciences, 275(1631), 181–186. https://doi.org/10.1098/rspb.2007.1170
+
+Kustatscher, E., Bernardi, M., Petti, F. M., Franz, M., van Konijnenburg-van Cittert, J. H. A., & Kerp, H. (2017). Sea-level changes in the Lopingian (late Permian) of the northwestern Tethys and their effects on the terrestrial palaeoenvironments, biota and fossil preservation. Global and Planetary Change, 148, 166-180. [https://doi.orgimg/10.1016/j.gloplacha.2016.12.006](https://doi.org/10.1016/j.gloplacha.2016.12.006)
 
 Käßner, A., Tichomirowa, M., Rößler, R., et al. (2024). Zircon U–Pb CA–ID–TIMS constraints on the chronology of the Late Carboniferous–early Permian continental Döhlen Basin and its correlation with the Thuringian Forest Basin (Central and Eastern Germany). International Journal of Earth Sciences, 113(5), 1599–1618. https://doi.org/10.1007/s00531-024-02464-0
 
 Königer, S., Lorenz, V., Stollhofen, H., & Armstrong, R. (2002). Origin, age and stratigraphic significance of distal fallout ash tuffs from the Carboniferous–Permian continental Saar-Nahe Basin (SW Germany). International Journal of Earth Sciences, 91(2), 341–356. https://doi.org/10.1007/s005310100221
 
-Labandeira, C.C., and Allen, E.G., 2007. Minimal insect herbivory for the Lower Permian Coprolite Bone Bed site of north-central Texas, USA, and comparison to other Late Paleozoic floras. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 247, no. 3-4, p. 197-219. doi: 10.1016/j.palaeo.2006.10.015
+Labandeira, C.C., and Allen, E.G., 2007. Minimal insect herbivory for the Lower Permian Coprolite Bone Bed site of north-central Texas, USA, and comparison to other Late Paleozoic floras. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 247, no. 3-4, p. 197-219. https://doi.org/10.1016/j.palaeo.2006.10.015
+
+Larson, E. R., & Scott, J. B. (1955). Helicoprion from Elko County, Nevada. Journal of Paleontology, 29(5), 918–919.
+
+Laurin, M., & Hook, R. W. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. BSGF - Earth Sciences Bulletin, 193, 10. [https://doi.org/10.1051/bsgf/2022007](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022007)
 
 Laurin, M., 1991. The osteology of a Lower Permian eosuchian from Texas and a review of diapsid phylogeny. Zoological Journal of the Linnean Society 101(1):59-95. https://doi.org/10.1111/j.1096-3642.1991.tb00886.x
 
@@ -1220,25 +1554,81 @@ Lehman, J.-P. (1952). Etude complémentaire des poissons de l’Eotrias de Madag
 
 Lehman, J.-P., Chateau, C., Laurain, M., and Nauch ˆ e, M. (1959). Paléontologie de Madagascar 27. Les poissons de la Sakamena moyenne. Ann. Paleontol. 45, 175–219.
 
-Leu, M., Bucher, H., and Goudemand, N. (2019). Clade-dependent size response of conodonts to environmental changes during the late Smithian extinction. Earth Sci. Rev. 195, 52–67. doi:10.1016/j.earscirev.2018.11.003
+Leonardi, G., Conti, M.A., Leonardi, P., Mariotti, N., & Nicosia, U. (1975). *Pachypes dolomiticus* n. gen. n. sp.; Pareiasaur footprint from the "Arenaria di Val Gardena" (Middle Permian) in the Western Dolomites (N. Italy). Atti della Accademia Nazionale dei Lincei. Rendiconti. Classe di Scienze Fisiche, Matematiche e Naturali, Serie 8, 57, 221-232.
 
-Lewis, G. E., & Vaughn, P. P. (1965). Early Permian vertebrates from the Cutler Formation of the Placerville area, Colorado, with a section on footprints from the Cutler Formation. U.S. Geological Survey Professional Paper 503-C, C1–C50. doi:10.3133/pp503C.
+Leonardi, P., Conti, M. A., Leonardi, G., Mariotti, N., & Nicosia, U. (1975). *Pachypes dolomiticus* n. gen. n. sp.; Pareiasaur footprint from the "Arenaria di Val Gardena" (Middle Permian) in the Western Dolomites (N. Italy). Rendiconti Lincei - Matematica e Applicazioni, 57(3-4), 221-232.
 
-Li, Q. (2009). A new parasemionotid-like fish from the Lower Triassic of jurong, Jiangsu province, South China. Palaeontology. 52, 369–384. doi:10.1111/j.1475- 4983.2009.00848.x
+Leu, M., Bucher, H., and Goudemand, N. (2019). Clade-dependent size response of conodonts to environmental changes during the late Smithian extinction. Earth Sci. Rev. 195, 52–67. https://doi.org/10.1016/j.earscirev.2018.11.003
+
+Lewis, G. E., & Vaughn, P. P. (1965). Early Permian vertebrates from the Cutler Formation of the Placerville area, Colorado, with a section on footprints from the Cutler Formation. U.S. Geological Survey Professional Paper 503-C, C1–C50. https://doi.org/10.3133/pp503C
+
+Li, J. L., & Cheng, Z. W. (1999). New anthracosaur and temnospondyl amphibians from Gansu, China – the Fifth Report on Late Permian Dashankou lower tetrapod fauna. Vertebrata Palasiatica, 37(3), 234–247.
+
+Li, J., & Cheng, Z. (1997). First discovery of eotitanosuchian (Therapsida, Synapsida) of China. Vertebrata PalAsiatica, 35(4), 268–282.
+
+Li, J., & Cheng, Z. (1999). New anthracosaur and temnospondyl amphibians from Gansu, China—the fifth report on Late Permian Dashankou lower tetrapod fauna. Vertebrata PalAsiatica, 37(3), 234–247.
+
+Li, Q. (2009). A new parasemionotid-like fish from the Lower Triassic of jurong, Jiangsu province, South China. Palaeontology. 52, 369–384. https://doi.org/10.1111/j.1475- 4983.2009.00848.x
+
+Li, X.-W., & Liu, J. (2013). New specimens of pareiasaurs from the Upper Permian Sunjiagou Formation of Liulin, Shanxi and their indications for the taxonomy of Chinese pareiasaurs. Vertebrata PalAsiatica, 51(3), 199–204.
 
 Liu, G., Yin, G., Wang, X., Wang, S., & Huang, L. (2002). On a new marine reptile from the Middle Triassic Yangliujing Formation of Guizhou, China. Geological Journal of China Universities, 8(2), 220–225.
 
 Liu, J. (2013). Vertebrate biostratigraphy and paleoecology of the Shanxi Formation (lower Permian) in southeastern Shanxi, China. Vertebrata PalAsiatica, 51(1), 51-64.
 
+Liu, J. (2018). New progress on the correlation of Chinese terrestrial Permo-Triassic strata. Vertebrata PalAsiatica, 56(4), 327–342.
+
+Liu, J. (2019). The tetrapod fauna of the upper Permian Naobaogou Formation of China— 4. the diversity of dicynodonts. Vertebrata Palasiatica, 57(3), 173-180.
+
+Liu, J. (2020). Taoheodon baizhijuni gen. et sp. nov. (Anomodontia, Dicynodontoidea) from the upper Permian Sunjiagou Formation of China and its implications. Journal of Vertebrate Paleontology, 40(1), e1762088. [https://doi.org/10.1080/02724634.2020.1762088](https://doi.org/10.1080/02724634.2020.1762088)
+
+Liu, J. (2021). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 6. *Turfanodon jiufengensis* sp. nov. (Dicynodontia). PeerJ, 9, e10854. https://doi.org/10.7717/peerj.10854
+
+Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 9. A new species of *Gansurhinus* (Reptilia: Captorhinidae) and a revision of Chinese captorhinids. Journal of Vertebrate Paleontology, 42(5), e2203200. https://doi.org/10.1080/02724634.2023.2203200
+
+Liu, J., & Abdala, F. (2017). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 1. *Shiguaignathus wangi* gen. et sp. nov., the first akidnognathid therocephalian from China. PeerJ, 5, e4150. https://doi.org/10.7717/peerj.4150
+
+Liu, J., & Abdala, F. (2017). Therocephalian (Therapsida) and chroniosuchian (Reptiliomorpha) from the Permo-Triassic transitional Guodikeng Formation of the Dalongkou Section, Jimsar, Xinjiang, China. Vertebrata PalAsiatica, 55(1), 24–40.
+
+Liu, J., & Abdala, F. (2019). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 3. *Jiufengia jiai* gen. et sp. nov., a large akidnognathid therocephalian. PeerJ, 7, e6463. https://doi.org/1s/peerj.6463
+
+Liu, J., & Abdala, F. (2020). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 5. *Caodeyao liuyufengi* gen. et sp. nov., a new peculiar therocephalian. PeerJ, 8, e9160. https://doi.org/10.7717/peerj.9160
+
+Liu, J., & Abdala, F. (2022). The emblematic South African therocephalian *Euchambersia* in China: a new link in the dispersal of late Permian vertebrates across Pangea. Biology Letters, 18(7), 20220222. https://doi.org/10.1098/rsbl.2022.0222
+
+Liu, J., & Bever, G. S. (2018). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new species of *Elginia* (Parareptilia, Pareiasauria). Papers in Palaeontology, 4(2), 197–209. https://doi.org/10.1002/spp2.1105
+
+Liu, J., & Chen, J. (2021). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 7. *Laosuchus hun* sp. nov. (Chroniosuchia) and interrelationships of chroniosuchians. Journal of Systematic Palaeontology, 18(24), 2043–2058. https://doi.org/10.1080/14772019.2021.1873435
+
+Liu, J., & Li, L. (2013). Large Tetrapod Burrows from the Permian Naobaogou Formation of the Daqingshan Area, Nei Mongol, China. Acta Geologica Sinica (English Edition), 87(6), 1533–1538. https://doi.org/10.1111/1755-6724.12154
+
+Liu, J., & Yang, W. (2022). A gorgonopsian from the Wutonggou Formation (Changhsingian, Permian) of Turpan Basin, Xinjiang, China. Palaeoworld, 31(3), 383–388. [https://doi.org/10.1016/j.palwor.2022.04.004](https://doi.org/10.1016/j.palwor.2022.04.004)
+
 Liu, J., Li, J. L., Wang, Y., Xu, G. H., & Xing, L. D. (2024). A new 'deep-bodied' stem-tetrapod from the lower Permian Shanxi Formation of China and its implications for the early evolution of temnospondyls. Zoological Journal of the Linnean Society, 200(3), 731-744. https://doi.org/10.1093/zoolinnean/zlad118
 
-Liu, S., Sun, Z., Ji, C., Zhou, M., and Jiang, D. (2020). Conodont biostratigraphy and age of the Early Triassic fish-bearing-nodule levels from Nanjing and Jurong, Jiangsu province, South China. J. Earth Sci. 31, 9–22. doi:10.1007/s12583-019-1232-y
+Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian origin for therapsids. Acta Palaeontologica Polonica, 54(3), 393-400. [https://doi.org/10.4202/app.2008.0071](https://www.google.com/search?q=https://doi.org/10.4202/app.2008.0071)
 
-Lombardo, C., Rusconi, M., and Tintori, A. (2008). New perleidiform from the Ladinian (Middle Triassic) of the northern Grigna (northern Italy). Riv. Ital. Paleontol. Stratigr. 114, 263–272. doi:10.13130/2039-4942/5901
+Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian origin for therapsids. Acta Palaeontologica Polonica, 54(3), 393–400. [https://doi.org/10.4202/app.2008.0071](https://www.google.com/search?q=https://doi.org/10.4202/app.2008.0071)
+
+Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. Vertebrata PalAsiatica, 50(4), 373-381.
+
+Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. Vertebrata PalAsiatica, 50(4), 373–381.
+
+Liu, S., Sun, Z., Ji, C., Zhou, M., and Jiang, D. (2020). Conodont biostratigraphy and age of the Early Triassic fish-bearing-nodule levels from Nanjing and Jurong, Jiangsu province, South China. J. Earth Sci. 31, 9–22. https://doi.org/10.1007/s12583-019-1232-y
+
+Lombardo, C., Rusconi, M., and Tintori, A. (2008). New perleidiform from the Ladinian (Middle Triassic) of the northern Grigna (northern Italy). Riv. Ital. Paleontol. Stratigr. 114, 263–272. https://doi.org/10.13130/2039-4942/5901
+
+Lozovsky, V. Z. (2005). Late Permian tetrapods of Russia. Journal of Asian Earth Sciences, 25(2), 247–263. https://doi.org/10.1016/j.jseaes.2004.06.013
 
 Lozovsky, V.R., Minikh, M.G., Grunt, T.A., Kukhtinov, D.A., Ponomarenko, A.G., and Sukacheva, I.D., 2009. The Ufimian Stage of the East European Scale: Status, Validity, and Correlation Potential. Stratigraphy and Geological Correlation, 17(6): 602-614. https://doi.org/10.1134/S0869593809060033
 
+Lucas, S. G. (1998). Toward a tetrapod biochronology of the Permian. In S. G. Lucas, J. W. Estep, & J. M. Hoffer (Eds.), Permian Stratigraphy and Paleontology of the Robledo Mountains, New Mexico (New Mexico Museum of Natural History and Sciences, Bulletin No. 12, pp. 71–91).
+
 Lucas, S. G. (2004). A global hiatus in the Middle Permian tetrapod fossil record. Stratigraphy. 1, 47–64
+
+Lucas, S. G., & Orchard, M. J. (2007). Triassic lithostratigraphy and biostratigraphy north of Currie, Elko County, Nevada. In S. G. Lucas & J. A. Spielmann (Eds.), Triassic of the American West. New Mexico Museum of Natural History and Science Bulletin 40, 119–126.
+
+Lucas, S. G., et al. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. Bulletin de la Société Géologique de France, 193(10), 1-23. [https://doi.org/10.1051/bsgf/2022012](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022012)
 
 Lucas, S. G., Harris, J. D., Spielmann, J. A., Berman, D. S., Henrici, A. C., Heckert, A. B., Zeigler, K. E., & Rinehart, L. F. (2005). Early Permian vertebrate assemblage and its biostratigraphic significance, Arroyo del Agua, Rio Arriba County, New Mexico. New Mexico Museum of Natural History and Science Bulletin, (volume and pages not specified).
 
@@ -1256,15 +1646,19 @@ Lucas, S. G., Voigt, S., Lerner, A. J., & Nelson, W. J. (2011). Late Early Permi
 
 Lucas, S.G., 2006. Global Permian tetrapod biostratigraphy and biochronology. Geological Society, London, Special Publications 265(1):65-93. https://doi.org/10.1144/GSL.SP.2006.265.01.04
 
-Luoping Biota, eastern Yunnan, China. PeerJ. 8, e10229. doi:10.7717/peerj. 10229
+Luccisano, V., Pradel, A., Amiot, R., Gand, G., Steyer, J.-S., & Cuny, G. (2021). A new *Triodus* shark species (Xenacanthidae, Xenacanthiformes) from the lowermost Permian of France and its paleobiogeographic implications. Journal of Vertebrate Paleontology, 41(2), e1926470. https://doi.org/10.1080/02724634.2021.1926470
 
-López-Arbarello, A., and Sferco, E. (2018). Neopterygian phylogeny: the merger assay. Royal Society Open Science. 5, 172337. doi:10.1098/rsos.172337
+Luoping Biota, eastern Yunnan, China. PeerJ. 8, e10229. https://doi.org/10.7717/peerj 10229
 
-López-Arbarello, A., Bürgin, T., Furrer, H., and Stockar, R. (2016). New holostean fishes (Actinopterygii: Neopterygii) from the Middle Triassic of the Monte San Giorgio (Canton Ticino, Switzerland). PeerJ. 4, e2234. doi:10. 7717/peerj.2234
+López-Arbarello, A., and Sferco, E. (2018). Neopterygian phylogeny: the merger assay. Royal Society Open Science. 5, 172337. https://doi.org/10.1098/rsos.172337
 
-López-Arbarello, A., Bürgin, T., Furrer, H., and Stockar, R. (2019). Taxonomy and phylogeny of Eosemionotus Stolley, 1920 (Neopterygii: Ginglymodi) from the Middle Triassic of Europe. Palaeontol. Electron. 22 (1), 1–64. doi:10.26879/904
+López-Arbarello, A., Bürgin, T., Furrer, H., and Stockar, R. (2016). New holostean fishes (Actinopterygii: Neopterygii) from the Middle Triassic of the Monte San Giorgio (Canton Ticino, Switzerland). PeerJ. 4, e2234. https://doi.org/10 7717/peerj.2234
 
-López-Arbarello, A., Stockar, R., and Bürgin, T. (2014). Phylogenetic relationships of the Triassic Archaeosemionotus Deecke (Halecomorphi, Ionoscopiformes) from the “Perledo fauna”. PloS One. 9, e108665. doi:10.1371/journal.pone.0108665
+López-Arbarello, A., Bürgin, T., Furrer, H., and Stockar, R. (2019). Taxonomy and phylogeny of Eosemionotus Stolley, 1920 (Neopterygii: Ginglymodi) from the Middle Triassic of Europe. Palaeontol. Electron. 22 (1), 1–64. https://doi.org/10.26879/904
+
+López-Arbarello, A., Stockar, R., and Bürgin, T. (2014). Phylogenetic relationships of the Triassic Archaeosemionotus Deecke (Halecomorphi, Ionoscopiformes) from the “Perledo fauna”. PloS One. 9, e108665. https://doi.org/10.1371/journal.pone.0108665
+
+Lützner, H., Andreas, D., Schneider, J. W., Voigt, S., & Werneburg, R. (2012). Stefan und Rotliegend im Thüringer Wald und seiner Umgebung. In Stratigraphie von Deutschland X. Rotliegend. Teil I: Innervariscische Becken (pp. 418–487). Deutsche Gesellschaft für Geowissenschaften.
 
 Ma, X.-Y., and Xu, G.-H. (2015). A new ionoscopiform fish (holostei: Halecomorphi) from the Middle Triassic (Anisian) of Yunnan, China. Vertebr. Palasiat. 55, 1–5
 
@@ -1272,23 +1666,59 @@ MacDougall, M. J., Cisneros, J. C., Modesto, S. P., & Fröbisch, J. (2020). Conf
 
 Maeda, H., Mapes, R., & Mapes, G. (2003). Taphonomic features of a Lower Permian beached cephalopod assemblage from central Texas. Lethaia.
 
+Malabarba, M. C., Abdala, F., Weiss, F. E., & Perez, P. A. (2003). New data on the Late Permian vertebrate fauna of Posto Queimado, Rio do Rasto Formation, southern Brazil. Revista Brasileira de Paleontologia, 6, 49–54.
+
 Mamay, S. H. (1966). Tinsleya, a new genus of seed-bearing callipterid plants from the Permian of north-central Texas. U.S. Geological Survey Professional Paper.
 
-Marramà, G., Lombardo, C., Tintori, A., and Carnevale, G. (2017). Redescription of ‘Perleidus’ (Osteichthyes, Actinopterygii) from the Early Triassic of northwestern Madagascar. Riv. Ital. Paleontol. Stratigr. 123, 219–242. doi:10. 13130/2039-4942/8328
+Mamay, S. H., Hook, R. W., & Hotton III, N. (1998). Amphibian eggs from the Lower Permian of north-central Texas. Journal of Vertebrate Paleontology, 18(Supplement to 3), 61A.
+
+Mann, A., & Sidor, C. A. (2025). Arctops umulunshi, sp. nov. (Therapsida: Gorgonopsia) from the upper Madumabisa Mudstone Formation of Zambia, with new information on gorgonopsian postcranial anatomy. In C. A. Sidor & K. D. Angielczyk (Eds.), Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23. Journal of Vertebrate Paleontology, 45(1, supplement), 2444405. [https://doi.org/10.1080/02724634.2024.2444405](https://doi.org/10.1080/02724634.2024.2444405)
+
+Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints from the Venetian Prealps, Italy: New discoveries in a largely incomplete panorama. Acta Palaeontologica Polonica, 62(4), 801–817. [https://doi.org/10.4202/app.00392.2017](https://doi.org/10.4202/app.00392.2017)
+
+Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints in the Venetian Prealps (Italy): new discoveries in a largely incomplete panorama. Acta Palaeontologica Polonica, 62(4), 801-817.
+
+Marchetti, L., Citton, P., Bernardi, M., Buono, G., Carluccio, R., Ciferri, G. D., Francischini, H., Forte, G., Girardi, S., Gliozzi, E., Kustatscher, E., Petti, F. M., Romano, M., Santi, G., Schirolli, P., Spalluto, L., & Nicosia, U. (2020). The Lopingian tetrapod ichnoassociation from Italy, a key for the understanding of low-latitude faunas before the end-Permian crisis. Journal of Mediterranean Earth Sciences, 12, 61-81.
+
+Marchetti, L., Forte, G., Bernardi, M., Wappler, T., Hartkopf-Fröder, C., Krainer, K., & Kustatscher, E. (2015). Reconstruction of a Late Cisuralian (Early Permian) floodplain lake environment: Palaeontology and sedimentology of the Tregiovo Basin (Trentino-Alto Adige, Northern Italy). Palaeogeography, Palaeoclimatology, Palaeoecology, 440, 510-529. [https://doi.org/10.1016/j.palaeo.2015.08.021](https://doi.org/10.1016/j.palaeo.2015.08.021)
+
+Marramà, G., Lombardo, C., Tintori, A., and Carnevale, G. (2017). Redescription of ‘Perleidus’ (Osteichthyes, Actinopterygii) from the Early Triassic of northwestern Madagascar. Riv. Ital. Paleontol. Stratigr. 123, 219–242. https://doi.org/10 13130/2039-4942/8328
+
+Marsicano, C., Angielczyk, K. D., Cisneros, J. C., Richter, M., Adeo, S., Abdala, F., & Smith, R. (2021). Brazilian Permian Dvinosaurs (Amphibia, Temnospondyli): Revised Description and Phylogeny. Journal of Vertebrate Paleontology, 41(1), e1893181. [https://doi.org/10.1080/02724634.2021.1893181](https://doi.org/10.1080/02724634.2021.1893181)
+
+Martens, T. (2018). Seymouria sanjuanensis from the Lower Permian of Central Germany. Paläontologische Zeitschrift, 92(2), 181–186. https://doi.org/10.1007/s12542-017-0375-7
 
 Martin, M., and Wenz, S. (1984). Découverte d’un nouveau Coelacanthidé, Garnbergia ommata n. g., n. sp., dans le Muschelkalk supérieur du BadenWürttemberg. Stuttg. Beiträge Naturkd. - Ser. B 105, 1–17
 
-Maxwell, E. E., Diependaal, H., Winkelhorst, H., Goris, G., and Klein, N. (2016). A new species of Saurichthys (Actinopterygii: Saurichthyidae) from the Middle Triassic of Winterswijk, The Netherlands. Neues Jahrbuch Geol. Palaontol. Abhand. 280, 119–134. doi:10.1127/njgpa/2016/0569
+Martinelli, A. G., Francischini, H., Dentzien-Dias, P. C., Soares, M. B., & Schultz, C. L. (2016). The oldest archosauromorph from South America: postcranial remains from the Guadalupian (mid-Permian) Rio do Rasto Formation (Paraná Basin), southern Brazil. Historical Biology, 29(1), 76-84. [https://doi.org/10.1080/08912963.2015.1125897](https://doi.org/10.1080/08912963.2015.1125897)
 
-Maxwell, E. E., Romano, C., Wu, F., and Furrer, H. (2015). Two new species of Saurichthys (Actinopterygii: Saurichthyidae) from the Middle Triassic of Monte san Giorgio, Switzerland, with implications for character evolution in the genus. Zool. J. Linn. Soc. 173, 887–912. doi:10.1111/zoj.12224
+Massari, F., Conti, M. A., Fontana, D., Helmold, K., Mariotti, N., Neri, C., Nicosia, U., Ori, G. G., Pasini, M., & Pittau, P. (1988). The Val Gardena Sandstone and Bellerophon Formation in the Bletterbach gorge (Alto Adige, Italy): biostratigraphy and sedimentology. Memorie di Scienze Geologiche, 40, 229-273.
+
+Massari, F., Neri, C., Pittau, P., Fontana, D., & Stefani, C. (1994). Sedimentology, palynostratigraphy and sequence stratigraphy of a continental to shallow-marine rift-related succession: Upper Permian of the eastern Southern Alps (Italy). Memorie di Scienze Geologiche, 46, 119-243.
+
+Maxwell, E. E., Diependaal, H., Winkelhorst, H., Goris, G., and Klein, N. (2016). A new species of Saurichthys (Actinopterygii: Saurichthyidae) from the Middle Triassic of Winterswijk, The Netherlands. Neues Jahrbuch Geol. Palaontol. Abhand. 280, 119–134. https://doi.org/10.1127/njgpa/2016/0569
+
+Maxwell, E. E., Romano, C., Wu, F., and Furrer, H. (2015). Two new species of Saurichthys (Actinopterygii: Saurichthyidae) from the Middle Triassic of Monte san Giorgio, Switzerland, with implications for character evolution in the genus. Zool. J. Linn. Soc. 173, 887–912. https://doi.org/10.1111/zoj.12224
+
+Mazin, J. M., & King, G. M. (1991). The first dicynodont from the Late Permian of Madagascar. Palaeontology, 34(4), 837–842.
 
 McKenzie, K. G. (1961). The vertebrate localities in the Triassic Blina Shale of the Canning Basin, Western Australia. Journal of the Royal Society of Western Australia, 44(3), 69–76.
 
 McLoughlin, S. (1994). Late Permian plant megafossils from the Bowen Basin, Queensland, Australia: Part 2. Palaeontographica Abteilung B, 231, 1–29.
 
+Meckert, D. (1995). The procolophonid *Barasaurus* from the Upper Permian of Ranohira, Madagascar. In II International Symposium on Lithographic Limestones, 9–11 July 1995, Cuenca, Spain.
+
+Menning, M., Glodny, J., Boy, J., Gast, R., Kowalczyk, G., Martens, T., Rößler, R., Schindler, T., von Seckendorff, V., & Voigt, S. (2022). The Rotliegend in the Stratigraphic Table of Germany 2016 (STG 2016). Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, 173(1), 3–139. https://doi.org/10.1127/zdgg/2022/0311
+
+Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., [et al.] (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. Journal of Asian Earth Sciences, 36(6), 503-520.
+
+Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., Mundil, R., Wang, X., & Lucas, S. G. (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. Journal of Asian Earth Sciences, 36, 503–520.
+
+Meyer, H. v. (1832). Palaeologica zur Geschichte der Erde und ihrer Geschöpfe. Verlag von Siegmund Schmerber.
+
 Michaelsen, P., & Henderson, R. A. (2000). Sandstone petrofacies expressions of multiphase basinal tectonics and arc magmatism: Permian–Triassic north Bowen Basin, Australia. Sedimentary Geology, 136(1–4), 113–136.
 
-Miklavc, P., Celarc, B., and Smuc, A. (2016). Anisian Strelovec Formation in the ˇ Robanov kot, Savinja Alps (northern Slovenia). Geologija. 59, 23–34. doi:10. 5474/geologija.2016.002
+Miklavc, P., Celarc, B., and Smuc, A. (2016). Anisian Strelovec Formation in the ˇ Robanov kot, Savinja Alps (northern Slovenia). Geologija. 59, 23–34. https://doi.org/10 5474/geologija.2016.002
 
 Miller, A. K., & Youngquist, W. (1947). Lower Permian cephalopods from the Texas Colorado River valley. University of Kansas Paleontological Contributions.
 
@@ -1297,6 +1727,8 @@ Milner, A. R., & Schoch, R. R. (2013). Trimerorhachis (Amphibia: Temnospondyli) 
 Milner, A.R., and Schoch, R.R., 2013. Trimerorhachis (Amphibia: Temnospondyli) from the Lower Permian of Texas and New Mexico: cranial osteology, taxonomy and biostratigraphy. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen 270(1):91-128. https://doi.org/10.1127/0077-7749/2013/0360
 
 mindat.org
+
+Minikh, A. V., Arefiev, M. P., & Golubev, V. K. (2015). A new fish species of the genus $Isadia$ (Actinopterygii, Eurynotoidiformes) from the new locality on the Malaya Northern Dvina river (terminal Permian, Vologda Region). Paleontological Journal, 49(6), 615–626.
 
 Minter, N. J., & Braddy, S. J. (2009). Ichnology of an Early Permian intertidal flat: The Robledo Mountains Formation of southern New Mexico, USA. Special Papers in Palaeontology, 82, 1–107.
 
@@ -1314,13 +1746,17 @@ Mory, A. J., & Backhouse, J. (1997). Permian stratigraphy and palynology of the 
 
 Mutter, R. J. (2002). Revision of the Triassic family Colobodontidae sensu Andersson 1916 (emended) with a tentative assessment of perleidiform interrelationships (Actinopterygii: Perleidiformes). PhD thesis. Zürich (Switzerland): University of Zurich
 
-Mutter, R. J. (2005). Re-assessment of the genus Helmolepis Stensiö 1932 (Actinopterygii: Platysiagidae) and the evolution of platysiagids in the EarlyMiddle Triassic. Eclogae Geol. Helv. 98, 271–280. doi:10.1007/S00015-005-1164-7
+Mutter, R. J. (2005). Re-assessment of the genus Helmolepis Stensiö 1932 (Actinopterygii: Platysiagidae) and the evolution of platysiagids in the EarlyMiddle Triassic. Eclogae Geol. Helv. 98, 271–280. https://doi.org/10.1007/S00015-005-1164-7
 
 Mutter, R. J., & Neuman, A. G. (2006). An enigmatic chondrichthyan with Paleozoic affinities from the Lower Triassic of western Canada. Acta Palaeontologica Polonica, 51(2), 271–282. https://doi.org/10.4202/app.2006.0203
 
-Mutter, R. J., and Herzog, A. (2004). A new genus of Triassic actinopterygian with an evaluation of deepened flank scales in fusiform fossil fishes. J. Vertebr. Paleontol. 24, 794–801. doi:10.1671/0272-4634(2004)024[0794:ANGOTA]2.0.CO;2
+Mutter, R. J., and Herzog, A. (2004). A new genus of Triassic actinopterygian with an evaluation of deepened flank scales in fusiform fossil fishes. J. Vertebr. Paleontol. 24, 794–801. https://doi.org/10.1671/0272-4634(2004)024[0794:ANGOTA]2.0.CO;2
 
 Mutter, R., Cartanyà, J., and Basaraba, S. A. U. (2008). “New evidence of Saurichthys from the Lower Triassic with an evaluation of early saurichthyid diversity,” in Mesozoic fishes 4. Homology and phylogeny. Editors G. Arratia, H.-P. Schultze, and M. V. H. Wilson (München: Dr. Friedrich Pfeil), 103–127
+
+Müller, J., & Berman, D. S. (2003). First record of a captorhinid reptile from the Lower Permian of Germany. Neues Jahrbuch für Geologie und Paläontologie, Monatshefte, 2003(10), 623–634. https://doi.org/10.1127/njgpm/2003/2003/623
+
+Müller, J., Li, J. L., & Reisz, R. R. (2008). A new bolosaurid parareptile, *Belebey chengi* sp. nov., from the Middle Permian of China and its paleogeographic significance. Naturwissenschaften, 95(12), 1169–1174. [https://doi.org/10.1007/s00114-008-0438-0](https://doi.org/10.1007/s00114-008-0438-0)
 
 Naugolnykh, S. V. (2018). Artinskian (Early Permian) sea basin and its biota (Krasnoufimsk, Cis‑Urals). Stratigraphy and Geological Correlation, 26(7), 734–754. https://doi.org/10.1134/S0869593818070080
 
@@ -1328,13 +1764,13 @@ Naugolnykh, S.V., 2002. A new species of Todites (Pteridophyta) with in situ spo
 
 Naugolnykh, S.V., Kirilishina, E.M., and Isaev, V.S., 2021. New Data on Permian Plants of the Pechora Coal Basin According to the Collection of the Earth Science Museum of Moscow State University: The Coevolution of Plants and Insects. Moscow University Geology Bulletin, 76(3): 282-290. https://doi.org/10.3103/S0145875221030078
 
-Near, T. J., Eytan, R. I., Dornburg, A., Kuhn, K. L., Moore, J. A., Davis, M. P., et al. (2012). Resolution of ray-finned fish phylogeny and timing of diversification. Proc. Natl. Acad. Sci. United States. 109, 13698–13703. doi:10.1073/pnas.1206625109
+Near, T. J., Eytan, R. I., Dornburg, A., Kuhn, K. L., Moore, J. A., Davis, M. P., et al. (2012). Resolution of ray-finned fish phylogeny and timing of diversification. Proc. Natl. Acad. Sci. United States. 109, 13698–13703. https://doi.org/10.1073/pnas.1206625109
 
 Nelson, W. J., Hook, R. W., & Tabor, N. (2001). Clear Fork Group (Leonardian, Lower Permian) of north-central Texas. Oklahoma Geological Survey Circular.
 
 Neuman, A. G. (2015). Fishes from the Lower Triassic portion of the Sulphur Mountain Formation in Alberta, Canada: geological context and taxonomic composition. Canadian Journal of Earth Sciences, 52(8), 557–568. https://doi.org/10.1139/cjes‑2014‑0165
 
-Neuman, A. G., and Mutter, R. J. (2005). Helmolepis cyphognathus, sp. nov., a new platysiagid actinopterygian from the Lower Triassic Sulphur Mountain Formation (British Columbia, Canada). Can. J. Earth Sci. 42, 25–36. doi:10. 1139/e04-096
+Neuman, A. G., and Mutter, R. J. (2005). Helmolepis cyphognathus, sp. nov., a new platysiagid actinopterygian from the Lower Triassic Sulphur Mountain Formation (British Columbia, Canada). Can. J. Earth Sci. 42, 25–36. https://doi.org/10 1139/e04-096
 
 Nicholls, E. L., & Brinkman, D. B. (1993). A new specimen of Utatsusaurus (Reptilia: Ichthyosauria) from the Lower Triassic Sulphur Mountain Formation of British Columbia. Canadian Journal of Earth Sciences, 30(3), 486–490. https://doi.org/10.1139/e93‑037
 
@@ -1350,9 +1786,15 @@ Nielsen, E. (1955). Notes on Triassic fishes from Madagascar. Meddelelser fra Da
 
 Nielsen, E. (1961). “On the Eotriassic fish faunas of central east Greenland,” in Geology of the arctic 1, proceedings of the first international symposium on arctic geology. Editor G. O. Raasch (Toronto: University Press), 255–257
 
+Nyambe, I. A., & Dixon, O. (2000). Sedimentology of the Madumabisa Mudstone Formation (Late Permian), Lower Karoo Group, mid-Zambezi Valley Basin, southern Zambia. Journal of African Earth Sciences, 30(3), 535–553.(https://doi.org/10.1016/S0899-5362(00)00037-4)
+
 Nybelin, O. (1977). Studies on Triassic fishes from east Greenland III—on Helmolepis gracilis Stensiö. Meddelelser om Grønland. 200 (2), 1–14
 
 Oelofsen, B. W., & Araújo, D. C. (1987). Mesosaurus tenuidens and Stereosternum tumidum from the Permian Gondwana of both southern Africa and South America. South African Journal of Science, 83, 370–371.
+
+Oelofsen, B. W. (1987). The biostratigraphy and fossils of the Whitehill and Irati shale formations of the Karoo and Paraná basins. In G. D. McKenzie (Ed.), Gondwana Six: Stratigraphy, Sedimentology, and Paleontology (pp. 131–147). American Geophysical Union. https://doi.org/10.1029/GM041p0131
+
+Olroyd, S. L., Sidor, C. A., & Angielczyk, K. D. (2018). New materials of the enigmatic dicynodont *Abajudon kaayai* (Therapsida, Anomodontia) from the lower Madumabisa Mudstone Formation, middle Permian of Zambia. Journal of Vertebrate Paleontology, 37(6), e1403442. [https://doi.org/10.1080/02724634.2017.1403442](https://doi.org/10.1080/02724634.2017.1403442)
 
 Olson, E. C. (1948). A preliminary report on vertebrates from the Permian Vale Formation of Texas. Journal of Geology, 56(3), 186–198. https://doi.org/10.1086/625500
 
@@ -1362,7 +1804,15 @@ Olson, E. C. (1954). Fauna of the Vale and Choza: 7. Pelycosauria: Family Caseid
 
 Olson, E. C. (1958). Summary, review, and integration of the geology and the faunas. Fieldiana: Geology.
 
+Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. Oklahoma Geological Survey Circular, 70, 1–70.
+
+Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. Oklahoma Geological Survey, Circular 70, 1-90.
+
+Olson, E. C. (1972). Diplocaulus parvus n. sp. (Amphibia: Nectridea) from the Chickasha Formation (Permian: Guadalupian) of Oklahoma. Journal of Paleontology, 46(5), 656–659.
+
 Olson, E. C. (1989). The Arroyo Formation (Leonardian: Lower Permian) and its vertebrate fossils. Texas Memorial Museum Bulletin.
+
+Olson, E. C., & Barghusen, H. (1962). Permian vertebrates from Oklahoma and Texas. Part I.—Vertebrates from the Flowerpot Formation, Permian of Oklahoma. Oklahoma Geological Survey, Circular 59, 5-48.
 
 Olson, E. C., & Beerbower, J. R. (1953). The San Angelo Formation, Permian of Texas, and its vertebrates. The Journal of Geology, 61(5), 389‑423. https://doi.org/10.1086/626109
 
@@ -1374,59 +1824,117 @@ Oosterink, H. W. (1986). Winterswijk, geologie 2. De trias-periode (geologie, mi
 
 Oosterink, H. W., and Poppe, W. (1979). Vissen en visresten uit de OnderMuschelkalk van Winterswijk. Grondboor Hamer. 33, 95–112
 
-Orchard, M. J. (2007). Conodont diversity and evolution through the latest Permian and Early Triassic upheavals. Palaeogeogr. Palaeoclimatol. Palaeoecol. 252, 93–117. doi:10.1016/j.palaeo.2006.11.037
+Orchard, M. J. (2007). Conodont diversity and evolution through the latest Permian and Early Triassic upheavals. Palaeogeogr. Palaeoclimatol. Palaeoecol. 252, 93–117. https://doi.org/10.1016/j.palaeo.2006.11.037
 
 Orchard, M. J., & Zonneveld, J.‑P. (2009). The Lower Triassic Sulphur Mountain Formation in the Wapiti Lake area: lithostratigraphy, conodont biostratigraphy, and a new biozonation for the lower Olenekian. Canadian Journal of Earth Sciences, 46(10), 757–790. https://doi.org/10.1139/E09‑051
 
-Orchard, M. J., and Zonneveld, J.-P. (2009). The Lower Triassic Sulphur Mountain Formation in the Wapiti Lake area: lithostratigraphy, conodont biostratigraphy, and a new biozonation for the lower Olenekian (Smithian). Can. J. Earth Sci. 46, 757–790. doi:10.1139/E09-051
+Orchard, M. J., and Zonneveld, J.-P. (2009). The Lower Triassic Sulphur Mountain Formation in the Wapiti Lake area: lithostratigraphy, conodont biostratigraphy, and a new biozonation for the lower Olenekian (Smithian). Can. J. Earth Sci. 46, 757–790. https://doi.org/10.1139/E09-051
 
 Otoo, B. K. A., Clack, J. A., Smithson, T. R., Bennett, C. E., Kearsey, T. I., and
 
-Ovtcharova, M., Bucher, H., Schaltegger, U., Galfetti, T., Brayard, A., and Guex, J. (2006). New Early to Middle Triassic U–Pb ages from South China: calibration with ammonoid biochronozones and implications for the timing of the Triassic biotic recovery. Earth Planet Sci. Lett. 243, 463–475. doi:10.1016/j.epsl.2006.01.042
+Ovtcharova, M., Bucher, H., Schaltegger, U., Galfetti, T., Brayard, A., and Guex, J. (2006). New Early to Middle Triassic U–Pb ages from South China: calibration with ammonoid biochronozones and implications for the timing of the Triassic biotic recovery. Earth Planet Sci. Lett. 243, 463–475. https://doi.org/10.1016/j.epsl.2006.01.042
 
-Ovtcharova, M., Goudemand, N., Hammer, Ø., Guodun, K., Cordey, F., Galfetti, T., et al. (2015). Developing a strategy for accurate definition of a geological boundary through radio-isotopic and biochronological dating: the EarlyMiddle Triassic boundary (South China). Earth Sci. Rev. 146, 65–76. doi:10. 1016/j.earscirev.2015.03.006
+Ovtcharova, M., Goudemand, N., Hammer, Ø., Guodun, K., Cordey, F., Galfetti, T., et al. (2015). Developing a strategy for accurate definition of a geological boundary through radio-isotopic and biochronological dating: the EarlyMiddle Triassic boundary (South China). Earth Sci. Rev. 146, 65–76. https://doi.org/10 1016/j.earscirev.2015.03.006
 
-Payne, J. L., Lehrmann, D. J., Wei, J., Orchard, M. J., Schrag, D. P., and Knoll, A. H.(2004). Large perturbations of the carbon cycle during recovery from the endPermian extinction. Science. 305, 506–509. doi:10.1126/science.1097023
+O’Keefe, F. R., Sidor, C. A., & Steyer, J. S. (2005). The anatomy of Moradisaurus grandis (Reptilia, Procolophonoidea) from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 25(3), 564-576. https://doi.org/10.1671/0272-4634(2005)025[0564:TAOMGR]2.0.CO;2
 
-Pellenard, P., Gand, G., Schmitz, M., Galtier, J., Broutin, J., & Steyer, J.-S. (2017). High-precision U–Pb zircon ages for explosive volcanism calibrating the NW European continental Autunian stratotype. Gondwana Research, 51, 118–136. doi:10.1016/j.gr.2017.07.014
+Parry, J. W. D. (2024). The Marl Slate: A Taphonomic and Petrographic Analysis. Masters thesis, Durham University.
+
+Paul, J. (2006). Der Kupferschiefer: Lithologie, Stratigraphie, Fazies und Metallogenese eines Schwarzschiefers. Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, 157(1), 57-78.
+
+Paul, J., Heggemann, H., Dittrich, D., Hug-Diegel, N., Huckriede, H., Nitsch, E., & der SKPT/DSK, A G Zechstein. (2018). Comments to the Stratigraphic Chart of Germany 2016: the Zechstein Group. Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, 169(2), 139–145.
+
+Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacanthiformes shark (Chondrichthyes, Elasmobranchii) from the Late Paleozoic Rio do Rasto Formation (Paraná Basin), Southern Brazil. Anais da Academia Brasileira de Ciências, 86(1), 135–145. [https://doi.org/10.1590/0001-37652014107612](https://doi.org/10.1590/0001-37652014107612)
+
+Pawley, K., & Warren, A. (2006). The appendicular skeleton of *Eryops megacephalus* (Temnospondyli: Eryopoidea) from the Lower Permian of North America. Journal of Paleontology, 80(3), 561–580.
+
+Payne, J. L., Lehrmann, D. J., Wei, J., Orchard, M. J., Schrag, D. P., and Knoll, A. H.(2004). Large perturbations of the carbon cycle during recovery from the endPermian extinction. Science. 305, 506–509. https://doi.org/10.1126/science.1097023
+
+Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). A diverse conglomerate-hosted fossil tetrapod assemblage occurs in a $\sim 4$ m-thick interval at the base of the upper Permian Usili Formation in the Ruhuhu Basin, Tanzania. Journal of Vertebrate Paleontology, 45(sp1), 234–257. [https://doi.org/10.1080/02724634.2025.2466442](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2025.2466442)
+
+Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). Successive assemblages of upper Permian vertebrates in the upper Madumabisa Mudstone Formation of the Luangwa Basin, Zambia. Journal of Vertebrate Paleontology, 45(1, supplement), 234–257. [https://doi.org/10.1080/02724634.2025.2486065](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2025.2486065)
+
+Peecook, B. R., Sidor, C. A., McIntosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). Successive assemblages of upper Permian vertebrates in the upper Madumabisa Mudstone Formation of the Luangwa Basin, Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23. Journal of Vertebrate Paleontology, 45(1, supplement), e2486065. [https://doi.org/10.1080/02724634.2025.2486065](https://doi.org/10.1080/02724634.2025.2486065)
+
+Pellenard, P., Gand, G., Juncal, M. A., Diez, J. B., Steyer, J.-S., Broutin, J., & Rodriguez-Barreiro, I. (2017). High-precision geochronology of the continental Carboniferous-Permian boundary in the French Massif Central. Geology, 45(9), 835–838. https://doi.org/10.1130/G39078.1
+
+Pellenard, P., Gand, G., Schmitz, M., Galtier, J., Broutin, J., & Steyer, J.-S. (2017). High-precision U–Pb zircon ages for explosive volcanism calibrating the NW European continental Autunian stratotype. Gondwana Research, 51, 118–136. https://doi.org/10.1016/j.gr.2017.07.014
 
 Perch-Nielsen, K., Birkenmajer, K., Birkelund, T., and Aellen, M. (1974). Revision of Triassic stratigraphy of the Scoresby Land and Jameson Land region, east Greenland. Meddelelser om Grønland. 193, 1–51
+
+Peryt, T., Durakiewicz, T., Kotarba, M. J., & Oszczepalski, S. (2012). Carbon isotope stratigraphy of the basal Zechstein (Lopingian) strata in Northern Poland. Geological Quarterly, 56(2), 285-298.
+
+Pettigrew, T. H. (1979). A new specimen of *Coelurosauravus* (Reptilia: Diapsida) from the Marl Slate of Eppleton Quarry, Tyne and Wear. Nature.
+
+Piveteau, J. (1926). Paléontologie de Madagascar, XIII. Amphibiens et reptiles permiens. Annales de Paléontologie, 15, 55–128.
+
+Piveteau, J. (1955). Existence d’un reptile du groupe des Procolophonidés à Madagascar. Comptes Rendus de l'Académie des Sciences, Paris, 241, 1315–1317.
 
 Piñeiro, G., Ramos, A., Goso, C., Scarabino, F., & Laurin, M. (2011). Unusual environmental conditions preserve a Permian mesosaur‑bearing Konservat‑Lagerstätte from Uruguay. Acta Palaeontologica Polonica, 57(2), 299–318. https://doi.org/10.4202/app.2010.0113
 
 Plesker, M. (1995). Neue Funde einiger Knochenfische (Osteichthyes) aus dem Oberen Muschelkalk (MO2) des Weserberglandes. Lippische Mitteilungen aus Geschichte und Landkunde. 64, 303–322
 
+Plummer, F. B. (1948). Relatório do Conselho Nacional do Petróleo de 1946. Rio de Janeiro, pp. 87-134.
+
 Plummer, F. B., & Moore, R. C. (1922). Stratigraphy of the Pennsylvanian formations of north-central Texas. University of Texas Bulletin.
+
+Price, L. I. (1948). Um anfíbio labirintodonte da Formação Pedra de Fogo, Estado do Maranhão. (Boletim No. 124). Ministério da Agricultura, Departamento Nacional da Produção Mineral, Divisão de Geologia e Mineralogia.
 
 Price, L.I. (1948). Um anfíbio Labirintodonte da Formação Pedra de Fogo, Estado do Maranhão. Boletim da Divisão de Geologia e Mineralogia (DNPM) 124: 7–33. (In Portuguese)
 
 Price, L.I., 1937. Two new cotylosaurs from the Permian of Texas. Proceedings of the New England Zoölogical Club 11:97-102.
 
+Prinoth, H. (2017). The Cephalopod Bank in the Gröden/Val Gardena Sandstone of the Bletterbach (preliminary paper). Geo.Alp, 14, 85–91.
+
+Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. Revista Brasileira de Paleontologia, 14(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
+
+Ray, S. (1997). Some contributions to the Lower Gondwana stratigraphy of the Pranhita-Godavari valley, Deccan India. Journal of the Geological Society of India, 50(5), 633-640.
+
+Ray, S., & Bandyopadhyay, S. (2003). Late Permian vertebrate community of the Pranhita–Godavari valley, India. Journal of Asian Earth Sciences, 21(6), 643–654. [https://doi.org/10.1016/S1367-9120(02)00050-0](https://doi.org/10.1016/S1367-9120\(02\)00050-0)
+
+Reisz, R. R., & Laurin, M. (2004). A reevaluation of the enigmatic Permian synapsid Watongia and of its stratigraphic significance. Canadian Journal of Earth Sciences, 41(4), 377–386. [https://doi.org/10.1139/e04-016](https://www.google.com/search?q=https://doi.org/10.1139/e04-016)
+
 Reisz, R. R., & Tsuji, L. A. (2006). An articulated skeleton of Varanops with bite marks: the oldest known evidence of scavenging among terrestrial vertebrates. Journal of Vertebrate Paleontology, 26(4), 991–996.
+
+Reisz, R. R., Chatterjee, S., & Modesto, S. P. (2024). A new moradisaurine captorhinid reptile (Amniota: Eureptilia) from the upper Permian of India. PeerJ, 12, e18394. [https://doi.org/10.7717/peerj.18394](https://www.google.com/search?q=https://doi.org/10.7717/peerj.18394)
+
+Reisz, R. R., Godfrey, S. J., & Scott, D. (2009). *Eothyris* and *Oedaleops*: Do these Early Permian synapsids from Texas and New Mexico form a clade? Journal of Vertebrate Paleontology, 29(1), 39–47.
+
+Reisz, R. R., Liu, J., Li, J. L., & Müller, J. (2011). A new captorhinid reptile, *Gansurhinus qingtoushanensis*, gen. et sp. nov., from the Permian of China. Naturwissenschaften, 98(5), 435-441. [https://doi.org/10.1007/s00114-011-0793-0](https://doi.org/10.1007/s00114-011-0793-0)
+
+Reisz, R. R., Müller, J., Tsuji, L., & Scott, D. (2007). The cranial osteology of *Belebey vegrandis* (Parareptilia: Bolosauridae), from the Middle Permian of Russia, and its bearing on reptilian evolution. Zoological Journal of the Linnean Society, 151(1), 191–214. https://doi.org/10.1111/j.1096-3642.2007.00287.x
 
 Reisz, R.R., Laurin, M., and Marjanović, D., 2010. Apsisaurus witteri from the Lower Permian of Texas: yet another small varanopid synapsid, not a diapsid. Journal of Vertebrate Paleontology 30(5):1628-1631. https://doi.org/10.1080/02724634.2010.501441
 
-Renesto, S., and Stockar, R. (2018). First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Riv. Ital. Paleontol. Stratigr. 124, 639–653. doi:10.13130/2039-4942/10771
+Renesto, S., and Stockar, R. (2018). First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Riv. Ital. Paleontol. Stratigr. 124, 639–653. https://doi.org/10.13130/2039-4942/10771
+
+Riabinin, A. N. (1938). Vertebrate fauna from the Upper Permian deposits of the Sviaga basin: 1. A new Dinocephalian, Ulemosaurus sviagensi n. gen. n. sp. Ezhegodnik Muzeya Akademii F. N. Chernysheva, 1, 4–40.
 
 Rieppel, O., Kindlimann, R., and Bucher, H. (1996). “A new fossil fish fauna from the Middle Triassic (Anisian) of north-western Nevada,” in Mesozoic fishes, systematics and paleoecology. Editors G. Arratia and G. Viohl (München: Dr. Friedrich Pfeil), 501–512
 
-Romano, C., and Brinkmann, W. (2009). Reappraisal of the lower actinopterygian Birgeria stensioei Aldinger, 1931 (Osteichthyes; birgeriidae) from the Middle Triassic of Monte San Giorgio (Switzerland) and Besano (Italy). Neues Jahrbuch Geol. Palaontol. Abhand. 252, 17–31. doi:10.1127/0077-7749/2009/0252-0017
+Romano, C., and Brinkmann, W. (2009). Reappraisal of the lower actinopterygian Birgeria stensioei Aldinger, 1931 (Osteichthyes; birgeriidae) from the Middle Triassic of Monte San Giorgio (Switzerland) and Besano (Italy). Neues Jahrbuch Geol. Palaontol. Abhand. 252, 17–31. https://doi.org/10.1127/0077-7749/2009/0252-0017
 
 Romano, C., Goudemand, N., Vennemann, T. W., Ware, D., Schneebeli-Hermann,
 
-Romano, C., Jenks, J. F., Jattiot, R., Scheyer, T. M., Bylund, K. G., and Bucher, H. (2017). Marine Early Triassic Actinopterygii from Elko County (Nevada, United States): implications for the Smithian equatorial vertebrate eclipse. J. Paleontol. 91, 1025–1046. doi:10.1017/jpa.2017.36
+Romano, C., Jenks, J. F., Jattiot, R., Scheyer, T. M., Bylund, K. G., & Bucher, H. (2017). Marine Early Triassic Actinopterygii from Elko County (Nevada, USA): implications for the Smithian equatorial vertebrate eclipse. Journal of Paleontology, 91(5), 1025–1046. [https://doi.org/10.1017/jpa.2017.36](https://doi.org/10.1017/jpa.2017.36)
 
-Romano, C., Kogan, I., Jenks, J., Jerjen, I., and Brinkmann, W. (2012). Saurichthys and other fossil fishes from the late Smithian (Early Triassic) of Bear Lake County (Idaho, United States), with a discussion of saurichthyid palaeogeography and evolution. Bull. Geosci. 87, 543–570. doi:10.3140/bull. geosci.1337
+Romano, C., Jenks, J. F., Jattiot, R., Scheyer, T. M., Bylund, K. G., and Bucher, H. (2017). Marine Early Triassic Actinopterygii from Elko County (Nevada, United States): implications for the Smithian equatorial vertebrate eclipse. J. Paleontol. 91, 1025–1046. https://doi.org/10.1017/jpa.2017.36
 
-Romano, C., Koot, M. B., Kogan, I., Brayard, A., Minikh, A. V., Brinkmann, W., et al. (2016a). Permian-Triassic Osteichthyes (bony fishes): diversity dynamics and body size evolution. Biol. Rev. Camb. Phil. Soc. 91, 106–147. doi:10.1111/ brv.12161
+Romano, C., Kogan, I., Jenks, J., Jerjen, I., and Brinkmann, W. (2012). Saurichthys and other fossil fishes from the late Smithian (Early Triassic) of Bear Lake County (Idaho, United States), with a discussion of saurichthyid palaeogeography and evolution. Bull. Geosci. 87, 543–570. https://doi.org/10.3140/bull geosci.1337
+
+Romano, C., Koot, M. B., Kogan, I., Brayard, A., Minikh, A. V., Brinkmann, W., et al. (2016a). Permian-Triassic Osteichthyes (bony fishes): diversity dynamics and body size evolution. Biol. Rev. Camb. Phil. Soc. 91, 106–147. https://doi.org/10.1111/ brv.12161
 
 Romano, C., López-Arbarello, A., Ware, D., Jenks, J. F., and Brinkmann, W. (2019). Marine Early Triassic Actinopterygii from the Candelaria Hills (Esmeralda
 
-Romano, C., Ware, D., Brühwiler, T., Bucher, H., and Brinkmann, W. (2016b). Marine Early Triassic Osteichthyes from Spiti, Indian himalayas. Swiss Journal of Palaeontology. 135, 275–294. doi:10.1007/s13358-015-0098-6
+Romano, C., Ware, D., Brühwiler, T., Bucher, H., and Brinkmann, W. (2016b). Marine Early Triassic Osteichthyes from Spiti, Indian himalayas. Swiss Journal of Palaeontology. 135, 275–294. https://doi.org/10.1007/s13358-015-0098-6
+
+Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. University of Texas Bulletin, 2801, 67–108.
 
 Romer, A. S. (1957). The appendicular skeleton of the Permian embolomerous amphibian Archeria. Contributions from the Museum of Paleontology, 11(1), 1–10.
 
 Romer, A. S., & Price, L. I. (1939). The oldest vertebrate egg. American Journal of Science, 237(11), 741–745. https://doi.org/10.2475/ajs.237.11.741
+
+Romer, A. S., & Price, L. I. (1940). Review of the Pelycosauria. Geological Society of America Special Paper, 28, 1–538.
 
 Romer, A.S., 1928. Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. University of Texas Bulletin 2801:67-108.
 
@@ -1436,31 +1944,63 @@ Romer, A.S., 1937. New genera and species of pelycosaurian reptiles. Proceedings
 
 Romer, A.S., 1957. The Appendicular Skeleton of the Permian Embolomerous Amphibian Archeria. Contributions from the Museum of Paleontology, v. 13, no. 5, p. 105-159.
 
-Romer, A.S., and Price, L.W., 1940. Review of the Pelycosauria. Geological Society of America Special Papers, v. 28, p. 1-538. doi: 10.1130/SPE28-p1
+Romer, A.S., and Price, L.W., 1940. Review of the Pelycosauria. Geological Society of America Special Papers, v. 28, p. 1-538. https://doi.org/10.1130/SPE28-p1
 
 Romer, A.S., and Witter, R.V., 1942. Edops, a Primitive Rhachitomous Amphibian from the Texas Red Beds. The Journal of Geology 50(8):925-960. https://doi.org/10.1086/625101
 
-Sallan, L. C. (2014). Major issues in the origins of ray-finned fish (Actinopterygii) biodiversity. Biol. Rev. Camb. Phil. Soc. 89, 950–971. doi:10.1111/brv.12086
+Ronchi, A., & Santi, G. (2003). Non-marine biota from the Lower Permian of the central Southern Alps (Orobic and Collio basins, N Italy): a key to the paleoenvironment. Geobios, 36(6), 749–760.
 
-Sallan, L. C., and Coates, M. I. (2010). End-Devonian extinction and a bottleneck in the early evolution of modern jawed vertebrates. Proc. Natl. Acad. Sci. U.S.A. 107, 10131–10135. doi:10.1073/pnas.0914000107
+Ronchi, A., Marchetti, L., Klein, H., & Groenewald, G. H. (2023). A Middle Permian Oasis for Vertebrate and Invertebrate Life in a High-Energy Fluvial Palaeoecosystem of Southern Gondwana (Karoo, Republic of South Africa). Geosciences, 13(11), 325. [https://doi.org/10.3390/geosciences13110325](https://doi.org/10.3390/geosciences13110325)
 
-Sanchez, S., De Ricqlès, A., Schoch, R., & Steyer, J.-S. (2010). A new tool for determining degrees of mineralization in fossil amphibian skeletons: The example of the Late Palaeozoic branchiosaurid Apateon from the Autun Basin, France. Comptes Rendus Palevol, 9(6–7), 311–317. doi:10.1016/j.crpv.2010.07.004
+Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the *Eodicynodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123(2), 141–148.
+
+Rubidge, B. S., Day, M. O., & Barbolini, N. (2013). Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup, South Africa). Journal of African Earth Sciences, 79, 101–117. [https://doi.org/10.1016/j.jafrearsci.2013.03.003](https://doi.org/10.1016/j.jafrearsci.2013.03.003)
+
+Rubidge, B. S., Erwin, D. H., Ramezani, J., Bowring, S. A., & de Klerk, W. J. (2013). High-precision temporal calibration of Late Permian vertebrate biostratigraphy: U-Pb zircon constraints from the Karoo Supergroup, South Africa. Geology, 41(3), 363–366. [https://doi.org/10.1130/G33622.1](https://doi.org/10.1130/G33622.1)
+
+Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the Eodicynodon Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123, 141–148. https://doi.org/10.25131/sajg.123.0010
+
+Rubidge, B. S., Day, M. O., & Benoit, J. (2021). New specimen of the enigmatic dicynodont Lanthanostegus mohoii (Therapsida, Anomodontia) from the southwestern Karoo Basin of South Africa, and its implications for Middle Permian biostratigraphy. Frontiers in Earth Science, 9, 668143. https://doi.org/10.3389/feart.2021.668143
+
+Rubidge, B. S., Day, M. O., & Benoit, J. (2023). First record of the rare dicynodont Colobodectes from the southern Karoo Basin of South Africa has implications for middle Permian continental biostratigraphy. Journal of African Earth Sciences, 208, 105097. https://doi.org/10.1016/j.jafrearsci.2023.105097
+
+Sallan, L. C. (2014). Major issues in the origins of ray-finned fish (Actinopterygii) biodiversity. Biol. Rev. Camb. Phil. Soc. 89, 950–971. https://doi.org/10.1111/brv.12086
+
+Sallan, L. C., and Coates, M. I. (2010). End-Devonian extinction and a bottleneck in the early evolution of modern jawed vertebrates. Proc. Natl. Acad. Sci. U.S.A. 107, 10131–10135. https://doi.org/10.1073/pnas.0914000107
+
+Sanchez, S., De Ricqlès, A., Schoch, R., & Steyer, J.-S. (2010). A new tool for determining degrees of mineralization in fossil amphibian skeletons: The example of the Late Palaeozoic branchiosaurid Apateon from the Autun Basin, France. Comptes Rendus Palevol, 9(6–7), 311–317. https://doi.org/10.1016/j.crpv.2010.07.004
 
 Sander, P. M., Rieppel, O. C., and Bucher, H. (1994). New marine vertebrate fauna from the Middle Triassic of Nevada. J. Paleontol. 68, 676–680
 
-Sander, P.M., 1987. Taphonomy of the Lower Permian Geraldine Bonebed in Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 61, p. 221-236. doi: 10.1016/0031-0182(87)90051-4
+Sander, P.M., 1987. Taphonomy of the Lower Permian Geraldine Bonebed in Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 61, p. 221-236. https://doi.org/10.1016/0031-0182(87)90051-4
 
-Sander, P.M., 1989. Early Permian depositional environments and pond bonebeds in central Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 69, p. 1-21. doi: 10.1016/0031-0182(89)90153-3
+Sander, P.M., 1989. Early Permian depositional environments and pond bonebeds in central Archer County, Texas. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 69, p. 1-21. https://doi.org/10.1016/0031-0182(89)90153-3
+
+Santi, G. (2005). Lower Permian environmental changes proved by ichnofaunal evidence in the Collio Formation transition of the South Alpine region (North Italy). Memoir of the Fukui Prefectural Dinosaur Museum.
+
+Santi, G., & Krieger, C. (2001). Lower Permian tetrapod footprints from Brembana Valley – Orobic Basin- (Lombardy, Northern Italy). Revue de Paléobiologie, 20(1), 45-68.
 
 Santos, R. V., Souza, P. A., de Alvarenga, C. J. S., Dantas, E. L., Pimentel, M. M., de Oliveira, C. G., & de Araújo, L. M. (2006). Shrimp U–Pb zircon dating and palynology of bentonitic layers from the Permian Irati Formation, Paraná Basin, Brazil. Gondwana Research, 9(4), 456–463. https://doi.org/10.1016/j.gr.2005.12.001
 
 Schaeffer, B., and Mangus, M. (1976). An Early Triassic fish assemblage from British Columbia. Bull. Am. Mus. Nat. Hist. 156, 127–216
+
+Schaltegger, U., & Brack, P. (1999). Radiometric age constraints on the formation of the Collio Basin (Brescian Prealps). In: Cassinis G., et al. (coords), Stratigraphy and facies of the Permian deposits between eastern Lombardy and the western Dolomites. Field trip guide-book Inter. Congr. on: “The continental Permian of the Southern Alps and Sardinia (Italy)”. (p. 71).
+
+Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. Journal of Anatomy, 211(6), 737–753.
+
+Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. Palaeobiodiversity and Palaeoenvironments, 94(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
+
+Schneider, J. W., Werneburg, I., & Steyer, J.-S. (in press). A review of the Westphalian–Early Permian tetrapod faunas of Western and Central Europe. In M. J. Benton, O. R. Addo-Bediako, & J. A. Harris (Eds.), Tetrapods and Rhynchosaurs: A Memorial Volume to James M. Clark. Geological Society of America Special Paper.
 
 Schoch, R. R. (2021). Osteology of the Permian temnospondyl amphibian Glanochthon lellbachae and its relationships. Fossil Record, 24(1), 49–64. https://doi.org/10.5194/fr-24-49-2021
 
 Schoch, R. R., & Hampe, O. (2004). An eryopid-like temnospondyl from the Lower Rotliegend (Meisenheim Formation) of the Saar–Nahe Basin, SW Germany. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 232, 315–323.
 
 Schoch, R. R., & Sues, H.-D. (2013). A new dissorophid temnospondyl from the Lower Permian of Texas. Comptes Rendus Palevol, 12(1), 1–10. https://doi.org/10.1016/j.crpv.2012.11.003
+
+Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. Journal of Paleontology, 96(4), 950–960.
+
+Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnospondyl genus *Sclerocephalus*. Zoological Journal of the Linnean Society, 157(1), 135–168. https://doi.org/10.1111/j.1096-3642.2009.00535.x
 
 Schoch, R. R., & Witzmann, F. (2009a). Osteology and relationships of the temnospondyl genus Sclerocephalus. Zoological Journal of the Linnean Society, 157(1), 135–168. https://doi.org/10.1111/j.1096-3642.2009.00535.x
 
@@ -1480,7 +2020,11 @@ Schultze, H.-P., and Möller, H. (1986). Wirbeltierreste aus dem Mittleren Musch
 
 Schweizer, R. (1966). Ein Coelacanthide aus dem Oberen Muschelkalk Göttingens. Neues Jahrbuch Geol. Palaontol. Abhand. 125, 216–226
 
+Scottish Natural Heritage. (n.d.). CUTTIES HILLOCK Site of Special Scientific Interest SITE MANAGEMENT STATEMENT. SNH.
+
 Sellars, E. H. (1932). The pre-Paleozoic and Paleozoic systems in Texas. University of Texas Bulletin.
+
+Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new oryctocenosis of the aquatic vertebrate community from the Late Permian of Central Russia. Paleontological Journal, 37(4), 416-423.
 
 Shell, R., Ciampaglio, C., Peterman, D., Ivanov, A., Armstrong, A., Fuelling, L. J., & Jacquemin, S. J. (2024). A marine vertebrate fauna from the Early Permian (Artinskian) Lueders Formation of north-central Texas, USA. The Southwestern Naturalist, 68(2), 97–104. https://doi.org/10.1894/0038-4909-68.2.97
 
@@ -1492,45 +2036,109 @@ Shelton, C.D., 2013. A new method to determine volume of bromalites: morphometri
 
 Shelton, C.D., and Sander, P.M., 2017. Long bone histology of Ophiacodon reveals the geologically earliest occurrence of fibrolamellar bone in the mammalian stem lineage. Comptes Rendus Palevol, v. 16, no. 4, p. 397-424.
 
-Shelton, C.D., Sander, P.M., Stein, K., and Winkelhorst, H., 2012. Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, v. 103, no. 3-4, p. 217-236. doi: 10.1017/S175569101300025X
+Shelton, C.D., Sander, P.M., Stein, K., and Winkelhorst, H., 2012. Long bone histology indicates sympatric species of Dimetrodon (Lower Permian, Sphenacodontidae). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, v. 103, no. 3-4, p. 217-236. https://doi.org/10.1017/S175569101300025X
 
-Smithwick, F. M., and Stubbs, T. L. (2018). Phanerozoic survivors: actinopterygian evolution through the Permo-Triassic and Triassic-Jurassic mass extinction events. Evolution. 72, 348–362. doi:10.1111/evo.13421
+Shi, G. R., Waterhouse, J. B., & McLoughlin, S. (2010). The Lopingian of Australasia: a review of biostratigraphy, correlations, palaeogeography and palaeobiogeography. Geological Journal, 45(2-3), 230–263. [https://doi.org/10.1002/gj.1189](https://doi.org/10.1002/gj.1189)
+
+Shi, Y., & Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 10. *Jimusaria monanensis* sp. nov. (Dicynodontia) shows a unique epipterygoid. PeerJ, 11, e15783. https://doi.org/10.7717/peerj.15783
+
+Shi, Y.-T., & Liu, J. (2024). Osteology of *Turfanodon bogdaensis* (Dicynodontia). Vertebrata Palasiatica, 62(3), 186–200.
+
+Shipps, B. K., Sidor, C. A., & Angielczyk, K. D. (2025). *$Dicynodontoides$ $kubwa$*, sp. nov. (Synapsida: Anomodontia), a new large emydopoid from the base of the Usili Formation (Ruhuhu Basin, Tanzania). Journal of Vertebrate Paleontology, 45(sup1), 2440112. [https://doi.org/10.1080/02724634.2024.2440112](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2440112)
+
+Sidor, C. A. (2015). The first biarmosuchian from the upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. Palaeontologia Africana, 49, 1–7.
+
+Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2010). Tetrapod fauna of the lowermost Usili Formation (Songea Group, Ruhuhu Basin) of southern Tanzania, with a new burnetiid record. Journal of Vertebrate Paleontology, 30(3), 696–703. [https://doi.org/10.1080/02724631003758086](https://doi.org/10.1080/02724631003758086)
+
+Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2014). Tapinocephalids (Therapsida, Dinocephalia) from the Permian Madumabisa Mudstone Formation (Lower Karoo, Mid-Zambezi Basin) of southern Zambia. Journal of Vertebrate Paleontology, 34(4), 980–985. [https://doi.org/10.1080/02724634.2014.839841](httpshttps://doi.org/10.1080/02724634.2014.839841)
+
+Sidor, C. A., Damiani, R., & Steyer, J. S. (2003). A new parareptile from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 23(3), 555-567. https://doi.org/10.1671/0272-4634(2003)023[0555:ANPFUT]2.0.CO;2
+
+Sidor, C. A., O'Keefe, F. R., Damiani, R., Steyer, J. S., Smith, R. M., Larsson, H. C., ... & Maga, A. (2005). The vertebrate fauna of the Upper Permian of Niger. II. Nigerpeton ricqlesi (Temnospondyli: Cochleosauridae). Journal of Vertebrate Paleontology, 25(2), 351-364. https://doi.org/10.1671/0272-4634(2005)025[0351:TVFOTU]2.0.CO;2
+
+Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burnetiamorph From Zambia Confirms Exceptional Levels of Endemism in Burnetiamorpha (Therapsida: Biarmosuchia) and an Updated Paleoenvironmental Interpretation of the Upper Madumabisa Mudstone Formation. Frontiers in Ecology and Evolution, 9, 685244. [https://doi.org/10.3389/fevo.2021.685244](https://doi.org/10.3389/fevo.2021.685244)
+
+Silantiev, V. V., Arefiev, M. P., Nurgalieva, N. G., Mouraviev, F. A., Bulanov, V. V., Ivanov, A. O., & Urazaeva, M. N. (2017). New multidisciplinary studies of the Urzhumian parastratotype confirm its reference status for the Vyatka-Kazan region of European Russia. In D. Nurgaliev, M. Barclay, S. Nikolaeva, & V. Silantiev (Eds.), Kazan Golovkinsky Stratigraphic Meeting, 2017. Advances in Devonian, Carboniferous and Permian Research: Stratigraphy, Environments, Climate and Resources (pp. 206-215). Filodiritto International Proceedings.
+
+Silantiev, V., Marchetti, L., Ronchi, A., Schirolli, P., Scholze, F. & Urazaeva, M. (2022). Permian non-marine bivalves from the Collio and Guncina formations (Southern Alps, Italy): revised biostratigraphy and palaeobiogeography. Rivista Italiana di Paleontologia e Stratigrafia, 128(1), 43-67. [https://doi.org/10.54103/2039-4942/17050]
+
+Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. Historical Biology. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
+
+Smiley, T. M., Sidor, C. A., & O'Keefe, F. R. (2008). A new ?rubidginae (Therapsida: Gorgonopsia) from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 28(2), 583-588. https://doi.org/10.1671/0272-4634(2008)28[583:ANRTGF]2.0.CO;2
+
+Smith, D. B., and Francis, E. A. (1967). Geology of the country between Durham and West Hartlepool. Memoir of the Geological Survey of Great Britain, Sheet 27. HMSO.
+
+Smith, R. M. H. (1989). Fluvial facies, vertebrate taphonomy and palaeosols of the Teekloof Formation (Permian) near Beaufort West, Cape Province, South Africa. Unpublished Ph.D. thesis, University of Cape Town, Cape Town, South Africa.
+
+Smith, R. M. H., & Botha, J. (2005). The recovery of terrestrial vertebrate diversity in the South African Karoo Basin after the end-Permian extinction. Comptes Rendus Palevol, 4(6–7), 555–568. https://doi.org/10.1016/j.crpv.2005.07.005
+
+Smith, R. M. H., & Keyser, A. W. (1995). Biostratigraphy of the *Pristerognathus* Assemblage Zone. In B. S. Rubidge (Ed.), Biostratigraphy of the Beaufort Group (Karoo Supergroup) (pp. 13–17). South African Committee for Stratigraphy Biostratigraphic Series 1. Council for Geoscience.
+
+Smith, R. M. H., & Ward, P. D. (2001). Pattern of vertebrate extinctions across an event bed at the Permian–Triassic boundary in the Karoo Basin of South Africa. Geology, 29(12), 1147–1150.
+
+Smith, R. M. H., Botha-Brink, J., & Sidor, C. A. (2015). Palaeoenvironmental reconstruction of the Upper Permian Moradi Formation, Niger, based on vertebrate taphonomy and ichnology. Palaeogeography, Palaeoclimatology, Palaeoecology, 426, 1-12. https://doi.org/10.1016/j.palaeo.2015.02.020
+
+Smith, R. M. H., Viglietti, P. A., & Rubidge, B. S. (2020). Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup, South Africa). South African Journal of Geology, 123(2), 237–256. [https://doi.org/10.2113/123.0016](https://doi.org/10.2113/123.0016)
+
+Smithwick, F. M., and Stubbs, T. L. (2018). Phanerozoic survivors: actinopterygian evolution through the Permo-Triassic and Triassic-Jurassic mass extinction events. Evolution. 72, 348–362. https://doi.org/10.1111/evo.13421
 
 Soares, M. B. (2003). A taphonomic model for the Mesosauridae assemblage of the Irati Formation (Paraná Basin, Brazil). Anais da Academia Brasileira de Ciências, 75(4), 461–470. https://www.redalyc.org/pdf/505/50510404.pdf
 
 Soler-Gijón, R., & Hampe, O. (1998). Evidence of Triodus (Elasmobranchii: Xenacanthidae) in the Lower Permian of the Autun Basin (Muse, France). Neues Jahrbuch für Geologie und Paläontologie, Monatshefte 1998(6), 335–348.
 
+Spener, C. M. (1710). Disquisitio de crocodilo in lapide scissili expresso, aliisque Lithozois. Miscellanea Berolinensia ad incrementum scientiarum ex scriptis Societati Regiae Scientiarum exhibitis, 1, 92-110.
+
 Stensiö, E. (1921). Triassic Fishes from Spitzbergen 1. Vienna: Adolf Holzhausen
 
 Stensiö, E. (1932). Triassic fishes from east Greenland 1–2. Meddelelser om Grønland. 83, 1–298
 
-Stockar, R. (2010). Facies, depositional environment, and palaeoecology of the Middle Triassic Cassina beds (Meride Limestone, Monte San Giorgio, Switzerland). Swiss J. Geosci. 103, 101–119. doi:10.1007/s00015-010-0008-2
+Stephenson, M.H. & McLean, D. (2023). Lopingian (Late Permian) palynomorphs from the Cadeby Formation, Cadeby Quarry, Yorkshire, UK. Rivista Italiana di Paleontologia e Stratigrafia, 129(1), 25-47.
 
-Stockar, R., Baumgartner, P. O., and Condon, D. (2012). Integrated Ladinian bio-chronostratigraphy and geochrononology of Monte San Giorgio (southern Alps, Switzerland). Swiss J. Geosci. 105, 85–108. doi:10.1007/s00015-012-0093-5
+Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of *Rhineceps* from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. Journal of Vertebrate Paleontology. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
+
+Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of Rhineceps from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. In C. A. Sidor & K. D. Angielczyk (Eds.), Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23. Journal of Vertebrate Paleontology, 45(1, supplement), 2451312. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
+
+Stockar, R. (2010). Facies, depositional environment, and palaeoecology of the Middle Triassic Cassina beds (Meride Limestone, Monte San Giorgio, Switzerland). Swiss J. Geosci. 103, 101–119. https://doi.org/10.1007/s00015-010-0008-2
+
+Stockar, R., Baumgartner, P. O., and Condon, D. (2012). Integrated Ladinian bio-chronostratigraphy and geochrononology of Monte San Giorgio (southern Alps, Switzerland). Swiss J. Geosci. 105, 85–108. https://doi.org/10.1007/s00015-012-0093-5
 
 Stolley, E. (1920). Beiträge zur Kenntnis der Ganoiden des deutschen Muschelkalks. Palaeontographica. 63, 25–86
 
 Sumida, S. S., Berman, D. S., & Martens, T. (1998). A new trematopid amphibian from the Lower Permian of central Germany. Palaeontology, 41(4), 605–629.
 
+Sumida, S. S., Berman, D. S., & Martens, T. (1998). A new trematopid amphibian from the Lower Permian of central Germany. Palaeontology, 41(4), 605–629. https://doi.org/10.1111/j.1475-4983.1998.tb01405.x
+
+Sumida, S. S., Dodick, J., Metcalf, A., & Albright, G. (2010). Reiszorhinus olsoni, a new single-tooth-rowed captorhinid reptile from the Lower Permian of Texas. Journal of Vertebrate Paleontology, 30(3), 704–714.
+
 Sumida, S. S., Lombard, B. E., Berman, D. S., & Henrici, A. C. (1999b). Late Paleozoic amniotes and their near relatives from Utah and northeastern Arizona, with comments on the Permian–Pennsylvanian boundary in Utah and northern Arizona. Miscellaneous Publication — Utah Geological Survey, 99(1), 21–30.
 
 Sumida, S. S., Walliser, J. B. D., & Lombard, B. E. (1999a). Late Paleozoic amphibian‑grade tetrapods of Utah. Miscellaneous Publication — Utah Geological Survey, 99(1), 21–30.
 
+Sun, A. L. (1963). The Chinese kannemeyerids. Palaeontologia Sinica, New Series C, 17, 1–109.
+
+Sun, A. L. (1973b). Permo-Triassic dicynodonts from Turfan, Sinkiang. Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology Academia Sinica, 10, 53–68.
+
+Sun, A. L. (1978). Two new genera of Dicynodontidae. Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology Academia Sinica, 13, 19–25.
+
 Sun, Z., Jiang, D., Ji, C., & Hao, W. (2016). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou Province, South China. Journal of Asian Earth Sciences, 118, 101–119. https://doi.org/10.1016/j.jseaes.2016.01.004
 
-Sun, Z., Jiang, D., Ji, C., and Hao, W. (2016a). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou province, South China. J. Asian Earth Sci. 118, 101–110. doi:10.1016/j.jseaes.2016.01.004
+Sun, Z., Jiang, D., Ji, C., and Hao, W. (2016a). Integrated biochronology for Triassic marine vertebrate faunas of Guizhou province, South China. J. Asian Earth Sci. 118, 101–110. https://doi.org/10.1016/j.jseaes.2016.01.004
 
 Sun, Z., Tintori, A., Jiang, D., & Motani, R. (2013). A new perleidid from the Spathian (Olenekian, Early Triassic) of Chaohu, Anhui Province, China. Rivista italiana di Paleontologia e Stratigrafia, 119(3), 325‑335. https://doi.org/10.13130/2039-4942/6040
 
-Sun, Z., Tintori, A., Jiang, D., and Motani, R. (2013). A new perleidid from the Spathian (Olenekian, Early Triassic) of Chaohu, Anhui province, China. Riv. Ital. Paleontol. Stratigr. 119, 275–285. doi:10.13130/2039-4942/6040
+Sun, Z., Tintori, A., Jiang, D., and Motani, R. (2013). A new perleidid from the Spathian (Olenekian, Early Triassic) of Chaohu, Anhui province, China. Riv. Ital. Paleontol. Stratigr. 119, 275–285. https://doi.org/10.13130/2039-4942/6040
 
 Sun, Z., Tintori, A., Xu, Y., Lombardo, C., Ni, P. and Jiang, D., 2016. A new non-parasemionotiform order of the Halecomorphi (Neopterygii, Actinopterygii) from the Middle Triassic of Tethys. Journal of Systematic Palaeontology, 15(3): 223-240.
 
-Sun, Z.-Y., Lombardo, C., Tintori, A., Jiang, D.-Y., Hao, W.-C., Sun, Y.-L., et al. (2012). Fuyuanperleidus dengi Geng et al., 2012 (Osteichthyes, Actinopterygii) from the Middle Triassic of Yunnan province, South China. Riv. Ital. Paleontol. Stratigr. 118, 359–373. doi:10.13130/2039-4942/6011
+Sun, Z.-Y., Lombardo, C., Tintori, A., Jiang, D.-Y., Hao, W.-C., Sun, Y.-L., et al. (2012). Fuyuanperleidus dengi Geng et al., 2012 (Osteichthyes, Actinopterygii) from the Middle Triassic of Yunnan province, South China. Riv. Ital. Paleontol. Stratigr. 118, 359–373. https://doi.org/10.13130/2039-4942/6011
 
-Sun, Z.-Y., Tintori, A., Lombardo, C., and Jiang, D.-Y. (2016b). New miniature neopterygians from the Middle Triassic of Yunnan province, South China. Neues Jahrbuch Geol. Palaontol. Abhand. 282, 135–156. doi:10.1127/njgpa/2016/0610
+Sun, Z.-Y., Tintori, A., Lombardo, C., and Jiang, D.-Y. (2016b). New miniature neopterygians from the Middle Triassic of Yunnan province, South China. Neues Jahrbuch Geol. Palaontol. Abhand. 282, 135–156. https://doi.org/10.1127/njgpa/2016/0610
 
 Surlyk, F., Bjerager, M., Piasecki, S., and Stemmerik, L. (2017). Stratigraphy of the marine Lower Triassic succession at Kap Stosch, Hold With Hope, north-east Greenland. Bull. Geol. Soc. Den. 65, 87–123.
+
+Sushkin, P. P. (1926).... Palaeontologia Hungarica, 1, 323–344.
+
+Swift, A. and Aldridge, R. J. (1982). Conodonts from the Upper Permian strata of Nottinghamshire and North Yorkshire. Palaeontology, 25(4), 845–856.
 
 Syromyatnikov, K.V., 2000. Facies nature of clay minerals from the Inta Formation, southern Pechora Coal Basin. Lithology and Mineral Resources, 35(5): 466-474. https://doi.org/10.1007/BF02782732
 
@@ -1542,31 +2150,45 @@ Tabor, N.J., DiMichele, W.A., Montañez, I.P., and Chaney, D.S., 2013. Late Pale
 
 Tanner, V. M. (1936). A study of Utah fossil fishes with the description of a new genus and species. Proc. Utah Acad. Sci. Arts Lett. 13, 81–89
 
+Taquet, P. (1969). Les reptiles du gisement de Moradi (Niger). Mémoires du Muséum National d'Histoire Naturelle, Nouvelle Série, Série C, Sciences de la Terre, 16, 1-104.
+
+Tatarinov, L. P. (1997). Noviy skalopozavr (Reptilia, Theriodonta) s neobychnoy sensornoy sistemoy iz verkhney Permy Kirovskoy Oblasty. Paleontologicheskii Zhurnal, 1997(6), 88–95.
+
 Thomson, K.S., 1964. Revised generic diagnoses of the fossil fishes Megalichthys and Ectosteorhachis (family Osteolepidae). Bulletin of the Museum of Comparative Zoology at Harvard University 131(9):283-311.
 
 Timofeev, P.P., Bogolyubova, L.I., and Koporulin, V.I., 2002. Sedimentogenez i litogenez otlozhenii intinskoy svity yuga Pechorskogo ugol'nogo basseyna [Sedimentogenesis and lithogenesis of deposits of the Intinsky Formation south of the Pechora Coal Basin]. Trudy Geologicheskogo Instituta Rossiyskoy Akademii Nauk, Issue 540. Nauka, Moscow, 224 pp. [In Russian]
 
 Tintori, A. (1992). Fish taphonomy and Triassic anoxic basins from the Alps: a case history. Riv. Ital. Paleontol. Stratigr. 97, 393–408
 
-Tintori, A. (2013). A new species of Saurichthys (Actinopterygii) from the Middle Triassic (early Ladinian) of the northern Grigna mountain (Lombardy, Italy). Riv. Ital. Paleontol. Stratigr. 119, 287–302. doi:10.13130/2039-4942/6041
+Tintori, A. (2013). A new species of Saurichthys (Actinopterygii) from the Middle Triassic (early Ladinian) of the northern Grigna mountain (Lombardy, Italy). Riv. Ital. Paleontol. Stratigr. 119, 287–302. https://doi.org/10.13130/2039-4942/6041
 
-Tintori, A., Hitij, T., Jiang, D., Lombardo, C., and Sun, Z. (2014a). Triassic actinopterygian fishes: the recovery after the end-Permian crisis. Integr. Zool. 9, 394–411. doi:10.1111/1749-4877.12077
+Tintori, A., Hitij, T., Jiang, D., Lombardo, C., and Sun, Z. (2014a). Triassic actinopterygian fishes: the recovery after the end-Permian crisis. Integr. Zool. 9, 394–411. https://doi.org/10.1111/1749-4877.12077
 
-Tintori, A., Huang, J.-D., Jiang, D.-Y., Sun, Z.-Y., Motani, R., and Chen, G. (2014b). A new Saurichthys (Actinopterygii) from the Spathian (Early Triassic) of Chaohu (Anhui province, China). Riv. Ital. Paleontol. Stratigr. 120, 157–164. doi:10.13130/2039-4942/6057
+Tintori, A., Huang, J.-D., Jiang, D.-Y., Sun, Z.-Y., Motani, R., and Chen, G. (2014b). A new Saurichthys (Actinopterygii) from the Spathian (Early Triassic) of Chaohu (Anhui province, China). Riv. Ital. Paleontol. Stratigr. 120, 157–164. https://doi.org/10.13130/2039-4942/6057
 
-Tintori, A., Lombardo, C., and Kustatscher, E. (2016). The Pelsonian (Anisian, Middle Triassic) fish assemblage from Monte Prà della Vacca/Kühwiesenkopf (Braies Dolomites, Italy). Neues Jahrbuch Geol. Palaontol. Abhand. 282, 181–200. doi:10.1127/njgpa/2016/0612
+Tintori, A., Lombardo, C., and Kustatscher, E. (2016). The Pelsonian (Anisian, Middle Triassic) fish assemblage from Monte Prà della Vacca/Kühwiesenkopf (Braies Dolomites, Italy). Neues Jahrbuch Geol. Palaontol. Abhand. 282, 181–200. https://doi.org/10.1127/njgpa/2016/0612
 
-Tong, J., and Yin, H. (2002). The Lower Triassic of South China. J. Asian Earth Sci. 20, 803–815. doi:10.1016/S1367-9120(01)00058-X
+Tong, J., and Yin, H. (2002). The Lower Triassic of South China. J. Asian Earth Sci. 20, 803–815. https://doi.org/10.1016/S1367-9120(01)00058-X
 
 Tong, J., Zhou, X., Erwin, D. H., Zuo, J., & Zhao, L. (2006). Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui Province, China. Journal of Paleontology, 80(1), 146‑161. https://doi.org/10.1666/0022-3360(2006)080[0146:FFFTLT]2.0.CO;2
 
 Tozer, E. T. (1965). Lower Triassic stages and ammonoid zones of Arctic Canada. Pap. Geol. Surv. Can. 65, 1–14
 
+Tsuji, L. A., & Müller, J. (2008). A re-evaluation of $\textit{Parasaurus geinitzi}$, the first-named pareiasaur (Amniota, Parareptilia). Canadian Journal of Earth Sciences, 45(10), 1111-1121.
+
+Tsuji, L. A., Müller, J., & Reisz, R. R. (2013). First record of the parareptile Bunostegos akokanensis from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 33(1), 1-10. https://doi.org/10.1080/02724634.2012.714802
+
+Turner, P. and Magaritz, M. (1986). Chemical and isotopic studies of a core of Marl Slate from NE England: influence of freshwater influx into the Zechstein Sea. Geological Society, London, Special Publications, 22(1), 29-41.
+
 Turner, S., Blieck, A., and Nowlan, G. S. (2004). “Vertebrates (agnathans and gnathostomes),” in The great ordovician biodiversification event. Editors B. D. Webby, F. Paris, M. L. Droser, and I. G. Percival (New York, NY: Columbia University Press), 327–335
+
+Tverdokhlebov, V. P., Tverdokhlebova, G. I., & Ivakhnenko, M. F. (2005). Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. Earth-Science Reviews, 69(1–2), 27–77. https://doi.org/10.1016/j.earscirev.2004.09.001
 
 Tverdokhlebov, V.P., Tverdokhlebova, G.I., Minikh, A.V., Surkov, M.V., and Benton, M.J., 2005. Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. Earth-Science Reviews, 69(1-2): 27-77. https://doi.org/10.1016/j.earscirev.2004.07.003
 
 van de Poll, H. W. (1983). Geology of Prince Edward Island. Prince Edward Island Department of Energy and Forestry Report 83‑1, 66 pp.
+
+Vaughn, P. P. (1955). The Permian reptile Araeoscelis restudied. Bulletin of the Museum of Comparative Zoology, 113(5), 303–467.
 
 Vaughn, P. P. (1964). Vertebrates from the Organ Rock Shale of the Cutler Group, Permian of Monument Valley and vicinity, Utah and Arizona. Journal of Paleontology, 38, 567–583.
 
@@ -1576,31 +2198,45 @@ Ventura Santos, R., Souza, P. A., Mendonça-Filho, J. G., & Lima, E. F. (2006). 
 
 Verrière, A., & Fröbisch, J. (2022). Ontogenetic, dietary, and environmental shifts in Mesosauridae. PeerJ, 10, e13866. https://doi.org/10.7717/peerj.13866
 
+Viglietti, P. A., Angielczyk, K. D., & Smith, R. M. H. (2021). Evidence for rapid, non-uniform recovery of terrestrial ecosystems after the end-Permian mass extinction. Nature Communications, 12, 5929. https://doi.org/10.1038/s41467-021-26157-1
+
+Visser, J. N. J. (1992). Deposition of the Early to Late Permian Whitehill Formation during a sea‑level highstand in a juvenile foreland basin. South African Journal of Geology, 95(2), 181–193.
+
 Vodolazskaya, M.A., Khramov, A.N., and Molostovsky, E.A., 2013. [Paleomagnetism and stratigraphy of Permian deposits of Pechora Coal Basin]. Cited in Aristov et al., 2021.
 
+Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. Newsletters on Stratigraphy, 55(1), 1–28. https://doi.org/10.1127/nos/2021/0621
+
 Wang, G. (1984). Marine Triassic of Anhui (in Chinese). Anhui Science & Technology Press, Hefei.
+
+Wang, J. Y., Yi, J., & Liu, J. (2019). The first complete pareiasaur skull from China. Acta Palaeontologica Sinica, 58(2), 216–221.
 
 Wang, X., Lu, H., Jiang, D., Zhou, M., & Sun, Z. (2020). A new specimen of Yunguisaurus (Reptilia; Sauropterygia) from the Ladinian (Middle Triassic) Zhuganpo Member, Falang Formation, Guizhou, China and the restudy of Dingxiaosaurus. Palaeoworld, 29(1), 137–150. https://doi.org/10.1016/j.palwor.2019.05.006
 
 Wang, Y. Y., Liu, J., & Wang, X. L. (2023). A new genus of embolomere (Tetrapoda: Reptiliomorpha) from the lower Permian Shanxi Formation of Yangquan, Shanxi, China. Historical Biology, 35(9), 1629-1636. https://doi.org/10.1080/08912963.2022.2104186
 
+Wardlaw, B. R. (1977). Biostratigraphy and paleoecology of the Gerster Limestone (Permian) in Nevada and Utah. U.S. Geological Survey Open-File Report 77-470, 125 p.
+
+Wardlaw, B. R., & Collinson, J. W. (1977). Biostratigraphic zonation of the Park City Group. U.S. Geological Survey Open-File Report 77-853, 15 p.
+
 Wardlaw, B.R., 2005. Age assignment of the Pennsylvanian-Early Permian succession of North Central Texas. Permophiles 46:21-22.
 
-Ware, D., Bucher, H., Brayard, A., Schneebeli-Hermann, E., and Brühwiler, T. (2015). High-resolution biochronology and diversity dynamics of the Early Triassic ammonoid recovery: the Dienerian faunas of the Northern Indian Margin. Palaeogeogr. Palaeoclimatol. Palaeoecol. 440, 363–373. doi:10.1016/j.palaeo.2015.09.013
+Ware, D., Bucher, H., Brayard, A., Schneebeli-Hermann, E., and Brühwiler, T. (2015). High-resolution biochronology and diversity dynamics of the Early Triassic ammonoid recovery: the Dienerian faunas of the Northern Indian Margin. Palaeogeogr. Palaeoclimatol. Palaeoecol. 440, 363–373. https://doi.org/10.1016/j.palaeo.2015.09.013
 
-Ware, D., Bucher, H., Brühwiler, T., and Krystyn, L. (2018). Dienerian (Early Triassic) ammonoids from Spiti (Himachal Pradesh, India). Fossils Strata. 63, 177–241. doi:10.1002/9781119522812.ch3
+Ware, D., Bucher, H., Brühwiler, T., and Krystyn, L. (2018). Dienerian (Early Triassic) ammonoids from Spiti (Himachal Pradesh, India). Fossils Strata. 63, 177–241. https://doi.org/10.1002/9781119522812.ch3
 
-Wen, W., Hu, S. X., Zhang, Q. Y., Benton, M. J., Kriwet, J., Chen, Z. Q., et al. (2019). A new species of Platysiagum from the Luoping Biota (Anisian, Middle Triassic, Yunnan, South China) reveals the relationship between Platysiagidae and Neopterygii. Geol. Mag. 156, 669–682. doi:10.1017/S0016756818000079
+Watson, D. M. S. (1914). *Broomia perplexa* gen. et. sp. nov., a fossil reptile from South Africa. Proceedings of the Zoological Society of London, 1914, 995-1010.
 
-Wen, W., Zhang, Q. Y., Hu, S. X., Zhou, C. Y., Xie, T., Huang, J. Y., et al. (2012). A new basal actinopterygian fish from the Anisian (Middle Triassic) of Luoping, Yunnan province, southwest China. Acta Palaeontol. Pol. 57, 149–160. doi:10. 1017/S0016756818000079
+Wen, W., Hu, S. X., Zhang, Q. Y., Benton, M. J., Kriwet, J., Chen, Z. Q., et al. (2019). A new species of Platysiagum from the Luoping Biota (Anisian, Middle Triassic, Yunnan, South China) reveals the relationship between Platysiagidae and Neopterygii. Geol. Mag. 156, 669–682. https://doi.org/10.1017/S0016756818000079
 
-Wen, W., Zhang, Q.−Y., Hu, S.−X., Benton, M. J., Zhou, C.−Y., Tao, X., et al. (2013). Coelacanths from the Middle Triassic Luoping Biota, Yunnan, South China, with the earliest evidence of ovoviviparity. Acta Palaeontol. Pol. 58, 175–193. doi:10.4202/app.2011.0066
+Wen, W., Zhang, Q. Y., Hu, S. X., Zhou, C. Y., Xie, T., Huang, J. Y., et al. (2012). A new basal actinopterygian fish from the Anisian (Middle Triassic) of Luoping, Yunnan province, southwest China. Acta Palaeontol. Pol. 57, 149–160. https://doi.org/10 1017/S0016756818000079
+
+Wen, W., Zhang, Q.−Y., Hu, S.−X., Benton, M. J., Zhou, C.−Y., Tao, X., et al. (2013). Coelacanths from the Middle Triassic Luoping Biota, Yunnan, South China, with the earliest evidence of ovoviviparity. Acta Palaeontol. Pol. 58, 175–193. https://doi.org/10.4202/app.2011.0066
 
 Wendruff, A. J., & Wilson, M. V. H. (2012). A fork‑tailed coelacanth, Rebellatrix divaricerca, gen. et sp. nov. (Actinistia: Rebellatricidae fam. nov.), from the Lower Triassic of western Canada. Journal of Vertebrate Paleontology, 32(3), 499–511. https://doi.org/10.1080/02724634.2012.658919
 
-Wendruff, A. J., and Wilson, M. V. H. (2012). A fork-tailed coelacanth, Rebellatrix divaricerca, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the Lower Triassic of Western Canada. J. Vertebr. Paleontol. 32, 499–511. doi:10. 1080/02724634.2012.657317
+Wendruff, A. J., and Wilson, M. V. H. (2012). A fork-tailed coelacanth, Rebellatrix divaricerca, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the Lower Triassic of Western Canada. J. Vertebr. Paleontol. 32, 499–511. https://doi.org/10 1080/02724634.2012.657317
 
-Wendruff, A. J., and Wilson, M. V. H. (2013). New Early Triassic coelacanth in the family Laugiidae (Sarcopterygii: Actinistia) from the Sulphur Mountain Formation near Wapiti Lake, British Columbia, Canada. Can. J. Earth Sci. 50, 904–910. doi:10.1139/cjes-2013-001
+Wendruff, A. J., and Wilson, M. V. H. (2013). New Early Triassic coelacanth in the family Laugiidae (Sarcopterygii: Actinistia) from the Sulphur Mountain Formation near Wapiti Lake, British Columbia, Canada. Can. J. Earth Sci. 50, 904–910. https://doi.org/10.1139/cjes-2013-001
 
 Werneburg, R. (1988). Die Stegocephalen (Amphibia) der Goldlauterer Schichten (Unterrotliegendes, Perm) des Thüringer Waldes. Teil 3: Apateon dracyiensis (Boy), Branchierpeton reinholdi n. sp. und andere. Veröffentlichungen des Naturhistorischen Museums Schleusingen, 7, 80–96.
 
@@ -1610,53 +2246,85 @@ Werneburg, R. and Witzmann, F., 2024. The last eryopids: Clamorosaurus and Syndy
 
 Werneburg, R., & Ronchi, A. (2011). First evidence of a branchiosaurid amphibian in France: Apateon dracyensis sp. nov. from the Lower Permian Autun Basin. Bollettino della Società Paleontologica Italiana, 50(2), 163–170.
 
-Werneburg, R., & Steyer, J.-S. (1999). Redescription of the holotype of Actinodon frossardi (Amphibia, Temnospondyli) from the Lower Permian of the Autun Basin (France). Geobios, 32(4), 599–607. doi:10.1016/S0016-6995(99)80009-6
+Werneburg, R., & Steyer, J.-S. (1999). Redescription of the holotype of Actinodon frossardi (Amphibia, Temnospondyli) from the Lower Permian of the Autun Basin (France). Geobios, 32(4), 599–607. https://doi.org/10.1016/S0016-6995(99)80009-6
 
 Werneburg, R., Kogan, I., and Sell, J. (2014). Saurichthys (Pisces: Actinopterygii) aus dem Buntsandstein des Germanischen Beckens. Semana. 29, 3–35.
 
 Werneburg, R., Ronchi, A., Schneider, J. W., et al. (2007). The Early Permian branchiosaurids (Amphibia) of Sardinia (Italy): systematic palaeontology, palaeoecology, biostratigraphy and palaeobiogeographic problems. Palaeogeography, Palaeoclimatology, Palaeoecology, 252(3–4), 383–404. https://doi.org/10.1016/j.palaeo.2007.03.048
 
+Werneburg, R., Spindler, F., Falconnet, J., & Schneider, J. W. (2022). A new caseid synapsid from the Permian (Guadalupian) of the Lodève Basin (Occitanie, France). Fossil Record, 25(2), 357–384. https://doi.org/10.5194/fr-25-357-2022
+
 Werneburg, R., Štamberg, S., and Steyer, J.-S., 2020. A new stereospondylomorph, Korkonerpeton kalnense gen. et sp. nov., from the Lower Permian of the Czech Krkonoše Piedmont Basin and a redescription of Intasuchus silvicola from the lower Permian of Russia (Temnospondyli, Amphibia). Fossil Imprint, 76(2): 217-242. https://doi.org/10.37520/fi.2020.019
 
-Widmann, P., Bucher, H., Leu, M., Vennemann, T., Bagherpour, B., SchneebeliHermann, E., et al. (2020). Dynamics of the largest carbon isotope excursion during the Early Triassic biotic recovery. Front. Earth Sci. 8 (196), 1–16. doi:10. 3389/feart.2020.00196
+Westoll, T. S. (1934). The Permian 'paleoniscoids' of the Marl Slate. Unpublished PhD thesis, University of Durham.
 
-Wignall, P. B., and Newton, R. (2003). Contrasting deep-water records from the upper Permian and Lower Triassic of South Tibet and British Columbia: evidence for a diachronous mass extinction. Palaios. 18, 153–167. doi:10. 1669/0883-1351(2003)18<153:CDRFTU>2.0.CO;2
+Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. Proceedings of the Zoological Society of London B, 111, 39–58.
+
+Whitney, M. R., & Sidor, C. A. (2016). A new therapsid from the Permian Madumabisa Mudstone Formation (Mid-Zambezi Basin) of southern Zambia. Journal of Vertebrate Paleontology, 36(4), e1150767. [https://doi.org/10.1080/02724634.2016.1150767](https://doi.org/10.1080/02724634.2016.1150767)
+
+Widmann, P., Bucher, H., Leu, M., Vennemann, T., Bagherpour, B., SchneebeliHermann, E., et al. (2020). Dynamics of the largest carbon isotope excursion during the Early Triassic biotic recovery. Front. Earth Sci. 8 (196), 1–16. https://doi.org/10 3389/feart.2020.00196
+
+Wignall, P. B., and Newton, R. (2003). Contrasting deep-water records from the upper Permian and Lower Triassic of South Tibet and British Columbia: evidence for a diachronous mass extinction. Palaios. 18, 153–167. https://doi.org/10 1669/0883-1351(2003)18<153:CDRFTU>2.0.CO;2
 
 Wikipedia contributors. (2025). Lueders Formation. In Wikipedia, The Free Encyclopedia. Retrieved October 22, 2025, from https://en.wikipedia.org/wiki/Lueders_Formation Geolex. (2025). Nocona Formation. Retrieved from https://ngmdb.usgs.gov/Geolex/UnitRefs/NoconaRefs_9534.html
 
 Willink, R. J., & Kapitany, T. (2024). The crinoid Jimbacrinus bostocki from the Lower Permian Cundlego Formation near Gascoyne Junction, Western Australia. Alcheringa: An Australasian Journal of Palaeontology, 48(2), 298–312. https://doi.org/10.1080/03115518.2024.2323461
 
+Williston, S. W. (1914). Broiliellus, a new genus of amphibians from the Permian of Texas. Journal of Geology, 22(1), 49–56.
+
+Williston, S. W. (1915). New genera of Permian reptiles. The American Journal of Science, Series 4, 39(233), 575–579.
+
 Williston, S.W., 1910. Cacops, Desmospondylus; new genera of Permian vertebrates. Bulletin of the Geological Society of America, v. 21, p. 249-284.
 
 Wilser, J. L. (1923). Pygopterus crecelii n. sp. aus dem Oberen Buntsandstein bei Karlsruhe i. B. Berichte der Naturforschenden Gesellschaft zu Freiburg i. Br. 23, 68–78
+
+Witzmann, F. (2005). A dissorophid temnospondyl in the Upper Permian Kupferschiefer of Germany. Neues Jahrbuch für Geologie und Paläontologie-Abhandlungen, 237(1), 103-122.
 
 Witzmann, F. (2006). Paleoecology of the Permian branchiosaurid amphibian Apateon from the Saar–Nahe Basin of Germany: developmental stages and community structure. Mitteilungen aus dem Museum für Naturkunde Berlin – Geowissenschaftliche Reihe, 9, 239–252.
 
 Witzmann, F., & Schoch, R. R. (2012). A megalichthyid sarcopterygian fish from the Lower Permian (Autunian) of the Saar–Nahe Basin, Germany. Geobios, 45, 241–248. https://doi.org/10.1016/j.geobios.2011.03.002
 
-Wu, F. X., Sun, Y. L., Xu, G. H., Hao, W. C., Jiang, D. Y., and Sun, Z. Y. (2011). New saurichthyid actinopterygian fishes from the Anisian (Middle Triassic) of southwestern China. Acta Palaeontol. Pol. 56, 581–614. doi:10.4202/app. 2010.0007
+Wu, F. X., Sun, Y. L., Xu, G. H., Hao, W. C., Jiang, D. Y., and Sun, Z. Y. (2011). New saurichthyid actinopterygian fishes from the Anisian (Middle Triassic) of southwestern China. Acta Palaeontol. Pol. 56, 581–614. https://doi.org/10.4202/app 2010.0007
 
-Wu, F., Chang, M. M., Sun, Y., and Xu, G. (2013). A new saurichthyiform (Actinopterygii) with a crushing feeding mechanism from the Middle Triassic of Guizhou (China). PloS One. 8, e81010, doi:10.1371/journal.pone. 0081010
+Wu, F., Chang, M. M., Sun, Y., and Xu, G. (2013). A new saurichthyiform (Actinopterygii) with a crushing feeding mechanism from the Middle Triassic of Guizhou (China). PloS One. 8, e81010, https://doi.org/10.1371/journal.pone 0081010
 
-Wu, F.-X., Sun, Y.-L., Fang, G.-Y., et al. (2018). A new species of Saurichthys from the Middle Triassic (Anisian) of southwestern China. Vertebr. PalAsiat. 56, 273–294. doi:10.19615/j.cnki.1000-3118.071023
+Wu, F.-X., Sun, Y.-L., Fang, G.-Y., et al. (2018). A new species of Saurichthys from the Middle Triassic (Anisian) of southwestern China. Vertebr. PalAsiat. 56, 273–294. https://doi.org/10.19615/j.cnki.1000-3118.071023
 
 Xu, G. H. (2020c). Feroxichthys yunnanensis gen. et sp. nov. (Colobodontidae, Neopterygii), a large durophagous predator from the Middle Triassic (Anisian)
 
-Xu, G., Ma, X., and Ren, Y. (2020). Fuyuanichthys wangi gen. et sp. nov. from the Middle Triassic (Ladinian) of China highlights the early diversification of ginglymodian fishes. PeerJ 6, e6054. doi:10.7717/peerj.6054
+Xu, G., Ma, X., and Ren, Y. (2020). Fuyuanichthys wangi gen. et sp. nov. from the Middle Triassic (Ladinian) of China highlights the early diversification of ginglymodian fishes. PeerJ 6, e6054. https://doi.org/10.7717/peerj.6054
 
-Xu, G.-H. (2020a). A new stem-neopterygian fish from the Middle Triassic (Anisian) of Yunnan, China, with a reassessment of the relationships of early neopterygian clades. Zool. J. Linn. Soc. 1–20. doi:10.1093/zoolinnean/ zlaa053
+Xu, G.-H. (2020a). A new stem-neopterygian fish from the Middle Triassic (Anisian) of Yunnan, China, with a reassessment of the relationships of early neopterygian clades. Zool. J. Linn. Soc. 1–20. https://doi.org/10.1093/zoolinnean/ zlaa053
 
-Xu, G.-H. (2020b). A new species of Luganoia (Luganoiidae, Neopterygii) from the Middle Triassic Xingyi Biota, Guizhou, China. Vertebr. Palasiat. 58, 267–282. doi:10.19615/j.cnki.1000-3118.200624
+Xu, G.-H. (2020b). A new species of Luganoia (Luganoiidae, Neopterygii) from the Middle Triassic Xingyi Biota, Guizhou, China. Vertebr. Palasiat. 58, 267–282. https://doi.org/10.19615/j.cnki.1000-3118.200624
 
 Xu, G.-H., and Shen, C.-C. (2015). Panxianichthys imparilis gen. et sp. nov., a new ionoscopiform (Halecomorphi) from the Middle Triassic of Guizhou, China. Vertebr. Palasiat. 53, 1–15
 
-Xu, G.-H., and Zhao, L.-J. (2016). A Middle Triassic stem-neopterygian fish from China shows remarkable secondary sexual characteristics. Sci. Bull. 61, 338–344. doi:10.1007/s11434-016-1007-0
+Xu, G.-H., and Zhao, L.-J. (2016). A Middle Triassic stem-neopterygian fish from China shows remarkable secondary sexual characteristics. Sci. Bull. 61, 338–344. https://doi.org/10.1007/s11434-016-1007-0
 
 Xu, G.-H., Shen, C.-C., and Zhao, L. J. (2014b). Pteronisculus nielseni sp. nov., a new stem-actinopteran fish from the Middle Triassic of Luoping, Yunnan province, China. Vertebr. Palasiat. 52, 364–380.
 
-Xu, G.-H., Zhao, L. J., and Coates, M. I. (2014a). The oldest ionoscopiform from China sheds new light on the early evolution of halecomorph fishes. Biol. Lett. 10, 20140204. doi:10.1098/rsbl.20140204
+Xu, G.-H., Zhao, L. J., and Coates, M. I. (2014a). The oldest ionoscopiform from China sheds new light on the early evolution of halecomorph fishes. Biol. Lett. 10, 20140204. https://doi.org/10.1098/rsbl.20140204
 
-Zhang, L., Zhao, L., Chen, Z.-Q., Algeo, T. J., Li, Y., and Cao, L. (2015). Amelioration of marine environments at the Smithian-Spathian boundary, Early Triassic. Biogeosciences. 12, 1597–1613. doi:10.5194/bg-12-1597- 2015
+Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). Lithology and Mineral Resources, 35(4), 331-344.
+
+Yang, W., Wan, M., Crowley, J. L., Wang, J., Luo, X., Tabor, N., Angielczyk, K. D., Gastaldo, R., Geissman, J., Liu, F., Roopnarine, P., & Sidor, C. A. (2021). Paleoenvironmental and paleoclimatic evolution and cyclo- and chrono-stratigraphy of upper Permian-lower Triassic fluvial-lacustrine deposits in Bogda Mountains, NW China—implications for diachronous plant evolution across the Permian-Triassic boundary. Earth-Science Reviews, 222, 103741.
+
+Yi, J., & Liu, J. (2020). Pareiasaur and dicynodont fossils from upper Permian of Shouyang, Shanxi, China. Vertebrata PalAsiatica, 58(1), 16–23. [https://doi.org/10.19615/j.cnki.1000-3118.191121](https://doi.org/10.19615/j.cnki.1000-3118.191121)
+
+Yi, J., & Liu, J. (2025). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new mid‐sized pareiasaur *Yinshanosaurus angustus* and its implications for the phylogenetic relationships of pareiasaurs. Papers in Palaeontology, 11(3), e70020. https://doi.org/10.1002/spp2.70020
+
+Yochelson, E. L., & Fraser, G. D. (1973). Interpretation of depositional environment in the Plympton Formation (Permian), southern Pequop Mountains, Nevada, from physical stratigraphy and a faunule. U.S. Geological Survey Journal of Research, 1(1), 19–32.
+
+Young, C. C., & Yeh, H. K. (1963). On a new pareiasaur from the Upper Permian of Shansi, China. Vertebrata PalAsiatica, 7(3), 195–212.
+
+Yuan, P. L., & Young, C. C. (1934a). On the discovery of a new Dicynodon in Sinkiang. Bulletin of the Geological Survey of China, 13, 563–573.
+
+Yuan, P. L., & Young, C. C. (1934b). On the occurrence of Lystrosaurus in Sinkiang. Bulletin of the Geological Survey of China, 13, 575-580.
+
+Zhang, L., Zhao, L., Chen, Z.-Q., Algeo, T. J., Li, Y., and Cao, L. (2015). Amelioration of marine environments at the Smithian-Spathian boundary, Early Triassic. Biogeosciences. 12, 1597–1613. https://doi.org/10.5194/bg-12-1597- 2015
+
+Zhu, Y. (1989). The discovery of dicynodonts in Daqingshan Mountain, Nei Mongol (Inner Mongolia). Vertebrata PalAsiatica, 27(1), 9–27.
 
 Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (2015). The ammonoids from the Zhuganpo Member at Nimaigu and their bearing for dating the Xingyi Fossilagersta¨tte (Middle Triassic, Guizhou, China). Rivista Italiana di Paleontologia e Stratigrafia, 121(2), 135–161.
 
@@ -1664,694 +2332,6 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
 
-
-## to be sorted 
-
-Abubakre, A. O., de Kock, M. O., & others. (2021). Magnetostratigraphic constraints for Early Permian rocks of the southwestern Karoo Basin, South Africa. Gondwana Research, 90, 220–240. https://doi.org/10.1016/j.gr.2020.11.009
-
-Oelofsen, B. W. (1987). The biostratigraphy and fossils of the Whitehill and Irati shale formations of the Karoo and Paraná basins. In G. D. McKenzie (Ed.), Gondwana Six: Stratigraphy, Sedimentology, and Paleontology (pp. 131–147). American Geophysical Union. https://doi.org/10.1029/GM041p0131
-
-Evans, F. J., & Bender, P. A. (1999). The Permian Whitehill Formation (Ecca Group) of South Africa: A preliminary review of palaeoniscoid fishes and taphonomy. Julius‑Maximilians‑Universität Würzburg, 175–178.
-
-Geertsema, H., & van den Heever, J. A. (1996). A new beetle, Afrocupes firmae gen. et sp. nov. (Permocupedidae), from the late Palaeozoic Whitehill Formation of South Africa. South African Journal of Science, 92, 497–499.
-
-Visser, J. N. J. (1992). Deposition of the Early to Late Permian Whitehill Formation during a sea‑level highstand in a juvenile foreland basin. South African Journal of Geology, 95(2), 181–193.
-
-Day, M. O., Ramezani, J., Frazer, R. E., & Rubidge, B. S. (2021). U‑Pb zircon age constraints on the vertebrate assemblages and palaeomagnetic record of the Guadalupian Abrahamskraal Formation, Karoo Basin, South Africa. Journal of African Earth Sciences, 186, 104435. https://doi.org/10.1016/j.jafrearsci.2021.104435
-
-Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the Tapinocephalus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123, 149–164. https://doi.org/10.25131/sajg.123.0012
-
-Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the Eodicynodon Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology, 123, 141–148. https://doi.org/10.25131/sajg.123.0010
-
-Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. South African Journal of Geology, 119(2), 415–424. https://doi.org/10.2113/gssajg.119.2.415
-
-Jirah, S., & Rubidge, B. S. (2014). Refined stratigraphy of the Middle Permian Abrahamskraal Formation (Beaufort Group) in the southern Karoo Basin. Journal of African Earth Sciences, 100, 121–135. https://doi.org/10.1016/j.jafrearsci.2014.06.014
-
-Rubidge, B. S., Day, M. O., & Benoit, J. (2021). New specimen of the enigmatic dicynodont Lanthanostegus mohoii (Therapsida, Anomodontia) from the southwestern Karoo Basin of South Africa, and its implications for Middle Permian biostratigraphy. Frontiers in Earth Science, 9, 668143. https://doi.org/10.3389/feart.2021.668143
-
-Rubidge, B. S., Day, M. O., & Benoit, J. (2023). First record of the rare dicynodont Colobodectes from the southern Karoo Basin of South Africa has implications for middle Permian continental biostratigraphy. Journal of African Earth Sciences, 208, 105097. https://doi.org/10.1016/j.jafrearsci.2023.105097
-
-Botha-Brink, J., & Smith, R. M. H. (2011). Sedimentology and palaeontology of upper Permian to lower Triassic fluvial deposits in the Karoo Basin, South Africa: implications for the terrestrial end-Permian mass extinction. Palaeogeography, Palaeoclimatology, Palaeoecology, 312(1–2), 15–35. https://doi.org/10.1016/j.palaeo.2011.09.003
-
-Catuneanu, O., Wopfner, H., Eriksson, P. G., Cairncross, B., Rubidge, B. S., Smith, R. M. H., & Hancox, P. J. (2005). The Karoo basins of south-central Africa. Journal of African Earth Sciences, 43(1–3), 211–253. https://doi.org/10.1016/j.jafrearsci.2005.07.007
-
-Huttenlocker, A. K., Sidor, C. A., & Angielczyk, K. D. (2011). A new specimen of Promoschorhynchus (Therapsida: Therocephalia) from the Lower Triassic of South Africa and its implications for therocephalian survival across the Permo-Triassic boundary. Journal of Vertebrate Paleontology, 31(2), 385–401. https://doi.org/10.1080/02724634.2011.550358
-
-Kammerer, C. F., Angielczyk, K. D., & Fröbisch, J. (2011). A comprehensive taxonomic revision of Daptocephalus (Therapsida, Dicynodontia). Journal of Systematic Palaeontology, 9(2), 227–242. https://doi.org/10.1080/14772019.2010.499188
-
-Smith, R. M. H., & Botha, J. (2005). The recovery of terrestrial vertebrate diversity in the South African Karoo Basin after the end-Permian extinction. Comptes Rendus Palevol, 4(6–7), 555–568. https://doi.org/10.1016/j.crpv.2005.07.005
-
-Smith, R. M. H., & Ward, P. D. (2001). Pattern of vertebrate extinctions across an event bed at the Permian–Triassic boundary in the Karoo Basin of South Africa. Geology, 29(12), 1147–1150. 
-
-Viglietti, P. A., Angielczyk, K. D., & Smith, R. M. H. (2021). Evidence for rapid, non-uniform recovery of terrestrial ecosystems after the end-Permian mass extinction. Nature Communications, 12, 5929. https://doi.org/10.1038/s41467-021-26157-1
-
-Damiani, R., Sidor, C. A., & Steyer, J. S. (2006). A new temnospondyl from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 26(1), 1-10. https://doi.org/10.1671/0272-4634(2006)26[1:ANTFUT]2.0.CO;2
-
-O’Keefe, F. R., Sidor, C. A., & Steyer, J. S. (2005). The anatomy of Moradisaurus grandis (Reptilia, Procolophonoidea) from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 25(3), 564-576. https://doi.org/10.1671/0272-4634(2005)025[0564:TAOMGR]2.0.CO;2
-
-Sidor, C. A., Damiani, R., & Steyer, J. S. (2003). A new parareptile from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 23(3), 555-567. https://doi.org/10.1671/0272-4634(2003)023[0555:ANPFUT]2.0.CO;2
-
-Sidor, C. A., O'Keefe, F. R., Damiani, R., Steyer, J. S., Smith, R. M., Larsson, H. C., ... & Maga, A. (2005). The vertebrate fauna of the Upper Permian of Niger. II. Nigerpeton ricqlesi (Temnospondyli: Cochleosauridae). Journal of Vertebrate Paleontology, 25(2), 351-364. https://doi.org/10.1671/0272-4634(2005)025[0351:TVFOTU]2.0.CO;2
-
-Smiley, T. M., Sidor, C. A., & O'Keefe, F. R. (2008). A new ?rubidginae (Therapsida: Gorgonopsia) from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 28(2), 583-588. https://doi.org/10.1671/0272-4634(2008)28[583:ANRTGF]2.0.CO;2
-
-Smith, R. M. H., Botha-Brink, J., & Sidor, C. A. (2015). Palaeoenvironmental reconstruction of the Upper Permian Moradi Formation, Niger, based on vertebrate taphonomy and ichnology. Palaeogeography, Palaeoclimatology, Palaeoecology, 426, 1-12. https://doi.org/10.1016/j.palaeo.2015.02.020
-
-Taquet, P. (1969). Les reptiles du gisement de Moradi (Niger). Mémoires du Muséum National d'Histoire Naturelle, Nouvelle Série, Série C, Sciences de la Terre, 16, 1-104.
-
-Tsuji, L. A., Müller, J., & Reisz, R. R. (2013). First record of the parareptile Bunostegos akokanensis from the Upper Permian of Niger. Journal of Vertebrate Paleontology, 33(1), 1-10. https://doi.org/10.1080/02724634.2012.714802
-
-Anderson, J. S., Henrici, A. C., Sumida, S. S., & Martens, T. (2008). Georgenthalia clavinasica, a new genus and species of dissorophoid temnospondyl from the Early Permian of Germany, and the relationships of the family Amphibamidae. Journal of Vertebrate Paleontology, 28(1), 61–75. https://doi.org/10.1671/0272-4634(2008)28[61:GCANGA]2.0.CO;2
-
-Berman, D. S., Henrici, A. C., Sumida, S. S., Hopf, H., & Martens, T. (2000). Lower Permian terrestrial paleoenvironments and vertebrate paleoecology of the Tambach Basin (Thuringia, Central Germany): The upland holy grail. PALAIOS, 15(4), 293–313. https://doi.org/10.2307/3515385
-
-Berman, D. S., Reisz, R. R., Martens, T., & Henrici, A. C. (2001). A new species of Dimetrodon (Synapsida: Sphenacodontidae) from the Lower Permian of Germany records first occurrence of genus outside of North America. Canadian Journal of Earth Sciences, 38(5), 803–812. https://doi.org/10.1139/cjes-38-5-803
-
-Berman, D. S., Henrici, A. C., Kissel, R., Sumida, S. S., & Martens, T. (2004). A new diadectid (Diadectomorpha), Orobates pabsti, from the Early Permian of Central Germany. Bulletin of Carnegie Museum of Natural History, 35, 1–37. https://doi.org/10.2992/0145-9058(2004)35[1:ANDDFO]2.0.CO;2
-
-Berman, D. S., Henrici, A. C., Sumida, S. S., Martens, T., & Anderson, J. S. (2011). Rotaryus gothae, a new trematopid (Temnospondyli: Dissorophoidea) from the Lower Permian of Central Germany. Annals of Carnegie Museum, 80(1), 49–65. https://doi.org/10.2992/007.080.0106
-
-Berman, D. S., Henrici, A. C., & Martens, T. (2014). First European record of a varanodontine (Synapsida: Varanopidae): Member of a unique Early Permian upland paleoecosystem, Tambach Basin, Central Germany. In K. D. Angielczyk & J. Fröbisch (Eds.), Early Evolutionary History of the Synapsida (pp. 69–86). Springer. https://doi.org/10.1007/978-94-007-6841-3_5
-
-Brocklehurst, N., Romano, M., & Fröbisch, J. (2020). Martensius bromackerensis, a new basal caseid synapsid from the Lower Permian of Germany. Palaeontologia Electronica, 23(3), a57. https://doi.org/10.26879/1083
-
-Henrici, A. C., Martens, T., Berman, D. S., & Sumida, S. S. (2011). An ostodolepid 'microsaur' (Lepospondyli) from the Lower Permian Tambach Formation of central Germany. Journal of Vertebrate Paleontology, 31(5), 997–1004. https://doi.org/10.1080/02724634.2011.596601
-
-Lützner, H., Andreas, D., Schneider, J. W., Voigt, S., & Werneburg, R. (2012). Stefan und Rotliegend im Thüringer Wald und seiner Umgebung. In Stratigraphie von Deutschland X. Rotliegend. Teil I: Innervariscische Becken (pp. 418–487). Deutsche Gesellschaft für Geowissenschaften.
-
-Martens, T. (2018). Seymouria sanjuanensis from the Lower Permian of Central Germany. Paläontologische Zeitschrift, 92(2), 181–186. https://doi.org/10.1007/s12542-017-0375-7
-
-Menning, M., Glodny, J., Boy, J., Gast, R., Kowalczyk, G., Martens, T., Rößler, R., Schindler, T., von Seckendorff, V., & Voigt, S. (2022). The Rotliegend in the Stratigraphic Table of Germany 2016 (STG 2016). Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, 173(1), 3–139. https://doi.org/10.1127/zdgg/2022/0311
-
-Müller, J., & Berman, D. S. (2003). First record of a captorhinid reptile from the Lower Permian of Germany. Neues Jahrbuch für Geologie und Paläontologie, Monatshefte, 2003(10), 623–634. https://doi.org/10.1127/njgpm/2003/2003/623
-
-Sumida, S. S., Berman, D. S., & Martens, T. (1998). A new trematopid amphibian from the Lower Permian of central Germany. Palaeontology, 41(4), 605–629. https://doi.org/10.1111/j.1475-4983.1998.tb01405.x
-
-Boy, J. A., Schindler, T., & Wuttke, M. (2012). *Melanerpeton* (Amphibia: Temnospondyli) from the Early Permian of the Saar–Nahe Basin, Germany: Taxonomy, biostratigraphy and palaeoecology. *Palaeobiodiversity and Palaeoenvironments*, *92*(3), 329–347. https://doi.org/10.1007/s12549-012-0085-3
-
-Schoch, R. R., & Witzmann, F. (2009). Osteology and relationships of the temnospondyl genus *Sclerocephalus*. *Zoological Journal of the Linnean Society*, *157*(1), 135–168. https://doi.org/10.1111/j.1096-3642.2009.00535.x
-
-Schindler, T., Poschmann, M., & Brauckmann, C. (2014). Vertebrate and invertebrate fossils from the Lower Permian Meisenheim Formation (Saar–Nahe Basin, SW Germany): New data on the Obermoschel locality. *Palaeobiodiversity and Palaeoenvironments*, *94*(2), 205–226. https://doi.org/10.1007/s12549-013-0142-3
-
-Voigt, S., Schneider, J. W., & Schindler, T. (2022). Stratigraphy and geochronology of the Lower Permian Saar–Nahe Basin (SW Germany): Implications for the Permian timescale. *Newsletters on Stratigraphy*, *55*(1), 1–28. https://doi.org/10.1127/nos/2021/0621
-
-Brignon, R. (2019). A review of the Lower Permian actinopterygian fish genus *Aeduella* Agassiz, 1833, from France and Germany. *Journal of Systematic Palaeontology*, *17*(15), 1287–1312. https://doi.org/10.1080/14772019.2018.1508063
-
-Falconnet, J. (2012). *Belebey augustodunensis* n. sp., a new parareptile (Acleistorhinidae) from the Lower Permian of France. *Comptes Rendus Palevol*, *11*(7), 493–500. https://doi.org/10.1016/j.crpv.2012.05.003
-
-Feys, J. (1991). Les dépôts continentaux permien inférieur du Bassin d'Autun (Massif Central, France). *Annales de la Société Géologique de Belgique*, *114*(1–2), 237–254.
-
-Gand, G., Steyer, J.-S., Chabard, J., Pellenard, P., Diez, J. B., Fechner, R., & Broutin, J. (2007). The continental "Autunian" succession of the Autun Basin (France): a multidisciplinary approach to the Carboniferous-Permian boundary. *Comptes Rendus Palevol*, *6*(3), 177–192. https://doi.org/10.1016/j.crpv.2006.11.003
-
-Gaudry, A. (1888). *Notice explicative de la carte géologique de la France au 1/50.000e, feuille d'Autun*. Notes et Mémoires du Bureau de Recherches Géologiques et Minières.
-
-Henderson, C. M. (2018). Global standard for the Asselian Stage (Lower Permian). *Episodes*, *41*(1), 41–52. https://doi.org/10.18814/epiiugs/2018/010016
-
-Heyler, D. (1957). Contribution à l'étude des amphibiens carboniféro-permiens de France. *Annales de Paléontologie*, *43*, 213–272.
-
-Heyler, D. (1969). *Vertebrata*. In *Rapport sur la carte géologique de la France, Mémoire 52, Bassin d'Autun*. BRGM.
-
-Luccisano, V., Pradel, A., Amiot, R., Gand, G., Steyer, J.-S., & Cuny, G. (2021). A new *Triodus* shark species (Xenacanthidae, Xenacanthiformes) from the lowermost Permian of France and its paleobiogeographic implications. *Journal of Vertebrate Paleontology*, *41*(2), e1926470. https://doi.org/10.1080/02724634.2021.1926470
-
-Pellenard, P., Gand, G., Juncal, M. A., Diez, J. B., Steyer, J.-S., Broutin, J., & Rodriguez-Barreiro, I. (2017). High-precision geochronology of the continental Carboniferous-Permian boundary in the French Massif Central. *Geology*, *45*(9), 835–838. https://doi.org/10.1130/G39078.1
-
-Schneider, J. W., Werneburg, I., & Steyer, J.-S. (in press). A review of the Westphalian–Early Permian tetrapod faunas of Western and Central Europe. In M. J. Benton, O. R. Addo-Bediako, & J. A. Harris (Eds.), *Tetrapods and Rhynchosaurs: A Memorial Volume to James M. Clark*. Geological Society of America Special Paper.
-
-Gervais, P. (1858). *Zoologie et Paléontologie Françaises (Deuxième Édition)*. Arthus Bertrand.
-
-Werneburg, R., Spindler, F., Falconnet, J., & Schneider, J. W. (2022). A new caseid synapsid from the Permian (Guadalupian) of the Lodève Basin (Occitanie, France). *Fossil Record*, *25*(2), 357–384. https://doi.org/10.5194/fr-25-357-2022
-
-Bulanov, Y. V., Kurochkin, E. N., & Bolkhovitinov, Y. A. (2022). New parareptiles (Parareptilia, Bolosauridae) from the Upper Kazanian Stage of the East European Platform. *Paleontological Journal*, *56*(1), 1–13. https://doi.org/10.1134/S003103012201004X
-
-Ivakhnenko, M. F., Tverdokhlebova, G. I., & Lozovski, V. Z. (1997). Tetrapod fauna of the Tatarian deposits of the Uralian Foreland. *Trudy Paleontologicheskogo Instituta, Akademiya Nauk SSSR*, *279*, 1–296.
-
-Lozovsky, V. Z. (2005). Late Permian tetrapods of Russia. *Journal of Asian Earth Sciences*, *25*(2), 247–263. https://doi.org/10.1016/j.jseaes.2004.06.013
-
-Reisz, R. R., Müller, J., Tsuji, L., & Scott, D. (2007). The cranial osteology of *Belebey vegrandis* (Parareptilia: Bolosauridae), from the Middle Permian of Russia, and its bearing on reptilian evolution. *Zoological Journal of the Linnean Society*, *151*(1), 191–214. https://doi.org/10.1111/j.1096-3642.2007.00287.x
-
-Tverdokhlebov, V. P., Tverdokhlebova, G. I., & Ivakhnenko, M. F. (2005). Upper Permian vertebrates and their sedimentological context in the South Urals, Russia. *Earth-Science Reviews*, *69*(1–2), 27–77. https://doi.org/10.1016/j.earscirev.2004.09.001
-
-Araújo, E. V., Rodrigues, F. S., de Miranda, T. S., & de Carvalho, M. S. S. (2016). Facies analysis and depositional model of the Permian Pedra de Fogo Formation, Parnaíba Basin, Brazil. *Journal of South American Earth Sciences*, 68, 113-132. https://doi.org/10.1016/j.jsames.2016.03.002
-
-Cisneros, J. C., Marsicano, C., Angielczyk, K. D., Smith, R. M. H., Richter, M., Fröbisch, J., Kammerer, C. F., & Sadleir, R. W. (2015). New Permian fauna from tropical Gondwana. *Nature Communications*, 6(1), 8676. https://doi.org/10.1038/ncomms9676
-
-Cisneros, J. C., Angielczyk, K. D., Kammerer, C. F., Smith, R. M. H., Fröbisch, J., Marsicano, C. A., & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Parnaíba Basin, northeastern Brazil. *PeerJ*, 8, e8719. https://doi.org/10.7717/peerj.8719
-
-Cox, C. B., & Hutchinson, P. (1991). Fishes and amphibians from the Late Permian Pedra De Fogo Formation of Northern Brazil. *Palaeontology*, 34(3), 561–573.
-
-Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. *Journal of South American Earth Sciences*, 80, 42-51. https://doi.org/10.1016/j.jsames.2017.09.010
-
-Iannuzzi, R., Rohn, R., & Lemos, V. B. (2018). The Parnaíba Basin: a window into the Permian of palaeotropical western Pangaea. In: Linol, B., de Wit, M.J. (Eds.), *Origin and Evolution of the Cape Mountains and Karoo Basin*. Regional Geology Reviews. Springer, Cham. pp. 233–263. https://doi.org/10.1007/978-3-319-40859-0_14
-
-Plummer, F. B. (1948). Relatório do Conselho Nacional do Petróleo de 1946. Rio de Janeiro, pp. 87-134.
-
-Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 9. A new species of *Gansurhinus* (Reptilia: Captorhinidae) and a revision of Chinese captorhinids. *Journal of Vertebrate Paleontology*, *42*(5), e2203200. https://doi.org/10.1080/02724634.2023.2203200
-
-Liu, J., & Abdala, F. (2022). The emblematic South African therocephalian *Euchambersia* in China: a new link in the dispersal of late Permian vertebrates across Pangea. *Biology Letters*, *18*(7), 20220222. https://doi.org/10.1098/rsbl.2022.0222
-
-Liu, J., & Chen, J. (2021). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 7. *Laosuchus hun* sp. nov. (Chroniosuchia) and interrelationships of chroniosuchians. *Journal of Systematic Palaeontology*, *18*(24), 2043–2058. https://doi.org/10.1080/14772019.2021.1873435
-
-Liu, J. (2021). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 6. *Turfanodon jiufengensis* sp. nov. (Dicynodontia). *PeerJ*, *9*, e10854. https://doi.org/10.7717/peerj.10854
-
-Liu, J., & Abdala, F. (2020). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 5. *Caodeyao liuyufengi* gen. et sp. nov., a new peculiar therocephalian. *PeerJ*, *8*, e9160. https://doi.org/10.7717/peerj.9160
-
-Liu, J., & Abdala, F. (2019). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 3. *Jiufengia jiai* gen. et sp. nov., a large akidnognathid therocephalian. *PeerJ*, *7*, e6463. https://doi.org/1s/peerj.6463
-
-Liu, J., & Bever, G. S. (2018). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new species of *Elginia* (Parareptilia, Pareiasauria). *Papers in Palaeontology*, *4*(2), 197–209. https://doi.org/10.1002/spp2.1105
-
-Liu, J., & Abdala, F. (2017). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 1. *Shiguaignathus wangi* gen. et sp. nov., the first akidnognathid therocephalian from China. *PeerJ*, *5*, e4150. https://doi.org/10.7717/peerj.4150
-
-Liu, J., & Li, L. (2013). Large Tetrapod Burrows from the Permian Naobaogou Formation of the Daqingshan Area, Nei Mongol, China. *Acta Geologica Sinica (English Edition)*, *87*(6), 1533–1538. https://doi.org/10.1111/1755-6724.12154
-
-Shi, Y., & Liu, J. (2023). The tetrapod fauna of the upper Permian Naobaogou Formation of China: 10. *Jimusaria monanensis* sp. nov. (Dicynodontia) shows a unique epipterygoid. *PeerJ*, *11*, e15783. https://doi.org/10.7717/peerj.15783
-
-Yi, J., & Liu, J. (2025). The tetrapod fauna of the upper Permian Naobaogou Formation of China: a new mid‐sized pareiasaur *Yinshanosaurus angustus* and its implications for the phylogenetic relationships of pareiasaurs. *Papers in Palaeontology*, *11*(3), e70020. https://doi.org/10.1002/spp2.70020
-
-Zhu, Y. (1989). The discovery of dicynodonts in Daqingshan Mountain, Nei Mongol (Inner Mongolia). *Vertebrata PalAsiatica*, *27*(1), 9–27.
-
-Duhamel, A., Benoit, J., Rubidge, B. S., & Liu, J. (2021). A re-assessment of the oldest therapsid Raranimus confirms its status as a basal member of the clade and fills Olson's gap. *The Science of Nature*, *108*(4), 26. [https://doi.org/10.1007/s00114-021-01736-y](https://doi.org/10.1007/s00114-021-01736-y)
-
-Li, J. L., & Cheng, Z. W. (1999). New anthracosaur and temnospondyl amphibians from Gansu, China – the Fifth Report on Late Permian Dashankou lower tetrapod fauna. *Vertebrata Palasiatica*, *37*(3), 234–247.
-
-Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian origin for therapsids. *Acta Palaeontologica Polonica*, *54*(3), 393-400. [https://doi.org/10.4202/app.2008.0071](https://www.google.com/search?q=https://doi.org/10.4202/app.2008.0071)
-
-Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. *Vertebrata PalAsiatica*, *50*(4), 373-381.
-
-Reisz, R. R., Liu, J., Li, J. L., & Müller, J. (2011). A new captorhinid reptile, *Gansurhinus qingtoushanensis*, gen. et sp. nov., from the Permian of China. *Naturwissenschaften*, *98*(5), 435-441. [https://doi.org/10.1007/s00114-011-0793-0](https://doi.org/10.1007/s00114-011-0793-0)
-
-Chen, J., & Liu, J. (2024). Early Permian tetrapod footprints from Beijing, China, reveal the oldest record of amniotes from East Pangea. *National Science Review*, *11*(10), nwae249. [https://doi.org/10.1093/nsr/nwae249](https://www.google.com/search?q=https://doi.org/10.1093/nsr/nwae249)
-
-Cheng, Z., & Ji, S. (1996). First record of a primitive anteosaurid dinocephalian from the Upper Permian of Gansu, China. *Vertebrata PalAsiatica*, *34*(2), 123–134.
-
-Cheng, Z., & Li, J. (1997). A new genus of primitive dinocephalian - the third report on Late Permian Dashankou lower tetrapod fauna. *Vertebrata PalAsiatica*, *35*(1), 35–43.
-
-Li, J., & Cheng, Z. (1997). First discovery of eotitanosuchian (Therapsida, Synapsida) of China. *Vertebrata PalAsiatica*, *35*(4), 268–282.
-
-Li, J., & Cheng, Z. (1999). New anthracosaur and temnospondyl amphibians from Gansu, China—the fifth report on Late Permian Dashankou lower tetrapod fauna. *Vertebrata PalAsiatica*, *37*(3), 234–247.
-
-Liu, J., Rubidge, B., & Li, J. (2009). New basal synapsid supports Laurasian origin for therapsids. *Acta Palaeontologica Polonica*, *54*(3), 393–400. [https://doi.org/10.4202/app.2008.0071](https://www.google.com/search?q=https://doi.org/10.4202/app.2008.0071)
-
-Liu, J., Shang, Q. H., Sun, K. Q., & Li, L. (2012). The horizon of Dashankou Fauna and the Permo-Triassic strata in northern Qilian area, China. *Vertebrata PalAsiatica*, *50*(4), 373–381.
-
-Müller, J., Li, J. L., & Reisz, R. R. (2008). A new bolosaurid parareptile, *Belebey chengi* sp. nov., from the Middle Permian of China and its paleogeographic significance. *Naturwissenschaften*, *95*(12), 1169–1174. [https://doi.org/10.1007/s00114-008-0438-0](https://doi.org/10.1007/s00114-008-0438-0)
-
-Kammerer, C. F., Bandyopadhyay, S., & Ray, S. (2016). A new taxon of cistecephalid dicynodont from the upper Permian Kundaram Formation of India. *Papers in Palaeontology*, *2*(4), 569–584. [https://doi.org/10.1002/spp2.1055](https://doi.org/10.1002/spp2.1055)
-
-Ray, S. (1997). Some contributions to the Lower Gondwana stratigraphy of the Pranhita-Godavari valley, Deccan India. *Journal of the Geological Society of India*, *50*(5), 633-640.
-
-Ray, S., & Bandyopadhyay, S. (2003). Late Permian vertebrate community of the Pranhita–Godavari valley, India. *Journal of Asian Earth Sciences*, *21*(6), 643–654. [https://doi.org/10.1016/S1367-9120(02)00050-0](https://doi.org/10.1016/S1367-9120\(02\)00050-0)
-
-Reisz, R. R., Chatterjee, S., & Modesto, S. P. (2024). A new moradisaurine captorhinid reptile (Amniota: Eureptilia) from the upper Permian of India. *PeerJ*, *12*, e18394. [https://doi.org/10.7717/peerj.18394](https://www.google.com/search?q=https://doi.org/10.7717/peerj.18394)
-
-Avanzini, M., Neri, C., Nicosia, U., & Conti, M. A. (2008). A new Early Permian vertebrate ichnofauna from the Luco Basin (M.te Luco, Southern Alps, Italy). *Studi Trentini di Scienze Naturali, Acta Geologica*, *83*, 231-236.
-
-Barth, S., & Mohr, B. A. R. (1994). Palynostratigraphically determined age of the Tregiovo sedimentary complex in relation to radiometric emplacement ages of the Atesina volcanic complex (Permian, Southern Alps, N-Italy). *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen*, 192(2), 273-292.
-
-Marchetti, L., Forte, G., Bernardi, M., Wappler, T., Hartkopf-Fröder, C., Krainer, K., & Kustatscher, E. (2015). Reconstruction of a Late Cisuralian (Early Permian) floodplain lake environment: Palaeontology and sedimentology of the Tregiovo Basin (Trentino-Alto Adige, Northern Italy). *Palaeogeography, Palaeoclimatology, Palaeoecology*, *440*, 510-529. [https://doi.org/10.1016/j.palaeo.2015.08.021](https://doi.org/10.1016/j.palaeo.2015.08.021)
-
-Ceoloni, P., Conti, M.A., Mariotti, N., & Nicosia, U. (1988). New Late Permian tetrapod footprints from ic and palaeoenvironmental meaning. *Palaeontographia Italica*, *70*, 1–91.
-
-Leonardi, G., Conti, M.A., Leonardi, P., Mariotti, N., & Nicosia, U. (1975). *Pachypes dolomiticus* n. gen. n. sp.; Pareiasaur footprint from the "Arenaria di Val Gardena" (Middle Permian) in the Western Dolomites (N. Italy). *Atti della Accademia Nazionale dei Lincei. Rendiconti. Classe di Scienze Fisiche, Matematiche e Naturali*, Serie 8, *57*, 221-232.
-
-Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints in the Venetian Prealps (Italy): new discoveries in a largely incomplete panorama. *Acta Palaeontologica Polonica*, *62*(4), 801-817.
-
-Marchetti, L., Citton, P., Bernardi, M., Buono, G., Carluccio, R., Ciferri, G. D., Francischini, H., Forte, G., Girardi, S., Gliozzi, E., Kustatscher, E., Petti, F. M., Romano, M., Santi, G., Schirolli, P., Spalluto, L., & Nicosia, U. (2020). The Lopingian tetrapod ichnoassociation from Italy, a key for the understanding of low-latitude faunas before the end-Permian crisis. *Journal of Mediterranean Earth Sciences*, *12*, 61-81.
-
-Massari, F., Conti, M. A., Fontana, D., Helmold, K., Mariotti, N., Neri, C., Nicosia, U., Ori, G. G., Pasini, M., & Pittau, P. (1988). The Val Gardena Sandstone and Bellerophon Formation in the Bletterbach gorge (Alto Adige, Italy): biostratigraphy and sedimentology. *Memorie di Scienze Geologiche*, *40*, 229-273.
-
-Fay, R. O. (1962). Stratigraphy and general geology of Blaine County. In *Geology and mineral resources of Blaine County, Oklahoma*. Oklahoma Geological Survey, Bulletin 89, 12-99.
-
-Lucas, S. G., et al. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. *Bulletin de la Société Géologique de France*, *193*(10), 1-23. [https://doi.org/10.1051/bsgf/2022012](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022012)
-
-Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. *Oklahoma Geological Survey, Circular 70*, 1-90.
-
-Olson, E. C., & Barghusen, H. (1962). Permian vertebrates from Oklahoma and Texas. Part I.—Vertebrates from the Flowerpot Formation, Permian of Oklahoma. *Oklahoma Geological Survey, Circular 59*, 5-48.
-
-Chorn, J. (1978). Helicoprion (Elasmobranchii, Edestidae) from the Bone Spring Formation (Lower Permian) of West Texas. *University of Kansas Paleontological Contributions*, Paper 89, 1-12.
-
-Clifton, R. L. (1945). Permian Word Formation: Its Faunal and Stratigraphic Correlatives, Texas. *AAPG Bulletin*, *29*(12), 1766-1776.
-
-Cooper, G. A., & Grant, R. E. (1964). New Permian stratigraphic units in Glass Mountains, West Texas. *American Association of Petroleum Geologists Bulletin*, *48*(9), 1581-1588.
-
-Kelly, M. A., & Zangerl, R. (1976). Helicoprion (Edestidae) in the Permian of West Texas. *Journal of Paleontology*, *50*(5), 992-994.
-
-King, R. E. (1931). The Geology of the Glass Mountains, Texas, Part II, Faunal summary and correlation of the Permian formations with description of Brachiopoda. *The University of Texas Bulletin*, 3042, 1-245.
-
-Gee, B. M., Scott, D., & Reisz, R. R. (2018). Reappraisal of the Permian dissorophid Fayella chickashaensis. *Canadian Journal of Earth Sciences*, *55*(10), 1103–1114. [https://doi.org/10.1139/cjes-2018-0053](https://www.google.com/search?q=https://doi.org/10.1139/cjes-2018-0053)
-
-Gould, C. N. (1924). A new classification of the Permian redbeds of southwestern Oklahoma. *American Association of Petroleum Geologists Bulletin*, *8*(3), 322–341.
-
-Laurin, M., & Hook, R. W. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. *BSGF - Earth Sciences Bulletin*, *193*, 10. [https://doi.org/10.1051/bsgf/2022007](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022007)
-
-Olson, E. C. (1965). New Permian vertebrates from the Chickasha Formation in Oklahoma. *Oklahoma Geological Survey Circular*, *70*, 1–70.
-
-Olson, E. C. (1972). Diplocaulus parvus n. sp. (Amphibia: Nectridea) from the Chickasha Formation (Permian: Guadalupian) of Oklahoma. *Journal of Paleontology*, *46*(5), 656–659.
-
-Reisz, R. R., & Laurin, M. (2004). A reevaluation of the enigmatic Permian synapsid Watongia and of its stratigraphic significance. *Canadian Journal of Earth Sciences*, *41*(4), 377–386. [https://doi.org/10.1139/e04-016](https://www.google.com/search?q=https://doi.org/10.1139/e04-016)
-
-Angielczyk, K. D., Benoit, J., & Rubidge, B. S. (2019). A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper Permian upper Madumabisa Mudstone Formation, Luangwa Basin, Zambia. *Papers in Palaeontology*, *7*(1), 405–446. [https://doi.org/10.1002/spp2.1285](https://doi.org/10.1002/spp2.1285)
-
-Jenkins, X. A., Browning, C., Choiniere, J., & Peecook, B. R. (2025). A new moradisaurine captorhinid from the Upper Permian (Lopingian) upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. *Journal of Vertebrate Paleontology*. [https://doi.org/10.1080/02724634.2024.2427529](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2427529)
-
-Olroyd, S. L., Sidor, C. A., & Angielczyk, K. D. (2018). New materials of the enigmatic dicynodont *Abajudon kaayai* (Therapsida, Anomodontia) from the lower Madumabisa Mudstone Formation, middle Permian of Zambia. *Journal of Vertebrate Paleontology*, *37*(6), e1403442. [https://doi.org/10.1080/02724634.2017.1403442](https://doi.org/10.1080/02724634.2017.1403442)
-
-Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). Successive assemblages of upper Permian vertebrates in the upper Madumabisa Mudstone Formation of the Luangwa Basin, Zambia. *Journal of Vertebrate Paleontology*, *45*(1, supplement), 234–257. [https://doi.org/10.1080/02724634.2025.2486065](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2025.2486065)
-
-Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burnetiamorph From Zambia Confirms Exceptional Levels of Endemism in Burnetiamorpha (Therapsida: Biarmosuchia) and an Updated Paleoenvironmental Interpretation of the Upper Madumabisa Mudstone Formation. *Frontiers in Ecology and Evolution*, *9*, 685244. [https://doi.org/10.3389/fevo.2021.685244](https://doi.org/10.3389/fevo.2021.685244)
-
-Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of *Rhineceps* from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. *Journal of Vertebrate Paleontology*. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
-
-Angielczyk, K. D., & Otoo, B. K. A. (2025). A new cryptodont dicynodont (Therapsida, Anomodontia) from the Lopingian Usili Formation, Ruhuhu Basin, Tanzania. *Journal of Vertebrate Paleontology*, *45*(sup1), 2441898. [https://doi.org/10.1080/02724634.2024.2441898](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2441898)
-
-Angielczyk, K. D., Steyer, J-S., Sidor, C. A., Smith, R. M. H., Whatley, R. L., & Tolan, S. (2014). Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fröbisch (Eds.), *Early Evolutionary History of the Synapsida* (pp. 93–138). Springer.
-
-Kammerer, C. F. (2019). Revision of the Tanzanian dicynodont *Dicynodon huenei* (Therapsida: Anomodontia) from the Permian Usili Formation. *PeerJ*, *7*, e7420. [https://doi.org/10.7717/peerj.7420](https://doi.org/10.7717/peerj.7420)
-
-Peecook, B. R., Sidor, C. A., Mcintosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). A diverse conglomerate-hosted fossil tetrapod assemblage occurs in a $\sim 4$ m-thick interval at the base of the upper Permian Usili Formation in the Ruhuhu Basin, Tanzania. *Journal of Vertebrate Paleontology*, *45*(sp1), 234–257. [https://doi.org/10.1080/02724634.2025.2466442](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2025.2466442)
-
-Shipps, B. K., Sidor, C. A., & Angielczyk, K. D. (2025). *$Dicynodontoides$ $kubwa$*, sp. nov. (Synapsida: Anomodontia), a new large emydopoid from the base of the Usili Formation (Ruhuhu Basin, Tanzania). *Journal of Vertebrate Paleontology*, *45*(sup1), 2440112. [https://doi.org/10.1080/02724634.2024.2440112](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2024.2440112)
-
-Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2010). Tetrapod fauna of the lowermost Usili Formation (Songea Group, Ruhuhu Basin) of southern Tanzania, with a new burnetiid record. *Journal of Vertebrate Paleontology*, *30*(3), 696–703. [https://doi.org/10.1080/02724631003758086](https://doi.org/10.1080/02724631003758086)
-
-Angiolini, L., & Bucher, H. (1999). Taxonomy and quantitative biochronology of Guadalupian brachiopods from the Khuff Formation, Southeastern Oman. *Geobios*, *32*(5), 665–699. [https://doi.org/10.1016/S0016-6995(99)80057-6](https://doi.org/10.1016/S0016-6995(99)80057-6)
-
-Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *191*(3–4), 269–300. [https://doi.org/10.1016/s0031-0182(02)00668-5](https://doi.org/10.1016/s0031-0182(02)00668-5)
-
-Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
-
-Alves, Y. M. (2010). Report on the Upper Permian and Lower Cretaceous fossiliferous localities vertebrates-bearing in the central- north of Tocantins State, Brazil. *Brazilian Geographical Journal: Geosciences and Humanities research medium*, *1*(2), 372-386.
-
-Alves, Y. M., Gama Junior, J. M., & Cupello, C. (2021). Palaeoniscoid remains from the Lower Permian Pedra de Fogo Formation (Parnaíba Basin): insights from general morphology and histology. *Historical Biology*, *33*(9), 1933–1943. [https://doi.org/10.1080/08912963.2020.1754815](https://doi.org/10.1080/08912963.2020.1754815)
-
-Cisneros, J. C., Angielczyk, K., Kammerer, C. F., Smith, R. M. H., Fröbisch, J., Marsicano, C. A., & Richter, M. (2020). Captorhinid reptiles from the lower Permian Pedra de Fogo Formation, Piauí, Brazil: the earliest herbivorous tetrapods in Gondwana. *PeerJ*, *8*, e8719. [https://doi.org/10.7717/peerj.8719](https://doi.org/10.7717/peerj.8719)
-
-Cox, C. B., & Hutchinson, P. (1991). Fishes and amphibians from the Pedra de Fogo Formation of Northern Brazil. *Palaeontology*, *34*(3), 561-573.
-
-Figueroa, R. T., & Gallo, V. (2017). New chondrichthyan fin spines from the Pedra de Fogo Formation, Brazil. *Journal of South American Earth Sciences*, *76*, 389–396. [https://doi.org/10.1016/j.jsames.2017.03.015](https://www.google.com/search?q=https://doi.org/10.1016/j.jsames.2017.03.015)
-
-Figueroa, R. T., Friedman, M., & Gallo, V. (2019). Cranial anatomy of the predatory actinopterygian *Brazilichthys macrognathus* from the Permian (Cisuralian) Pedra de Fogo Formation, Parnaíba Basin, Brazil. *Journal of Vertebrate Paleontology*, *39*(3), e1639722. [https://doi.org/10.1080/02724634.2019.1639722](https://doi.org/10.1080/02724634.2019.1639722)
-
-Iannuzzi, R., Neregato, R., Cisneros, J. C., Angielczyk, K. D., Rößler, R., Rohn, R., Marsicano, C., Fröbisch, J., Fairchild, T., Smith, R. M. H., Kurzawe, F., Richter, M., Langer, M. C., Tavares, T. M. V., Kammerer, C. F., Conceição, D. M., Pardo, J. D., & Roesler, G. (2018). Re-evaluation of the Permian macrofossils from the Parnaíba Basin: Biostratigraphic, palaeoenvironmental and palaeogeographical implications. *Geological Society, London, Special Publications*, *472*(1), 313-354. [https://doi.org/10.1144/sp472.14](https://www.google.com/search?q=https://doi.org/10.1144/sp472.14)
-
-Marsicano, C., Angielczyk, K. D., Cisneros, J. C., Richter, M., Adeo, S., Abdala, F., & Smith, R. (2021). Brazilian Permian Dvinosaurs (Amphibia, Temnospondyli): Revised Description and Phylogeny. *Journal of Vertebrate Paleontology*, *41*(1), e1893181. [https://doi.org/10.1080/02724634.2021.1893181](https://doi.org/10.1080/02724634.2021.1893181)
-
-Price, L. I. (1948). *Um anfíbio labirintodonte da Formação Pedra de Fogo, Estado do Maranhão*. (Boletim No. 124). Ministério da Agricultura, Departamento Nacional da Produção Mineral, Divisão de Geologia e Mineralogia.
-
-Berruti, G. (1970). Osservazioni biostratigrafiche sulle formazioni continentali pre-quaternarie delle Valli Trompia e Sabbia. II. Sulla fauna fossile della Formazione di Collio (Alta Val Trompia). *«Natura Bresciana» Annali del Museo Civico di Storia Naturale di Brescia*. 
-
-Cadel, G. (1986). Geology and uranium mineralization of the Collio basin (central Southern Alps, Italy). *Uranium*, *2*, 215–240. 
-
-Cassinis, G. (1966). La Formazione di Collio nell'area-tipo dell'alta Val Trompia (Permiano inferiore bresciano). *Rivista Italiana di Paleontologia e Stratigrafia*. 
-
-Cassinis, G., & Doubinger, J. (1992). Artinskian to Ufimian palynomorph assemblages from the Central Southern Alps, Italy and their regional stratigraphic implications. In: *Contribution to Eurasian Geology. International* (pp. 9–18). 
-
-Ceoloni, P., Conti, M. A., Mariotti, N., Mietto, P., & Nicosia, U. (1987). Tetrapod footprints from Collio Formation (Lombardy, Northern Italy). *Memorie di Scienze Geologiche Padova*, *39*, 213–233. 
-
-Ronchi, A., & Santi, G. (2003). Non-marine biota from the Lower Permian of the central Southern Alps (Orobic and Collio basins, N Italy): a key to the paleoenvironment. *Geobios*, *36*(6), 749–760. 
-
-Santi, G. (2005). Lower Permian environmental changes proved by ichnofaunal evidence in the Collio Formation transition of the South Alpine region (North Italy). *Memoir of the Fukui Prefectural Dinosaur Museum*. 
-
-Santi, G., & Krieger, C. (2001). Lower Permian tetrapod footprints from Brembana Valley – Orobic Basin- (Lombardy, Northern Italy). *Revue de Paléobiologie*, *20*(1), 45-68. 
-
-Schaltegger, U., & Brack, P. (1999). Radiometric age constraints on the formation of the Collio Basin (Brescian Prealps). In: Cassinis G., et al. (coords), *Stratigraphy and facies of the Permian deposits between eastern Lombardy and the western Dolomites. Field trip guide-book Inter. Congr. on: “The continental Permian of the Southern Alps and Sardinia (Italy)”*. (p. 71). 
-
-Silantiev, V., Marchetti, L., Ronchi, A., Schirolli, P., Scholze, F. & Urazaeva, M. (2022). Permian non-marine bivalves from the Collio and Guncina formations (Southern Alps, Italy): revised biostratigraphy and palaeobiogeography. *Rivista Italiana di Paleontologia e Stratigrafia*, *128*(1), 43-67. [https://doi.org/10.54103/2039-4942/17050]
-
-Bissell, H. J. (1964). Patterns of sedimentation in Pennsylvanian and Permian strata of part of the eastern Great Basin. *In* D. F. Merriam (Ed.), *Symposium on cyclic sedimentation*. Kansas Geological Survey Bulletin 169, 43–56. 
-
-Larson, E. R., & Scott, J. B. (1955). Helicoprion from Elko County, Nevada. *Journal of Paleontology*, *29*(5), 918–919. 
-
-Lucas, S. G., & Orchard, M. J. (2007). Triassic lithostratigraphy and biostratigraphy north of Currie, Elko County, Nevada. *In* S. G. Lucas & J. A. Spielmann (Eds.), *Triassic of the American West*. New Mexico Museum of Natural History and Science Bulletin 40, 119–126. 
-
-Romano, C., Jenks, J. F., Jattiot, R., Scheyer, T. M., Bylund, K. G., & Bucher, H. (2017). Marine Early Triassic Actinopterygii from Elko County (Nevada, USA): implications for the Smithian equatorial vertebrate eclipse. *Journal of Paleontology*, *91*(5), 1025–1046. [https://doi.org/10.1017/jpa.2017.36](https://doi.org/10.1017/jpa.2017.36) 
-
-Wardlaw, B. R. (1977). *Biostratigraphy and paleoecology of the Gerster Limestone (Permian) in Nevada and Utah*. U.S. Geological Survey Open-File Report 77-470, 125 p. 
-
-Wardlaw, B. R., & Collinson, J. W. (1977). *Biostratigraphic zonation of the Park City Group*. U.S. Geological Survey Open-File Report 77-853, 15 p. 
-
-Yochelson, E. L., & Fraser, G. D. (1973). Interpretation of depositional environment in the Plympton Formation (Permian), southern Pequop Mountains, Nevada, from physical stratigraphy and a faunule. *U.S. Geological Survey Journal of Research*, *1*(1), 19–32.
-
-Bordy, E. M., Smith, R. M. H., Choiniere, J. N., & Rubidge, B. S. (2023). Selected Karoo geoheritage sites of palaeontological significance in South Africa and Lesotho. *Geological Society, London, Special Publications*, *543*, 431–446. [https://doi.org/10.1144/SP543-2022-202](https://www.google.com/search?q=https://doi.org/10.1144/SP543-2022-202) 
-
-Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. *South African Journal of Geology*, *119*(2), 415-424. [https://doi.org/10.2113/gssajg.119.2.415](https://doi.org/10.2113/gssajg.119.2.415) 
-
-Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 149–164. [https://doi.org/10.25131/sajg.123.0012](https://doi.org/10.25131/sajg.123.0012) 
-
-Ronchi, A., Marchetti, L., Klein, H., & Groenewald, G. H. (2023). A Middle Permian Oasis for Vertebrate and Invertebrate Life in a High-Energy Fluvial Palaeoecosystem of Southern Gondwana (Karoo, Republic of South Africa). *Geosciences*, *13*(11), 325. [https://doi.org/10.3390/geosciences13110325](https://doi.org/10.3390/geosciences13110325) 
-
-Azevedo, K. L., Schemiko, D. C. B., Soares, M. B., Vega, C. S., & Vesely, F. F. (2018). The São Jerônimo da Serra Site, Rio do Rasto Formation (Middle/Upper Permian), Paraná Basin, Brazil: faciological and taphonomic context. *Brazilian Journal of Geology*, *48*(4), 821-837. [https://doi.org/10.1590/2317-4889201820170129](https://doi.org/10.1590/2317-4889201820170129)
-
-Boos, A. D. S., Kammerer, C. F., Schultz, C. L., & Paes Neto, V. D. (2015). A tapinocephalid dinocephalian (Synapsida, Therapsida) from the Rio do Rasto Formation (Paraná Basin, Brazil): taxonomic, ontogenetic and biostratigraphic considerations. *Journal of South American Earth Sciences*, *63*, 375–384. [https://doi.org/10.1016/j.jsames.2015.09.003](https://doi.org/10.1016/j.jsames.2015.09.003)
-
-Cisneros, J. C., Abdala, F., & Malabarba, M. C. (2005). Pareiasaurids from the Rio do Rasto Formation, southern Brazil: Biostratigraphic implications for Permian faunas of the Paraná Basin. *Revista Brasileira de Paleontologia*, *8*(1), 13-24.
-
-Dias, E. V., & Barberena, M. C. (2001). A Temnospondyl Amphibian from the Rio do Rasto Formation, Upper Permian of Southern Brazil. *Anais da Academia Brasileira de Ciências*, *73*(1), 135-143.
-
-Dias-da-Silva, S. (2012). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. *Lethaia*, *45*(1), 109–120. [https://doi.org/10.1111/j.1502-3931.2011.00263.x](https://www.google.com/search?q=https://doi.org/10.1111/j.1502-3931.2011.00263.x)
-
-Eltink, E., & Langer, M. C. (2014). A new specimen of the temnospondyl *Australerpeton cosgriffi* from the late Permian of Brazil (Rio do Rasto Formation, Paraná Basin): comparative anatomy and phylogenetic relationships. *Journal of Vertebrate Paleontology*, *34*(3), 524–538. [https://doi.org/10.1080/02724634.2013.826667](https://www.google.com/search?q=https://doi.org/10.1080/02724634.2013.826667)
-
-Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Carboniferous Poti Formation and from the Permian Rio do Rasto Formation, Brazil. *Revista Brasileira de Paleontologia*, *19*(3), 401-406. [https://doi.org/10.4072/rbp.2016.3.05](https://doi.org/10.4072/rbp.2016.3.05)
-
-Martinelli, A. G., Francischini, H., Dentzien-Dias, P. C., Soares, M. B., & Schultz, C. L. (2016). The oldest archosauromorph from South America: postcranial remains from the Guadalupian (mid-Permian) Rio do Rasto Formation (Paraná Basin), southern Brazil. *Historical Biology*, *29*(1), 76-84. [https://doi.org/10.1080/08912963.2015.1125897](https://doi.org/10.1080/08912963.2015.1125897)
-
-Bulanov, V. V. (2025). To the revision of the middle Permian bolosaurids (Tetrapoda, Bolosaurida) of Eastern Europe. *Paleontological Journal*, *59*(1), 67-78.
-
-Bulanov, V. V., Kovalenko, E. S., MacDougall, M. J., Golubev, V. K., Fröbisch, J., Podurets, K. M., & Bakaev, A. S. (2022). Tooth replacement and reparative dentine formation in the middle Permian bolosaurids of European Russia. *Historical Biology*, *35*(5), 748-761.
-
-Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. *Lethaia*, *45*(1), 109–120.
-
-Golubev, V. K. (2015). Dinocephalian stage in the history of the Permian tetrapod fauna of Eastern Europe. *Paleontological Journal*, *49*(12), 1346–1352.
-
-Ivakhnenko, M. F. (1996). Cranial morphology and evolution of Permian Dinomorpha (Eotherapsida) of eastern Europe. *Paleontological Journal*, *30*(5). 
-
-Riabinin, A. N. (1938). Vertebrate fauna from the Upper Permian deposits of the Sviaga basin: 1. A new Dinocephalian, Ulemosaurus sviagensi n. gen. n. sp. *Ezhegodnik Muzeya Akademii F. N. Chernysheva*, *1*, 4–40.
-
-Silantiev, V. V., Arefiev, M. P., Nurgalieva, N. G., Mouraviev, F. A., Bulanov, V. V., Ivanov, A. O., & Urazaeva, M. N. (2017). New multidisciplinary studies of the Urzhumian parastratotype confirm its reference status for the Vyatka-Kazan region of European Russia. In D. Nurgaliev, M. Barclay, S. Nikolaeva, & V. Silantiev (Eds.), *Kazan Golovkinsky Stratigraphic Meeting, 2017. Advances in Devonian, Carboniferous and Permian Research: Stratigraphy, Environments, Climate and Resources* (pp. 206-215). Filodiritto International Proceedings.
-
-Angiolini, L., Balini, M., Garzanti, E., Nicora, A., Tintori, A., Crasquin, S., & Muttoni, G. (2003a). Permian climatic and paleogeographic changes in Northern Gondwana: the Khuff Formation of Interior Oman. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *191*(3-4), 269–300. [https://doi.org/10.1016/S0031-0182(02)00668-5](https://www.google.com/search?q=https://doi.org/10.1016/S0031-0182\(02\)00668-5) 
-
-Angiolini, L., Nicora, A., Bucher, H., Vachard, D., Pillevuit, A., Platel, J. P., Baud, A., Broutin, J., Marcoux, J., & Al Hashmi, H. (1998). Late Permian fauna from the Khuff Formation, southeastern Oman: preliminary report. *Rivista Italiana di Paleontologia e Stratigrafia*, *104*(3), 329–340. 
-
-Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. [https://doi.org/10.1111/j.1475-4983.2012.01199.x](https://doi.org/10.1111/j.1475-4983.2012.01199.x)
-
-Bordy, E. M., & Paiva, F. (2021). Stratigraphic architecture of the Karoo river channels at the End-Capitanian. *Frontiers in Earth Science*, *8*, 521766. (https://doi.org/10.3389/feart.2020.521766)
-
-Cole, D. I., Johnson, M. R., & Day, M. O. (2016). Lithostratigraphy of the Abrahamskraal Formation (Karoo Supergroup), South Africa. *South African Journal of Geology*, *119*(2), 415–424.
-
-Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F., & Rubidge, B. S. (2015). When and how did the terrestrial mid-Permian mass extinction occur? Evidence from the tetrapod record of the Karoo Basin, South Africa. *Proceedings of the Royal Society B: Biological Sciences*, *282*(1811), 20150834. (https://doi.org/10.1098/rspb.2015.0834)
-
-Day, M. O., & Rubidge, B. S. (2020). Biostratigraphy of the *Tapinocephalus* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 149–164. (https://doi.org/10.25131/sajg.123.0012)
-
-Rubidge, B. S., & Day, M. O. (2020). Biostratigraphy of the *Eodicynodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 141–148.
-
-Day, M. O., Güven, S., Abdala, F., Jirah, S., Rubidge, B., & Almond, J. (2015a). Youngest dinocephalian fossils extend the *Tapinocephalus* Zone, Karoo Basin, South Africa. *South African Journal of Science*, *111*(3–4), 1–5. [https://doi.org/10.17159/sajs.2015/20140309](https://www.google.com/search?q=https://doi.org/10.17159/sajs.2015/20140309)
-
-Day, M. O., Ramezani, J., Bowring, S. A., Sadler, P. M., Erwin, D. H., Abdala, F., & Rubidge, B. S. (2015b). When and how did the terrestrial mid-Permian mass extinction occur? Evidence from the tetrapod record of the Karoo Basin, South Africa. *Proceedings of the Royal Society B: Biological Sciences*, *282*(1811), 20150834. [https://doi.org/10.1098/rspb.2015.0834](https://doi.org/10.1098/rspb.2015.0834)
-
-Day, M. O., Rubidge, B. S., & Abdala, F. (2016). A new mid-Permian burnetiamorph therapsid from the Main Karoo Basin of South Africa and a phylogenetic review of Burnetiamorpha. *Acta Palaeontologica Polonica*, *61*(4), 701–719. [https://doi.org/10.4202/app.00296.2016](https://doi.org/10.4202/app.00296.2016)
-
-Day, M. O., & Smith, R. M. H. (2020). Biostratigraphy of the *Endothiodon* Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. *South African Journal of Geology*, *123*(2), 165–180. [https://doi.org/10.25131/sajg.123.0011](https://doi.org/10.25131/sajg.123.0011)
-
-Day, M., Rubidge, B., Almond, J., & Jirah, S. (2013). Biostratigraphic correlation in the Karoo: The case of the Middle Permian parareptile *Eunotosaurus*. *South African Journal of Science*, *109*(3/4), 1–4. [https://doi.org/10.1590/sajs.2013/20120030](https://www.google.com/search?q=https://doi.org/10.1590/sajs.2013/20120030)
-
-Day, M. O., & Rubidge, B. S. (2021). The Late Capitanian Mass Extinction of Terrestrial Vertebrates in the Karoo Basin of South Africa. *Frontiers in Earth Science*, *9*, 631198. [https://doi.org/10.3389/feart.2021.631198](https://www.google.com/search?q=https://doi.org/10.3389/feart.2021.631198)
-
-Huttenlocker, A. K., & Smith, R. M. H. (2017). New whaitsioids (Therapsida: Therocephalia) from the Teekloof Formation of South Africa and therocephalian diversity during the end-Guadalupian extinction. *PeerJ*, *5*, e3868. [https://doi.org/10.7717/peerj.3868](https://www.google.com/search?q=https://doi.org/10.7717/peerj.3868)
-
-Rubidge, B. S., Erwin, D. H., Ramezani, J., Bowring, S. A., & de Klerk, W. J. (2013). High-precision temporal calibration of Late Permian vertebrate biostratigraphy: U-Pb zircon constraints from the Karoo Supergroup, South Africa. *Geology*, *41*(3), 363–366. [https://doi.org/10.1130/G33622.1](https://doi.org/10.1130/G33622.1)
-
-Smith, R. M. H. (1989). *Fluvial facies, vertebrate taphonomy and palaeosols of the Teekloof Formation (Permian) near Beaufort West, Cape Province, South Africa*. Unpublished Ph.D. thesis, University of Cape Town, Cape Town, South Africa.
-
-Smith, R. M. H., & Keyser, A. W. (1995). Biostratigraphy of the *Pristerognathus* Assemblage Zone. In B. S. Rubidge (Ed.), *Biostratigraphy of the Beaufort Group (Karoo Supergroup)* (pp. 13–17). South African Committee for Stratigraphy Biostratigraphic Series 1. Council for Geoscience.
-
-Acker, A., Peecook, B. R., Sidor, C. A., & Whitney, M. R. (2025). The first occurrence of Cyonosaurus (Therapsida, Gorgonsopsia) from the Luangwa Basin of Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2444407. [https://doi.org/10.1080/02724634.2024.2444407](https://doi.org/10.1080/02724634.2024.2444407)
-
-Angielczyk, K. D., Benoit, J., & Rubidge, B. S. (2019). A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper Permian upper Madumabisa Mudstone Formation, Luangwa Basin, Zambia. *Papers in Palaeontology*, *7*(1), 1–42. [https://doi.org/10.1002/spp2.1285](https://doi.org/10.1002/spp2.1285)
-
-Angielczyk, K. D., Sidor, C. A., Nesbitt, S. J., Smith, R. M. H., & Tsuji, L. A. (2014). Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fröbisch (Eds.), *Early evolutionary history of the Synapsida* (pp. 97–135). Springer.
-
-Drysdall, A. R., & Kitching, J. W. (1963). A re-examination of the Karroo succession and fossil localities of part of the Upper Luangwa Valley. *Geological Survey, Northern Rhodesia. Memoir 1*, 1–62.
-
-Jenkins, X. A., Browning, C., Choiniere, J., & Peecook, B. R. (2025). A new moradisaurine captorhinid from the Upper Permian (Lopingian) upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), e2427529. [https://doi.org/10.1080/02724634.2024.2427529](https://doi.org/10.1080/02724634.2024.2427529)
-
-Kammerer, C. F., & Sidor, C. A. (2021). A new burnetiid from the middle Permian of Zambia and a reanalysis of burnetiamorph relationships. *Papers in Palaeontology*, *7*(3), 1261–1287. [https://doi.org/10.1002/spp2.1341](https://doi.org/10.1002/spp2.1341)
-
-Mann, A., & Sidor, C. A. (2025). Arctops umulunshi, sp. nov. (Therapsida: Gorgonopsia) from the upper Madumabisa Mudstone Formation of Zambia, with new information on gorgonopsian postcranial anatomy. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2444405. [https://doi.org/10.1080/02724634.2024.2444405](https://doi.org/10.1080/02724634.2024.2444405)
-
-Nyambe, I. A., & Dixon, O. (2000). Sedimentology of the Madumabisa Mudstone Formation (Late Permian), Lower Karoo Group, mid-Zambezi Valley Basin, southern Zambia. *Journal of African Earth Sciences*, *30*(3), 535–553.(https://doi.org/10.1016/S0899-5362(00)00037-4)
-
-Peecook, B. R., Sidor, C. A., McIntosh, J. A., Viglietti, P. A., Smith, R. M. H., Tabor, N. J., Kammerer, C. F., Lungmus, J. K., Museba, J., Tolan, S., Whitney, M. R., & Angielczyk, K. D. (2025). Successive assemblages of upper Permian vertebrates in the upper Madumabisa Mudstone Formation of the Luangwa Basin, Zambia. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), e2486065. [https://doi.org/10.1080/02724634.2025.2486065](https://doi.org/10.1080/02724634.2025.2486065)
-
-Rubidge, B. S., Day, M. O., & Barbolini, N. (2013). Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup, South Africa). *Journal of African Earth Sciences*, *79*, 101–117. [https://doi.org/10.1016/j.jafrearsci.2013.03.003](https://doi.org/10.1016/j.jafrearsci.2013.03.003)
-
-Sidor, C. A. (2015). The first biarmosuchian from the upper Madumabisa Mudstone Formation (Luangwa Basin) of Zambia. *Palaeontologia Africana*, *49*, 1–7.
-
-Sidor, C. A., Angielczyk, K. D., Weide, D. M., Smith, R. M. H., Nesbitt, S. J., & Tsuji, L. A. (2014). Tapinocephalids (Therapsida, Dinocephalia) from the Permian Madumabisa Mudstone Formation (Lower Karoo, Mid-Zambezi Basin) of southern Zambia. *Journal of Vertebrate Paleontology*, *34*(4), 980–985. [https://doi.org/10.1080/02724634.2014.839841](httpshttps://doi.org/10.1080/02724634.2014.839841)
-
-Sidor, C. A., Tabor, N. J., & Smith, R. M. H. (2021). A New Late Permian Burnetiamorph From Zambia Confirms Exceptional Levels of Endemism in Burnetiamorpha (Therapsida: Biarmosuchia) and an Updated Paleoenvironmental Interpretation of the Upper Madumabisa Mudstone Formation. *Frontiers in Ecology and Evolution*, *9*, 685244. [https://doi.org/10.3389/fevo.2021.685244](https://doi.org/10.3389/fevo.2021.685244)
-
-Smith, R. M. H., Viglietti, P. A., & Rubidge, B. S. (2020). Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup, South Africa). *South African Journal of Geology*, *123*(2), 237–256. [https://doi.org/10.2113/123.0016](https://doi.org/10.2113/123.0016)
-
-Steyer, J.-S., & Sidor, C. A. (2025). The first Paleozoic temnospondyl from Zambia: a new species of Rhineceps from the Permian Madumabisa Mudstone Formation, Mid-Zambezi Basin. In C. A. Sidor & K. D. Angielczyk (Eds.), *Vertebrate Evolution in the Permian Rift Basins of Tanzania and Zambia, Society of Vertebrate Paleontology Memoir 23*. Journal of Vertebrate Paleontology, 45(1, supplement), 2451312. [https://doi.org/10.1080/02724634.2025.2451312](https://doi.org/10.1080/02724634.2025.2451312)
-
-Whitney, M. R., & Sidor, C. A. (2016). A new therapsid from the Permian Madumabisa Mudstone Formation (Mid-Zambezi Basin) of southern Zambia. *Journal of Vertebrate Paleontology*, *36*(4), e1150767. [https://doi.org/10.1080/02724634.2016.1150767](https://doi.org/10.1080/02724634.2016.1150767)
-
-Azevedo, K. L., Schemiko, D. C. B., Soares, M. B., Vega, C. S., & Vesely, F. F. (2018). The São Jerônimo da Serra Site, Rio do Rasto Formation (Middle/Upper Permian), Paraná Basin, Brazil: faciological and taphonomic context. *Brazilian Journal of Geology*, *48*(4), 821-837. [https://doi.org/10.1590/2317-4889201820170129](https://doi.org/10.1590/2317-4889201820170129)
-
-Barberena, M. C. (1998). Australerpeton cosgriffi n.g., n.sp., a Late Permian Rhinesuchoid amphibian from Brazil. *Anais da Academia Brasileira de Ciências*, *70*(1), 125–137.
-
-Barberena, M. C., & Dias, E. V. (1998). On the presence of a short-snouted rhinesuchoid amphibian in the Rio do Rasto Formation (Late Permian of Paraná Basin, Brazil). *Anais da Academia Brasileira de Ciências*, *70*(3), 465–468.
-
-Boos, A. D. S., Schultz, C. L., Vega, C. S., & Aumond, J. J. (2013). On the presence of the Late Permian dicynodont Endothiodon in Brazil. *Palaeontology*, *56*(4), 837–848. [https://doi.org/10.1111/pala.12020](https://doi.org/10.1111/pala.12020)
-
-Boos, A. D. S., Kammerer, C. F., Schultz, C. L., & Paes Neto, V. D. (2015). A tapinocephalid dinocephalian (Synapsida, Therapsida) from the Rio do Rasto Formation (Paraná Basin, Brazil): taxonomic, ontogenetic and biostratigraphic considerations. *Journal of South American Earth Sciences*, *63*, 375–384. [https://doi.org/10.1016/j.jsames.2015.09.003](https://doi.org/10.1016/j.jsames.2015.09.003)
-
-Boos, A. D. S., Kammerer, C. F., Schultz, C. L., Soares, M. B., & Ilha, A. L. R. (2016). A New Dicynodont (Therapsida: Anomodontia) from the Permian of Southern Brazil and Its Implications for Bidentalian Origins. *PLoS One*, *11*(5), e0155000. [https://doi.org/10.1371/journal.pone.0155000](https://doi.org/10.1371/journal.pone.0155000)
-
-Cisneros, J. C., Abdala, F., & Malabarba, M. C. (2005). Pareiasaurids from the Rio do Rasto Formation, southern Brazil: Biostratigraphic implications for Permian faunas of the Paraná Basin. *Revista Brasileira de Paleontologia*, *8*(1), 13-24.
-
-Cisneros, J. C., Abdala, F., Atayman-Güven, S., Rubidge, B. S., Şengör, A. M. C., & Schultz, C. L. (2012). Carnivorous dinocephalian from the Middle Permian of Brazil and tetrapod dispersal in Pangaea. *Proceedings of the National Academy of Sciences*, *109*(5), 1584–1588. [https://doi.org/10.1073/pnas.1115975109](https://doi.org/10.1073/pnas.1115975109)
-
-Dias, E. V., & Barberena, M. C. (2001). A Temnospondyl amphibian from the Rio do Rasto Formation, Upper Permian of southern Brazil. *Anais da Academia Brasileira de Ciências*, *73*(1), 135-143. [https://doi.org/10.1590/s0001-37652001000100011](https://doi.org/10.1590/s0001-37652001000100011)
-
-Dias-da-Silva, S. (2011). Middle–Late Permian tetrapods from the Rio do Rasto Formation, Southern Brazil: a biostratigraphic reassessment. *Lethaia*, *45*(1), 109–120. [https://doi.org/10.1111/j.1502-3931.2011.00263.x](https://doi.org/10.1111/j.1502-3931.2011.00263.x)
-
-Figueroa, R. T., Miguel, R., & Gallo, V. (2016). New sarcopterygians from the Carboniferous Poti Formation and from the Permian Rio do Rasto Formation, Brazil. *Revista Brasileira de Paleontologia*, *19*(3), 401-406. [https://doi.org/10.4072/rbp.2016.3.05](https://doi.org/10.4072/rbp.2016.3.05)
-
-Francischini, H., Dentzien-Dias, P., Guerra-Sommer, M., Menegat, R., Santos, J. O. S., Manfroi, J., & Schultz, C. L. (2018). A middle permian (Roadian) lungfish aestivation burrow from the Rio Do Rasto Formation (Paraná Basin, Brazil) and associated U-Pb dating. *Palaios*, *33*(2), 69-84. [https://doi.org/10.2110/palo.2017.050](https://doi.org/10.2110/palo.2017.050)
-
-Malabarba, M. C., Abdala, F., Weiss, F. E., & Perez, P. A. (2003). New data on the Late Permian vertebrate fauna of Posto Queimado, Rio do Rasto Formation, southern Brazil. *Revista Brasileira de Paleontologia*, *6*, 49–54.
-
-Pauliv, V. E., Dias, E. V., Sedor, F. A., & Ribeiro, A. M. (2014). A new Xenacanthiformes shark (Chondrichthyes, Elasmobranchii) from the Late Paleozoic Rio do Rasto Formation (Paraná Basin), Southern Brazil. *Anais da Academia Brasileira de Ciências*, *86*(1), 135–145. [https://doi.org/10.1590/0001-37652014107612](https://doi.org/10.1590/0001-37652014107612)
-
-Ramos, B. D., & Vega, C. S. (2011). Temnospondyl remains from the Late Permian Rio do Rasto Formation (Paraná Basin) of Brazil. *Revista Brasileira de Paleontologia*, *14*(1), 67-74. [https://doi.org/10.4072/rbp.2011.1.07](https://doi.org/10.4072/rbp.2011.1.07)
-
-Silva, M. A., & Francischini, H. (2025). Revisiting the tetrapod ichnofauna of the Rio do Rasto Formation (middle-upper Permian), southern Brazil. *Historical Biology*. [https://doi.org/10.1080/08912963.2025.2557942](https://doi.org/10.1080/08912963.2025.2557942)
-
-Bandyopadhyay, S., & Ray, S. (2020). Gondwana Vertebrate Faunas of India: Their Diversity and Intercontinental Relationships. *Episodes*, *43*(1), 438–448. [https://doi.org/10.18814/epiiugs/2020/020028](https://doi.org/10.18814/epiiugs/2020/020028)
-
-Bickelmann, C., Müller, J., & Reisz, R. R. (2009). The enigmatic diapsid *Acerosodontosaurus piveteaui* (Reptilia: Neodiapsida) from the Upper Permian of Madagascar and the paraphyly of “younginiform” reptiles. *Canadian Journal of Earth Sciences*, *46*(9), 651–661. [https://doi.org/10.1139/E09-038](https://doi.org/10.1139/E09-038)
-
-Carroll, R. L. (1978). Permo-Triassic lizards from the Karoo system. Part II. A gliding reptile from the Upper Permian of Madagascar. *Palaeontologia africana*, *21*, 143–159.
-
-Carroll, R. L. (1981). Plesiosaur ancestors from the Upper Permian of Madagascar. *Philosophical Transactions of the Royal Society of London B: Biological Sciences*, *293*(1068), 315–383.
-
-Currie, P. (1980). A new younginid (Reptilia: Eosuchia) from the Upper Permian of Madagascar. *Canadian Journal of Earth Sciences*, *17*(4), 500–511.
-
-Currie, P. J. (1981). *Hovasaurus boulei*, an aquatic eosuchian from the upper Permian of Madagascar. *Palaeontologia africana*, *21*, 99–168.
-
-Ketchum, H. F., & Barrett, P. M. (2004). New reptile material from the lower Triassic of Madagascar: implications for the Permian Triassic extinction event. *Canadian Journal of Earth Sciences*, *41*(1), 1–8. [https://doi.org/10.1139/e03-084](https://doi.org/10.1139/e03-084)
-
-Mazin, J. M., & King, G. M. (1991). The first dicynodont from the Late Permian of Madagascar. *Palaeontology*, *34*(4), 837–842.
-
-Meckert, D. (1995). The procolophonid *Barasaurus* from the Upper Permian of Ranohira, Madagascar. *In* II International Symposium on Lithographic Limestones, 9–11 July 1995, Cuenca, Spain.
-
-Piveteau, J. (1926). Paléontologie de Madagascar, XIII. Amphibiens et reptiles permiens. *Annales de Paléontologie*, *15*, 55–128.
-
-Piveteau, J. (1955). Existence d’un reptile du groupe des Procolophonidés à Madagascar. *Comptes Rendus de l'Académie des Sciences, Paris*, *241*, 1315–1317.
-
-Liu, J. (2018). New progress on the correlation of Chinese terrestrial Permo-Triassic strata. *Vertebrata PalAsiatica*, *56*(4), 327–342.
-
-Liu, J., & Yang, W. (2022). A gorgonopsian from the Wutonggou Formation (Changhsingian, Permian) of Turpan Basin, Xinjiang, China. *Palaeoworld*, *31*(3), 383–388. [https://doi.org/10.1016/j.palwor.2022.04.004](https://doi.org/10.1016/j.palwor.2022.04.004)
-
-Lucas, S. G. (1998). Toward a tetrapod biochronology of the Permian. In S. G. Lucas, J. W. Estep, & J. M. Hoffer (Eds.), *Permian Stratigraphy and Paleontology of the Robledo Mountains, New Mexico* (New Mexico Museum of Natural History and Sciences, Bulletin No. 12, pp. 71–91).
-
-Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., Mundil, R., Wang, X., & Lucas, S. G. (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. *Journal of Asian Earth Sciences*, *36*, 503–520.
-
-Shi, Y.-T., & Liu, J. (2024). Osteology of *Turfanodon bogdaensis* (Dicynodontia). *Vertebrata Palasiatica*, *62*(3), 186–200.
-
-Liu, J. (2019). The tetrapod fauna of the upper Permian Naobaogou Formation of China— 4. the diversity of dicynodonts. *Vertebrata Palasiatica*, *57*(3), 173-180.
-
-Liu, J., & Abdala, F. (2017). Therocephalian (Therapsida) and chroniosuchian (Reptiliomorpha) from the Permo-Triassic transitional Guodikeng Formation of the Dalongkou Section, Jimsar, Xinjiang, China. *Vertebrata PalAsiatica*, *55*(1), 24–40.
-
-Metcalfe, I., Foster, C. B., Afonin, S. A., Nicoll, R. S., [et al.] (2009). Stratigraphy, biostratigraphy and C-isotopes of the Permian–Triassic non-marine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. *Journal of Asian Earth Sciences*, *36*(6), 503-520.
-
-Sun, A. L. (1963). The Chinese kannemeyerids. *Palaeontologia Sinica, New Series C*, *17*, 1–109.
-
-Sun, A. L. (1973b). Permo-Triassic dicynodonts from Turfan, Sinkiang. *Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology Academia Sinica*, *10*, 53–68.
-
-Sun, A. L. (1978). Two new genera of Dicynodontidae. *Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology Academia Sinica*, *13*, 19–25.
-
-Yang, W., Wan, M., Crowley, J. L., Wang, J., Luo, X., Tabor, N., Angielczyk, K. D., Gastaldo, R., Geissman, J., Liu, F., Roopnarine, P., & Sidor, C. A. (2021). Paleoenvironmental and paleoclimatic evolution and cyclo- and chrono-stratigraphy of upper Permian-lower Triassic fluvial-lacustrine deposits in Bogda Mountains, NW China—implications for diachronous plant evolution across the Permian-Triassic boundary. *Earth-Science Reviews*, *222*, 103741.
-
-Yuan, P. L., & Young, C. C. (1934a). On the discovery of a new Dicynodon in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 563–573.
-
-Yuan, P. L., & Young, C. C. (1934b). On the occurrence of Lystrosaurus in Sinkiang. *Bulletin of the Geological Survey of China*, *13*, 575-580.
-
-Benton, M. J. (2016). The Chinese pareiasaurs. *Zoological Journal of the Linnean Society*, *177*(4), 813–853. [https://doi.org/10.1111/zoj.12389](https://doi.org/10.1111/zoj.12389)
-
-Chen, J., & Liu, J. (2020). The youngest occurrence of embolomeres (Tetrapoda: Anthracosauria) from the Sunjiagou Formation (Lopingian, Permian) of North China. *Fossil Record*, *23*(2), 205–213. [https://doi.org/10.5194/fr-23-205-2020](https://doi.org/10.5194/fr-23-205-2020)
-
-Li, X.-W., & Liu, J. (2013). New specimens of pareiasaurs from the Upper Permian Sunjiagou Formation of Liulin, Shanxi and their indications for the taxonomy of Chinese pareiasaurs. *Vertebrata PalAsiatica*, *51*(3), 199–204.
-
-Liu, J. (2020). Taoheodon baizhijuni gen. et sp. nov. (Anomodontia, Dicynodontoidea) from the upper Permian Sunjiagou Formation of China and its implications. *Journal of Vertebrate Paleontology*, *40*(1), e1762088. [https://doi.org/10.1080/02724634.2020.1762088](https://doi.org/10.1080/02724634.2020.1762088)
-
-Wang, J. Y., Yi, J., & Liu, J. (2019). The first complete pareiasaur skull from China. *Acta Palaeontologica Sinica*, *58*(2), 216–221.
-
-Yi, J., & Liu, J. (2020). Pareiasaur and dicynodont fossils from upper Permian of Shouyang, Shanxi, China. *Vertebrata PalAsiatica*, *58*(1), 16–23. [https://doi.org/10.19615/j.cnki.1000-3118.191121](https://doi.org/10.19615/j.cnki.1000-3118.191121)
-
-Young, C. C., & Yeh, H. K. (1963). On a new pareiasaur from the Upper Permian of Shansi, China. *Vertebrata PalAsiatica*, *7*(3), 195–212.
-
-Brauns, U. (2003). A Re–Os study bearing on the age of the Kupferschiefer mineralization at Sangerhausen (Germany). In *Proceedings of the XVth International Congress of Carboniferous and Permian Stratigraphy: Utrecht, Royal Netherlands Academy of Arts and Scences, Abstracts*, (p. 66).
-
-Dankina, D., Spiridonov, A., Raczyński, P., & Radzevičius, S. (2021). Late Permian ichthyofauna from the North-Sudetic Basin, SW Poland. *Acta Palaeontologica Polonica*, *66*(Supplement to 3), 47–57.
-
-Dankina, D., Spiridonov, A., Raczyński, P., Radzevičius, S., & Antczak, M. (2023). The first Late Permian fish fossils from Leszczyna quarry in South-West Poland. *Earth and Environmental Science Transactions of The Royal Society of Edinburgh*, *114*(1-2), 65-74.
-
-Diedrich, C. G. (2009). A coelacanthid-rich site at Hasbergen (NW Germany): taphonomy and palaeoenvironment of a first systematic excavation in the Kupferschiefer (Upper Permian, Lopingian). *Palaeobiodiversity and Palaeoenvironments*, *89*(1), 67-94.
-
-Fischer, T., Schöllmann, L., & Haunert, J. (2021). The Late Permian Kupferschiefer Fossils and the Geological Educational Trail in the UNESCO Global Geopark TERRA.vita (NW Germany). *Geoconservation Research*, *4*(1), 278-289.
-
-Gottmann-Quesada, A., & Sander, P. M. (2009). A redescription of the early archosauromorph $\textit{Protorosaurus speneri}$ MEYER, 1832, and its phylogenetic relationships. *Palaeontographica Abteilung A*, *287*(4-6), 123-220.
-
-Haubold, H., & Schaumberg, G. (1985). *Die Fossilien des Kupferschiefers*. Neue Brehm-Bücherei, Ziemsen, Lutherstadt-Wittenberg.
-
-Meyer, H. v. (1832). *Palaeologica zur Geschichte der Erde und ihrer Geschöpfe*. Verlag von Siegmund Schmerber.
-
-Paul, J. (2006). Der Kupferschiefer: Lithologie, Stratigraphie, Fazies und Metallogenese eines Schwarzschiefers. *Zeitschrift der Deutschen Gesellschaft für Geowissenschaften*, *157*(1), 57-78.
-
-Paul, J., Heggemann, H., Dittrich, D., Hug-Diegel, N., Huckriede, H., Nitsch, E., & der SKPT/DSK, A G Zechstein. (2018). Comments to the Stratigraphic Chart of Germany 2016: the Zechstein Group. *Zeitschrift der Deutschen Gesellschaft für Geowissenschaften*, *169*(2), 139–145.
-
-Peryt, T., Durakiewicz, T., Kotarba, M. J., & Oszczepalski, S. (2012). Carbon isotope stratigraphy of the basal Zechstein (Lopingian) strata in Northern Poland. *Geological Quarterly*, *56*(2), 285-298.
-
-Spener, C. M. (1710). Disquisitio de crocodilo in lapide scissili expresso, aliisque Lithozois. *Miscellanea Berolinensia ad incrementum scientiarum ex scriptis Societati Regiae Scientiarum exhibitis*, *1*, 92-110.
-
-Tsuji, L. A., & Müller, J. (2008). A re-evaluation of $\textit{Parasaurus geinitzi}$, the first-named pareiasaur (Amniota, Parareptilia). *Canadian Journal of Earth Sciences*, *45*(10), 1111-1121.
-
-Witzmann, F. (2005). A dissorophid temnospondyl in the Upper Permian Kupferschiefer of Germany. *Neues Jahrbuch für Geologie und Paläontologie-Abhandlungen*, *237*(1), 103-122.
-
-Bernardi, M., Tomasoni, R., Petti, F. M., Kustatscher, E., Nowak, H., Prinoth, H., Roghi, G., Preto, N., & Gianolla, P. (2018). Permian–Triassic terrestrial ecosystems of the Dolomites (Southern Alps): Field trip on the occasion of the Paleodays 2018. *Geo.Alp*, *15*.
-
-Conti, M. A., Leonardi, G., Mariotti, N., & Nicosia, U. (1977). Tetrapod footprints of the «Val Gardena Sandstone» (North Italy). Their paleontological, stratigraphic and paleoenvironmental meaning. *Palaeontographia Italica*, *70*(40), 1–91.
-
-Kustatscher, E., Bernardi, M., Petti, F. M., Franz, M., van Konijnenburg-van Cittert, J. H. A., & Kerp, H. (2017). Sea-level changes in the Lopingian (late Permian) of the northwestern Tethys and their effects on the terrestrial palaeoenvironments, biota and fossil preservation. *Global and Planetary Change*, *148*, 166-180. [https://doi.orgimg/10.1016/j.gloplacha.2016.12.006](https://doi.org/10.1016/j.gloplacha.2016.12.006)
-
-Leonardi, P., Conti, M. A., Leonardi, G., Mariotti, N., & Nicosia, U. (1975). *Pachypes dolomiticus* n. gen. n. sp.; Pareiasaur footprint from the "Arenaria di Val Gardena" (Middle Permian) in the Western Dolomites (N. Italy). *Rendiconti Lincei - Matematica e Applicazioni*, *57*(3-4), 221-232.
-
-Marchetti, L., Belvedere, M., & Mietto, P. (2017). Lopingian tetrapod footprints from the Venetian Prealps, Italy: New discoveries in a largely incomplete panorama. *Acta Palaeontologica Polonica*, *62*(4), 801–817. [https://doi.org/10.4202/app.00392.2017](https://doi.org/10.4202/app.00392.2017)
-
-Massari, F., Neri, C., Pittau, P., Fontana, D., & Stefani, C. (1994). Sedimentology, palynostratigraphy and sequence stratigraphy of a continental to shallow-marine rift-related succession: Upper Permian of the eastern Southern Alps (Italy). *Memorie di Scienze Geologiche*, *46*, 119-243.
-
-Prinoth, H. (2017). The Cephalopod Bank in the Gröden/Val Gardena Sandstone of the Bletterbach (preliminary paper). *Geo.Alp*, *14*, 85–91.
-
-Brauns, C.M., Pätzold, T., & Haack, U. (2003). A Re–Os study bearing on the age of the Kupferschiefer. (Referenced in [2, 3, 4, 5, 6, 7]).
-
-Evans, S. E. (1988). The Upper Permian reptile Adelosaurus from Durham. *Palaeontology*, *31*(4), 957–964.
-
-Evans, S.E. and Haubold, H. (1987). A review of the Upper Permian genera Coelurosauravus, Weigeltisaurus and Gracilisaurus (Reptilia: Diapsida). *Zoological Journal of the Linnean Society*, *90*(3), 275-303.
-
-Evans, S. E. and King, M. S. (1993). A new specimen of Protorosaurus (Reptilia: Diapsida) from the Marl Slate (late Permian) of Britain. *Proceedings of the Yorkshire Geological Society*, *49*(3), 229–234.
-
-Hancock, A. and Howse, R. (1870a). On Dorypterus Hoffmanni, Germar, from the Marl-slate of Midderidge, Durham. *Quarterly Journal of the Geological Society of London*, *26*, 556-564.
-
-Hancock, A. and Howse, R. (1870b). On a new Labyrinthodont Amphibian from the Magnesian Limestone of Midderidge, Durham [and] On Protorosaurus Speneri, Von Meyer, and a new species, Proterosaurus Huxleyi, from the Marl-slate of Midderidge, Durham. *Quarterly Journal of the Geological Society of London*, *26*, 565-572.
-
-Howse, R. (1890b). Catalogue of the local fossils in the museum of the Natural History Society. *Natural History Transactions of Northumberland, Durham, and Newcastle-upon-Tyne*, *10*, 227–288.
-
-Parry, J. W. D. (2024). *The Marl Slate: A Taphonomic and Petrographic Analysis*. Masters thesis, Durham University.
-
-Pettigrew, T. H. (1979). A new specimen of *Coelurosauravus* (Reptilia: Diapsida) from the Marl Slate of Eppleton Quarry, Tyne and Wear. *Nature*.
-
-Smith, D. B., and Francis, E. A. (1967). *Geology of the country between Durham and West Hartlepool*. Memoir of the Geological Survey of Great Britain, Sheet 27. HMSO.
-
-Stephenson, M.H. & McLean, D. (2023). Lopingian (Late Permian) palynomorphs from the Cadeby Formation, Cadeby Quarry, Yorkshire, UK. *Rivista Italiana di Paleontologia e Stratigrafia*, *129*(1), 25-47.
-
-Swift, A. and Aldridge, R. J. (1982). Conodonts from the Upper Permian strata of Nottinghamshire and North Yorkshire. *Palaeontology*, *25*(4), 845–856.
-
-Turner, P. and Magaritz, M. (1986). Chemical and isotopic studies of a core of Marl Slate from NE England: influence of freshwater influx into the Zechstein Sea. *Geological Society, London, Special Publications*, *22*(1), 29-41.
-
-Watson, D. M. S. (1914). *Broomia perplexa* gen. et. sp. nov., a fossil reptile from South Africa. *Proceedings of the Zoological Society of London*, *1914*, 995-1010.
-
-Westoll, T. S. (1934). The Permian 'paleoniscoids' of the Marl Slate. Unpublished PhD thesis, University of Durham.
-
-Westoll, T. S. (1941b). The Permian fishes *Dorypterus* and *Lekanichthys*. *Proceedings of the Zoological Society of London B*, *111*, 39–58.
-
-Ayaz, S. A., Martin, M., Esterle, J., Amelin, Y., & Nicoll, R. S. (2016). Age of the Yarrabee and accessory tuffs: implications for the upper Permian sediment-accumulation rates across the Bowen Basin. *Australian Journal of Earth Sciences*, *63*(7), 843-856. [https://doi.org/10.1080/08120099.2016.1255254](https://doi.org/10.1080/08120099.2016.1255254)
-
-Shi, G. R., Waterhouse, J. B., & McLoughlin, S. (2010). The Lopingian of Australasia: a review of biostratigraphy, correlations, palaeogeography and palaeobiogeography. *Geological Journal*, *45*(2-3), 230–263. [https://doi.org/10.1002/gj.1189](https://doi.org/10.1002/gj.1189)
-
-Benton, M. J., & Spencer, P. S. (1995). *Fossil Reptiles of Great Britain*. Geological Conservation Review Series No. 10, JNCC, Peterborough.
-
-Benton, M. J., & Walker, A. D. (1985). Palaeoecology, taphonomy, and dating of Permo-Triassic reptiles from Elgin, north-east Scotland. *Palaeontology*, *28*(2), 207–234.
-
-Cruickshank, A. R. I., Clark, N. D. L., & Adams, C. (2005). A new specimen of *Dicynodon traquairi* (Newton) (Synapsida: Anomodontia) from the Late Permian (Tartarian) of northern Scotland. *Palaeontologia Africana*, *41*, 35–43.
-
-George, H., Kammerer, C. F., Foffa, D., Clark, N. D. L., & Brusatte, S. (2024). Micro-CT data reveals new information on the craniomandibular and neuroanatomy of the dicynodont Gordonia (Therapsida: Anomodontia) from the late Permian of Scotland. *Zoological Journal of the Linnean Society*, 1–31. [https://doi.org/10.1093/zoolinnean/zlae065](https://doi.org/10.1093/zoolinnean/zlae065)
-
-Scottish Natural Heritage. (n.d.). *CUTTIES HILLOCK Site of Special Scientific Interest SITE MANAGEMENT STATEMENT*. SNH.
-
-Arefiev, M. P., et al. (2015). Paleogeographical reorganization of the Moscow Syneclise during the Severodvinian (Capitanian–Wuchiapingian) time based on isotopic (d13C and d18O) and paleontological data. *Paleontological Journal*, *49*(11), 1165–1214.
-
-Benton, M. J., Newell, A. J., Khlyupin, A. Yu., Shumov, I. S., Price, G. D., & Kurkin, A. A. (2012). Preservation of exceptional vertebrate assemblages in Middle Permian fluviolacustrine mudstones of Kotel'nich, Russia: stratigraphy, sedimentology, and taphonomy. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *319-320*, 58–83. [https://doi.org/10.1016/j.palaeo.2012.01.005](https://doi.org/10.1016/j.palaeo.2012.01.005)
-
-Fröbisch, J., & Reisz, R. R. (2009). The Late Permian herbivore Suminia and the early evolution of arboreality in terrestrial vertebrate ecosystems. *Proceedings of the Royal Society B: Biological Sciences*, *276*(1673), 3611–3618. [https://doi.org/10.1098/rspb.2009.0911](https://doi.org/10.1098/rspb.2009.0911)
-
-Ivakhnenko, M. F. (2011). Permian and Triassic therocephals (Eutherapsida) of Eastern Europe. *Paleontological Journal*, *45*(9), 981–1144.
-
-Kammerer, C. F., & Masyutin, V. (2018). Gorgonopsian therapsids (Nochnitsa gen. nov. and Viatkogorgon) from the Permian Kotelnich locality of Russia. *PeerJ*, *6*:e4954. [https://doi.org/10.7717/peerj.4954](https://doi.org/10.7717/peerj.4954)
-
-Kordikova, E. G., & Khlyupin, A. J. (2001). First evidence of a neonate dentition in pareiasaurs from the Upper Permian of Russia. *Acta Palaeontologica Polonica*, *46*(4), 589–594.
-
-Tatarinov, L. P. (1997). Noviy skalopozavr (Reptilia, Theriodonta) s neobychnoy sensornoy sistemoy iz verkhney Permy Kirovskoy Oblasty. *Paleontologicheskii Zhurnal*, *1997*(6), 88–95.
-
-Arefiev, M. P., Golubev, V. K., & Kurkin, A. A. (2015)..... Retrieved from http://www.ginras.ru/materials/files/2015-Arefiev.pdf
-
-Aristov, D. S., et al. (2013). Vyatkian–Olenekian Localities. *Paleontological Journal*, *47*(7), 661-662.
-
-Bulanov, V. V. (2003). Evolution and systematics of seymouriamorph parareptiles. *Paleontological Journal*, *37*(Suppl. 1), S1-S105.
-
-Golubev, V. K. (2000a). Permian and Triassic chronosuchians and biostratigraphy of the upper Tatarian deposits of Eastern Europe by tetrapods. *Trudy Paleontologicheskogo Instituta*, *276*, 1-176.
-
-Minikh, A. V., Arefiev, M. P., & Golubev, V. K. (2015). A new fish species of the genus $Isadia$ (Actinopterygii, Eurynotoidiformes) from the new locality on the Malaya Northern Dvina river (terminal Permian, Vologda Region). *Paleontological Journal*, *49*(6), 615–626.
-
-Sennikov, A. G., Golubev, V. K., Minikh, A. V., & Minikh, M. G. (2003). A new oryctocenosis of the aquatic vertebrate community from the Late Permian of Central Russia. *Paleontological Journal*, *37*(4), 416-423.
-
-Sushkin, P. P. (1926).... *Palaeontologia Hungarica*, *1*, 323–344.
-
-Yakimenko, E. Y., Targul'yan, V. O., Chumakov, N. M., & Aref'ev, M. P. (2000). Paleosols in upper permian sedimentary rocks, Sukhona river (Severnaya Dvina basin). *Lithology and Mineral Resources*, *35*(4), 331-344.
-
-Clark, J., & Carroll, R. L. (1973). Romeriid reptiles from the Lower Permian. *Bulletin of the Museum of Comparative Zoology*, *144*(5), 353–407.
-
-Fox, R. C., & Bowman, M. C. (1966). Osteology and Relationships of Captorhinus aguti (Cope) (Reptilia: Captorhinomorpha). *The University of Kansas Paleontological Contributions, Series Vertebrata*, *11*, 1–79.
-
-Heaton, M. J. (1979). *Cranial Anatomy of Primitive Captorhinid Reptiles from the Late Pennsylvanian and Early Permian, Oklahoma and Texas*. Oklahoma Geological Survey, Bulletin 127, 1–84.
-
-Hentz, T. F. (1988). *Lithostratigraphy and Paleoenvironments of Upper Paleozoic Continental Red Beds, North-Central Texas: Bowie (New) and Wichita (Revised) Groups*. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations No. 170.
-
-Johnson, G. D. (2008). Ctenacanthiform Cladodont Teeth from the Lower PermianWichita Group, Texas, U.S.A. *Acta Geologica Polonica*, *58*(2), 205–209.
-
-Mamay, S. H., Hook, R. W., & Hotton III, N. (1998). Amphibian eggs from the Lower Permian of north-central Texas. *Journal of Vertebrate Paleontology*, *18*(Supplement to 3), 61A.
-
-Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. *University of Texas Bulletin*, *2801*, 67–108.
-
-Romer, A. S., & Price, L. I. (1940). Review of the Pelycosauria. *Geological Society of America Special Paper*, *28*, 1–538.
-
-Sumida, S. S., Dodick, J., Metcalf, A., & Albright, G. (2010). Reiszorhinus olsoni, a new single-tooth-rowed captorhinid reptile from the Lower Permian of Texas. *Journal of Vertebrate Paleontology*, *30*(3), 704–714.
-
-Vaughn, P. P. (1955). The Permian reptile Araeoscelis restudied. *Bulletin of the Museum of Comparative Zoology*, *113*(5), 303–467.
-
-Williston, S. W. (1914). Broiliellus, a new genus of amphibians from the Permian of Texas. *Journal of Geology*, *22*(1), 49–56.
-
-Williston, S. W. (1915). New genera of Permian reptiles. *The American Journal of Science, Series 4*, *39*(233), 575–579.
-
-Berman, D. S., Sumida, S. S., & Lombard, R. E. (1992). Reinterpretation of the systematic position of *Casea* and the evolution of permutation in synapsids. *Journal of Paleontology*, *66*(3), 481-499.
-
-Clark, J., & Carroll, R. L. (1973). Romeriid reptiles from the Lower Permian. *Bulletin of the Museum of Comparative Zoology*, *144*(5), 353–407.
-
-Hentz, T. F. (1988). *Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas: Bowie (new) and Wichita (revised) Groups*. The University of Texas at Austin, Bureau of Economic Geology, Report of Investigations No. 170, 55 p.
-
-Hotton, N., III, Feldmann, R. M., Hook, R. W., & DiMichele, W. A. (2002). Crustacean-bearing continental deposits in the Petrolia Formation (Leonardian Series, Lower Permian) of north-central Texas. *Journal of Paleontology*, *76*(3), 486–494.
-
-Pawley, K., & Warren, A. (2006). The appendicular skeleton of *Eryops megacephalus* (Temnospondyli: Eryopoidea) from the Lower Permian of North America. *Journal of Paleontology*, *80*(3), 561–580.
-
-Reisz, R. R., Godfrey, S. J., & Scott, D. (2009). *Eothyris* and *Oedaleops*: Do these Early Permian synapsids from Texas and New Mexico form a clade? *Journal of Vertebrate Paleontology*, *29*(1), 39–47.
-
-Romer, A. S. (1928). Vertebrate faunal horizons in the Texas Permo-Carboniferous red beds. *University of Texas Bulletin*, *2801*, 67–108.
-
-Scheyer, T. M. (2007). Skeletal histology of the dermal armor of Placodontia: the occurrence of ‘postcranial fibro-cartilaginous bone’ and its developmental implications. *Journal of Anatomy*, *211*(6), 737–753.
-
-Schoch, R. R., & Sues, H.-D. (2022). The dissorophoid temnospondyl *Parioxys ferricolus* from the early Permian (Cisuralian) of Texas. *Journal of Paleontology*, *96*(4), 950–960.
 
 
 
