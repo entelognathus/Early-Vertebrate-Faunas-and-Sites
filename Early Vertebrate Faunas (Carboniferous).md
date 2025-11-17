@@ -15,6 +15,14 @@
 > - **References**: (Janvier, 1984)
 > - **Comments**: 
 
+#### Waverly group, Oil Creek, Ohio, USA
+> - **Age**: Tournaisian
+> - **Taxa**: *Ctenacanthus triangularis*, **,
+> - **Locality and horizon**: Waverly group, Oil Creek, Ohio, USA
+> - **References**: (Newberry, 1873)
+> - **Comments**: 
+
+
 #### Kinderhook Limestone, Iowa, USA
 > - **Age**: early to middle Tournaisian
 > - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, *Ctenacanthus longinodosus*, *Ctenacanthus depressus*, **, **, **, **, **, **, **, 
@@ -1211,6 +1219,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
