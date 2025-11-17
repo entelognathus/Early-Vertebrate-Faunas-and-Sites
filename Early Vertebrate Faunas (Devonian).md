@@ -515,7 +515,12 @@ wick, Canada
 >
 **Qujing Formation, Qujing and Huaning, Yunnan**
 > Givetian, Middle Devonian.
-
+> - **Age**:Givetian
+> - **Taxa**:*Dongshanodus qujingensis*
+> - **Locality and horizon**:Qujing Formation，Qujing
+> - **References**:(Wang,1981)
+> - **Comments**:
+>   
 **Chahuaqing Formation, Wuding and Luquan, Yunnan**
 > Givetian, Middle Devonian.
 
@@ -1098,6 +1103,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
