@@ -8,33 +8,38 @@
 > - **Comments**: 
 
 ## Stratigraphic correlations
-
+> - In the regional stratigraphy of southwestern North America, the Cisuralian encompasses two series: the **Wolfcampian** (Asselian to mid-Artinskian) and **Leonardian** (mid-Artinskian to Kungurian).
 
 # Permian
 ## Cisuralian (Early Permian, 乌拉尔世)
 ### Asselian（阿瑟尔期）, Cisuralian, Permian
-
 #### Goldlauter Formation, Thuringian Forest, Germany
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
 > - **Taxa**:
->> - Branchiosaurid Amphibians (Temnospondyli): Apateon dracyiensis, Apateon kontheri, Apateon flagrifer, Melanerpeton eisfeldi, Branchierpeton reinholdi .
+>> - Temnospondyli: *Apateon dracyiensis*, *Apateon kontheri*, *Apateon flagrifer*, *Melanerpeton eisfeldi*, *Branchierpeton reinholdi*.
 >> - Actinopterygii: *Amelangia ornata*.
 > - **Locality and horizon**: Exposed in the Thuringian Forest Basin (central Germany) as part of the Lower Rotliegend Group. Vertebrate fossils originate chiefly from lacustrine shale horizons in the lower Goldlauter Formation (Asselian), notably at the Cabarz quarry near Tabarz and the Sperbersbach site near Gehlberg (Cui et al., 2022; Štamberg and Werneburg, 2023). These fossiliferous “lake” beds lie above the Manebach Formation and are correlated with the uppermost Gzhelian–Asselian continental sequence (Schneider et al., 2020, as cited in Cui et al., 2022).
 > - **References**: Werneburg et al., 2007; Werneburg, 1988; Štamberg and Werneburg, 2023; Cui et al., 2022; Buchwitz and Voigt, 2018; Käßner et al., 2024; Werneburg, 2007
 > - **Comments**:
 
-#### Meisenheim Formation, Saar–Nahe Basin (Germany)
+#### Meisenheim Formation, Saar–Nahe Basin, Germany
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Chondrichthyes (cartilaginous fish): Xenacanthus meisenheimensis. Acanthodii: Acanthodes sp.. Actinopterygii: Paramblypterus duvernoy. Sarcopterygii: Palatinichthys laticeps. Amphibia (Temnospondyli): Sclerocephalus haeuseri, Glanochthon angusta, Archegosaurus decheni, Apateon pedestris.
-> - **Locality and horizon**: Continental lake deposits of the Lower Rotliegend (Glan Subgroup) in the Saar–Nahe Basin, SW Germany. Vertebrate fossils occur throughout the Meisenheim Formation (M1–M10 units), with major Lagerstätten in laminated shales and limestones at Jeckenbach (M6, Odernheim Subformation), Odernheim (M8 “Kalkbank”), Pfarrwald/Kappeln (M9 black shale), and Humberg near Odernheim (M10) (Boy et al., 2012; Schoch, 2021). These horizons lie in the Autunian-aged red-bed sequences of the basin’s Bad Kreuznach region (Rhineland-Palatinate)
+> - **Taxa**:
+>> - Chondrichthyes: *Xenacanthus meisenheimensis*.
+>> - Acanthodii: *Acanthodes* sp..
+>> - Actinopterygii: *Paramblypterus duvernoy*.
+>> - Sarcopterygii: *Palatinichthys laticeps*.
+>> - Amphibia (Temnospondyli): *Sclerocephalus haeuseri*, *Glanochthon angusta*, *Archegosaurus decheni*, *Apateon pedestris*.
+> - **Locality and horizon**: Continental lake deposits of the Lower Rotliegend (Glan Subgroup) in the Saar–Nahe Basin, SW Germany. Vertebrate fossils occur throughout the Meisenheim Formation (M1–M10 units), with major Lagerstätten in laminated shales and limestones at Jeckenbach (M6, Odernheim Subformation), Odernheim (M8 “Kalkbank”), Pfarrwald/Kappeln (M9 black shale), and Humberg near Odernheim (M10) (Boy et al., 2012; Schoch, 2021). These horizons lie in the Autunian-aged red-bed sequences of the basin’s Bad Kreuznach region (Rhineland-Palatinate).
 > - **References**: Boy, 1987; Boy, 1994; Hampe, 1994; Boy, 1996; Schoch and Hampe, 2004; Königer et al., 2002; Witzmann, 2006; Boy, 2003; Kriwet et al., 2008; Schoch and Witzmann, 2009a; Schoch and Witzmann, 2009b; Witzmann and Schoch, 2012; Boy et al., 2012; Schoch, 2021
-> - **Comments**: spanning the Carboniferous–Permian boundary
+> - **Comments**: spanning the Carboniferous–Permian boundary.
 
 #### Shanxi Formation, Shanxi Province, China
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
 > - **Taxa**:
->> - Chondrichthyes: Ornithoprion sp., Palaeomolis sp. (Liu, 2013; Liu et al., 2024).
->> - Temnospondyli: Shanxitemnos qiangshuiensis (Chen et al., 2020). Reptiliomorpha: Shansiodon yangquanensis (Wang et al., 2023)
+>> - Chondrichthyes: *Ornithoprion* sp., *Palaeomolis* sp. (Liu, 2013; Liu et al., 2024).
+>> - Temnospondyli: *Shanxitemnos qiangshuiensis* (Chen et al., 2020).
+>> - Reptiliomorpha: *Shansiodon yangquanensis* (Wang et al., 2023)
 > - **Locality and horizon**: Qianshui quarry, Qinyuan County, and localities in Yangquan, Shanxi Province, China. Lower member (or lower part) of the Shanxi Formation (Liu, 2013; Chen et al., 2020; Wang et al., 2023).
 > - **References**:
 > - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
@@ -55,13 +60,26 @@
 > - **References**: Lewis and Vaughn, 1965; Hunt and Lucas, 1992; Berman et al., 1985; Lucas et al., 2010;
 > - **Comments**: *Diadectes* fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
 
-#### Archer City Formation, North-central Texas, United States
+#### Archer City Formation, North-central Texas, USA
 > - **Age**: Asselian to early Sakmarian, Cisuralian (Early Permian), Permian.
-> - **Taxa**: Chondrichthyes: Orthacanthus texensis, Orthacanthus compresus, Xenacanthus sp., Hybodus sp., Ctenacanthus sp., Barbclabornia luederensis (Johnson, 1999; Johnson, 2012). Osteichthyes: Ectosteorhachis nitidus, Sagenodus sp., Gnathorhiza sp., Palaeoniscoidea indet. (Thomson, 1964; Sander, 1989). Temnospondyli: Eryops megacephalus, Edops craigi, Neldasaurus wrightae, Phonerpeton pricei, Trimerorhachis insignis, Archeria crassidisca, Tersomius texensis, Acheloma sp., Broiliellus brevis, Broiliellus olsoni, "Dissorophus" angustus (Romer & Price, 1940; Romer & Witter, 1942; Chase, 1965; Dilkes, 1990; Dilkes, 2020; Milner & Schoch, 2013; Schoch, 2018). Nectridea: Diplocaulus sp., Crossotelos sp. (Romer & Price, 1940). Microsauria: Pantylus cordatus, Parioxys sp. (Romer & Price, 1940). Captorhinidae: Protorothyris archeri, Romeria texana, Romeria primus (Price, 1937; Clark & Carroll, 1973; Laurin, 1991). Bolosauridae: Eocaptorhinus sp. (Romer & Price, 1940). Caseidae: Casea sp. (Romer & Price, 1940). Varanopidae: Apsisaurus witteri, Varanosaurus wichitaensis, Mycterosaurus sp. (Romer & Price, 1940; Reisz et al., 2010). Ophiacodontidae: Ophiacodon uniformis, Ophiacodon retroversus, Ophiacodon navajovicus (Romer & Price, 1940). Edaphosauridae: Edaphosaurus boanerges (Romer & Price, 1940). Sphenacodontidae: Dimetrodon milleri, Dimetrodon limbatus, Dimetrodon natalis, Dimetrodon booneorum, Dimetrodon grandis, Dimetrodon giganhomogenes, Sphenacodon ferocior, Secodontosaurus obtusidens (Romer, 1937; Romer & Price, 1940). Synapsida incertae sedis: Stereophallodon ciscoensis, Baldwinonus trux, Lupeosaurus sp., Theropleura sp. (Romer & Price, 1940). Diadectidae: Diadectes sp. (Romer & Price, 1940).
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus texensis*, *Orthacanthus compresus*, *Xenacanthus* sp., *Hybodus* sp., *Ctenacanthus* sp., *Barbclabornia luederensis* (Johnson, 1999; Johnson, 2012).
+>> - Osteichthyes: *Ectosteorhachis nitidus*, *Sagenodus* sp., *Gnathorhiza* sp., Palaeoniscoidea indet. (Thomson, 1964; Sander, 1989).
+>> - Temnospondyli: Eryops megacephalus, Edops craigi, Neldasaurus wrightae, Phonerpeton pricei, Trimerorhachis insignis, Archeria crassidisca, Tersomius texensis, Acheloma sp., Broiliellus brevis, Broiliellus olsoni, "Dissorophus" angustus (Romer & Price, 1940; Romer & Witter, 1942; Chase, 1965; Dilkes, 1990; Dilkes, 2020; Milner & Schoch, 2013; Schoch, 2018).
+>> - Nectridea: Diplocaulus sp., Crossotelos sp. (Romer & Price, 1940).
+>> - Microsauria: Pantylus cordatus, Parioxys sp. (Romer & Price, 1940).
+>> - Captorhinidae: Protorothyris archeri, Romeria texana, Romeria primus (Price, 1937; Clark & Carroll, 1973; Laurin, 1991).
+>> - Bolosauridae: Eocaptorhinus sp. (Romer & Price, 1940).
+>> - Caseidae: Casea sp. (Romer & Price, 1940).
+>> - Varanopidae: Apsisaurus witteri, Varanosaurus wichitaensis, Mycterosaurus sp. (Romer & Price, 1940; Reisz et al., 2010).
+>> - Ophiacodontidae: Ophiacodon uniformis, Ophiacodon retroversus, Ophiacodon navajovicus (Romer & Price, 1940).
+>> - Edaphosauridae: Edaphosaurus boanerges (Romer & Price, 1940).
+>> - Sphenacodontidae: Dimetrodon milleri, Dimetrodon limbatus, Dimetrodon natalis, Dimetrodon booneorum, Dimetrodon grandis, Dimetrodon giganhomogenes, Sphenacodon ferocior, Secodontosaurus obtusidens (Romer, 1937; Romer & Price, 1940).
+>> - Synapsida incertae sedis: Stereophallodon ciscoensis, Baldwinonus trux, Lupeosaurus sp., Theropleura sp. (Romer & Price, 1940).
+>> - Diadectidae: Diadectes sp. (Romer & Price, 1940).
 > - **Locality and horizon**: Formation outcrops in arc from Montague County through Clay, Archer, and Young counties to Throckmorton County, most broadly exposed in Clay and Archer counties; type section along Farm Road 2581, approximately 5 miles southeast of Archer City. Formation thickness 350-400 feet (107-122 m), containing 9-15 mappable sandstone members with intervening red mudstones. Principal bonebeds include Archer City Bonebed I, III (ACBB III, Circle A Ranch), and V (TMM-45923, Circle A Ranch), Rattlesnake Canyon Bonebed, Kola Switch locality (Clay County), and over 200 tetrapod sites (Hentz, 1988; Hook, 1989; Sander, 1989; Shelton, 2013; DiMichele et al., 2019).
 > - **References**: Chase, 1965; Clark & Carroll, 1973; Dilkes, 1990; Dilkes, 2020; DiMichele et al., 2018; DiMichele et al., 2019; Hentz, 1988; Hentz & Brown, 1987; Hook, 1989; Johnson, 1999; Johnson, 2012; Laurin, 1991; Lucas, 2006; Milner & Schoch, 2013; Price, 1937; Reisz et al., 2010; Romer, 1928; Romer, 1935; Romer, 1937; Romer & Price, 1940; Romer & Witter, 1942; Sander, 1987; Sander, 1989; Schoch, 2018; Shelton, 2013; Tabor & Montañez, 2004; Tabor et al., 2013; Thomson, 1964; Wardlaw, 2005.
-> - **Comments**: The Archer City Formation was not named as a unique geological unit until the late 1980s. Older studies generally labelled its outcrops as the Moran or Putnam formations, which are age-equivalent marine units to the southwest. The Archer City Formation is a unit of the Bowie Group, lying above the Markley Formation and below the Nocona Formation of the Wichita Group. The Archer City Formation occupies most of the Asselian. The upper part of the Archer City Formation may extend into the succeeding Sakmarian stage.
-“Dissorophus” angustus is now Scapanops. 
+> - **Comments**: The Archer City Formation was not named as a unique geological unit until the late 1980s. Older studies generally labelled its outcrops as the Moran or Putnam formations, which are age-equivalent marine units to the southwest. The Archer City Formation is a unit of the Bowie Group, lying above the Markley Formation and below the Nocona Formation of the Wichita Group. The Archer City Formation occupies most of the Asselian. The upper part of the Archer City Formation may extend into the succeeding Sakmarian stage. “Dissorophus” angustus is now Scapanops. 
 
 #### Abo Formation, New Mexico, USA
 > - **Age**: Cisuralian, Permian.
@@ -2347,6 +2365,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
