@@ -11,8 +11,8 @@
 
 
 # Permian
-## Cisuralian (Early Permian)
-### Asselian, Cisuralian, Permian
+## Cisuralian (Early Permian, 乌拉尔世)
+### Asselian（阿瑟尔期）, Cisuralian, Permian
 
 #### Goldlauter Formation, Thuringian Forest, Germany
 > - **Age**: Asselian, Cisuralian (Early Permian), Permian.
@@ -63,7 +63,6 @@
 > - **Comments**: The Archer City Formation was not named as a unique geological unit until the late 1980s. Older studies generally labelled its outcrops as the Moran or Putnam formations, which are age-equivalent marine units to the southwest. The Archer City Formation is a unit of the Bowie Group, lying above the Markley Formation and below the Nocona Formation of the Wichita Group. The Archer City Formation occupies most of the Asselian. The upper part of the Archer City Formation may extend into the succeeding Sakmarian stage.
 “Dissorophus” angustus is now Scapanops. 
 
-
 #### Abo Formation, New Mexico, USA
 > - **Age**: Cisuralian, Permian.
 > - **Taxa**:
@@ -96,7 +95,7 @@
 > - **References**: Catuneanu et al., 2005; Oelofsen and Araújo, 1987; Evans and Bender, 1999; Ledendecker, 1992
 > - **Comments**: 
 
-### Sakmarian, Cisuralian, Permian
+### Sakmarian（萨克马尔期）, Cisuralian, Permian
 #### Liffey Group, Tasmania, Australia
 > - **Age**: Sakmarian, Cisuralian (Early Permian), Permian.
 > - **Taxa**: no vertebrate fossil?
@@ -112,7 +111,7 @@
 > - **Comments**: 
 
 
-### Artinskian, Cisuralian, Permian
+### Artinskian（亚丁斯克期）, Cisuralian, Permian
 
 #### Lueders Formation, north-central Texas, USA
 > - **Age**: Artinskian，Cisuralian (Early Permian), Permian.
@@ -196,7 +195,7 @@
 > - **References**: Price, 1948; Cox & Hutchinson, 1991; Alves, 2010; Alves, 2010b; Cisneros et al., 2015; Cisneros et al., 2020; Figueroa & Gallo, 2017; Figueroa et al., 2019; Iannuzzi et al., 2018; Alves et al., 2021; Marsicano et al., 2021.
 > - **Comments**:
 
-### Kungurian, Cisuralian, Permian
+### Kungurian（空谷期）, Cisuralian, Permian
 
 #### Arroyo Formation, north-central Texas, USA
 > - **Age**: Kungurian, Cisuralian (Early Permian), Permian.
@@ -280,8 +279,8 @@
 > - **References**: Berruti, 1970; Cadel, 1986; Cassinis, 1966; Cassinis & Doubinger, 1992; Ceoloni et al., 1987; Ronchi and Santi, 2003; Santi, 2005; Santi and Krieger, 2001; Schaltegger and Brack, 2007; Silantiev et al., 2022
 > - **Comments**:
 
-## Guadalupian (middle Permian)
-### Roadian, Guadalupian, Permian
+## Guadalupian (middle Permian， 瓜德鲁普世)
+### Roadian（罗德期）, Guadalupian, Permian
 #### Qingtoushan Formation, Gansu, China
 > - **Age**: Roadian, Guadalupian (middle Permian).
 > - **Taxa**: Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*. Sauropsida: *Belebey zhengi*, *Gansurhinus qingtoushanensis*. Temnospondyli: *Anakamacops petrolicus*. Chroniosuchia: *Phratochronis qilianensis*, *Ingentidens corridoricus*
@@ -338,7 +337,7 @@
 > - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016
 > - **Comments**:
 
-### Wordian, Guadalupian, Permian
+### Wordian（沃德期）, Guadalupian, Permian
 #### La Lieude Formation, France
 > - **Age**: Wordian–Capitanian, Guadalupian, Permian 
 > - **Taxa**: Synapsida: *Lalieudorhynchus gandi*, ?*Stereorachis dominans*. Temnospondyli: Tupilakosauridae indet. Amniota: Araeoscelidia indet., Seymouriamorpha indet.
@@ -402,7 +401,7 @@
 > - **References**: Cole et al., 2016; Day et al., 2015; Rubidge & Day, 2020; Day & Rubidge, 2020; Bordy & Paiva, 2021
 > - **Comments**:  
 
-### Capitanian, Guadalupian, Permian
+### Capitanian（卡匹敦期）, Guadalupian, Permian
 #### Teekloof Formation (lower Poortjie Member), South Africa
 > - **Age**: latest Capitanian, Middle Permian
 > - **Taxa**:  Dinocephalia: *Anteosaurus*, *Criocephalosaurus*, *Titanosuchus*. Therocephalia: Baurioidea gen. indet. (ictidosuchid-grade),?*Ictidosuchoides*. 
@@ -417,8 +416,8 @@
 > - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor et al., 2021; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
 > - **Comments**:  
 
-## Lopingian (late Permian)
-### Wuchiapingian, Lopingian, Permian
+## Lopingian (late Permian, 乐平世)
+### Wuchiapingian（吴家坪期）, Lopingian, Permian
 #### Kundaram Formation, Pranhita–Godavari Basin, India
 > - **Age**: Wuchiapingian, Lopingian, Permian
 > - **Taxa**: Synapsida: *Endothiodon mahalanobisi*, *Endothiodon bathystoma*, *Dicynodontoides* sp., *Sauroscaptor tharavati*, *Pristerodon mackayi*, *?Oudenodon* sp., *Emydops platyceps*, *Cistecephalus microrhinus*, Gorgonopsia indet. Reptilia: *Indosauriscus kuttyi* 
@@ -503,7 +502,7 @@
 > - **References**: Bernardi et al., 2018; Conti et al., 1977; Kustatscher et al., 2017; Leonardi et al., 1975; Marchetti et al., 2017; Massari et al., 1994; Prinoth, 2017
 > - **Comments**:
 
-### Changhsingian, Lopingian, Permian
+### Changhsingian（长兴期）, Lopingian, Permian
 #### Burngrove Formation, Bowen Basin – Queensland, Australia
 > - **Age**: late Changhsingian, Lopingian, Late Permian 
 > - **Taxa**: Ichnofossils: Probable fish trails; probable amphibian digit imprints and foraging grooves; large irregular (fish or amphibian?) trails; large, single-grooved sinuous trails (fish or amphibian tail drag mark?); paired scuff-marks (vertebrate appendage indentations?) ; en echelon sets of indentations (vertebrate fin or toe marks?) 
@@ -2348,6 +2347,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
