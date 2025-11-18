@@ -115,10 +115,10 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**: 
 
 ### Bartonian
-#### 
-> - **Age**:
+#### Great Oolite Group, UK
+> - **Age**:Bartonian
 > - **Taxa**: *Asteracanthus medius*
-> - **Locality and horizon**:
+> - **Locality and horizon**: Great Oolite Group, UK
 > - **References**: (Underwood and Ward, 2004; Rees and Underwood, 2008)
 > - **Comments**: 
 ### Priabonian
@@ -213,6 +213,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
 
