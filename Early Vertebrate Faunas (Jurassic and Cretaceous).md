@@ -122,6 +122,12 @@
 > - **References**: (Brown, 1946)
 > - **Comments**: 
 
+**Hakobuchi Formation, Yezo Group, Hokkaido, Japan**
+> - **Age**: Maastrichtian
+> - **Taxa**: Acipenseridae gen. et sp. indet (Miyata et al., 2025); callorhinchid holocephalans _Callorhinchus orientalis_ (Ota et al., 2025); the mosasaurid squamates _Mosasaurus hobetsuensis_ (Suzuki, 1985), _Phosphorosaurus ponpetelegans_ (Konishi et al., 2016); cheloninoid turtle _Mesodermochelys undulatus_ (Hirayama & Chitoku, 2016); hadrosaurid dinosaur _Kamuysaurus japonicus_ (Kobayashi et al., 2019)
+> - **Locality and horizon**: Hakobuchi Formation, Yezo Group, Hokkaido, Japan
+> - **References**: Miyata et al., 2025
+> - **Comments**: Miyata et al., 2025: On the basis of these marine and terrestrial vertebrate assemblages, the Hakobuchi Formation in the Hobetsu area is considered crucial for understanding the vertebrate fauna that developed in the marine and coastal nonmarine environments in East Asia during the Late Cretaceous.
 
 
 
