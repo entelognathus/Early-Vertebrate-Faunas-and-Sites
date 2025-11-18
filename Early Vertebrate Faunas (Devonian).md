@@ -1056,6 +1056,13 @@ The arthrodires comprise
 > Catskill Formation; Red Hill, Pennsylvania, USA.
 > - Apatorhynchus opistheretmus(Friedman and Daeschler, 2006) Late Devonian, Famennian (Fa2b).
 
+***Huron shale, Ohio shale, Appalachian Basin, USA***: Famennian
+> - **Age**:Famennian
+> - **Taxa**:*Xenodus hertzeri*
+> - **Locality and horizon**:Huron shale, Ohio shale, Delaware, Ohio, Appalachian Basin, USA***: Famennian
+> - **References**:(Newberry, 1889)
+> - **Comments**: The Upper Devonian Huron Member of the Ohio Shale occurs in the Appalachian Basin of the eastern USA where thermal maturity ranges from immature in the west to overmature in the east (Rimmer and others, 1993; Milici and Swezey, 2006). Huron deposition occurred in a marine foreland basin environment and kerogen primarily is Type II
+
 ***Worange Point fauna***: lower Famennian.
 > Worange Point Formation, Eden-Pambula region, MAV14
 
@@ -1103,6 +1110,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
 
 
 
