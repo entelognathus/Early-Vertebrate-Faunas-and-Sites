@@ -115,10 +115,11 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**: 
 
 ### Bartonian
+#### 
 > - **Age**:
-> - **Taxa**: 
+> - **Taxa**: *Asteracanthus medius*
 > - **Locality and horizon**:
-> - **References**:
+> - **References**: (Underwood and Ward, 2004; Rees and Underwood, 2008)
 > - **Comments**: 
 ### Priabonian
 #### Jackson Formation, Priabonian, Clarke County, State of Alabama, USA
@@ -212,6 +213,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
 
