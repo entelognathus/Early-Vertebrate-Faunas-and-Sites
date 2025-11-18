@@ -73,6 +73,13 @@
 **Sannine Formation Fauna (Lebanon)** 
 > *Macropomoides orientalis*
 
+**Dunvegan Formation, northwestern Alberta, Canada**
+> - **Age**: middle Cenomanian
+> - **Taxa**: acipenseriform fish (Acipenseridae) (Vavrek et al., 2014); elasmobranchs (Cook et al., 2008): the hybodontiform shark _Hybodus_ (Hybodontidae), the lamniform sharks _Squalicorax_ (Anacoracidae), _Johnlongia parvidens_ (Odontaspididae), _Cretodus semiplicatus_, _Cretoxyrhina_ cf. _C. Mantelli_, _Dallasiella willistoni_, _Archaeolamma_ cf. _A. kopingensis_, and _Protolamma carteri_ (all Cretoxyrhinidae), the rhinobatoid skate _Pseudohypolophus mcnultyi_ (Rajiformes); osteichthyan: ellimmichthyiform _Tycheroichthys dunveganensis_ (Hay et al., 2007);
+> - **Locality and horizon**: Dunvegan Formation, along the Peace River, northwestern Alberta, Canada
+> - **References**: Vavrek et al., 2014
+> - **Comments**: 
+
 ### Turonian
 
 ### Coniacian
@@ -130,7 +137,9 @@
 > - **Comments**: Miyata et al., 2025: On the basis of these marine and terrestrial vertebrate assemblages, the Hakobuchi Formation in the Hobetsu area is considered crucial for understanding the vertebrate fauna that developed in the marine and coastal nonmarine environments in East Asia during the Late Cretaceous.
 
 
-
+###References
+1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
+2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
 
 
 
