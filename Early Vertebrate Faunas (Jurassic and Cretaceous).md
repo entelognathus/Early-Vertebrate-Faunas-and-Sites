@@ -41,6 +41,13 @@
 > - **References**:(Woodward, 1892)
 > - **Comments**:
 
+> - #### Cap de la Hève Kimmeridgian Fauna, France**
+> - **Age**: Kimmeridgian
+> - **Taxa**:*Asteracanthus lepidus*
+> - **Locality and horizon**: Cap de la Hève Kimmeridgian Fauna, France
+> - **References**:(Dollfus, 1863)
+> - **Comments**:
+
 ### Tithonian
 
 
@@ -140,6 +147,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
