@@ -1103,13 +1103,28 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 > - Gess & Whitfield, 2020: The Witpoort Formation of the Witteberg Group consists of mature quartz arenites, interpreted as having been deposited along a linear, sandy coastline, dominated by longshore drift (Hiller & Taylor, 1992). Occasional thin black shale horizons occur at intervals through the Witpoort Formation (Theron, 1972). On sedimentary grounds these have been interpreted as including estuarine and coastal lagoonal sediments (Hiller & Taylor, 1992; Taylor & Hiller, 1993).
 > -  The depositional environment of the Waterloo Farm site is interpreted as a seasonally open estuarine lake containing salinity gradients between areas more proximal and distal from the sea. Episodes of exceptional preservation are often represented by particularly fine-grained, carbon-rich layers that are indicative of large (>1,000 ha), deep (>5 m) semiisolated water bodies where water currents were minimal and meromictic conditions probable.
 
-
-
+**Dyer Formation, White River Plateau, northwestern Colorado, USA**
+> - **Age**: late Famennian, Late Devonian
+> - **Taxa**: Dipnoi ()
+>> - **Placoderm**: _Dunkleosteus_ sp.
+>> - **Chondrichthyans**: _Ctenacanthus concinnus_ (Ctenacanthiformes), _Sphenacanthus_ sp. (Euselachii), _Ctenacanthus_ cf. _concinnus_, _Lissodus_ sp. (Hybodontiformes), _Orodus mammillaris_ (Orodontiformes), _Helodus_ sp. (Helodontiformes, Holocephali), _Psephodus_ sp. (Cochliodontiformes, Holocephali),
+>> - **Osteichthyans**: Dipnoi (referred to "_Dipterus_" _sensu lato_ due to taxonomic uncertainty)
+>> - Invertebrates: Documented groups include algae, sponges, corals, conulariids, brachiopods, bryozoans, bivalves, gastropods, orthocerid/actinocerid cephalopods, crinoids, asteroids, and trace fossils
+> - **Locality and horizon**: White River Plateau, northwestern Colorado, USA (Garfield County)
+>> - DMNH Locality 4258 (Crane Park Quarry): Sub-localities like "Fisherman’s Wharf," "The Dentist’s Office," and "The Altar" (primary source of chondrichthyan teeth/spines and lungfish tooth plates).
+>> - DMNH Locality 3637 (Bison Lake): Sub-locality "Crinoid Point" (yields Dunkleosteus plates, articulated crinoids, and shark teeth).
+>> - DMNH Locality 3638 (near Crane Park Quarry): Source of Dunkleosteus intero-lateral plates.
+>> - AMNH Locality 19630 (Deep Lake): Additional fossil-bearing site.
+> - **References**: Schultze et al., 2021
+> - **Comments**: The Dyer Formation preserves a critical late Famennian fauna where "Carboniferous-type" taxa (e.g., Psephodus, Orodus, Ctenacanthus) coexist with typical Late Devonian forms (Dunkleosteus). This demonstrates that many Carboniferous vertebrate lineages originated before the Hangenberg Crisis, blurring the Devonian-Carboniferous faunal boundary.
 
 
 
 **References**
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
+
+Schultze, H.P., Hagadorn, J.W., Bullecks, J., Soar, L.K., Pradel, A., Denton, J. S. S., & Janvier, P. (2021). Devonian fish from Colorado’s Dyer Formation and the appearance of Carboniferous faunas in the Famennian. Ancient fishes and their living relatives: A tribute to John G. Maisey: Mu‐nich, Germany, Verlag Dr. Friedrich Pfeil [Dr. Friedrich Pfeil Scientific Publishers], 247-256.
+
 
 
 
