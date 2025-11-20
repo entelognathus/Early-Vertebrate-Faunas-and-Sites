@@ -148,11 +148,17 @@
 > - **Locality and horizon**: Hakobuchi Formation, Yezo Group, Hokkaido, Japan
 > - **References**: Miyata et al., 2025
 > - **Comments**: Miyata et al., 2025: On the basis of these marine and terrestrial vertebrate assemblages, the Hakobuchi Formation in the Hobetsu area is considered crucial for understanding the vertebrate fauna that developed in the marine and coastal nonmarine environments in East Asia during the Late Cretaceous.
-
+**Moreno shale/Formation, San Joaquin Valley, California, USA**
+> - **Age**: Maastrichtian
+> - **Taxa**: *Corax sp.*
+> - **Locality and horizon**: Moreno shale/Formation, San Joaquin Valley, California, USA
+> - **References**:(David, 1946)
+> - **Comments**: 
 
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
