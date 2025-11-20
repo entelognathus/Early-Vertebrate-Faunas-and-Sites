@@ -71,7 +71,13 @@
 
 
 ### Albian, Early Cretaceous
-
+#### late Albian, quartz-glauconite sands in Kaniv dislocations in Ukraine 
+> - **Age**: late Albian
+> - **Taxa**: *Hybodus bidentatus*, *Hybodontoidea indet.*, * Synechodus kessleri*,  *Synechodus subulatus*, *Paraorthacodus recurvus*, *Protosqualus cf. glickmani*, *Squatina (Cretascyllium) cranei*, *Chiloscyllium sp.*, *Cederstroemia cf. siverssoni*, *Heterodontus upnikensis*, *Heterodontus aff. canaliculatus*, *Squalicorax sp.*, *Archaeolamna striata*, *Archaeolamna ex gr. kopingensis*, *Cretolamna sp.*, *Cretoxyrhina vraconensis*, *Paraisurus macrorhizus*, *Protolamna cf. sokolovi*, *Pseudoscapanorhynchus compressidens*, *Eostriatolamia subulata*, *Eostriatolamia striatula*, *Lamniformes indet. 1*, *Lamniformes indet. 2*, **, **, **, **, **, **, **, **, 
+> - **Locality and horizon**: Pekarskyi (coordinates: 49°42.568′N 31°32.558′E), Melanchyn potik (49°43.3250′N31°30.788′E) and Kholodnyi (49°43.001′N
+ 31°32.381′E). 
+> - **References**:(Sokolskyi and Guinot, 2021)
+> - **Comments**: Most importantly, Paraisurus macrorhizus and Cretoxyrhina vraconensis findings indicate a late Albian age for the sampled deposits, which were so far considered Albian-Cenomanian (Sokolskyi and Guinot, 2021).
 
 ## Late Cretaceous
 
@@ -147,6 +153,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
