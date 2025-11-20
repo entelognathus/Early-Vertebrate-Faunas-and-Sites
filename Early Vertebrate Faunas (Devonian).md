@@ -1105,7 +1105,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 
 **Dyer Formation, White River Plateau, northwestern Colorado, USA**
 > - **Age**: late Famennian, Late Devonian
-> - **Taxa**: Dipnoi ()
+> - **Taxa**: 
 >> - **Placoderm**: _Dunkleosteus_ sp.
 >> - **Chondrichthyans**: _Ctenacanthus concinnus_ (Ctenacanthiformes), _Sphenacanthus_ sp. (Euselachii), _Ctenacanthus_ cf. _concinnus_, _Lissodus_ sp. (Hybodontiformes), _Orodus mammillaris_ (Orodontiformes), _Helodus_ sp. (Helodontiformes, Holocephali), _Psephodus_ sp. (Cochliodontiformes, Holocephali),
 >> - **Osteichthyans**: Dipnoi (referred to "_Dipterus_" _sensu lato_ due to taxonomic uncertainty)
@@ -1124,6 +1124,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
 
 Schultze, H.P., Hagadorn, J.W., Bullecks, J., Soar, L.K., Pradel, A., Denton, J. S. S., & Janvier, P. (2021). Devonian fish from Colorado’s Dyer Formation and the appearance of Carboniferous faunas in the Famennian. Ancient fishes and their living relatives: A tribute to John G. Maisey: Mu‐nich, Germany, Verlag Dr. Friedrich Pfeil [Dr. Friedrich Pfeil Scientific Publishers], 247-256.
+
 
 
 
