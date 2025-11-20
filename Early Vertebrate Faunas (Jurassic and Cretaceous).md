@@ -78,7 +78,12 @@
  31°32.381′E). 
 > - **References**:(Sokolskyi and Guinot, 2021)
 > - **Comments**: Most importantly, Paraisurus macrorhizus and Cretoxyrhina vraconensis findings indicate a late Albian age for the sampled deposits, which were so far considered Albian-Cenomanian (Sokolskyi and Guinot, 2021).
-
+#### Açu Formation,  middle Cretaceous (Albiane-Cenomanian), Potiguar Basin, Northeastern Brazil
+> - **Age**: middle Cretaceous (Albiane-Cenomanian)
+> - **Taxa**: *Distobatus potiguarense*, **,
+> - **Locality and horizon**: Açu Formation,  middle Cretaceous (Albiane-Cenomanian), Potiguar Basin, Northeastern Brazil
+> - **References**:(Brito et al., 2025)
+> - **Comments**: The age is not exact, here use Cenomanian.
 ## Late Cretaceous
 
 
@@ -158,6 +163,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
