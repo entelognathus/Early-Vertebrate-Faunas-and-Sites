@@ -97,6 +97,14 @@
 > - **Locality and horizon**: Dunvegan Formation, along the Peace River, northwestern Alberta, Canada
 > - **References**: Vavrek et al., 2014
 > - **Comments**: 
+**Gebel Dist Member, Bahariya Formation, Gebel Dist, Bahariya Oasis, Egypt**
+> - **Age**: late Cenomanian
+> - **Taxa**:
+> - Chondrichyans: *Hybodus aschersoni*, *Asteracanthus aegyptiacus*, *Lissodus bartheli*, *Chiloscyllium mereretiae*, *Orectoloboides multistriatus*, *Carcharoides planidens*, *Cretodus longiplicatus*, *Squalicorax baharijensis*, *Isidobatus tricarinatus*, *Mafdetia tibniensis*, *Onchopristis numidus*, *Baharipristis bastetiae*, *Marckgrafia libyca*, *Ptychotrygon henkeli*, *Sechmetia aegyptiaca*, *Sechmetia cruciformis*, *Renpetia labiicarinata*, *Peyeria libyca*, *Gymnura laterialata*, *Rhinoptera sp.*, *Distobatus nutiae*, *Distobatus sp.*, *Aegyptobatus kuehnei*, **, **, **, **, **, **, **, 
+> - **Locality and horizon**: Gebel Dist Member, Bahariya Formation, Gebel Dist, Bahariya Oasis, Egypt
+> - **References**:(Werner, 1989)
+> - **Comments**: 
+
 
 ### Turonian
 
@@ -163,6 +171,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
