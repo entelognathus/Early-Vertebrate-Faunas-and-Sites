@@ -107,7 +107,12 @@
 
 
 ### Turonian
-
+#### Blue Hill Shale, Carlile Shale Formation, middle Turonian,  Tipton, Mitchell County, Kansas, USA
+> - **Age**: middle Turonian
+> - **Taxa**:*Cretodus houghtonorum*
+> - **Locality and horizon**: Blue Hill Shale, Carlile Shale Formation, middle Turonian,  Tipton, Mitchell County, Kansas, USA
+> - **References**: (Shimada and Everhart)
+> - **Comments**: 
 ### Coniacian
 
 ### Santonian
@@ -171,6 +176,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
