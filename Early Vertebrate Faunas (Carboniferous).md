@@ -576,8 +576,14 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Comments**：Grey & Finkel, 2011: The Joggins Fossil Cliffs site comprises a 14.7-km-long coastal section. The pioneering Canadian geologist, William Logan, first described the section at Joggins in 1843 and logged over 4 km of it in just five  days (Rygel and Shipley 2005). Over the next 150 years, the sedimentology and stratigraphy of the section were revised by several researchers, including Dawson (1868), Bell (1912, 1914, 1944) and Copeland (1959). To date, the most complete lithostratigraphic investigations of the entire Joggins section remain those by Ryan et al. (1991) and Ryan and Boehner (1994). Ryan et al. (1991) were the first to delineate and name formations and informal members in the Cumberland Group, and this work was expanded upon by Davies et al. (2005), Calder et al. (2005a) and others. Recent tectonostratigraphic work on the oldest, Mabou Group, part of the section was the subject of a M.Sc. thesis by McLeod (2010). Today, the section is considered to include units of the Early Carboniferous (Mississippian) Mabou Group (Shepody and Claremont formations) and the Late Carboniferous (Pennsylvanian) Cumberland Group (Boss Point, Little River, Joggins, Springhill Mines, and Ragged Reef formations)。
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
-> The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.
+> The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.Gzhelodus serratus
 
+#### Kosherovo Formation, Khamovnikian Regional Stage, Zhirnovsk Quarry, Volgograd  Region, Russia
+> - **Age**: Kasimovian
+> - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
+> - **Locality and horizon**: Zhirnovsk Quarry, Volgograd  Region, Russia
+> - **References**:(Ivanov, 2022)
+> - **Comments**: 
 #### Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
 > - **Age**: Kasimovian (Missourian)
 > - **Taxa**: chondrichthyans (*Acondylacanthus*, *Amelacanthus americanus*, *Bythiacanthus*, Hybodontidae, gen. et sp. indet., *"Physonemus" baculiformis*, *"Physonemus" stellatus*, **, **,)
@@ -606,6 +612,13 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Locality and horizon**: Oscar Formation; Waurika #1 site, Jefferson County, southern Oklahoma, USA
 > - **References**: (Maisey, 1983; Shelton, 1979)
 > - **Comments**: Oscar Group, Preferred name of the Oklahoma Geol. Survey rather than Kansas names Council Grove and Chase. Described from Noble County, central northern Oklahoma. Includes (descending) Herington Limestone, Enterprise Shale, Winfield Limestone, Doyle Shale, Fort Riley Limestone, Matfield Shale, Wreford Limestone, Garrison Shale, and, in subsurface, Witney (Hodges) sand, Cottonwood Limestone, Hotson sand, and Neva Limestone. Total thickness about 650 feet; outcrop thickness about 300 feet. Overlies Vanoss Group (in subsurface); underlies Sumner Group. **Age is latest Pennsylvanian (Gearyan), based on fossil data (see Branson, 1962; Wilson and Rashid [abs.], 1971; Clendening [abs.], 1971); previously considered earliest Permian**. From (Shelton, 1979, Geology and mineral resources of Noble County, Oklahoma, with a chapter on petroleum by J.W. Shelton and W.A. Jenkins and a chapter on water resources by R.H. Bingham: Oklahoma Geological Survey Bulletin, no. 128, 66 p.)
+
+#### Kosherovo Formation, Dobryatinian Regional Stage, , Russia
+> - **Age**: Gzhelian
+> - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
+> - **Locality and horizon**: Gzhel section, Ramenskoe District, Russia; Rusavkino Quarry, Balashikha District, Russia;
+> - **References**:(Ivanov, 2022)
+> - **Comments**: 
 
 #### Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
@@ -1219,6 +1232,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
