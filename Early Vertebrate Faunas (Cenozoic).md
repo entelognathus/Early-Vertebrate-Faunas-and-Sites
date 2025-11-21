@@ -66,6 +66,12 @@
 > - **Locality and horizon**: London Clay Formaiton, Isle of SHeppey, UK
 > - **References**: (Woodward, 1889)
 > - **Comments**: 
+#### Egemkapel Clay Member, Tielt Formation, Ampe Clay pit, Egemkapel, Belgium
+> - **Age**: Ypresian
+> - **Taxa**: *Eurasiabatis occlusostriata*
+> - **Locality and horizon**: Bed IV, Egemkapel Clay Member, Tielt Formation, Ampe Clay pit, Egemkapel, Belgium
+> - **References**: (Reinecke et al., 2024)
+> - **Comments**: 
 
 ### Lutetian
 #### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
@@ -213,6 +219,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
 
