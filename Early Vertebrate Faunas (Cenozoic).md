@@ -72,7 +72,12 @@
 > - **Locality and horizon**: Bed IV, Egemkapel Clay Member, Tielt Formation, Ampe Clay pit, Egemkapel, Belgium
 > - **References**: (Reinecke et al., 2024)
 > - **Comments**: 
-
+#### Konservat-Lagerst€atte, Pesciara, Bolca, Verona Province, Italy: late Ypresian
+> - **Age**: late Ypresian
+> - **Taxa**: *Eurasiabatis occlusostriata*
+> - **Locality and horizon**: limestone bed 11, Pesciara, Bolca, Verona Province, Italy
+> - **References**: (Marramà et al., 2023)
+> - **Comments**: 
 ### Lutetian
 #### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
@@ -219,6 +224,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
 
