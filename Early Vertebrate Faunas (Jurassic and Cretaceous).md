@@ -23,6 +23,12 @@
 > - **Comments**: The age of Yaojie Formation was named by Sun Jianchu as the Yaojie System in 1936. The naming section is located in the Yaojie area of the Honggu District, Lanzhou City, Gansu Province, with the Honggou section in the Yaojie area serving as its reference section (Wang Si’en and others, 1985). Schematic strat column suggests early-Middle Jurassic (Aalenian-Bajocian) age, here temporarily place it in Aalenian.
 ### Bajocian
 ### Bathonian
+#### Stonesfield Slate, Oxfordshire, UK
+> - **Age**: middle Bathonian
+> - **Taxa**:
+> - **Locality and horizon**: Stonesfield Slate, Oxfordshire, UK
+> - **References**: (Dineley and Metcalf, 1999)
+> - **Comments**: 
 ### Callovian
 ## Late Jurassic
 ### Oxfordian
@@ -176,6 +182,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
