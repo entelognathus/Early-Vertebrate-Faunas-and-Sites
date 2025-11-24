@@ -120,19 +120,14 @@
 > - **References**: (Shimada and Everhart)
 > - **Comments**: 
 ### Coniacian
-**lower part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan**
-> - **Age**: Coniacian
-> - **Taxa**: Chondrichthyans: *Ganopristis karakensis*
-> - **Locality and horizon**: lower part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan
-> - **References**: (Mustafa et al., 2002)
-> - **Comments**: 
+
 ### Santonian
 **Sahel Alma Fauna (Lebanon) late Santonian**
-**upper part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan**
-> - **Age**: Santonian
+**Umm Ghudran Formation, Wadi Falqa, Karak City, Jordan**
+> - **Age**: late Santonian
 > - **Taxa**: Chondrichthyans: *Ganopristis karakensis*
-> - **Locality and horizon**: upper part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan
-> - **References**: (Mustafa et al., 2002)
+> - **Locality and horizon**: upper part of the Umm Ghudran Formation, Wadi Falqa, Karak City, Jordan
+> - **References**: (Mustafa, 2000; Mustafa et al., 2002)
 > - **Comments**: 
 ### Campanian
 **Mesaverde Formation, Washakie County, Wyoming, USA**
@@ -161,7 +156,12 @@
 > - **Locality and horizon**:Basal sandstone, Mesaverde Formation,  20 miles west of Laramie, Wyoming, USA
 > - **References**:(Brown, 1946)
 > - **Comments**: 
-
+**Umman Formation, Wadi Falqa, Karak City, Jordan**
+> - **Age**: Coniacian
+> - **Taxa**: Chondrichthyans: 
+> - **Locality and horizon**: Umman Formation, Wadi Falqa, Karak City, Jordan
+> - **References**: (Mustafa et al., 2002)
+> - **Comments**: 
 ### Maastrichtian
 **Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan**
 > - **Age**: early Maastrichtian
@@ -192,6 +192,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
