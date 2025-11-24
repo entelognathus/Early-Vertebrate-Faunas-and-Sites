@@ -120,10 +120,20 @@
 > - **References**: (Shimada and Everhart)
 > - **Comments**: 
 ### Coniacian
-
+**lower part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan**
+> - **Age**: Coniacian
+> - **Taxa**: Chondrichthyans: *Ganopristis karakensis*
+> - **Locality and horizon**: lower part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan
+> - **References**: (Mustafa et al., 2002)
+> - **Comments**: 
 ### Santonian
 **Sahel Alma Fauna (Lebanon) late Santonian**
-
+**upper part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan**
+> - **Age**: Santonian
+> - **Taxa**: Chondrichthyans: *Ganopristis karakensis*
+> - **Locality and horizon**: upper part of the Umm Ghudran Formation, Wadi, Tayyiba, Sammu, Jordan
+> - **References**: (Mustafa et al., 2002)
+> - **Comments**: 
 ### Campanian
 **Mesaverde Formation, Washakie County, Wyoming, USA**
 > - **Age**: late Campanian.
@@ -182,6 +192,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
