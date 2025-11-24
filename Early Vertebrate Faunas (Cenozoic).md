@@ -21,6 +21,13 @@
 > - **References**:
 > - **Comments**:
 ### Thanetian
+#### Tuscahoma Formation, Meridian, Lauderdale County, Mississippi, USA
+> - **Age**: Thanetian
+> - **Taxa**:*Gomphogaleus rodgersi*
+> - **Locality and horizon**: Tuscahoma Formation, Meridian, Lauderdale County, Mississippi, USA
+> - **References**: (Case, 1994)
+> - **Comments**: 
+
 #### Woolwich Formation (Bottom), Herne Bay, Kent, UK
 > - **Age**: Thanetian
 > - **Taxa**: *Chimaera eophantasma*, *Callorhinchus regulbiensis*, *Ischyodus dolloi*, *Edaphodon minor*
@@ -224,6 +231,7 @@ Signiffcant
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
 
