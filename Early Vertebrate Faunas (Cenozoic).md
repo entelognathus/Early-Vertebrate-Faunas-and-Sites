@@ -209,7 +209,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**: 
 #### Late Lutetian, Ameki, Nigeria
 > - **Age**: Late Lutetian
-> - **Taxa**: **Aprionodon amekiensis*
+> - **Taxa**: *Aprionodon amekiensis*
 > - **Locality and horizon**:
 > - **References**: (White, 1926)
 > - **Comments**: 
@@ -221,7 +221,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### Miretrain Marl Formation, Peyrehorade, France
 > - **Age**: Middle Lutetian
-> - **Taxa**: *Platycephalus janeti*, *Perca aquitanica*, *Parascombrops brzobohatyi*, * Perca pseudolestidiops*, * Diplectrum gautieri*, *Liopropoma sculpta*, *Perca meiformis*, * Perca lactaroides*, *Epigonus melamphaoides*, *Branchiostegus brevis*, *Haemulon pulchrum*, *Cepola robusta*, *Cepola rostislavi*, *Bathyclupea arribaoutensis*, *Antigonia angusta*, *Halieutea cirrhosa*
+> - **Taxa**: *Platycephalus janeti*, *Perca aquitanica*, *Parascombrops brzobohatyi*, *Perca pseudolestidiops*, *Diplectrum gautieri*, *Liopropoma sculpta*, *Perca meiformis*, *Perca lactaroides*, *Epigonus melamphaoides*, *Branchiostegus brevis*, *Haemulon pulchrum*, *Cepola robusta*, *Cepola rostislavi*, *Bathyclupea arribaoutensis*, *Antigonia angusta*, *Halieutea cirrhosa*
 > - **Locality and horizon**: Peyrehorade, France
 > - **References**: (Lin, 2016)
 > - **Comments**:
@@ -257,7 +257,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### Harudi Formation, Baranda Western Kachchh, India
 > - **Age**: Lutetian
-> - **Taxa**: *Sillaginidarum sp.*, *Sciaenidarum sp.*, *Percoideorum sp.*, *Percoidei indet.*, Uranoscopidarum sp.*, *Scorpaenoideorum sp.*
+> - **Taxa**: *Sillaginidarum sp.*, *Sciaenidarum sp.*, *Percoideorum sp.*, *Percoidei indet.*, *Uranoscopidarum sp.*, *Scorpaenoideorum sp.*
 > - **Locality and horizon**: River Rato Nala, 3,5 km south of Baranda Western Kachchh, India.
 > - **References**: (Nolf, 1992)
 > - **Comments**:
@@ -275,7 +275,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### Mission Valley Formation, Miramar Reservoir site
 > - **Age**: Lutetian
-> - **Taxa**: *Serranus moratus*, *Serranus fongeri*, *Serranus strigosus*, * Protopomadasys fitchi*, *Serranus strigosus*
+> - **Taxa**: *Serranus moratus*, *Serranus fongeri*, *Serranus strigosus*, *Protopomadasys fitchi*, *Serranus strigosus*
 > - **Locality and horizon**: Mission Valley Formation, Miramar Reservoir site
 > - **References**: (Schwarzhans, 2024)
 > - **Comments**:
@@ -294,7 +294,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 
 ### Bartonian
 #### Great Oolite Group, UK
-> - **Age**:Bartonian
+> - **Age**: Bartonian
 > - **Taxa**: *Asteracanthus medius*
 > - **Locality and horizon**: Great Oolite Group, UK
 > - **References**: (Underwood and Ward, 2004; Rees and Underwood, 2008)
@@ -313,13 +313,13 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### Cook Mountain Formation, Texas, U.S.A.
 > - **Age**: Bartonian
-> - **Taxa**: *Astroscopus compactus*, *Parascombrops yanceyi*, *Ekokenia eporrecta*, * Jefitchia copelandi*, *“Sciaena” livesayi*, *“Sparus” elegantulus*, *Malthopsis? sp.*
+> - **Taxa**: *Astroscopus compactus*, *Parascombrops yanceyi*, *Ekokenia eporrecta*, *Jefitchia copelandi*, *“Sciaena” livesayi*, *“Sparus” elegantulus*, *Malthopsis? sp.*
 > - **Locality and horizon**: Newton; Quitman, Archusa Water Park; Crockett; Little Brazos River, Stenzel; Little Brazos River; Pin Oak Creek; Rocky Branch
 > - **References**: (Lin, 2022)
 > - **Comments**:
 #### “upper” Lisbon Formation, Alabama, U.S.A.
 > - **Age**: Bartonian
-> - **Taxa**: *Astroscopus compactus*, *Parascombrops yanceyi*, *Ekokenia eporrecta*, * Jefitchia copelandi*, *“Sciaena” livesayi*, *“Sparus” elegantulus*, *Malthopsis? sp.*, *Jefitchia claybornensis*, *Ekokenia eporrectus*, *Malacanthus sulcatus*, *Orthopristis burlesonis*, * Haemulon obliquus*, *Anisotremus sp.*, *Sciaena intermedius*
+> - **Taxa**: *Astroscopus compactus*, *Parascombrops yanceyi*, *Ekokenia eporrecta*, *Jefitchia copelandi*, *“Sciaena” livesayi*, *“Sparus” elegantulus*, *Malthopsis? sp.*, *Jefitchia claybornensis*, *Ekokenia eporrectus*, *Malacanthus sulcatus*, *Orthopristis burlesonis*, *Haemulon obliquus*, *Anisotremus sp.*, *Sciaena intermedius*
 > - **Locality and horizon**: Newton; Quitman, Archusa Water Park; Crockett; Little Brazos River, Stenzel; Little Brazos River; Pin Oak Creek; Rocky Branch
 > - **References**: (Lin, 2022)
 > - **Comments**:
@@ -434,13 +434,13 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### Eger Formation, Eger, northeastern Hungary
 > - **Age**: Chattian
-> - **Taxa**: *Parascombrops brzobohatyi*, *Gazza orthensis*, *Sillago hassovicus*, * Pagellus sp.*, *Cepola macrophthalma*, *Spicara sp.*, *Dentex gregarious*, *Sparidae indet.*
+> - **Taxa**: *Parascombrops brzobohatyi*, *Gazza orthensis*, *Sillago hassovicus*, *Pagellus sp.*, *Cepola macrophthalma*, *Spicara sp.*, *Dentex gregarious*, *Sparidae indet.*
 > - **Locality and horizon**: Eger, northeastern Hungary
 > - **References**:(Nolf, 1994)
 > - **Comments**:
 #### Kiscell Formations, Kiscell Clay, Noszvaj
 > - **Age**: Chattian
-> - **Taxa**: *Parascombrops brzobohatyi*, *Acropomatidarum sp.*, *Epigonus sp.*, *Percoidei indet.*, *Acropomatidarum ordinatus*, *Pontinus sp.*, *Peristedion sp.*, * Bembrops sp.*
+> - **Taxa**: *Parascombrops brzobohatyi*, *Acropomatidarum sp.*, *Epigonus sp.*, *Percoidei indet.*, *Acropomatidarum ordinatus*, *Pontinus sp.*, *Peristedion sp.*, *Bembrops sp.*
 > - **Locality and horizon**: Kiscell Clay, Noszvaj
 > - **References**: (Nolf, 1994)
 > - **Comments**:
@@ -452,7 +452,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Comments**:
 #### Catahoula Formation, Wayne County, Mississippi, USA
 > - **Age**: Chattian
-> - **Taxa**: *Labridae indet.*, *Allomorone sp.*, *Lutjanidae indet.*, *Aplodinotus distortus*, *Aplodinotus gemma*, *Sciaena pseudoradians*, *Sciaenidae sp.*, *Sparidae indet.*, *Lophiidae indet.*, *Diplodus sp.*, *Sparidae indet.*, * Lophiidae indet.*
+> - **Taxa**: *Labridae indet.*, *Allomorone sp.*, *Lutjanidae indet.*, *Aplodinotus distortus*, *Aplodinotus gemma*, *Sciaena pseudoradians*, *Sciaenidae sp.*, *Sparidae indet.*, *Lophiidae indet.*, *Diplodus sp.*, *Sparidae indet.*, *Lophiidae indet.*
 > - **Locality and horizon**: Wayne County, Mississippi, USA
 > - **References**: (Cicimurri, 2025)
 > - **Comments**:
@@ -475,7 +475,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 fauna by Kellum (1926) demonstrated that it was younger, probably of lower Miocene age, although there was a possibility that might be Oligocene. The additions tend to confirm the lower Miocene age of the formation (Richards, 1943). 
 #### Pirabas Formation, Atalaia beach, Brazil
 > - **Age**: Aquitanian to Early Burdigalian
-> - **Taxa**: *Cantarius nolfi*, *Pristipomoides sp.*, *Archosargus sp.*, *Ocyurus sp.*, * Aplodinotus santosi*, *Equetulus amazonensis*, *Equetulus fitchi*, *Protolarimus mauryae*, *Sciaenops rossettiae*, *Plagioscion marinus*, *Plagioscion travassosi*, *Protosciaena brasiliensis*, *Xenotolithus retrolobatus*, *Sciaenops rossettiae*
+> - **Taxa**: *Cantarius nolfi*, *Pristipomoides sp.*, *Archosargus sp.*, *Ocyurus sp.*, *Aplodinotus santosi*, *Equetulus amazonensis*, *Equetulus fitchi*, *Protolarimus mauryae*, *Sciaenops rossettiae*, *Plagioscion marinus*, *Plagioscion travassosi*, *Protosciaena brasiliensis*, *Xenotolithus retrolobatus*, *Sciaenops rossettiae*
 > - **Locality and horizon**: Atalaia beach, Salinopolis Municipality, Para State, Brazil
 > - **References**: (Aguilera, 2014)
 > - **Comments**:
@@ -545,7 +545,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Comments**:
 #### Bannockburn Formation, near Cromwell in Central Otago
 > - **Age**: Burdigalian
-> - **Taxa**: *Pagrus auratus*, * aff. Bleekeria sagittiformis*
+> - **Taxa**: *Pagrus auratus*, *aff. Bleekeria sagittiformis*
 > - **Locality and horizon**: near Cromwell in Central Otago
 > - **References**: (McDowall, 2005); (Schwarzhans, 2011)
 > - **Comments**:
@@ -589,13 +589,13 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Comments**:
 #### Wood Mountain Formation, southern Saskatchewan, Canada
 > - **Age**: Langhian
-> - **Taxa**: *Moronidae*, *Centrarchidae*, *Pomoxis sp.*, *Micropterus dolomieu*, * Percidae indet.*, *Stizostedion sp.*
+> - **Taxa**: *Moronidae*, *Centrarchidae*, *Pomoxis sp.*, *Micropterus dolomieu*, *Percidae indet.*, *Stizostedion sp.*
 > - **Locality and horizon**: southern Saskatchewan, Canada
 > - **References**: (Divay, 2013)
 > - **Comments**:
 #### Hrusky Formation, Kienberg oscillates, Mikulov, Czech Republic, Vienna Basin
 > - **Age**: Langhian
-> - **Taxa**: *Peristedion cataphractum*, *Scorpaena notata*, *Percoideorum tietzei*, * Pristigenys rhombica*, *Morone sp.*, *Malacanthidarum postdorsalis*, *Diplodus cf. puntazzo*, *Brachydeuterus speronatus*, *Dentex maroccanus*, *Boops boops*, *Dentex gibbosus*, *Diplodus sp.*, *Pagrus sp.*, *Lithognathus mormyrus*, *Pagellus erythrinus*, * Oblada chainei*, *Argyrosomus regius*, *Sciaena rybnicensis*, *Sciaena cf. irregularis*, * Cepola macrophthalma*, *Trachinus draco*, *Uranoscopus sp.*
+> - **Taxa**: *Peristedion cataphractum*, *Scorpaena notata*, *Percoideorum tietzei*, *Pristigenys rhombica*, *Morone sp.*, *Malacanthidarum postdorsalis*, *Diplodus cf. puntazzo*, *Brachydeuterus speronatus*, *Dentex maroccanus*, *Boops boops*, *Dentex gibbosus*, *Diplodus sp.*, *Pagrus sp.*, *Lithognathus mormyrus*, *Pagellus erythrinus*, *Oblada chainei*, *Argyrosomus regius*, *Sciaena rybnicensis*, *Sciaena cf. irregularis*, *Cepola macrophthalma*, *Trachinus draco*, *Uranoscopus sp.*
 > - **Locality and horizon**: Kienberg oscillates, Mikulov, Czech Republic, Vienna Basin
 > - **References**: (Brzobohaty, 2007)
 > - **Comments**:
@@ -665,7 +665,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Comments**:
 #### Tapu Formation, Shulin, Taiwan
 > - **Age**: Late Miocene
-> - **Taxa**: *Taosciaena jiangi*, *Nibea chaoi*, *Sillago sp.*, *Uranoscopus sp.*, * Pomadasys sp.*, *Argyrosomus sp.*, *Larimichthys crocea*, *Larimichthys polyactis*, *Larimichthys koae*, *Miichthys miiuy*, *Nibea chaoi*, *Nibea albiflora*, *Protonibea diacanthus*, *Taosciaena hui*, *Taosciaena jiangi*
+> - **Taxa**: *Taosciaena jiangi*, *Nibea chaoi*, *Sillago sp.*, *Uranoscopus sp.*, *Pomadasys sp.*, *Argyrosomus sp.*, *Larimichthys crocea*, *Larimichthys polyactis*, *Larimichthys koae*, *Miichthys miiuy*, *Nibea chaoi*, *Nibea albiflora*, *Protonibea diacanthus*, *Taosciaena hui*, *Taosciaena jiangi*
 > - **Locality and horizon**: Shulin, Taiwan
 > - **References**: (Lin, 2021)
 > - **Comments**:
@@ -745,7 +745,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Comments**: early Late Miocene = Bahean LMS/A；late Late Miocene = Baodean LMS/A
 #### Sahabi Formation, Sahabi, Libya
 > - **Age**: Messinian
-> - **Taxa**: *Argyrosomus sp.*, *Semlikiichthys rhachirhinchus*, *Semlikiichthys sp.*, * Lates niloticus*
+> - **Taxa**: *Argyrosomus sp.*, *Semlikiichthys rhachirhinchus*, *Semlikiichthys sp.*, *Lates niloticus*
 > - **Locality and horizon**: Sahabi, Libya
 > - **References**: (Otero, 2013), (Argyriou, 2012)
 > - **Comments**:
@@ -952,5 +952,6 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
 
