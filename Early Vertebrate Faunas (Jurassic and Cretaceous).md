@@ -142,14 +142,12 @@
 > - **Locality and horizon**: Trinidad sandstone, near Raton, New Mexico, USA
 > - **References**:(Brown, 1946)
 > - **Comments**: 
-
 **Trinidad sandstone, Koehler, New Mexico, USA**
 > - **Age**: Campanian
 > - **Taxa**:*Chimaerotheca newmexicana*, **,
 > - **Locality and horizon**: Trinidad sandstone, Crow Creek Canyon, 1 mile northwest of Koehler, New Mexico, USA
 > - **References**:(Brown, 1946)
 > - **Comments**: 
-
 **Basal sandstone, Mesaverde Formation, Laramie, Wyoming, USA**
 > - **Age**: Campanian
 > - **Taxa**:*Chimaerotheca wyomingana*, **,
@@ -161,7 +159,14 @@
 > - **Taxa**: Chondrichthyans: 
 > - **Locality and horizon**: Umman Formation, Wadi Falqa, Karak City, Jordan
 > - **References**: (Mustafa et al., 2002)
+> - **Comments**:
+#### Woodbury Formation, Stone Bridge, southern New Jersey 
+> - **Age**: early-middle Campanian
+> - **Taxa**: Eupercaria: (*Pempheris huddlestoni*, *Percoidei*)
+> - **Locality and horizon**: Stone Bridge, southern New Jersey
+> - **References**: (Stringer, 2016)
 > - **Comments**: 
+
 ### Maastrichtian
 **Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan**
 > - **Age**: early Maastrichtian
@@ -175,7 +180,6 @@
 > - **Locality and horizon**: Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA
 > - **References**: (Brown, 1946)
 > - **Comments**: 
-
 **Hakobuchi Formation, Yezo Group, Hokkaido, Japan**
 > - **Age**: Maastrichtian
 > - **Taxa**: Acipenseridae gen. et sp. indet (Miyata et al., 2025); callorhinchid holocephalans _Callorhinchus orientalis_ (Ota et al., 2025); the mosasaurid squamates _Mosasaurus hobetsuensis_ (Suzuki, 1985), _Phosphorosaurus ponpetelegans_ (Konishi et al., 2016); cheloninoid turtle _Mesodermochelys undulatus_ (Hirayama & Chitoku, 2016); hadrosaurid dinosaur _Kamuysaurus japonicus_ (Kobayashi et al., 2019)
@@ -194,10 +198,47 @@
 > - **Locality and horizon**: Lopez de Bertodano Formation, Seymour Island, Antarctica
 > - **References**:(Kriwet, 1999)
 > - **Comments**: 
+#### Severn Formation, Maryland, USA
+> - **Age**: Late Maastrichtian
+> - **Taxa**: Eupercaria: (*Pempheris huddlestoni*)
+> - **Locality and horizon**: Maryland, USA
+> - **References**: (Stringer, 2021)
+> - **Comments**: 
+#### Maastricht Formation, ENCI Horizon, former ENCI-HeidelbergCement Group quarry, Netherlands, Belgium
+> - **Age**: Maastrichtian
+> - **Taxa**: Eupercaria: (*Plesiopoma otiosa*, *Cretaserranus maastrichtensis*, *Sparidae indet.*, *Plesiopoma otiose*)
+> - **Locality and horizon**: ENCI Horizon (Gronsveld Member) at the former ENCI-HeidelbergCement Group quarry, Netherlands, Belgium
+> - **References**: (Schwarzhans, 2021)
+> - **Comments**:
+#### El Molino Formation, Pajcha Pata, Bolivia
+> - **Age**: Maastrichtian
+> - **Taxa**: Eupercaria: (*Latidae indet.*, *Santosius sp.*)
+> - **Locality and horizon**: Pajcha Pata, Bolivia
+> - **References**: (Gayet, 2001)
+> - **Comments**:
+#### Saldeño Formation, Mendoza, Argentina
+> - **Age**: Maastrichtian
+> - **Taxa**: Eupercaria: (*Saldenioichthys remotus*)
+> - **Locality and horizon**: Mendoza, Argentina
+> - **References**: (López-Arbarello, 2003)
+> - **Comments**:
+#### Lameta Formation, Dongargaon, Maharashtra, India
+> - **Age**: Maastrichtian
+> - **Taxa**: Eupercaria: (*Eoserranus hislopi*)
+> - **Locality and horizon**: Dongargaon, Maharashtra, India
+> - **References**: (Friedman, 2023)
+> - **Comments**:
+#### Ripley Formation, Union County, Mississippi, USA
+> - **Age**: Early Maastrichtian
+> - **Taxa**: Eupercaria: (*Pempheris huddlestoni*, *Serranus severnensis*)
+> - **Locality and horizon**: Union County, Mississippi, USA
+> - **References**: (Stringer, 2020)
+> - **Comments**:
 
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
