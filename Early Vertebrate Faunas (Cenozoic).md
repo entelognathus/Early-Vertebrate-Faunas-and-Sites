@@ -53,6 +53,13 @@
 > - **References**: (Schwarzhans, 2011)
 > - **Comments**:
 
+#### Chappo Member, Wasatch Formaton, Chappo Type Locality, Green River Basin, Wyoming, USA
+> - **Age**: Selandian?
+> - **Taxa**:
+> - **Locality and horizon**: Green River Basin, Wyoming, USA. Chappo Member, Wasatch Formaton.
+> - **References**:
+> - **Comments**: Middle Tifanian (late Paleocene).
+
 ### Thanetian（坦尼特阶）
 #### Tuscahoma Formation, Meridian, Lauderdale County, Mississippi, USA
 > - **Age**: Thanetian
@@ -1077,6 +1084,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
