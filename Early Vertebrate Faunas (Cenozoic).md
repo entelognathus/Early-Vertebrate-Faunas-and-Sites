@@ -32,19 +32,19 @@
 ### Selandian
 #### Vestre Gasværk, Copenhagen, Denmark
 > - **Age**: Selandian
-> - **Taxa**: *Sparidarum sp. *, *Acropoma sp.*
+> - **Taxa**: *Sparidarum sp.*, *Acropoma sp.*
 > - **Locality and horizon**: Vestre Gasværk, Copenhagen, Denmark
 > - **References**: (Schwarzhans, 2003)
 > - **Comments**:
 #### Sundkrogen Harbour basin, Denmark
 > - **Age**: Selandian
-> - **Taxa**: *Sparidarum sp. *
+> - **Taxa**: *Sparidarum sp.*
 > - **Locality and horizon**: Sundkrogen, Denmark
 > - **References**: (Schwarzhans, 2003)
 > - **Comments**:
 #### Tashlik Formation, Luzanivka, Cherkasy district, Ukraine
 > - **Age**: Selandian, (NP5 - NP6)
-> - **Taxa**: *Epigonidarum tyassminensis*, *Haemulidarum gullentopsi*, * Haemulidarum makarenkoi*, *Sparidarum spatiatus*, *Leiognathidarum tashlikensis*
+> - **Taxa**: *Epigonidarum tyassminensis*, *Haemulidarum gullentopsi*, *Haemulidarum makarenkoi*, *Sparidarum spatiatus*, *Leiognathidarum tashlikensis*
 > - **Locality and horizon**: Luzanivka, Cherkasy district, Ukraine
 > - **References**: (Schwarzhans, 2011)
 > - **Comments**:
@@ -952,4 +952,5 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 
