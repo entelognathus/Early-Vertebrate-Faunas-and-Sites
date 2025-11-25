@@ -629,6 +629,8 @@ Gauja stage (late Givetian)
 > - cf. *Kenichthys* [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
 > - Placodermi: *Edgellaspis gorteri* Hunt & Young 2011; *Denisonosteus weejasperensis* Young & Gorter 1981; cf. *Denisonosteus* sp. nov. (Hunt 2005); coccosteomorph cf. *Coccosteus* (Hunt 2008); *Sherbonaspis hillsi* Young & Gorter 1981; cf. *Sherbonaspis* sp. nov. (Hunt 2005); *Monarolepis verrucosa* (Young & Gorter) Young 1988
 
+****Arukula Formation, Latvia, Vidrizhi-10 well****, Eifelian
+****Upninkai Formation, Dvoriki-2 well, Kaliningrad region, Russia****, Eifelian-Givetian
 ***Wurungulepis fauna***, upper Eifelian;
 > Broken River Formation, Queensland, Australia. MAV4
 
@@ -1124,6 +1126,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
 
 Schultze, H.P., Hagadorn, J.W., Bullecks, J., Soar, L.K., Pradel, A., Denton, J. S. S., & Janvier, P. (2021). Devonian fish from Colorado’s Dyer Formation and the appearance of Carboniferous faunas in the Famennian. Ancient fishes and their living relatives: A tribute to John G. Maisey: Mu‐nich, Germany, Verlag Dr. Friedrich Pfeil [Dr. Friedrich Pfeil Scientific Publishers], 247-256.
+
 
 
 
