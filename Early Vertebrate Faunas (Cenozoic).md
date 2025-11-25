@@ -1,4 +1,6 @@
-# Early Vertebrate Faunas and Sites
+# Early Vertebrate Faunas and Sites (Cenozoic)
+
+#### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -8,6 +10,8 @@
 # Paleogene
 ## Paleocene
 ### Danian
+
+#### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -15,11 +19,13 @@
 > - **Comments**:
 
 ### Selandian
+#### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
+
 ### Thanetian
 #### Tuscahoma Formation, Meridian, Lauderdale County, Mississippi, USA
 > - **Age**: Thanetian
@@ -34,20 +40,22 @@
 > - **Locality and horizon**: Woolwich Formation (Bottom), Herne Bay, Kent, UK
 > - **References**: (Ward, 1973)
 > - **Comments**:
+
 #### Thanet Formation, Herne Bay, Kent, UK
 > - **Age**: Thanetian
 > - **Taxa**: *Callorhinchus newtoni*
 > - **Locality and horizon**: Thanet Formation, Herne Bay, Kent, UK
 > - **References**: (Ward, 1973)
 > - **Comments**:
-#### 
+
+#### Formation/Member, Locality
 > - **Age**: Thanetian, Sessao, Niger
 > - **Taxa**: *Atlantitrygon sudrei*, 
 > - **Locality and horizon**: 
 > - **References**: (Cappetta, 1972)
 > - **Comments**:
-## Eocene
 
+## Eocene
 ### Ypresian
 #### Oldhaven Formation, Herne Bay, Kent, UK
 > - **Age**: early Ypresian (Sparnacian)
@@ -55,36 +63,42 @@
 > - **Locality and horizon**: Oldhaven Formation, Herne Bay, Kent, UK
 > - **References**: (Ward, 1978)
 > - **Comments**:
+
 #### London Clay Formaiton (Beetle Bed, Lower Aldwick Beds), Herne Bay, Kent, UK
 > - **Age**: early Ypresian (Sparnacian)
 > - **Taxa**: *Amylodon venablesae*
 > - **Locality and horizon**: London Clay Formaiton (Beetle Bed, Lower Aldwick Beds), Herne Bay, Kent, UK
 > - **References**: (Ward, 1978)
 > - **Comments**:
+
 #### London Clay Formaiton, Burnham-on-Crouch, Essex, England, UK
 > - **Age**: early Ypresian (Sparnacian)
 > - **Taxa**: *Alopias crochardi*
 > - **Locality and horizon**: London Clay; Cliff Reach, Burnham-on-Crouch, Essex
 > - **References**: (Ward, 1978)
 > - **Comments**:
+
 #### London Clay Formaiton, Isle of SHeppey, UK
 > - **Age**: early Ypresian (Sparnacian)
 > - **Taxa**: *Burnhamia davisi*
 > - **Locality and horizon**: London Clay Formaiton, Isle of SHeppey, UK
 > - **References**: (Woodward, 1889)
 > - **Comments**: 
+
 #### Egemkapel Clay Member, Tielt Formation, Ampe Clay pit, Egemkapel, Belgium
 > - **Age**: Ypresian
 > - **Taxa**: *Eurasiabatis occlusostriata*
 > - **Locality and horizon**: Bed IV, Egemkapel Clay Member, Tielt Formation, Ampe Clay pit, Egemkapel, Belgium
 > - **References**: (Reinecke et al., 2024)
 > - **Comments**: 
+
 #### Konservat-Lagerst€atte, Pesciara, Bolca, Verona Province, Italy: late Ypresian
 > - **Age**: late Ypresian
 > - **Taxa**: *Eurasiabatis occlusostriata*
 > - **Locality and horizon**: limestone bed 11, Pesciara, Bolca, Verona Province, Italy
 > - **References**: (Marramà et al., 2023)
 > - **Comments**: 
+
 ### Lutetian
 #### Dongen Formation Asse Clay Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
@@ -93,13 +107,14 @@
 grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well De Wijk-19, Netherland
 > - **References**: (Bor, 1985; Sharma and Patnaik, 2014)
 > - **Comments**:
+
 #### Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
 > - **Age**:Lutetian
 > - **Taxa**: Selachians: *Hexanchus agassizi*, *Squatina cf. prima*, *Carcharias hopei*, *Cosmopolitodus praecursor*, *Cretolamna aschersoni*, *Carcharocles sokolowi*
 > - **Locality and horizon**:  Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
 > - **References**: (Mustafa, 2005)
 > - **Comments**:
-> - 
+
 #### Dongen Formation Brussels Sand Member, NAM-Well De Wijk-19, Netherland
 > - **Age**:Lutetian
 > - **Taxa**: *Coupatezia sp.*,
@@ -113,18 +128,21 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: middle Eocene of Claiborne, Monroe County, State of Alabama, USA
 > - **References**: (White, 1956)
 > - **Comments**:
+
 #### Lisbon Formation, Andalusia, Covington County, Alabama, USA
 > - **Age**: Lutetian
 > - **Taxa**:*Orectolobus ziegenhinei*, *Tethylamna dunni*, *Scoliodon conecuhensis*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, 
 > - **Locality and horizon**: Lisbon Formation, Andalusia, Covington County, Alabama, USA
 > - **References**:(Cappetta and Case, 2016)
 > - **Comments**:
+
 #### Late Lutetian, Oshosun, Nigeria
 > - **Age**: Late Lutetian
 > - **Taxa**: *Carcharias itoriensi*
 > - **Locality and horizon**:
 > - **References**: (White, 1926)
 > - **Comments**: 
+
 #### Late Lutetian, Ameki, Nigeria
 > - **Age**: Late Lutetian
 > - **Taxa**: **Aprionodon amekiensis*
@@ -139,14 +157,16 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: Great Oolite Group, UK
 > - **References**: (Underwood and Ward, 2004; Rees and Underwood, 2008)
 > - **Comments**: 
+
 ### Priabonian
 #### Jackson Formation, Priabonian, Clarke County, State of Alabama, USA
 > - **Age**: Priabonian
-> - **Taxa**: *Hemipristis wyattdurhami*, *Ginglymostoma obliquum*,*Isurus praecursor*, *Isurus americana*,*Odontaspis hopei*, *Carcharodon angustidens*,*Negaprion gibbesi*, *Negaprion  gilmorei*,*Galeocerdo clarkensis*, *Physodon secundus*,*Cylindracanthus rectus*, *Sphyraena cf. major*,*Pristis sp.*,*Myliobatis sp.*, *Heterodontus cf. woodwardi*, *Scyliorhinus enniskilleni*, *Odontaspis malletiana*, *Alopias latidens alabamensis*, *Hypoprion greyegertoni*,*Ostracton sp.*, *Galeorhinus cf. falconert*, **, **, **, **, **, **, **, **, **, **,
+> - **Taxa**: *Hemipristis wyattdurhami*, *Ginglymostoma obliquum*,*Isurus praecursor*, *Isurus americana*,*Odontaspis hopei*, *Carcharodon angustidens*,*Negaprion gibbesi*, *Negaprion  gilmorei*,*Galeocerdo clarkensis*, *Physodon secundus*,*Cylindracanthus rectus*, *Sphyraena cf. major*,*Pristis sp.*,*Myliobatis sp.*, *Heterodontus cf. woodwardi*, *Scyliorhinus enniskilleni*, *Odontaspis malletiana*, *Alopias latidens alabamensis*, *Hypoprion greyegertoni*,*Ostracton sp.*, *Galeorhinus cf. falconert*,
 > - **Locality and horizon**: Jackson Formation, Clarke County, State of Alabama, USA
 > - **References**: (White, 1956)
 > - **Comments**:
 
+#### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -179,6 +199,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**: Skooner Gulch Formation; UCMP Locality V-75135, Schooner Gulch, Mendocino County, California
 > - **References**: (Welton, 1979; Pfeil, 1983)
 > - **Comments**:
+
 #### Trent Formation/Trent Marl Formation, eastern North Carolina  
 > - **Age**: Trent Formation/Trent Marl Formation, eastern North Carolina
 > - **Taxa**:*Abdounia furimskyi*, 
@@ -188,8 +209,7 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 fauna by Kellum (1926) demonstrated that it was younger, probably of lower Miocene age, although there was a possibility that might be Oligocene. The additions tend to confirm the lower Miocene age of the formation (Richards, 1943). 
 
 ### Burdigalian
-**Baripada beds**
-Signiffcant
+#### Baripada beds
 > - **Comments**: The Cenozoic fossiliferous sequences of the Baripada region (BMB) are conformably overlying the Precambrian metamorphic basement. The fossiliferous sequences are conformably overlain by the conglomerate bed of Pleistocene age. This sequence consists of sandstone, shale and limestone beds (Bose, 1904; Mahalik, 2006). Amongst these three units, sandstone lies at the bottom, which is followed by the deposition of shale and limestone (Khatun, 2006). The BMB are confined within limited area (within a radius of 8 km around Baripada), and are well exposed in the course of the Budhabalang river, with gentle dip of 4° to 5° towards south(Vaidyanadhan and Ramakrishnan, 2010, Bhaumik et al., 2017). The sandstone bed and shale bed are tentatively put in Burdigalian.
 
 #### Bissex Hill Formation, Bissex Hill, Barbados
@@ -202,7 +222,7 @@ Signiffcant
 ### Langhian
 ### Serravallian
 ### Tortonian
-####  Baripada limestone beds, Baripada, Orissa/Odisha
+#### Baripada limestone beds, Baripada, Orissa/Odisha
 > - **Age**: Burdigalian
 > - **Taxa**: *Carcharhinus robusta*
 > - **Locality and horizon**: Baripada limestone beds; Baripada, Orissa, India
@@ -224,46 +244,9 @@ Signiffcant
 > - **References**: Qiu and Li, 2023；Qiu et al., 2023; Qiu et al., 2025.
 > - **Comments**: early Late Miocene = Bahean LMS/A；late Late Miocene = Baodean LMS/A
 
-
-
+#### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
