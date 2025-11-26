@@ -74,8 +74,18 @@
 > - **Locality and horizon**: Gargasien, Aptian, Gargas, Vaucluse, France
 > - **References**:(Cappetta, 1975)
 > - **Comments**: 
-
-
+**Vectis Formation (Wealden Group), Atherfield point, Isle of Wight, UK**
+> - **Age**: early Aptian
+> - **Taxa**:Chondrichthyans (*Pteroscyllium sweetmani*, *Eostriatolamia iktensis*)
+> - **Locality and horizon**: upper part of Vectis Formation, Atherfield point, Isle of Wight, UK
+> - **References**: (Duffin and Batchelor, 2024a)
+> - **Comments**: 
+**Atherfield Clay Formation (Lower Greensand Group), Atherfield point, Isle of Wight, UK**
+> - **Age**: early Aptian
+> - **Taxa**: Chondrichthyans (*Pteroscyllium downesi*, *Vectiscyllium atherfieldensis*)
+> - **Locality and horizon**: Atherfield Clay Formation (Lower Greensand Group), Atherfield point, Isle of Wight, UK
+> - **References**: (Duffin and Batchelor, 2024b)
+> - **Comments**: 
 ### Albian, Early Cretaceous
 #### late Albian, quartz-glauconite sands in Kaniv dislocations in Ukraine 
 > - **Age**: late Albian
@@ -238,6 +248,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
