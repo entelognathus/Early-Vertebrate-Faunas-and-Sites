@@ -204,7 +204,12 @@
 grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well De Wijk-19, Netherland
 > - **References**: (Bor, 1985; Sharma and Patnaik, 2014)
 > - **Comments**:
-
+#### Yamhill Formation, Scoggings Creek, Washington Country, Oregon, USA
+> - **Age**:Lutetian
+> - **Taxa**: *Echinorhinus weltoni*,
+> - **Locality and horizon**: Yamhill Formation, LACM Locality 4322, Scoggings Creek, Washington Country, Oregon, USA
+> - **References**: (Pfeil, 1983)
+> - **Comments**:
 #### Wadi Esh-Shallala Formation, Jebal eth Thuleithuwat (Tlete Ouate),east Jordan (Syria)
 > - **Age**:Lutetian
 > - **Taxa**: Selachians: *Hexanchus agassizi*, *Squatina cf. prima*, *Carcharias hopei*, *Cosmopolitodus praecursor*, *Cretolamna aschersoni*, *Carcharocles sokolowi*
@@ -1084,6 +1089,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
