@@ -1,7 +1,7 @@
 # Early Vertebrate Faunas and Sites (Cenozoic)
 
 #### Formation/Member, Locality
-> - **Age**:
+> - **Age**: 
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
@@ -16,6 +16,13 @@
 > - **Locality and horizon**: Danian Limestone, Sjælland, Denmark
 > - **References**: (Schwarzhans, 2003)
 > - **Comments**:
+
+#### Hornerstown marl, Hornerstown, New Jersey 
+> - **Age**: Danian
+> - **Taxa**: *Edaphodon divaricatus*, *Isotaenia neocaesariensis*, 
+> - **Locality and horizon**: Hornerstown marl, Hornerstown, New Jersey
+> - **References**: (Fowler, 1911)
+> - **Comments**: 
 
 #### Clayton Formation, Arkansas, U.S.A.
 > - **Age**: early Danian
@@ -1089,6 +1096,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
