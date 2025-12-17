@@ -59,22 +59,26 @@
 #### Horton Bluff and Albert Formations, Bay of Fundy, Canada
 > - **Age**: Early to middle Tournaisian.
 > - **Taxa**:
->> - Actinopterygii: *Elonichthys ellsi*, *Elonichthys browni*, *Elonichthyes sp.*, *Rhadinichthys alberti*, *Rhadinichthys sp.*, *Acrolepis hortonensis*, *Palaeoniscus sp.*
+>> - Actinopterygii: *Elonichthys ellsi*, *Elonichthys browni*, *Elonichthyes* sp., *Rhadinichthys alberti*, *Rhadinichthys* sp., *Acrolepis hortonensis*, *Palaeoniscus* sp., *Avonichthys manskyi* Wilson et al. 2018
 >> - Dipnoi: Unnamed ctenodont.
->> - Rhizodontida: *Letognathus hardingi.*
->> - Symmoriformes: *Stethacanthus sp.*
->> - Gyracanthida: *Gyracanthides sp.*
->> - Acanthodidae: *Acanthodes sp.*
+>> - Rhizodontida: *Letognathus hardingi*.
+>> - Symmoriformes: *Stethacanthus* sp.
+>> - Gyracanthida: *Gyracanthides* sp.
+>> - Acanthodidae: *Acanthodes* sp.
 >> - Tetrapoda: Unnamed anthracosaur.
-> - **Locality and horizon**: Horton Bluff and Albert Formations, Bay of Fundy, Canada. 
-> - **References**:  Gardiner, 1966; Miller, 1996; Brazeau, 2005; Jeffery, 2006; Rygel et al., 2006.
+> - **Locality and horizon**: Horton Bluff and Albert Formations, Bay of Fundy, Canada. Hurd Creek Member of the Horton Bluff Formation, near Hantsport, western shore of the Avon River, Nova Scotia, Canada for *Avonichthys manskyi*.
+> - **References**:  Gardiner, 1966; Miller, 1996; Brazeau, 2005; Jeffery, 2006; Rygel et al., 2006. Wilson et al. 2018 
 > - **Comments**: Environment. Non-marine, lacustrine with marine 
 
 #### Blue Beach Member, Horton Bluff Formation, Blue Beach, Nova Scotia, Canada
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
 >> - Tetrapoda: Whatcheeriids, Embolomeres/“Reptiliomorphs”, Acanthostega? Ichthyostega? Colosteids?
->> - (Basal actinopterygians, Rhizodontids, Acanthodids, Chondrichthyans, lungfish)
+>> - Basal actinopterygians
+>> - Rhizodontids
+>> - Acanthodids
+>> - Chondrichthyans
+>> - lungfish
 > - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation，Nova Scotia, Canada
 > - **References**: Anderson et al., 2015; Mansky et al., 2013； Clack, 2000; Hunt, 2004; Lucas, 2004
 > - **Comments**: Western shore of the Avon River (confluence with Bay of Fundy) north of Hantsport
@@ -1232,6 +1236,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
