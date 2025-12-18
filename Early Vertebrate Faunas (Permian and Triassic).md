@@ -708,7 +708,8 @@
 #### Meishan Member and Baoqing Member, Changxing Formation, Meishan, Changxing, Zhejiang, China
 > - **Age**: Changhsingian, Lopingian, Permian.
 > - **Taxa**:
->> - Actinopterygii:*Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*
+>> - Chondrichthys: *Helicampodus changhsingensis* ( = *Sinohelicoprion changhsingensis*), 
+>> - Actinopterygii:*Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*, *Eosaurichthys chaoi*, 
 >> -  
 > - **Locality and horizon**: Meishan Member (upper) and Baoqing Member (lower), Changxing Formation, Meishan, Changxing, Zhejiang, China
 > - **References**:
@@ -2608,6 +2609,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
