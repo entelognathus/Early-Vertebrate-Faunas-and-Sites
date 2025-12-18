@@ -1,7 +1,5 @@
 # Early Vertebrate Faunas and Sites (Permian and Triassic)
 
-**文芠，下面要增加什么什么组，可以后面这部分拷贝到相应位置，再添加内容。**
-
 #### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
@@ -707,21 +705,39 @@
 > - **Comments**:
 
 ### Changhsingian（长兴期）, Lopingian, Permian
-#### Meishan Member and Baoqing Member, Changxing Formation, Changxing, Zhejiang, China
+#### Meishan Member and Baoqing Member, Changxing Formation, Meishan, Changxing, Zhejiang, China
 > - **Age**: Changhsingian, Lopingian, Permian.
 > - **Taxa**:
->> - Actinopterygii:*Baoqingichthys microdontus*
+>> - Actinopterygii:*Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*
 >> -  
-> - **Locality and horizon**: Changxing Formation, Changxing, Zhejiang, China
+> - **Locality and horizon**: Meishan Member (upper) and Baoqing Member (lower), Changxing Formation, Meishan, Changxing, Zhejiang, China
 > - **References**:
-> - **Comments**: 
+> - **Comments**: Bed 23 and Bed 24 of Section D, 874 to 979 of Section Z.
 
+#### Lower Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
+> - **Age**: Changhsingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Actinopterygii: 
+>> -  
+> - **Locality and horizon**: Lower Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
+> - **References**:
+> - **Comments** Bed 25- Bed 27b of Section D, 880 to 882-2 of Section Z.
+ 
 #### Changxing Formation, Xiushui, Jiangxi, China
 > - **Age**: Changhsingian, Lopingian, Permian.
 > - **Taxa**:
->> - Actinopterygii: *Baoqingichthys microdontus*
+>> - Actinopterygii: *Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*
 >> -  
-> - **Locality and horizon**: Changxing Formation, Dongling, Xiushui, Jiangxi, China. Tieshikou, Xinfeng?
+> - **Locality and horizon**: Changxing Formation, Dongling, Xiushui, Jiangxi, China.
+> - **References**:
+> - **Comments**: 
+
+#### Changxing Formation, Xinfeng, Jiangxi, China
+> - **Age**: Changhsingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Actinopterygii: *Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*
+>> -  
+> - **Locality and horizon**: Changxing Formation, Tieshikou, Xinfeng, Jiangxi, China.
 > - **References**:
 > - **Comments**: 
 
@@ -777,6 +793,16 @@
 # Triassic:
 ## Early Triassic
 ### Induan, Early Triassic
+#### Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
+> - **Age**: Griesbachian, Induan.
+> - **Taxa**:
+>> - Actinopterygii: 
+>> -  
+> - **Locality and horizon**: Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
+> - **References**:
+> - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
+ 
+
 **Blina Shale Formation, Kimberley region, Northwest Australia**
 > - **Age**: Induan–Olenekian, Early Triassic.
 > - **Taxa**: *Batrachosuchus henwoodi*, *Deltasaurus kimberleyensis*, *Erythrobatrachus noonkanbahensis*, *Saurichthys*; *Aphelodus anapes*, *Watsonisuchus sp.*
@@ -2582,6 +2608,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
