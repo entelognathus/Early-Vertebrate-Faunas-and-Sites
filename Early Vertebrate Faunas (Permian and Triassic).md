@@ -701,6 +701,24 @@
 > - **Comments**:
 
 ### Changhsingian（长兴期）, Lopingian, Permian
+#### Meishan Member and Baoqing Member, Changxing Formation, Changxing, Zhejiang, China
+> - **Age**: Changhsingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Actinopterygii:*Baoqingichthys microdontus*
+>> -  
+> - **Locality and horizon**: Changxing Formation, Changxing, Zhejiang, China
+> - **References**:
+> - **Comments**: 
+
+#### Changxing Formation, Xiushui, Jiangxi, China
+> - **Age**: Changhsingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Actinopterygii: *Baoqingichthys microdontus*
+>> -  
+> - **Locality and horizon**: Changxing Formation, Dongling, Xiushui, Jiangxi, China. Tieshikou, Xinfeng?
+> - **References**:
+> - **Comments**: 
+
 #### Burngrove Formation, Bowen Basin – Queensland, Australia
 > - **Age**: late Changhsingian, Lopingian, Late Permian 
 > - **Taxa**:
@@ -2558,6 +2576,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
