@@ -434,8 +434,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Weejasperaspis gavini White, 1978; weejasperaspid n.g. [long spinal] ANU V38 [shoulder girdle]; Brindabellaspis stensioi Young, 1980; brindabellaspid n.g. [with spines] ANU V1062, 1264, 1883, 2925 [shoulder girdles, spines]; Murrindalaspis wallacei Long and Young, 1988; rhenanid n.g. ANU V1077 [skull and braincase]; Notopetalichthys hillsi Woodward, 1941; Wijdeaspis warrooensis Young, 1978; Shearsbyaspis oepiki Young, 1985; Lunaspis sp. Young, 1985; petalichthyid n.g. ANU V2859 [skull and braincase]; ptyctodontid n.g. Young, 1976; ?ptyctodontid n. g. ANU V2902 [skull and braincase]; placoderm n.g. [reverse neckjoint articulation] ANU V2392 [ADL plate]; placoderm n.g. [indet. bone] ANU V3123 [shoulder girdle plate]
 > - new genus and species [‘fish vertebrae’; Zapaznik and Johnston, 1984]; Ohioaspis tumulosa Giffi n, 1980
 
-**Campbellton Formation, basal Atholville beds, early Emsian, Campbellton, northern New Bruns
-wick, Canada**
+**Campbellton Formation, basal Atholville beds, early Emsian, Campbellton, northern New Brunswick, Canada**
 > - **Age**: Early Emsian
 > - **Taxa**:*Ankylacanthus incurvus*
 > - **Locality and horizon**: Campbellton Formation, basal Atholville beds, Early Emsian, 1m west of Campbellton, northern New Bruns
@@ -443,13 +442,33 @@ wick, Canada
 > - **References**:(Burrow et al., 2008)
 > - **Comments**:
 
+**Atholville Beds, Campbellton Formation, basal Atholville beds, early Emsian, Campbellton, northern New Brunswick, Canada**
+> - **Age**: middle Emsian
+> - **Taxa**:
+>> - the placoderm _Phlyctaenius_ Traquair 1890 (Young 1983)
+>> - the osteostracans (Belles-Isles 1989)
+>> - the stem chondrichthyans _Doliodus_ Traquair, 1893 (Miller et al. 2003; Maisey et al. 2009, 2014, 2017; Burrow et al. 2017; Burrow and Desbiens 2023; Ginter 2023); _Ankylacanthus_ Burrow, Turner, Desbiens and Miller 2008; _Protodus_ Woodward 1892 (Turner and Miller 2008); _Milesacanthus_ Young and Burrow, 2004, _Milesacanthus costellatus_ comb. nov. (Burrow et al. 2025), _Mesacanthus semistriatus_ (Woodward, 1892); Acanthodii indet.
+> - **Locality and horizon**: Atholville beds, Campbellton Formation, middle Emsian; near Campbellton, New Brunswick, Canada, on the southern banks of the Restigouche River.
+> - **References**: Burrow et al. (2025)
+> - **Comments**:
+>> - Burrow et al. (2025): The Gaspé Peninsula assemblages of Emsian age have affinities with the fauna long-known from the Atholville beds. Taxa that occur in both regions include the osteostracans Yvonaspis campbelltonensis (Whiteaves, 1881) and Yvonaspis westolli (Russell, 1954), the arthrodire placoderms Phlyctaenius acadicus (Whiteaves, 1881) and Phlyctaenius atholi (Pageau, 1969), the stem chondrichthyans Ankylacanthus incurvus (Traquair, 1890) and Doliodus latispinosus (Whiteaves, 1881), ?Cheiracanthus costellatus Traquair, 1893, and Acanthodes semistriatus (Woodward, 1892) (Blieck et al. 2000; Burrow and Desbiens 2005; Burrow et al. 2017, 2024). Notable differences between the stem chondrichthyan taxa of the two regions are the absence of Protodus jexi Woodward, 1892 in the Gaspé Peninsula, and the absence of Machaeracanthus Newberry, 1857 in the Atholville beds.
+
+
 **Battery Point Formation, late Emsian, Cap-aux-Os, Gaspe´ Peninsula, Quebec, Canada**
 > - **Age**: late Emsian
 > - **Taxa**:*Ankylacanthus incurvus*
 > - **Locality and horizon**: Battery Point Formation, late Emsian, Cap-aux-Os, Gaspe´ Peninsula, Quebec, Canada
 > - **References**:(Burrow et al., 2008)
 > - **Comments**:
+>> - Burrow et al. (2025): To the north of the Restigouche River and Baie des Chaleurs, in the York River Formation and the lower part of the Battery Point Formation of the Gaspé Sandstones on the eastern end of the Gaspé Peninsula, localities yielding fossil fish of a middle to late Emsian age were discovered in the mid 19th century (Lankester 1870). Further localities were found in eastern and central Gaspé Peninsula in the mid to  late 20th century (Russell 1947; Pageau 1968; Desbiens 1991, 1994; Desbiens and Burrow 2004). Details of these localities were provided by Pageau (1968) and Burrow et al. (2008, fig. 1). The main central Gaspé Peninsula fish bed sites at Mont Lyall and SW of Mont Tuzo are in the middle? to upper Emsian strata of the York River Formation, within the lower mafic unit of the Lemieux dome volcanic rocks (see Doyon and Valiquette 1992), whereas the Mont Brown syncline site is uppermost Emsian, in the Battery Point Formation. In eastern Gaspé, the fish-bearing strata are a similar age, with those in the Cap-aux-Os Member of the Battery Point Formation being uppermost Emsian, and sites in the uppermost York River Formation being middle Emsian. The diverse vertebrate faunal assemblages from central and eastern Gaspé include osteostracans, placoderms, and stem chondrichthyans (Pageau 1969a, 1969b, 2021; Blieck et al. 2000; Burrow et al. 2008, 2010, 2017; Burrow and Desbiens 2023).
 
+**York River Formation, middle? to late Emsian, Gaspé Sandstones on the eastern end of the Gaspé Peninsula, Quebec, Canada**
+> - **Age**: middle? to late Emsian
+> - **Taxa**: osteostracans, placoderms, and stem chondrichthyans (Pageau 1969a, 1969b, 2021; Blieck et al. 2000; Burrow et al. 2008, 2010, 2017; Burrow and Desbiens 2023).
+> - **Locality and horizon**: to the north of the Restigouche River and Baie des Chaleurs, Gaspé Sandstones on the eastern end of the Gaspé Peninsula, Quebec, Canada; middle? to late Emsian
+> - > - **References**:(Burrow et al., 2025)
+> - **Comments**:
+>> - Burrow et al. (2025): The main central Gaspé Peninsula fish bed sites at Mont Lyall and SW of Mont Tuzo are in the middle? to upper Emsian strata of the York River Formation, within the lower mafic unit of the Lemieux dome volcanic rocks (see Doyon and Valiquette 1992).
 
 ***Wuttagoonaspis fauna***: Emsian, 407.6, 393.3
 > Mulga Downs Group (sandstones); Darling Basin, western New South Wales, Australia. MAV2.
@@ -1126,6 +1145,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
 
 Schultze, H.P., Hagadorn, J.W., Bullecks, J., Soar, L.K., Pradel, A., Denton, J. S. S., & Janvier, P. (2021). Devonian fish from Colorado’s Dyer Formation and the appearance of Carboniferous faunas in the Famennian. Ancient fishes and their living relatives: A tribute to John G. Maisey: Mu‐nich, Germany, Verlag Dr. Friedrich Pfeil [Dr. Friedrich Pfeil Scientific Publishers], 247-256.
+
 
 
 
