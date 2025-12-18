@@ -712,7 +712,7 @@
 >> - Actinopterygii:*Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*, *Eosaurichthys chaoi*, 
 >> -  
 > - **Locality and horizon**: Meishan Member (upper) and Baoqing Member (lower), Changxing Formation, Meishan, Changxing, Zhejiang, China
-> - **References**:
+> - **References**: Wang et al., 2007
 > - **Comments**: Bed 23 and Bed 24 of Section D, 874 to 979 of Section Z.
 
 #### Lower Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
@@ -721,7 +721,7 @@
 >> - Actinopterygii: 
 >> -  
 > - **Locality and horizon**: Lower Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
-> - **References**:
+> - **References**: Wang et al., 2007
 > - **Comments** Bed 25- Bed 27b of Section D, 880 to 882-2 of Section Z.
  
 #### Changxing Formation, Xiushui, Jiangxi, China
@@ -730,7 +730,7 @@
 >> - Actinopterygii: *Baoqingichthys microdontus*, *Zhejiangichthys zhaoi*
 >> -  
 > - **Locality and horizon**: Changxing Formation, Dongling, Xiushui, Jiangxi, China.
-> - **References**:
+> - **References**: Wang et al., 2007
 > - **Comments**: 
 
 #### Changxing Formation, Xinfeng, Jiangxi, China
@@ -797,10 +797,9 @@
 #### Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
 > - **Age**: Griesbachian, Induan.
 > - **Taxa**:
->> - Actinopterygii: Paraperleidus changxingensis Zhao and Lu, 2007
->> -  
-> - **Locality and horizon**: Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
-> - **References**:
+>> - Actinopterygii: *Paraperleidus changxingensis* Zhao and Lu, 2007; Baoqingichthys microdontus; Baoqingichthys sp.
+> - **Locality and horizon**: Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China. Also in Tieshikou, Xinfeng, Jiangxi Province, China.
+> - **References**: Zhao and Lu, 2007; Wang et al., 2007
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
  
 
@@ -2609,6 +2608,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
