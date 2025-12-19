@@ -585,16 +585,6 @@
 
 ## Lopingian (late Permian, 乐平世)
 ### Wuchiapingian（吴家坪期）, Lopingian, Permian
-#### Sunjiagou Formation, Ordos Basin – Shanxi, China
-> - **Age**:  Wuchiapingian, Lopingian, Permian.
-> - **Taxa**:
->> - Parareptilia: *Shihtienfenia permica*, *Shihtienfenia completus*, *Shansisaurus xuecunensis*, *Huanghesaurus liulinensis*, *Sanchuansaurus pygmaeus*.
->> - Therapsida: *Taoheodon baizhijuni*, Cryptodontia indet.
->> - Anthracosauria: *Seroherpeton yangquanensis*.
-> - **Locality and horizon**: Recovered from localities including Baode, Liulin (Xuecun Town), Shouyang, and Yangquan in Shanxi Province, China (Young and Yeh, 1963; Li and Liu, 2013; Chen and Liu, 2020; Yi and Liu, 2020). The formation consists of fluvial and lacustrine deposits (Liu, 2020; Yi and Liu, 2020).
-> - **References**: Benton, 2016; Chen and Liu, 2020; Li and Liu, 2013; Liu, 2020; Wang et al., 2019; Yi and Liu, 2020; Young and Yeh, 1963
-> - **Comments**:
-
 #### Shangshihezi Formation, Jiyuan, Henan, China
 > - **Age**: Wuchiapingian, Lopingian, Permian.
 > - **Taxa**:
@@ -750,6 +740,16 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Locality and horizon**: Changxing Formation, Tieshikou, Xinfeng, Jiangxi, China.
 > - **References**:
 > - **Comments**: 
+
+#### Sunjiagou Formation（孙家沟组）, Ordos Basin, Shanxi, China
+> - **Age**: Changhsingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Parareptilia: *Shihtienfenia permica*, *Shihtienfenia completus*, *Shansisaurus xuecunensis*, *Huanghesaurus liulinensis*, *Sanchuansaurus pygmaeus*.
+>> - Therapsida: *Taoheodon baizhijuni*, Cryptodontia indet.
+>> - Anthracosauria: *Seroherpeton yangquanensis*.
+> - **Locality and horizon**: Recovered from localities including Baode, Liulin (Xuecun Town), Shouyang, and Yangquan in Shanxi Province, China (Young and Yeh, 1963; Li and Liu, 2013; Chen and Liu, 2020; Yi and Liu, 2020). The formation consists of fluvial and lacustrine deposits (Liu, 2020; Yi and Liu, 2020).
+> - **References**: Benton, 2016; Chen and Liu, 2020; Li and Liu, 2013; Liu, 2020; Wang et al., 2019; Yi and Liu, 2020; Young and Yeh, 1963
+> - **Comments**:
 
 #### Sunan Formation, Gansu, China
 > - **Age**: Changhsingian, Lopingian, Permian.
@@ -2658,6 +2658,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
