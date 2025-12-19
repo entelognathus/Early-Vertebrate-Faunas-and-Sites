@@ -640,7 +640,9 @@
 #### Val Gardena Formation (Arenaria di Val Gardena), Dolomites, Italy
 > - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
 > - **Taxa**:
->> - Parareptilia: *Pachypes dolomiticus*, *Procolophonichnium tirolensis*. Eureptilia: *Rhynchosauroides pallinii*, *Paradoxichnium problematicum*, cf. *Protochirotherium* isp., cf. *Dromopus* isp., cf. *Merifontichnus* isp. Therapsida: *Dicynodontipus* isp., *Dolomitipes accordii*, *Contiichnus tazelwurmi*, cf. *Capitosauroides* isp. Anamniota: cf. *Batrachichnus* isp. 
+>> - Parareptilia: *Pachypes dolomiticus*, *Procolophonichnium tirolensis*.
+>> - Eureptilia: *Rhynchosauroides pallinii*, *Paradoxichnium problematicum*, cf. *Protochirotherium* isp., cf. *Dromopus* isp., cf. *Merifontichnus* isp.
+>> - Therapsida: *Dicynodontipus* isp., *Dolomitipes accordii*, *Contiichnus tazelwurmi*, cf. *Capitosauroides* isp. Anamniota: cf. *Batrachichnus* isp. 
 >> - Tetrapod ichnotaxa: *Pachypes dolomiticus*, *Dicynodontipus geinitzi*, *Paradoxichnium* isp., *Rhynchosauroides pallinii*, *Procolophonichnium tirolensis*, cf. *Capitosauroides* isp., cf. *Merifontichnus* isp.
 > - **Locality and horizon**: Val Gardena Sandstone, Dolomites, Northern Italy
 > - **References**: Ceoloni et al., 1988; Conti et al., 1977; Leonardi et al., 1975; Marchetti et al., 2017; Marchetti et al., 2020; Massari et al., 1988; Bernardi et al., 2018; Conti et al., 1977; Kustatscher et al., 2017; Leonardi et al., 1975; Marchetti et al., 2017; Massari et al., 1994; Prinoth, 2017
@@ -2659,6 +2661,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
