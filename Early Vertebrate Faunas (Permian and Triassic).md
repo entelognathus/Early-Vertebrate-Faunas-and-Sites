@@ -591,7 +591,7 @@
 >> - Chondrichthyes:
 >> - Actinopterygii:
 >> - Sarcopterygii:
->> - Tetrapoda: Bystrowiana sinica; two pareiasaurs, Honania complicidentata and Tsiyuania simplicidentata; the dinocephalian Taihangshania imperfacta; the gorgonopsian Wangwusaurus tayuensis; and the cynodont Hwanghocynodon multienspidus. 
+>> - Tetrapoda: *Bystrowiana sinica*; two pareiasaurs, *Honania complicidentata* and *Tsiyuania simplicidentata*; the dinocephalian *Taihangshania imperfacta*; the gorgonopsian *Wangwusaurus tayuensis*; and the cynodont *Hwanghocynodon multienspidus*. 
 > - **Locality and horizon**: Shangshihezi Formation, Jiyuan, Henan, China.
 > - **References**:
 > - **Comments**: Wangwusaurus tayuensis to be added in Deepbone.
@@ -616,8 +616,8 @@
 > - **References**: Ray, 1997; Ray and Bandyopadhyay, 2003; Kammerer et al., 2016; Reisz et al., 2024
 > - **Comments**:
 
-#### Kupferschiefer (Werra Fm, Zechstein Gp), Thuringia – Germany/Poland
-> - **Age**: Wuchiapingian, Lopingian（late Permian).
+####  Werra Formation, Zechstein Group, (Kupferschiefer), Thuringia, Germany/Poland
+> - **Age**: Wuchiapingian, Lopingian, Permian.
 > - **Taxa**:
 >> - Reptilia: *Protorosaurus speneri*, *Parasaurus geinitzi*, *Weigeltisaurus jaekeli*.
 >> - Temnospondyli: Dissorophidae indet.
@@ -627,7 +627,7 @@
 > - **References**: Brauns et al., 2003; Dankina et al., 2021; Dankina et al., 2023; Diedrich, 2009; Fischer et al., 2021; Gottmann-Quesada & Sander, 2009; Haubold & Schaumberg, 1985; Meyer, 1832; Paul, 2006; Paul et al., 2018; Peryt et al., 2012; Spener, 1710; Tsuji & Müller, 2008; Witzmann, 2005
 > - **Comments**:
 
-#### Marl Slate Formation, County Durham – England, UK
+#### Marl Slate Formation, County Durham, England, UK
 > - **Age**: early Wuchiapingian, Lopingian, Permian
 > - **Taxa**:
 >> - Reptilia: *Protorosaurus speneri*, *Adelosaurus huxleyi*, *Weigeltisaurus jaekeli* (syn. *Coelurosauravus*), *Lepidotosaurus duffii*.
@@ -638,13 +638,31 @@
 > - **Comments**:
 
 #### Val Gardena Formation (Arenaria di Val Gardena), Dolomites, Italy
-> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Late Permian
-> - **Taxa**: Parareptilia: *Pachypes dolomiticus*, *Procolophonichnium tirolensis*. Eureptilia: *Rhynchosauroides pallinii*, *Paradoxichnium problematicum*, cf. *Protochirotherium* isp., cf. *Dromopus* isp., cf. *Merifontichnus* isp. Therapsida: *Dicynodontipus* isp., *Dolomitipes accordii*, *Contiichnus tazelwurmi*, cf. *Capitosauroides* isp. Anamniota: cf. *Batrachichnus* isp. 
-> - **Locality and horizon**: The primary locality is the Bletterbach gorge (Redagno/Radein), with other occurrences in the Venetian Prealps and Carnic Alps. The tracks are found within the Arenaria di Val Gardena Formation, a sequence of alluvial and marginal marine red beds deposited in a semi-arid climate, representing a transition from a distal fluvial system to a coastal sabkha (Massari et al., 1988; Marchetti et al., 2020).
-> - **References**: Ceoloni et al., 1988; Conti et al., 1977; Leonardi et al., 1975; Marchetti et al., 2017; Marchetti et al., 2020; Massari et al., 1988.
-> - **Comments**: 
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
+> - **Taxa**:
+>> - Parareptilia: *Pachypes dolomiticus*, *Procolophonichnium tirolensis*. Eureptilia: *Rhynchosauroides pallinii*, *Paradoxichnium problematicum*, cf. *Protochirotherium* isp., cf. *Dromopus* isp., cf. *Merifontichnus* isp. Therapsida: *Dicynodontipus* isp., *Dolomitipes accordii*, *Contiichnus tazelwurmi*, cf. *Capitosauroides* isp. Anamniota: cf. *Batrachichnus* isp. 
+>> - Tetrapod ichnotaxa: *Pachypes dolomiticus*, *Dicynodontipus geinitzi*, *Paradoxichnium* isp., *Rhynchosauroides pallinii*, *Procolophonichnium tirolensis*, cf. *Capitosauroides* isp., cf. *Merifontichnus* isp.
+> - **Locality and horizon**: Val Gardena Sandstone, Dolomites, Northern Italy
+> - **References**: Ceoloni et al., 1988; Conti et al., 1977; Leonardi et al., 1975; Marchetti et al., 2017; Marchetti et al., 2020; Massari et al., 1988; Bernardi et al., 2018; Conti et al., 1977; Kustatscher et al., 2017; Leonardi et al., 1975; Marchetti et al., 2017; Massari et al., 1994; Prinoth, 2017
+> - **Comments**: The primary locality is the Bletterbach gorge (Redagno/Radein), with other occurrences in the Venetian Prealps and Carnic Alps. The tracks are found within the Arenaria di Val Gardena Formation, a sequence of alluvial and marginal marine red beds deposited in a semi-arid climate, representing a transition from a distal fluvial system to a coastal sabkha (Massari et al., 1988; Marchetti et al., 2020). Major fossil sites include the Bletterbach Gorge, Tramin/Termeno, and the Recoaro area. The Val Gardena Sandstone unconformably overlies the Lower Permian Athesian Volcanic Group and is conformably overlain by, and locally interfingers with, the Bellerophon Formation (Bernardi et al., 2018; Marchetti et al., 2017).
 
-#### Lower Sakamena Formation, Morondava Basin – Madagascar
+#### Salarevo Formation, Northern Dvina Basin, Russia
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
+> - **Taxa**:
+>> - Parareptilia / Amphibia: *Dvinosaurus primus*, *Kotlassia prima*, *Karpinskiosaurus secundus*, *Chroniosuchus licharevi*, *Chroniosuchus vjuschkovi*, *Scutosaurus karpinskii*, *Scutosaurus tuberculatus*, *Suchonosaurus minimus*.
+>> - Therapsida: *Inostrancevia alexandri*, *Inostrancevia latifrons*, *Pravoslavlevia parva*, *Annatherapsidus petri*, *Dvinia prima*, *Elph borealis*, *Fortunodon trautscholdi*, *Fortunodon amalitzkii*, *Dicynodon amalitzkii*, *Dicynodon trautscholdi*, *Peramodon* sp.
+>> - Actinopterygii: *Isadia arefievi*.
+> - **Locality and horizon**: Key fossil sites include Sokolki (PIN 2005), Zavrazh’e (PIN 2353, 2356), Savvatii, Aristovo, and Eleonora, located in the Arkhangelsk and Vologda Regions along the Malaya Northern Dvina and Sukhona rivers. Vertebrate fossils derive from the **Komaritsa Member** of the **Salarevo Formation**, corresponding to the **Sokolki Subassemblage** of the **Sokolki Assemblage**.
+> - **References**: Arefiev et al., 2015; Aristov et al., 2013; Bulanov, 2003; Golubev, 2000a; Ivakhnenko, 2008; Minikh et al., 2015; Sennikov et al., 2003; Sushkin, 1926; Tverdokhlebova and Ivakhnenko, 1994; Yakimenko et al., 2000.
+> - **Comments**:  
+
+#### Upper Permian Depositsof European Russia
+> - **Age**: early Wuchiapingian, Lopingian, Permian.
+> - **Taxa**:
+The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
+
+
+#### Lower Sakamena Formation, Morondava Basin, Madagascar
 > - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian 
 > - **Taxa**: 
 >> - Actinopterygii: *Atherstonia* sp.
@@ -675,30 +693,6 @@
 >> - Therapsida: *Daptocephalus huenei*, *Dicynodon angielczyki*, *Mdomowabata trilobops*, *Dicynodontoides kubwa*, *Katumbia parringtoni*, *Kawingasaurus fossilis*, *Ruhuhucerberus terror*, *Titanogorgon* sp., *Procynosuchus delaharpeae*.
 > - **Locality and horizon**: Tetrapods occur at multiple stratigraphic horizons (Angielczyk et al., 2014a). A significant assemblage is concentrated in a conglomeratic unit at the base of the formation, interpreted as mass flow deposits on an alluvial fan (Sidor et al., 2010; Peecook et al., 2025).Specific localities include Z10, approx. 4 km west of Litumba Ndyosi (Songea District, Ruvuma Province) (Sidor et al., 2010)
 > - **References**: Angielczyk & Otoo, 2025; Angielczyk et al., 2014a; Kammerer, 2019; Peecook et al., 2025; Shipps et al., 2025; Sidor et al., 2010
-> - **Comments**:
-
-#### Salarevo Formation, Northern Dvina Basin, Russia
-> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
-> - **Taxa**:
->> - Parareptilia / Amphibia: *Dvinosaurus primus*, *Kotlassia prima*, *Karpinskiosaurus secundus*, *Chroniosuchus licharevi*, *Chroniosuchus vjuschkovi*, *Scutosaurus karpinskii*, *Scutosaurus tuberculatus*, *Suchonosaurus minimus*.
->> - Therapsida: *Inostrancevia alexandri*, *Inostrancevia latifrons*, *Pravoslavlevia parva*, *Annatherapsidus petri*, *Dvinia prima*, *Elph borealis*, *Fortunodon trautscholdi*, *Fortunodon amalitzkii*, *Dicynodon amalitzkii*, *Dicynodon trautscholdi*, *Peramodon* sp.
->> - Actinopterygii: *Isadia arefievi*.
-> - **Locality and horizon**: Key fossil sites include Sokolki (PIN 2005), Zavrazh’e (PIN 2353, 2356), Savvatii, Aristovo, and Eleonora, located in the Arkhangelsk and Vologda Regions along the Malaya Northern Dvina and Sukhona rivers. Vertebrate fossils derive from the **Komaritsa Member** of the **Salarevo Formation**, corresponding to the **Sokolki Subassemblage** of the **Sokolki Assemblage**.
-> - **References**: Arefiev et al., 2015; Aristov et al., 2013; Bulanov, 2003; Golubev, 2000a; Ivakhnenko, 2008; Minikh et al., 2015; Sennikov et al., 2003; Sushkin, 1926; Tverdokhlebova and Ivakhnenko, 1994; Yakimenko et al., 2000.
-> - **Comments**:  
-
-#### Upper Permian Depositsof European Russia
-> - **Age**: early Wuchiapingian, Lopingian, Permian.
-> - **Taxa**:
-The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
-
-
-#### Val Gardena Sandstone, Dolomites – Northern Italy
-> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Late Permian
-> - **Taxa**: 
->> - Tetrapod ichnotaxa: *Pachypes dolomiticus*, *Dicynodontipus geinitzi*, *Paradoxichnium* isp., *Rhynchosauroides pallinii*, *Procolophonichnium tirolensis*, cf. *Capitosauroides* isp., cf. *Merifontichnus* isp.
-> - **Locality and horizon**: Major fossil sites include the Bletterbach Gorge, Tramin/Termeno, and the Recoaro area. The Val Gardena Sandstone unconformably overlies the Lower Permian Athesian Volcanic Group and is conformably overlain by, and locally interfingers with, the Bellerophon Formation (Bernardi et al., 2018; Marchetti et al., 2017).
-> - **References**: Bernardi et al., 2018; Conti et al., 1977; Kustatscher et al., 2017; Leonardi et al., 1975; Marchetti et al., 2017; Massari et al., 1994; Prinoth, 2017
 > - **Comments**:
 
 ### Changhsingian（长兴期）, Lopingian, Permian
@@ -2653,6 +2647,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
