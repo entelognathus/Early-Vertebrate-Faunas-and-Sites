@@ -697,6 +697,12 @@
 > - **References**: Arefiev et al., 2015; Aristov et al., 2013; Bulanov, 2003; Golubev, 2000a; Ivakhnenko, 2008; Minikh et al., 2015; Sennikov et al., 2003; Sushkin, 1926; Tverdokhlebova and Ivakhnenko, 1994; Yakimenko et al., 2000.
 > - **Comments**:  
 
+#### Upper Permian Depositsof European Russia
+> - **Age**: early Wuchiapingian, Lopingian, Permian.
+> - **Taxa**:
+The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
+
+
 #### Val Gardena Sandstone, Dolomites – Northern Italy
 > - **Age**: Wuchiapingian to Changhsingian, Lopingian, Late Permian
 > - **Taxa**: 
@@ -2640,6 +2646,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
