@@ -1100,7 +1100,7 @@ Romano (2021):
 > - **References**:
 > - **Comments**: Xinyi Biota.
 
-#### huganpo Member, Falang Formation, Changdi, Luoping, Yunnan, China
+#### Zhuganpo Member, Falang Formation, Changdi, Luoping, Yunnan, China
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: *Birgeria liui* (Jin, 2001).
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation; Changdi, Luoping, Yunnan, China
@@ -1114,6 +1114,18 @@ Romano (2021):
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China.
 > - **References**: 
 > - **Comments**: Xinyi Biota.
+
+#### Erfurt Formation, Schwäbisch Hall, Baden-Württemberg, Germany
+> - **Age**:Longobardian, early Late Ladinian.
+> - **Taxa**: Actinopterygian: *Serrolepis suevicus* Dames, 1888; ?Redfieldiiformes gen. et sp. indet.; *Saurichthys* sp.;?Coelacanthidae gen. et sp. indet.
+> - Chondrichthys: *Lonchidion* sp.
+> - Dipnoans:*“Ceratodus” concinnus*; *Ptychoceratodus serratus*
+> - Amphibians:*Mastodonsaurus giganteus*; *Gerrothorax pulcherrimus*
+> - Marine reptile: *Nothosaurus* sp.
+> - Tetrapoda: *Batrachotomus kupferzellensis*;?Suchia indet.; Doswelliidae gen. et sp. indet.
+> - **Locality and horizon**:Erfurt Formation, Schwabisch Hall, Baden-Württemberg, Germany.
+> - **References**: Hagdorn & Mutter, 2011
+> - **Comments**:Serrolepisbank Fauna. Facies and fauna give evidence of an occasionally dry falling lacustrine environment.
 
 ## Late Triassic
 #### Lockatong Formation, USA
@@ -2653,6 +2665,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
