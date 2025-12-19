@@ -663,6 +663,14 @@
 > - **Taxa**:
 The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
 
+#### Urpalov Formation, Vyatka River Region, Russia 
+> - **Age**: lowermost Wuchiapingian, Lopingian, Permian
+> - **Taxa**:
+>> - Parareptilia: *Deltavjatia vjatkensis*, *Emeroleter laevis*, *Chroniosaurus* sp.
+>> - Therapsida: *Suminia getmanovi*, *Viatkogorgon ivakhnenkoi*, *Nochnitsa geminidens*, *Proburnetia viatkensis*, *Perplexisaurus foveatus*, *Perplexisaurus lepusculus*, *Viatkosuchus sumini*, *Karenites ornamentatus*, *Chlynovia serridentata*, *Scalopodon tenuifrons*, *Scalopodontes kotelnichi*, *Kotelcephalon viatkensis*, *Muchia microdenta*.
+> - **Locality and horizon**: Kotel'nich locality, western (right) bank of the Vyatka River, Kirov district, Russia (Kordikova & Khlyupin, 2001). Fossils are primarily from red calcareous mudstones and brownish-red siltstones (Kordikova & Khlyupin, 2001; Benton et al., 2012) of the **Vanyushonkov Member** (also Vanyushenki) (Kordikova & Khlyupin, 2001; Benton et al., 2012), the main fossiliferous horizon of the **Urpalov Formation** (Kordikova & Khlyupin, 2001). This corresponds to the *Deltavjatia vjatkensis* Assemblage Zone (Arefiev et al., 2015).
+> - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
+> - **Comments**:  
 
 #### Lower Sakamena Formation, Morondava Basin, Madagascar
 > - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian 
@@ -790,15 +798,6 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 >> - Dicynodontia: *Gordonia* spp., *Geikia elegans*, *Dicynodon traquairi*.
 > - **Locality and horizon**: Type locality is Cutties Hillock Quarry, Moray, Scotland(Benton & Spencer, 1995). Fossils were recovered from the base of an aeolian unit, just above pebbly sheet-flood deposits (Benton & Walker, 1985).
 > - **References**: Benton & Spencer, 1995; Benton & Walker, 1985; Cruickshank et al., 2005; George et al., 2024; Scottish Natural Heritage, n.d.
-> - **Comments**:  
-
-#### Urpalov Formation, Vyatka River Region, Russia 
-> - **Age**: lowermost Wuchiapingian, Lopingian, Permian
-> - **Taxa**:
->> - Parareptilia: *Deltavjatia vjatkensis*, *Emeroleter laevis*, *Chroniosaurus* sp.
->> - Therapsida: *Suminia getmanovi*, *Viatkogorgon ivakhnenkoi*, *Nochnitsa geminidens*, *Proburnetia viatkensis*, *Perplexisaurus foveatus*, *Perplexisaurus lepusculus*, *Viatkosuchus sumini*, *Karenites ornamentatus*, *Chlynovia serridentata*, *Scalopodon tenuifrons*, *Scalopodontes kotelnichi*, *Kotelcephalon viatkensis*, *Muchia microdenta*.
-> - **Locality and horizon**: Kotel'nich locality, western (right) bank of the Vyatka River, Kirov district, Russia (Kordikova & Khlyupin, 2001). Fossils are primarily from red calcareous mudstones and brownish-red siltstones (Kordikova & Khlyupin, 2001; Benton et al., 2012) of the **Vanyushonkov Member** (also Vanyushenki) (Kordikova & Khlyupin, 2001; Benton et al., 2012), the main fossiliferous horizon of the **Urpalov Formation** (Kordikova & Khlyupin, 2001). This corresponds to the *Deltavjatia vjatkensis* Assemblage Zone (Arefiev et al., 2015).
-> - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
 > - **Comments**:  
 
 #### Balfour Formation, Karoo Basin, South Africa
@@ -2661,6 +2660,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
