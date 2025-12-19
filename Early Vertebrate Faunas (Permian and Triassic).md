@@ -758,7 +758,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **References**:
 > - **Comments**: 
 
-#### Naobaogou Formation, Daqing Mountains, Inner Mongolia (Nei Mongol), China
+#### Naobaogou Formation（脑包沟组）, Daqing Mountains, Inner Mongolia (Nei Mongol), China
 > - **Age**: Changhsingian, Lopingian, Permian.
 > - **Taxa**:
 >> - Synapsida: *Caodeyao liuyufengi*, *Daqingshanodon limbus*, *Euchambersia liuyudongi*, *Jiufengia jiai*, *Jimusaria monanensis*, *Shiguaignathus wangi*, *Turfanodon jiufengensis*.
@@ -766,7 +766,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 >> - Reptiliomorpha: *Gansurhinus naobaogouensis*, *Laosuchus hun*.
 > - **Locality and horizon**: Fossils are known from all three members of the formation in the Daqing Mountains, with specific localities in the Shiguai District of Baotou City and the Tumed Right Banner (Zhu, 1989; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025).
 > - **References**: Zhu, 1989; Liu & Li, 2013; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025
-> - **Comments**:
+> - **Comments**: *Yinshanosaurus angustus* to added in Deepbone.
 
 #### Guodikeng Formation, Junggar Basin, Xinjiang, China
 > - **Age**: Changhsingian (Late Permian) to Griesbachian, Induan (Early Triassic).
@@ -2658,6 +2658,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
