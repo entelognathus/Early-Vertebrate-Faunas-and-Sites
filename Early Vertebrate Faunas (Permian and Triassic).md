@@ -767,8 +767,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Comments**: Cao C Q, Wang W, Liu L J et al., 2008. Two episodes of 13C-depletion in organic carbon in the latest Permian: evidence from the terrestrial sequences in northern Xinjiang, China. Earth Planet Sci Lett, 270: 251–257.
 > - The PTB follows Cao et al. (2008). As such, C. IVPP V23295 (a chroniosuchian) and *Jimusaria sinkianensis* of Griesbachian, Induan; the lowest occurrence of *Lystrosaurus*, IVPP V 23296 (the therocephalian *Dalongkoua fuae*) of Changhsingian (Liu & Abdala, 2017). 
 
-
-
+<img width="1699" height="1348" alt="Snipaste_2025-12-19_10-11-06" src="https://github.com/user-attachments/assets/66616811-b001-45f2-8684-5e5f2e4faa91" />
 
 
 
@@ -2646,6 +2645,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
