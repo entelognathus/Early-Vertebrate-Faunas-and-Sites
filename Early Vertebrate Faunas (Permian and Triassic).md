@@ -585,8 +585,36 @@
 
 ## Lopingian (late Permian, 乐平世)
 ### Wuchiapingian（吴家坪期）, Lopingian, Permian
+#### Sunjiagou Formation, Ordos Basin – Shanxi, China
+> - **Age**:  Wuchiapingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Parareptilia: *Shihtienfenia permica*, *Shihtienfenia completus*, *Shansisaurus xuecunensis*, *Huanghesaurus liulinensis*, *Sanchuansaurus pygmaeus*.
+>> - Therapsida: *Taoheodon baizhijuni*, Cryptodontia indet.
+>> - Anthracosauria: *Seroherpeton yangquanensis*.
+> - **Locality and horizon**: Recovered from localities including Baode, Liulin (Xuecun Town), Shouyang, and Yangquan in Shanxi Province, China (Young and Yeh, 1963; Li and Liu, 2013; Chen and Liu, 2020; Yi and Liu, 2020). The formation consists of fluvial and lacustrine deposits (Liu, 2020; Yi and Liu, 2020).
+> - **References**: Benton, 2016; Chen and Liu, 2020; Li and Liu, 2013; Liu, 2020; Wang et al., 2019; Yi and Liu, 2020; Young and Yeh, 1963
+> - **Comments**:
+
+#### Wutonggou Formatio, Turpan Basin – Xinjiang, China
+> - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian
+> - **Taxa**:
+>> - Therapsida: Gorgonopsia indet.; Dicynodontia indet.
+> - **Locality and horizon**: Sections at Dalongkou and Lucaogou, Turpan Basin, Xinjiang, China. At Dalongkou, the formation is 121 m thick and represents a dominantly fluvial environment (Metcalfe et al., 2009; Liu & Yang, 2022).
+> - **References**: Liu, 2018; Liu & Yang, 2022; Lucas, 1998; Metcalfe et al., 2009; Shi & Liu, 2024
+> - **Comments**:
+
+#### Naobaogou Formation, Daqing Mountains, Inner Mongolia (Nei Mongol), China
+> - **Age**:  Wuchiapingian, Lopingian, Permian.
+> - **Taxa**:
+>> - Synapsida: *Caodeyao liuyufengi*, *Daqingshanodon limbus*, *Euchambersia liuyudongi*, *Jiufengia jiai*, *Jimusaria monanensis*, *Shiguaignathus wangi*, *Turfanodon jiufengensis*.
+>> - Parareptilia: *Elginia wuyongae*, *Yinshanosaurus angustus*.
+>> - Reptiliomorpha: *Gansurhinus naobaogouensis*, *Laosuchus hun*.
+> - **Locality and horizon**: Fossils are known from all three members of the formation in the Daqing Mountains, with specific localities in the Shiguai District of Baotou City and the Tumed Right Banner (Zhu, 1989; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025).
+> - **References**: Zhu, 1989; Liu & Li, 2013; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025
+> - **Comments**:
+
 #### Kundaram Formation, Pranhita–Godavari Basin, India
-> - **Age**: Wuchiapingian, Lopingian, Permian
+> - **Age**: Wuchiapingian, Lopingian, Permian.
 > - **Taxa**: 
 >> - Synapsida:
 >>> - Dicynodontia: *Endothiodon mahalanobisi*, *Endothiodon bathystoma*, *Dicynodontoides* sp., *Sauroscaptor tharavati*, *Pristerodon mackayi*, ?*Oudenodon* sp., *Emydops platyceps*, *Cistecephalus microrhinus*.
@@ -595,16 +623,6 @@
 >>> - *Indosauriscus kuttyi*.
 > - **Locality and horizon**: Red mudstone dominated sequence of the Kundaram Formation, near the village of Golleti in the Adilabad district of Telangana. The formation overlies the Barren Measures Formation and underlies the Kamthi Formation (Ray and Bandyopadhyay, 2003; Kammerer et al., 2016).
 > - **References**: Ray, 1997; Ray and Bandyopadhyay, 2003; Kammerer et al., 2016; Reisz et al., 2024
-> - **Comments**:
-
-#### Sunjiagou Formation, Ordos Basin – Shanxi, China
-> - **Age**: Wuchiapingian, Lopingian（late Permian).
-> - **Taxa**:
->> - Parareptilia: *Shihtienfenia permica*, *Shihtienfenia completus*, *Shansisaurus xuecunensis*, *Huanghesaurus liulinensis*, *Sanchuansaurus pygmaeus*.
->> - Therapsida: *Taoheodon baizhijuni*, Cryptodontia indet.
->> - Anthracosauria: *Seroherpeton yangquanensis*.
-> - **Locality and horizon**: Recovered from localities including Baode, Liulin (Xuecun Town), Shouyang, and Yangquan in Shanxi Province, China (Young and Yeh, 1963; Li and Liu, 2013; Chen and Liu, 2020; Yi and Liu, 2020). The formation consists of fluvial and lacustrine deposits (Liu, 2020; Yi and Liu, 2020).
-> - **References**: Benton, 2016; Chen and Liu, 2020; Li and Liu, 2013; Liu, 2020; Wang et al., 2019; Yi and Liu, 2020; Young and Yeh, 1963
 > - **Comments**:
 
 #### Kupferschiefer (Werra Fm, Zechstein Gp), Thuringia – Germany/Poland
@@ -635,14 +653,6 @@
 > - **References**: Ceoloni et al., 1988; Conti et al., 1977; Leonardi et al., 1975; Marchetti et al., 2017; Marchetti et al., 2020; Massari et al., 1988.
 > - **Comments**: 
 
-#### Wutonggou Formatio, Turpan Basin – Xinjiang, China
-> - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian
-> - **Taxa**:
->> - Therapsida: Gorgonopsia indet.; Dicynodontia indet.
-> - **Locality and horizon**: Sections at Dalongkou and Lucaogou, Turpan Basin, Xinjiang, China. At Dalongkou, the formation is 121 m thick and represents a dominantly fluvial environment (Metcalfe et al., 2009; Liu & Yang, 2022).
-> - **References**: Liu, 2018; Liu & Yang, 2022; Lucas, 1998; Metcalfe et al., 2009; Shi & Liu, 2024
-> - **Comments**:
-
 #### Lower Sakamena Formation, Morondava Basin – Madagascar
 > - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian 
 > - **Taxa**: 
@@ -666,15 +676,6 @@
 > - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
 > - **Comments**:
 
-#### Naobaogou Formation, Daqing Mountains, Inner Mongolia, China
-> - **Age**: Lopingian, Late Permian.
-> - **Taxa**:
->> - Synapsida: *Caodeyao liuyufengi*, *Daqingshanodon limbus*, *Euchambersia liuyudongi*, *Jiufengia jiai*, *Jimusaria monanensis*, *Shiguaignathus wangi*, *Turfanodon jiufengensis*.
->> - Parareptilia: *Elginia wuyongae*, *Yinshanosaurus angustus*.
->> - Reptiliomorpha: *Gansurhinus naobaogouensis*, *Laosuchus hun*.
-> - **Locality and horizon**: Fossils are known from all three members of the formation in the Daqing Mountains, with specific localities in the Shiguai District of Baotou City and the Tumed Right Banner (Zhu, 1989; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025).
-> - **References**: Zhu, 1989; Liu & Li, 2013; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025
-> - **Comments**:
 
 #### Usili Formation, Ruhuhu Basin, Tanzania
 > - **Age**: Lopingian, Permian
@@ -742,6 +743,29 @@
 > - **References**:
 > - **Comments**: 
 
+#### Sunan Formation, Gansu, China
+> - **Age**: Changhsingian, Lopingian, Permian.
+> - **Taxa**:
+> - **Locality and horizon**: Top of the Sunan Formation, Gansu, China
+> - **References**:
+> - **Comments**: 
+
+#### Guodikeng Formation, Junggar Basin, Xinjiang, China
+> - **Age**: Changhsingian (Late Permian) to Griesbachian, Induan (Early Triassic).
+> - **Taxa**:
+>> - Therapsida: *Jimusaria sinkianensis*, *Jimusaria taoshuyuanensis*, *Turfanodon bogdaensis*, *Striodon magnus*, *Kunpania scopulusa*, *Dicynodon tienshanensis*, *Diictodon feliceps*, *Lystrosaurus* sp., *Lystrosaurus hedini*, *Lystrosaurus youngi*, *Dalongkoua fuae*.
+>> - Reptiliomorpha: Bystrowianidae indet.
+> - **Locality and horizon**: Type section at Quanzijie, Jimusar County, Xinjiang; reference section at Dalongkou, south of Santai Town, Jimusar County, Xinjiang (Institute of Geology... & SRIIBGMRXUAR, 1990). Fossils are known from the lower, middle, and upper parts of the formation, notably from the Dalongkou section (Liu & Abdala, 2017).
+> - **References**: Institute of Geology, Chinese Academy of Geological Sciences and the Scientific Research Institute of the Bureau of Geology and Mineral Resources of Xinjiang Uygur Autonomous Region, 1990; Liu, 2019; Liu & Abdala, 2017; Metcalfe et al., 2009; Sun, 1963; Sun, 1973b; Sun, 1978; Yang et al., 2021; Yuan & Young, 1934a; Yuan & Young, 1934b
+> - **References**:
+> - **Comments**: Cao C Q, Wang W, Liu L J et al., 2008. Two episodes of 13C-depletion in organic carbon in the latest Permian: evidence from the terrestrial sequences in northern Xinjiang, China. Earth Planet Sci Lett, 270: 251–257.
+> - The PTB follows Cao et al. (2008). As such, C. IVPP V23295 (a chroniosuchian) and *Jimusaria sinkianensis* of Griesbachian, Induan; the lowest occurrence of *Lystrosaurus*, IVPP V 23296 (the therocephalian *Dalongkoua fuae*) of Changhsingian (Liu & Abdala, 2017). 
+
+
+
+
+
+
 #### Burngrove Formation, Bowen Basin – Queensland, Australia
 > - **Age**: late Changhsingian, Lopingian, Late Permian 
 > - **Taxa**:
@@ -779,16 +803,6 @@
 >>> - *Micropholis stowi*, *Lydekkerina huxleyi*.
 > - **Locality and horizon**: Exposures across the main Karoo Basin in South Africa, particularly near Beaufort West, Cradock, Graaff-Reinet, and Nieu Bethesda; stratigraphically assigned to the upper part of the Beaufort Group, encompassing the Daptocephalus and Lystrosaurus Assemblage Zones, with formal lithostratigraphic members including Oudeberg, Daggaboersnek, Ripplemead (formerly Barberskrans), Elandsberg, and Palingkloof (Catuneanu et al., 2005; Smith & Ward, 2001).
 > - **References**: Catuneanu et al., 2005; Smith & Botha, 2005; Botha-Brink & Smith, 2011; Kammerer et al., 2011; Huttenlocker et al., 2011; Viglietti et al., 2021; Smith & Ward, 2001; Kammerer et al., 2023.
-> - **Comments**:
-
-#### Guodikeng Formation, Junggar Basin – Xinjiang, China
-> - **Age**: Changhsingian (Late Permian) to Induan (Early Triassic).
-> - **Taxa**:
->> - Therapsida: *Jimusaria sinkianensis*, *Jimusaria taoshuyuanensis*, *Turfanodon bogdaensis*, *Striodon magnus*, *Kunpania scopulusa*, *Diictodon tienshanensis*, *Diictodon feliceps*, *Lystrosaurus* sp., *Lystrosaurus hedini*, *Lystrosaurus youngi*, *Dalongkoua fuae*.
->> - Reptiliomorpha: Bystrowianidae indet.
-> - **Locality and horizon**: Type section at Quanzijie, Jimusar County, Xinjiang; reference section at Dalongkou, south of Santai Town, Jimusar County, Xinjiang (Institute of Geology... & SRIIBGMRXUAR, 1990; Liu & Abdala, 2017). Fossils are known from the lower, middle, and upper parts of the formation, notably from the Dalongkou section (Liu & Abdala, 2017).
-> - **References**: Institute of Geology, Chinese Academy of Geological Sciences and the Scientific Research Institute of the Bureau of Geology and Mineral Resources of Xinjiang Uygur Autonomous Region, 1990; Liu, 2019; Liu & Abdala, 2017; Metcalfe et al., 2009; Sun, 1963; Sun, 1973b; Sun, 1978; Yang et al., 2021; Yuan & Young, 1934a; Yuan & Young, 1934b
-> - **References**:
 > - **Comments**:
 
 # Triassic:
@@ -1045,6 +1059,7 @@ Romano (2021):
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **References**: (Su, 1959)
 > - **Comments**: Xinyi Biota.
+> - 
 
 **Zhuganpo Member, Falang Formation, Wusha, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
@@ -2625,6 +2640,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
