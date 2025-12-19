@@ -594,15 +594,15 @@
 >> - Tetrapoda: Bystrowiana sinica; two pareiasaurs, Honania complicidentata and Tsiyuania simplicidentata; the dinocephalian Taihangshania imperfacta; the gorgonopsian Wangwusaurus tayuensis; and the cynodont Hwanghocynodon multienspidus. 
 > - **Locality and horizon**: Shangshihezi Formation, Jiyuan, Henan, China.
 > - **References**:
-> - **Comments**: 
+> - **Comments**: Wangwusaurus tayuensis to be added in Deepbone.
 
-#### Wutonggou Formatio, Turpan Basin – Xinjiang, China
+#### Wutonggou Formation（梧桐沟组）, Turpan Basin, Xinjiang, China
 > - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian
 > - **Taxa**:
 >> - Therapsida: Gorgonopsia indet.; Dicynodontia indet.
 > - **Locality and horizon**: Sections at Dalongkou and Lucaogou, Turpan Basin, Xinjiang, China. At Dalongkou, the formation is 121 m thick and represents a dominantly fluvial environment (Metcalfe et al., 2009; Liu & Yang, 2022).
 > - **References**: Liu, 2018; Liu & Yang, 2022; Lucas, 1998; Metcalfe et al., 2009; Shi & Liu, 2024
-> - **Comments**:
+> - **Comments**: 
 
 #### Kundaram Formation, Pranhita–Godavari Basin, India
 > - **Age**: Wuchiapingian, Lopingian, Permian.
@@ -2653,6 +2653,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
