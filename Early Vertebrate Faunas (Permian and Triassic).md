@@ -751,9 +751,9 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **References**: Benton, 2016; Chen and Liu, 2020; Li and Liu, 2013; Liu, 2020; Wang et al., 2019; Yi and Liu, 2020; Young and Yeh, 1963
 > - **Comments**:
 
-#### Sunan Formation, Gansu, China
+#### Sunan Formation（肃南组）, Gansu, China
 > - **Age**: Changhsingian, Lopingian, Permian.
-> - **Taxa**:
+> - **Taxa**: *Turfanodon sunanensis*
 > - **Locality and horizon**: Top of the Sunan Formation, Gansu, China
 > - **References**:
 > - **Comments**: 
@@ -769,7 +769,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Comments**: *Yinshanosaurus angustus* to added in Deepbone.
 
 #### Guodikeng Formation, Junggar Basin, Xinjiang, China
-> - **Age**: Changhsingian (Late Permian) to Griesbachian, Induan (Early Triassic).
+> - **Age**: Changhsingian, Lopingian, Permian to Griesbachian, Induan, Early Triassic.
 > - **Taxa**:
 >> - Therapsida: *Jimusaria sinkianensis*, *Jimusaria taoshuyuanensis*, *Turfanodon bogdaensis*, *Striodon magnus*, *Kunpania scopulusa*, *Dicynodon tienshanensis*, *Diictodon feliceps*, *Lystrosaurus* sp., *Lystrosaurus hedini*, *Lystrosaurus youngi*, *Dalongkoua fuae*.
 >> - Reptiliomorpha: Bystrowianidae indet.
@@ -778,8 +778,6 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **References**:
 > - **Comments**: Cao C Q, Wang W, Liu L J et al., 2008. Two episodes of 13C-depletion in organic carbon in the latest Permian: evidence from the terrestrial sequences in northern Xinjiang, China. Earth Planet Sci Lett, 270: 251–257.
 > - The PTB follows Cao et al. (2008). As such, C. IVPP V23295 (a chroniosuchian) and *Jimusaria sinkianensis* of Griesbachian, Induan; the lowest occurrence of *Lystrosaurus*, IVPP V 23296 (the therocephalian *Dalongkoua fuae*) of Changhsingian (Liu & Abdala, 2017). 
-
-
 
 <img width="1699" height="1348" alt="Snipaste_2025-12-19_10-11-06" src="https://github.com/user-attachments/assets/66616811-b001-45f2-8684-5e5f2e4faa91" />
 
@@ -832,7 +830,6 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Locality and horizon**: Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China. Also in Tieshikou, Xinfeng, Jiangxi Province, China.
 > - **References**: Zhao and Lu, 2007; Wang et al., 2007
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
- 
 
 #### Blina Shale Formation, Kimberley region, Northwest Australia
 > - **Age**: Induan–Olenekian, Early Triassic.
@@ -2658,6 +2655,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
