@@ -922,7 +922,8 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 #### Spathian, late Olenekian, Early Triassic
 **Idaho and northeast Nevada (Romano et al., 2012; Romano et al., 2017)**
 
-**Lower Qinglong Formation and the Helongshan Formation in eastern China (Tong et al., 2006; Li 2009)**
+#### Xiaqinglong Formation and the Helongshan Formation in eastern China (Tong et al., 2006; Li 2009)
+
 
 **Arcadia Formation** (Australia) Olenekian, Early Triassic
 
@@ -2657,6 +2658,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
