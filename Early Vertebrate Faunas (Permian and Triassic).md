@@ -803,7 +803,7 @@
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
  
 
-**Blina Shale Formation, Kimberley region, Northwest Australia**
+#### Blina Shale Formation, Kimberley region, Northwest Australia
 > - **Age**: Induan–Olenekian, Early Triassic.
 > - **Taxa**: *Batrachosuchus henwoodi*, *Deltasaurus kimberleyensis*, *Erythrobatrachus noonkanbahensis*, *Saurichthys*; *Aphelodus anapes*, *Watsonisuchus sp.*
 > - **Locality and horizon**: Blina Shale Formation, Kimberley region, Northwest Australi; marine to deltaic shales of the eastern Erskine Range near Noonkanbah Station
@@ -812,7 +812,7 @@
 
 ### Griesbachian, Induan, Early Triassic
 
-**Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland**
+#### Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland
 > - **Age**: Griesbachian, Induan.
 > - **Taxa**:
 > - **Locality and horizon**: Kap Stosch Formation, Wordie Creek Group; Griesbachian, Induan, East Greenland.
@@ -822,7 +822,7 @@
 
 *Pteronisculus gunnari*, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
 
-**Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan**
+#### Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan
 > - **Age**: Griesbachian, Induan.
 > - **Taxa**: *Bobasatrania* sp.
 > - **Locality and horizon**: Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan.
@@ -830,21 +830,21 @@
 > - **Comments**:
 
 ### Dienerian, Induan, Early Triassic
-**"stegocephalian-horizon", Dienerian, Induan, East Greenland**
+#### "stegocephalian-horizon", Dienerian, Induan, East Greenland
 > - **Age**: Dienerian, Induan.
 > - **Taxa**:
 > - **Locality and horizon**: "stegocephalian-horizon", Dienerian, Induan, East Greenland
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). 
 
-**Middle Sakamena Group, Dienerian, Induan, Madagascar**
+#### Middle Sakamena Group, Dienerian, Induan, Madagascar
 > - **Age**: Dienerian, Induan,Early Triassic.
 > - **Taxa**: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), Ecrinesomus, Errolichthys, Helmolepis (Platysiagidae), Paracentrophorus, Pteronisculus, Saurichthys madagascariensis (Piveteau, 1944), Teffichthys (species were previously referred to Perleidus; Marramà et al., 2017), several parasemionotid genera, and actinistians (Piveteauia, Rhabdoderma, Whiteia).
 > - **Locality and horizon**: Middle Sakamena Group, Dienerian, Induan, Madagascar
 > - **References**: Lehman 1952; Nielsen 1955; Beltan 1968; Brinkmann et al., 2010; Marramà et al., 2017;
 > - **Comments**: 
 
-**Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China**
+#### Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
 > - **Age**: Dienerian, Induan,Early Triassic.
 > - **Taxa**: Paraperleidus
 > - **Locality and horizon**: Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
@@ -859,7 +859,7 @@ Candelaria Hills: a parasemionotid (Candelarialepis), a ?turseoid (Pteronisculus
 
 ### Smithian, early Olenekian, Early Triassic
 
-**Smithian, early Olenekian, Spitzbergen (Svalbard)**
+#### Smithian, early Olenekian, Spitzbergen (Svalbard)
 > - **Age**: Smithian, early Olenekian, Early Triassic
 > - **Taxa**: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus), and several actinistian genera (Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania).
 > - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard)
@@ -874,21 +874,21 @@ The *Grippia Niveau* was placed between the underlying Fish Niveau and the overl
 
 Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
 
-**Smithian, early Olenekian, Alberta, British Columbia, Canada**
+#### Smithian, early Olenekian, Alberta, British Columbia, Canada
 > - **Age**: Smithian, early Olenekian, Early Triassic
 > - **Taxa**: Albertonia, Australosomus,Birgeria, Bobasatrania, Boreosomus, Helmolepis, Saurichthys, actinistians (Belemnocerca, Rebellatrix, Whiteia
 > - **Locality and horizon**:
 > - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015.
 > - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
 
-**Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada**
+#### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
 > - **Age**: Smithian, early Olenekian, Early Triassic
 > - **Taxa**: Cf. *Palaeobates*, 
 > - **Locality and horizon**: Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
 > - **References**: Schaeffer and Mangus 1976; 
 > - **Comments**:
 
-**Spathian, late Olenekian, Early Triassic**
+#### Spathian, late Olenekian, Early Triassic
 **Idaho and northeast Nevada (Romano et al., 2012; Romano et al., 2017)**
 
 **Lower Qinglong Formation and the Helongshan Formation in eastern China (Tong et al., 2006; Li 2009)**
@@ -898,21 +898,21 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 ### Spathian, Olenekian, Early Triassic
 Well-dated Spathian bony fish are known from China, Romania, and the western United States.
 
-**Nanlinghu Formation, Anhui, eastern China**
+#### Nanlinghu Formation, Anhui, eastern China
 > - **Age**: late Olenekian (Spathian), Early Triassic
 > - **Taxa**: Sauropterygia: Majiashanosaurus discocoracoidis. Actinopterygii: Chaohuperleidus primus, Chaohuichthys majiashanensis.
 > - **Locality and horizon**: Type section at Nanling Lake near Tongling District, Anhui Province. Fossil-bearing horizon at Majiashan Quarry, Chaohu, Anhui Province; bed 719 in the Upper Member of the Nanlinghu Formation, ~27 m above its base, within the ammonoid Subcolumbites zone (Spathian, Olenekian) (Jiang et al., 2016).
 > - **References**: Wang 1984; Jiang et al., 2014; Sun et al., 2013; Tintori et al., 2014b, Tong et al., 2006; Jiang et al., 2016.
 > - **Comments**: 
 
-**Romania**
+#### Romania
 > - **Age**:
 > - **Taxa**: Dobrogeria
 > - **Locality and horizon**:
 > - **References**:Cavin and Gradinaru 2014
 > - **Comments**: 
 
-**northeast Nevada**
+#### northeast Nevada
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -920,7 +920,7 @@ Well-dated Spathian bony fish are known from China, Romania, and the western Uni
 > - **Comments**: 
 From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. 
 
-**Spitsbergen**
+#### Spitsbergen
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -928,7 +928,7 @@ From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholep
 > - **Comments**: 
 Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). 
 
-**Gogolin beds**
+#### Gogolin beds
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -936,16 +936,14 @@ Another probable Spathian occurrence is known from Spitsbergen (a specimen of Sa
 > - **Comments**: 
 The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
 
-**Sulphur Mountain Formation Fauna, Wapiti Lake area, British Columbia, Canada** 
+#### Sulphur Mountain Formation Fauna, Wapiti Lake area, British Columbia, Canada
 > - **Age**: Olenekian, Early Triassic
 > - **Taxa**: Actinopterygii: Boreosomus spp., Birgeria sp., Bobasatrania canadensis, Australosomus sp., Saurichthys sp., Parasemionotus spp.. Actinistia: Rebellatrix divaricerca. Chondrichthyes: Listracanthus pectenatus. Thalattosauria: Agkistrognathus campbelli, Paralonectes merriami, Thalattosaurus borealis, Wapitisaurus problematicus. Ichthyosauria: Grippia longirostris, Utatsusaurus sp., Parvinatator wapitiensis.
 > - **Locality and horizon**: Marine vertebrate fossils are preserved in the Vega–Phroso Siltstone Member of the Sulphur Mountain Formation at exposures near Wapiti Lake Provincial Park in British Columbia, Canada; this member spans the Smithian–Spathian intervals of the Lower Triassic (Orchard & Zonneveld, 2009; Nicholls & Brinkman, 1993).
 > - **References**: Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
 > - **Comments**:
 
-
-
-> Wapiti Lake locality, British Columbian, Canada
+#### Wapiti Lake locality, British Columbian, Canada
 > Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
 > Rebellatrix divaricerca, Helmolepis and Birgeria 
 
@@ -968,7 +966,7 @@ From Germany, Werneburg et al. (2014) described small species of Saurichthys. Th
 The Velika Planina Horizon (Slovenia), whose precise age is not known but is thought to be pre-Pelsonian, has produced specimens of Eosemionotus, Placopleurus, and Saurichthys (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016). The Velika Planina Horizon is herein treated as Bithynian in age, although an Aegean age cannot currently be confidently excluded. Apart from Saurichthys, all other genera listed above have their first appearance datum in this interval.
 
 ### Pelsonian, late Middle Anisian
-**Upper Member, Guanling Formation, Panzhou, Guizhou, China**
+#### Upper Member, Guanling Formation, Panzhou, Guizhou, China
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**:
 >> - Actinopterygii: *Colobodus baii* (Sun et al., 2008) GMPKU-P-1207; *Feroxichthys panzhouensis* (Ma et al., 2021) IVPP V16520; *Sinosaurichthys longipectoralis* (Wu et al., 2011, 2013, 2015) GMPKU-P-1233; *Panxianichthys imparilis* (Chen et al., 2014; Xu & Shen, 2015; Sun et al., 2016) IVPP V 19971; *Birgeria* sp. (Jiang et al., 2016); *Lashanichthys yangjuanensis* ‘=*Sangiorgioichthys yangjuanensis* Wu et al., 2015’ Chen et al., 2014 GMPKU-P-3055; *Saurichthys yangjuanensis* Wu et al., 2015 GMPKU-P-1220; *Yelangichthys macrocephalus* GMPKU-P1358, GMPKU-P1359, GMPKU-P1360 Wu et al., 2013;
@@ -979,7 +977,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > - Ma et al. (2021): "Geological survey indicates that the Panxian Biota is slightly younger than the Luoping Biota because the former is recovered from the upper part of the Second Member of the Guanling Formation and the latter the middle part of this member of strata (Benton et al., 2013), although conodont analyses constrained both biotas within the same *Nicoraella kockeli* Zone (Sun et al., 2006, 2016; Zhang et al., 2009; Hu et al., 2011).The zircon dating provided an absolute age of 244.0 ± 1.3 Ma for the Panxian Biota (Wang et al., 2014)."
 > - Romano (2021): "A rich ichthyofauna is known from two horizons in South China, which became famous as the Luoping Biota and Panxian Biota, respectively, both being almost the same age (Upper Member of the Guanling Formation; Benton et al., 2013). Sun et al. (2012) suggested a Pelsonian age for the Luoping fish beds and I herein follow these authors' interpretation, although Tintori et al. (2016) argued for a younger (Illyrian?) age. Sun et al. (2016a) presented evidence for a Pelsonian age of the Panxian biota."
 
-**Upper Member, Guanling Formation, Luoping, Yunnan, China**
+#### Upper Member, Guanling Formation, Luoping, Yunnan, China
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**:
 >> - *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Feroxichthys yunnanensis* (Xu, 2020a); *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; *Gimlichthys dawaziensis*; *Gymnoichthys inopinatus*; *Habroichthys broughi*; *Kyphosichthys grandei*; *Louwoichthys pusillus*; *Luopingichthys bergi*; *Luopingperleidus sui*; *Luoxiongichthys hyperdorsalis*; *Marcopoloichthys anii*; *Perleidus sinensis*; *Platysiagum sinensis*; *Pteronisculus changae*; *Robustichthys luopingensis*; *Saurichthys dawaziensis*; *Subortichthys triassicus*; *Placopleurus comptus*; *Sangiorgioichthys sui*; *Saurichthys spinosa*
@@ -990,21 +988,21 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > - **References**: Wen et al. (2023)
 > - **Comments**: Luoping Biota.
 
-**Upper Member, Guanling Formation, Luxi, Yunnan, China**
+#### Upper Member, Guanling Formation, Luxi, Yunnan, China
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**: *Acrodus* sp.
 > - **Locality and horizon**: Upper Member, Guanling Formation, Luxi, Yunnan, China
 > - **References**: Wen et al. (2023)
 > - **Comments**: Luoping Biota.
 
-**Strelovec Formation, Slovenia**
+#### Strelovec Formation, Slovenia
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**: Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians. 
 > - **Locality and horizon**:
 > - **References**: (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016)
 > - **Comments**: Romano (2021): The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking.
 
-**Italy**
+#### Italy
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**: Bobasatrania, Dipteronotus, Habroichthys, Placopleurus. Peltoperleidus, Ptycholepis, and Saurichthys
 > - **Locality and horizon**: Italy
@@ -1032,14 +1030,14 @@ The famous collecting area ofMonte San Giorgio and Besano, which extends across 
 ### Longobardian, Late Ladinian
 Romano (2021):
 
-**Yangliujing Formation, Guanling, Guizhou, China**
+#### Yangliujing Formation, Guanling, Guizhou, China
 > - **Age**: late Anisian–Ladinian, Middle Triassic
 > - **Taxa**: Reptilia (Ichthyosauria?): Dingxiaosaurus luyinensis
 > - **Locality and horizon**:grey‑black middle‑ to thin‑bedded limestones at a quarry of the Luyin Cement Plant, c. 150 m west of Luyin village in the Dingxiao Economic Development Zone (Guanling County, Guizhou, China); Middle Triassic (Ladinian) Yangliujing Formation
 > - **References**: Chen et al., 2007; Liu et al., 2002; Sun et al., 2016; Wang et al., 2020.
 > - **Comments**:
 
-**Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China**
+#### Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
 >> - *Sinoeugnathus* Su, 1959, V. 2433; *Asialepidotus shingyiensis* Su, 1959 V. 2434; *Guizhouamia*; Peltopleurus orientalis Su, 1959 V. 2432; Malingichthys Tintori et al., 2015
@@ -1058,14 +1056,14 @@ Romano (2021):
 > - **Comments**: Xinyi Biota. Ni et al. (2019): The age of the Xingyi Fauna was confirmed to be early Longobardian (Late Ladinian, Middle Triassic) on the basis of ammonoid biostratigraphic correlation (Zou et al. 2015) and isotopic dating (Li et al. 2016).
 > - In some papers, the Zhuganpo Member is named as the Zhuganpo Formation (see Chen et al., 2007). The overlying Wayao Member is named as the Xiaowa ('Wayao') Formation.
 
-**Zhuganpo Member, Falang Formation, Baiwanyao, Xinyi, Guizhou, China**
+#### Zhuganpo Member, Falang Formation, Baiwanyao, Xinyi, Guizhou, China
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: *Fuyuanichthys wangi* Xu et al., 2018.
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Baiwanyao, Xinyi, Guizhou, China
 > - **References**:
 > - **Comments**: Xinyi Biota.
 
-**Zhuganpo Member, Falang Formation, Guanling, Guizhou, China**
+#### Zhuganpo Member, Falang Formation, Guanling, Guizhou, China
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**:
 >> - Actinopterygii:
@@ -1074,7 +1072,7 @@ Romano (2021):
 > - **References**:
 > - **Comments**: Xinyi Biota.
 
-**Zhuganpo Member, Falang Formation, Changdi, Luoping, Yunnan, China**
+#### huganpo Member, Falang Formation, Changdi, Luoping, Yunnan, China
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: *Birgeria liui* (Jin, 2001).
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation; Changdi, Luoping, Yunnan, China
@@ -1082,7 +1080,7 @@ Romano (2021):
 > - **Comments**: Xinyi Biota.
 > - ? Upper part of the Gejiu Formation (Niubudai village, Banqiao, Luoping).
 
-**Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China**
+#### Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China
 > - **Age**: Longobardian, Late Ladinian.
 > - **Taxa**: *Fuyuanichthys wangi* Xu et al., 2018 IVPP V22923; 
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China.
@@ -1090,7 +1088,7 @@ Romano (2021):
 > - **Comments**: Xinyi Biota.
 
 ## Late Triassic
-**Lockatong Formation, USA**
+#### Lockatong Formation, USA
 > - **Age**: Late Triassic.
 > - **Taxa**: Tetrapods: *Eupelor durus*; *Gwyneddosaurus erici*; *Hypuronector limnaios*; *Icarosaurus siefkeri*; *Rhabdopelix longispinis*; *Rutiodon carolinensis*; *Tanytrachelos ahynis*.
 > - Fishes: *Carinacanthus jepseni*; *Cionichthys* sp.; *Diplurus longicaudatus*; *Osteopleurus newarki*; *Lysorocephalus gwynnedensis*.
@@ -1099,7 +1097,7 @@ Romano (2021):
 > - **Comments**: 
 
 ### Carnian, Late Triassic
-**Wayao Member, Falang Formation, Guanling, Guizhou, China**
+#### Wayao Member, Falang Formation, Guanling, Guizhou, China
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**:
 >> - Actinopterygii:  *Birgeria guizhouensis* Liu et al., 2006; *Pholidopleurus xiaowaensis* Liu et al., 2006 NIGP139726; *Peltopleurus brachycephalus* Liu et al., 2006 NIGP139729; *Guizhoueugnathus largus* Liu et al., 2006;
@@ -1110,9 +1108,28 @@ Romano (2021):
 > - **Comments**: Guanling Biota.
 
 ### Norian, Late Triassic
+#### Formation/Member, Locality
+> - **Age**:
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 ### Rhaetian, Late Triassic
-
+#### Formation/Member, Locality
+> - **Age**:
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 
 ## References
@@ -2608,6 +2625,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
