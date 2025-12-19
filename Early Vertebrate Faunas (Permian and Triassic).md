@@ -585,7 +585,7 @@
 
 ## Lopingian (late Permian, 乐平世)
 ### Wuchiapingian（吴家坪期）, Lopingian, Permian
-#### Shangshihezi Formation, Jiyuan, Henan, China
+#### Shangshihezi Formation or Upper Shiheze Formation（上石盒子组）, Jiyuan, Henan, China
 > - **Age**: Wuchiapingian, Lopingian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes:
@@ -595,7 +595,6 @@
 > - **Locality and horizon**: Shangshihezi Formation, Jiyuan, Henan, China.
 > - **References**:
 > - **Comments**: 
-
 
 #### Wutonggou Formatio, Turpan Basin – Xinjiang, China
 > - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian
@@ -667,7 +666,6 @@
 > - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
 > - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
 > - **Comments**:
-
 
 #### Usili Formation, Ruhuhu Basin, Tanzania
 > - **Age**: Lopingian, Permian
@@ -2655,6 +2653,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
