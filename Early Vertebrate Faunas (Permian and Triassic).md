@@ -967,7 +967,16 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 
 #### Wapiti Lake locality, British Columbian, Canada
 > Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
-> Rebellatrix divaricerca, Helmolepis and Birgeria 
+> Rebellatrix divaricerca, Helmolepis and Birgeria
+
+#### Czatkowice quarry, Krakow Upland, Poland
+> - **Age**: latest Olenekian, Early Triassic
+> - **Taxa**: Actinopterygii;Amphibian tooth; Prolacertiform tooth;lepidosauromorph; archosaur tooth;*Czatkobatrachus polonicus* Evans & Borsuk-Bialynicka, 1998;*Osmolskina czatkowicensis* Borsuk−Białynicka et Evans, 2003;
+> - **Locality and horizon**:  Czatkowice quarry, Krakow Upland, Poland
+> - **References**: Borsuk-Bialynicka, M., Cook, E., Evans, S.E., & Maryafiska, T. 1999. A microvertebrate assemblage from the Early Triassic of Poland. - Acta Palaeontologica Polonica 44,2, 167-188.
+Evans, S.E., & Borsuk-Bidynicka, M. 1998. A stem-group frog from the Early Triassic of Poland. -Acta Palaeontologica Polonica 43,573-580.
+Borsuk−Białynicka, M. and Evans, S.E. 2009. Cranial and mandibular osteology of the Early Triassic archosauriform *Osmolskina czatkowicensis* from Poland. Palaeontologia Polonica, 65, 235–281.
+> - **Comments**: The Czatkowice microvertebrate community appears to have lived under the mesic conditions of a freshwater oasis with the otherwise arid circumequatorial belt of Scythm Northern Pangea.
 
 
 ## MIDDLE Triassic: 
@@ -2660,6 +2669,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
