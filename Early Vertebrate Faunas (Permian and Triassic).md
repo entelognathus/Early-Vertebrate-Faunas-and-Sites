@@ -635,7 +635,7 @@
 >> - Conodonta: *Merrillina divergens*.
 > - **Locality and horizon**: Key localities in County Durham include Middridge Quarry, Quarrington Hill (Hepplewhites) Quarry, Crime Rigg Quarry, and Eppleton Quarry (Hetton-le-Hole) (Smith and Francis, 1967; Pettigrew, 1979; Evans and King, 1993). The formation is the basal unit of the Zechstein Group (Z1 cycle), unconformably overlying the aeolian Yellow Sands Formation or Carboniferous Coal Measures, and underlying the Raisby Formation (Smith and Francis, 1967).
 > - **References**: Brauns et al., 2003; Evans, 1988; Evans and Haubold, 1987; Evans and King, 1993; Hancock and Howse, 1870a; Hancock and Howse, 1870b; Howse, 1890b; Parry, 2024; Pettigrew, 1979; Smith and Francis, 1967; Stephenson and McLean, 2023; Swift and Aldridge, 1982; Turner and Magaritz, 1986; Watson, 1914; Westoll, 1934; Westoll, 1941b
-> - **Comments**:
+> - **Comments**: This formation is part of the Zechstein Group of rocks, and is equivalent to the Kupferschiefer of Germany. The Marl Slate Formation outcrops in County Durham and Yorkshire in north-east England.
 
 #### Val Gardena Formation (Arenaria di Val Gardena), Dolomites, Italy
 > - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
@@ -783,7 +783,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 
 <img width="1699" height="1348" alt="Snipaste_2025-12-19_10-11-06" src="https://github.com/user-attachments/assets/66616811-b001-45f2-8684-5e5f2e4faa91" />
 
-#### Burngrove Formation, Bowen Basin – Queensland, Australia
+#### Burngrove Formation, Bowen Basin, Queensland, Australia
 > - **Age**: late Changhsingian, Lopingian, Late Permian 
 > - **Taxa**:
 >> - Vertebrate ichnofossils: probable fish trails; probable amphibian digit imprints and foraging grooves; large irregular trails (fish or amphibian?); large single-grooved sinuous trails (interpreted as possible fish or amphibian tail-drag marks); paired scuff-marks (possible vertebrate appendage impressions); en echelon sets of indentations (potential vertebrate fin or toe marks).
@@ -812,6 +812,8 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Locality and horizon**: Exposures across the main Karoo Basin in South Africa, particularly near Beaufort West, Cradock, Graaff-Reinet, and Nieu Bethesda; stratigraphically assigned to the upper part of the Beaufort Group, encompassing the Daptocephalus and Lystrosaurus Assemblage Zones, with formal lithostratigraphic members including Oudeberg, Daggaboersnek, Ripplemead (formerly Barberskrans), Elandsberg, and Palingkloof (Catuneanu et al., 2005; Smith & Ward, 2001).
 > - **References**: Catuneanu et al., 2005; Smith & Botha, 2005; Botha-Brink & Smith, 2011; Kammerer et al., 2011; Huttenlocker et al., 2011; Viglietti et al., 2021; Smith & Ward, 2001; Kammerer et al., 2023.
 > - **Comments**:
+
+<img width="1302" height="927" alt="image" src="https://github.com/user-attachments/assets/fab92fba-4ff5-40ec-a531-75eeda623e8c" />
 
 # Triassic:
 ## Early Triassic
@@ -2671,6 +2673,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
