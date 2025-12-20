@@ -277,10 +277,11 @@
 > - **Locality and horizon**: Widespread in the Paraná Basin of Brazil (with exposures in São Paulo, Paraná, and neighboring states); stratigraphically, the formation is divided into the lower Taquaral Member (siltstones and basal sandstones) and the upper Assistência Member (organic-rich shales and limestones) (Santos et al., 2006; Chahud, 2023).
 > - **References**: Santos et al., 2006; Chahud et al., 2010; Chahud, 2023
 > - **Comments**: 
+
 #### Taquaral Member, Irati Formation, Rio Cabeça, São Paulo, Brazil
 > - **Age**: Artinskian to early Kungurian, Cisuralian (Early Permian)
 > - **Taxa**: *Fairchildodus rioclarensis*
-#### 
+
 #### Pedra de Fogo Formation, Parnaíba Basin (Maranhão–Piauí–Tocantins), Brazil
 > - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian).
 > - **Taxa**:
@@ -292,16 +293,18 @@
 > - **References**: Price, 1948; Cox & Hutchinson, 1991; Alves, 2010; Alves, 2010b; Cisneros et al., 2015; Cisneros et al., 2020; Figueroa & Gallo, 2017; Figueroa et al., 2019; Iannuzzi et al., 2018; Alves et al., 2021; Marsicano et al., 2021.
 > - **Comments**:
 
-#### Organ Rock Shale (Cutler Group), Utah–Arizona, USA
-> - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian).
+#### Organ Rock Shale (Formation), Cutler Group, Utah–Arizona, USA
+> - **Age**: Artinskian to Kungurian, Cisuralian, Permian.
 > - **Taxa**: 
 >> - Temnospondyli: *Trimerorhachis* sp., *Eryops* sp., *Zatrachys* sp.
 >> - Diadectomorpha: *Diadectes* sp., *Tseajaia campi*.
->> - Seymouriamorpha: *Seymouria* sp.
->> - Synapsida: *Ophiacodon* sp., *Dimetrodon* sp.
+>> - Seymouriamorpha: *Seymouria* sp., Seymouria sanjuanensis 
+>> - Synapsida: *Ophiacodon* sp., *Dimetrodon* sp., Ctenospondylus, and Sphenacodon ferocior.
+>> - Actinopterygii: 
 > - **Locality and horizon**: Vertebrate fossils are derived from fluvial‑channel and overbank deposits within the Organ Rock Shale of the Cutler Group, exposed in Monument Valley and adjacent areas of southeastern Utah and northeastern Arizona. Outcrops occur around Canyonlands National Park, Natural Bridges National Monument and Monument Valley, where the unit is a dark‑red mudstone/siltstone interval between the Cedar Mesa Sandstone and the De Chelly/White Rim sandstones.
 > - **References**: Vaughn 1964; Condon 1997; Tabor & Poulsen 2008; Sumida et al. 1999a; Sumida et al. 1999b
-> - **Comments**:
+> - **Comments**: These include the iconic Permian terrestrial fauna: Seymouria, Diadectes, Ophiacodon, and Dimetrodon.
+https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Kazan Formation, Russia
 > - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian).
@@ -523,7 +526,7 @@
 > - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
 > - **Comments**: 
 
-#### Abrahamskraal Formation, South Africa**
+#### Abrahamskraal Formation, South Africa
 > - **Age**: Wordian to Capitanian, Guadalupian (middle Permian).
 > - **Taxa**:
 >> - Therapsida: *Tapinocephalus atherstonei*, *Moschops capensis*, *Tapinocaninus*, *Eodicynodon*, *Robertia*, *Eosimops*, *Diictodon feliceps*; Gorgonopsia; Anomodontia.
@@ -2696,6 +2699,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
