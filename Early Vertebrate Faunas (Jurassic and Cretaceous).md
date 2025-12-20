@@ -152,6 +152,19 @@
 > - **Locality and horizon**: Trinidad sandstone, near Raton, New Mexico, USA
 > - **References**:(Brown, 1946)
 > - **Comments**: 
+**Lower shale member,  Aguja Formation,  Lowerverse locality (LV) near Big Bend National Park, West Texas, USA**
+> - **Age**: early Campanian
+> - **Taxa**: characiform fishes (Otophysi: Characiformes:*Eotexachara malateres*, *Primuluchara laramidensis*,
+> - **Locality and horizon**: Lower shale member,  Aguja Formation,  Lowerverse locality (LV) near Big Bend National Park, West Texas, USA
+> - **References**: (Wick, 2021)
+> - **Comments**:
+**Rattlesnake Mountain sandstone member,  Aguja Formation,  Ten Bits Microsite (XB) west of Big Bend National Park, West Texas, USA**
+> - **Age**: middle Campanian
+> - **Taxa**: chondrichthyans: *Meristodon sp.*, *Lonchidion selachos*, *Cantioscyllium aff. C. meyeri*, *Chiloscyllium aff. C. greeni*, *Squatina sp.*, *Columbusia sp.*Serratolamna cf. S. caraibaea*, *Cretalamna cf. C. sarcoportheta*, *Squalicorax kaupi*, *Squalicorax aff. S. yangaensis*, *Squalicorax aff. S. lindstromi*, *Scapanorhynchus texanus*, *‘Rhinobatos’ sp.*, *Protoplatyrhina renae*, *Ischyrhiza cf. I. avonicola*, *Ischyrhiza mira*, *Ptychotrygon agujaensis*, *Ptychotrygon triangularis*, *Ptychotrygon aff. P. cuspidata*, *Ptychotrygon sp*, *Texatrygon cf. T. copei*, *Rhombodus levis*, *Brachyrhizodus wichitaensis*, *Igdabatis cf. I. indicus*,
+osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes sp.*, *?Enchodus sp.*, **, **, **, **, **, **, **, **, 
+> - **Locality and horizon**: Lower shale member,  Aguja Formation,  Ten Bits Microsite (XB) west of Big Bend National Park, West Texas, USA
+> - **References**: (Schubert et al., 2017)
+> - **Comments**: 
 **Trinidad sandstone, Koehler, New Mexico, USA**
 > - **Age**: Campanian
 > - **Taxa**:*Chimaerotheca newmexicana*, **,
@@ -248,6 +261,7 @@
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
