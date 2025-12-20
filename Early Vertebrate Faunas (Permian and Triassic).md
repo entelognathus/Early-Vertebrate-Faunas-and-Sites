@@ -993,7 +993,7 @@ Gaetano LC, Mocke H, Abdala F, Hancox PJ. Complex multicusped postcanine teeth f
 Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
-> - **Comments**: The Karoo Basin of South Africa is one such record, and particularly the late Early Triassic (Olenekian) Driefontein locality fills this gap in the diapsid fossil record.
+> - **Comments**: freshwater, The Karoo Basin of South Africa is one such record, and particularly the late Early Triassic (Olenekian) Driefontein locality fills this gap in the diapsid fossil record.
 
 #### Czatkowice quarry, Krakow Upland, Poland
 > - **Age**: latest Olenekian, Early Triassic
@@ -2696,6 +2696,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
