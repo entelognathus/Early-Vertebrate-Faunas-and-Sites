@@ -815,6 +815,16 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Locality and horizon**: Exposures across the main Karoo Basin in South Africa, particularly near Beaufort West, Cradock, Graaff-Reinet, and Nieu Bethesda; stratigraphically assigned to the upper part of the Beaufort Group, encompassing the Daptocephalus and Lystrosaurus Assemblage Zones, with formal lithostratigraphic members including Oudeberg, Daggaboersnek, Ripplemead (formerly Barberskrans), Elandsberg, and Palingkloof (Catuneanu et al., 2005; Smith & Ward, 2001).
 > - **References**: Catuneanu et al., 2005; Smith & Botha, 2005; Botha-Brink & Smith, 2011; Kammerer et al., 2011; Huttenlocker et al., 2011; Viglietti et al., 2021; Smith & Ward, 2001; Kammerer et al., 2023.
 > - **Comments**:
+>
+> - The Beaufort Group is internationally renowned for its diverse fossil fauna, in particular for its therapsid fossils.[The entire expanse of this geological group has been categorized into seven fossil biozones or assemblage zones.These assemblage zones are listed below:
+>> - Cynognathus Assemblage Zone (Youngest)
+>> - Lystrosaurus Assemblage Zone
+>> - Daptocephalus Assemblage Zone
+>> - Cistecephalus Assemblage Zone
+>> - Endothiodon Assemblage Zone
+>> - Tapinocephalus Assemblage Zone
+>> - Eodicynodon Assemblage Zone (Oldest)
+>> - https://en.wikipedia.org/wiki/Beaufort_Group
 
 <img width="1302" height="927" alt="image" src="https://github.com/user-attachments/assets/fab92fba-4ff5-40ec-a531-75eeda623e8c" />
 
@@ -2699,6 +2709,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
