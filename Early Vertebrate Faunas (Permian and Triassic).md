@@ -973,11 +973,11 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 
 #### Burgerdorp formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Olenekian, Late Early Triassic
-> - **Taxa**: Chondrichthyans: *Lissodus tumidoclavus*; *Plyacrodus*;
-  Actinopterygians: *Saurichththys*,
+> - **Taxa**: Chondrichthyans: *Lissodus tumidoclavus*; *Polyacrodus* sp.;
+  Actinopterygians: *Saurichththys*sp.,
   Sarcoptergygians: *Ptychoceratous phillipsi*;
-  Amphibian: *Bathignathus poikilops*;*Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*;*Parotosuchus haughtoni*; *Trematosuchus sobeyi*; *Microgomphodon oligocynus*;
- other Tetrapoda:*Cynognathus crateronotus*; *Langbergia modisei*；*Garjainia madiba*；*Palacrodon browni*；
+  Amphibian: *Bathignathus poikilops*;*Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*;*Parotosuchus haughtoni*; *Trematosuchus sobeyi*; 
+ other Tetrapoda:*Cynognathus crateronotus*; *Langbergia modisei*；*Garjainia madiba*；*Palacrodon browni*；*Microgomphodon oligocynus*;
 > - **Locality and horizon**: outcrops on the farm Driefontein 11 in the Bethlehem District, Free State Province, South Africa; Olenekian, Late Early Triassic
 > - **References**: Hoffman DK, Hancox JP, Nesbitt SJ (2023) A diverse diapsid tooth assemblage from the Early Triassic (Driefontein locality, South Africa)
 records the recovery of diapsids following the end-Permian mass extinction. PLoS ONE 18(5):e0285111. https://doi.org/10.1371/journal.pone.0285111
@@ -2696,6 +2696,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
