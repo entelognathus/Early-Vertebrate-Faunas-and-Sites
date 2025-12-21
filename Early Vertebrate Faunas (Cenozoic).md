@@ -561,6 +561,13 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **References**: (Aguilera, 2014)
 > - **Comments**:
 
+#### Tonasa Formation, Patoenoeang Asoe E, Maros District, SW Sulawesi, Indonesia
+> - **Age**: Burdigalian
+> - **Taxa**: Chondrichthyans: *Protohimantura orstmani*
+> - **Locality and horizon**: Tonasa Formation, Patoenoeang Asoe E, Maros District, SW Sulawesi, Indonesia
+> - **References**: (Marramà et al. 2018)
+> - **Comments**: 
+
 #### Cantaure Formation, San Jose´ de Cocodite, Paraguana´ Peninsula, Venezuela
 > - **Age**: Aquitanian
 > - **Taxa**: Eupercaria: (*Cantarius nolfi*)
@@ -1096,6 +1103,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
