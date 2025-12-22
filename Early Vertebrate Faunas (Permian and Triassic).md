@@ -317,7 +317,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Iannuzzi et al., 2018; Figueroa & Gallo, 2017; Cisneros et al., 2015; Cisneros et al., 2020; Cox & Hutchinson, 1991; Plummer, 1948; Araújo et al., 2016
 > - **Comments**:
 
-#### Collio Formation, Lombardy (Brescian Alps), Italy
+#### Collio Formation, Lombardy, Brescian Alps, Italy
 > - **Age**: Artinskian to early Kungurian, Cisuralian (Early Permian).
 > - **Taxa**: 
 >> - Amphibia (ichnotaxa): *Amphisauropus latus*, *"Batrachichnus" salamandroides*, *?Ichniotherium* sp., *Limnopus heterodactylus*.
@@ -356,7 +356,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 #### Choza Formation, Foard County, Texas, USA
-> - **Age**: Kungurian, Cisuralian (Early Permian).
+> - **Age**: Kungurian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Xenacanthus* cf. *platypternus*.
 >> - Temnospondyli: *Diplocaulus recurvatus*, *Eryops megacephalus*.
@@ -367,7 +367,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 #### Lower Embar Formation, Big Popo Agie Canyon, Lander, Wyoming, USA
-> - **Age**: Kungurian, Cisuralian (Early Permian).
+> - **Age**: Kungurian, Cisuralian, Permian.
 > - **Taxa**: *Acondylacanthus browni*
 > - **Locality and horizon**: Lower Embar Formation, Big Popo Agie Canyon, Lander, Wyoming, USA
 > - **References**:(Branson, 1916)
@@ -650,6 +650,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: Val Gardena Sandstone, Dolomites, Northern Italy
 > - **References**: Ceoloni et al., 1988; Conti et al., 1977; Leonardi et al., 1975; Marchetti et al., 2017; Marchetti et al., 2020; Massari et al., 1988; Bernardi et al., 2018; Conti et al., 1977; Kustatscher et al., 2017; Leonardi et al., 1975; Marchetti et al., 2017; Massari et al., 1994; Prinoth, 2017
 > - **Comments**: The primary locality is the Bletterbach gorge (Redagno/Radein), with other occurrences in the Venetian Prealps and Carnic Alps. The tracks are found within the Arenaria di Val Gardena Formation, a sequence of alluvial and marginal marine red beds deposited in a semi-arid climate, representing a transition from a distal fluvial system to a coastal sabkha (Massari et al., 1988; Marchetti et al., 2020). Major fossil sites include the Bletterbach Gorge, Tramin/Termeno, and the Recoaro area. The Val Gardena Sandstone unconformably overlies the Lower Permian Athesian Volcanic Group and is conformably overlain by, and locally interfingers with, the Bellerophon Formation (Bernardi et al., 2018; Marchetti et al., 2017).
+> - A revision of tetrapod tracks from the Upper Permian Val Gardena Formation of the Dolomites region in northern Italy is published by Marchetti, Voigt & Klein (2019), who name new ichnogenus *Dolomitipes*. Lorenzo Marchetti; Sebastian Voigt; Hendrik Klein (2019). "Revision of Late Permian tetrapod tracks from the Dolomites (Trentino-Alto Adige, Italy)". Historical Biology: An International Journal of Paleobiology. 31 (6): 748–783.
 
 #### Salarevo Formation, Northern Dvina Basin, Russia
 > - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
@@ -661,13 +662,15 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Arefiev et al., 2015; Aristov et al., 2013; Bulanov, 2003; Golubev, 2000a; Ivakhnenko, 2008; Minikh et al., 2015; Sennikov et al., 2003; Sushkin, 1926; Tverdokhlebova and Ivakhnenko, 1994; Yakimenko et al., 2000.
 > - **Comments**:  
 
-#### Upper Permian Depositsof European Russia
+#### Upper Permian Deposits of European Russia
 > - **Age**: early Wuchiapingian, Lopingian, Permian.
 > - **Taxa**:
-The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
 
 #### Urpalov Formation, Vyatka River Region, Russia 
-> - **Age**: lowermost Wuchiapingian, Lopingian, Permian
+> - **Age**: earliest Wuchiapingian, Lopingian, Permian
 > - **Taxa**:
 >> - Parareptilia: *Deltavjatia vjatkensis*, *Emeroleter laevis*, *Chroniosaurus* sp.
 >> - Therapsida: *Suminia getmanovi*, *Viatkogorgon ivakhnenkoi*, *Nochnitsa geminidens*, *Proburnetia viatkensis*, *Perplexisaurus foveatus*, *Perplexisaurus lepusculus*, *Viatkosuchus sumini*, *Karenites ornamentatus*, *Chlynovia serridentata*, *Scalopodon tenuifrons*, *Scalopodontes kotelnichi*, *Kotelcephalon viatkensis*, *Muchia microdenta*.
@@ -675,8 +678,8 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
 > - **Comments**:  
 
-#### Lower Sakamena Formation, Morondava Basin, Madagascar
-> - **Age**: Wuchiapingian–Changhsingian, Lopingian, Late Permian 
+#### Lower Sakamena Formation, Sakamena Group, Morondava Basin, Madagascar
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian 
 > - **Taxa**: 
 >> - Actinopterygii: *Atherstonia* sp.
 >> - Temnospondyli: *Rhinesuchus* sp.
@@ -688,7 +691,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Comments**:
 
 #### Moradi Formation, northern Niger
-> - **Age**: Lopingian, Late Permian
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
 > - **Taxa**:
 >> - Sauropsida: *Moradisaurus grandis*.
 >> - Parareptilia: *Bunostegos akokanensis*.
@@ -699,7 +702,7 @@ The uppermost Severodvinian deposits is well characterized by fish fauna, includ
 > - **Comments**:
 
 #### Usili Formation, Ruhuhu Basin, Tanzania
-> - **Age**: Lopingian, Permian
+> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
 > - **Taxa**: 
 >> - Temnospondyli: *Peltobatrachus pustulatus*.
 >> - Reptilia: *Anthodon serrarius*, *Pareiasaurus serridens*.
@@ -2715,6 +2718,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
