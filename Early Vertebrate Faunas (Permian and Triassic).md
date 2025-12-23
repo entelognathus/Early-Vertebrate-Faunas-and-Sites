@@ -25,13 +25,25 @@
 > - **Comments**:
 
 #### Goldlauter Formation, Thuringian Forest, Germany
-> - **Age**: Asselian, Cisuralian (Early Permian).
+> - **Age**: Asselian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Temnospondyli: *Apateon dracyiensis*, *Apateon kontheri*, *Apateon flagrifer*, *Melanerpeton eisfeldi*, *Branchierpeton reinholdi*.
 >> - Actinopterygii: *Amelangia ornata*.
 > - **Locality and horizon**: Exposed in the Thuringian Forest Basin (central Germany) as part of the Lower Rotliegend Group. Vertebrate fossils originate chiefly from lacustrine shale horizons in the lower Goldlauter Formation (Asselian), notably at the Cabarz quarry near Tabarz and the Sperbersbach site near Gehlberg (Cui et al., 2022; Štamberg and Werneburg, 2023). These fossiliferous “lake” beds lie above the Manebach Formation and are correlated with the uppermost Gzhelian–Asselian continental sequence (Schneider et al., 2020, as cited in Cui et al., 2022).
 > - **References**: Werneburg et al., 2007; Werneburg, 1988; Štamberg and Werneburg, 2023; Cui et al., 2022; Buchwitz and Voigt, 2018; Käßner et al., 2024; Werneburg, 2007
 > - **Comments**:
+
+#### Meisenheim Formation, Saar–Nahe Basin, Germany
+> - **Age**: Asselian, Cisuralian, Permian.
+> - **Taxa**:
+>> - Chondrichthyes: *Xenacanthus meisenheimensis*, *Lebachacanthus*.
+>> - Acanthodii: *Acanthodes* sp..
+>> - Actinopterygii: *Paramblypterus duvernoy*.
+>> - Sarcopterygii: *Palatinichthys laticeps*.
+>> - Amphibia (Temnospondyli): *Sclerocephalus haeuseri*, *Glanochthon angusta*, *Archegosaurus decheni*, *Apateon pedestris*.
+> - **Locality and horizon**: Continental lake deposits of the Lower Rotliegend (Glan Subgroup) in the Saar–Nahe Basin, SW Germany. Vertebrate fossils occur throughout the Meisenheim Formation (M1–M10 units), with major Lagerstätten in laminated shales and limestones at Jeckenbach (M6, Odernheim Subformation), Odernheim (M8 “Kalkbank”), Pfarrwald/Kappeln (M9 black shale), and Humberg near Odernheim (M10) (Boy et al., 2012; Schoch, 2021). These horizons lie in the Autunian-aged red-bed sequences of the basin’s Bad Kreuznach region (Rhineland-Palatinate).
+> - **References**: Boy, 1987; Boy, 1994; Hampe, 1994; Boy, 1996; Schoch and Hampe, 2004; Königer et al., 2002; Witzmann, 2006; Boy, 2003; Kriwet et al., 2008; Schoch and Witzmann, 2009a; Schoch and Witzmann, 2009b; Witzmann and Schoch, 2012; Boy et al., 2012; Schoch, 2021
+> - **Comments**: spanning the Carboniferous–Permian boundary.
 
 #### Millery Formation, Autun Basin, France
 > - **Age**: Asselian, Cisuralian (Early Permian).
@@ -44,18 +56,6 @@
 > - **Locality and horizon**: Lacustrine varved dolomitic mudstones with bituminous oil-shale beds (e.g., Muse OSB, Le Tèlots black shales) in the Saône-et-Loire department, Autun Basin, northern Massif Central, France; stratigraphically part of the upper Autunian series, overlying the Margenne coal seam and underlain by the Surmoulin Formation (Gand et al., 2007; Pellenard et al., 2017; Luccisano et al., 2021).
 > - **References**: Brignon, 2019; Falconnet, 2012; Feys, 1991; Gaudry, 1888; Gand et al., 2007; Henderson, 2018; Heyler, 1957; Heyler, 1969; Luccisano et al., 2021; Pellenard et al., 2017;
 > - **Comments**:
-
-#### Meisenheim Formation, Saar–Nahe Basin, Germany
-> - **Age**: Asselian, Cisuralian (Early Permian).
-> - **Taxa**:
->> - Chondrichthyes: *Xenacanthus meisenheimensis*.
->> - Acanthodii: *Acanthodes* sp..
->> - Actinopterygii: *Paramblypterus duvernoy*.
->> - Sarcopterygii: *Palatinichthys laticeps*.
->> - Amphibia (Temnospondyli): *Sclerocephalus haeuseri*, *Glanochthon angusta*, *Archegosaurus decheni*, *Apateon pedestris*.
-> - **Locality and horizon**: Continental lake deposits of the Lower Rotliegend (Glan Subgroup) in the Saar–Nahe Basin, SW Germany. Vertebrate fossils occur throughout the Meisenheim Formation (M1–M10 units), with major Lagerstätten in laminated shales and limestones at Jeckenbach (M6, Odernheim Subformation), Odernheim (M8 “Kalkbank”), Pfarrwald/Kappeln (M9 black shale), and Humberg near Odernheim (M10) (Boy et al., 2012; Schoch, 2021). These horizons lie in the Autunian-aged red-bed sequences of the basin’s Bad Kreuznach region (Rhineland-Palatinate).
-> - **References**: Boy, 1987; Boy, 1994; Hampe, 1994; Boy, 1996; Schoch and Hampe, 2004; Königer et al., 2002; Witzmann, 2006; Boy, 2003; Kriwet et al., 2008; Schoch and Witzmann, 2009a; Schoch and Witzmann, 2009b; Witzmann and Schoch, 2012; Boy et al., 2012; Schoch, 2021
-> - **Comments**: spanning the Carboniferous–Permian boundary.
 
 #### Shanxi Formation, Shanxi Province, China
 > - **Age**: Asselian, Cisuralian (Early Permian).
@@ -150,8 +150,19 @@
 > - **Comments**: 
 
 ### Sakmarian（萨克马尔期）, Cisuralian, Permian
+#### Renière Formation, Autunian Group, Allier, Massif Central, France
+> - **Age**: Sakmarian, Cisuralian, Permian.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: *Discosauriscus austriacus*
+> - **Locality and horizon**: Renière Formation, Autunian Group, Allier, France
+> - **References**:
+> - **Comments**: Franchesse Lagerstätte.
+
 #### Liffey Group, Tasmania, Australia
-> - **Age**: Sakmarian, Cisuralian (Early Permian).
+> - **Age**: Sakmarian, Cisuralian, Permian.
 > - **Taxa**: no vertebrate fossil?
 > - **Locality and horizon**: Western Bluff (Kansas Creek area, northern Tasmania); non-marine Liffey Group sandstones overlie the Golden Valley Group.
 > - **References**:
@@ -2725,6 +2736,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
