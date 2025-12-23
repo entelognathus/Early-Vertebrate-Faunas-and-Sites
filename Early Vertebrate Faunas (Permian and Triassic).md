@@ -288,13 +288,13 @@
 > - **Comments**:
 
 #### Irati Formation, Paraná Basin, Brazil
-> - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian).
+> - **Age**: Kungurian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Mesosauridae (Parareptilia): *Mesosaurus tenuidens*, *Stereosternum tumidum*, *Brazilosaurus sanpauloensis*.
->> - Chondrichthyes:  *Sphenacanthus sanpauloensis*, *Taquaralodus albuquerquei*, *Xenacanthus pricei*, *Iratiacanthus santamariaensis*, *Itapyrodus punctatus*, *Fairchildodus rioclarensis*, *Orodus ipeunaensis*.
+>> - Chondrichthyes:  *Sphenacanthus sanpauloensis*, *Taquaralodus albuquerquei*, *Xenacanthus pricei*, *Iratiacanthus santamariaensis*, *Itapyrodus punctatus*, *Fairchildodus rioclarensis*, *Orodus ipeunaensis*. *Amelacanthus* sp.
 > - **Locality and horizon**: Widespread in the Paraná Basin of Brazil (with exposures in São Paulo, Paraná, and neighboring states); stratigraphically, the formation is divided into the lower Taquaral Member (siltstones and basal sandstones) and the upper Assistência Member (organic-rich shales and limestones) (Santos et al., 2006; Chahud, 2023).
 > - **References**: Santos et al., 2006; Chahud et al., 2010; Chahud, 2023
-> - **Comments**: 
+> - **Comments**: The base of the formation has been dated at 278.4 ± 2.2 Ma. ~278.4–270 Ma.
 
 #### Taquaral Member, Irati Formation, Rio Cabeça, São Paulo, Brazil
 > - **Age**: Artinskian to early Kungurian, Cisuralian (Early Permian)
@@ -2736,6 +2736,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
