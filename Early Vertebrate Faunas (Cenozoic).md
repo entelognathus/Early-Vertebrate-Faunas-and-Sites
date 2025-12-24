@@ -230,7 +230,13 @@ grained glauconite is present. Scattered pyrite concretions and stems. NAM-Well 
 > - **Locality and horizon**:  318-332m, Greenish-grey, sandy clay with rather much glauconite, some micaand some pyrite concretions. Many Foraminifera and molluscan shells are present. In the lower part light grey calcareous sandstone occurs with many Foraminifera and molluscan shells. At the base there is a layer with reworked shells, black elasmobranch teethand phosphoritic concretions. NAM-Well De Wijk-19, Netherland.
 > - **References**: (Bor, 1985)
 > - **Comments**:
-
+#### Castle Hayne Limestone Formation, Duplin County, North Carolina, USA
+> - **Age**: Lutetian
+> - **Taxa**: Chondrichthyans: *Xiphodolamia sp.*, 
+> - **Locality and horizon**: Castle Hayne Limestone Formation, Duplin County, North Carolina, USA
+> - **References**:(Case and Borodin, 2000)
+> - **Comments**:
+> - 
 #### Gosport Sand, Claiborne, Monroe County, State of Alabama, USA.
 > - **Age**:Lutetian
 > - **Taxa**: *Odontaspis macrota*, *Odontaspis cf. rutoti*, *Negaprion gibbesi gilmorei*, *Physodon secundus*, *Galeorhinus recticonus claibornensis*, *Galeorhinus cf. falconeri*, *Lutianus intermedius*, **, **, **, **, **, **, **, **, 
@@ -1103,6 +1109,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
