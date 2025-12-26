@@ -824,6 +824,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Benton & Spencer, 1995; Benton & Walker, 1985; Cruickshank et al., 2005; George et al., 2024; Scottish Natural Heritage, n.d.
 > - **Comments**:  
 
+#### Cala del Vin Formation, Sardinia, Italy
+> - **Age**: Changhsingian, Lopingian, Permian
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: Alierasaurus ronchii
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**
+
 #### Balfour Formation, Karoo Basin, South Africa
 > - **Age**: Changhsingian, Lopingian, Late Permian to Griesbachian, Induan, Early Triassic
 > - **Taxa**:
@@ -2736,6 +2747,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
