@@ -566,7 +566,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Gervais, 1858; Werneburg et al., 2022.
 > - **Comments**:
 
-
 ### Capitanian（卡匹敦期）, Guadalupian, Permian
 #### Teekloof Formation (lower Poortjie Member), South Africa
 > - **Age**: latest Capitanian, Middle Permian
@@ -2739,6 +2738,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
