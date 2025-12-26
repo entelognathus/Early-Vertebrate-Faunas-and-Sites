@@ -480,8 +480,9 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Bulanov et al., 2022; Ivakhnenko et al., 1997; Lozovsky, 2005; Reisz et al., 2007; Tverdokhlebov et al., 2005.
 > - **Comments**:
 
-#### Rio do Rasto Formation, Brazil
-> - **Age**:Roadian, Guadalupian (middle Permian) to Wuchiapingian, Lopingian (late Permian).
+### Wordian（沃德期）, Guadalupian, Permian
+#### Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
+> - **Age**: Wordian to Wuchiapingian, Guadalupian to Lopingian, Permian.
 > - **Taxa**:
 >> - Therapsida: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet.
 >> - Parareptilia: *Provelosaurus americanus*.
@@ -493,11 +494,11 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >> - Tetrapod ichnotaxa: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, *Parapytanga catarinensis*.
 >> - Diapsida: Unnamed basal archosauromorph.
 >> - Other vertebrate evidence: Vertebrate coprolites; lungfish aestivation burrows.
-> - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the Morro Pelado Member. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015).
-> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016
-> - **Comments**:
+> - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the Morro Pelado Member. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015). Boqueirão farm (São Gabriel municipality, Rio Grande do Sul State)
+> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016; Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
+> - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
+> - Here we assign the age of the Serrinha Member as from Wordian to Capitanian of Guadalupian, the age of the Morro Pelado Member as Wuchiapingian, Lopingian.
 
-### Wordian（沃德期）, Guadalupian, Permian
 #### Khuff Formation, Haushi-Huqf, Oman
 > - **Age**: Wordian, Guadalupian (middle Permian).
 > - **Taxa**:
@@ -565,15 +566,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Gervais, 1858; Werneburg et al., 2022.
 > - **Comments**:
 
-#### Rio do Rasto Formation, Paraná Basin (Southern Brazil), Brazil
-> - **Age**: Wordian–Wuchiapingian, Guadalupian–Lopingian, Middle–Late Permian
-> - **Taxa**:
->> - Therapsida: *Rastodon procurvidens*, *Pampaphoneus biccai*.
->> - Parareptilia: *Provelosaurus americanus*.
->> - Temnospondyli: *Konzhukovia sangabrielensis*.
-> - **Locality and horizon**: Boqueirão farm (São Gabriel municipality, Rio Grande do Sul State)
-> - **References**: Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
-> - **Comments**:
 
 ### Capitanian（卡匹敦期）, Guadalupian, Permian
 #### Teekloof Formation (lower Poortjie Member), South Africa
@@ -2747,6 +2739,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
