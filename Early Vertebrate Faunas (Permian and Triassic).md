@@ -705,6 +705,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
 
+#### Orenburg Region, Russia 
+> - **Age**: Wuchiapingian, Lopingian, Permian
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Urzhumian limestones of the Kichkas locality (Orenburg Region).
+
 #### Urpalov Formation, Vyatka River Region, Russia 
 > - **Age**: earliest Wuchiapingian, Lopingian, Permian
 > - **Taxa**:
@@ -721,18 +728,18 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: 
 > - **Comments**:   
 
+#### Cistecephalus Zone of the South African Beaufort Group, South Africa
+> - **Age**: Wuchiapingian, Lopingian, Permian 
+> - **Taxa**: Arctops willistoni
+> - **Locality and horizon**: Karoo Basin, South Africa
+> - **References**:
+> - **Comments**:
+
 #### upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia
 > - **Age**: Wuchiapingian, Lopingian, Permian 
 > - **Taxa**: Mupashi migrator
 > - **Locality and horizon**: upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia.
 > - **References**: Huttenlocker & Sidor, 2016.
-> - **Comments**:
-
-#### Cistecephalus Zone of the South African Beaufort Group, South Africa
-> - **Age**: Wuchiapingian, Lopingian, Permian 
-> - **Taxa**: Arctops willistoni
-> - **Locality and horizon**:
-> - **References**:
 > - **Comments**:
 
 #### Lower Sakamena Formation, Sakamena Group, Morondava Basin, Madagascar
@@ -2786,6 +2793,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
