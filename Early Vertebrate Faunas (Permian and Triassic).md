@@ -84,7 +84,7 @@
 > - **Comments**: *Diadectes* fossil remains are known from a number of locations across North America, especially the Texas Red Beds (Wichita and Clear Fork).
 
 #### Archer City Formation, North-central Texas, USA
-> - **Age**: Asselian to early Sakmarian, Cisuralian (Early Permian).
+> - **Age**: Asselian to early Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Orthacanthus texensis*, *Orthacanthus compresus*, *Xenacanthus* sp., *Hybodus* sp., *Ctenacanthus* sp., *Barbclabornia luederensis* (Johnson, 1999; Johnson, 2012).
 >> - Osteichthyes: *Ectosteorhachis nitidus*, *Sagenodus* sp., *Gnathorhiza* sp., Palaeoniscoidea indet. (Thomson, 1964; Sander, 1989).
@@ -103,6 +103,7 @@
 > - **Locality and horizon**: Formation outcrops in arc from Montague County through Clay, Archer, and Young counties to Throckmorton County, most broadly exposed in Clay and Archer counties; type section along Farm Road 2581, approximately 5 miles southeast of Archer City. Formation thickness 350-400 feet (107-122 m), containing 9-15 mappable sandstone members with intervening red mudstones. Principal bonebeds include Archer City Bonebed I, III (ACBB III, Circle A Ranch), and V (TMM-45923, Circle A Ranch), Rattlesnake Canyon Bonebed, Kola Switch locality (Clay County), and over 200 tetrapod sites (Hentz, 1988; Hook, 1989; Sander, 1989; Shelton, 2013; DiMichele et al., 2019).
 > - **References**: Chase, 1965; Clark & Carroll, 1973; Dilkes, 1990; Dilkes, 2020; DiMichele et al., 2018; DiMichele et al., 2019; Hentz, 1988; Hentz & Brown, 1987; Hook, 1989; Johnson, 1999; Johnson, 2012; Laurin, 1991; Lucas, 2006; Milner & Schoch, 2013; Price, 1937; Reisz et al., 2010; Romer, 1928; Romer, 1935; Romer, 1937; Romer & Price, 1940; Romer & Witter, 1942; Sander, 1987; Sander, 1989; Schoch, 2018; Shelton, 2013; Tabor & Montañez, 2004; Tabor et al., 2013; Thomson, 1964; Wardlaw, 2005.
 > - **Comments**: The Archer City Formation was not named as a unique geological unit until the late 1980s. Older studies generally labelled its outcrops as the Moran or Putnam formations, which are age-equivalent marine units to the southwest. The Archer City Formation is a unit of the Bowie Group, lying above the Markley Formation and below the Nocona Formation of the Wichita Group. The Archer City Formation occupies most of the Asselian. The upper part of the Archer City Formation may extend into the succeeding Sakmarian stage. “Dissorophus” angustus is now Scapanops. 
+<img width="1577" height="1646" alt="image" src="https://github.com/user-attachments/assets/68548dea-9f31-410d-a04e-f533eea48da5" />
 
 #### Abo Formation, New Mexico, USA
 > - **Age**: Cisuralian (Early Permian).
@@ -2830,6 +2831,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
