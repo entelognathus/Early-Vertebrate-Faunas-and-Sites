@@ -475,21 +475,28 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Cutoff Formation, Guadalupe Mountains, West Texas, USA
 > - **Age**: Roadian, Guadalupian, Permian.
-> - **Taxa**: Stethacanthulus decorus (Ivanov 1999), Kungurodus sp., Glikmanius myachkovensis (Lebedev 2001), Hybodontiformes indet., phenacanthus sp., Cooleyella amazonensis Duffin, Richter and Neis 199S, Cooleyella sp., Reifella lata Ivanov,2021, Adamantina foliacea Ivanov 1999, Isacrodus marthae Ivanov, Nestell and Nestell 2012, Isacrodus sp., Euchondrocephali indet.
+> - **Taxa**: Stethacanthulus decorus (Ivanov 1999), Kungurodus sp., Glikmanius myachkovensis (Lebedev 2001), Alilepis texasensis Bakaev 2021, Hybodontiformes indet., phenacanthus sp., Cooleyella amazonensis Duffin, Richter and Neis 199S, Cooleyella sp., Reifella lata Ivanov,2021, Adamantina foliacea Ivanov 1999, Isacrodus marthae Ivanov, Nestell and Nestell 2012, Isacrodus sp., Euchondrocephali indet.
 > - **Locality and horizon**: Williams Ranch Member, Cutoff Formation, Guadalupe Mountains, West Texas, USA.
 > - **References**: Ivanov et al. (2021)
 > - **Comments**
 <img width="405" height="638" alt="image" src="https://github.com/user-attachments/assets/c558a247-de4b-450b-9fce-e84f01987c5e" />
 
 #### Word Formation, Texas, USA
-> - **Age**: Roadian to Wordian, Guadalupian (middle Permian).
+> - **Age**: Roadian to Wordian, Guadalupian, Permian.
 > - **Taxa**:
 > - **Locality and horizon**: The type section is located in the Glass Mountains, Brewster County, Texas, near the old Word Ranch, approximately 17 miles north-northeast of Marathon. The formation conformably overlies the Road Canyon Formation and is overlain by the Capitan Formation (King, 1931; Clifton, 1945).
 > - **References**: King, 1931; Clifton, 1945; Cooper and Grant, 1964; Kelly and Zangerl, 1976; Chorn, 1978
 > - **Comments**: The formation contains a rich marine invertebrate fauna including brachiopods, gastropods, and ammonites (King, 1931). No vertebrate fossils are definitively reported from the Word Formation itself in the available literature. 
 
+#### Kamyshla Beds, Kazanian (Roadian), Sentyak locality (S5/6-8), Tatarstan, Russia
+> - **Age**: Roadian, Guadalupian, Permian.
+> - **Taxa**: Platysomus biarmicus Eichwald 1857, Alilepis esini A. Minich 2006
+> - **Locality and horizon**: Kamyshla Beds, Kazanian (Roadian), Sentyak locality (S5/6-8), Tatarstan, Russia.
+> - **References**: Ivanov et al., 2021
+> - **Comments**: MINIKH, A. V., and MINIKH, M. G., 2006. Tip Chordata [Phylum Chordata]: 180-186. In: Grunt, T. A., Ed., Verkhnyaya perm poluostrova Kanin [Upper Permian of the Kanin Peninsula]. Moscow, Nauka, 213 pp. (In Russian)
+
 #### Belebei Formation, Ocher locality, Perm Krai, Russia
-> - **Age**: Roadian to Wordian, Guadalupian (middle Permian).
+> - **Age**: Roadian to Wordian, Guadalupian, Permian.
 > - **Taxa**:
 >> - Temnospondyli: *Collidosuchus tchudinovi*, *Bashkirosaurus tcherdyncevi*, *Platyoposaurus stuckenbergi*, *Melosaurus* sp., *Rhipaeosaurus tricuspidens*.
 >> - Parareptilia: *Belebey vegrandis*, *Belebey maximi*, *Belebey churkini*, *Belebey shumovi*, *Tokosaurus perforatus*, *Macroleter poezicus*, *Microsyodon orlovi*, *Kitiakia firma*, *Bashkyroleter bashkyricus*.
@@ -2758,6 +2765,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
