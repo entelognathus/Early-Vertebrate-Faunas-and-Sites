@@ -324,7 +324,6 @@
 > - **Comments**: These include the iconic Permian terrestrial fauna: Seymouria, Diadectes, Ophiacodon, and Dimetrodon.
 https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
-
 #### lower Clear Fork Formation, Craddock Bone Bed, northern Baylor County, Texas, USA
 > - **Age**: mid-Artinskian to Kungurian, Cisuralian, Permian.
 > - **Taxa**:
@@ -463,13 +462,21 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 #### San Angelo Formation, north-central Texas, USA
-> - **Age**: Roadian, Guadalupian (middle Permian).
+> - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**: 
 >> - Caseidae: *Angelosaurus dolani*, *Caseoides sanangeloensis*.
 >> - Sphenacodontidae: *Dimetrodon angelensis*.
 > - **Locality and horizon**: The San Angelo Formation crops out in north‑central Texas (Hardeman, Foard, Jones counties) as the basal unit of the Pease River Group; vertebrate fossils occur in red shales, sandstones and conglomerates of flood‑plain deposits between the underlying Choza Formation (Clear Fork Group) and the overlying Blaine Formation.
 > - **References**: Olson & Beerbower, 1953; Beede & Waite, 1918.
 > - **Comments**:
+
+### Cutoff Formation, Guadalupe Mountains, West Texas, USA
+> - **Age**: Roadian, Guadalupian, Permian.
+> - **Taxa**: Stethacanthulus decorus (Ivanov 1999), Kungurodus sp., Glikmanius myachkovensis (Lebedev 2001), Hybodontiformes indet., phenacanthus sp., Cooleyella amazonensis Duffin, Richter and Neis 199S, Cooleyella sp., Reifella lata Ivanov,2021, Adamantina foliacea Ivanov 1999, Isacrodus marthae Ivanov, Nestell and Nestell 2012, Isacrodus sp., Euchondrocephali indet.
+> - **Locality and horizon**: Williams Ranch Member, Cutoff Formation, Guadalupe Mountains, West Texas, USA.
+> - **References**: Ivanov et al. (2021)
+> - **Comments**
+
 
 #### Word Formation, Texas, USA
 > - **Age**: Roadian to Wordian, Guadalupian (middle Permian).
@@ -2750,6 +2757,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
