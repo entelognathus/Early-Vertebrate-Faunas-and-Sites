@@ -1293,6 +1293,15 @@ Romano (2021):
 > - **References**: Hagdorn & Mutter, 2011
 > - **Comments**:Serrolepisbank Fauna. Facies and fauna give evidence of an occasionally dry falling lacustrine environment.
 
+#### Alvover dolomites, Mont-ral and El Pinetell, Catalonia, Spain
+> - **Age**:Late Ladinian.
+> - **Taxa**: Actinopterygian: *Ptycholepis* aff. *P. barboi*, ?*Boreosomus* sp., *Saurichthys* aff.*S. costasquamosus*, *Saurichthys* aff.*S. curionii*,*Colobodus* aff. *C. bassani*, *Perleidus* aff. *P. altolepis*, ?*Ctenognatichthys bellotti*, *Peltoperleidus*?, Cleithrolepididae indet., *Peltopleurus* aff. *P. rugosus*, *Peripeltopleurus* aff. *P. vexillipinnis*, ?*Platysingum* sp., *Luganoia lepidosteoides*, *Eosemionotus* sp., *Archaeosemionotus* sp., *Allolepidotus* aff. *A. nothosomoides*, *Eoeugnathus megalepis*, ?*Caturus* sp., ?*Ophiopsis* sp., ?Pholidophoridae indet.
+> - Sarcioterygian: *Alcoveria brevis* 
+> - Marine reptiles: *Cosesaurus avicens* (diapsid), *Lariosaurus balsami*, *Nothosaurus cumathosauroides*, *Ceresiosaurus* sp. (nothosaurs), Pistosauria indet
+> - **Locality and horizon**:Alvover dolomites, Mont-ral and El Pinetell, Catalonia, Spain
+> - **References**: Cateanyà J., 1999
+> - **Comments**:The fossil ensemble of this "Lagerstatte" represents the most important marine Triassic fauna in the Iberian Peninsula, and one of Europe's outstanding Triassic faunas.
+
 ## Late Triassic
 #### Lockatong Formation, USA
 > - **Age**: Late Triassic.
@@ -2831,6 +2840,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
