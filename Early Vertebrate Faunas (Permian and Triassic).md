@@ -449,7 +449,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Maokou Formation/ Maokouan Age, Guizhou, China
 > - **Age**: Wordian to Capitanian, Guadalupian, Permian.
-#### Maokou Formation, Yichang, Hubei, China
+#### Maokou Formation, Datiankeng area, Yichang, Hubei, China
 > - **Age**: Wordian, Guadalupian, Permian.
 > - **Taxa**: Chondrichthyans: *Parvidiabolus yichangensis*, *Fragilicorona guizhouensis*
 > - **Reference**: (Zhang et al., 2013)
@@ -2851,6 +2851,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
