@@ -714,6 +714,20 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
 > - **Comments**:  
 
+#### upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia
+> - **Age**: Wuchiapingian, Lopingian, Permian 
+> - **Taxa**: Mupashi migrator
+> - **Locality and horizon**: upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia.
+> - **References**: Huttenlocker & Sidor, 2016.
+> - **Comments**:
+
+#### Cistecephalus Zone of the South African Beaufort Group, South Africa
+> - **Age**: Wuchiapingian, Lopingian, Permian 
+> - **Taxa**: Arctops willistoni
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 #### Lower Sakamena Formation, Sakamena Group, Morondava Basin, Madagascar
 > - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian 
 > - **Taxa**: 
@@ -724,13 +738,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >> - Therapsida: *Oudenodon sakamenensis*.
 > - **Locality and horizon**: Principally from the Morondava Basin, with specific localities including the Sakamena River Valley (Tulear) and Ranohira, southern Madagascar; from the Lower Sakamena Formation, Sakamena Group (Currie, 1980; Ketchum & Barrett, 2004; Meckert, 1995).
 > - **References**: Bandyopadhyay & Ray, 2020; Bickelmann et al., 2009; Carroll, 1978; Carroll, 1981; Currie, 1980; Currie, 1981; Ketchum & Barrett, 2004; Mazin & King, 1991; Meckert, 1995; Piveteau, 1926; Piveteau, 1955
-> - **Comments**:
-
-#### upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia
-> - **Age**: Wuchiapingian, Lopingian, Permian 
-> - **Taxa**: Mupashi migrator
-> - **Locality and horizon**: upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia.
-> - **References**: Huttenlocker & Sidor, 2016.
 > - **Comments**:
 
 #### Moradi Formation, northern Niger
@@ -2772,6 +2779,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
