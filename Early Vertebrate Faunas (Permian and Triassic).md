@@ -1040,6 +1040,13 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **References**: Schaeffer and Mangus 1976; 
 > - **Comments**:
 
+#### Burgersdorp Formation/Cynognathus Assemblage Zone, Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
+> - **Age**:
+> - **Taxa**: Chondrichthyans: *Lissodus tumidoclavus*
+> - **Locality and horizon**: Burgersdorp Formation/Cynognathus Assemblage Zone, Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
+> - **References**: (Duffin, 2023)
+> - **Comments**: 
+
 #### Spathian, late Olenekian, Early Triassic
 **Idaho and northeast Nevada (Romano et al., 2012; Romano et al., 2017)**
 
@@ -2840,6 +2847,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
