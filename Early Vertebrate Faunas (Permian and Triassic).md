@@ -502,6 +502,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Ivanov et al., 2021
 > - **Comments**: MINIKH, A. V., and MINIKH, M. G., 2006. Tip Chordata [Phylum Chordata]: 180-186. In: Grunt, T. A., Ed., Verkhnyaya perm poluostrova Kanin [Upper Permian of the Kanin Peninsula]. Moscow, Nauka, 213 pp. (In Russian)
 
+#### Shikhovo-Chirki, Kirov Region, European Russia
+> - **Age**: Roadian, Guadalupian, Permian.
+> - **Taxa**: Kazanichthys viatkensis, Samarichthys nikolaevae, Palaeoniscum kasanense, P. freiselebeni, Platysomus biarmicus, Elonichthys cf. contortus, Kargalichthys pritokensis (Esin, 1995b); tetrapods: Leptoropha talonophora, Melosaurus platyrhinus, Nyctiboetus kassini, Platyoposaurus watsoni; 
+> - **Locality and horizon**: Shikhovo-Chirki. Kirov Region, Sloboskoy District, right bank of the Vyatka River, upstream of theCheptsa River mouth, downstream of the Chirki village, 22 km from the town of Kirov.
+> - **References**: Bakaev, 2022.
+> - **Comments**
+
 #### Belebei Formation, Ocher locality, Perm Krai, Russia
 > - **Age**: Roadian to Wordian, Guadalupian, Permian.
 > - **Taxa**:
@@ -601,6 +608,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 ### Capitanian（卡匹敦期）, Guadalupian, Permian
+#### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
+> - **Age**: Capitanian, Guadalupian, Permian.
+> - **Taxa**: Strelnia insolita, Uranichthys pritokensis, Xenosynechodus sp., Platysomus biarmicus, Platysomus sp., Geryonichthys sp., Varialepis sp.; tetrapods Suchonica vladimiri;
+> - **Locality and horizon**: Ustpoldarsa Member, Poldarsa Formation, Vologda Region, Velikoustyugsky District, left bank of the Sukhona River near the Poldarsa village.
+> - **References**: Bakaev, 2022.
+> - **Comments**: 
+
 #### Teekloof Formation (lower Poortjie Member), South Africa
 > - **Age**: latest Capitanian, Middle Permian
 > - **Taxa**:
@@ -712,10 +726,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
 
-#### Orenburg Region, Russia 
+#### Poldarsa Formation, Kochevala-2, Vologda Region, European Russia
+> - **Age**: Wuchiapingian, Lopingian, Permian.
+> - **Taxa**: Toyemia tverdochlebovi, Geryonichthys longus, Varialepis cf. stanislavi; tetrapods Microphon exiguus
+> - **Locality and horizon**: Poldarsa Formation, Vologda Region, Nyuksensky District, right bank of the Sukhona River, 500 m downstream from the Kochevala River mouth, 200 m downstream from the power line. 
+> - **References**: Bakaev, 2022.
+> - **Comments**: 
+
+#### Orenburg & Vladimir Regions, Russia 
 > - **Age**: Wuchiapingian, Lopingian, Permian
 > - **Taxa**:
-> - **Locality and horizon**:
+> - **Locality and horizon**: Orenburg & Vladimir Regions, Russia 
 > - **References**:
 > - **Comments**: Urzhumian limestones of the Kichkas locality (Orenburg Region).
 
@@ -727,6 +748,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: Kotel'nich locality, western (right) bank of the Vyatka River, Kirov district, Russia (Kordikova & Khlyupin, 2001). Fossils are primarily from red calcareous mudstones and brownish-red siltstones (Kordikova & Khlyupin, 2001; Benton et al., 2012) of the **Vanyushonkov Member** (also Vanyushenki) (Kordikova & Khlyupin, 2001; Benton et al., 2012), the main fossiliferous horizon of the **Urpalov Formation** (Kordikova & Khlyupin, 2001). This corresponds to the *Deltavjatia vjatkensis* Assemblage Zone (Arefiev et al., 2015).
 > - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
 > - **Comments**:  
+<img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" />
 
 #### Brazil 
 > - **Age**: Wuchiapingian, Lopingian, Permian
@@ -887,6 +909,14 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**
+
+#### Kutuluk Formation, Pronkino, Orenburg Region, European Russia
+> - **Age**: Changhsingian, Lopingian, Permian
+> - **Taxa**: Gnathorhiza cf. otschevi Minikh, Boreolepis tataricus, Toyemia blumentalis Minikh, Isadia aristoviensis Minikh, I. cf. suchonensis Minikh, Isadia sp., Varialepis vitalii Minikh, Acropholis cf. stensioei (Esin, 1995b; Tverdokhlebov et al., 2005); tetrapods: Dvinosaurus primus, Karpinskio saurus ultimus, Chroniosuchus paradoxus, Kotlassia cf. prima, Leogorgon klimovensis, Pareiasaurida fam. indet., Peramodon sp. (Ivakhnenko et al., 1997); conchostracans Esteria lineata Lutk., E. angulata Lutk., E. rotunda Lutk., and E. elongata Netsch. 
+> - **Locality and horizon**:Kutuluk Formation, Pronkino, Orenburg Region, Sorochinsky District, left scar of the Borovka River valley, 1 km from the central square of the Pronkino village, approximately halfway up the slope. 
+> - **References**: Bakaev, 2022.
+> - **Comments**: 
+
 
 #### Balfour Formation, Karoo Basin, South Africa
 > - **Age**: Changhsingian, Lopingian, Late Permian to Griesbachian, Induan, Early Triassic
@@ -2800,6 +2830,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
