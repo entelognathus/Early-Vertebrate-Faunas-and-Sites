@@ -1011,6 +1011,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961).
 
+#### Vardebukta Formation, Svalbard.
+> - **Age**: Dienerian, Induan, Early Triassic
+> - **Taxa**:
+>> - Chondrichthyes: Acrodus spitzbergensis, Edestidae indet., Hybodus microdus, Hybodus sasseniensis, Hybodus sp., Lissodus angulatus, Palaeobates sp.
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: ‘Brevassfjellet Myalina bed(s)’
+
 #### Spiti subdistrict, Himachal Pradesh, India
 > - **Age**: Dienerian, Induan, Early Triassic
 > - **Taxa**:
@@ -1053,16 +1064,18 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: 
 
-#### Smithian, early Olenekian, Spitzbergen (Svalbard)
+#### Lusitaniadalen Member, Vikinghøgda Formation, Svalbard (Spitzbergen)
 > - **Age**: Smithian, early Olenekian, Early Triassic
-> - **Taxa**: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus), and several actinistian genera (Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania).
+> - **Taxa**:
+>> - Chondrichthyes: Palaeobates polaris
+>> - Actinopterygii: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus)
+>> - Sarcopterygii:Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania
+>> - Tetrapoda: 
 > - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard)
 > - **References**:
-> - **Comments**: The age follows Romano et al. (2021).
+> - **Comments**: The age follows Romano et al. (2021). The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
 
-The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
-
-Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus StensiÃ¶, 1925 from the Smithian of Spitzbergen.
+Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus Stensio, 1925 from the Smithian of Spitzbergen.
 
 The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
 
@@ -1155,13 +1168,16 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **References**:
 > - **Comments**:
 
-#### Spitsbergen
-> - **Age**:
+#### Vendomdalen Member, Vikinghøgda Formation, Svalbard (Spitsbergen)
+> - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
+>> - Chondrichthyes: Acrodus scaber, Acrodus spitzbergensis, Acrodus vermiformis, Hybodus microdus, Hybodus rapax, Lissodus angulatus, Nemacanthus sp., Palaeobates sp.
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). 
+> - **Comments**: ‘Grippia level’. Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). 
 
 #### Gogolin beds
 > - **Age**:
@@ -2923,6 +2939,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
