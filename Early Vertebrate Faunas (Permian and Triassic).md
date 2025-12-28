@@ -1047,7 +1047,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: Beltan (1996) proposed a Dienerian (Early Triassic) age for the fossil-bearing beds in the Ambilobé area, based on correlation with the *Lystrosaurus* and *Cynognathus* zones of the Beaufort Group (Battail et al., 1987). Recently, Yanbin et al. (2002) have studied some conchostracans from this area, and assigned them to Euestheria (Magniestheria) truempyi (Kozur & Seidel, 1983). In view of the fact that this species has previously been recorded also from the Bernburg Formation (lowermost Olenekian) in the German Basin, we may date the Ambilobé faunal assemblage as **Olenekian** rather than **Induan (Dienerian)**.
 
 #### Middle Sakamena Formation, Sakamena Group, Morondava Basin, Southwest Madagascar
-> - **Age**: early Smithian, Olenekian, Early Triassic.
+> - **Age**: early Smithian, early Olenekian, Early Triassic.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
@@ -1089,45 +1089,71 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **References**: (Duffin, 2023)
 > - **Comments**: 
 
-#### Spathian, late Olenekian, Early Triassic
-**Idaho and northeast Nevada (Romano et al., 2012; Romano et al., 2017)**
+### Spathian（斯派司亚期）, late Olenekian, Early Triassic
+#### Xiaqinglong Formation and Helongshan Formation, eastern China
+> - **Age**: Spathian, late Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:Tong et al., 2006; Li 2009
+> - **Comments**:
 
-#### Xiaqinglong Formation and the Helongshan Formation in eastern China (Tong et al., 2006; Li 2009)
+#### Nanlinghu Formation, Anhui, eastern China
+> - **Age**: Spathian, late Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii: Chaohuperleidus primus, Chaohuichthys majiashanensis.
+>> - Sarcopterygii:
+>> - Tetrapoda: Sauropterygia: Majiashanosaurus discocoracoidis.
+> - **Locality and horizon**: Type section at Nanling Lake near Tongling District, Anhui Province. Fossil-bearing horizon at Majiashan Quarry, Chaohu, Anhui Province; bed 719 in the Upper Member of the Nanlinghu Formation, ~27 m above its base, within the ammonoid Subcolumbites zone (Spathian, Olenekian) (Jiang et al., 2016).
+> - **References**: Wang 1984; Jiang et al., 2014; Sun et al., 2013; Tintori et al., 2014b, Tong et al., 2006; Jiang et al., 2016.
+> - **Comments**: 
 
+#### Idaho and northeast Nevada, USA
+> - **Age**: Spathian, late Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**: Romano et al., 2012; Romano et al., 2017
+> - **Comments**:
 
-**Arcadia Formation** (Australia) Olenekian, Early Triassic
-
-### Spathian（斯派司亚期）, Olenekian, Early Triassic
-Well-dated Spathian bony fish are known from China, Romania, and the western United States.
-
-#### Thaynes Group, Paris biota, Bear Lake County, southeatern Idaho, westerb United States
+#### Thaynes Group, Paris biota, Bear Lake County, southeatern Idaho, western United States
 > - **Age**: earliest Spathian, Olenekian, Early Triassic
 > - **Taxa**: Osteichthyans, Chondrichthyans (*Acrodus* sp., Hybodontiformes gen. et sp. indet) , Belemnoid arm hooks, arthropods, Foraminifers,Gastropods, Brachiopods, Bivalves, Ammonoids, Coiled nautiloids, Orthoconic nautiloids, Gladius-bearing coleoids, Echinoderms, Sponges
 > - **Locality and horizon**: Thaynes Group, Paris biota, Bear Lake Area, southeatern Idaho, westerb United States, Spathian
 > - **References**: Brayard et al., 2017; Romano et al., 2019; Smith et al., 2022; 
 > - **Comments**:
 
-#### Nanlinghu Formation, Anhui, eastern China
-> - **Age**: late Olenekian (Spathian), Early Triassic
-> - **Taxa**: Sauropterygia: Majiashanosaurus discocoracoidis. Actinopterygii: Chaohuperleidus primus, Chaohuichthys majiashanensis.
-> - **Locality and horizon**: Type section at Nanling Lake near Tongling District, Anhui Province. Fossil-bearing horizon at Majiashan Quarry, Chaohu, Anhui Province; bed 719 in the Upper Member of the Nanlinghu Formation, ~27 m above its base, within the ammonoid Subcolumbites zone (Spathian, Olenekian) (Jiang et al., 2016).
-> - **References**: Wang 1984; Jiang et al., 2014; Sun et al., 2013; Tintori et al., 2014b, Tong et al., 2006; Jiang et al., 2016.
-> - **Comments**: 
+#### northeast Nevada
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. 
 
 #### Romania
 > - **Age**:
 > - **Taxa**: Dobrogeria
 > - **Locality and horizon**:
 > - **References**:Cavin and Gradinaru 2014
-> - **Comments**: 
+> - **Comments**
 
-#### northeast Nevada
-> - **Age**:
+#### Arcadia Formation, Australia
+> - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
-From northeast Nevada, an indeterminate actinopterygian postcranium (a ptycholepid) and a large, yet undescribed skull are known (Romano et al., 2017). Furthermore, complete specimens of Bobasatrania from Spathian deposits of Idaho (cf. Brayard et al., 2017) are currently under study by the author. 
+> - **Comments**:
 
 #### Spitsbergen
 > - **Age**:
@@ -2897,6 +2923,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
