@@ -951,8 +951,16 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 ## Early Triassic
 ### Induan（印度期）, Early Triassic
 ### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
+
+#### Katberg Formation, South Africa
+> - **Age**: Griesbachian, early Induan, Early Triassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments** Lystrosaurus Assemblage Zone
+
 #### Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
-> - **Age**: Griesbachian, Induan.
+> - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**:
 >> - Actinopterygii: *Paraperleidus changxingensis* Zhao and Lu, 2007; Baoqingichthys microdontus; Baoqingichthys sp.
 > - **Locality and horizon**: Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China. Also in Tieshikou, Xinfeng, Jiangxi Province, China.
@@ -960,7 +968,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
 
 #### Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland
-> - **Age**: Griesbachian, Induan.
+> - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: Kap Stosch Formation, Wordie Creek Group; Griesbachian, Induan, East Greenland.
 > - **References**:
@@ -970,7 +978,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 *Pteronisculus gunnari*, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
 
 #### Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan
-> - **Age**: Griesbachian, Induan.
+> - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**: *Bobasatrania* sp.
 > - **Locality and horizon**: Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan.
 > - **References**: Böttcher (2014)
@@ -2870,6 +2878,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
