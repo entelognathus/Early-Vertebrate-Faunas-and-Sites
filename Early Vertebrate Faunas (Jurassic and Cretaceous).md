@@ -29,6 +29,12 @@
 > - **Locality and horizon**: Stonesfield Slate, Oxfordshire, UK
 > - **References**: (Dineley and Metcalf, 1999)
 > - **Comments**:
+#### Sharps Hill Formation,  Oakham quarry, UK
+> - **Age**: early Bathonian
+> - **Taxa**: *Lissodus leiodus*
+> - **Locality and horizon**: Sharps Hill Formation,  Oakham quarry, UK
+> - **References**: (Rees and Underwood, 2008)
+> - **Comments**: 
 #### Lealt Shale Formation,  Isles of Eigg, UK
 > - **Age**: Bathonian
 > - **Taxa**: **Hybodus grossiconus*
@@ -287,6 +293,7 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
