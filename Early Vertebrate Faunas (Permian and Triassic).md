@@ -1053,6 +1053,14 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: 
 
+#### Hongyanjing Formation, Beishan, Subei County, Gansu, China
+> - **Age**: Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Tetrapoda: *Beishanichthys brevicaudalis*
+> - **Locality and horizon**: Hongyanjing Formation, Beishan, Subei County, Gansu, China
+> - **References**:
+> - **Comments**: Xu & Gao (2011): "The fossil bearing deposits of dark mudstones and siltstones exposed at the Beishan site were previously interpreted as Late Permian in age, based on problematic plant fossils (Yang, Fan & Yao, 1997), but have been revised as Early Triassic (Olenekian), based on vertebrate fossils, and primarily on the trirachodontid eucynodont (Gao et al., 2008; 2010)."
+
 ### Smithian（史密斯亚期）, early Olenekian, Early Triassic
 
 Maoshankou, Hexian; 2, Majiashan, Chaohu City; 3, Longtan, Nanjing City; 4, Qingshan, Jurong City
@@ -2960,6 +2968,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
