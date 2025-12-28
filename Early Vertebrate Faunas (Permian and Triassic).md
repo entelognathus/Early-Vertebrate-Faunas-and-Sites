@@ -1157,16 +1157,17 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **References**:Cavin and Gradinaru 2014
 > - **Comments**
 
-#### Arcadia Formation, Australia
+#### Arcadia Formation, Queensland, Australia
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyes:
->> - Actinopterygii:
->> - Sarcopterygii:
->> - Tetrapoda: 
-> - **Locality and horizon**:
+>> - Actinopterygii: Saurichthys giga.
+>> - Sarcopterygii: Aphelodus anapes, Namatozodia pitikanta, Ptychoceratodus phillipsi, 
+>> - Tetrapoda: Acerastea wadeae, Arcadia	myriadens, Capulomala	arcadiaensis, Keratobrachyops australis, Lapillopsis	nana, Nanolania anatopretia, Plagiobatrachus australis, Rewana	quadricuneata, Tirraturhinus smisseni, Warrenisuchus	aliciae, Watsonisuchus	gunganj, W. rewanensis, Xenobrachyops	allos, Trematosauridae	indet.
+> - **Locality and horizon**: Arcadia Formation, Queensland, Australia.
 > - **References**:
 > - **Comments**:
+> - https://en.wikipedia.org/wiki/Arcadia_Formation,_Australia
 
 #### Vendomdalen Member, Vikinghøgda Formation, Svalbard (Spitsbergen)
 > - **Age**: Spathian, late Olenekian, Early Triassic.
@@ -2939,6 +2940,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
