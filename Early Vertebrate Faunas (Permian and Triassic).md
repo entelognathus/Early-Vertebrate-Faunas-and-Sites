@@ -1054,6 +1054,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: 
 
 ### Smithian（史密斯亚期）, early Olenekian, Early Triassic
+
+Maoshankou, Hexian; 2, Majiashan, Chaohu City; 3, Longtan, Nanjing City; 4, Qingshan, Jurong City
+
+#### Helongshan Formation, Chaohu, Anhui, China
+> - **Age**: late Smithian, early Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Sarcopterygii: Whiteia anniae 
+> - **Locality and horizon**: Helongshan Formation, Chaohu, Anhui, China.
+> - **References**: (Dai et al., 2025)
+> - **Comments**: 
+
 #### Middle Sakamena Formation, Sakamena Group, Ambilobe Basin, Northwest Madagascar
 > - **Age**: early Smithian, Olenekian, Early Triassic.
 > - **Taxa**:
@@ -1107,7 +1118,7 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **Age**:
 > - **Taxa**:
 >> - Chondrichthyans: *Lissodus tumidoclavus*
-> - **Locality and horizon**: Burgersdorp Formation (Cynognathus Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
+> - **Locality and horizon**: Burgersdorp Formation (*Cynognathus* Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
 > - **References**: (Duffin, 2023)
 > - **Comments**: 
 
@@ -2949,6 +2960,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
