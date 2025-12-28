@@ -1055,7 +1055,12 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 > - **Locality and horizon**: Copăceni (Dacian Basin, southern Romania)
 > - **References**: (Vasile, 2020)
 > - **Comments**:
-
+#### KBS Member, Koobi Fora Formation, Kolom Guo, nKoobi Fora region, Kenya
+> - **Age**: early Calabrian
+> - **Taxa**: Eupercaria: (*Piscichnus brownii*)
+> - **Locality and horizon**: KBS Member, Koobi Fora Formation, Kolom Guo, nKoobi Fora region, Kenya
+> - **References**: (Feibel, 1987)
+> - **Comments**:
 ### Chibanian
 #### Chibanian Miyata Formation, Kanagawa Prefecture, Japan
 > - **Age**: Chibanian
@@ -1109,6 +1114,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
