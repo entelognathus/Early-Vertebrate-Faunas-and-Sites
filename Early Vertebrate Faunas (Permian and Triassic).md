@@ -922,7 +922,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Bakaev, 2022.
 > - **Comments**: 
 
-
 #### Balfour Formation, Karoo Basin, South Africa
 > - **Age**: Changhsingian, Lopingian, Late Permian to Griesbachian, Induan, Early Triassic
 > - **Taxa**:
@@ -959,13 +958,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China. Also in Tieshikou, Xinfeng, Jiangxi Province, China.
 > - **References**: Zhao and Lu, 2007; Wang et al., 2007
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
-
-#### Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
-> - **Age**: Dienerian, Induan,Early Triassic.
-> - **Taxa**: Paraperleidus
-> - **Locality and horizon**: Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
-> - **References**: Benton et al., 2013
-> - **Comments**: 文芠：这个时代归属是错的吧？应该是长兴期的。见上。
 
 #### Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland
 > - **Age**: Griesbachian, Induan.
@@ -2878,6 +2870,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
