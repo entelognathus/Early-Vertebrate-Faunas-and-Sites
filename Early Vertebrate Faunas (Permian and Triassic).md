@@ -1045,10 +1045,10 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**
 
 ### Olenekian（奥伦尼克期）, Early Triassic
-#### Luolou Formation, Zhebao region, Baise City, Guangxi, China
+#### Luolou Formation（罗楼组）, Zhebao region, Baise City, Guangxi, China
 > - **Age**: Olenekian, Early Triassic.
 > - **Taxa**:
->> - Tetrapoda: Baisesaurus robustus
+>> - Tetrapoda: *Baisesaurus robustus*
 > - **Locality and horizon**: Luolou Formation, Zhebao region, Baise City, Guangxi, China.
 > - **References**:
 > - **Comments**: 
@@ -1098,15 +1098,16 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 
 #### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
 > - **Age**: Smithian, early Olenekian, Early Triassic
-> - **Taxa**: Cf. *Palaeobates*, 
+> - **Taxa**: cf. *Palaeobates*, 
 > - **Locality and horizon**: Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
 > - **References**: Schaeffer and Mangus 1976; 
 > - **Comments**:
 
-#### Burgersdorp Formation/Cynognathus Assemblage Zone, Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
+#### Burgersdorp Formation (Cynognathus Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
 > - **Age**:
-> - **Taxa**: Chondrichthyans: *Lissodus tumidoclavus*
-> - **Locality and horizon**: Burgersdorp Formation/Cynognathus Assemblage Zone, Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
+> - **Taxa**:
+>> - Chondrichthyans: *Lissodus tumidoclavus*
+> - **Locality and horizon**: Burgersdorp Formation (Cynognathus Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
 > - **References**: (Duffin, 2023)
 > - **Comments**: 
 
@@ -2948,6 +2949,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
