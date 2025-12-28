@@ -951,6 +951,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 # Triassic:
 ## Early Triassic
 ### Induan（印度期）, Early Triassic
+### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
 #### Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
 > - **Age**: Griesbachian, Induan.
 > - **Taxa**:
@@ -959,14 +960,12 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Zhao and Lu, 2007; Wang et al., 2007
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
 
-#### Blina Shale Formation, Kimberley region, Northwest Australia
-> - **Age**: Induan–Olenekian, Early Triassic.
-> - **Taxa**: *Batrachosuchus henwoodi*, *Deltasaurus kimberleyensis*, *Erythrobatrachus noonkanbahensis*, *Saurichthys*; *Aphelodus anapes*, *Watsonisuchus sp.*
-> - **Locality and horizon**: Blina Shale Formation, Kimberley region, Northwest Australi; marine to deltaic shales of the eastern Erskine Range near Noonkanbah Station
-> - **References**: Cosgriff, 1965; McKenzie, 1961; Cosgriff & Garbutt, 1972; Kear & Hamilton‑Bruce, 2011
-> - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
-
-### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
+#### Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
+> - **Age**: Dienerian, Induan,Early Triassic.
+> - **Taxa**: Paraperleidus
+> - **Locality and horizon**: Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
+> - **References**: Benton et al., 2013
+> - **Comments**: 文芠：这个时代归属是错的吧？应该是长兴期的。见上。
 
 #### Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland
 > - **Age**: Griesbachian, Induan.
@@ -984,6 +983,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan.
 > - **References**: Böttcher (2014)
 > - **Comments**:
+
+#### Blina Shale Formation, Kimberley region, Northwest Australia
+> - **Age**: Induan to Olenekian, Early Triassic.
+> - **Taxa**: *Batrachosuchus henwoodi*, *Deltasaurus kimberleyensis*, *Erythrobatrachus noonkanbahensis*, *Saurichthys*; *Aphelodus anapes*, *Watsonisuchus sp.*
+> - **Locality and horizon**: Blina Shale Formation, Kimberley region, Northwest Australi; marine to deltaic shales of the eastern Erskine Range near Noonkanbah Station
+> - **References**: Cosgriff, 1965; McKenzie, 1961; Cosgriff & Garbutt, 1972; Kear & Hamilton‑Bruce, 2011
+> - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
 
 ### Dienerian（第纳尔亚期）, Induan, Early Triassic
 #### "stegocephalian-horizon", Dienerian, Induan, East Greenland
@@ -1003,12 +1009,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Lehman 1952; Nielsen 1955; Beltan 1968; Brinkmann et al., 2010; Marramà et al., 2017;
 > - **Comments**: Beltan (1996) proposed a Dienerian (Early Triassic) age for the fossil-bearing beds in the Ambilobé area, based on correlation with the Lystrosaurus and Cynognathus zones of the Beaufort Group (Battail et al., 1987). Recently, Yanbin et al. (2002) have studied some conchostracans from this area, and assigned them to Euestheria (Magniestheria) truempyi (Kozur & Seidel, 1983). In view of the fact that this species has previously been recorded also from the Bernburg Formation (lowermost Olenekian) in the German Basin, we may date the Ambilobé faunal assemblage as Olenekian rather than Induan (Dienerian).
 
-#### Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
-> - **Age**: Dienerian, Induan,Early Triassic.
-> - **Taxa**: Paraperleidus
-> - **Locality and horizon**: Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
-> - **References**: Benton et al., 2013
-> - **Comments**: 
 
 Two new localities yielding articulated Dienerian osteichthyan fishes were recently discovered in the Spiti subdistrict (Himachal Pradesh, India; Romano et al., 2016b) and in the Candelaria Hills (southwestern Nevada, United States; Romano et al., 2019). F
 
@@ -2855,6 +2855,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
