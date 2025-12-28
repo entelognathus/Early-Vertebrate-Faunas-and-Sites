@@ -1100,6 +1100,13 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 ### Spathian（斯派司亚期）, Olenekian, Early Triassic
 Well-dated Spathian bony fish are known from China, Romania, and the western United States.
 
+#### Thaynes Group, Paris biota, Bear Lake County, southeatern Idaho, westerb United States
+> - **Age**: earliest Spathian, Olenekian, Early Triassic
+> - **Taxa**: Osteichthyans, Chondrichthyans (*Acrodus* sp., Hybodontiformes gen. et sp. indet) , Belemnoid arm hooks, arthropods, Foraminifers,Gastropods, Brachiopods, Bivalves, Ammonoids, Coiled nautiloids, Orthoconic nautiloids, Gladius-bearing coleoids, Echinoderms, Sponges
+> - **Locality and horizon**: Thaynes Group, Paris biota, Bear Lake Area, southeatern Idaho, westerb United States, Spathian
+> - **References**: Brayard et al., 2017; Romano et al., 2019; Smith et al., 2022; 
+> - **Comments**:
+
 #### Nanlinghu Formation, Anhui, eastern China
 > - **Age**: late Olenekian (Spathian), Early Triassic
 > - **Taxa**: Sauropterygia: Majiashanosaurus discocoracoidis. Actinopterygii: Chaohuperleidus primus, Chaohuichthys majiashanensis.
@@ -2890,6 +2897,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
