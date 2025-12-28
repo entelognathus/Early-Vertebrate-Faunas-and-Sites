@@ -948,10 +948,20 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 <img width="1302" height="927" alt="image" src="https://github.com/user-attachments/assets/fab92fba-4ff5-40ec-a531-75eeda623e8c" />
 
 # Triassic:
+#### Formation/Member, Locality
+> - **Age**:
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 ## Early Triassic
 ### Induan（印度期）, Early Triassic
 ### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
-
 #### Katberg Formation, South Africa
 > - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**:
@@ -967,15 +977,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Zhao and Lu, 2007; Wang et al., 2007
 > - **Comments** Bed 27c to Bed 29 of Section D, 882-3 to 884 of Section Z.
 
-#### Kap Stosch Formation, Wordie Creek Group, Griesbachian, Induan, East Greenland
+#### Kap Stosch Formation, Wordie Creek Group, East Greenland
 > - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii: *Pteronisculus gunnari*; Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), ?Errolichthys, Helmolepis (Platysiagidae), parasemionotids (Broughia, Ospia, ?Parasemionotus, ?Watsonulus) Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Sassenia
+>> - Sarcopterygii: Whiteia
+>> - Tetrapoda: 
 > - **Locality and horizon**: Kap Stosch Formation, Wordie Creek Group; Griesbachian, Induan, East Greenland.
 > - **References**:
 > - **Comments**: Previously undescribed specimens of *Saurichthys* from the basal part of the Early Triassic Wordie Creek Formation (Griesbachian) of East Greenland demonstrate a remarkably complete squamation especially in the anterior trunk portion. *Saurichthys* aff. *dayi* (Raymond, 1925).
-> - Romano (2021): The Early Triassic fishes of East Greenland originate from six horizons (Nielsen 1942; Nielsen 1949; Perch-Nielsen et al., 1974), the lower five of which('fish-zones' I-V) are dated as early to late Griesbachian (Surlyk et al., 2017), whereas the sixth horizon is early Dienerian in age (see below). Although the ichthyofaunal compositions of these six horizons differ (Nielsen 1961), collectively they show that all of the typical Early Triassic taxa were already present in the Griesbachian: Australosomus, Birgeria, Bobasatrania,Boreosomus (Ptycholepidae), ?Errolichthys, Helmolepis (Platysiagidae), parasemionotids (Broughia, Ospia, ?Parasemionotus, ?Watsonulus) Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Sassenia, and Whiteia (Stensiö 1932; Nielsen 1936; Nielsen 1942; Nielsen 1949; Nielsen 1952; Nielsen 1955; Nielsen 1961; Nybelin 1977; Mutter 2005; Kogan 2011; Argyriou et al., 2018). These taxa are part of Tintori et al. (2014a)’s “Triassic Early Fish Fauna” (TEFF).
-
-*Pteronisculus gunnari*, from the Induan (Early Triassic) Kap Stosch Formation, East Greenland.
+> - Romano (2021): "The Early Triassic fishes of East Greenland originate from six horizons (Nielsen 1942; Nielsen 1949; Perch-Nielsen et al., 1974), the lower five of which ('fish-zones' I-V) are dated as early to late Griesbachian (Surlyk et al., 2017), whereas the sixth horizon is early Dienerian in age (see below). Although the ichthyofaunal compositions of these six horizons differ (Nielsen 1961), collectively they show that all of the typical Early Triassic taxa were already present in the Griesbachian: Australosomus, Birgeria, Bobasatrania,Boreosomus (Ptycholepidae), ?Errolichthys, Helmolepis (Platysiagidae), parasemionotids (Broughia, Ospia, ?Parasemionotus, ?Watsonulus) Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Sassenia, and Whiteia (Stensiö 1932; Nielsen 1936; Nielsen 1942; Nielsen 1949; Nielsen 1952; Nielsen 1955; Nielsen 1961; Nybelin 1977; Mutter 2005; Kogan 2011; Argyriou et al., 2018). These taxa are part of Tintori et al. (2014a)’s “Triassic Early Fish Fauna” (TEFF)."
 
 #### Upper Productus Limestone, Griesbachian, Induan; Virgal (Wargal), Salt Range, northern Pakistan
 > - **Age**: Griesbachian, early Induan, Early Triassic.
@@ -2878,6 +2890,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
