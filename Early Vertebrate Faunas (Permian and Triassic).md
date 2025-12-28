@@ -1004,15 +1004,15 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
 
 ### Dienerian（第纳尔亚期）, Induan, Early Triassic
-#### "stegocephalian-horizon", Dienerian, Induan, East Greenland
-> - **Age**: Dienerian, Induan, Early Triassic
+#### "stegocephalian-horizon", Dienerian, late Induan, East Greenland
+> - **Age**: Dienerian, late Induan, Early Triassic
 > - **Taxa**:
 > - **Locality and horizon**: "stegocephalian-horizon", Dienerian, Induan, East Greenland
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961).
 
 #### Vardebukta Formation, Svalbard.
-> - **Age**: Dienerian, Induan, Early Triassic
+> - **Age**: Dienerian, late Induan, Early Triassic
 > - **Taxa**:
 >> - Chondrichthyes: Acrodus spitzbergensis, Edestidae indet., Hybodus microdus, Hybodus sasseniensis, Hybodus sp., Lissodus angulatus, Palaeobates sp.
 >> - Actinopterygii:
@@ -1023,7 +1023,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: ‘Brevassfjellet Myalina bed(s)’
 
 #### Spiti subdistrict, Himachal Pradesh, India
-> - **Age**: Dienerian, Induan, Early Triassic
+> - **Age**: Dienerian, late Induan, Early Triassic
 > - **Taxa**:
 >> - Chondrichthyes:
 >> - Actinopterygii: Saurichthys, a parasemionotid, an actinistian and additional, indeterminable actinopterygian remains
@@ -1033,14 +1033,14 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Romano et al., 2016b
 > - **Comments**: 
 
-#### Candelaria Hills, southwestern Nevada, USA
-> - **Age**: Dienerian, Induan, Early Triassic
+#### lower Candelaria Formation, Candelaria Hills, southwestern Nevada, USA
+> - **Age**: middle to late Dienerian, late Induan, Early Triassic
 > - **Taxa**:
 >> - Chondrichthyes:
 >> - Actinopterygii: a parasemionotid (Candelarialepis), a ?turseoid (Pteronisculus), a ptycholepid (Ardoreosomus), and severalindeterminable actinopterygians
 >> - Sarcopterygii:
 >> - Tetrapoda: 
-> - **Locality and horizon**:
+> - **Locality and horizon**: lower Candelaria Formation, Candelaria Hills, Esmeralda County, southwestern Nevada, USA
 > - **References**: Romano et al., 2019
 > - **Comments**
 
@@ -2948,6 +2948,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
