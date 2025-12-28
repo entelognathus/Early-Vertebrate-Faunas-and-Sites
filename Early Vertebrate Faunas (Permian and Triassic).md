@@ -950,7 +950,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 # Triassic:
 ## Early Triassic
-### Induan, Early Triassic
+### Induan（印度期）, Early Triassic
 #### Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
 > - **Age**: Griesbachian, Induan.
 > - **Taxa**:
@@ -993,6 +993,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). 
 
+### Olenekian（奥伦尼克期）, Early Triassic
 #### Middle Sakamena Group, Dienerian, Induan, northweatern Madagascar
 > - **Age**: lowermost Olenekian,Early Triassic.
 > - **Taxa**: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), Ecrinesomus, Errolichthys, Helmolepis (Platysiagidae), Paracentrophorus, Pteronisculus, Saurichthys madagascariensis (Piveteau, 1944), Teffichthys (species were previously referred to Perleidus; Marramà et al., 2017), several parasemionotid genera, and
@@ -1155,6 +1156,7 @@ records the recovery of diapsids following the end-Permian mass extinction. PLoS
 > - **Comments**: Permian and Triassic vertebrates from Turkey are poorly known.From the Middle-Late Permian actinopterygians and tetrapod footprints are known(Gandetal.2011;HHoşgöretal.,submitted) whereas chondrichthyes are known from the Lower Triassic (Thies,1982) and phytosaurs from the Late Triassic (Buffetautetal.1988).
 
 ## MIDDLE Triassic: 
+### Anisian（安尼期）, Middle Triassic
 ### Aegean, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
 Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
@@ -1219,7 +1221,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
 
 The famous collecting area ofMonte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrianâ€ “Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisianâ€“Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database).  The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
-
+### Ladinian（拉丁期）, Middle Triassic
 ### Fassanian, Early Ladinian
 > Romano (2021): Identifiable remains of bony fishes from the Fassanian, the first substage of the Ladinian, are known from Europe (Switzerland, Italy, and Germany).
 > Early Ladinian bony fishes are known from the Prosanto Formation in southeast Switzerland (GraubÃ¼nden). This formation has produced fossils of the actinopterygians
@@ -1316,6 +1318,8 @@ Romano (2021):
 > - **Comments**:The fossil ensemble of this "Lagerstatte" represents the most important marine Triassic fauna in the Iberian Peninsula, and one of Europe's outstanding Triassic faunas.
 
 ## Late Triassic
+
+
 #### Lockatong Formation, USA
 > - **Age**: Late Triassic.
 > - **Taxa**: Tetrapods: *Eupelor durus*; *Gwyneddosaurus erici*; *Hypuronector limnaios*; *Icarosaurus siefkeri*; *Rhabdopelix longispinis*; *Rutiodon carolinensis*; *Tanytrachelos ahynis*.
@@ -1324,7 +1328,7 @@ Romano (2021):
 > - **References**:
 > - **Comments**: 
 
-### Carnian, Late Triassic
+### Carnian（卡尼期）, Late Triassic
 #### Wayao Member, Falang Formation, Guanling, Guizhou, China
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**:
@@ -1335,7 +1339,7 @@ Romano (2021):
 > - **References**:
 > - **Comments**: Guanling Biota.
 
-### Norian, Late Triassic
+### Norian（诺利期）, Late Triassic
 #### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
@@ -1347,7 +1351,7 @@ Romano (2021):
 > - **References**:
 > - **Comments**: 
 
-### Rhaetian, Late Triassic
+### Rhaetian（瑞替期）, Late Triassic
 #### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
@@ -2853,6 +2857,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
