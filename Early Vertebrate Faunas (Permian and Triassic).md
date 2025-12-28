@@ -993,12 +993,14 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961). 
 
-#### Middle Sakamena Group, Dienerian, Induan, Madagascar
-> - **Age**: Dienerian, Induan,Early Triassic.
-> - **Taxa**: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), Ecrinesomus, Errolichthys, Helmolepis (Platysiagidae), Paracentrophorus, Pteronisculus, Saurichthys madagascariensis (Piveteau, 1944), Teffichthys (species were previously referred to Perleidus; Marramà et al., 2017), several parasemionotid genera, and actinistians (Piveteauia, Rhabdoderma, Whiteia).
+#### Middle Sakamena Group, Dienerian, Induan, northweatern Madagascar
+> - **Age**: lowermost Olenekian,Early Triassic.
+> - **Taxa**: Australosomus, Birgeria, Bobasatrania, Boreosomus (Ptycholepidae), Ecrinesomus, Errolichthys, Helmolepis (Platysiagidae), Paracentrophorus, Pteronisculus, Saurichthys madagascariensis (Piveteau, 1944), Teffichthys (species were previously referred to Perleidus; Marramà et al., 2017), several parasemionotid genera, and
+> - Actinistians (*Piveteauia madagascarensis*, Rhabdoderma, Whiteia).
+> - Chondrichthyes: *Acrodus*
 > - **Locality and horizon**: Middle Sakamena Group, Dienerian, Induan, Madagascar
 > - **References**: Lehman 1952; Nielsen 1955; Beltan 1968; Brinkmann et al., 2010; Marramà et al., 2017;
-> - **Comments**: 
+> - **Comments**: Beltan (1996) proposed a Dienerian (Early Triassic) age for the fossil-bearing beds in the Ambilobé area, based on correlation with the Lystrosaurus and Cynognathus zones of the Beaufort Group (Battail et al., 1987). Recently, Yanbin et al. (2002) have studied some conchostracans from this area, and assigned them to Euestheria (Magniestheria) truempyi (Kozur & Seidel, 1983). In view of the fact that this species has previously been recorded also from the Bernburg Formation (lowermost Olenekian) in the German Basin, we may date the Ambilobé faunal assemblage as Olenekian rather than Induan (Dienerian).
 
 #### Lower Yinkeng Formation, Dienerian, Induan, Zhejiang, China
 > - **Age**: Dienerian, Induan,Early Triassic.
@@ -2851,6 +2853,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
