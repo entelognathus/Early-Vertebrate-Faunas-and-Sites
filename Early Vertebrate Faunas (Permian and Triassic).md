@@ -48,7 +48,7 @@
 > - **Comments**: spanning the Carboniferous–Permian boundary.
 
 #### Millery Formation, Autun Basin, France
-> - **Age**: Asselian, Cisuralian (Early Permian).
+> - **Age**: Asselian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Actinopterygii: *Aeduella blainvillei*, *Igornichthys doubingeri*, *Igornella comblei*, *Paramblypterus rohani*, *Paramblypterus* sp., *Elonichthys autuniensis*.
 >> - Chondrichthyes: *Triodus aeduorum*, *Triodus* sp., 'Expleuracanthus' *frossardi*.
@@ -60,7 +60,7 @@
 > - **Comments**:
 
 #### Shanxi Formation, Shanxi Province, China
-> - **Age**: Asselian, Cisuralian (Early Permian).
+> - **Age**: Asselian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Ornithoprion* sp., *Palaeomolis* sp. (Liu, 2013; Liu et al., 2024).
 >> - Temnospondyli: *Shanxitemnos qiangshuiensis* (Chen et al., 2020).
@@ -70,7 +70,7 @@
 > - **Comments**: The fauna is known as the "Shanxi Assemblage" (Liu, 2013). It represents a mixed fauna of Carboniferous holdovers and typical Permian taxa, likely inhabiting a paralic (brackish water) environment (Liu, 2013; Liu et al., 2024).
 
 #### Cutler Formation, Four Corners (Colorado/Utah/Arizona/New Mexico), USA
-> - **Age**: Asselian to Sakmarian, Cisuralian (Early Permian).
+> - **Age**: Asselian to Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Xenacanthus* sp. (freshwater xenacanthid shark),
 >> - Actinopterygii: *Progyrolepis* sp. (palaeoniscoid fish),
@@ -108,7 +108,7 @@
 <img width="1577" height="1646" alt="image" src="https://github.com/user-attachments/assets/68548dea-9f31-410d-a04e-f533eea48da5" />
 
 #### Abo Formation, New Mexico, USA
-> - **Age**: Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Synapsida: *Dimetrodon occidentalis*.
 >> - Dipnoi (lungfishes): *Gnathorhiza* sp..
@@ -187,7 +187,6 @@
 >> - Amphibia (Temnospondyli): *Eryops megacephalus*, *Trimerorhachis insignis*, *Trimerorhachis* sp., *Cacops morrisi*, *Cacops* sp., *Zygosaurus* sp., *Zatrachys serratus*, *Pasawioops mayi*, *Acheloma* sp., *Phonerpeton* sp., *Archeria crassidisca*, *Diplocaulus* sp. (Romer & Price, 1940; Romer, 1957; Williston, 1910; Sander, 1987; Bourget & Anderson, 2011; Milner & Schoch, 2013; Schoch & Sues, 2013).
 >> - **Synapsida**: *Dimetrodon natalis*, *Dimetrodon limbatus*, *Dimetrodon booneorum*, *Dimetrodon milleri*, *Dimetrodon grandis*, *Ctenospondylus* sp., *Sphenacodon* sp., *Secodontosaurus* sp., *Varanosaurus* sp., *Ophiacodon* sp., *Edaphosaurus boanerges*, *Eothyris* sp., *Casea* sp. (Cope, 1877; Case, 1907; Romer, 1937; Romer & Price, 1940; Hook & Hotton, 1991; Modesto, 1995; Shelton et al., 2012; Shelton & Sander, 2017; Agliano et al., 2021).
 >> - **Reptilia**: *Captorhinus aguti*, *Captorhinus* sp., *Araeoscelis* sp., *Bolosaurus* sp., *Romeria* sp. (Cope, 1882; Vaughn, 1955; Fox & Bowman, 1966).
-
 > - **Locality and horizon**: Nocona Formation is exposed in Baylor County, Archer County, Clay County, and Montague County in north-central Texas, extending into Jefferson County, Oklahoma; stratotype located near Ringgold, Montague County, Texas (Hentz, 1988). 
 > - **References**: Cope, 1877; Cope, 1878; Cope, 1882; Case, 1907; Williston, 1910; Romer, 1937; Romer and Price, 1940; Romer, 1957; Dunkle, 1946; Vaughn, 1955; Fox and Bowman, 1966; Barnes, 1987; Hentz and Brown, 1987; Sander, 1987; Hentz, 1988; Sander, 1989; Hook and Hotton, 1991; Barnes, 1991; Modesto, 1995; Johnson, 2003; Bourget and Anderson, 2011; Shelton et al., 2012; Milner and Schoch, 2013; Johnson, 2013; Schoch and Sues, 2013; Shelton and Sander, 2017; Agliano et al., 2021
 > - **Comments**: 
@@ -217,7 +216,7 @@
 
 ### Artinskian（亚丁斯克期）, Cisuralian, Permian
 #### Lueders Formation, north-central Texas, USA
-> - **Age**: Artinskian，Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Acrodus olsoni*, *Acrodus sweetlacruzensis*, *Lissodus zideki*, *Barbclabornia luedersensis*, *Ctenacanthus* cf. *amblyxiphias*, *Janassa* sp., *Orthacanthus platypternus*, *Orthacanthus texensis*, *Deltodus mercuri*.
 >> - Osteichthyes:
@@ -228,14 +227,16 @@
 > - **Locality and horizon**: Shackelford County, Texas.
 > - **References**: Shell et al., 2024; Berman, 1970; Dalquest et al., 1988; Wikipedia contributors, 2025
 > - **Comments**: 
+
 #### Prince Albert Shale Formation,  Cape Province, South Africa
-> - **Age**: Artinskian，Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:Chondrichthyans (*Dwykaselachus oosthuizeni*)
 > - **Locality and horizon**: Prince Albert Shale Formation,  Cape Province, South Africa
 > - **References**: (Maisey, 2007)
 > - **Comments**: 
+
 #### Robledo Mountains Formation, south-central New Mexico, USA
-> - **Age**: Artinskian，Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Tetrapod ichnotaxa: *Batrachichnus salamandroides*, *Batrachichnus* aff. *salamandroides*, *Dimetropus nicolasi*, *Dimetropus leisneranius*, *Dromopus lacertoides*, cf. *Erpetopus*, *Limnopus vagus*, *Gilmoreichnus hermitanus*, *Hyloidichnus bifurcatus*.
 >> - Fish swimming traces: *Undichna bina*, *Undichna britannica*, *Undichna? unisulca*.
@@ -244,7 +245,7 @@
 > - **Comments**: 
 
 #### Orby Head Formation, Prince Edward Island, Canada
-> - **Age**: Artinskian，Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Synapsida: *Dimetrodon borealis*.
 >> - Parareptilia: *indeterminate parareptile*.
@@ -253,7 +254,7 @@
 > - **Comments**: 
 
 #### Mangrullo Formation, Paraná Basin, Uruguay
-> - **Age**: Artinskian, Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Mesosauridae: *Mesosaurus tenuidens*, *Stereosternum tumidum*.
 > - **Locality and horizon**: Exposures cropping out in the Cerro Largo Department of northeastern Uruguay, especially at the Estancia “El Barón” locality, where the Mangrullo Formation (∼40 m thick) consists predominantly of laminated oil shale, claystone and siltstone beds of the Cerro Largo Group; fossiliferous horizons in the lower mudstone and claystone layers yield the mesosaurid community (Piñeiro et al., 2011; Calisto et al., 2022).
@@ -261,7 +262,7 @@
 > - **Comments**:  
 
 #### Cundlego Formation, Carnarvon & Perth Basins, Western Australia
-> - **Age**: Artinskian, Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Echinodermata: *Jimbacrinus bostocki*.
 >> - Brachiopoda: *Spiriferella cundlegoensis*, *Fusispirifer cundlegoensis*, *Imperiospira sp.*, *Hoskingia kennediensis*
@@ -270,7 +271,7 @@
 > - **Comments**: No known vertebrate fossils reported from the Cundlego Formation.
 
 #### Divjinskian Formation, Krasnoufimsk, Cis-Urals, Russia
-> - **Age**: Artinskian, Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Parahelicoprion clerci*.
 > - **Locality and horizon**: Exposures near the town of Krasnoufimsk (sections such as Krasnoufimskie Klyuchiki, After Selection and Sobolya) in the Cis‑Urals; stratotype sections of the Divjinskian Formation (upper Artinskian substage) (Naugolnykh, 2018; Mironenko, 2022).
@@ -278,7 +279,7 @@
 > - **Comments**: 
 
 #### Sarginskian Formation, Krasnoufimsk, Cis-Urals, Russia
-> - **Age**: Artinskian, Cisuralian (Early Permian).
+> - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Artiodus prominens*, *Helicoprion bessonovi*.
 > - **Locality and horizon**: Krasnoufimskie Klyuchiki quarry near the town of Krasnoufimsk, Sverdlovsk Region, Middle Urals, Russia; deposits belong to the Divya Formation within the Sarginskian Regional Stage (upper Artinskian) (Ivanov et al., 2017).
@@ -1089,7 +1090,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: 
 > - **References**:(Su and Li, 1983)
 > - **Comments**:
-
 
 #### Middle Sakamena Formation, Sakamena Group, Ambilobe Basin, Northwest Madagascar
 > - **Age**: early Smithian, Olenekian, Early Triassic.
@@ -3017,6 +3017,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
