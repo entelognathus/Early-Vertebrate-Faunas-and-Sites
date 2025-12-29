@@ -874,7 +874,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Zhu, 1989; Liu & Li, 2013; Liu & Abdala, 2017; Liu & Bever, 2018; Liu & Abdala, 2019; Liu & Abdala, 2020; Liu, 2021; Liu & Chen, 2021; Liu & Abdala, 2022; Liu, 2023; Shi & Liu, 2023; Yi & Liu, 2025
 > - **Comments**: *Yinshanosaurus angustus* to added in Deepbone.
 
-#### Guodikeng Formation, Junggar Basin, Xinjiang, China
+#### Guodikeng Formation（锅底坑组）, Junggar Basin, Xinjiang, China
 > - **Age**: Changhsingian, Lopingian, Permian to Griesbachian, Induan, Early Triassic.
 > - **Taxa**:
 >> - Therapsida: *Jimusaria sinkianensis*, *Jimusaria taoshuyuanensis*, *Turfanodon bogdaensis*, *Striodon magnus*, *Kunpania scopulusa*, *Dicynodon tienshanensis*, *Diictodon feliceps*, *Lystrosaurus* sp., *Lystrosaurus hedini*, *Lystrosaurus youngi*, *Dalongkoua fuae*.
@@ -960,9 +960,18 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 <img width="2822" height="1492" alt="image" src="https://github.com/user-attachments/assets/a72b8bf4-3cb3-41dd-b910-3e90cffd1c24" />
+<img width="2344" height="1464" alt="image" src="https://github.com/user-attachments/assets/4b405faf-9798-4eb4-b5e9-b62a53ce99b7" />
 
 ## Early Triassic
 ### Induan（印度期）, Early Triassic
+#### Formation（韭菜园组）, Junggar Basin, Xinjiang, China
+> - **Age**: Induan, Early Triassicc.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**: 
+> - **References**:
+> - **Comments**: 
+
 ### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
 #### Katberg Formation, South Africa
 > - **Age**: Griesbachian, early Induan, Early Triassic.
@@ -971,7 +980,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments** Lystrosaurus Assemblage Zone
 
-#### Upper Member, Yinkeng Formation, Meishan, Changxing, Zhejiang, China
+#### Upper Member, Yinkeng Formation（殷坑组）, Meishan, Changxing, Zhejiang, China
 > - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**:
 >> - Actinopterygii: *Paraperleidus changxingensis* Zhao and Lu, 2007; Baoqingichthys microdontus; Baoqingichthys sp.
@@ -1067,8 +1076,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 Maoshankou, Hexian; 2, Majiashan, Chaohu City; 3, Longtan, Nanjing City; 4, Qingshan, Jurong City
 
-#### Helongshan Formation, Chaohu, Anhui, China
-> - **Age**: late Smithian, early Olenekian, Early Triassic.
+#### Helongshan Formation（和龙山组）, Chaohu, Anhui, China
+> - **Age**: Smithian, early Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Sarcopterygii: Whiteia anniae 
 > - **Locality and horizon**: Helongshan Formation, Chaohu, Anhui, China.
@@ -1133,7 +1142,7 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **Comments**: 
 
 ### Spathian（斯派司亚期）, late Olenekian, Early Triassic
-#### Xiaqinglong Formation and Helongshan Formation, eastern China
+#### Xiaqinglong Formation（下青龙组）, eastern China
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyes:
@@ -1144,7 +1153,7 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **References**:Tong et al., 2006; Li 2009
 > - **Comments**:
 
-#### Nanlinghu Formation, Anhui, eastern China
+#### Nanlinghu Formation（南陵湖组）, Anhui, eastern China
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyes:
@@ -2970,6 +2979,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
