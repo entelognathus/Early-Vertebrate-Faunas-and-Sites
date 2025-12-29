@@ -1073,16 +1073,29 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: Xu & Gao (2011): "The fossil bearing deposits of dark mudstones and siltstones exposed at the Beishan site were previously interpreted as Late Permian in age, based on problematic plant fossils (Yang, Fan & Yao, 1997), but have been revised as Early Triassic (Olenekian), based on vertebrate fossils, and primarily on the trirachodontid eucynodont (Gao et al., 2008; 2010)." 马莲井组。
 
+#### Fourth Member, Daye Formation（大冶组）, Huangsi, Hubei, China
+> - **Age**: Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Tetrapoda: 
+> - **Locality and horizon**: 
+> - **References**:(Su and Li, 1983)
+> - **Comments**:
+
+#### Lower Triassic in Mt. Simashan, Maoshankou, Hexian, Anhui, China
+> - **Age**: Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Tetrapoda: 
+> - **Locality and horizon**: 
+> - **References**:(Su, 1981)
+> - **Comments**:
+
 ### Smithian（史密斯亚期）, early Olenekian, Early Triassic
-
-Maoshankou, Hexian; 2, Majiashan, Chaohu City; 3, Longtan, Nanjing City; 4, Qingshan, Jurong City
-
-#### Helongshan Formation（和龙山组）, Chaohu, Anhui, China
+#### Helongshan Formation（和龙山组）, Majiashan, Chaohu, Anhui, China
 > - **Age**: Smithian, early Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Sarcopterygii: Whiteia anniae 
 > - **Locality and horizon**: Helongshan Formation, Chaohu, Anhui, China.
-> - **References**: (Dai et al., 2025)
+> - **References**: (Dai et al., 2025) Tong et al., 2006
 > - **Comments**: 
 
 #### Middle Sakamena Formation, Sakamena Group, Ambilobe Basin, Northwest Madagascar
@@ -1143,16 +1156,16 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 > - **Comments**: 
 
 ### Spathian（斯派司亚期）, late Olenekian, Early Triassic
-#### Xiaqinglong Formation（下青龙组）, eastern China
+#### Xiaqinglong Formation（下青龙组）, Qingshan, Jurong, Jiangsu
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyes:
 >> - Actinopterygii:
 >> - Sarcopterygii:
 >> - Tetrapoda: 
-> - **Locality and horizon**:
-> - **References**:Tong et al., 2006; Li 2009
-> - **Comments**:
+> - **Locality and horizon**: Upper part of Xiaqinglong Formation, Qingshan, Jurong, Jiangsu; also Longtan, Nanjing, Jiangsu.
+> - **References**:Tong et al., 2006; Li 2009; (Qian et al., 1997; Liu et al., 2002; Jin et al., 2003),
+> - **Comments**: 
 
 #### Nanlinghu Formation（南陵湖组）, Anhui, eastern China
 > - **Age**: Spathian, late Olenekian, Early Triassic.
@@ -3012,6 +3025,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
