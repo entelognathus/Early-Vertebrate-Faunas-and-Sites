@@ -1282,6 +1282,21 @@ records the recovery of diapsids following the end-Permian mass extinction. PLoS
 
 ## MIDDLE Triassic: 
 ### Anisian（安尼期）, Middle Triassic
+#### Ermaying Formation（二马营组）， North China
+> - **Age**: Anisian, Middle Triassic
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Shaanbeikannemeyeria AZ, and Sinokannemeyeria AZ.
+
+#### Member 2, Badong Formation（巴东组）， South China
+> - **Age**: Anisian, Middle Triassic
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:巴东组二段以陆相为主，产出芙蓉龙以及远安鲵。Lotosaurus-Yuanansuchus？
+
 ### Aegean（爱琴亚期）, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
 Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
@@ -1346,7 +1361,24 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
 
 The famous collecting area ofMonte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrianâ€ “Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisianâ€“Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database).  The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
+
 ### Ladinian（拉丁期）, Middle Triassic
+#### Tongchuan Formation（铜川组）， North China
+> - **Age**: Ladinian, Middle Triassic
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Karamay Formation（克拉玛依组）， Xinjiang, China
+> - **Age**: Ladinian, Middle Triassic
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 ### Fassanian, Early Ladinian
 > Romano (2021): Identifiable remains of bony fishes from the Fassanian, the first substage of the Ladinian, are known from Europe (Switzerland, Italy, and Germany).
 > Early Ladinian bony fishes are known from the Prosanto Formation in southeast Switzerland (GraubÃ¼nden). This formation has produced fossils of the actinopterygians
@@ -2980,6 +3012,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
