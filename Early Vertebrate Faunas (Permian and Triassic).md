@@ -1130,15 +1130,27 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015.
 > - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
 
-#### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
-> - **Age**: Smithian, early Olenekian, Early Triassic
+#### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Fossil Fish Lake, British Columbia, Canada
+> - **Age**: Smithian, early Olenekian, Early Triassic.
 > - **Taxa**: cf. *Palaeobates*, 
-> - **Locality and horizon**: Smithian, early Olenekian, Fossil fish lake, British Columbia, Canada
+> - **Locality and horizon**: Smithian, early Olenekian, Fossil Fish Lake, British Columbia, Canada
 > - **References**: Schaeffer and Mangus 1976; 
 > - **Comments**:
 
+#### Sulphur Mountain Formation, Wapiti Lake area, British Columbia, Canada
+> - **Age**: Olenekian, Early Triassic
+> - **Taxa**:
+>> - Actinopterygii: Boreosomus spp., Birgeria sp., Bobasatrania canadensis, Australosomus sp., Saurichthys sp., Parasemionotus spp..
+>> - Actinistia: Rebellatrix divaricerca.
+>> - Chondrichthyes: Listracanthus pectenatus. Thalattosauria: Agkistrognathus campbelli, Paralonectes merriami, Thalattosaurus borealis, Wapitisaurus problematicus. Ichthyosauria: Grippia longirostris, Utatsusaurus sp., Parvinatator wapitiensis.
+> Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
+> Rebellatrix divaricerca, Helmolepis and Birgeria
+> - **Locality and horizon**: Marine vertebrate fossils are preserved in the Vega–Phroso Siltstone Member of the Sulphur Mountain Formation at exposures near Wapiti Lake Provincial Park in British Columbia, Canada; this member spans the Smithian–Spathian intervals of the Lower Triassic (Orchard & Zonneveld, 2009; Nicholls & Brinkman, 1993).
+> - **References**: Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
+> - **Comments**:
+
 #### Burgersdorp Formation (Cynognathus Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
-> - **Age**:
+> - **Age**: Smithian, early Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyans: *Lissodus tumidoclavus*
 > - **Locality and horizon**: Burgersdorp Formation (*Cynognathus* Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
@@ -1231,16 +1243,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: 
 The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
 
-#### Sulphur Mountain Formation Fauna, Wapiti Lake area, British Columbia, Canada
-> - **Age**: Olenekian, Early Triassic
-> - **Taxa**: Actinopterygii: Boreosomus spp., Birgeria sp., Bobasatrania canadensis, Australosomus sp., Saurichthys sp., Parasemionotus spp.. Actinistia: Rebellatrix divaricerca. Chondrichthyes: Listracanthus pectenatus. Thalattosauria: Agkistrognathus campbelli, Paralonectes merriami, Thalattosaurus borealis, Wapitisaurus problematicus. Ichthyosauria: Grippia longirostris, Utatsusaurus sp., Parvinatator wapitiensis.
-> - **Locality and horizon**: Marine vertebrate fossils are preserved in the Vega–Phroso Siltstone Member of the Sulphur Mountain Formation at exposures near Wapiti Lake Provincial Park in British Columbia, Canada; this member spans the Smithian–Spathian intervals of the Lower Triassic (Orchard & Zonneveld, 2009; Nicholls & Brinkman, 1993).
-> - **References**: Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
-> - **Comments**:
-
-#### Wapiti Lake locality, British Columbian, Canada
-> Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
-> Rebellatrix divaricerca, Helmolepis and Birgeria
 
 #### Burgerdorp formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Olenekian, Late Early Triassic
@@ -3015,6 +3017,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
