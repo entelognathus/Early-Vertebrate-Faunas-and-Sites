@@ -778,7 +778,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 #### Lower Sakamena Formation, Sakamena Group, Morondava Basin, Madagascar
-> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian 
+> - **Age**: Wuchiapingian, Lopingian, Permian 
 > - **Taxa**: 
 >> - Actinopterygii: *Atherstonia* sp.
 >> - Temnospondyli: *Rhinesuchus* sp.
@@ -787,7 +787,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >> - Therapsida: *Oudenodon sakamenensis*.
 > - **Locality and horizon**: Principally from the Morondava Basin, with specific localities including the Sakamena River Valley (Tulear) and Ranohira, southern Madagascar; from the Lower Sakamena Formation, Sakamena Group (Currie, 1980; Ketchum & Barrett, 2004; Meckert, 1995).
 > - **References**: Bandyopadhyay & Ray, 2020; Bickelmann et al., 2009; Carroll, 1978; Carroll, 1981; Currie, 1980; Currie, 1981; Ketchum & Barrett, 2004; Mazin & King, 1991; Meckert, 1995; Piveteau, 1926; Piveteau, 1955
-> - **Comments**:
+> - **Comments**: Buffa et al. (2022): The Lower Sakamena Formation (southwestern Madagascar) is commonly considered of Wuchiapingian age (e.g., Piveteau, 1926; Currie, 1981a; Hankel, 1994; Lucas, 2017). However, recent reinvestigations (Smith, 2020) and a possible Capitanian age for the Russian taxa (Sennikov and Golubev, 2017) suggest that the age of the Lower Sakamena Formation is poorly constrained and could extend from late Guadalupian to late Lopingian (possibly Capitanian to Changhsingian).
 
 #### Moradi Formation, northern Niger
 > - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
@@ -3015,6 +3015,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
