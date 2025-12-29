@@ -1090,16 +1090,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:(Su and Li, 1983)
 > - **Comments**:
 
-#### Xiaqinglong Formation（下青龙组）, Qingshan, Jurong, Jiangsu
-> - **Age**: Smithian, early Olenekian, Early Triassic.
-> - **Taxa**:
->> - Chondrichthyes:
->> - Actinopterygii:
->> - Sarcopterygii:
->> - Tetrapoda: 
-> - **Locality and horizon**: Upper part of Xiaqinglong Formation, Qingshan, Jurong, Jiangsu; also Longtan, Nanjing, Jiangsu.
-> - **References**:Tong et al., 2006; Li 2009; (Qian et al., 1997; Liu et al., 2002; Jin et al., 2003),
-> - **Comments**: 
 
 #### Middle Sakamena Formation, Sakamena Group, Ambilobe Basin, Northwest Madagascar
 > - **Age**: early Smithian, Olenekian, Early Triassic.
@@ -1124,17 +1114,14 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Taxa**:
 >> - Chondrichthyes: Palaeobates polaris
 >> - Actinopterygii: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus)
->> - Sarcopterygii:Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania
+>> - Sarcopterygii: Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania
 >> - Tetrapoda: 
 > - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard)
 > - **References**:
 > - **Comments**: The age follows Romano et al. (2021). The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
-
-Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus Stensio, 1925 from the Smithian of Spitzbergen.
-
-The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
-
-Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
+> - Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus Stensio, 1925 from the Smithian of Spitzbergen.
+> - The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
+> - Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
 
 #### Smithian, early Olenekian, Alberta, British Columbia, Canada
 > - **Age**: Smithian, early Olenekian, Early Triassic
@@ -1168,6 +1155,17 @@ Some material described by Stensiö (1921), most importantly a lungfish tooth pl
 >> - Tetrapoda: Sauropterygia: *Majiashanosaurus discocoracoidis*.
 > - **Locality and horizon**: Type section at Nanling Lake near Tongling District, Anhui Province. Fossil-bearing horizon at Majiashan Quarry, Chaohu, Anhui Province; bed 719 in the Upper Member of the Nanlinghu Formation, ~27 m above its base, within the ammonoid Subcolumbites zone (Spathian, Olenekian) (Jiang et al., 2016).
 > - **References**: Wang 1984; Jiang et al., 2014; Sun et al., 2013; Tintori et al., 2014b, Tong et al., 2006; Jiang et al., 2016.
+> - **Comments**: 
+
+#### Xiaqinglong Formation（下青龙组）, Qingshan, Jurong, Jiangsu
+> - **Age**: Spathian, late Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**: Upper part of Xiaqinglong Formation, Qingshan, Jurong, Jiangsu; also Longtan, Nanjing, Jiangsu.
+> - **References**:Tong et al., 2006; Li 2009; (Qian et al., 1997; Liu et al., 2002; Jin et al., 2003),
 > - **Comments**: 
 
 #### Idaho and northeast Nevada, USA
@@ -3017,6 +3015,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
