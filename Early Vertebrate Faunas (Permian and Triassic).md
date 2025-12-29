@@ -434,40 +434,21 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**:
 
-####  Yaogou Formation（窑沟组）, Qilian, China
-> - **Age**: Kungurian, Cisuralian, Permian
-> - **Taxa**:
->> - Tetrapoda:
-> - **Locality and horizon**: 
-> - **References**: Liu (2018)
-> - **Comments**:
-
 ## Guadalupian (middle Permian， 瓜德鲁普世)
 ### Roadian（罗德期）, Guadalupian, Permian
-#### Qingtoushan Formation（青头山组）, Gansu, China
+#### Qingtoushan Formation（青头山组）, Dashankou, Gansu, China
 > - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**:
->> - Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*.
+>> - Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*. *Stenocybus acidentatus*.
 >> - Sauropsida: *Belebey zhengi*, *Gansurhinus qingtoushanensis*.
 >> - Temnospondyli: *Anakamacops petrolicus*.
 >> - Chroniosuchia: *Phratochronis qilianensis*, *Ingentidens corridoricus*.
-> - **Locality and horizon**: Vertebrate fossils occur in red mudstone in the upper part of the formation at the Dashankou locality, near Yumen, Gansu Province (Liu et al., 2009; Liu et al., 2012).
-> - **References**: Duhamel et al., 2021; Li & Cheng, 1999; Liu et al., 2009; Liu et al., 2012; Reisz et al., 2011
-> - **Comments**:
-
-#### Xidagou Formation, Dashankou, Gansu Province, China
-> - **Age**: Roadian, Guadalupian, Permian.
-> - **Taxa**: 
->> - Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*, *Stenocybus acidentatus*.
->> - Parareptilia: *Belebey chengi*.
->> - Amphibia: *Anakamacops petrolicus*, *Ingentidens corridoricus*, *Phratochronis qilianensis*.
-> - **Locality and horizon**: Dashankou locality, approximately 20 km southwest of Old Yumen City, Gansu Province, China. Fossils are recovered from red mudstone layers in the upper part of the Qingtoushan Formation, a fluvial deposit (Liu et al., 2009; Liu et al., 2012)
-> - **References**: Cheng and Ji, 1996; Cheng and Li, 1997; Li and Cheng, 1997; Li and Cheng, 1999; Müller et al., 2008; Liu et al., 2009; Liu et al., 2012; Chen and Liu, 2024
-> - **Comments**:
+> - **Locality and horizon**:  Dashankou locality, approximately 20 km southwest of Old Yumen City, Gansu Province, China. Fossils are recovered from red mudstone layers in the upper part of the Qingtoushan Formation, a fluvial deposit (Liu et al., 2009; Liu et al., 2012). Vertebrate fossils occur in red mudstone in the upper part of the formation at the Dashankou locality, near Yumen, Gansu Province (Liu et al., 2009; Liu et al., 2012).
+> - **References**: Duhamel et al., 2021; Li & Cheng, 1999; Liu et al., 2009; Liu et al., 2012; Reisz et al., 2011; Cheng and Ji, 1996; Cheng and Li, 1997; Li and Cheng, 1997; Li and Cheng, 1999; Müller et al., 2008; Liu et al., 2009; Liu et al., 2012; Chen and Liu, 2024
+> - **Comments**: *Sinophoneus* AZ. Also Xidagou Formation. 
 
 #### Maokou Formation/ Maokouan Age, Guizhou, China
 > - **Age**: Wordian to Capitanian, Guadalupian, Permian.
-
 
 #### Maokou Formation, Datiankeng area, Yichang, Hubei, China
 > - **Age**: Wordian, Guadalupian, Permian.
@@ -2999,6 +2980,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
