@@ -13,6 +13,8 @@
 
 ## Stratigraphic correlations
 > - In the regional stratigraphy of southwestern North America, the Cisuralian encompasses two series: the **Wolfcampian** (Asselian to mid-Artinskian) and **Leonardian** (mid-Artinskian to Kungurian).
+<img width="2511" height="1316" alt="image" src="https://github.com/user-attachments/assets/692cacda-a277-4012-8a42-88da15029fac" />
+<img width="1426" height="1592" alt="image" src="https://github.com/user-attachments/assets/bb226410-6167-4b23-b7ac-b800c8f92e24" />
 
 # Permian
 ## Cisuralian (Early Permian, 乌拉尔世)
@@ -2979,6 +2981,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
