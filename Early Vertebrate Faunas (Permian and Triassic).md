@@ -959,6 +959,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**:
 
+<img width="2822" height="1492" alt="image" src="https://github.com/user-attachments/assets/a72b8bf4-3cb3-41dd-b910-3e90cffd1c24" />
+
 ## Early Triassic
 ### Induan（印度期）, Early Triassic
 ### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
@@ -2968,6 +2970,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
