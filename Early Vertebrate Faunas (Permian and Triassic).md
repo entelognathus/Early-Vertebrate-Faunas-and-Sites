@@ -153,6 +153,14 @@
 > - **Comments**: 
 
 ### Sakmarian（萨克马尔期）, Cisuralian, Permian
+####  Lucaogou Formation（芦草沟组）, Xinjiang, China
+> - **Age**: Sakmarian, Cisuralian, Permian.
+> - **Taxa**:
+>> - Tetrapoda: *UUrumqia liudaowanensis*
+> - **Locality and horizon**: 
+> - **References**: Liu (2018)
+> - **Comments**:
+
 #### Renière Formation, Autunian Group, Allier, Massif Central, France
 > - **Age**: Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
@@ -426,10 +434,18 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**:
 
+####  Yaogou Formation（窑沟组）, Qilian, China
+> - **Age**: Kungurian, Cisuralian, Permian
+> - **Taxa**:
+>> - Tetrapoda:
+> - **Locality and horizon**: 
+> - **References**: Liu (2018)
+> - **Comments**:
+
 ## Guadalupian (middle Permian， 瓜德鲁普世)
 ### Roadian（罗德期）, Guadalupian, Permian
-#### Qingtoushan Formation, Gansu, China
-> - **Age**: Roadian, Guadalupian (middle Permian).
+#### Qingtoushan Formation（青头山组）, Gansu, China
+> - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**:
 >> - Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*.
 >> - Sauropsida: *Belebey zhengi*, *Gansurhinus qingtoushanensis*.
@@ -440,7 +456,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 #### Xidagou Formation, Dashankou, Gansu Province, China
-> - **Age**: Roadian, Guadalupian (middle Permian).
+> - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**: 
 >> - Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*, *Stenocybus acidentatus*.
 >> - Parareptilia: *Belebey chengi*.
@@ -451,6 +467,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Maokou Formation/ Maokouan Age, Guizhou, China
 > - **Age**: Wordian to Capitanian, Guadalupian, Permian.
+
+
 #### Maokou Formation, Datiankeng area, Yichang, Hubei, China
 > - **Age**: Wordian, Guadalupian, Permian.
 > - **Taxa**: Chondrichthyans: *Parvidiabolus yichangensis*, *Fragilicorona guizhouensis*
@@ -861,7 +879,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Sunan Formation（肃南组）, Gansu, China
 > - **Age**: Changhsingian, Lopingian, Permian.
-> - **Taxa**: *Turfanodon sunanensis*
+> - **Taxa**: *Turfanodon sunanensis* 【Turfanodon bogdaensis (Kammerer et al., 2011)】
 > - **Locality and horizon**: Top of the Sunan Formation, Gansu, China
 > - **References**:
 > - **Comments**: 
@@ -2981,6 +2999,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
