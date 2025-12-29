@@ -245,6 +245,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 |           | Acanthodians     |       | *Nostolepis striata*                        | Pander, 1856                                         |
 |           | Acanthodians     |       | *Gladiobranchus probaton*                   | Bernacsek and Dineley, 1977                          |
 |           | Acanthodians     |       | *Tetanopsyrus lindoei*                      | Gagnier et al., 1999                                 |
+|           | Acanthodians     |       | *Tetanopsyrus breviacanthias*               | Hanke et al., 2001                                   |
 |           | Acanthodians     |       | *Tetanopsyrus* sp.                          | Wilson et al., 2000                                  |
 |           | Acanthodians     |       | *Ischnacanthus* cf. I. gracilis             | Egerton, 1861                                        |
 |           | Acanthodians     |       | *Mesacanthidae gen. et sp. nov.             | Wilson et al., 2000                                  |
@@ -1145,6 +1146,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
 
 Schultze, H.P., Hagadorn, J.W., Bullecks, J., Soar, L.K., Pradel, A., Denton, J. S. S., & Janvier, P. (2021). Devonian fish from Colorado’s Dyer Formation and the appearance of Carboniferous faunas in the Famennian. Ancient fishes and their living relatives: A tribute to John G. Maisey: Mu‐nich, Germany, Verlag Dr. Friedrich Pfeil [Dr. Friedrich Pfeil Scientific Publishers], 247-256.
+
 
 
 
