@@ -1235,6 +1235,14 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**: 
 
+#### Czatkowice 1 near Kraków, southern Poland
+> - **Age**: Spathian, late Olenekian, Early Triassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
 #### Kzyl-Sai and Rassypnaya locality, Orenburg, Russia
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**: the temnospondyl Parotosuchus orenburgensis, the archosauriform Chasmatosuchus magnus (=‘Jaikosuchus magnus’; the non-archosauriform archosauromorph Vritramimosaurus dzerzhinskii, and the therocephalian Silphedosuchus orenburgensis. Garjainia prima, Garjainia triplicostata (‘Vjushkovia triplicostata’ von Huene, 1960)
@@ -3021,6 +3029,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
