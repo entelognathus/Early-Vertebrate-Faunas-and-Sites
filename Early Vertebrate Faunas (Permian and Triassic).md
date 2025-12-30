@@ -1221,12 +1221,19 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: ‘Grippia level’. Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). 
 
 #### Gogolin beds
-> - **Age**:
+> - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils of Saurichthys, Nephrotus, and actinistians (cf. Romano et al., 2017 for references). Here, I include the fishes from Gogolin in the Spathian substage (see Kowal-Linka and Bodzioch 2017).
+
+#### Kzyl-Sai and Rassypnaya locality, Orenburg, Russia
+> - **Age**: Spathian, late Olenekian, Early Triassic.
+> - **Taxa**: the temnospondyl Parotosuchus orenburgensis, the archosauriform Chasmatosuchus magnus (=‘Jaikosuchus magnus’; the non-archosauriform archosauromorph Vritramimosaurus dzerzhinskii, and the therocephalian Silphedosuchus orenburgensis. Garjainia prima, Garjainia triplicostata (‘Vjushkovia triplicostata’ von Huene, 1960)
+> - **Locality and horizon**: Kzyl-Sai and Rassypnaya locality, Orenburg, Russia
+> - **References**:
+> - **Comments**: Both the Fedorovkian and Gamian gorizonts are dated as latest Early Triassic (late Olenekian) in age, based on the occurrence of the index genus for the Yarengian (the temnospondyl Parotosuchus) in strata containing biostratigraphically informative ammonites and miospores. Yarengian Supergorizont. 
 
 
 #### Burgerdorp formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
@@ -3007,6 +3014,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
