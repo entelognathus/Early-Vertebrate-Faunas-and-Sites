@@ -1275,8 +1275,7 @@ Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjaini
   Tetrapoda: archosaur tooth;*Osmolskina czatkowicensis* Borsuk−Białynicka et Evans, 2003; Prolacertiform tooth;lepidosauromorph;
   Amphibian: *Czatkobatrachus polonicus* Evans & Borsuk-Bialynicka, 1998
 > - **Locality and horizon**:  Czatkowice quarry, Krakow Upland, Poland
-> - **References**: Hoffman DK, Hancox JP, Nesbitt SJ (2023) A diverse diapsid tooth assemblage from the Early Triassic (Driefontein locality, South Africa)
-records the recovery of diapsids following the end-Permian mass extinction. PLoS ONE 18(5): e0285111. https://doi.org/10.1371/journal.pone.0285111
+> - **References**: Hoffman DK, Hancox JP, Nesbitt SJ (2023) A diverse diapsid tooth assemblage from the Early Triassic (Driefontein locality, South Africa) records the recovery of diapsids following the end-Permian mass extinction. PLoS ONE 18(5): e0285111. https://doi.org/10.1371/journal.pone.0285111
 > - **Comments**: The Czatkowice microvertebrate community appears to have lived under the mesic conditions of a freshwater oasis with the otherwise arid circumequatorial belt of Scythm Northern Pangea.
 
 #### Triassic outcrop north of the village Tepekoy on the Kocaeli, W Turkey
@@ -1362,6 +1361,18 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > - **Locality and horizon**: Italy
 > - **References**: (Tintori et al., 2016)
 > - **Comments**: the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf).
+
+#### Lower Gogolin beds of Southern Poland
+> - **Age**:  Anisian, Middle Triassic
+> - **Taxa**: Chondrichthyans: *Lissodus*,*Hybodus*, *Acrodus*
+    Actinopterygians: Macrosemiidae; *Gyrolepis*; *Severnichthys*; cf. *Colobodus*;
+    marine reptiles: ?Mixosauridae; ?Pretorosauria; Nothosauridae; ?Pachypleurosauridae and other reptile remains
+> - **Locality and horizon**: Anisian, Middle Triassic, Southern Poland
+> - **References**: Antczak et al., 2020.
+Antczak, M., Ruciński, M. R., Stachacz, M., Matysik, M. & Król, J. J., 2020. Diversity of vertebrate remains from
+the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologorum Poloniae, 90: xxx–xxx.
+> - **Comments**: 
+
 
 ### Illyrian（伊里尔亚期）, Late Anisian
 Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
@@ -3023,6 +3034,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
