@@ -1247,26 +1247,27 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 
 #### Burgerdorp formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Olenekian, Late Early Triassic
-> - **Taxa**: Chondrichthyans: *Lissodus tumidoclavus*; *Polyacrodus* sp.;
-  Actinopterygians: *Saurichththys*sp.,
-  Sarcoptergygians: *Ptychoceratous phillipsi*;
-  Amphibian: *Bathignathus poikilops*;*Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*;*Parotosuchus haughtoni*; *Trematosuchus sobeyi*; 
- other Tetrapoda:*Cynognathus crateronotus*; *Langbergia modisei*；*Garjainia madiba*；*Palacrodon browni*；*Microgomphodon oligocynus*;
+> - **Taxa**:
+>> - Chondrichthyans: *Lissodus tumidoclavus*; *Polyacrodus* sp.;
+>> - Actinopterygians: *Saurichththys*sp.,
+>> - Sarcoptergygians: *Ptychoceratous phillipsi*;
+>> - Amphibian: *Bathignathus poikilops*;*Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*;*Parotosuchus haughtoni*; *Trematosuchus sobeyi*;
+>> - other Tetrapoda:*Cynognathus crateronotus*; *Langbergia modisei*；*Garjainia madiba*；*Palacrodon browni*；*Microgomphodon oligocynus*;
 > - **Locality and horizon**: outcrops on the farm Driefontein 11 in the Bethlehem District, Free State Province, South Africa; Olenekian, Late Early Triassic
-> - **References**: Hoffman DK, Hancox JP, Nesbitt SJ (2023) A diverse diapsid tooth assemblage from the Early Triassic (Driefontein locality, South Africa)
-records the recovery of diapsids following the end-Permian mass extinction. PLoS ONE 18(5):e0285111. https://doi.org/10.1371/journal.pone.0285111
-Bender PA, Hancox PJ. Newly Discovered Fish Faunas from the Early Triassic, Karoo Basin, South Africa, and their Correlative Implications. Gondwana Research. 2004; 7(1):185–92.
-Hancox PJ, Neveling J, Rubidge BS. Biostratigraphy of the Cynognathus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology. 2020; 123(2):217–38.
-Damiani RJ, Jeannot AM. A brachyopid temnospondyl from the lower Cynognathus Assemblage Zone in the northern Karoo Basin, South Africa. Palaeontologia Africana. 2002; 38:57–69.
-Shishkin MA, Rubidge BS, Hancox PJ, Welman J. Re-evaluation of Kestrosaurus Haughton, a capitosaurid temnospondyl amphibian from the upper Beaufort Group of South Africa. Russian Journal of Herpetology. 2004; 11:21–138.
-Damiani RJ. Parotosuchus (Amphibia, Temnospondyli) from the Cynognathus Assemblage Zone (Early Triassic) of South Africa: cranial morphology and relationships. Alcheringa. 2001; 25:351–379.
-Shishkin MA, Welman J. A new find of Trematosuchus (Amphibia, Temnospondyli) from the Cynognathus zone of South Africa. Palaeontologia africana. 1994; 31:39–49.
-Abdala F, Jashashvili T, Rubidge BS, van den Heever J. New Material of Microgomphodon oligocynus (Eutherapsida, Therocephalia) and the Taxonomy of Southern African Bauriidae. In: Kammerer CF, Angielczyk KD, Fro¨bisch J, editors. Early Evolutionary History of the Synapsida. Dordrecht: Springer Netherlands; 2014. p. 209–31.
-Abdala F, Neveling J, Welman J. A new trirachodontid cynodont from the lower levels of the Burgersdorp Formation (Lower Triassic) of the Beaufort Group, South Africa and the cladistic relationships of Gondwanan gomphodonts. Zoological Journal of the Linnean Society. 2006; 147:383–413.
-Gaetano LC, Mocke H, Abdala F, Hancox PJ. Complex multicusped postcanine teeth from the Lower Triassic of South Africa. Journal of Vertebrate Paleontology, 2012; 32:1411–1420.
-Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
-Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
-Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+> - **References**:
+> - Hoffman DK, Hancox JP, Nesbitt SJ (2023) A diverse diapsid tooth assemblage from the Early Triassic (Driefontein locality, South Africa) records the recovery of diapsids following the end-Permian mass extinction. PLoS ONE 18(5):e0285111. https://doi.org/10.1371/journal.pone.0285111
+> - Bender PA, Hancox PJ. Newly Discovered Fish Faunas from the Early Triassic, Karoo Basin, South Africa, and their Correlative Implications. Gondwana Research. 2004; 7(1):185–92.
+> - Hancox PJ, Neveling J, Rubidge BS. Biostratigraphy of the Cynognathus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa. South African Journal of Geology. 2020; 123(2):217–38.
+> - Damiani RJ, Jeannot AM. A brachyopid temnospondyl from the lower Cynognathus Assemblage Zone in the northern Karoo Basin, South Africa. Palaeontologia Africana. 2002; 38:57–69.
+> - Shishkin MA, Rubidge BS, Hancox PJ, Welman J. Re-evaluation of Kestrosaurus Haughton, a capitosaurid temnospondyl amphibian from the upper Beaufort Group of South Africa. Russian Journal of Herpetology. 2004; 11:21–138.
+> - Damiani RJ. Parotosuchus (Amphibia, Temnospondyli) from the Cynognathus Assemblage Zone (Early Triassic) of South Africa: cranial morphology and relationships. Alcheringa. 2001; 25:351–379.
+> - Shishkin MA, Welman J. A new find of Trematosuchus (Amphibia, Temnospondyli) from the Cynognathus zone of South Africa. Palaeontologia africana. 1994; 31:39–49.
+> - Abdala F, Jashashvili T, Rubidge BS, van den Heever J. New Material of Microgomphodon oligocynus (Eutherapsida, Therocephalia) and the Taxonomy of Southern African Bauriidae. In: Kammerer CF, Angielczyk KD, Fro¨bisch J, editors. Early Evolutionary History of the Synapsida. Dordrecht: Springer Netherlands; 2014. p. 209–31.
+> - Abdala F, Neveling J, Welman J. A new trirachodontid cynodont from the lower levels of the Burgersdorp Formation (Lower Triassic) of the Beaufort Group, South Africa and the cladistic relationships of Gondwanan gomphodonts. Zoological Journal of the Linnean Society. 2006; 147:383–413.
+> - Gaetano LC, Mocke H, Abdala F, Hancox PJ. Complex multicusped postcanine teeth from the Lower Triassic of South Africa. Journal of Vertebrate Paleontology, 2012; 32:1411–1420.
+> - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
+> - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
+> - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
 > - **Comments**: freshwater, The Karoo Basin of South Africa is one such record, and particularly the late Early Triassic (Olenekian) Driefontein locality fills this gap in the diapsid fossil record.
 
 #### Czatkowice quarry, Krakow Upland, Poland
@@ -3034,6 +3035,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
