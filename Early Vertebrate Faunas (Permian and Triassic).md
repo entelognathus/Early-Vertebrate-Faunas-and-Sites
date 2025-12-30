@@ -1465,6 +1465,11 @@ Romano (2021):
 > - **Comments**:The fossil ensemble of this "Lagerstatte" represents the most important marine Triassic fauna in the Iberian Peninsula, and one of Europe's outstanding Triassic faunas.
 
 ## Late Triassic
+Los Esteros Member of the Santa Rosa Formation at the base of the Dockum Group in east-central New Mexico, early to middle Norian
+
+Chinle Formation
+https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
+
 #### Lockatong Formation, USA
 > - **Age**: Late Triassic.
 > - **Taxa**: Tetrapods: *Eupelor durus*; *Gwyneddosaurus erici*; *Hypuronector limnaios*; *Icarosaurus siefkeri*; *Rhabdopelix longispinis*; *Rutiodon carolinensis*; *Tanytrachelos ahynis*.
@@ -3002,6 +3007,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
