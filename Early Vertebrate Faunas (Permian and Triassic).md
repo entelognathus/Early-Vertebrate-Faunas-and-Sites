@@ -1123,31 +1123,16 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
 > - Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
 
-#### Smithian, early Olenekian, Alberta, British Columbia, Canada
+#### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Alberta and British Columbia, Canada
 > - **Age**: Smithian, early Olenekian, Early Triassic
-> - **Taxa**: Albertonia, Australosomus,Birgeria, Bobasatrania, Boreosomus, Helmolepis, Saurichthys, actinistians (Belemnocerca, Rebellatrix, Whiteia
-> - **Locality and horizon**:
-> - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015.
-> - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
-
-#### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Fossil Fish Lake, British Columbia, Canada
-> - **Age**: Smithian, early Olenekian, Early Triassic.
-> - **Taxa**: cf. *Palaeobates*, 
-> - **Locality and horizon**: Smithian, early Olenekian, Fossil Fish Lake, British Columbia, Canada
-> - **References**: Schaeffer and Mangus 1976; 
-> - **Comments**:
-
-#### Sulphur Mountain Formation, Wapiti Lake area, British Columbia, Canada
-> - **Age**: Olenekian, Early Triassic
 > - **Taxa**:
->> - Actinopterygii: Boreosomus spp., Birgeria sp., Bobasatrania canadensis, Australosomus sp., Saurichthys sp., Parasemionotus spp..
->> - Actinistia: Rebellatrix divaricerca.
->> - Chondrichthyes: Listracanthus pectenatus. Thalattosauria: Agkistrognathus campbelli, Paralonectes merriami, Thalattosaurus borealis, Wapitisaurus problematicus. Ichthyosauria: Grippia longirostris, Utatsusaurus sp., Parvinatator wapitiensis.
-> Chondrichthyes: Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts 
-> Rebellatrix divaricerca, Helmolepis and Birgeria
-> - **Locality and horizon**: Marine vertebrate fossils are preserved in the Vega–Phroso Siltstone Member of the Sulphur Mountain Formation at exposures near Wapiti Lake Provincial Park in British Columbia, Canada; this member spans the Smithian–Spathian intervals of the Lower Triassic (Orchard & Zonneveld, 2009; Nicholls & Brinkman, 1993).
-> - **References**: Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
-> - **Comments**:
+>> - Actinopterygii: Boreosomus spp., Birgeria sp., Bobasatrania canadensis, Australosomus sp., Saurichthys sp., Parasemionotus spp., Albertonia, Bobasatrania, Helmolepis, Saurichthys,
+>> - Actinistia: Rebellatrix divaricerca. Belemnocerca, Rebellatrix, Whiteia
+>> - Chondrichthyes: Listracanthus pectenatus. Paredestus bricircum, Fadenia uroclasmato, Caseodus varidentis, Hybodonts, cf. *Palaeobates*, 
+>> - Thalattosauria: Agkistrognathus campbelli, Paralonectes merriami, Thalattosaurus borealis, Wapitisaurus problematicus. Ichthyosauria: Grippia longirostris, Utatsusaurus sp., Parvinatator wapitiensis.
+> - **Locality and horizon**: Marine vertebrate fossils are preserved in the Vega–Phroso Siltstone Member of the Sulphur Mountain Formation at exposures near Wapiti Lake Provincial Park / Fossil Fish Lake in British Columbia, Canada; this member spans the Smithian–Spathian intervals of the Lower Triassic (Orchard & Zonneveld, 2009; Nicholls & Brinkman, 1993).
+> - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015. Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
+> - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
 
 #### Burgersdorp Formation (Cynognathus Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
 > - **Age**: Smithian, early Olenekian, Early Triassic.
@@ -3017,6 +3002,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
