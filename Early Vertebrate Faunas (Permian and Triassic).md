@@ -1024,16 +1024,16 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**: Romano (2021): In East Greenland, which is famous for Griesbachian aged fish fossils (see above), there is a horizon yielding Dienerian aged fishes ("stegocephalian-horizon" of Nielsen 1942; Nielsen 1949; "Zone VI" of Nielsen 1961; Surlyk et al., 2017). However, fossils appear to be few in these beds (Nielsen 1961).
 
-#### Vardebukta Formation, Svalbard.
+#### Urnetoppen Member, Vardebukta Formation, Hornsund area (South Spitzbergen)
 > - **Age**: Dienerian, late Induan, Early Triassic
 > - **Taxa**:
 >> - Chondrichthyes: Acrodus spitzbergensis, Edestidae indet., Hybodus microdus, Hybodus sasseniensis, Hybodus sp., Lissodus angulatus, Palaeobates sp.
 >> - Actinopterygii:
 >> - Sarcopterygii:
 >> - Tetrapoda: 
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: ‘Brevassfjellet Myalina bed(s)’
+> - **Locality and horizon**: Dienerian, late Induan, Early Triassic
+> - **References**: Bła˙zejowski, B. 2004
+> - **Comments**: ‘Brevassfjellet Myalina bed(s)’,The Vardebukta Formation (Buchan et al. 1965) is the oldest lithostratigraphic unit of this rank in the Triassic sequence of Svalbard archipelago. The age Lower Triasic (Dienerian) follows conodonts (Birkenmajer and Trammer 1975).
 
 #### Spiti subdistrict, Himachal Pradesh, India
 > - **Age**: Dienerian, late Induan, Early Triassic
@@ -3023,6 +3023,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
