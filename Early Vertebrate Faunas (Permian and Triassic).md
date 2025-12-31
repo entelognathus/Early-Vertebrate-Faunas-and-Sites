@@ -1344,10 +1344,11 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 
 #### Upper Member, Guanling Formation, Luxi, Yunnan, China
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: *Acrodus* sp.
+> - **Taxa**: Actinopterygian: *Acrodus* sp.
+  marine reptile: *Honghesaurus longicaudalis*（长尾红河龙）
 > - **Locality and horizon**: Upper Member, Guanling Formation, Luxi, Yunnan, China
-> - **References**: Wen et al. (2023)
-> - **Comments**: Luoping Biota.
+> - **References**: Wen et al. (2023); Xu et al., 2022
+> - **Comments**: Luoping Biota horizon.
 
 #### Strelovec Formation, Slovenia
 > - **Age**: Pelsonian, late Middle Anisian.
@@ -3035,6 +3036,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
