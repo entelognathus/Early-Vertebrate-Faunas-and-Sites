@@ -802,12 +802,12 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 #### Usili Formation, Ruhuhu Basin, Tanzania
-> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
+> - **Age**: Wuchiapingian, Lopingian, Permian
 > - **Taxa**: 
 >> - Temnospondyli: *Peltobatrachus pustulatus*.
 >> - Reptilia: *Anthodon serrarius*, *Pareiasaurus serridens*.
 >> - Therapsida: *Daptocephalus huenei*, *Dicynodon angielczyki*, *Mdomowabata trilobops*, *Dicynodontoides kubwa*, *Katumbia parringtoni*, *Kawingasaurus fossilis*, *Ruhuhucerberus terror*, *Titanogorgon* sp., *Procynosuchus delaharpeae*.
-> - **Locality and horizon**: Tetrapods occur at multiple stratigraphic horizons (Angielczyk et al., 2014a). A significant assemblage is concentrated in a conglomeratic unit at the base of the formation, interpreted as mass flow deposits on an alluvial fan (Sidor et al., 2010; Peecook et al., 2025).Specific localities include Z10, approx. 4 km west of Litumba Ndyosi (Songea District, Ruvuma Province) (Sidor et al., 2010)
+> - **Locality and horizon**: Usili Formation (formerly Kawinga Formation), Songea Group, Ruhuhu Basin, Tanzania.Tetrapods occur at multiple stratigraphic horizons (Angielczyk et al., 2014a). A significant assemblage is concentrated in a conglomeratic unit at the base of the formation, interpreted as mass flow deposits on an alluvial fan (Sidor et al., 2010; Peecook et al., 2025).Specific localities include Z10, approx. 4 km west of Litumba Ndyosi (Songea District, Ruvuma Province) (Sidor et al., 2010)
 > - **References**: Angielczyk & Otoo, 2025; Angielczyk et al., 2014a; Kammerer, 2019; Peecook et al., 2025; Shipps et al., 2025; Sidor et al., 2010
 > - **Comments**:
 
@@ -3085,6 +3085,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
