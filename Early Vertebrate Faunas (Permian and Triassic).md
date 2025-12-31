@@ -1057,6 +1057,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Romano et al., 2019
 > - **Comments**
 
+####  Daye Formation (middle unite), Gujiao, Guiyang
+> - **Age**: Late Dinerian, Early Triassic
+> - **Taxa**:
+>> - Chondrichthyes: Hybodontiformes 
+>> - Actinopterygii: Errolichthys; Teffichthys; Watsonulus; Polzbergiiformes indet.; Boreosomus; 
+>> - Sarcopterygii: Coelacanthiformes indet A.
+>> - Decopoda and Cyclida
+> - **Locality and horizon**: Daye Formation (middle unite), Late Dinerian, Early Triassic
+> - **References**: Dai et al., 2023; Yuan et al., 2022
+> - **Comments**: Guiyang Biota
+
 ### Olenekian（奥伦尼克期）, Early Triassic
 #### Luolou Formation（罗楼组）, Zhebao region, Baise City, Guangxi, China
 > - **Age**: Olenekian, Early Triassic.
@@ -1085,8 +1096,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Fourth Member, Daye Formation（大冶组）, Huangsi, Hubei, China
 > - **Age**: Smithian, early Olenekian, Early Triassic.
-> - **Taxa**:
->> - Tetrapoda: 
+> - **Taxa**: *Plesioperleidus dayeensis*
 > - **Locality and horizon**: 
 > - **References**:(Su and Li, 1983)
 > - **Comments**:
@@ -1178,9 +1188,11 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Thaynes Group, Paris biota, Bear Lake County, southeatern Idaho, western United States
 > - **Age**: Spathian, late Olenekian, Early Triassic
-> - **Taxa**: Osteichthyans, Chondrichthyans (*Acrodus* sp., Hybodontiformes gen. et sp. indet) , Belemnoid arm hooks, arthropods, Foraminifers,Gastropods, Brachiopods, Bivalves, Ammonoids, Coiled nautiloids, Orthoconic nautiloids, Gladius-bearing coleoids, Echinoderms, Sponges
+> - **Taxa**: Actinopterygian:Actinistia indet(PIMUZ A/I 3901); Saurichthys cf. elongatus, Bobasatrania sp.; Actinopterygii indet.(PIMUZ A/I 3902)
+      Chondrichthyans: *Acrodus* sp., Hybodontiformes gen. et sp. indet, *Pyknotylacanthus spathianus*
+      Belemnoid arm hooks, arthropods, Foraminifers,Gastropods, Brachiopods, Bivalves, Ammonoids, Coiled nautiloids, Orthoconic nautiloids, Gladius-bearing coleoids, Echinoderms, Sponges
 > - **Locality and horizon**: Thaynes Group, Paris biota, Bear Lake Area, southeatern Idaho, westerb United States, Spathian
-> - **References**: Brayard et al., 2017; Romano et al., 2019; Smith et al., 2022; 
+> - **References**: Mutter, 2005; Brayard et al., 2017; Romano et al., 2012, 2019; Smith et al., 2022; 
 > - **Comments**:
 
 #### northeast Nevada
@@ -3038,6 +3050,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
