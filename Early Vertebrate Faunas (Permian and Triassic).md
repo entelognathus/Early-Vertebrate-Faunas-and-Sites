@@ -504,7 +504,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Kamyshla Beds, Kazanian (Roadian), Sentyak locality (S5/6-8), Tatarstan, Russia
 > - **Age**: Roadian, Guadalupian, Permian.
-> - **Taxa**: Platysomus biarmicus Eichwald 1857, Alilepis esini A. Minich 2006
+> - **Taxa**: *Platysomus biarmicus* Eichwald 1857, *Alilepis esini* Minich 2006
 > - **Locality and horizon**: Kamyshla Beds, Kazanian (Roadian), Sentyak locality (S5/6-8), Tatarstan, Russia.
 > - **References**: Ivanov et al., 2021
 > - **Comments**: MINIKH, A. V., and MINIKH, M. G., 2006. Tip Chordata [Phylum Chordata]: 180-186. In: Grunt, T. A., Ed., Verkhnyaya perm poluostrova Kanin [Upper Permian of the Kanin Peninsula]. Moscow, Nauka, 213 pp. (In Russian)
@@ -3038,6 +3038,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
