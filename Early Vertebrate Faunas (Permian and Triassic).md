@@ -1350,9 +1350,11 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > - **References**: Wen et al. (2023); Xu et al., 2022
 > - **Comments**: Luoping Biota horizon.
 
-#### Strelovec Formation, Slovenia
+#### Strelovška Formation, Slovenia
 > - **Age**: Pelsonian, late Middle Anisian.
-> - **Taxa**: Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians. 
+> - **Taxa**: Actinopterygians: Eosemionotus, Habroichthys, Peltopleurus, Placopleurus, Marcopoloichthys, Perleidus, possibly Colobodus, and other actinopterygians.
+    Marine reptiles: Pachiypleurosauria, Placodontia, ichthyosauria
+    Anthropods: Limulidae, Decapoda, Thylacocephla
 > - **Locality and horizon**:
 > - **References**: (Hitij et al., 2010; Tintori et al., 2014a; Tintori et al., 2016)
 > - **Comments**: Romano (2021): The Strelovec Formation has been treated as Pelsonian by several paleoichthyologists, and I provisionally follow this interpretation here; however, note that Miklavc et al. (2016) consider this formation as Illyrian aged because index fossils supporting a Pelsonian age are lacking.
@@ -3036,6 +3038,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
