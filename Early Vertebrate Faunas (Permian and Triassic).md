@@ -1313,6 +1313,8 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:巴东组二段以陆相为主，产出芙蓉龙以及远安鲵。Lotosaurus-Yuanansuchus？
 
+
+
 ### Aegean（爱琴亚期）, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
 Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
@@ -1387,11 +1389,21 @@ Antczak, M., Ruciński, M. R., Stachacz, M., Matysik, M. & Król, J. J., 2020. D
 the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologorum Poloniae, 90: xxx–xxx.
 > - **Comments**: 
 
-
 ### Illyrian（伊里尔亚期）, Late Anisian
-Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
+#### Upper Muschelkalk, Moersdorf, Grand Duchy, Luxembourg
+> - **Age**: Late Anisian, Middle Triassic
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
 
-The famous collecting area ofMonte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrianâ€ “Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisianâ€“Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database).  The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
+#### Besano Formation, Monte San Giorgio, Switzerland and Italy
+> - **Age**: Late Anisian, Middle Triassic
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Romano (2021): The famous collecting area of Monte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrian-Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisian-Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database). The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
+> - The vertebrates of Monte San Giorgio originate in six main horizons, the oldest and most productive being the Besano Formation (latest Anisian–earliest Ladinian) with further material from the Meride Limestone (Cava inferiore, Cava superiore, Cassina and Sceltrich beds, and Kalkschieferzone; Early to Late Ladinian). 
 
 ### Ladinian（拉丁期）, Middle Triassic
 #### Tongchuan Formation（铜川组）， North China
@@ -3048,6 +3060,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
