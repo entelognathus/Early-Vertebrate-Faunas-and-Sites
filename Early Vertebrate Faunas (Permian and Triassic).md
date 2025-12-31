@@ -1309,9 +1309,16 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 #### Member 2, Badong Formation（巴东组）， South China
 > - **Age**: Anisian, Middle Triassic
 > - **Taxa**:
-> - **Locality and horizon**:
+> - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:巴东组二段以陆相为主，产出芙蓉龙以及远安鲵。Lotosaurus-Yuanansuchus？
+
+#### Lower Muschelkalk, Winterswijk, The Netherlands
+ - **Age**: middle Anisian, Middle Triassic
+> - **Taxa**:
+> - **Locality and horizon**: Vossenveld Formation, 
+> - **References**:
+> - **Comments**:
 
 ### Aegean（爱琴亚期）, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
@@ -3069,6 +3076,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
