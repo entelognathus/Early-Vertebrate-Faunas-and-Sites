@@ -1313,8 +1313,6 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:巴东组二段以陆相为主，产出芙蓉龙以及远安鲵。Lotosaurus-Yuanansuchus？
 
-
-
 ### Aegean（爱琴亚期）, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
 Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
@@ -1397,8 +1395,8 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **References**:
 > - **Comments**: Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
 
-#### Besano Formation, Monte San Giorgio, Switzerland and Italy
-> - **Age**: Late Anisian, Middle Triassic
+#### Lower part of Besano Formation, Monte San Giorgio, Switzerland and Italy
+> - **Age**: Late Anisian, Middle Triassic.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
@@ -1408,35 +1406,46 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 ### Ladinian（拉丁期）, Middle Triassic
 #### Tongchuan Formation（铜川组）， North China
 > - **Age**: Ladinian, Middle Triassic
-> - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 #### Karamay Formation（克拉玛依组）， Xinjiang, China
-> - **Age**: Ladinian, Middle Triassic
-> - **Age**:
+> - **Age**: Ladinian, Middle Triassic.
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
 
 ### Fassanian, Early Ladinian
-> Romano (2021): Identifiable remains of bony fishes from the Fassanian, the first substage of the Ladinian, are known from Europe (Switzerland, Italy, and Germany).
-> Early Ladinian bony fishes are known from the Prosanto Formation in southeast Switzerland (GraubÃ¼nden). This formation has produced fossils of the actinopterygians
-> Archaeosemionotus, Besania, Colobodus, Ctenognathichthys,Ducanichthys, Eoeugnathus, Eosemionotus, Habroichthys, ?Legnonotus, Ophiopsis, Peltoperleidus, Peltopleurus, Placopleurus, Prohalecites, Saurichthys, and Stoppania (BÃ¼rgin et al., 1991; BÃ¼rgin and Herzog 2002; Herzog 2003; Herzog and BÃ¼rgin 2005; Lombardo et al., 2008), as well as of the actinistians *Foreyia* and *Ticinepomis* (Cavin et al., 2013; Cavin et al., 2017).
-> In the classic collecting site Monte San Giorgio and Besano (Swiss-Italian borderland), several layers produce osteichthyan fossils of Fassanian age. These are restricted to the upper portion of the Besano Formation as well the lower part of the Meride Limestone (Cava inferiore, Cava superiore; Stockar 2010).
-> The following taxa were recovered from the Fassanian aged beds of the Besano Formation:
-> Altisolepis, Archaeosemionotus, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, Luganoia, Meridensia, Nannolepis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis (though nearly all specimens are from Illyrian beds), Saurichthys, Stoppania (â€œDipteronotusâ€?; see Lombardo et al., 2008), Ticinocolobodus, and Ticinolepis (e.g. Dames 1888; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; Maxwell et al., 2015; LÃ³pez-Arbarello et al., 2016, LÃ³pez-Arbarello et al., 2019; PIMUZ collection database).
-> From Cava inferiore and Cava superiore, the following taxa are known: Ctenognathichthys, Eosemionotus, Habroichthys, Placopleurus, Saurichthys, and Ticinolepis (e.g. Stockar et al., 2012; Tintori 2013; LÃ³pez-Arbarello et al., 2016, LÃ³pez-Arbarello et al., 2019; PIMUZ collection database).
-> Additional occurrences of Fassanian bony fishes are known from the Southern Alps of northern Italy. From the Perledo area, the following taxa have been documented Archaeosemionotus, Ctenognathichthys, Habroichthys, Heptanema, Placopleurus, Saurichthys, and Stoppania. (see e.g. Tintori 2013; LÃ³pez-Arbarello et al., 2014; Renesto and Stockar 2018).
-> From the uppermost Muschelkalk of Germany, specimens of the actinistians Garnbergia (Martin and Wenz 1984) and Hainbergia (Schweizer 1966), as well as the actinopterygian Gyrolepis (Stolley 1920; Plesker 1995) have been collected.
-> The taxonomic composition of Fassanian localities in Germany, Switzerland and Italy is relatively similar at the genus level due to either the close paleogeographic proximity of the sites or due to seaway connections at the time of deposition (Schultze and Kriwet 1999).
->  Several of the genera listed above can also be found in Pelsonian (Upper Member of the Guanling Formation) and Longobardian (Zhuganpo Formation; Sun et al., 2016a) deposits in South China, suggesting that these taxa had a widespread distribution in the Tethys since at least the late Middle Anisian.
+#### Upper part of Besano Formation and Lower part of Meride Limestone (Cava inferiore, Cava superiore), Monte San Giorgio, Switzerland and Italy
+> - **Age**: Fassanian, Early Ladinian, Middle Triassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Romano (2021): In the classic collecting site Monte San Giorgio and Besano (Swiss-Italian borderland), several layers produce osteichthyan fossils of Fassanian age. These are restricted to the upper portion of the Besano Formation as well the lower part of the Meride Limestone (Cava inferiore, Cava superiore; Stockar 2010).
+> - The following taxa were recovered from the Fassanian aged beds of the Besano Formation: Altisolepis, Archaeosemionotus, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, Luganoia, Meridensia, Nannolepis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis (though nearly all specimens are from Illyrian beds), Saurichthys, Stoppania (â€œDipteronotusâ€?; see Lombardo et al., 2008), Ticinocolobodus, and Ticinolepis (e.g. Dames 1888; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; Maxwell et al., 2015; LÃ³pez-Arbarello et al., 2016, LÃ³pez-Arbarello et al., 2019; PIMUZ collection database).
+> - From Cava inferiore and Cava superiore, the following taxa are known: Ctenognathichthys, Eosemionotus, Habroichthys, Placopleurus, Saurichthys, and Ticinolepis (e.g. Stockar et al., 2012; Tintori 2013; LÃ³pez-Arbarello et al., 2016, LÃ³pez-Arbarello et al., 2019; PIMUZ collection database).
+
+#### Prosanto Formation, southeast Switzerland
+ - **Age**: Fassanian, Early Ladinian, Middle Triassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Romano (2021): Early Ladinian bony fishes are known from the Prosanto Formation in southeast Switzerland (GraubÃ¼nden). This formation has produced fossils of the actinopterygians
+> - Archaeosemionotus, Besania, Colobodus, Ctenognathichthys,Ducanichthys, Eoeugnathus, Eosemionotus, Habroichthys, ?Legnonotus, Ophiopsis, Peltoperleidus, Peltopleurus, Placopleurus, Prohalecites, Saurichthys, and Stoppania (BÃ¼rgin et al., 1991; BÃ¼rgin and Herzog 2002; Herzog 2003; Herzog and BÃ¼rgin 2005; Lombardo et al., 2008), as well as of the actinistians *Foreyia* and *Ticinepomis* (Cavin et al., 2013; Cavin et al., 2017).
+
+> - Additional occurrences of Fassanian bony fishes are known from the Southern Alps of northern Italy. From the Perledo area, the following taxa have been documented Archaeosemionotus, Ctenognathichthys, Habroichthys, Heptanema, Placopleurus, Saurichthys, and Stoppania. (see e.g. Tintori 2013; LÃ³pez-Arbarello et al., 2014; Renesto and Stockar 2018).
+> - From the uppermost Muschelkalk of Germany, specimens of the actinistians Garnbergia (Martin and Wenz 1984) and Hainbergia (Schweizer 1966), as well as the actinopterygian Gyrolepis (Stolley 1920; Plesker 1995) have been collected.
 
 ### Longobardian, Late Ladinian
-Romano (2021):
+#### Upper part of Meride Limestone (Cassina and Sceltrich beds, and Kalkschieferzone), Monte San Giorgio, Switzerland and Italy
+ - **Age**: Late Ladinian, Middle Triassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Romano (2021):
 
 #### Yangliujing Formation, Guanling, Guizhou, China
 > - **Age**: late Anisian–Ladinian, Middle Triassic
@@ -3060,6 +3069,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
