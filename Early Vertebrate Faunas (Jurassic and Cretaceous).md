@@ -144,7 +144,8 @@
 > - **Taxa**: acipenseriform fish (Acipenseridae) (Vavrek et al., 2014); elasmobranchs (Cook et al., 2008): the hybodontiform shark _Hybodus_ (Hybodontidae), the lamniform sharks _Squalicorax_ (Anacoracidae), _Johnlongia parvidens_ (Odontaspididae), _Cretodus semiplicatus_, _Cretoxyrhina_ cf. _C. Mantelli_, _Dallasiella willistoni_, _Archaeolamma_ cf. _A. kopingensis_, and _Protolamma carteri_ (all Cretoxyrhinidae), the rhinobatoid skate _Pseudohypolophus mcnultyi_ (Rajiformes); osteichthyan: ellimmichthyiform _Tycheroichthys dunveganensis_ (Hay et al., 2007);
 > - **Locality and horizon**: Dunvegan Formation, along the Peace River, northwestern Alberta, Canada
 > - **References**: Vavrek et al., 2014
-> - **Comments**: 
+> - **Comments**:
+
 **Gebel Dist Member, Bahariya Formation, Gebel Dist, Bahariya Oasis, Egypt**
 > - **Age**: late Cenomanian
 > - **Taxa**:
@@ -171,6 +172,7 @@
 > - **Locality and horizon**: upper part of the Umm Ghudran Formation, Wadi Falqa, Karak City, Jordan
 > - **References**: (Mustafa, 2000; Mustafa et al., 2002)
 > - **Comments**: 
+
 ### Campanian
 **Mesaverde Formation, Washakie County, Wyoming, USA**
 > - **Age**: late Campanian.
@@ -178,18 +180,21 @@
 > - **Locality and horizon**: Mesaverde Formation, Broom Draw Quad (PARRIS-LAMBERT site: NW 1/4 Sec. 12, T47N, R91W; Site 1: Center Sec. 2, T48N, R91W; Site 2: SE 1/4 Sec. 35, T48N, R91W; Site 2: 30: NW 1/4 Sec. 35, T48N, R91W; Site 3: SE 1/4 Sec. 27, T48N, R91W); McDermott's Butte Quad(Site 8: Lower center Sec. 16, T48N, R91W; Site 8: 30: Center Sec, 16, T48N, R91W; site 9: Center Sec. 9, T48N, R91W; Site 10: SE 1/4 Sec. 32, T49N, R91W (Big Horn County), Wyoming, USA.
 > - **References**: (Case, 1987)
 > - **Comments**: 
+
 **Trinidad sandstone, Raton, New Mexico, USA**
 > - **Age**: Campanian
 > - **Taxa**:*Chimaerotheca newmexicana*, **,
 > - **Locality and horizon**: Trinidad sandstone, near Raton, New Mexico, USA
 > - **References**:(Brown, 1946)
-> - **Comments**: 
+> - **Comments**:
+
 **Lower shale member,  Aguja Formation,  Lowerverse locality (LV) near Big Bend National Park, West Texas, USA**
 > - **Age**: early Campanian
 > - **Taxa**: characiform fishes (Otophysi: Characiformes:*Eotexachara malateres*, *Primuluchara laramidensis*,
 > - **Locality and horizon**: Lower shale member,  Aguja Formation,  Lowerverse locality (LV) near Big Bend National Park, West Texas, USA
 > - **References**: (Wick, 2021)
 > - **Comments**:
+
 **Rattlesnake Mountain sandstone member,  Aguja Formation,  Ten Bits Microsite (XB) west of Big Bend National Park, West Texas, USA**
 > - **Age**: middle Campanian
 > - **Taxa**: chondrichthyans: *Meristodon sp.*, *Lonchidion selachos*, *Cantioscyllium aff. C. meyeri*, *Chiloscyllium aff. C. greeni*, *Squatina sp.*, *Columbusia sp.*Serratolamna cf. S. caraibaea*, *Cretalamna cf. C. sarcoportheta*, *Squalicorax kaupi*, *Squalicorax aff. S. yangaensis*, *Squalicorax aff. S. lindstromi*, *Scapanorhynchus texanus*, *‘Rhinobatos’ sp.*, *Protoplatyrhina renae*, *Ischyrhiza cf. I. avonicola*, *Ischyrhiza mira*, *Ptychotrygon agujaensis*, *Ptychotrygon triangularis*, *Ptychotrygon aff. P. cuspidata*, *Ptychotrygon sp*, *Texatrygon cf. T. copei*, *Rhombodus levis*, *Brachyrhizodus wichitaensis*, *Igdabatis cf. I. indicus*,
@@ -197,25 +202,29 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 > - **Locality and horizon**: Lower shale member,  Aguja Formation,  Ten Bits Microsite (XB) west of Big Bend National Park, West Texas, USA
 > - **References**: (Schubert et al., 2017)
 > - **Comments**: 
+
 **Trinidad sandstone, Koehler, New Mexico, USA**
 > - **Age**: Campanian
 > - **Taxa**:*Chimaerotheca newmexicana*, **,
 > - **Locality and horizon**: Trinidad sandstone, Crow Creek Canyon, 1 mile northwest of Koehler, New Mexico, USA
 > - **References**:(Brown, 1946)
 > - **Comments**: 
+
 **Basal sandstone, Mesaverde Formation, Laramie, Wyoming, USA**
 > - **Age**: Campanian
 > - **Taxa**:*Chimaerotheca wyomingana*, **,
 > - **Locality and horizon**:Basal sandstone, Mesaverde Formation,  20 miles west of Laramie, Wyoming, USA
 > - **References**:(Brown, 1946)
 > - **Comments**: 
+
 **Umman Formation, Wadi Falqa, Karak City, Jordan**
 > - **Age**: Coniacian
 > - **Taxa**: Chondrichthyans: 
 > - **Locality and horizon**: Umman Formation, Wadi Falqa, Karak City, Jordan
 > - **References**: (Mustafa et al., 2002)
 > - **Comments**:
-#### Woodbury Formation, Stone Bridge, southern New Jersey 
+
+**Woodbury Formation, Stone Bridge, southern New Jersey**
 > - **Age**: early-middle Campanian
 > - **Taxa**: Eupercaria: (*Pempheris huddlestoni*, *Percoidei*)
 > - **Locality and horizon**: Stone Bridge, southern New Jersey
@@ -229,37 +238,43 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 > - **Locality and horizon**: Amman Formation, early Maastrichtian, Esh-Shidiya Mine, Jordan
 > - **References**: (Zalmout and Mustafa, 2001)
 > - **Comments**: 
-**Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA.
+
+**Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA.**
 > - **Age**: Maastrichtian
 > - **Taxa**: *Chimaerotheca montanana*
 > - **Locality and horizon**: Horsethief Sandstone, Montana Group, Holy Family Mission on Two Medicine River, Montana, USA
 > - **References**: (Brown, 1946)
 > - **Comments**: 
+
 **Hakobuchi Formation, Yezo Group, Hokkaido, Japan**
 > - **Age**: Maastrichtian
 > - **Taxa**: Acipenseridae gen. et sp. indet (Miyata et al., 2025); callorhinchid holocephalans _Callorhinchus orientalis_ (Ota et al., 2025); the mosasaurid squamates _Mosasaurus hobetsuensis_ (Suzuki, 1985), _Phosphorosaurus ponpetelegans_ (Konishi et al., 2016); cheloninoid turtle _Mesodermochelys undulatus_ (Hirayama & Chitoku, 2016); hadrosaurid dinosaur _Kamuysaurus japonicus_ (Kobayashi et al., 2019)
 > - **Locality and horizon**: Hakobuchi Formation, Yezo Group, Hokkaido, Japan
 > - **References**: Miyata et al., 2025
 > - **Comments**: Miyata et al., 2025: On the basis of these marine and terrestrial vertebrate assemblages, the Hakobuchi Formation in the Hobetsu area is considered crucial for understanding the vertebrate fauna that developed in the marine and coastal nonmarine environments in East Asia during the Late Cretaceous.
+
 **Moreno shale/Formation, San Joaquin Valley, California, USA**
 > - **Age**: Maastrichtian
 > - **Taxa**: *Corax sp.*
 > - **Locality and horizon**: Moreno shale/Formation, San Joaquin Valley, California, USA
 > - **References**:(David, 1946)
 > - **Comments**: 
+
 **Lopez de Bertodano Formation, Seymour Island, Antarctica**
 > - **Age**: Maastrichtian
 > - **Taxa**:*Elasmodectes zangerli*
 > - **Locality and horizon**: Lopez de Bertodano Formation, Seymour Island, Antarctica
 > - **References**:(Kriwet, 1999)
 > - **Comments**: 
-#### Severn Formation, Maryland, USA
+
+**Severn Formation, Maryland, USA**
 > - **Age**: Late Maastrichtian
 > - **Taxa**: Eupercaria: (*Pempheris huddlestoni*)
 > - **Locality and horizon**: Maryland, USA
 > - **References**: (Stringer, 2021)
 > - **Comments**: 
-#### Maastricht Formation, ENCI Horizon, former ENCI-HeidelbergCement Group quarry, Netherlands, Belgium
+
+**Maastricht Formation, ENCI Horizon, former ENCI-HeidelbergCement Group quarry, Netherlands, Belgium**
 > - **Age**: Maastrichtian
 > - **Taxa**: Eupercaria: (*Plesiopoma otiosa*, *Cretaserranus maastrichtensis*, *Sparidae indet.*, *Plesiopoma otiose*)
 > - **Locality and horizon**: ENCI Horizon (Gronsveld Member) at the former ENCI-HeidelbergCement Group quarry, Netherlands, Belgium
@@ -293,6 +308,7 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
