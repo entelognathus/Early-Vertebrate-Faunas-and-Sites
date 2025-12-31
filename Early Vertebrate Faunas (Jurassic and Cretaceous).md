@@ -77,14 +77,14 @@
 > - **References**:(Goto, 1994; Yabe, 1902)
 > - **Comments**:
 
-> - #### Kimmeridge Clay Formation, England, Weymouth, UK**
+#### Kimmeridge Clay Formation, England, Weymouth, UK**
 > - **Age**: Kimmeridgian
 > - **Taxa**:*Brachymylus minor*
 > - **Locality and horizon**:Kimmeridge Clay Formation, England, Weymouth, UK
 > - **References**:(Woodward, 1892)
 > - **Comments**:
 
-> - #### Cap de la Hève Kimmeridgian Fauna, France**
+#### Cap de la Hève Kimmeridgian Fauna, France**
 > - **Age**: Kimmeridgian
 > - **Taxa**:*Asteracanthus lepidus*
 > - **Locality and horizon**: Cap de la Hève Kimmeridgian Fauna, France
@@ -323,6 +323,7 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
