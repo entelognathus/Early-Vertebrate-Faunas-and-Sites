@@ -1085,15 +1085,12 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Daye Formation（大冶组）,Gujiao, Guiyang, Guizhou, China
 > - **Age**: Late Dienerian, Early Triassic.
-> - **Taxa**: Actinopterygian:
-      Chondrichthyans:
-      Decapoda:
-      
-
-> - **Locality and horizon**: 
+> - **Taxa**: Actinopterygian: *Errolichthys* sp., *Teffichthys elegans*, *Watsonulus* sp., Polzbergiiformes, *Boreosomus* sp., 
+      Chondrichthyans: Hybodontiformes indet.     
+> - **Locality and horizon**: Daye Formation（大冶组）,Gujiao, Late Dienerian
 > - **References**: Dai et al., 2023; Yuan et al., 2022
 > - **Comments**:
-> - 
+
 
 #### Fourth Member, Daye Formation（大冶组）, Huangsi, Hubei, China
 > - **Age**: Smithian, early Olenekian, Early Triassic.
@@ -3052,6 +3049,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
