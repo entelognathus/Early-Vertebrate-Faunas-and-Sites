@@ -1284,7 +1284,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Taxa**: Neoselachian shark tooth：?*Palaeospinax* sp.  
 > - **Locality and horizon**: W Turkey, Middle Scythian, *cristagalli*-zone, Early Triassic
 > - **References**: Thies, D. 1982. A eoselachian shark tooth from the lower Triassic of the Kocaeli (=Bithynian) Peninsula, W Turkey. N.Jb. Geol. Palaont. Mh.5:272-278.
-> - **Comments**: Permian and Triassic vertebrates from Turkey are poorly known.From the Middle-Late Permian actinopterygians and tetrapod footprints are known(Gandetal.2011;HHoşgöretal.,submitted) whereas chondrichthyes are known from the Lower Triassic (Thies,1982) and phytosaurs from the Late Triassic (Buffetautetal.1988).
+> - **Comments**: Permian and Triassic vertebrates from Turkey are poorly known.From the Middle-Late Permian actinopterygians and tetrapod footprints are known(Gandetal.2011;HHoşgöretal.,submitted) whereas chondrichthyes are known from the Lower Triassic (Thies, 1982) and phytosaurs from the Late Triassic (Buffetaut et al., 1988).
 
 ## MIDDLE Triassic: 
 ### Anisian（安尼期）, Middle Triassic
@@ -1306,7 +1306,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 ### Aegean（爱琴亚期）, Early Anisian
 Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
 Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
-*Dorsolepis* and *Pericentrophorus* are probably endemic. These taxa are grouped in the â€œTriassic Middle Fish Faunaâ€? (TMFF; Tintori et al., 2014a). Although an Early Anisian age was assumed based on index fossils (Gall and Grauvogel-Stamm 2005), Werneburg et al. (2014) questioned this age assignment and suggested that they were younger (Bithynian or Pelsonian).
+*Dorsolepis* and *Pericentrophorus* are probably endemic. These taxa are grouped in the 'Triassic Middle Fish Fauna' (TMFF; Tintori et al., 2014a). Although an Early Anisian age was assumed based on index fossils (Gall and Grauvogel-Stamm 2005), Werneburg et al. (2014) questioned this age assignment and suggested that they were younger (Bithynian or Pelsonian).
 
 ### Bithynian, early Middle Anisian
 Romano (2021): The Bithynian record of bony fishes is poor and restricted to a few occurrences in the United States, the Netherlands, Germany, and possibly Slovenia.
@@ -3038,6 +3038,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 Štamberg, S., & Werneburg, R. (2023). New genus and species of the family Aeduellidae (Actinopterygii) from the Lower Goldlauter Formation (Asselian, Lower Permian) of the Thuringian Forest (Germany). Fossil Imprint, 79(2), 144–151. https://doi.org/10.37520/fi.2023.008
 
 Žigaitė, Ž, and Blieck, A. (2013). ˇ “Palaeobiogeography of early Palaeozoic vertebrates,” in Early Palaeozoic biogeography and palaeogeography. Editors D. A .T. Harper and T. Servais (London: Geological Society Memoirs), 38, 449–460
+
 
 
 
