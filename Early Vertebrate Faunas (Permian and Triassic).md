@@ -976,12 +976,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: 
 
 ### Griesbachian（格里斯巴赫亚期）, Induan, Early Triassic
-#### Katberg Formation, South Africa
+#### Katberg Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Griesbachian, early Induan, Early Triassic.
 > - **Taxa**:
-> - **Locality and horizon**:
+> - **Locality and horizon**: Katberg Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **References**:
-> - **Comments** Lystrosaurus Assemblage Zone
+> - **Comments** Lystrosaurus Assemblage Zone. https://en.wikipedia.org/wiki/Lystrosaurus_Assemblage_Zone
+> - The Lystrosaurus Assemblage Zone dates to approximately 251 to 249 Ma, and correlates with the Kopanskaya and Staritskaya Formations of Russia, and with the Jiucaiyuan Formation of China, the Knocklofty and Arcadia Formations of Australia, the Buena Vista Formation of the Paraná Basin, South America, and the Panchet Formation of India.
 
 #### Upper Member, Yinkeng Formation（殷坑组）, Meishan, Changxing, Zhejiang, China
 > - **Age**: Griesbachian, early Induan, Early Triassic.
@@ -1143,14 +1144,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Schaeffer and Mangus 1976; Neuman and Mutter 2005; Wendruff and Wilson 2012; Wendruff and Wilson 2013; Neuman 2015. Orchard & Zonneveld, 2009; Neuman, 2015; Wendruff & Wilson, 2012; Mutter & Neuman, 2006; Cuthbertson et al., 2013; Nicholls & Brinkman, 1993.
 > - **Comments**: Additional occurrences are known from the Canadian Arctic (Ellesmere Island, Nunavut; Schaeffer and Mangus 1976).
 
-#### Burgersdorp Formation (Cynognathus Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
-> - **Age**: Smithian, early Olenekian, Early Triassic.
-> - **Taxa**:
->> - Chondrichthyans: *Lissodus tumidoclavus*
-> - **Locality and horizon**: Burgersdorp Formation (*Cynognathus* Assemblage Zone), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa
-> - **References**: (Duffin, 2023)
-> - **Comments**: 
-
 ### Spathian（斯派司亚期）, late Olenekian, Early Triassic
 #### Nanlinghu Formation（南陵湖组）, Anhui, eastern China
 > - **Age**: Spathian, late Olenekian, Early Triassic.
@@ -1253,7 +1246,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**: Both the Fedorovkian and Gamian gorizonts are dated as latest Early Triassic (late Olenekian) in age, based on the occurrence of the index genus for the Yarengian (the temnospondyl Parotosuchus) in strata containing biostratigraphically informative ammonites and miospores. Yarengian Supergorizont. 
 
-#### Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
+#### Subzone A, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Olenekian, Late Early Triassic. 
 > - **Taxa**:
 >> - Chondrichthyans: *Lissodus tumidoclavus*; *Polyacrodus* sp.;
@@ -1261,14 +1254,14 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 >> - Sarcoptergygians: *Ptychoceratous phillipsi*;
 >> - Amphibian: *Bathignathus poikilops*;*Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*;*Parotosuchus haughtoni*; *Trematosuchus sobeyi*;
 >> - other Tetrapoda:*Cynognathus crateronotus*; *Langbergia modisei*；*Garjainia madiba*；*Palacrodon browni*；*Microgomphodon oligocynus*;
-> - **Locality and horizon**: outcrops on the farm Driefontein 11 in the Bethlehem District, Free State Province, South Africa; Olenekian, Late Early Triassic
-> - **References**:
-> - **Comments**: freshwater, The Karoo Basin of South Africa is one such record, and particularly the late Early Triassic (Olenekian) Driefontein locality fills this gap in the diapsid fossil record.
+> - **Locality and horizon**: Burgersdorp Formation (*Cynognathus* Assemblage Zone, Subzone A), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa. Outcrops on the farm Driefontein 11 in the Bethlehem District, Free State Province, South Africa; Olenekian, Late Early Triassic
+> - **References**: (Duffin, 2023)
+> - **Comments**: Freshwater, The Karoo Basin of South Africa is one such record, and particularly the late Early Triassic (Olenekian) Driefontein locality fills this gap in the diapsid fossil record.
 > - https://en.wikipedia.org/wiki/Cynognathus_Assemblage_Zone
 > - Based on tentative biostratigraphic correlations, the Cynognathus Assemblage Zone is considered to have been emplaced from approximately 249 to 244 Ma, in the later part of the Early Triassic and early part of the Middle Triassic.
-> - Subzone A: The Langbergia-Garjainia Subzone (Subzone A) is the oldest subzone in the Cynognathus Assemblage Zone. 
-> - Subzone B: The Trirachodon-Kannemeyeria Subzone (Subzone B) corresponds to traditional conceptions of the Cynognathus Assemblage Zone.
-> - Subzone C: The Cricodon-Ufudocyclops Subzone (Subzone C) is the youngest subzone, and has the most restricted exposures and fossil content.
+> - Subzone A: The Langbergia-Garjainia Subzone (Subzone A) is the oldest subzone in the Cynognathus Assemblage Zone. Olenekian.
+> - Subzone B: The Trirachodon-Kannemeyeria Subzone (Subzone B) corresponds to traditional conceptions of the Cynognathus Assemblage Zone. Early Anisian.
+> - Subzone C: The Cricodon-Ufudocyclops Subzone (Subzone C) is the youngest subzone, and has the most restricted exposures and fossil content. Late Anisian.
 
 #### Czatkowice quarry, Krakow Upland, Poland
 > - **Age**: Spathian, late Olenekian, Early Triassic.
@@ -1309,6 +1302,11 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Locality and horizon**: Vossenveld Formation, 
 > - **References**:
 > - **Comments**:
+
+#### Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
+> - **Age**: Anisian, Late Early Triassic. 
+> - **Taxa**:
+
 
 ### Aegean（爱琴亚期）, Early Anisian
 #### Moenkopi Formation, New Mexico, USA
@@ -3094,6 +3092,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
