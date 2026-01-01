@@ -1305,10 +1305,31 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 
 #### Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Anisian, Middle Triassic. 
-> - **Taxa**:
+> - **Taxa**: Atopocephala, Daedalichthys, Helichthys, 
 >> - Batrachosuchus browni, Jammerbergia formops, Laidleria gracilis, Microposaurus casei, Paracyclotosaurus morganorum, Vanastega plurimidens, Xenotosuchus africanus
 >> - Bolotridon frerensis, Cricodon metabolus, Cricodon kannemeyeri, Cynognathus crateronotus, Diademodon tetragonus, Guttigomphus avilionis, Impidens hancoxi, Lumkuia fuzzi, Kannemeyeria simocephalus, Kombuisia frerensis, Shansiodon sp., Ufudocyclops mukanelai, Bauria cynops, Microgomphodon oligocynus, Eohyosaurus wolvaardti, Erythrosuchus africanus, Euparkeria capensis, Howesia browni, Mesosuchus browni, Myocephalus crassidens, Palacrodon browni, Teratophon spinigenis, Theledectes perforatus, Thelephon contritus, Thelerpeton oppressus
 > - **Locality and horizon**: Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa.
+> - **References**:
+> - **Comments**:
+
+#### Madumabisa shales, Lumpsempfwa Valley, Zambia
+> - **Age**: Anisian, Middle Triassic. 
+> - **Taxa**:Ischnolepis
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+#### Cerro de Las Cabras Formation, Potrerillos, Mendoza Province, Argentina
+> - **Age**: Anisian, Middle Triassic. 
+> - **Taxa**: Calaichthys
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+#### Hawkensbury Sandstones, Brookvale, New South Wales, Australia
+> - **Age**: Anisian, Middle Triassic. 
+> - **Taxa**: Brookvalia, Molybdichthys, Phlyctaenichthys, Schizurichthys
+> - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
 
@@ -1474,8 +1495,7 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 >> - Keichousaurus hui Young, 1958 IVPP V 952; Guizhouichthyosaurus Yin et al. 2000; Xinpusaurus xingyiensis; Qianichthyosaurus xingyiensis Ji, Jiang and Motani,2013
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Dingxiao, Xinyi, Guizhou, China
 > - **References**: (Su, 1959)
-> - **Comments**: Xinyi Biota.
-> - 
+> - **Comments**: Xinyi Biota. 
 
 **Zhuganpo Member, Falang Formation, Wusha, Xinyi, Guizhou, China**
 > - **Age**: Longobardian, Late Ladinian.
@@ -1563,6 +1583,20 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **Locality and horizon**: Wayao Member, Falang Formation, Guanling, Guizhou, China
 > - **References**:
 > - **Comments**: Guanling Biota.
+
+#### Chinle Formation, Dockum Group, Texas, USA
+> - **Age**: Carnian, Late Triassic.
+> - **Taxa**: Cionichthys, Synorichthys, Lasalichthys, 
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**: 
+
+#### Newark Supergroup, Richmond, Virginia, USA
+> - **Age**: middle to late Carnian, Late Triassic.
+> - **Taxa**: Dictyopyge
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
 
 ### Norian（诺利期）, Late Triassic
 #### Formation/Member, Locality
@@ -3096,6 +3130,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
