@@ -1304,9 +1304,13 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Comments**:
 
 #### Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
-> - **Age**: Anisian, Late Early Triassic. 
+> - **Age**: Anisian, Middle Triassic. 
 > - **Taxa**:
-
+>> - Batrachosuchus browni, Jammerbergia formops, Laidleria gracilis, Microposaurus casei, Paracyclotosaurus morganorum, Vanastega plurimidens, Xenotosuchus africanus
+>> - Bolotridon frerensis, Cricodon metabolus, Cricodon kannemeyeri, Cynognathus crateronotus, Diademodon tetragonus, Guttigomphus avilionis, Impidens hancoxi, Lumkuia fuzzi, Kannemeyeria simocephalus, Kombuisia frerensis, Shansiodon sp., Ufudocyclops mukanelai, Bauria cynops, Microgomphodon oligocynus, Eohyosaurus wolvaardti, Erythrosuchus africanus, Euparkeria capensis, Howesia browni, Mesosuchus browni, Myocephalus crassidens, Palacrodon browni, Teratophon spinigenis, Theledectes perforatus, Thelephon contritus, Thelerpeton oppressus
+> - **Locality and horizon**: Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa.
+> - **References**:
+> - **Comments**:
 
 ### Aegean（爱琴亚期）, Early Anisian
 #### Moenkopi Formation, New Mexico, USA
@@ -3092,6 +3096,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
