@@ -1252,8 +1252,8 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 >> - Chondrichthyans: *Lissodus tumidoclavus*; *Polyacrodus* sp.;
 >> - Actinopterygians: *Saurichththys*sp.,
 >> - Sarcoptergygians: *Ptychoceratous phillipsi*;
->> - Amphibian: *Bathignathus poikilops*;*Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*;*Parotosuchus haughtoni*; *Trematosuchus sobeyi*;
->> - other Tetrapoda:*Cynognathus crateronotus*; *Langbergia modisei*；*Garjainia madiba*；*Palacrodon browni*；*Microgomphodon oligocynus*;
+>> - Amphibians: *Bathignathus poikilops*, *Kestrosaurus dreyeri*; *Kestrosaurus kitchingi*; *Parotosuchus haughtoni*; *Trematosuchus sobeyi*;
+>> - other Tetrapoda: *Langbergia modisei*；*Garjainia madiba*；*Cynognathus crateronotus*; *Palacrodon browni*；*Microgomphodon oligocynus*;
 > - **Locality and horizon**: Burgersdorp Formation (*Cynognathus* Assemblage Zone, Subzone A), Tarkastad Subgroup, Beaufort Group, Farm Driefontein 11, Free State, South Africa. Outcrops on the farm Driefontein 11 in the Bethlehem District, Free State Province, South Africa; Olenekian, Late Early Triassic
 > - **References**: (Duffin, 2023)
 > - **Comments**: Freshwater, The Karoo Basin of South Africa is one such record, and particularly the late Early Triassic (Olenekian) Driefontein locality fills this gap in the diapsid fossil record.
@@ -3092,6 +3092,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
