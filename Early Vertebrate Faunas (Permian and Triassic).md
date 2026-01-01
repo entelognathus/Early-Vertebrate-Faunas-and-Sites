@@ -939,12 +939,12 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >
 > - The Beaufort Group is internationally renowned for its diverse fossil fauna, in particular for its therapsid fossils.[The entire expanse of this geological group has been categorized into seven fossil biozones or assemblage zones.These assemblage zones are listed below:
 >> - Cynognathus Assemblage Zone (Youngest) https://en.wikipedia.org/wiki/Cynognathus_Assemblage_Zone
->> - Lystrosaurus Assemblage Zone
->> - Daptocephalus Assemblage Zone
->> - Cistecephalus Assemblage Zone
->> - Endothiodon Assemblage Zone
->> - Tapinocephalus Assemblage Zone
->> - Eodicynodon Assemblage Zone (Oldest)
+>> - Lystrosaurus Assemblage Zone https://en.wikipedia.org/wiki/Lystrosaurus_Assemblage_Zone
+>> - Daptocephalus Assemblage Zone https://en.wikipedia.org/wiki/Daptocephalus_Assemblage_Zone The Daptocephalus Assemblage Zone dates to approximately 254.5 to 251 Ma, and correlates with the Kutuluksaya and Kulchomovskaya Formations of Russia, and with the lower Buena Vista Formation of the Paraná Basin, South America.
+>> - Cistecephalus Assemblage Zone https://en.wikipedia.org/wiki/Cistecephalus_Assemblage_Zone  An Endothiodon snout was discovered in the Rio do Rasto Formation in Brazil, and Cistecephalus fossils have been found in Madumabisa Mudstone in Zambia. Recently, a new cistecephalid dicynodont was discovered in the Kundaram Formation of the Pranhita-Godavari Valley in India. The zone also correlates with the Malokinelskaya and Vyazovskaya Formations of Russia.
+>> - Endothiodon Assemblage Zone https://en.wikipedia.org/wiki/Endothiodon_Assemblage_Zone It spans from the latest Capitanian age to the mid-Wuchiapingian age, crossing the boundary between the Guadalupian and Lopingian epochs near the end of the Permian period.
+>> - Tapinocephalus Assemblage Zone https://en.wikipedia.org/wiki/Tapinocephalus_Assemblage_Zone It correlates to the middle Abrahamskraal Formation, Adelaide Subgroup of the Beaufort Group, a fossiliferous and geologically important geological Group of the Karoo Supergroup in South Africa.
+>> - Eodicynodon Assemblage Zone (Oldest) https://en.wikipedia.org/wiki/Eodicynodon_Assemblage_Zone It correlates to the Abrahamskraal Formation, Adelaide Subgroup of the Beaufort Group, a fossiliferous and geologically important geological Group of the Karoo Supergroup in South Africa.
 >> - https://en.wikipedia.org/wiki/Beaufort_Group
 
 <img width="1302" height="927" alt="image" src="https://github.com/user-attachments/assets/fab92fba-4ff5-40ec-a531-75eeda623e8c" />
@@ -3092,6 +3092,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
