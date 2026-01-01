@@ -1584,12 +1584,29 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **References**:
 > - **Comments**: Guanling Biota.
 
-#### Chinle Formation, Dockum Group, Texas, USA
-> - **Age**: Carnian, Late Triassic.
-> - **Taxa**: Cionichthys, Synorichthys, Lasalichthys, 
-> - **Locality and horizon**: 
+#### Chinle Formation (Otischalkian and Adamanian), Dockum Group, Texas, USA
+> - **Age**: Late Carnian, Late Triassic.
+> - **Taxa**: Cionichthys, Synorichthys, Lasalichthys,
+> - Paleorhinus, Parasuchus, Smilosuchus, Leptosuchus
+> - **Locality and horizon**: Cameron, Mesa Redondo, Shinarump, Temple Mountain, Sonsela (in part), Blue Mesa ("Lower Petrified Forest"), Moss Back, Monitor Butte Members.
 > - **References**:
-> - **Comments**: 
+> - **Comments**: https://en.wikipedia.org/wiki/Chinle_Formation
+<img width="1961" height="1372" alt="image" src="https://github.com/user-attachments/assets/eb966923-4c95-4658-80f9-4a18c787acf7" />
+<img width="1958" height="1464" alt="image" src="https://github.com/user-attachments/assets/308c138c-51b3-4067-bb41-9a2cf5e15ea5" />
+
+#### Chinle Formation (Revueltian), Dockum Group, Texas, USA
+> - **Age**: early to middle Norian, Late Triassic.
+> - **Taxa**: 	Typothorax coccinarum, Machaeroprosopus
+> - **Locality and horizon**: Owl Rock (in part), Kane Springs Beds,Petrified Forest ("Upper Petrified Forest" / Painted Desert), Sonsela (in part) Members.
+> - **References**:
+> - **Comments**:
+
+#### Chinle Formation (Apachean), Dockum Group, Texas, USA
+> - **Age**: late Norian to Rhaetian, Late Triassic.
+> - **Taxa**: Redondasaurus
+> - **Locality and horizon**: Rock Point / Church Rock, "siltstone member", Owl Rock (in part) Members.
+> - **References**:
+> - **Comments**
 
 #### Newark Supergroup, Richmond, Virginia, USA
 > - **Age**: middle to late Carnian, Late Triassic.
@@ -3130,6 +3147,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
