@@ -1340,6 +1340,13 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:
 
+#### Fromuwu Formation, central Transantarctic Mountains, Antarctica
+> - **Age**: Anisian, Middle Triassic. 
+> - **Taxa**: 
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**
+
 ### Aegean（爱琴亚期）, Early Anisian
 #### Moenkopi Formation, New Mexico, USA
  - **Age**: early Anisian, Middle Triassic
@@ -1348,15 +1355,12 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:
 
-####  Röt Formation, Upper Buntsandstein, Germany 
+####  Röt Formation, Upper Buntsandstein, Germany and France
  - **Age**: early Anisian, Middle Triassic
-> - **Taxa**: Amotosaurus rotfeldensis
-> - **Locality and horizon**: Röt Formation, ‘Violet horizon 5’ of Ortlam (1967), Upper Buntsandstein, Germany
+> - **Taxa**: *Amotosaurus rotfeldensis*, 
+> - **Locality and horizon**: Röt Formation, ‘Violet horizon 5’ of Ortlam (1967), Upper Buntsandstein, near Durlach, Germany and Alsace, France.
 > - **References**:(Fraser & Rieppel, 2006).
-> - **Comments**:
-
-Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (GrÃ¨s Ã  Voltzia), and near Durlach, Baden-WÃ¼rttemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; JÃ¶rg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). 
-Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
+> - **Comments**: Romano (2021): Fossils were collected from the Upper Buntsandstein in Alsace, France (Grès à Voltzia)), and near Durlach, Baden-Württemberg, Germany, from where the following taxa have been described: *Dipteronotus* (*Praesemionotus*), *Dorsolepis*, *Pericentrophorus*, *Pygopterus*, *Saurichthys*, and actinistians (Wilser 1923; Jörg 1969; Gall et al., 1974; Schultze and Kriwet 1999; Gall and Grauvogel-Stamm 2005). Except for *Pygopterus* and *Saurichthys*, these genera are not yet known from deposits older than Middle Triassic. 
 *Dorsolepis* and *Pericentrophorus* are probably endemic. These taxa are grouped in the 'Triassic Middle Fish Fauna' (TMFF; Tintori et al., 2014a). Although an Early Anisian age was assumed based on index fossils (Gall and Grauvogel-Stamm 2005), Werneburg et al. (2014) questioned this age assignment and suggested that they were younger (Bithynian or Pelsonian).
 
 ### Bithynian, early Middle Anisian
@@ -3154,6 +3158,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
