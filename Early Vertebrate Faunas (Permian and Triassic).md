@@ -1369,12 +1369,13 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Comments**
 
 ### Aegean（爱琴亚期）, Early Anisian
-#### Holbrook Member, Moenkopi Formation, New Mexico, USA
+#### Moenkopi Formation, Ameircan West (New Mexico, Arizona, Utah), USA
  - **Age**: early Anisian, Middle Triassic
 > - **Taxa**: *Ammorhynchus navajoi* Nesbitt and Whatley, 2004
-> - **Locality and horizon**: Holbrook Member, Moenkopi Formation, New Mexico, USA
+> - **Locality and horizon**: Moenkopi Formation, Ameircan West (New Mexico, Arizona, Utah), USA
 > - **References**:
-> - **Comments**:
+> - **Comments**: Moenkopi Fauna. A diverse fossil vertebrate fauna has been described from the Moenkopi Formation, mainly from the Wupatki Member and Holbrook Member of northern Arizona. Described basal vertebrates include freshwater hybodont sharks, coelacanths, and lungfish. Temnospondyl amphibians are a common component of the fauna. Temnospondyli include Eocyclotosaurus, Quasicyclotosaurus, Wellesaurus, Vigilius, and Cosgriffius. The rhynchosaur Ammorhynchus is known, but rare. Anisodontosaurus is an enigmatic reptile only known from a few tooth-bearing jaws. The poposauroid archosaur Arizonasaurus is known from one relatively complete skeleton and a significant amount of other isolated material. Footprints and several fragmentary body fossils are known from dicynodonts. The footprints of Cheirotherium and Rhynchosauroides are common in the Wupatki Member. 
+> - https://en.wikipedia.org/wiki/Moenkopi_Formation
 
 ####  Röt Formation, Upper Buntsandstein, Germany and France
  - **Age**: early Anisian, Middle Triassic
@@ -3187,6 +3188,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
