@@ -1317,10 +1317,10 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**: 
 
-#### Lower Muschelkalk, Winterswijk, The Netherlands
+#### Lower Muschelkalk, Winterswijk, the Germanic Basin, the Netherlands
  - **Age**: middle Anisian, Middle Triassic
-> - **Taxa**:
-> - **Locality and horizon**: Vossenveld Formation, 
+> - **Taxa**: Lariosaurus vosseveldensis,
+> - **Locality and horizon**: Vossenveld Formation, Lower Muschelkalk, Winterswijk, the Germanic Basin, the Netherlands.
 > - **References**:
 > - **Comments**:
 
@@ -1369,7 +1369,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Comments**
 
 ### Aegean（爱琴亚期）, Early Anisian
-#### Moenkopi Formation, Ameircan West (New Mexico, Arizona, Utah), USA
+#### Moenkopi Formation, American West (New Mexico, Arizona, Utah), USA
  - **Age**: early Anisian, Middle Triassic
 > - **Taxa**: *Ammorhynchus navajoi* Nesbitt and Whatley, 2004
 > - **Locality and horizon**: Moenkopi Formation, Ameircan West (New Mexico, Arizona, Utah), USA
@@ -1476,7 +1476,6 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
-
 
 ### Ladinian（拉丁期）, Middle Triassic
 #### Tongchuan Formation（铜川组）， North China
@@ -1649,7 +1648,7 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **References**:
 > - **Comments**
 
-#### Newark Supergroup, Richmond, Virginia, USA
+#### Newark Group, Richmond, Virginia, USA
 > - **Age**: middle to late Carnian, Late Triassic.
 > - **Taxa**: Dictyopyge
 > - **Locality and horizon**: 
@@ -3188,6 +3187,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
