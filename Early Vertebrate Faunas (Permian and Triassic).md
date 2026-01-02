@@ -1317,13 +1317,6 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**: 
 
-#### Lower Muschelkalk, Winterswijk, the Germanic Basin, the Netherlands
- - **Age**: middle Anisian, Middle Triassic
-> - **Taxa**: Lariosaurus vosseveldensis,
-> - **Locality and horizon**: Vossenveld Formation, Lower Muschelkalk, Winterswijk, the Germanic Basin, the Netherlands.
-> - **References**:
-> - **Comments**:
-
 #### Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Anisian, Middle Triassic. 
 > - **Taxa**: Atopocephala, Daedalichthys, Helichthys, 
@@ -1443,12 +1436,19 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 > - **References**: (Tintori et al., 2016)
 > - **Comments**: the Dolomites (PrÃ  della Vacca/KÃ¼hwiesenkopf).
 
-#### Lower Gogolin beds of Southern Poland
-> - **Age**:  Anisian, Middle Triassic
+#### Lower Muschelkalk, Winterswijk, the Germanic Basin, the Netherlands
+> - **Age**: middle Anisian, Middle Triassic
+> - **Taxa**: Lariosaurus vosseveldensis,
+> - **Locality and horizon**: Vossenveld Formation, Lower Muschelkalk, Winterswijk, the Germanic Basin, the Netherlands.
+> - **References**:
+> - **Comments**:
+
+#### Lower part of Gogolin Formation, Southern Poland
+> - **Age**:  middle Anisian, Middle Triassic
 > - **Taxa**: Chondrichthyans: *Lissodus*,*Hybodus*, *Acrodus*
     Actinopterygians: Macrosemiidae; *Gyrolepis*; *Severnichthys*; cf. *Colobodus*;
     marine reptiles: ?Mixosauridae; ?Pretorosauria; Nothosauridae; ?Pachypleurosauridae and other reptile remains
-> - **Locality and horizon**: Anisian, Middle Triassic, Southern Poland
+> - **Locality and horizon**: middle Anisian, Middle Triassic, Southern Poland
 > - **References**: Antczak et al., 2020.
 Antczak, M., Ruciński, M. R., Stachacz, M., Matysik, M. & Król, J. J., 2020. Diversity of vertebrate remains from
 the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologorum Poloniae, 90: xxx–xxx.
@@ -1461,6 +1461,13 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: Romano (2021): Illyrian bony fishes are known from Europe (Germany, the Netherlands, Italy, Switzerland). From the Middle Muschelkalk of Germany, several taxa were described, including articulated remains of Eosemionotus, as well as isolated bones of Saurichthys, and scales of Colobodus and Gyrolepis (e.g. Schultze and MÃ¶ller 1986; Romano et al., 2012). Plesker (1995) examined articulated fossils of Colobodus, Dollopterus, and Gyrolepis (also see Stolley 1920; Schultze and Kriwet 1999). From early Illyrian beds in the Netherlands, Maxwell et al. (2016) described a small species of Saurichthys.
+
+#### Bayreuth Upper Muschelkalk, Bayreuth, Bavaria, Germany
+> - **Age**: Late Anisian, Middle Triassic
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Bayreuth fauna.
 
 #### Lower part of Besano Formation, Monte San Giorgio, Switzerland and Italy
 > - **Age**: Late Anisian, Middle Triassic.
@@ -3187,6 +3194,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
