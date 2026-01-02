@@ -1296,6 +1296,27 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:巴东组二段以陆相为主，产出芙蓉龙以及远安鲵。Lotosaurus-Yuanansuchus？
 
+#### Tarporley Siltstone Formation, UK
+> - **Age**: Anisian, Middle Triassic.
+> - **Taxa**: *Rhynchosaurus articeps* Owen, 1842
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Bromsgrove Sandstone Formation, UK
+> - **Age**: Anisian, Middle Triassic.
+> - **Taxa**: *Langeronyx brodiei* (Benton, 1990)
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Yerrapalli Formation, India
+> - **Age**: Anisian, Middle Triassic.
+> - **Taxa**: *Mesodapedon kuttyi* Chatterjee, 1980
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 #### Lower Muschelkalk, Winterswijk, The Netherlands
  - **Age**: middle Anisian, Middle Triassic
 > - **Taxa**:
@@ -1319,10 +1340,10 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:
 >
-#### Manda Beds, Ruhuhu Basin,Tanzania
-> - **Age**: Anisian, Middle Triassic. 
-> - **Taxa**:Ischnolepis
-> - **Locality and horizon**: Manda Beds, Ruhuhu Basin,Tanzania
+#### Lifua Member, Manda Beds, Ruhuhu Basin,Tanzania
+> - **Age**: Late Anisian, Middle Triassic. 
+> - **Taxa**:Ischnolepis, Stenaulorhynchus stockleyi Haughton, 1932, 
+> - **Locality and horizon**: Lifua Member, Manda Beds, Ruhuhu Basin,Tanzania
 > - **References**:
 > - **Comments**: 
 
@@ -1340,7 +1361,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:
 
-#### Fromuwu Formation, central Transantarctic Mountains, Antarctica
+#### Fromuwu Formation, central Transantarctic Mountains, Antarctica
 > - **Age**: Anisian, Middle Triassic. 
 > - **Taxa**: 
 > - **Locality and horizon**: 
@@ -1348,10 +1369,10 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Comments**
 
 ### Aegean（爱琴亚期）, Early Anisian
-#### Moenkopi Formation, New Mexico, USA
+#### Holbrook Member, Moenkopi Formation, New Mexico, USA
  - **Age**: early Anisian, Middle Triassic
-> - **Taxa**:
-> - **Locality and horizon**: 
+> - **Taxa**: *Ammorhynchus navajoi* Nesbitt and Whatley, 2004
+> - **Locality and horizon**: Holbrook Member, Moenkopi Formation, New Mexico, USA
 > - **References**:
 > - **Comments**:
 
@@ -1447,6 +1468,14 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **References**:
 > - **Comments**: Romano (2021): The famous collecting area of Monte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrian-Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisian-Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database). The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
 > - The vertebrates of Monte San Giorgio originate in six main horizons, the oldest and most productive being the Besano Formation (latest Anisian–earliest Ladinian) with further material from the Meride Limestone (Cava inferiore, Cava superiore, Cassina and Sceltrich beds, and Kalkschieferzone; Early to Late Ladinian). 
+
+#### Otter Sandstone Formation, UK
+> - **Age**: Late Anisian, Middle Triassic.
+> - **Taxa**: Bentonyx sidensis Langer et al., 2010, Fodonyx spenceri (Benton, 1990)
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 
 ### Ladinian（拉丁期）, Middle Triassic
 #### Tongchuan Formation（铜川组）， North China
@@ -3158,6 +3187,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
