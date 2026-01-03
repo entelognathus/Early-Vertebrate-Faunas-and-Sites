@@ -1666,7 +1666,14 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - Fishes: *Carinacanthus jepseni*; *Cionichthys* sp.; *Diplurus longicaudatus*; *Osteopleurus newarki*; *Lysorocephalus gwynnedensis*.
 > - **Locality and horizon**: Lockatong Formation, Pennsylvania, New Jersey, and New York, USA.
 > - **References**:
-> - **Comments**: 
+> - **Comments**:
+>
+####  Late Triassic fissure, Pant-y-ffynnon Quarry, South Wales, UK
+> - **Age**: Rhaetian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**: Patrick et al. (2019)
+> - **Comments**:
 
 ### Carnian（卡尼期）, Late Triassic
 #### Wayao Member, Falang Formation, Guanling, Guizhou, China
@@ -3242,6 +3249,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
