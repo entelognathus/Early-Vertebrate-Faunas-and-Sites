@@ -1724,6 +1724,15 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **References**:
 > - **Comments**:
 
+#### T5, Timezgadiouine Formation, Localoty XI, Argana Basin, Morocco
+> - **Age**: Carnian, Late Triassic.
+> - **Taxa**: 
+>> - Actinopterygii: "perleidiforms": *Dipteronotus gibbosus* Martin, 1980a; Redfieldiiformes: *Mauritanichthys rugosus* Martin 1980b, fragments attributed to *Atopocephala* and *Ischnolepis*; 
+> - **Locality and horizon**:
+> - **References**: Khalloufi and Jalil, 2020
+> - **Comments**:
+>> - Khalloufi and Jalil, 2020: The locality XI consists of three fossiliferous layers with different faunal associations. The basal most layer yielded postcranial remains of a dicynodont, the intermediate provided dicynodonts, rauisuchian reptiles and metoposaurid temnospondyls, and the upper most level, formed by a reddish to brownish sandstone, delivered temnospondyls, lungfishes and the actinopterygian remains [Dutuit, 1976].
+
 ### Norian（诺利期）, Late Triassic
 #### Formation/Member, Locality
 > - **Age**:
@@ -2417,6 +2426,8 @@ Kelly, M. A., & Zangerl, R. (1976). Helicoprion (Edestidae) in the Permian of We
 
 Ketchum, H. F., & Barrett, P. M. (2004). New reptile material from the lower Triassic of Madagascar: implications for the Permian Triassic extinction event. Canadian Journal of Earth Sciences, 41(1), 1–8. [https://doi.org/10.1139/e03-084](https://doi.org/10.1139/e03-084)
 
+Khalloufi, B. & Jalil, N.-E. Overview of the Late Triassic (Carnian) actinopterygian fauna from the Argana Basin (Morocco). Comptes Rendus. Géoscience 352, 495-513 (2020). https://doi.org/10.5802/crgeos.34
+
 King, R. E. (1931). The Geology of the Glass Mountains, Texas, Part II, Faunal summary and correlation of the Permian formations with description of Brachiopoda. The University of Texas Bulletin, 3042, 1-245.
 
 Kogan, I. (2011). Remains of Saurichthys (Pisces, Actinopterygii) from the Early Triassic Wordie Creek Formation of east Greenland. Bull. Geol. Soc. Den. 59, 93–100.
@@ -2598,6 +2609,10 @@ Marramà, G., Lombardo, C., Tintori, A., and Carnevale, G. (2017). Redescription
 Marsicano, C., Angielczyk, K. D., Cisneros, J. C., Richter, M., Adeo, S., Abdala, F., & Smith, R. (2021). Brazilian Permian Dvinosaurs (Amphibia, Temnospondyli): Revised Description and Phylogeny. Journal of Vertebrate Paleontology, 41(1), e1893181. [https://doi.org/10.1080/02724634.2021.1893181](https://doi.org/10.1080/02724634.2021.1893181)
 
 Martens, T. (2018). Seymouria sanjuanensis from the Lower Permian of Central Germany. Paläontologische Zeitschrift, 92(2), 181–186. https://doi.org/10.1007/s12542-017-0375-7
+
+Martin, M. (1980a). *Dipteronotus gibbosus* (Actinopterygii, Chondrostei), nouveau colobodontidé du Trias supérieur continental marocain. Geobios, 13, 445–449.
+
+Martin, M. (1980b). *Mauritanichthys rugosus* n. gen. et n. sp., Redfieldiidae (Actinopterygi, Chondrostei) du Trias supérieur continental marocain.Geobios, 13, 437–440.
 
 Martin, M., and Wenz, S. (1984). Découverte d’un nouveau Coelacanthidé, Garnbergia ommata n. g., n. sp., dans le Muschelkalk supérieur du BadenWürttemberg. Stuttg. Beiträge Naturkd. - Ser. B 105, 1–17
 
@@ -3256,6 +3271,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
