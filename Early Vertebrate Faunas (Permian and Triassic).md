@@ -242,7 +242,15 @@
 >> - Fish swimming traces: *Undichna bina*, *Undichna britannica*, *Undichna? unisulca*.
 > - **Locality and horizon**: Robledo Mountains Formation of the Hueco Group exposed in the Robledo Mountains of Doña Ana County, south‑central New Mexico; interbedded marine limestones, calcareous shales and red‑bed siliciclastics deposited on an upper intertidal flat during the late Early Permian (Minter & Braddy, 2009).
 > - **References**: Minter & Braddy, 2009; Heckert et al., 2010
-> - **Comments**: 
+> - **Comments**:
+>
+#### Richards Spur fissure fill Lagerstätte, Comanche County, Oklahoma, USA
+> - **Age**: Artinskian，Cisuralian, Permian.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**: The Dolese Brother’s limestone quarry near Richards Spur preserves a lower Permian fissure fill deposit within an Ordovician limestone, whose fossils have been dated to approximately 289 to 286 Ma (Artinskian global stage) using speleothem U–Pb dating
+>
 
 #### Orby Head Formation, Prince Edward Island, Canada
 > - **Age**: Artinskian，Cisuralian, Permian.
@@ -3323,6 +3331,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
