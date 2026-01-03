@@ -1531,6 +1531,13 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **References**:
 > - **Comments**:
 
+#### Los Rastros Formation, Bermejo Basin, Argentina
+> - **Age**: Ladinian, Middle Triassic.
+> - **Taxa**: Gualolepis carinaesquamosa, Rastrolepis riojaensis, R. latipinnata, Challaia elongata
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
 ### Fassanian, Early Ladinian
 #### Upper part of Besano Formation and Lower part of Meride Limestone (Cava inferiore, Cava superiore), Monte San Giorgio, Switzerland and Italy
 > - **Age**: Fassanian, Early Ladinian, Middle Triassic.
@@ -3249,6 +3256,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
