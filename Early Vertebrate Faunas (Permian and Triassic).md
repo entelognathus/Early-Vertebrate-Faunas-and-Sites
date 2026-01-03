@@ -1405,7 +1405,7 @@ The Velika Planina Horizon (Slovenia), whose precise age is not known but is tho
 #### Upper Member, Guanling Formation, Luoping, Yunnan, China
 > - **Age**: Pelsonian, late Middle Anisian.
 > - **Taxa**:
->> - *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Feroxichthys yunnanensis* (Xu, 2020a); *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; *Gimlichthys dawaziensis*; *Gymnoichthys inopinatus*; *Habroichthys broughi*; *Kyphosichthys grandei*; *Louwoichthys pusillus*; *Luopingichthys bergi*; *Luopingperleidus sui*; *Luoxiongichthys hyperdorsalis*; *Marcopoloichthys anii*; *Perleidus sinensis*; *Platysiagum sinensis*; *Pteronisculus changae*; *Robustichthys luopingensis*; *Saurichthys dawaziensis*; *Subortichthys triassicus*; *Placopleurus comptus*; *Sangiorgioichthys sui*; *Saurichthys spinosa*
+>> - *Altisolepis sinensis* Sun et al., 2015; *Diandongperleidus denticulatus* Geng et al., 2012; *Feroxichthys yunnanensis* (Xu, 2020a); *Frodoichthys luopingensis* Sun et al., 2016; *Fuyuanichthys wangi* Xu et al., 2018?; *Gimlichthys dawaziensis*; *Gymnoichthys inopinatus*; *Habroichthys broughi*; *Kyphosichthys grandei*; *Louwoichthys pusillus*; *Luopingichthys bergi*; *Luopingperleidus sui*; *Luoxiongichthys hyperdorsalis*; *Marcopoloichthys anii*; *Perleidus sinensis* (Lombardo et al., 2011); *Platysiagum sinensis*; *Pteronisculus changae*; *Robustichthys luopingensis*; *Saurichthys dawaziensis*; *Subortichthys triassicus*; *Placopleurus comptus*; *Sangiorgioichthys sui*; *Saurichthys spinosa*
 >> - *Luopingcoelacanthus eurylacrimalis*; *Yunnancoelacanthus acrotuberculatus*
 >> - *Luopingselache striata* (Wen et al., 2023);
 >> - *Nothosaurus luopingensis* (Shan et al., 2022); *Dianopachysaurus dingi* Liu et al., 2011; *Diandongosaurus acutidentatus* Shang et al., 2011; *Dianmeisaurus gracilis* Shang and Li, 2015; *Nothosaurus zhangi* Liu et al., 2011; *Largocephalosaurus polycarpon* Cheng et al., 2012a; *Sinosaurosphargis yunguiensis* Li et al., 2011; *Luopingosaurus imparilis*
@@ -3256,6 +3256,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
