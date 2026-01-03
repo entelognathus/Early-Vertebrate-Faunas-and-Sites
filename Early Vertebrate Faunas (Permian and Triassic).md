@@ -1647,6 +1647,13 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **References**: Cateanyà J., 1999
 > - **Comments**:The fossil ensemble of this "Lagerstatte" represents the most important marine Triassic fauna in the Iberian Peninsula, and one of Europe's outstanding Triassic faunas.
 
+#### Dolomites and Limestones of Canete Formation, Iberian Range, Spain
+> - **Age**: Ladinian.
+> - **Taxa**:
+> - **Locality and horizon**: Dolomites and Limestones of Canete Formation, Iberian Range, Spain
+> - **References**:
+> - **Comments**: Pla et al. (2013): corresponding to upper Muschelkalk.
+
 ## Late Triassic
 Los Esteros Member of the Santa Rosa Formation at the base of the Dockum Group in east-central New Mexico, early to middle Norian
 
@@ -3235,6 +3242,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
