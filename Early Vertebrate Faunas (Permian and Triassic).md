@@ -1517,6 +1517,20 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **References**:
 > - **Comments**: Desojo et al. (2020): "Accordingly, the Dinodontosaurus AZ of the Pinheiros-Chiniquá Sequence (=Santa Maria Sequence 1) would also be constrained to the late Ladinian-earliest Carnian time span (Melo et al., 2017; Schmitt et al., 2019)". 
 
+#### Makay Formation, Malio River, southwestern Madagascar
+> - **Age**: Late Ladinian, Middle Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+#### Madygen Formation, Kyrgyzstan, Central Asia
+> - **Age**: Ladinian, Middle Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
 ### Fassanian, Early Ladinian
 #### Upper part of Besano Formation and Lower part of Meride Limestone (Cava inferiore, Cava superiore), Monte San Giorgio, Switzerland and Italy
 > - **Age**: Fassanian, Early Ladinian, Middle Triassic.
@@ -1604,6 +1618,13 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Locality and horizon**:Zhuganpo Member, Falang Formation, Shibalianshan, Fuyuan, Yunnan, China.
 > - **References**: 
 > - **Comments**: Xinyi Biota.
+
+#### Fourth Member, Gejiu Formation, Banqiao, Luoping, Yunnan, China
+> - **Age**: Longobardian, Late Ladinian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**: 
+> - **Comments**: 20 m below the Kuichousaurus hui bed.
 
 #### Erfurt Formation, Schwäbisch Hall, Baden-Württemberg, Germany
 > - **Age**:Longobardian, early Late Ladinian.
@@ -3214,6 +3235,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
