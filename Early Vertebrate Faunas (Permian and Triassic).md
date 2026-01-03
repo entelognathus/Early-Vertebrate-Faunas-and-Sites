@@ -246,12 +246,11 @@
 >
 #### Richards Spur fissure fill Lagerstätte, Comanche County, Oklahoma, USA
 > - **Age**: Artinskian，Cisuralian, Permian.
-> - **Taxa**:
+> - **Taxa**: Cacops morrisi Reisz, Schoch, and Anderson, 2009; Cacops woehri Fröbisch and Reisz, 2012; 
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**: The Dolese Brother’s limestone quarry near Richards Spur preserves a lower Permian fissure fill deposit within an Ordovician limestone, whose fossils have been dated to approximately 289 to 286 Ma (Artinskian global stage) using speleothem U–Pb dating
 >
-
 #### Orby Head Formation, Prince Edward Island, Canada
 > - **Age**: Artinskian，Cisuralian, Permian.
 > - **Taxa**:
@@ -351,17 +350,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**:
 > - **Comments**:
 > - 
-#### lower Clear Fork Formation, Craddock Bone Bed, northern Baylor County, Texas, USA
-> - **Age**: mid-Artinskian to Kungurian, Cisuralian, Permian.
-> - **Taxa**:
->> - Chondrichthyes:
->> - Actinopterygii:
->> - Sarcopterygii:
->> - Tetrapoda: 
-> - **Locality and horizon** lower Clear Fork Formation, Craddock Bone Bed, northern Baylor County, Texas, USA
-> - **References**:
-> - **Comments**: Leonardian.
-
 #### Kazan Formation, Russia
 > - **Age**: Artinskian to Kungurian, Cisuralian (Early Permian).
 > - **Taxa**: 
@@ -384,7 +372,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 ### Kungurian (空谷期), Cisuralian, Permian
 #### Arroyo Formation, north-central Texas, USA
-> - **Age**: Kungurian, Cisuralian (Early Permian).
+> - **Age**: Kungurian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Orthacanthus platypternus*.
 >> - Dipnoi: *Gnathorhiza*.
@@ -400,7 +388,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: 
 
 #### Vale Formation, Knox County, Texas, USA
-> - **Age**: Kungurian, Cisuralian (Early Permian).
+> - **Age**: Kungurian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Orthacanthus* cf. *platypternus*.
 >> - Dipnoi: *Gnathorhiza dikeloda*.
@@ -422,12 +410,21 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Jung & Sues, 2024; Olson, 1954; Beede & Waite, 1918
 > - **Comments**:
 
+#### Lower Clear Fork Formation, Baylor County, Texas, USA
+> - **Age**: Kungurian, Cisuralian, Permian.
+> - **Taxa**: Cacops aspidephorus Williston, 1910;
+> - **Locality and horizon**: Cacops Bone Bed / Craddock Bone Bed, Lower Clear Fork Formation, Baylor County, Texas, USA
+> - **References**: 
+> - **Comments**: Leonardian.
+
 #### Lower Embar Formation, Big Popo Agie Canyon, Lander, Wyoming, USA
 > - **Age**: Kungurian, Cisuralian, Permian.
 > - **Taxa**: *Acondylacanthus browni*
 > - **Locality and horizon**: Lower Embar Formation, Big Popo Agie Canyon, Lander, Wyoming, USA
 > - **References**:(Branson, 1916)
-> - **Comments**: The age is not sure.#### Inta Formation, Pechora Coal Basin, Russia
+> - **Comments**: The age is not sure.
+
+#### Inta Formation, Pechora Coal Basin, Russia
 > - **Age**: upper Kungurian (latest Early Permian) to lower Roadian (earliest Middle Permian)
 > - **Taxa**: Actinopterygii: Elonichthys natalis, Acrolepis frequens, Uralina vicina, Uralina eximia (Lozovsky et al., 2009; Aristov et al., 2021). Temnospondyli: Clamorosaurus nocturnus, Clamorosaurus borealis (Gubin, 1983; Schoch & Werneburg, 2021); Intasuchus silvicola (Konzhukova, 1956; Werneburg et al., 2020). Captorhinidae: Captorhinid gen. et sp. indet. (Benton et al., 2004; Golubev, 2000). Bolosauridae: Bolosaurid gen. et sp. indet. (Benton et al., 2004; Golubev, 2000).
 > - **Locality and horizon**: Kozhim River section (left bank downstream from Kozhim-Rudnik village, Subpolar Urals, Komi Republic); Vorkuta region localities including Vorkuta 1, Inta type locality, Mylva, Pechora, Porog-1, Porog-2, Ters-Akkan, and Usva. Stratigraphic position within Vorkuta Series, above Lekvorkutskaia Formation and below Pechora Series, correlating with Solikamskian and lower Sheshmian horizons. Formation thickness 450-600 m, consisting of lacustrine and floodplain deposits with coal seams, carbonaceous shales, and argillaceous rocks (Konzhukova, 1956; Golubev, 2000; Lozovsky et al., 2009; Aristov et al., 2021).
@@ -3331,6 +3328,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
