@@ -1319,7 +1319,8 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 
 #### Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
 > - **Age**: Anisian, Middle Triassic. 
-> - **Taxa**: Atopocephala, Daedalichthys, Helichthys, 
+> - **Taxa**: 
+>> - Atopocephala, Daedalichthys, Helichthys, 
 >> - Batrachosuchus browni, Jammerbergia formops, Laidleria gracilis, Microposaurus casei, Paracyclotosaurus morganorum, Vanastega plurimidens, Xenotosuchus africanus
 >> - Bolotridon frerensis, Cricodon metabolus, Cricodon kannemeyeri, Cynognathus crateronotus, Diademodon tetragonus, Guttigomphus avilionis, Impidens hancoxi, Lumkuia fuzzi, Kannemeyeria simocephalus, Kombuisia frerensis, Shansiodon sp., Ufudocyclops mukanelai, Bauria cynops, Microgomphodon oligocynus, Eohyosaurus wolvaardti, Erythrosuchus africanus, Euparkeria capensis, Howesia browni, Mesosuchus browni, Myocephalus crassidens, Palacrodon browni, Teratophon spinigenis, Theledectes perforatus, Thelephon contritus, Thelerpeton oppressus
 > - **Locality and horizon**: Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa.
@@ -1363,7 +1364,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 
 ### Aegean（爱琴亚期）, Early Anisian
 #### Moenkopi Formation, American West (New Mexico, Arizona, Utah), USA
- - **Age**: early Anisian, Middle Triassic
+> - **Age**: early Anisian, Middle Triassic
 > - **Taxa**: *Ammorhynchus navajoi* Nesbitt and Whatley, 2004
 > - **Locality and horizon**: Moenkopi Formation, Ameircan West (New Mexico, Arizona, Utah), USA
 > - **References**:
@@ -1472,10 +1473,13 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 #### Lower part of Besano Formation, Monte San Giorgio, Switzerland and Italy
 > - **Age**: Late Anisian, Middle Triassic.
 > - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis
+>> - Sarcopterygii:
+>> - Tetrapoda:
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: Romano (2021): The famous collecting area of Monte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrian-Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisian-Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database). The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon.
-> - The vertebrates of Monte San Giorgio originate in six main horizons, the oldest and most productive being the Besano Formation (latest Anisian–earliest Ladinian) with further material from the Meride Limestone (Cava inferiore, Cava superiore, Cassina and Sceltrich beds, and Kalkschieferzone; Early to Late Ladinian). 
+> - **Comments**: Romano (2021): The famous collecting area of Monte San Giorgio and Besano, which extends across the border between Switzerland and Italy, has yielded a plethora of well-preserved, articulated vertebrate remains, including bony fishes. The fossils are mostly derived from the Illyrian-Fassanian Besano Formation; hence, the fossiliferous layers straddle the Anisian-Ladinian boundary (Stockar et al., 2012). From the Illyrian part of the Besano Formation, the following genera have been described: Aetheodontus, Altisolepis, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, ?Holophagus, Luganoia, Meridensia, Nannolepis, ?Ophiopsis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis, Saurichthys, Ticinocolobodus, and Ticinolepis (e.g. Brough 1939; BÃ¼rgin 1992, BÃ¼rgin 2004; LÃ³pez-Arbarello et al., 2016; Maxwell et al., 2015; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; PIMUZ collection database). The ichthyofauna is diverse and contains endemic genera but also genera that are known from other Anisian localities (e.g. Birgeria, Eosemionotus, Gyrolepis, Placopleurus, Platysiagum, Ptycholepis, Saurichthys). The deep-bodied Bobasatrania first appeared in the latest Permian, and the yougest complete body fossils are from the Illyrian (PIMUZ collection database). Tooth plates referrable to Bobasatrania from the Longobardian of Germany and France mark the last appearance of this genus in the fossil record (BÃ¶ttcher 2014). Meanwhile, Luganoia has also been described from the Late Ladinian Xingyi Biota (Sun et al., 2016a; Xu 2020b), suggesting a longer temporal range than previously thought (Illyrian - Longobardian) for this taxon. The vertebrates of Monte San Giorgio originate in six main horizons, the oldest and most productive being the Besano Formation (latest Anisian–earliest Ladinian) with further material from the Meride Limestone (Cava inferiore, Cava superiore, Cassina and Sceltrich beds, and Kalkschieferzone; Early to Late Ladinian). 
 
 #### Otter Sandstone Formation, UK
 > - **Age**: Late Anisian, Middle Triassic.
@@ -1503,6 +1507,9 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 #### Upper part of Besano Formation and Lower part of Meride Limestone (Cava inferiore, Cava superiore), Monte San Giorgio, Switzerland and Italy
 > - **Age**: Fassanian, Early Ladinian, Middle Triassic.
 > - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii: Altisolepis, Archaeosemionotus, Besania, Birgeria, Bobasatrania, Cephaloxenus, Colobodus, Crenilepis, Ctenognathichthys, Eoeugnathus, Eosemionotus, Gracilignathichthys, Gyrolepis, Habroichthys, Luganoia, Meridensia, Nannolepis, Peltoperleidus, Peltopleurus, Peripeltopleurus, Pholidopleurus, Placopleurus, Platysiagum, Ptycholepis (though nearly all specimens are from Illyrian beds), Saurichthys, Stoppania (â€œDipteronotusâ€?; see Lombardo et al., 2008), Ticinocolobodus, and Ticinolepis (e.g. Dames 1888; Mutter 2002; Mutter and Herzog 2004; Romano and Brinkmann 2009; Maxwell et al., 2015; LÃ³pez-Arbarello et al., 2016, LÃ³pez-Arbarello et al., 2019; PIMUZ collection database).
+>> - Tetrapoda
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: Romano (2021): In the classic collecting site Monte San Giorgio and Besano (Swiss-Italian borderland), several layers produce osteichthyan fossils of Fassanian age. These are restricted to the upper portion of the Besano Formation as well the lower part of the Meride Limestone (Cava inferiore, Cava superiore; Stockar 2010).
@@ -1516,7 +1523,6 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **References**:
 > - **Comments**: Romano (2021): Early Ladinian bony fishes are known from the Prosanto Formation in southeast Switzerland (GraubÃ¼nden). This formation has produced fossils of the actinopterygians
 > - Archaeosemionotus, Besania, Colobodus, Ctenognathichthys,Ducanichthys, Eoeugnathus, Eosemionotus, Habroichthys, ?Legnonotus, Ophiopsis, Peltoperleidus, Peltopleurus, Placopleurus, Prohalecites, Saurichthys, and Stoppania (BÃ¼rgin et al., 1991; BÃ¼rgin and Herzog 2002; Herzog 2003; Herzog and BÃ¼rgin 2005; Lombardo et al., 2008), as well as of the actinistians *Foreyia* and *Ticinepomis* (Cavin et al., 2013; Cavin et al., 2017).
-
 > - Additional occurrences of Fassanian bony fishes are known from the Southern Alps of northern Italy. From the Perledo area, the following taxa have been documented Archaeosemionotus, Ctenognathichthys, Habroichthys, Heptanema, Placopleurus, Saurichthys, and Stoppania. (see e.g. Tintori 2013; LÃ³pez-Arbarello et al., 2014; Renesto and Stockar 2018).
 > - From the uppermost Muschelkalk of Germany, specimens of the actinistians Garnbergia (Martin and Wenz 1984) and Hainbergia (Schweizer 1966), as well as the actinopterygian Gyrolepis (Stolley 1920; Plesker 1995) have been collected.
 
@@ -3194,6 +3200,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
