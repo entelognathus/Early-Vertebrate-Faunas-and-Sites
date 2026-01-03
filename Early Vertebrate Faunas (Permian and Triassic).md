@@ -547,6 +547,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
 > - Here we assign the age of the Serrinha Member as from Wordian to Capitanian of Guadalupian, the age of the Morro Pelado Member as Wuchiapingian, Lopingian.
 
+#### Lower Morro Pelado Member, Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
+> - **Age**: Capitanian, Guadalupian, Permian.
+> - **Taxa**: Rastodon procurvidens
+> - **Locality and horizon**:
+> - **References**: 
+> - **Comments**: 
+
 #### Khuff Formation, Haushi-Huqf, Oman
 > - **Age**: Wordian, Guadalupian (middle Permian).
 > - **Taxa**:
@@ -763,6 +770,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: Brazil
 > - **References**: 
 > - **Comments**:   
+
+#### Upper Morro Pelado Member, Rio do Rasto Formation
+> - **Age**: Wuchiapingian, Lopingian, Permian
+> - **Taxa**: Endothiodon cf. E. bathystoma
+> - **Locality and horizon**:
+> - **References**: 
+> - **Comments**: 
 
 #### Cistecephalus Zone of the South African Beaufort Group, South Africa
 > - **Age**: Wuchiapingian, Lopingian, Permian 
@@ -1348,6 +1362,13 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**:
 
+#### Quebrada de los Fosiles Formation, Puesto Viejo Group, Mendoza Province, western Argentina
+> - **Age**: late Anisian, Middle Triassic. 
+> - **Taxa**: Kannemeyeria aganosteus and Tetragonias sp.
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
 #### Hawkensbury Sandstones, Brookvale, New South Wales, Australia
 > - **Age**: Anisian, Middle Triassic. 
 > - **Taxa**: Brookvalia, Molybdichthys, Phlyctaenichthys, Schizurichthys
@@ -1515,7 +1536,23 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Taxa**:
 > - **Locality and horizon**: Santa Maria Sequence 1 (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
 > - **References**:
-> - **Comments**: Desojo et al. (2020): "Accordingly, the Dinodontosaurus AZ of the Pinheiros-Chiniquá Sequence (=Santa Maria Sequence 1) would also be constrained to the late Ladinian-earliest Carnian time span (Melo et al., 2017; Schmitt et al., 2019)". 
+> - **Comments**: Desojo et al. (2020): "Accordingly, the Dinodontosaurus AZ of the Pinheiros-Chiniquá Sequence (=Santa Maria Sequence 1) would also be constrained to the late Ladinian-earliest Carnian time span (Melo et al., 2017; Schmitt et al., 2019)".
+> - Kammerer and Ordonez(2021):  The vast majority of known South American dicynodont specimens come from the youngest assemblages, found in the Santa Maria Super sequence in Brazil and the Agua de la Pena Group in Argentina (Desojo et al. 2020; Schultz et al. 2020). The dicynodont fauna can be roughly divided into three assemblages, corresponding to the Dinodontosaurus + Santacruzodon Assemblage Zones (Brazil)/Los Chanares Formation (Argentina), Hyperodapedon Assemblage Zone (Brazil)/Ischigualasto Formation (Argentina), and Riograndia Assemblage Zone (Brazil)/Los 
+Colorados Formation (Argentina) 
+
+#### Río Seco de la Quebrada Formation, Puesto Viejo Group, Mendoza Province, western Argentina
+> - **Age**: early Ladinian, Middle Triassic.
+> - **Taxa**: Acratophorus argentinensis
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Los Chanares Formation, Argentina
+> - **Age**: Late Ladinian, Middle Triassic.
+> - **Taxa**: Dinodontosaurus spp., Sangusaurus sp., and Stahleckeria potens
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Dinodontosaurus Assemblage Zone
 
 #### Makay Formation, Malio River, southwestern Madagascar
 > - **Age**: Late Ladinian, Middle Triassic.
@@ -1724,6 +1761,12 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **References**:
 > - **Comments**:
 
+#### Ischigualasto Formation, Argentina
+> - **Age**: late Carnian, Late Triassic.
+> - **Taxa**: Ischigualastia jenseni
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
 #### T5, Timezgadiouine Formation, Localoty XI, Argana Basin, Morocco
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**: 
@@ -1734,6 +1777,13 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 >> - Khalloufi and Jalil, 2020: The locality XI consists of three fossiliferous layers with different faunal associations. The basal most layer yielded postcranial remains of a dicynodont, the intermediate provided dicynodonts, rauisuchian reptiles and metoposaurid temnospondyls, and the upper most level, formed by a reddish to brownish sandstone, delivered temnospondyls, lungfishes and the actinopterygian remains [Dutuit, 1976].
 
 ### Norian（诺利期）, Late Triassic
+#### Caturrita Formation/Los Colorados Formation, Argentina
+> - **Age**: early Norian, Late Triassic.
+> - **Taxa**: Jachaleria spp.
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
 #### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
@@ -3273,7 +3323,6 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
-
 
 
 
