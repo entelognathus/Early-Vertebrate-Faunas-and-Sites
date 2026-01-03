@@ -2464,6 +2464,8 @@ Königer, S., Lorenz, V., Stollhofen, H., & Armstrong, R. (2002). Origin, age an
 
 Labandeira, C.C., and Allen, E.G., 2007. Minimal insect herbivory for the Lower Permian Coprolite Bone Bed site of north-central Texas, USA, and comparison to other Late Paleozoic floras. Palaeogeography, Palaeoclimatology, Palaeoecology, v. 247, no. 3-4, p. 197-219. https://doi.org/10.1016/j.palaeo.2006.10.015
 
+Lombardo, C., Sun, Z.-Y., Tintori, A., Jiang, D.-Y. & Hao, W.-C. A new species of the genus Perleidus (Actinopterygii: Perleidiformes) from the Middle Triassic of Southern China. Bollettino della Società Paleontologica Italiana 50, 75-83 (2011). https://doi.org/10.4435/bspi.2011.08
+
 Larson, E. R., & Scott, J. B. (1955). Helicoprion from Elko County, Nevada. Journal of Paleontology, 29(5), 918–919.
 
 Laurin, M., & Hook, R. W. (2022). The age of North America's youngest Paleozoic continental vertebrates: a review of data from the Middle Permian Pease River (Texas) and El Reno (Oklahoma) Groups. BSGF - Earth Sciences Bulletin, 193, 10. [https://doi.org/10.1051/bsgf/2022007](https://www.google.com/search?q=https://doi.org/10.1051/bsgf/2022007)
@@ -3271,6 +3273,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
