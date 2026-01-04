@@ -1818,7 +1818,7 @@ cf. Ischigualasa
 > - **Comments**: https://en.wikipedia.org/wiki/Chinle_Formation
 <img width="1961" height="1372" alt="image" src="https://github.com/user-attachments/assets/eb966923-4c95-4658-80f9-4a18c787acf7" />
 <img width="1958" height="1464" alt="image" src="https://github.com/user-attachments/assets/308c138c-51b3-4067-bb41-9a2cf5e15ea5" />
-
+<img width="1027" height="917" alt="image" src="https://github.com/user-attachments/assets/2cad5220-584d-40dc-aca0-8e80359d8133" />
 
 #### Newark Group, Richmond, Virginia, USA
 > - **Age**: middle to late Carnian, Late Triassic.
@@ -1833,6 +1833,7 @@ cf. Ischigualasa
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
+
 #### T5, Timezgadiouine Formation, Localoty XI, Argana Basin, Morocco
 > - **Age**: Carnian, Late Triassic.
 > - **Taxa**: 
@@ -1866,6 +1867,13 @@ cf. Ischigualasa
 > - **References**:
 > - **Comments**:
 
+### Colorado City Formation, Dockum Group, Howard County, Texas
+> - **Age**: Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**: Otis Chalk fossi sites (Schaeffer Fish Quarry). Lehman (1994) and Lehman and Chatterjee (2005) have argued that the Colorado City Formation is correlative with the Cooper Canyon Formation.
+
 ### Camp Springs Conglomerate, Dockum Group, Scurry County, Texas
 > - **Age**: early Norian, Late Triassic.
 > - **Taxa**:
@@ -1886,6 +1894,7 @@ cf. Ischigualasa
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
+
 
 
 #### Caturrita Formation/Los Colorados Formation, Argentina
@@ -3480,6 +3489,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
