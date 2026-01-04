@@ -1795,14 +1795,14 @@ cf. Ischigualasa
 > - **References**:
 > - **Comments** Santacruzodon AZ.
 
-#### Lower Candelaria sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
+#### Lower Candelaria sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
  - **Age**: late Carnian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments** Hyperodapedon AZ
 
-#### Upper Candelaria sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
+#### Upper Candelaria sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
  - **Age**: Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
@@ -1819,19 +1819,6 @@ cf. Ischigualasa
 <img width="1961" height="1372" alt="image" src="https://github.com/user-attachments/assets/eb966923-4c95-4658-80f9-4a18c787acf7" />
 <img width="1958" height="1464" alt="image" src="https://github.com/user-attachments/assets/308c138c-51b3-4067-bb41-9a2cf5e15ea5" />
 
-#### Chinle Formation (Revueltian), Dockum Group, Texas, USA
-> - **Age**: early to middle Norian, Late Triassic.
-> - **Taxa**: 	Typothorax coccinarum, Machaeroprosopus
-> - **Locality and horizon**: Owl Rock (in part), Kane Springs Beds,Petrified Forest ("Upper Petrified Forest" / Painted Desert), Sonsela (in part) Members.
-> - **References**:
-> - **Comments**:
-
-#### Chinle Formation (Apachean), Dockum Group, Texas, USA
-> - **Age**: late Norian to Rhaetian, Late Triassic.
-> - **Taxa**: Redondasaurus
-> - **Locality and horizon**: Rock Point / Church Rock, "siltstone member", Owl Rock (in part) Members.
-> - **References**:
-> - **Comments**
 
 #### Newark Group, Richmond, Virginia, USA
 > - **Age**: middle to late Carnian, Late Triassic.
@@ -1858,6 +1845,20 @@ cf. Ischigualasa
 ### Norian（诺利期）, Late Triassic
 <img width="779" height="955" alt="image" src="https://github.com/user-attachments/assets/0aee5032-1ef2-44c9-8db6-a60c7cc09bc3" />
 
+#### Chinle Formation (Revueltian), Dockum Group, Texas, USA
+> - **Age**: early to middle Norian, Late Triassic.
+> - **Taxa**: 	Typothorax coccinarum, Machaeroprosopus
+> - **Locality and horizon**: Owl Rock (in part), Kane Springs Beds,Petrified Forest ("Upper Petrified Forest" / Painted Desert), Sonsela (in part) Members.
+> - **References**:
+> - **Comments**:
+
+#### Chinle Formation (Apachean), Dockum Group, Texas, USA
+> - **Age**: late Norian to Rhaetian, Late Triassic.
+> - **Taxa**: Redondasaurus
+> - **Locality and horizon**: Rock Point / Church Rock, "siltstone member", Owl Rock (in part) Members.
+> - **References**:
+> - **Comments**
+
 ### Copper Canyon Formation, Dockum Group, Garza County, west Texas
 > - **Age**: Norian, Late Triassic.
 > - **Taxa**:
@@ -1874,6 +1875,13 @@ cf. Ischigualasa
 
 ### Santa Rosa Formation, Dockum Group, New Mexico and the Texas panhandle
 > - **Age**: early Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+### Bull Canyon Formation, Dockum Group, New Mexico and the Texas panhandle
+> - **Age**: late Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
 > - **References**:
@@ -3426,6 +3434,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
