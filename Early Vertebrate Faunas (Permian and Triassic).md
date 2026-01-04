@@ -1737,6 +1737,56 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **References**:
 > - **Comments**: Guanling Biota.
 
+#### Tiki Formation, Rewa Basin, India
+> - **Age**: Carnian, Late Triassic.
+> - **Taxa**:Ceratodus sp.
+Metoposaurus maleriensis
+Hyperodapedon kiensis
+Tikiguania estesi
+Parasuchus hislopi
+Tikisuchus romeri
+Ruberodon roychowdhurii
+Rewaconodon kiensis
+Gondwanadon tapani
+Tikitherium copei
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Lower Meleri Formation, Pranhita–Godavari basin, India
+> - **Age**: Carnian, Late Triassic.
+> - **Taxa**: Xenacanthus indicus
+Ptychoceratodus hislopianus
+Ptychoceratodus virapa
+Metoposaurus maleriensis
+Hyperodapedon huxleyi
+?Malerisaurus robinsonae
+Parasuchus hislopi
+cf. Angistorhinus
+cf. Typothorax
+Alwalkeria maleriensis
+Exaeretodon stascae
+Deccanodon maleriensis
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Upper Meleri Formation, Pranhita–Godavari basin, India
+> - **Age**: Norian, Late Triassic.
+> - **Taxa**: Xenacanthus indicus
+Ceratodus nageswari
+Compsocerops cosgriffi
+Kuycephalus triangularis
+Angistorhinus sp.
+cf. Leptosuchus
+Aetosauria indet.
+Nambalia roychowdhurii
+Jaklapallisaurus asymmetrica
+cf. Ischigualasa
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 
 #### Santa Curz sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
  - **Age**: early Carnian, Late Triassic.
@@ -3352,6 +3402,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
