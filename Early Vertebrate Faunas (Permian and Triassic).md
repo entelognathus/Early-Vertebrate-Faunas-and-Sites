@@ -117,8 +117,8 @@
 > - **References**: Lucas et al., 2016; Berman, 1977; Lucas et al., 2013; Berman and Reisz, 1980; Hunt and Lucas, 1996; Lucas et al., 2001
 > - **Comments**: middle Wolfcampian to early Leonardian.
 
-#### Petrolia Formation, Texas, USA
-> - **Age**: Cisuralian (Early Permian).
+#### Petrolia Formation, Wichita Group, Wolfcampian Series, Texas, USA
+> - **Age**: Artinskian to Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: Undetermined hybodont spine.
 >> - Acanthodii: *Acanthodes* sp. Osteichthyes: *Platysomus* sp., *Sagenodus* sp., *Spermatodus pustulosus*.
@@ -1907,6 +1907,52 @@ cf. Ischigualasa
 > - **Comments**: 
 
 ### Rhaetian（瑞替期）, Late Triassic
+#### The Holwell quarry complex, Bristol and South Wales, UK
+> - **Age**: Rhaetian, Late Triassic
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:  the ‘Microlestes’ quarry.
+
+#### Barnstone in Nottinghamshire, UK
+> - **Age**: Rhaetian, Late Triassic
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Seinstedt, Braunschweig, Germany
+> - **Age**: Rhaetian, Late Triassic
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Hildesheim-Ochtersum, Braunschweig, Germany
+> - **Age**: Rhaetian, Late Triassic
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
+
 #### Formation/Member, Locality
 > - **Age**:
 > - **Taxa**:
@@ -3434,6 +3480,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
