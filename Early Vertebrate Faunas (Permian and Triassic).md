@@ -1555,11 +1555,11 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Comments**:
 
 #### Lower Member, Chañares Formation, Argentina
-> - **Age**: Late Ladinian, Middle Triassic.
+> - **Age**: Late Ladinian to early Carnian, Middle to Late Triassic.
 > - **Taxa**: Dinodontosaurus spp., Sangusaurus sp., and Stahleckeria potens
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: Dinodontosaurus Assemblage Zone
+> - **Comments**: Dinodontosaurus Assemblage Zone. Referred to early Carnian in Deepbone.
 
 #### Makay Formation, Malio River, southwestern Madagascar
 > - **Age**: Late Ladinian, Middle Triassic.
@@ -3352,6 +3352,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
