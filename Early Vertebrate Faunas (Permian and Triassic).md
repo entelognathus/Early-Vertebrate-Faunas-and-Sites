@@ -1856,6 +1856,30 @@ cf. Ischigualasa
 >> - Khalloufi and Jalil, 2020: The locality XI consists of three fossiliferous layers with different faunal associations. The basal most layer yielded postcranial remains of a dicynodont, the intermediate provided dicynodonts, rauisuchian reptiles and metoposaurid temnospondyls, and the upper most level, formed by a reddish to brownish sandstone, delivered temnospondyls, lungfishes and the actinopterygian remains [Dutuit, 1976].
 
 ### Norian（诺利期）, Late Triassic
+<img width="779" height="955" alt="image" src="https://github.com/user-attachments/assets/0aee5032-1ef2-44c9-8db6-a60c7cc09bc3" />
+
+### Copper Canyon Formation, Dockum Group, Garza County, west Texas
+> - **Age**: Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+### Camp Springs Conglomerate, Dockum Group, Scurry County, Texas
+> - **Age**: early Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: Elkins Place bone bed, Camp Springs Conglomerate, Dockum Group, Scurry County, Texas.
+> - **References**:
+> - **Comments**:
+
+### Santa Rosa Formation, Dockum Group, New Mexico and the Texas panhandle
+> - **Age**: early Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+
 #### Caturrita Formation/Los Colorados Formation, Argentina
 > - **Age**: early Norian, Late Triassic.
 > - **Taxa**: Jachaleria spp.
@@ -3402,6 +3426,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
