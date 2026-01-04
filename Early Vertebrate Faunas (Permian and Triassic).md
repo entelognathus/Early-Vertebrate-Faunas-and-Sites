@@ -1542,9 +1542,12 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Locality and horizon**: Santa Maria Sequence 1 (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
 > - **References**:
 > - **Comments**: Desojo et al. (2020): "Accordingly, the Dinodontosaurus AZ of the Pinheiros-Chiniquá Sequence (=Santa Maria Sequence 1) would also be constrained to the late Ladinian-earliest Carnian time span (Melo et al., 2017; Schmitt et al., 2019)".
-> - Kammerer and Ordonez(2021):  The vast majority of known South American dicynodont specimens come from the youngest assemblages, found in the Santa Maria Super sequence in Brazil and the Agua de la Pena Group in Argentina (Desojo et al. 2020; Schultz et al. 2020). The dicynodont fauna can be roughly divided into three assemblages, corresponding to the Dinodontosaurus + Santacruzodon Assemblage Zones (Brazil)/Los Chanares Formation (Argentina), Hyperodapedon Assemblage Zone (Brazil)/Ischigualasto Formation (Argentina), and Riograndia Assemblage Zone (Brazil)/Los 
-Colorados Formation (Argentina) 
+> - Kammerer and Ordonez(2021):  The vast majority of known South American dicynodont specimens come from the youngest assemblages, found in the Santa Maria Super sequence in Brazil and the Agua de la Pena Group in Argentina (Desojo et al. 2020; Schultz et al. 2020). The dicynodont fauna can be roughly divided into three assemblages, corresponding to the Dinodontosaurus + Santacruzodon Assemblage Zones (Brazil)/Los Chanares Formation (Argentina), Hyperodapedon Assemblage Zone (Brazil)/Ischigualasto Formation (Argentina), and Riograndia Assemblage Zone (Brazil)/Los Colorados Formation (Argentina).
+> - *Dinodontosaurus* AZ.
 
+<img width="1924" height="1452" alt="image" src="https://github.com/user-attachments/assets/7c029808-76e8-43a8-8f66-5f471e85600e" />
+
+ 
 #### Río Seco de la Quebrada Formation, Puesto Viejo Group, Mendoza Province, western Argentina
 > - **Age**: early Ladinian, Middle Triassic.
 > - **Taxa**: Acratophorus argentinensis
@@ -1734,6 +1737,28 @@ https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 > - **Locality and horizon**: Wayao Member, Falang Formation, Guanling, Guizhou, China
 > - **References**:
 > - **Comments**: Guanling Biota.
+
+
+#### Santa Curz sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
+ - **Age**: early Carnian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments** Santacruzodon AZ.
+
+#### Lower Candelaria sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
+ - **Age**: late Carnian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments** Hyperodapedon AZ
+
+#### Upper Candelaria sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
+ - **Age**: Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments** Riograndia AZ
 
 #### Chinle Formation (Otischalkian and Adamanian), Dockum Group, Texas, USA
 > - **Age**: Late Carnian, Late Triassic.
@@ -3328,6 +3353,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
