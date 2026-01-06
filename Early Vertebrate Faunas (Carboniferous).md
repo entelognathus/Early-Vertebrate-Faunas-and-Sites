@@ -8,6 +8,76 @@
 
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
+#### Sunbury Shale, Ohio, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Cuyahoga Formation (Meadville Shale Member), Northeastern Ohio, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Cherepet Horizon, Tula Region, Russia
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Taidon Formation, Kuznetsk Basin, Siberia, Russia
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Tangbagou Formation, Guizhou, China
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Laurel Formation, Canning Basin, Western Australia, Australia
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Telemon Formation, Narrien Range, Queensland, Australia
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Obrutschew Bjerg Formation, Celsius Bjerg, East Greenland
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Waaipoort Formation (Witteberg Group), Eastern Cape, South Africa
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Vegamián Formation, Cantabrian Mountains, Spain
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 #### Köprülü Formation, Zap Valley, Hakkari, SE Turkey
 > - **Age**: Tournaisian
 > - **Taxa**: Cochliodontiformes: *Cochliodus* sp.
@@ -1244,6 +1314,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
