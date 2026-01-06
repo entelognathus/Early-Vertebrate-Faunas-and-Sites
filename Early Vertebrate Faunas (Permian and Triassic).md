@@ -1895,8 +1895,6 @@ cf. Ischigualasa
 > - **References**:
 > - **Comments**:
 
-
-
 #### Caturrita Formation/Los Colorados Formation, Argentina
 > - **Age**: early Norian, Late Triassic.
 > - **Taxa**: Jachaleria spp.
@@ -1936,6 +1934,17 @@ cf. Ischigualasa
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
+
+#### Westbury Formation, Pecten Group, Manor Farm Quarry, near Aust, Bristol, UK
+> - **Age**: Rhaetian, Late Triassic
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Comprsing two beds: Basal Rhaetian bone bed (formerly sometimes called the Ceratodus bone bed); Upper Pexten Bed of Sust Cliff.
 
 #### Seinstedt, Braunschweig, Lower Saxony, Germany
 > - **Age**: Rhaetian, Late Triassic (Norian/Rhaetian boundary interval)
@@ -3488,6 +3497,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
