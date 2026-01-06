@@ -1938,16 +1938,16 @@ cf. Ischigualasa
 > - **References**:
 > - **Comments**: 
 
-#### Seinstedt, Braunschweig, Germany
-> - **Age**: Rhaetian, Late Triassic
+#### Seinstedt, Braunschweig, Lower Saxony, Germany
+> - **Age**: Rhaetian, Late Triassic (Norian/Rhaetian boundary interval)
 > - **Taxa**:
->> - Chondrichthyes:
->> - Actinopterygii:
->> - Sarcopterygii:
->> - Tetrapoda: 
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**: 
+>> - Chondrichthyes: *Polyacrodus* sp., *Lissodus nodosus*, *Pseudodalatias barnstonensis*, *Synechodus* n.sp.1, *Synechodus* n. sp.2, *Rhomphaiodon minor*, *Rhomphaiodon nicolensis*, Synechodontiformes n. gen. n. sp., *Pseudocetorhinus pickfordi*,
+>> - Actinopterygii:*Gyrolepis albertii*，*Severnichthys acuminatus*, Semionotiformes (under revision, 7 remains), *Colobodus*? sp.
+>> - Sarcopterygii:*Serrolepis suevicus*, Coelacanthiformes indet. (scales)
+>> - Tetrapoda: Plateosauridae: *Plateosaurus laevis*(femur)，Amphibians: At least 1 taxon (undetermined, poor preservation)
+> - **Locality and horizon**:Fuchsberg and Langenberg quarries near Seinstedt, Lower Saxony, Germany. Upper Keuper sandstones, Main Fossil Layer (MFL) and bonebeds (I and II) within fluvial-dominated delta plain deposits
+> - **References**: Barth et al., 2014  Hauschke & Wilde (1987, 1996)  Barth & Kozur (2011)  Hauschke & Kozur (2011)  Fraas (1897)
+> - **Comments**:  A diverse ecosystem is documented: a rich invertebrate fauna of limulids (1 taxon), insects (at least 20 taxa of 9 orders), malacostracans and conchostracans (several taxa) and a vertebrate fauna of am phibians (at least 1 taxon), sharks (9 taxa) and osteichthyan fishes (at least 6 taxa). 
 
 #### Hildesheim-Ochtersum, Braunschweig, Germany
 > - **Age**: Rhaetian, Late Triassic
@@ -3489,6 +3489,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
