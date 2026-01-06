@@ -1919,13 +1919,12 @@ cf. Ischigualasa
 #### The Holwell quarry complex, Bristol and South Wales, UK
 > - **Age**: Rhaetian, Late Triassic
 > - **Taxa**:
->> - Chondrichthyes:
->> - Actinopterygii:
->> - Sarcopterygii:
->> - Tetrapoda: 
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:  the ‘Microlestes’ quarry.
+>> - Chondrichthyes: *Duffinselache holwellensis*, *Pseudocetorhinus pickfordi*, *Palaeobates reticulatus*, *Synechodus rhaeticus* (abundant), *Rhomphaiodon minor*, *Lissodus minimus*, *Hybodus cloacinus*, *Vallisia coppi*, *Pseudodalatias barnstonensis*.
+>> - Osteichthyan: *Gyrolepis albertii*, *Severnichthys acuminatus*, *Sargodon tomicus*, *Saurichthys longidens*.
+>> - Tetrapoda: *Placodus* (placodont marine reptiles), *Sphenodontians* (e.g., Penegephyrosaurus), *Thomasia* (formerly Microlestes - haramiyid mammaliaform), *Eozostrodon* (mammaliaform), and *Oligokyphus* (tritylodontid).
+> - **Locality and horizon**: Holwell Quarries (specifically neptunian dykes/fissure fills), Mendip Hills, Somerset, UK. The fill is identified as corresponding to the Westbury Formation (Penarth Group).
+> - **References**:Weeks et al.,2025
+> - **Comments**:  the ‘Microlestes’ quarry. There are five main quarries, Cree's Quarry south of the A361, Coleman's Quarry to the west of Holwell village and currently the only one open and working, North Quarry and Bartlett's Quarry to the north, and Lime Kiln Quarry beside Nunney Brook to the north-west (Fig. 1)（Weeks et al.,2025）
 
 #### Barnstone in Nottinghamshire, UK
 > - **Age**: Rhaetian, Late Triassic
