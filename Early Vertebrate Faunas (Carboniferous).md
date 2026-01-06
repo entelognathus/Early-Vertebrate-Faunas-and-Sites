@@ -340,6 +340,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:(Davis, 1883)
 > - **Comments**: late Visean to early Serpukhovian
 
+
+#### Cawdor Limestiones, Wirksworth, Derbyshire, UK
+> - **Age**: late Visean
+> - **Taxa**: *Thrinacodus ferox*
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**: 
+
 #### Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland
 > - **Age**: Late Visean.
 > - **Taxa**:
@@ -1236,6 +1244,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
