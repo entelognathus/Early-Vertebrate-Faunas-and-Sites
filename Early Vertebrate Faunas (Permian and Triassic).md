@@ -1145,12 +1145,23 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >> - Actinopterygii: Birgeria, Bobasatrania, Helmolepis, Pteronisculus, Saurichthys, ?Teffichthys (“Perleidus”; Marramà et al., 2017), Ptycholepidae (Acrorhabdus, Boreosomus)
 >> - Sarcopterygii: Axelia, Mylacanthus, Sassenia, Scleracanthus, Wimania
 >> - Tetrapoda: 
-> - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard)
+> - **Locality and horizon**: Smithian, Olenekian, Spitzbergen (Svalbard). Fish Niveau.
 > - **References**:
 > - **Comments**: The age follows Romano et al. (2021). The Fish Niveau is well constrained to the middle to late Smithian of the Lusitaniadalen Member by the middle Smithian Euflemingites romunderi and smaller lower-upper Smithian Wasatchites tardus ammonoid zones (Hammer et al., 2019; Kear et al., 2023). The main body of work on Triassic coelacanths from the archipelago of Svalbard is that of Stensiö (1921). Most of the material used in their work was collected by several expeditions between 1912 and 1918 from the Fish Niveau.
-> - Saurichthys wimani (Woodward, 1912) and Saurichthys elongatus Stensio, 1925 from the Smithian of Spitzbergen.
+> - *Saurichthys wimani* (Woodward, 1912) and *Saurichthys elongatus* Stensio, 1925 from the Smithian of Spitzbergen.
 > - The *Grippia Niveau* was placed between the underlying Fish Niveau and the overlying Lower Saurian Niveau, and subsequently a concretion-rich layer found at Agardhbukta and Milne Edwardsfjellet was interpreted as being the Grippia Niveau (Wiman, 1933). Hansen et al. (2018) determined the bonebed as being early or early/middle Spathian in age based on stratigraphy and conodonts, although the lack of ammonoids makes it difficult to correlate to any specific biostratigraphic zone.
 > - Some material described by Stensiö (1921), most importantly a lungfish tooth plate, was collected from the *Lower Saurian Niveau*, located at the top of the Vendomdalen Member of the VikinghÃ¸gda Formation, dated to the late Spathian (late Early Triassic) (Hansen et al., 2018).
+
+#### Sticky Member, Kongressfjellet Formation, Svalbard (Spitsbergen)
+> - **Age**: Olenekian, Early Triassic.
+> - **Taxa**:
+>> - Chondrichthyes: Palaeobates polaris, 
+>> - Actinopterygii: Birgeria mougeoti, Acrorhabdus asplundi, Acrorhabdus bertili, Acrorhabdus latistriatus, Platysomus sp., Platysomus nathorsti, Pygopterus degeeri, Boreosomus reuterskioldi, Boreosomus scaber, Saurichthys sp., Saurichthys (Lepidosaurichthys) elongatus, Saurichthys (Lepidosaurichthys) ornatus, Saurichthys hamiltoni, Saurichthys wimani, Teffichthys woodwardi, 
+>> - Sarcopterygii: Mylacanthus sp., Mylacanthus lobatus, Mylacanthus spinosus, Sassenia tuberculata, Axelia elegans, Axelia robusta, Wimania sp., Wimania multistriata, Wimania sinuosa, Scleracanthus asper, Lyrocephaliscus euri,
+>> - Tetrapoda: Mastodonsauridae,  Peltostega erici, Stereospondyli, Temnospondyli, Platystega depressa, Aphaneramma sp., Aphaneramma rostratum, Tertrema acuta
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:Fish Niveau plus Grippia Niveau?  
 
 #### Vega-Phroso Siltstone Member, Sulphur Mountain Formation, Alberta and British Columbia, Canada
 > - **Age**: Smithian, early Olenekian, Early Triassic
@@ -1239,7 +1250,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >> - Actinopterygii:
 >> - Sarcopterygii:
 >> - Tetrapoda: 
-> - **Locality and horizon**:
+> - **Locality and horizon**: Vendomdalen Member, Vikinghøgda Formation, Svalbard (Spitsbergen). ‘Grippia level’.
 > - **References**:
 > - **Comments**: ‘Grippia level’. Another probable Spathian occurrence is known from Spitsbergen (a specimen of Saurichthys; cf. Kogan and Romano 2016b). 
 
@@ -3544,6 +3555,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
