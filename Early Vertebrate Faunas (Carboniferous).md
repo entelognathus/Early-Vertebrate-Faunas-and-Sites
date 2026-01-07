@@ -1329,6 +1329,11 @@ Pepper, J. F., De Witt, W., Jr., & Demarest, D. F. (1954). Geology of the Bedfor
 
 Sandberg, C. A., Streel, M., & Scott, R. A. (1972). Comparison between conodont zonation and spore assemblages at the Devonian-Carboniferous boundary in the western and central United States and in Europe. *Compte Rendu, 7ème Congrès International de Stratigraphie et de Géologie du Carbonifère, Krefeld 1971*, *1*, 179-203.
 
+Newberry, J. S. (1873). Report of the Geological Survey of Ohio, Vol. 1, Part 2: Palaeontology. Nevins & Myers.
+
+Shaffer, A. B., Santucci, V. L., Tweet, J. S., & Hodnett, J. M. (2024). Cuyahoga Valley National Park: Paleontological resource inventory (public version). National Park Service Science Report NPS/SR—2024/210.
+
+Szmuc, E. J. (1970). The Mississippian System. In Banks, P. O., & Feldmann, R. M. (Eds.), Guide to the Geology of Northeastern Ohio (pp. 23-67). Northern Ohio Geological Society. }
 
 
 
