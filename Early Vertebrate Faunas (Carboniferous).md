@@ -16,11 +16,11 @@
 > - **Comments**:
 
 #### Cuyahoga Formation (Meadville Shale Member), Northeastern Ohio, USA
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Tournaisian (Late Kinderhookian), Early Mississippian
+> - **Taxa**: *Gyracanthus compressus* (also referred to as *Gyracanthides compressus*), *Ctenacanthus* sp., Tetrapodomorpha indet.
+> - **Locality and horizon**: Northeastern Ohio, including Cuyahoga Valley National Park and Lodi; Meadville Shale Member of the Cuyahoga Formation (Newberry, 1873; Shaffer et al., 2024).
+> - **References**: Newberry, 1873; Shaffer et al., 2024; Szmuc, 1970
+> - **Comments**: The Meadville Shale preserves rare Early Mississippian vertebrate material, including acanthodian spines and recently discovered tetrapodomorph material, filling a gap in the vertebrate record (Romer's Gap) (Shaffer et al., 2024).
 
 #### Cherepet Horizon, Tula Region, Russia
 > - **Age**:
@@ -1328,6 +1328,7 @@ Miller, A. M. (1916). Some historic fish remains from Vanceburg, Kentucky. *Scie
 Pepper, J. F., De Witt, W., Jr., & Demarest, D. F. (1954). Geology of the Bedford Shale and Berea Sandstone in the Appalachian Basin. *U.S. Geological Survey Professional Paper*, *259*, 1-111. [https://doi.org/10.3133/pp259](https://doi.org/10.3133/pp259)
 
 Sandberg, C. A., Streel, M., & Scott, R. A. (1972). Comparison between conodont zonation and spore assemblages at the Devonian-Carboniferous boundary in the western and central United States and in Europe. *Compte Rendu, 7ème Congrès International de Stratigraphie et de Géologie du Carbonifère, Krefeld 1971*, *1*, 179-203.
+
 
 
 
