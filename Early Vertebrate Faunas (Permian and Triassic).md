@@ -1975,7 +1975,16 @@ cf. Ischigualasa
 > - **References**:
 > - **Comments**: 
 
-
+#### ‘siltstone member’, Chinle Formation, Ghost Ranch, Rio Arriba County, New Mexico, USA
+> - **Age**: Rhaetian, Late Triassic
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**: ‘siltstone member’, Chinle Formation, the Coelophysis Quarry (sometimes referred to as Whitaker Quarry ) at Ghost Ranch, Rio Arriba County, New Mexico, USA.
+> - **References**:
+> - **Comments**: 
 
 #### Formation/Member, Locality
 > - **Age**:
@@ -3504,6 +3513,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
