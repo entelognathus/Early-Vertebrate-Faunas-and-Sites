@@ -10,7 +10,10 @@
 ### Tournaisian, Early Mississipian, Carboniferous
 #### Sunbury Shale, Ohio, USA
 > - **Age**: Tournaisian (Kinderhookian), Early Mississippian
-> - **Taxa**: Conodonta: *Siphonodella sulcata*, *Siphonodella duplicata*, *Siphonodella quadruplicata*. Chondrichthyes: *Ctenacanthus* sp., *Orodus* sp., *Cladodus* sp. Osteichthyes: *Paleoniscus* sp. (Hass, 1947; Hoover, 1960; Miller, 1916).
+> - **Taxa**:
+>> - Conodonta: *Siphonodella sulcata*, *Siphonodella duplicata*, *Siphonodella quadruplicata*.
+>> - Chondrichthyes: *Ctenacanthus* sp., *Orodus* sp., *Cladodus* sp.
+>> - Osteichthyes: *Paleoniscus* sp. 
 > - **Locality and horizon**: Basal beds of the Sunbury Shale unconformably overlying the Berea Sandstone; widely distributed in central and northern Ohio (e.g., type locality at Sunbury, Delaware County; outcrops in Cuyahoga County and Reynoldsburg) and extending into the Appalachian Basin (Carman, 1947; Pepper et al., 1954; Hoover, 1960).
 > - **References**: Carman, 1947; De Witt, 1970; Hass, 1947; Hoover, 1960; Miller, 1916; Pepper et al., 1954; Sandberg et al., 1972.
 > - **Comments**:
@@ -1334,6 +1337,7 @@ Newberry, J. S. (1873). Report of the Geological Survey of Ohio, Vol. 1, Part 2:
 Shaffer, A. B., Santucci, V. L., Tweet, J. S., & Hodnett, J. M. (2024). Cuyahoga Valley National Park: Paleontological resource inventory (public version). National Park Service Science Report NPS/SR—2024/210.
 
 Szmuc, E. J. (1970). The Mississippian System. In Banks, P. O., & Feldmann, R. M. (Eds.), Guide to the Geology of Northeastern Ohio (pp. 23-67). Northern Ohio Geological Society. }
+
 
 
 
