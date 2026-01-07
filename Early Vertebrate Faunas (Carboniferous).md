@@ -1315,6 +1315,19 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 
 ## References to be added and sorted.
 
+Carman, J. E. (1947). Geologic section of the Chillicothe test-core. *Ohio Journal of Science*, *47*(2), 49-54.
+
+De Witt, W., Jr. (1970). Age of the Bedford Shale, Berea Sandstone, and Sunbury Shale in the Appalachian and Michigan basins, Pennsylvania, Ohio, and Michigan. *U.S. Geological Survey Bulletin*, *1294-G*, G1-G11. [https://doi.org/10.3133/b1294G](https://www.google.com/search?q=https://doi.org/10.3133/b1294G)
+
+Hass, W. H. (1947). Conodont zones in Upper Devonian and Lower Mississippian formations of Ohio. *Journal of Paleontology*, *21*(2), 131-141.
+
+Hoover, K. V. (1960). Devonian-Mississippian shale sequence in Ohio. *Ohio Division of Geological Survey Information Circular*, *27*, 1-154.
+
+Miller, A. M. (1916). Some historic fish remains from Vanceburg, Kentucky. *Science*, *44*(1124), 71-72.
+
+Pepper, J. F., De Witt, W., Jr., & Demarest, D. F. (1954). Geology of the Bedford Shale and Berea Sandstone in the Appalachian Basin. *U.S. Geological Survey Professional Paper*, *259*, 1-111. [https://doi.org/10.3133/pp259](https://doi.org/10.3133/pp259)
+
+Sandberg, C. A., Streel, M., & Scott, R. A. (1972). Comparison between conodont zonation and spore assemblages at the Devonian-Carboniferous boundary in the western and central United States and in Europe. *Compte Rendu, 7ème Congrès International de Stratigraphie et de Géologie du Carbonifère, Krefeld 1971*, *1*, 179-203.
 
 
 
