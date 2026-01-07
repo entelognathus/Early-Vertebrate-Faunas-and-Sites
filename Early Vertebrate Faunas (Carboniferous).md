@@ -26,11 +26,14 @@
 > - **Comments**: The Meadville Shale preserves rare Early Mississippian vertebrate material, including acanthodian spines and recently discovered tetrapodomorph material, filling a gap in the vertebrate record (Romer's Gap) (Shaffer et al., 2024).
 
 #### Cherepet Horizon, Tula Region, Russia
-> - **Age**:
+> - **Age**: Late Tournaisian; correlates with the Siphonodella quadruplicata Zone (Afanasieva & Kononova, 2009; Makhlina et al., 1993)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Lissodus pectinatus*, *Eunemacanthus krapivnensis*, *Stethacanthus obtusus*, *Orodus tumidus* (Lebedev, 1996; Makhlina et al., 1975)
+>> -  Actinopterygii: Indeterminate scales and teeth (referred to as "fish remains" or "palaeoniscoids"). (Makhlina et al., 1975; Lebedev, 1996)
+>> -  Conodonta: *Siphonodella crenulata*, *Siphonodella cooperi*, *Siphonodella obsoleta*, *Siphonodella quadruplicata*, *Pseudopolygnathus triangulus*, *Patrognathus* sp., *Neoprioniodus* sp., *Hindeodus* sp. (Afanasieva & Kononova, 2009; Makhlina et al., 1975）
+> - **Locality and horizon**: Type sections in the Cherepet River basin (near Chernyshino and Ageevo villages), Tula Region, Moscow Syneclise, Russia. Found in the Chernyshinskaya Formation (limestones) and Ageevskaya Formation (terrigenous-clastic). (Makhlina et al., 1975; Makhlina et al., 1993)
+> - **References**: Afanasieva & Kononova, 2009; Lebedev, 1996; Makhlina et al., 1975; Makhlina et al., 1993.
+> - **Comments**: Unlike the underlying Malevka and Upa horizons which yield diverse diagnostic fish assemblages (e.g., Lissodus, Eunemacanthus), the Cherepet Horizon in the Tula region is characterized by a paucity of diagnostic macro-vertebrate remains, yielding primarily indeterminate ichthyoliths alongside a rich conodont fauna. The depositional environment represents a transition from marginal marine/lagoonal (Ageevskaya) to shallow open marine carbonate shelf (Chernyshinskaya). 
 
 #### Taidon Formation, Kuznetsk Basin, Siberia, Russia
 > - **Age**:
@@ -1337,6 +1340,7 @@ Newberry, J. S. (1873). Report of the Geological Survey of Ohio, Vol. 1, Part 2:
 Shaffer, A. B., Santucci, V. L., Tweet, J. S., & Hodnett, J. M. (2024). Cuyahoga Valley National Park: Paleontological resource inventory (public version). National Park Service Science Report NPS/SR—2024/210.
 
 Szmuc, E. J. (1970). The Mississippian System. In Banks, P. O., & Feldmann, R. M. (Eds.), Guide to the Geology of Northeastern Ohio (pp. 23-67). Northern Ohio Geological Society. }
+
 
 
 
