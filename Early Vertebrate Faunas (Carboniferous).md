@@ -1341,6 +1341,13 @@ Shaffer, A. B., Santucci, V. L., Tweet, J. S., & Hodnett, J. M. (2024). Cuyahoga
 
 Szmuc, E. J. (1970). The Mississippian System. In Banks, P. O., & Feldmann, R. M. (Eds.), Guide to the Geology of Northeastern Ohio (pp. 23-67). Northern Ohio Geological Society. }
 
+Afanasieva, M. S., & Kononova, L. I. (2009). Late Tournaisian radiolarians and conodonts from the Orenburg Region, Russia. Carboniferous Type Sections in Russia and Potential Global Stratotypes, 18-47.
+
+Lebedev, O. A. (1996). Fish assemblages in the Tournaisian-Viséan environments of the East European Platform. Geological Society, London, Special Publications, 107(1), 387-415.
+
+Makhlina, M. H., et al. (1975). Field excursion guidebook for the Carboniferous sections of the Moscow Basin. Nauka.
+
+Makhlina, M. H., Vdovenko, M. V., Alekseev, A. S., et al. (1993). Lower Carboniferous of the Moscow Syneclise and Voronezh Anteclise. Nauka.
 
 
 
