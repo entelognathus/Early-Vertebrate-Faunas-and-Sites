@@ -1860,35 +1860,42 @@ cf. Ischigualasa
 > - **References**:
 > - **Comments**
 
-### Copper Canyon Formation, Dockum Group, Garza County, west Texas
+#### Copper Canyon Formation, Dockum Group, Garza County, west Texas
 > - **Age**: Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
 
-### Colorado City Formation, Dockum Group, Howard County, Texas
+#### Tecovas Formation, Dockum/Chinle Group, Garza County, west Texas
+> - **Age**: Norian, Late Triassic.
+> - **Taxa**:
+> - **Locality and horizon**: 
+> - **References**:
+> - **Comments**:
+
+#### Colorado City Formation, Dockum Group, Howard County, Texas
 > - **Age**: Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**: Otis Chalk fossi sites (Schaeffer Fish Quarry). Lehman (1994) and Lehman and Chatterjee (2005) have argued that the Colorado City Formation is correlative with the Cooper Canyon Formation.
 
-### Camp Springs Conglomerate, Dockum Group, Scurry County, Texas
+#### Camp Springs Conglomerate, Dockum Group, Scurry County, Texas
 > - **Age**: early Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: Elkins Place bone bed, Camp Springs Conglomerate, Dockum Group, Scurry County, Texas.
 > - **References**:
 > - **Comments**:
 
-### Santa Rosa Formation, Dockum Group, New Mexico and the Texas panhandle
+#### Santa Rosa Formation, Dockum Group, New Mexico and the Texas panhandle
 > - **Age**: early Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
 
-### Bull Canyon Formation, Dockum Group, New Mexico and the Texas panhandle
+#### Bull Canyon Formation, Dockum Group, New Mexico and the Texas panhandle
 > - **Age**: late Norian, Late Triassic.
 > - **Taxa**:
 > - **Locality and horizon**: 
@@ -3497,6 +3504,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
