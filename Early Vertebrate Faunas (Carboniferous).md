@@ -9,10 +9,10 @@
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
 #### Sunbury Shale, Ohio, USA
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+> - **Age**: Tournaisian (Kinderhookian), Early Mississippian
+> - **Taxa**: Conodonta: *Siphonodella sulcata*, *Siphonodella duplicata*, *Siphonodella quadruplicata*. Chondrichthyes: *Ctenacanthus* sp., *Orodus* sp., *Cladodus* sp. Osteichthyes: *Paleoniscus* sp. (Hass, 1947; Hoover, 1960; Miller, 1916).
+> - **Locality and horizon**: Basal beds of the Sunbury Shale unconformably overlying the Berea Sandstone; widely distributed in central and northern Ohio (e.g., type locality at Sunbury, Delaware County; outcrops in Cuyahoga County and Reynoldsburg) and extending into the Appalachian Basin (Carman, 1947; Pepper et al., 1954; Hoover, 1960).
+> - **References**: Carman, 1947; De Witt, 1970; Hass, 1947; Hoover, 1960; Miller, 1916; Pepper et al., 1954; Sandberg et al., 1972.
 > - **Comments**:
 
 #### Cuyahoga Formation (Meadville Shale Member), Northeastern Ohio, USA
@@ -44,7 +44,7 @@
 > - **Comments**:
 
 #### Laurel Formation, Canning Basin, Western Australia, Australia
-> - **Age**:
+> - **Age**: 
 > - **Taxa**:
 > - **Locality and horizon**:
 > - **References**:
@@ -1314,6 +1314,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 300. Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 
 ## References to be added and sorted.
+
 
 
 
