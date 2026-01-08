@@ -1349,6 +1349,9 @@ Makhlina, M. H., et al. (1975). Field excursion guidebook for the Carboniferous 
 
 Makhlina, M. H., Vdovenko, M. V., Alekseev, A. S., et al. (1993). Lower Carboniferous of the Moscow Syneclise and Voronezh Anteclise. Nauka.
 
+Bouckaert, J., & Boonen, P. (1978). A conodont fauna of the Dinantian from the Kuznetsk Basin (southern Siberia). *Annales de la Société Géologique de Belgique*, *100*(1977), 157–165.
+
+Colpaert, C., Vachard, D., & Izokh, N. (2017). Tournaisian (Early Carboniferous) foraminifers of the Kuznetsk Basin (South-West Siberia, Russia): Taxonomy, biometry, biostratigraphy and palaeobiogeography. *Bulletin de la Société Géologique de France*, *188*(1-2), 23–36. [https://doi.org/10.1051/bsgf/2017003](https://doi.org/10.1051/bsgf/2017003)
 
 
 
