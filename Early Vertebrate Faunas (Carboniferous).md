@@ -1362,6 +1362,11 @@ Qie, W. K., Wang, X. D., Zhang, X. H., Ji, W. T., Grossman, E. L., Huang, X., Li
 
 Wang, H. (Compiler). (2022). *Tangbagou Formation*. China Lexicon of Geological Formations. Retrieved from https://chinalex.geolex.org/formations/Tangbagou%20Fm
 
+Roelofs, B., Barham, M., Mory, A. J., & Trinajstic, K. (2016). Late Devonian and Early Carboniferous chondrichthyans from the Fairfield Group, Canning Basin, Western Australia. *Palaeontologia Electronica*, *19*(1), 1-28. [https://doi.org/10.26879/583](https://www.google.com/search?q=https://doi.org/10.26879/583)
+
+Thomas, G. A. (1959). The Lower Carboniferous Laurel Formation of the Fitzroy Basin. *Bureau of Mineral Resources, Geology and Geophysics, Report 38*.
+
+Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journal of Vertebrate Paleontology*, *2*(2), 117-131.
 
 
 
