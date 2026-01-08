@@ -43,11 +43,14 @@
 > - **Comments**: The vertebrate fauna is represented by a low-diversity conodont assemblage characteristic of shallow marine, nearshore coastal environments. The presence of *Clydagnathus* and *Polygnathus communis communis* supports a shallow-water ramp setting. (Bouckaert & Boonen, 1978; Colpaert et al., 2017)
 
 #### Tangbagou Formation, Guizhou, China
-> - **Age**:
+> - **Age**: Late Tournaisian (Qie et al., 2016; Wang, 2022)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> -  Conodonta: *Clydagnathus gilwernensis*, *Clydagnathus unicornis*, *Polygnathus spicatus*, *Polygnathus communis porcatus*, *Polygnathus communis communis*, *Polygnathus communis carina*, *Polygnathus purus purus*, *Siphonodella homosimplex*, *Siphonodella sinensis*, *Siphonodella eurylobata*, *Siphonodella dasaibaensis*, *Pseudopolygnathus multistriatus*, *Gnathodus cuneiformis*, *Bispathodus aculeatus anteposicornis*, *Spathognathodus* sp. (Jiang, 1994; Qie et al., 2016)
+>> - Ichthyoliths: Indeterminate fish microremains (scales, teeth, dermal denticles). (Qie et al., 2016)
+> - **Locality and horizon**: Tangbagou (type section), Qilinzhai section (hypostratotype), and Baihupo section, Dushan County, Guizhou Province. (Jiang, 1994; Qie et al., 2016; Wang, 2022)
+> - **References**: Jiang, 1994; Qie et al., 2016; Wang, 2022.
+> - **Comments**: Shallow-water mixed carbonate-siliciclastic platform deposits consisting of micritic limestones, clayey limestones, and shales; vertebrate assemblage dominated by endemic shallow-water conodont faunas and indeterminate ichthyoliths recovered from acid-insoluble residues; records the Hangenberg and Tournaisian Carbon Isotope Excursions. (Qie et al., 2016; Wang, 2022)
+
 
 #### Laurel Formation, Canning Basin, Western Australia, Australia
 > - **Age**: 
@@ -1352,6 +1355,7 @@ Makhlina, M. H., Vdovenko, M. V., Alekseev, A. S., et al. (1993). Lower Carbonif
 Bouckaert, J., & Boonen, P. (1978). A conodont fauna of the Dinantian from the Kuznetsk Basin (southern Siberia). *Annales de la Société Géologique de Belgique*, *100*(1977), 157–165.
 
 Colpaert, C., Vachard, D., & Izokh, N. (2017). Tournaisian (Early Carboniferous) foraminifers of the Kuznetsk Basin (South-West Siberia, Russia): Taxonomy, biometry, biostratigraphy and palaeobiogeography. *Bulletin de la Société Géologique de France*, *188*(1-2), 23–36. [https://doi.org/10.1051/bsgf/2017003](https://doi.org/10.1051/bsgf/2017003)
+
 
 
 
