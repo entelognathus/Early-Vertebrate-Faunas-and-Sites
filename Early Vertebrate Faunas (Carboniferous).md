@@ -36,11 +36,11 @@
 > - **Comments**: Unlike the underlying Malevka and Upa horizons which yield diverse diagnostic fish assemblages (e.g., Lissodus, Eunemacanthus), the Cherepet Horizon in the Tula region is characterized by a paucity of diagnostic macro-vertebrate remains, yielding primarily indeterminate ichthyoliths alongside a rich conodont fauna. The depositional environment represents a transition from marginal marine/lagoonal (Ageevskaya) to shallow open marine carbonate shelf (Chernyshinskaya). 
 
 #### Taidon Formation, Kuznetsk Basin, Siberia, Russia
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Early Tournaisian
+> - **Taxa**: Conodonta: *Polygnathus communis communis*, *Bispathodus aculeatus plumulus*, *Clydagnathus darensis*, *Clydagnathus gilwernensis*, *Siphonodella* sp., *Hindeodella* sp., *Angulodus* sp. (Bouckaert & Boonen, 1978; Colpaert et al., 2017)
+> - **Locality and horizon**: Kuznetsk Basin (Old Belovo Quarry, Artyshta, Starobachaty, Kondoma River, Chumush River); Taidon Formation (Taidonsky Horizon). (Colpaert et al., 2017; Bouckaert & Boonen, 1978)
+> - **References**: Bouckaert & Boonen, 1978; Colpaert et al., 2017.
+> - **Comments**: The vertebrate fauna is represented by a low-diversity conodont assemblage characteristic of shallow marine, nearshore coastal environments. The presence of *Clydagnathus* and *Polygnathus communis communis* supports a shallow-water ramp setting. (Bouckaert & Boonen, 1978; Colpaert et al., 2017)
 
 #### Tangbagou Formation, Guizhou, China
 > - **Age**:
@@ -1348,6 +1348,7 @@ Lebedev, O. A. (1996). Fish assemblages in the Tournaisian-Viséan environments 
 Makhlina, M. H., et al. (1975). Field excursion guidebook for the Carboniferous sections of the Moscow Basin. Nauka.
 
 Makhlina, M. H., Vdovenko, M. V., Alekseev, A. S., et al. (1993). Lower Carboniferous of the Moscow Syneclise and Voronezh Anteclise. Nauka.
+
 
 
 
