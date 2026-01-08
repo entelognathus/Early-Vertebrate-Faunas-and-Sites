@@ -1356,6 +1356,11 @@ Bouckaert, J., & Boonen, P. (1978). A conodont fauna of the Dinantian from the K
 
 Colpaert, C., Vachard, D., & Izokh, N. (2017). Tournaisian (Early Carboniferous) foraminifers of the Kuznetsk Basin (South-West Siberia, Russia): Taxonomy, biometry, biostratigraphy and palaeobiogeography. *Bulletin de la Société Géologique de France*, *188*(1-2), 23–36. [https://doi.org/10.1051/bsgf/2017003](https://doi.org/10.1051/bsgf/2017003)
 
+Jiang, Z. W. (1994). Conodonts from the Tangbagou Formation in Dushan, Guizhou. *Acta Micropalaeontologica Sinica*, *11*(4), 379–399.
+
+Qie, W. K., Wang, X. D., Zhang, X. H., Ji, W. T., Grossman, E. L., Huang, X., Liu, J. S., & Luo, G. M. (2016). Latest Devonian to earliest Carboniferous conodont and carbon isotope stratigraphy of a shallow-water sequence in South China. *Geological Journal*, *51*(6), 915–935. https://doi.org/10.1002/gj.2710
+
+Wang, H. (Compiler). (2022). *Tangbagou Formation*. China Lexicon of Geological Formations. Retrieved from https://chinalex.geolex.org/formations/Tangbagou%20Fm
 
 
 
