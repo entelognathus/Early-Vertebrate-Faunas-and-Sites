@@ -53,11 +53,11 @@
 
 
 #### Laurel Formation, Canning Basin, Western Australia, Australia
-> - **Age**: 
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Tournaisian
+> - **Taxa**: Chondrichthyes: *Thrinacodus ferox* (syn. *Harpagodens ferox*), *Cladodus thomasi*, *Stethacanthus* spp., *Protacrodus aequalis*, *Protacrodus* sp., *Lissodus* spp., *Deihim mansureae*, *Cassisodus* sp., Ctenacanthid sp., *Ageleodus* sp., *Helodus* spp., *Orodus* sp. (Turner, 1982; Roelofs et al., 2016)
+> - **Locality and horizon**: Twelve Mile Bore (Goongewa) 
+> - **References**: Roelofs et al., 2016; Thomas, 1959; Turner, 1982.
+> - **Comments**: The formation represents a shallow water carbonate platform environment (lagoonal to shoal facies) deposited following the end-Devonian extinction; the fauna is dominated by chondrichthyans, particularly crushing-toothed forms and the phoebodont *Thrinacodus ferox*, with diverse microvertebrate preservation. (Roelofs et al., 2016)
 
 #### Telemon Formation, Narrien Range, Queensland, Australia
 > - **Age**:
@@ -1367,6 +1367,7 @@ Roelofs, B., Barham, M., Mory, A. J., & Trinajstic, K. (2016). Late Devonian and
 Thomas, G. A. (1959). The Lower Carboniferous Laurel Formation of the Fitzroy Basin. *Bureau of Mineral Resources, Geology and Geophysics, Report 38*.
 
 Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journal of Vertebrate Paleontology*, *2*(2), 117-131.
+
 
 
 
