@@ -176,17 +176,16 @@
 > - **Comments**: Environment. Non-marine, lacustrine with marine 
 
 #### Blue Beach Member, Horton Bluff Formation, Blue Beach, Nova Scotia, Canada
-> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Age**: Late Tournaisian (Ivorian, TN3; *Spelaeotriletes pretiosus*–*Raistrickia clavata* Zone). (Anderson et al., 2015; Utting et al., 1989)
 > - **Taxa**:
->> - Tetrapoda: Whatcheeriids, Embolomeres/“Reptiliomorphs”, Acanthostega? Ichthyostega? Colosteids?
->> - Basal actinopterygians
->> - Rhizodontids
->> - Acanthodids
->> - Chondrichthyans
->> - lungfish
-> - **Locality and horizon**: Blue Beach Member of the Horton Bluff Formation，Nova Scotia, Canada
-> - **References**: Anderson et al., 2015; Mansky et al., 2013； Clack, 2000; Hunt, 2004; Lucas, 2004
-> - **Comments**: Western shore of the Avon River (confluence with Bay of Fundy) north of Hantsport
+>> - Tetrapoda: Whatcheeriidae indet. (cf. *Whatcheeria*), Acanthostegidae indet., Tulerpetontidae indet., Embolomeri indet. (Anderson et al., 2015)
+>> - Sarcopterygii: *Letognathus hardingi*, *Strepsodus* sp., *Rhizodus* sp., Dipterid-grade lungfish (cf. Dipteridae). (Brazeau, 2005; Heusinkveld, 2024; Pardo et al., 2024)
+>> - Actinopterygii: *Avonichthys manskyi*, *Sphyragnathus tyche*, *Elonichthys* sp., *Rhadinichthys* sp., *Canobius* sp., Platysomidae indet. (Mansky & Lucas, 2013; Wilson et al., 2018; Wilson et al., 2021; Wilson et al., 2025)
+>> - Chondrichthyes: *Ageleodus pectinatus*, *Ctenacanthus* sp. (Downs & Daeschler, 2001; Mansky & Lucas, 2013)
+>> - Acanthodii: *Gyracanthides* sp. (Mansky & Lucas, 2013)
+> - **Locality and horizon**: Blue Beach (N 45° 05', W 64° 13'), near Hantsport, Nova Scotia; coastal exposures of the Blue Beach Member, Horton Bluff Formation. (Mansky & Lucas, 2013)
+> - **References**: Anderson et al., 2015; Brazeau, 2005; Heusinkveld, 2024; Mansky & Lucas, 2013; Pardo et al., 2024; Utting et al., 1989; Wilson et al., 2018; Wilson et al., 2021; Wilson et al., 2025.
+> - **Comments**: "Romer's Gap" locality; high-energy nearshore/estuarine deposits yielding a diverse, largely disarticulated fauna of basal tetrapods and fishes; evidence of non-marine to brackish influence. (Anderson et al., 2015; Tibert & Scott, 1999)
 
 #### Lower Os’kin/Bystraya/Bystr’anskaya Formation, Minussinsk Depression, Siberia, Russia
 > - **Age**: Early to middle Tournaisian.
@@ -1533,6 +1532,7 @@ Lane, H. R. (1978). The Burlington Shelf (Mississippian, north-central United St
 Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. US Geological Survey Monograph 16.
 
 St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
+
 
 
 
