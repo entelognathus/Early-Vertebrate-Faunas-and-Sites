@@ -266,13 +266,15 @@
 >> - *Pederpes* from Scotland (Clack & Finney 2005).
 
 #### Ballagan Formation, Willie’s Hole near Chimiside, Scotland
-> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Age**: Tournaisian (CM *Clivosispora verrucosa*–*Schopfites claviger* palynozone, ~348 Ma). (Bennett et al., 2016; Clack et al., 2016)
 > - **Taxa**: 
->> - Actinopterygian: *Phanerosteon ovensi*， *Aetheretmon valentiacum*
->> - Tetrapod:
-> - **Locality and horizon**: Willie’s Hole Shrimp Bed, Ballagan Formation, Willie’s Hole near Chimiside, Scotland.
-> - **References**: Smithson et al., 2012；Cater, 1989
-> - **Comments**: 
+>> - Tetrapoda: *Perittodus apsconditus*, *Koilops herma*, *Mesanerpeton woodi*, unnamed large tetrapod ("Ribbo" specimen SPW 4165). (Clack et al., 2016; Smithson et al., 2012; Smithson & Clack, 2018)
+>> - Sarcopterygii: *Ctenodus williei*, *Uronemus splendens*, *Archichthys* sp., *Strepsodus* sp., *Rhizodopsis* sp. (Bennett et al., 2016; Smithson et al., 2016)
+>> - Actinopterygii: *Phanerosteon ovensi*, *Aetheretmon valentiacum*, *Styracopterus fulcratus*. (Smithson et al., 2012; Bennett et al., 2016)
+>> - Chondrichthyes: *Ageleodus pectinatus*, *Gyracanthus* sp. (Acanthodii). (Bennett et al., 2016)
+> - **Locality and horizon**: Exposure on the banks and bed of the Whiteadder Water, near Chirnside, Berwickshire, Scottish Borders; sandy siltstones of the overbank facies. (Bennett et al., 2016; Smithson et al., 2012)
+> - **References**: Bennett et al., 2016; Clack et al., 2016; Smithson et al., 2012; Smithson et al., 2016; Smithson & Clack, 2018.
+> - **Comments**: A key "Romer's Gap" locality representing a coastal floodplain environment with ephemeral saline lakes and vegetation-rich overbank deposits; preservation in nodules within siltstones has yielded diverse articulated tetrapods and terrestrial arthropods. (Bennett et al., 2016)
 
 #### Ballagan Formation, Auchenreoch Glen (Dumbarton), Western Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
@@ -1554,6 +1556,7 @@ Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2018). A primitive actinopteryg
 Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2021). A platysomid occurrence from the Tournaisian of Nova Scotia. *Scientific Reports*, *11*, 7936.
 
 Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2025). A new predatory actinopterygian from the Tournaisian of Nova Scotia provides insight into the evolution of actinopterygian feeding. *Journal of Vertebrate Paleontology*, *44*(6). https://doi.org/10.1080/02724634.2025.2498453
+
 
 
 
