@@ -1450,6 +1450,21 @@ Janvier, P., Letullier, A., & Monod, O. (1984). Discovery of a vertebrate fauna 
 
 Yalçın, M. N., & Yılmaz, İ. (2010). Devonian in Turkey—A review. *Geologica Carpathica*, *61*(3), 235–253. https://doi.org/10.2478/v10096-010-0014-4
 
+Caster, K. E. (1934). The stratigraphy and paleontology of northwestern Pennsylvania. *Bulletins of American Paleontology*, *21*(71), 1–185.
+
+Eastman, C. R. (1917). Fossil fishes in the collection of the United States National Museum. *Proceedings of the United States National Museum*, *52*(2177), 235–304.
+
+Hansen, M. C. (1996). Phylum Chordata, Vertebrate Fossils. In *Fossils of Ohio (Bulletin 70)*. Ohio Division of Geological Survey.
+
+Newberry, J. S. (1873). *Report of the Geological Survey of Ohio, Vol. I: Geology and Palaeontology*. Nevins & Myers.
+
+Newberry, J. S. (1875). *Report of the Geological Survey of Ohio, Vol. II: Geology and Palaeontology*. Nevins & Myers.
+
+Newberry, J. S. (1884). *Ctenacanthus wrighti*, n. sp. *35th Annual Report of the New York State Museum of Natural History*, 206.
+
+Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. U.S. Geological Survey Monograph XVI.
+
+Zidek, J. (1993). A large *Stethacanthus* spine from the Lower Mississippian of Oklahoma. *Oklahoma Geology Notes*, *53*(1), 4–15.
 
 
 
