@@ -1557,6 +1557,15 @@ Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2021). A platysomid occurrence 
 
 Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2025). A new predatory actinopterygian from the Tournaisian of Nova Scotia provides insight into the evolution of actinopterygian feeding. *Journal of Vertebrate Paleontology*, *44*(6). https://doi.org/10.1080/02724634.2025.2498453
 
+Bennett, C. E., Kearsey, T. I., Davies, S. J., Millward, D., Clack, J. A., Smithson, T. R., & Marshall, J. E. (2016). Palaeoenvironment and palaeoecology of the Early Mississippian tetrapod locality Willie's Hole, Scottish Borders, UK. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *106*(4), 237–246.
+
+Clack, J. A., Bennett, C. E., Carpenter, D. K., Davies, S. J., Fraser, N. C., Kearsey, T. I., ... & Smithson, T. R. (2016). Phylogenetic and environmental context of a Tournaisian tetrapod fauna. *Nature Ecology & Evolution*, *1*(1), 0002. https://doi.org/10.1038/s41559-016-0002
+
+Smithson, T. R., & Clack, J. A. (2018). A new tetrapod from Romer's Gap reveals an early adaptation for walking. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *108*(1), 89–97.
+
+Smithson, T. R., Richards, K. R., & Clack, J. A. (2016). Lungfish diversity in Romer's Gap: reaction to the end-Devonian extinction. *Palaeontology*, *59*(1), 29–44.
+
+Smithson, T. R., Wood, S. P., Marshall, J. E., & Clack, J. A. (2012). Earliest Carboniferous tetrapod and arthropod faunas from Scotland populate Romer's Gap. *Proceedings of the National Academy of Sciences*, *109*(12), 4532–4537. https://doi.org/10.1073/pnas.1117332109
 
 
 
