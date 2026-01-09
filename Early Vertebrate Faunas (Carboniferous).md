@@ -1567,6 +1567,15 @@ Smithson, T. R., Richards, K. R., & Clack, J. A. (2016). Lungfish diversity in R
 
 Smithson, T. R., Wood, S. P., Marshall, J. E., & Clack, J. A. (2012). Earliest Carboniferous tetrapod and arthropod faunas from Scotland populate Romer's Gap. *Proceedings of the National Academy of Sciences*, *109*(12), 4532–4537. https://doi.org/10.1073/pnas.1117332109
 
+Clack, J. A. (2002). An early tetrapod from 'Romer's Gap'. *Nature*, *418*(6893), 72–76. https://doi.org/10.1038/nature00824
+
+Clack, J. A., & Finney, S. M. (2005). *Pederpes finneyae*, an articulated tetrapod from the Tournaisian of Western Scotland. *Journal of Systematic Palaeontology*, *2*(4), 311–346.
+
+Kearsey, T. I., Bennett, C. E., Millward, D., Davies, S. J., Gowing, C. J., Kemp, S. J., Leng, M. J., Marshall, J. E. A., & Browne, M. A. E. (2016). The terrestrialization of the Carboniferous coastal plain of the Midland Valley of Scotland. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *457*, 52–69. https://doi.org/10.1016/j.palaeo.2016.05.023
+
+Marshall, J. E. A., Reeves, E., Bennett, C. E., Davies, S. J., Kearsey, T. I., Millward, D., Smithson, T. R., & Browne, M. A. E. (2019). The Devonian–Carboniferous boundary in the Midland Valley of Scotland. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *108*(2–3), 1–27.
+
+Smithson, T. R., Wood, S. P., Marshall, J. E. A., & Clack, J. A. (2012). Earliest Carboniferous tetrapod and arthropod faunas from Scotland populate Romer's Gap. *Proceedings of the National Academy of Sciences*, *109*(12), 4532–4537. https://doi.org/10.1073/pnas.1117332109
 
 
 
