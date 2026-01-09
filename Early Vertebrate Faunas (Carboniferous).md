@@ -104,10 +104,14 @@
 
 #### Waverly group, Oil Creek, Ohio, USA
 > - **Age**: Tournaisian
-> - **Taxa**: *Ctenacanthus triangularis*, **,
-> - **Locality and horizon**: Waverly group, Oil Creek, Ohio, USA
-> - **References**: (Newberry, 1873)
-> - **Comments**: 
+> - **Taxa**: 
+>> - Chondrichthyes: *Ctenacanthus wrighti*, *Ctenacanthus* sp., *Gyracanthus* sp., *Orodus* sp., *Helodus* sp., *Stethacanthus* sp., *Cladodus* spp. (Newberry, 1884; Newberry, 1889; Eastman, 1917; Zidek, 1993)
+>> - Actinopterygii: *Palaeoniscus* sp., Palaeoniscoid indet. (Newberry, 1873)
+>> - Sarcopterygii: *Dipterus* sp. (Newberry, 1889; Caster, 1934)
+> - **Locality and horizon**: Miller Farm and outcrops along Oil Creek, Venango County, Pennsylvania; Corry Sandstone (historically assigned to Waverly Group). (Newberry, 1875; Caster, 1934)
+> - **References**:  Caster, 1934; Eastman, 1917; Hansen, 1996; Newberry, 1873; Newberry, 1875; Newberry, 1884; Newberry, 1889; Zidek, 1993.
+> - **Comments**: The "Oil Creek" vertebrate fauna described by Newberry is primarily from the Corry Sandstone of Pennsylvania, which is the lateral stratigraphic equivalent of the Berea Sandstone (Waverly Group) of Ohio; preservation is typically as disarticulated spines and teeth in coarse sandstone. (Caster, 1934; Hansen, 1996)
+
 
 
 #### Kinderhook Limestone, Iowa, USA
@@ -1445,6 +1449,7 @@ Janvier, P., & Clément, G. (2007). A primitive megalichthyid fish (Sarcopterygi
 Janvier, P., Letullier, A., & Monod, O. (1984). Discovery of a vertebrate fauna at the Devonian-Carboniferous boundary in SE Turkey (Hakkari Province). *Journal of Petroleum Geology*, *7*(2), 147–168. https://doi.org/10.1111/j.1747-5457.1984.tb00465.x
 
 Yalçın, M. N., & Yılmaz, İ. (2010). Devonian in Turkey—A review. *Geologica Carpathica*, *61*(3), 235–253. https://doi.org/10.2478/v10096-010-0014-4
+
 
 
 
