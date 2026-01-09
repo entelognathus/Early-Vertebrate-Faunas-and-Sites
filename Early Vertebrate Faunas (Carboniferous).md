@@ -60,11 +60,15 @@
 > - **Comments**: The formation represents a shallow water carbonate platform environment (lagoonal to shoal facies) deposited following the end-Devonian extinction; the fauna is dominated by chondrichthyans, particularly crushing-toothed forms and the phoebodont *Thrinacodus ferox*, with diverse microvertebrate preservation. (Roelofs et al., 2016)
 
 #### Telemon Formation, Narrien Range, Queensland, Australia
-> - **Age**:
+> - **Age**: Early Tournaisian (Fox et al., 1995; Turner, 1993)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Thrinacodus ferox*, *Tristychius* sp. cf. *T. arcuatus*, *Ageleodus* sp., *Diptoselache* sp., *Ctenacanthus* sp., *Listracanthus* sp., Xenacanthoid indet. (Turner, 1982; Turner, 1993)
+>> - Acanthodii: *Acanthodes* sp. (scales). (Turner, 1993)
+>> - Actinopterygii: Palaeoniscoid indet. (scales comparable to *Mansfieldiscus*). (Turner, 1993)
+>> - Sarcopterygii: Crossopterygian indet. (akin to *Megalichthys*), Rhizodontida indet. (teeth/scales). (Turner, 1993)
+> - **Locality and horizon**: Narrien Range, approximately 50 km west of Clermont; localities QML51 (Upper Telemon bonebed) and M99 (Mountain Road site). (Turner, 1993)
+> - **References**: Fox et al., 1995; Turner, 1982; Turner, 1993.
+> - **Comments**: The assemblage is preserved as microvertebrate remains in lag deposits (bone beds); it represents a "marginal marine" or estuarine fauna characterized by the co-occurrence of marine (*Thrinacodus*, *Tristychius*) and non-marine (*Ageleodus*, xenacanths) taxa. (Turner, 1993)
 
 #### Obrutschew Bjerg Formation, Celsius Bjerg, East Greenland
 > - **Age**:
@@ -1367,6 +1371,7 @@ Roelofs, B., Barham, M., Mory, A. J., & Trinajstic, K. (2016). Late Devonian and
 Thomas, G. A. (1959). The Lower Carboniferous Laurel Formation of the Fitzroy Basin. *Bureau of Mineral Resources, Geology and Geophysics, Report 38*.
 
 Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journal of Vertebrate Paleontology*, *2*(2), 117-131.
+
 
 
 
