@@ -277,11 +277,11 @@
 > - **Comments**: A key "Romer's Gap" locality representing a coastal floodplain environment with ephemeral saline lakes and vegetation-rich overbank deposits; preservation in nodules within siltstones has yielded diverse articulated tetrapods and terrestrial arthropods. (Bennett et al., 2016)
 
 #### Ballagan Formation, Auchenreoch Glen (Dumbarton), Western Scotland
-> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
+> - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.  (Ivorian substage; Tn3c; *Schopfites claviger*-*Auroraspora macra* (CM) miospore zone). (Clack, 2002; Clack & Finney, 2005; Marshall et al., 2019)
 > - **Taxa**: *Pederpes finneyae*
-> - **Locality and horizon**: Ballagan Formation, Inverclyde Group (formerly Cementstone Group, Calciferous Sandstone Series); Auchenreoch Glen (Dumbarton), Western Scotland.
-> - **References**: Smithson et al., 2012；Clack, 2002; Clack & Finney, 2005
-> - **Comments**: Ivorian, Early Carboniferous (348–344 Myr). claviger-macra (CM) palynozone (possibly from the lower part of this zone). Auchenreoch Glen, near Maryland Farm, 2–3 km north of Dumbarton, western Scotland.
+> - **Locality and horizon**:  Auchenreoch Glen, near Dumbarton, Western Scotland (National Grid Reference NS 241827, 678323). The specimen was recovered from a single clayey limestone nodule within a 2.05 m thick bed of mottled buff-grey to red sandy siltstone/cementstone, located approximately 44 m above the Murroch Burn at the top of the exposed section; the horizon is situated between two thick continuous cementstone beds and contains vertisol characteristics. (Clack & Finney, 2005; Marshall et al., 2019)
+> - **References**: Clack, 2002; Clack & Finney, 2005; Kearsey et al., 2016; Marshall et al., 2019; Smithson et al., 2012.
+> - **Comments**: The Auchenreoch Glen locality is significant for yielding the holotype of *Pederpes finneyae*, the earliest known tetrapod to exhibit functional pentadactyly and locomotion adaptations for terrestrial environments, effectively bridging the morphological "Romer's Gap." The depositional environment represents a coastal floodplain or lagoonal setting subject to seasonal aridity, evidenced by the presence of ferroan dolostones and vertisol palaeosols (paleosols with sub-vertical inclined cracks indicating wetting and drying cycles). The specimen was originally collected in 1971 and misidentified as a rhizodont fish before its reclassification as a tetrapod in 2002. Unlike other Ballagan Formation localities (e.g., Willie's Hole, Burnmouth) which yield diverse assemblages of rhizodonts, lungfish, and actinopterygians, Auchenreoch Glen is primarily characterized by this solitary, articulated tetrapod specimen. (Clack, 2002; Clack & Finney, 2005; Kearsey et al., 2016; Marshall et al., 2019; Smithson et al., 2012)
 
 #### Ballagan Formation, Coldstream, Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
@@ -1566,6 +1566,7 @@ Smithson, T. R., & Clack, J. A. (2018). A new tetrapod from Romer's Gap reveals 
 Smithson, T. R., Richards, K. R., & Clack, J. A. (2016). Lungfish diversity in Romer's Gap: reaction to the end-Devonian extinction. *Palaeontology*, *59*(1), 29–44.
 
 Smithson, T. R., Wood, S. P., Marshall, J. E., & Clack, J. A. (2012). Earliest Carboniferous tetrapod and arthropod faunas from Scotland populate Romer's Gap. *Proceedings of the National Academy of Sciences*, *109*(12), 4532–4537. https://doi.org/10.1073/pnas.1117332109
+
 
 
 
