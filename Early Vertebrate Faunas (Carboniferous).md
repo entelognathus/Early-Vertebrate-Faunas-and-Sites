@@ -1393,6 +1393,13 @@ Marshall, J. E. A., Astin, T. R., & Clack, J. A. (1999). The East Greenland tetr
 
 Qvarnström, M., Niedźwiedzki, G., & Ahlberg, P. E. (2022). Coprolite diversity reveals a cryptic ecosystem in an early Tournaisian lake in East Greenland: Implications for ecosystem recovery after the end-Devonian extinction. Palaeogeography, Palaeoclimatology, Palaeoecology, 605, 111215. https://doi.org/10.1016/j.palaeo.2022.111215
 
+Evans, F. J. (1999). Palaeobiology of Early Carboniferous lacustrine biota of the Waaipoort Formation (Witteberg Group), South Africa. *Palaeontologia Africana*, *35*, 1–115.
+
+Gardiner, B. G. (1969). New palaeoniscoid fish from the Witteberg series of South Africa. *Zoological Journal of the Linnean Society*, *48*(4), 423–452. https://doi.org/10.1111/j.1096-3642.1969.tb00722.x
+
+Gess, R. W., & Whitfield, A. K. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. *Biological Reviews*, *95*(4), 865–888.
+
+Jubb, R. A. (1965). A new palaeoniscid fish from the Witteberg Series (Lower Carboniferous) of South Africa. *Annals of the South African Museum*, *48*, 267–272.
 
 
 
