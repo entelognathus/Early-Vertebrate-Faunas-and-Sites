@@ -1381,7 +1381,13 @@ Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journ
 
 Turner, S. (1993). Early Carboniferous microvertebrates from the Narrien Range, central Queensland. *Memoirs of the Association of Australasian Palaeontologists*, *15*, 289–304.
 
+Friedman, M., & Blom, H. (2006). A new actinopterygian from the Famennian of East Greenland and the interrelationships of Devonian ray-finned fishes. Journal of Paleontology, 80(6), 1186-1204. https://doi.org/10.1666/0022-3360(2006)802.0.CO;2
 
+Marshall, J. E. A. (2020). A terrestrial Devonian-Carboniferous boundary section in East Greenland. Palaeobiodiversity and Palaeoenvironments, 100, 1-19. https://doi.org/10.1007/s12549-020-00448-x
+
+Marshall, J. E. A., Astin, T. R., & Clack, J. A. (1999). The East Greenland tetrapods are Devonian in age. Geology, 27(7), 637-640.
+
+Qvarnström, M., Niedźwiedzki, G., & Ahlberg, P. E. (2022). Coprolite diversity reveals a cryptic ecosystem in an early Tournaisian lake in East Greenland: Implications for ecosystem recovery after the end-Devonian extinction. Palaeogeography, Palaeoclimatology, Palaeoecology, 605, 111215. https://doi.org/10.1016/j.palaeo.2022.111215
 
 
 
