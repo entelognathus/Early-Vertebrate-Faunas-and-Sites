@@ -151,8 +151,15 @@
 
 
 #### Burlington limestone, Illinois and Iowa, USA
-> - **Age**: late Tournaisian.
+> - **Age**: Late Tournaisian to Early Viséan (Lane, 1978; Hoenig, 2019)
 > - **Taxa**:
+>> - Chondrichthyes: *Cladodus alternatus*, *Cladodus exilis*, *Cladodus exiguus*, *Cladodus springeri*, *Cladodus bellifer*, *Ctenacanthus burlingtonensis*, *Ctenacanthus gradocostus*, *Stethacanthus productus*, *Stethacanthus compressus*, *Orodus major*, *Orodus micropterygius*, *Deltodus spatulatus*, *Deltodus grandis*, *Sandalodus laevissimus*, *Sandalodus grandis*, *Psammodus lovianus*, *Psammodus springeri*, *Psephodus reticulatus*, *Cochliodus vanhornii*, *Cochliodus costatus*, *Venustodus leidyi*, *Thrinacodus nanus*, *Columnaodus witzkei*, *Antliodus gracilis*, *Tanaodus* sp., *Erismacanthus* sp., *Acondylacanthus* sp. (St. John & Worthen, 1875; Newberry, 1889; Hoenig, 2019; Cicimurri et al., 2024)
+>> - Actinopterygii: *Eurylepis* sp., *Gonatodus* sp., *Palaeoniscum* sp. (Newberry, 1889; Eastman, 1902)
+>> - Acanthodii: *Acanthodes* sp., *Machaeracanthus* sp. (Hoenig, 2019)
+> - **Locality and horizon**: Burlington-Keokuk Fish Bed (BKFB) at the contact of the Cedar Fork Member of the Burlington Limestone and the Keokuk Limestone; localities include Nelson Quarry (Mediapolis, Iowa) and Biggsville Quarry (Illinois). (Hoenig, 2019; Cicimurri et al., 2024)
+> - **References**: St. John & Worthen, 1875; Newberry, 1889; Eastman, 1902; Hoenig, 2019; Cicimurri et al., 2024.
+> - **Comments**: A laterally extensive bone bed representing a transgressive lag deposit rich in disarticulated chondrichthyan teeth, spines, and denticles; represents a diverse durophagous and predatory guild inhabiting a crinoid-dominated carbonate ramp. (Hoenig, 2019; Cicimurri et al., 2024)
+
 
 #### Horton Bluff and Albert Formations, Bay of Fundy, Canada
 > - **Age**: Early to middle Tournaisian.
@@ -1514,6 +1521,7 @@ Maisey, J. G. (1981). Studies on the Paleozoic selachian genus *Ctenacanthus* Ag
 Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebrates, mainly from the sub-Carboniferous limestone and Coal Measures of Illinois. *Geological Survey of Illinois*, *2*, 9–134.
 
 Shaver, R. H., Ault, C. H., Burger, A. M., Carr, D. D., Droste, J. B., Eggert, D. L., ... & Rudman, A. J. (1986). Compendium of Paleozoic rock-unit stratigraphy in Indiana: a revision. *Indiana Geological Survey Bulletin*, *59*, 1–203.
+
 
 
 
