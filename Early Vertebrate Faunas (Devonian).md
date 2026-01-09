@@ -505,8 +505,21 @@ wick, Canada
 **Columbus Formation, Fish fauna of the Bone Beds, centralOhio, USA**: Emsian, Early Devonian
 
 ## Middle Devonian
-***Tiaomajian fauna***: Eifelian, 393.3, 387.7 
-**Tiaomajian Formation** 
+#### Aztec Slitstone, Mount Crean, Antarctica
+> - **Age**: Eifelian-Givetian, Middle Devonian
+> - **Taxa**:
+>> - tetrapodmorpha: *Koharalepis jarviki* (AM F54325) (Young et al., 1992), *Aztecia* (Johanson 2004), *Mahalalepis resima*, *Platyethmoidea*, *Notorhizodon*
+>> - Osteolepis-like forms,
+Megalichthyinae, tristichopterids (‘Eusthenopteridae’ in Long et al., 2018), Panderichthyidae and Tetrapoda
+> - **Locality and horizon**:
+> - **References**: Long et al., 2018; Young et al., 1992
+> - **Comments**: 
+
+
+### Eifelian, Middle Devonian
+#### Tiaomajian fauna: Eifelian, 393.3, 387.7 
+
+####Tiaomajian Formation 
 > Changsha, Hunan, China
 > - [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 
@@ -532,7 +545,48 @@ wick, Canada
 
 **Qujing Formation, Zhaotong, Yunnan**
 > late Eifelian, Middle Devonian.
->
+
+***Svalbard Grey Hoek to Wijde Formations fauna***: 
+> Eifelian. 
+> Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
+
+***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
+> Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> Also Sandwick-Achanarras fauna.
+> - Arthrodira, *Coccosteus cuspidatus*, *Homostius milleri*, *Actinolepis magn*
+> - Antiarcha, *Pterichthyodes milleri*
+> - Ptyctodontida, *Rhamphodopsis threiplandi*, *R. trispinatus*
+> - Placoderm incertae sedis, *Palaeospondylus gunni*
+> - Acanthodii, *Diplacanthus striatus*, *Rhadinacanthus longispinus*, *Cheiracanthus murchisoni*, *C. latus*, *Mesacanthus peachi*
+> - Actinopterygii  *Cheirolepis trailli*
+> - Sarcopterygii   *Dipterus valenciennesi*, *Pentlandia macroptera* (note: middle Givetian, 384.99, 387.30 (Jude et al., 2014)), *Glyptolepis paucidens*, *G. leptopterus*, *Osteolepis macrolepidotus*, *Gyroptychius agassizi*
+
+***Pärnu Regional Stage fauna***: 
+> lower Eifelian.
+
+
+***Aruküla Formation fauna***: 
+> upper Eifeilian 
+> Aruküla Formation, Baltic.
+-> Comment: Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
+and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fig. 3, Mark-Kurik and Poldvere, 2012), The Aruküla RSs is in early Givetian. In (Plink-Björklund, 2012), the Aruküla RSs was also put in early Givetian.  
+
+****Hatchery Creek fauna****, Eifelian;
+> Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia. MAV3,
+> - The Hatchery Creek Group comprises Hatchery the Wee Jasper Formation (below) and the Corradigbee Formation (above), underlain by the Murrumbidgee Group limestones.
+> - Thelodontida: *Turinia* sp. cf. *T. hutkensis* Blieck & Goujet (Young & Gorter, 1981)
+> - Acanthodii: climatiid gen. et sp. indet., ?diplacanthiform gen. et sp. indet., *Tareyacanthus* sp. cf. *T. magnificus* Valiukevicius (Burrow
+2002), *Watsonacanthus*? sp. (Burrow 2002)
+> - cf. *Kenichthys* [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
+> - Placodermi: *Edgellaspis gorteri* Hunt & Young 2011; *Denisonosteus weejasperensis* Young & Gorter 1981; cf. *Denisonosteus* sp. nov. (Hunt 2005); coccosteomorph cf. *Coccosteus* (Hunt 2008); *Sherbonaspis hillsi* Young & Gorter 1981; cf. *Sherbonaspis* sp. nov. (Hunt 2005); *Monarolepis verrucosa* (Young & Gorter) Young 1988
+
+****Arukula Formation, Latvia, Vidrizhi-10 well****, Eifelian
+****Upninkai Formation, Dvoriki-2 well, Kaliningrad region, Russia****, Eifelian-Givetian
+***Wurungulepis fauna***, upper Eifelian;
+> Broken River Formation, Queensland, Australia. MAV4
+> - *Wurungulepis denisoni* Young, 1990; *Atlantidosteus* sp.
+
+### Givetian, Middle Devonian
 **Qujing Formation, Qujing and Huaning, Yunnan**
 > Givetian, Middle Devonian.
 > - **Age**:Givetian
@@ -552,35 +606,13 @@ wick, Canada
 > Givetian, Middle Devonian.
 > - [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 
+**Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: 
+> Givetian, Middle Devonian 
 
-
-***Svalbard Grey Hoek to Wijde Formations fauna***: Eifelian. 
-> Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
-
-***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
-> Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> Also Sandwick-Achanarras fauna.
-> - Arthrodira, *Coccosteus cuspidatus*, *Homostius milleri*, *Actinolepis magn*
-> - Antiarcha, *Pterichthyodes milleri*
-> - Ptyctodontida, *Rhamphodopsis threiplandi*, *R. trispinatus*
-> - Placoderm incertae sedis, *Palaeospondylus gunni*
-> - Acanthodii, *Diplacanthus striatus*, *Rhadinacanthus longispinus*, *Cheiracanthus murchisoni*, *C. latus*, *Mesacanthus peachi*
-> - Actinopterygii  *Cheirolepis trailli*
-> - Sarcopterygii   *Dipterus valenciennesi*, *Pentlandia macroptera* (note: middle Givetian, 384.99, 387.30 (Jude et al., 2014)), *Glyptolepis paucidens*, *G. leptopterus*, *Osteolepis macrolepidotus*, *Gyroptychius agassizi*
-
-***Pärnu Regional Stage fauna***: lower Eifelian.
-
-
-***Aruküla Formation fauna***: upper Eifeilian 
-> Aruküla Formation, Baltic.
--> Comment: Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
-and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fig. 3, Mark-Kurik and Poldvere, 2012), The Aruküla RSs is in early Givetian. In (Plink-Björklund, 2012), the Aruküla RSs was also put in early Givetian.  
-
-**Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: Givetian, Middle Devonian 
-
-***Burtnieki Formation fauna***: lower Givetian
+***Burtnieki Formation fauna***: 
+> lower Givetian
 > Burtnieki Formation, Baltic.
-> 
+
 
 1. Gyroptychius elgae Vorobyeva, 1977 | Burtnieki Stage (middle Givetian)
 2. Gyroptychius grossi Vorobyeva, 1981 | Narva Stage (late Eifelian)
@@ -588,8 +620,6 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 4. Gyroptychius milleri Jarvik, 1948 | Aruküla Stage (early Givitian)
 5. Gyroptychius pauli Vorobyeva, 1977 | Aruküla Stage (early Givetian)
 Gauja stage (late Givetian)
-
-
 
 **Rousay Formation fauna**: early Givetian
 > Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
@@ -640,21 +670,7 @@ Gauja stage (late Givetian)
 |               |                           | *Panderichthys rhombolepis*   |
 
 
-****Hatchery Creek fauna****, Eifelian;
-> Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia. MAV3,
-> - The Hatchery Creek Group comprises Hatchery the Wee Jasper Formation (below) and the Corradigbee Formation (above), underlain by the Murrumbidgee Group limestones.
-> - Thelodontida: *Turinia* sp. cf. *T. hutkensis* Blieck & Goujet (Young & Gorter, 1981)
-> - Acanthodii: climatiid gen. et sp. indet., ?diplacanthiform gen. et sp. indet., *Tareyacanthus* sp. cf. *T. magnificus* Valiukevicius (Burrow
-2002), *Watsonacanthus*? sp. (Burrow 2002)
-> - cf. *Kenichthys* [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
-> - Placodermi: *Edgellaspis gorteri* Hunt & Young 2011; *Denisonosteus weejasperensis* Young & Gorter 1981; cf. *Denisonosteus* sp. nov. (Hunt 2005); coccosteomorph cf. *Coccosteus* (Hunt 2008); *Sherbonaspis hillsi* Young & Gorter 1981; cf. *Sherbonaspis* sp. nov. (Hunt 2005); *Monarolepis verrucosa* (Young & Gorter) Young 1988
 
-****Arukula Formation, Latvia, Vidrizhi-10 well****, Eifelian
-****Upninkai Formation, Dvoriki-2 well, Kaliningrad region, Russia****, Eifelian-Givetian
-***Wurungulepis fauna***, upper Eifelian;
-> Broken River Formation, Queensland, Australia. MAV4
-
-> - *Wurungulepis denisoni* Young, 1990; *Atlantidosteus* sp.
 
 ***Nawagiaspis fauna***, lower Givetian;
 > Broken River Formation, Queensland, Australia. MAV5, 
@@ -736,7 +752,14 @@ Gauja stage (late Givetian)
 
 > -  Gess, 2016
 > - Placodermi:*Barrydalaspis theroni* (Chaloner et al. 1980)
-> - Chondrichththyes: 
+> - Chondrichththyes:
+
+***East Greenland Middle Devonian fauna***: upprt Eifelian to lower Givetian.
+> Vilddal Group or Nathorst Fjord Group; East Greenland, Denmark.
+
+> - *Heterostius groenlandicus* Stensiö & Säve-Söderbergh, 1938; *Homostius kochi* Stensiö & Säve-Söderbergh, 1938; *Psammolepis groenlandica* Tarlo, 1964; *Asterolepis saevesoederberghi* Stensiö & Säve-Söderbergh, 1938; Acanthodii gen. et sp. indet. 1 (spine) (Onchus sp.); Acanthodii gen. et sp. indet. 2 (scales); *Gyroptychius groenlandicus* Jarvik, 1950; *Gyropthychius dolichotatus* Jarvik, 1985; *Glyptolepis groenlandica* Jarvik, 1972; *Dipterus* sp.?; Porolepiformes gen. et sp. indet.
+
+
 
 ## Late Devonian
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
@@ -1054,11 +1077,7 @@ The arthrodires comprise
 |                   | Sarcopterygii  | *Chagrinia enodis*               |
 |                   |                | *Proceratodus wagneri*           |
 
-***East Greenland Middle Devonian fauna***: upprt Eifelian to lower Givetian.
-> Vilddal Group or Nathorst Fjord Group; East Greenland, Denmark.
 
-> - *Heterostius groenlandicus* Stensiö & Säve-Söderbergh, 1938; *Homostius kochi* Stensiö & Säve-Söderbergh, 1938; *Psammolepis groenlandica* Tarlo, 1964; *Asterolepis saevesoederberghi* Stensiö & Säve-Söderbergh, 1938; Acanthodii gen. et sp. indet. 1 (spine) (Onchus sp.); Acanthodii gen. et sp. indet. 2 (scales); *Gyroptychius groenlandicus* Jarvik, 1950; *Gyropthychius dolichotatus* Jarvik, 1985; *Glyptolepis groenlandica* Jarvik, 1972; *Dipterus* sp.?; Porolepiformes gen. et sp. indet.
->
 ***East Greenland Early Frasnian fauna***: lower Frasnian.
 > upper and lower parts of the Sofia Sund Formation; and the Rødebjerg Formation (Olsen & Larsen 1993), Kap Kolthoff Group; East Greenland, Denmark.
 
@@ -1146,6 +1165,10 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 Gess, Robert & Whitfield, Alan. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. Biological Reviews. 95. 10.1111/brv.12590. 
 
 Schultze, H.P., Hagadorn, J.W., Bullecks, J., Soar, L.K., Pradel, A., Denton, J. S. S., & Janvier, P. (2021). Devonian fish from Colorado’s Dyer Formation and the appearance of Carboniferous faunas in the Famennian. Ancient fishes and their living relatives: A tribute to John G. Maisey: Mu‐nich, Germany, Verlag Dr. Friedrich Pfeil [Dr. Friedrich Pfeil Scientific Publishers], 247-256.
+
+Long, J. C., Alice; Choo, Brian. New insights into the origins and radiation of the mid-Palaeozoic Gondwanan stem tetrapods. Earth and Environmental Science Transactions of The Royal Society of Edinburgh 109, 139-155 (2018). 
+
+Young, G. C., Long, J. A. & Ritchie, A. 1992. Crossopterygian fishes from the Devonian of Antarctica: systematics, relationships and biogeographic significance. Records of the Australian Museum 14, 1–77.
 
 
 
