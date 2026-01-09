@@ -112,14 +112,16 @@
 > - **References**:  Caster, 1934; Eastman, 1917; Hansen, 1996; Newberry, 1873; Newberry, 1875; Newberry, 1884; Newberry, 1889; Zidek, 1993.
 > - **Comments**: The "Oil Creek" vertebrate fauna described by Newberry is primarily from the Corry Sandstone of Pennsylvania, which is the lateral stratigraphic equivalent of the Berea Sandstone (Waverly Group) of Ohio; preservation is typically as disarticulated spines and teeth in coarse sandstone. (Caster, 1934; Hansen, 1996)
 
-
-
-#### Kinderhook Limestone, Iowa, USA
-> - **Age**: early to middle Tournaisian
-> - **Taxa**: *Bythiacanthus lucasi*, *Ctenacanthus decussatus*, *Ctenacanthus longinodosus*, *Ctenacanthus depressus*, **, **, **, **, **, **, **, 
-> - **Locality and horizon**: Kinderhook Limestone, Iowa, USA
-> - **References**:(Eastman, 1902; Newberry, 1897)
-> - **Comments**: 
+#### Kinderhook Series (North Hill Group and Hampton Formation), Iowa, USA
+> - **Age**: early to middle Tournaisian (Kinderhookian) (Laudon, 1931; Witzke et al., 2010)
+> - **Taxa**:
+>> - Chondrichthyes: *Falcatus falcatus* (syn. *Physonemus falcatus*), *Thrinacodus nanus*, *Mesodmodus exsculptus*, *Mesodmodus explanatus*, *Orodus daedalus*, *Orodus decussatus*, *Orodus micropterygius*, *Oracanthus farringtoni*, *Cladodus splendens*, *Cladodus alternatus*, *Cladodus exiguus*, *Cladodus eccentricus*, *Cladodus intercostatus*, *Cladodus praenuntius*, *Cladodus springeri*, *Cladodus succinctus*, *Cladodus vanhornei*, *Cladodus wachsmuthi*, *Ctenacanthus spectabilis*, *Ctenacanthus varians*, *Ctenacanthus* spp., *Deltodus inornatus*, *Deltodus spatulatus*, *Helodus biformis*, *Helodus crenulatus*, *Psephodus reticulatus*, *Sandalodus* sp., *Synthetodus trisulcatus*, *Cooleyella* sp., *Stereodus* sp., *Vixodus* sp., *Xystrodus* sp. (St. John & Worthen, 1875, 1883; Newberry, 1897; Roy, 1929; Lund, 1985; Ginter et al., 2010)
+>> - Placodermi: *Ptyctodus calceolus* (likely reworked). (St. John & Worthen, 1875; Eastman, 1908)
+>> - Actinopterygii: *Palaeoniscum* sp. (scales), *Eurylepis* sp. (St. John & Worthen, 1875)
+>> - Sarcopterygii: *Dipterus* sp. (tooth plates, likely reworked). (Eastman, 1908)
+> - **Locality and horizon**: "Lower Kinderhook fish bed" at Burlington (Des Moines County) and exposures at LeGrand (Marshall County); English River Siltstone, Prospect Hill Formation, and Wassonville Formation. (St. John & Worthen, 1875; Roy, 1929; Laudon, 1931)
+> - **References**: Eastman, 1908; Ginter et al., 2010; Laudon, 1931; Lund, 1985; Newberry, 1897; Roy, 1929; St. John & Worthen, 1875; St. John & Worthen, 1883; Witzke et al., 2010.
+> - **Comments**: The "Kinderhook fish bed" represents a condensation horizon containing abundant disarticulated teeth and spines; elements such as *Ptyctodus* are interpreted as reworked from underlying Devonian strata. *Falcatus falcatus* (originally described as *Physonemus falcatus* spines from these beds) is significant for connecting the Iowa fauna to the sexual dimorphism observed in Bear Gulch falcatids. The fauna documents the post-Hangenberg radiation of durophagous sharks (*Orodus*, *Helodus*) in a carbonate ramp setting. (Lund, 1985; St. John & Worthen, 1875; Witzke et al., 2010)
 
 #### Wangyou Formation, Muhua, Changshun, Guizhou, China
 > - **Age**: early Tournaisian, Early Mississipian, Carboniferous.
@@ -1465,6 +1467,7 @@ Newberry, J. S. (1884). *Ctenacanthus wrighti*, n. sp. *35th Annual Report of th
 Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. U.S. Geological Survey Monograph XVI.
 
 Zidek, J. (1993). A large *Stethacanthus* spine from the Lower Mississippian of Oklahoma. *Oklahoma Geology Notes*, *53*(1), 4–15.
+
 
 
 
