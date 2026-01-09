@@ -124,18 +124,22 @@
 > - **Comments**: The "Kinderhook fish bed" represents a condensation horizon containing abundant disarticulated teeth and spines; elements such as *Ptyctodus* are interpreted as reworked from underlying Devonian strata. *Falcatus falcatus* (originally described as *Physonemus falcatus* spines from these beds) is significant for connecting the Iowa fauna to the sexual dimorphism observed in Bear Gulch falcatids. The fauna documents the post-Hangenberg radiation of durophagous sharks (*Orodus*, *Helodus*) in a carbonate ramp setting. (Lund, 1985; St. John & Worthen, 1875; Witzke et al., 2010)
 
 #### Wangyou Formation, Muhua, Changshun, Guizhou, China
-> - **Age**: early Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**: *Acanthodes guizhouensis*
-> - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
+> - **Age**: Late Famennian to Early Tournaisian; *Siphonodella praesulcata* to *Siphonodella sulcata* conodont zones. (Wang & Turner, 1985; Hou et al., 1985)
+> - **Taxa**: 
+>> - Acanthodii: *Acanthodes guizhouensis*. (Wang & Turner, 1985)
+>> - Chondrichthyes: *Phoebodus politus*, *Phoebodus* sp., *Thrinacodus ferox* (syn. *Harpagodens ferox*), *Cladodus*? sp., *Stethacanthus*? sp., "*Diplodus*" sp. cf. "*Diplodus*" *priscus*, *Petalodus*? *daihuaensis*, *Protacrodus*? sp. (Wang & Turner, 1985)
+>> - Placodermi: Gen. et sp. indet. (scales). (Wang & Turner, 1985)
+>> - Incertae Sedis (Vertebrata?): *Conchodontus ziegleri*, *Conchodontus* sp. (Wang & Turner, 1985)
+> - **Locality and horizon**: Muhua III Section (N 25°47'59'', E 106°24'11''), Changshun County, Guizhou Province; Gedongguan Bed and overlying limestones. (Wang & Turner, 1985; Ginter & Sun, 2007)
 > - **References**: Wang and Turner, 1985; Wang, 1989; 
 > - **Comments**: Gedongguan Bed of Hou et al. (1985).
 
 #### Muhua Formation, Muhua, Changshun, Guizhou, China
 > - **Age**: middle Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**: protacrodont, ctenacanth, hybodont.*Thrinacodus bicuspidatus*，*Stethacanthussp.*，*Tamiobatis sp. *，*Protacrodussp.*，*Protacrodus* cf. *serra*，Protacrodontidae?genetsp.indet.，*Cassisodus margaritae*，Hybodontiformes gen. et sp. indet.，*Chomatodus linearis*，*Cristatodens sigmoidalis* , Protacrodontidae? gen. et sp. indet.，*Chondrenchelys sp.*，Chondrenchelyidae gen. et sp. indet.，*Chomatodus davisi*， Ctenacanthiformesgen. etsp. indet.，*Diclitodus denshumani*，*Helodus coniculus*，*Deltodus* cf. *sublaevis*
-> - **Locality and horizon**: Muhua Formation, Muhua, Changshun, Guizhou, China.
-> - **References**: Wang and Turner, 1985; Wang, 1989; Ginter and Sun, 2007
-> - **Comments**: The samples, numbered collectively as MH−1, were collected near the base of the Muhua Formation (middle Tournaisian, Siphonodella crenulata conodont Zone) in the vicinity of the  Muhua III Section of Hou et al. (1985: 11), Changshun, Guizhou, southern China. The GPS coordinates of the sampling site is N 2547’59’’ and E 10624’11’’.
+> - **Locality and horizon**: Muhua III Section (N 25°47'59'', E 106°24'11''), Changshun County, Guizhou Province; Gedongguan Bed and overlying limestones. (Wang & Turner, 1985; Ginter & Sun, 2007)
+> - **References**: Ginter & Sun, 2007; Hou et al., 1985; Wang & Turner, 1985.
+> - **Comments**: Pelagic slope carbonate facies lacking black shales; the first appearance of *Acanthodes guizhouensis* in sample GMII24 correlates with the base of the Carboniferous (*S. sulcata* zone); lower samples (GMII20, GMII21) represent the Late Famennian. (Wang & Turner, 1985)
 
 #### Salem Limestone, Lanesville, Indiana, USA
 > - **Age**: middle Visean
@@ -1487,6 +1491,7 @@ St. John, O. H., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geolog
 St. John, O. H., & Worthen, A. H. (1883). Descriptions of fossil vertebrates. *Geological Survey of Illinois*, *7*, 53–264.
 
 Witzke, B. J., Bunker, B. J., & Thein, J. (2010). *Iowa's Geological Past: Three Billion Years of Earth History*. University of Iowa Press.
+
 
 
 
