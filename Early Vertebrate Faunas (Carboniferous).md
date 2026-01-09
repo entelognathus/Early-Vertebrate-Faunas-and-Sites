@@ -89,7 +89,7 @@
 >> - Actinopterygii: Palaeonisciformes indet. (ganoid scales and acrodont teeth). (Higgins et al., 1964; Winkler Prins, 1968)
 > - **Locality and horizon**: Various sections in the Asturian-Leonese Domain (e.g., Bernesga Valley, Esla Nappe); fossils primarily recovered from phosphate nodules and black shales of the Vegamián Formation. (Raven, 1983; Sanz-López et al., 2006)
 > - **References**: Higgins, 1971; Higgins et al., 1964; Nemyrovska, 2005; Raven, 1983; Sanz-López et al., 2004, 2006; Winkler Prins, 1968.
-> - **Comments**:
+> - **Comments**: The formation represents a condensed, starved basin ("Kulm" facies) associated with the global Lower Alum Shale Event (LASE). Vertebrate remains are often concentrated in phosphatic nodules, preserving three-dimensional microfossils (ichthyoliths and conodonts) indicative of a stratified water column with pelagic predators above an anoxic/dysoxic seafloor. (Raven, 1983; Amler & Winkler Prins, 1999)
 
 #### Köprülü Formation, Zap Valley, Hakkari, SE Turkey
 > - **Age**: Tournaisian
@@ -1403,6 +1403,7 @@ Gardiner, B. G. (1969). New palaeoniscoid fish from the Witteberg series of Sout
 Gess, R. W., & Whitfield, A. K. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. *Biological Reviews*, *95*(4), 865–888.
 
 Jubb, R. A. (1965). A new palaeoniscid fish from the Witteberg Series (Lower Carboniferous) of South Africa. *Annals of the South African Museum*, *48*, 267–272.
+
 
 
 
