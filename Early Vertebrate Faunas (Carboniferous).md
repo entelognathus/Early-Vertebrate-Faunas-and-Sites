@@ -71,11 +71,14 @@
 > - **Comments**: The assemblage is preserved as microvertebrate remains in lag deposits (bone beds); it represents a "marginal marine" or estuarine fauna characterized by the co-occurrence of marine (*Thrinacodus*, *Tristychius*) and non-marine (*Ageleodus*, xenacanths) taxa. (Turner, 1993)
 
 #### Obrutschew Bjerg Formation, Celsius Bjerg, East Greenland
-> - **Age**:
+> - **Age**: Latest Famennian to Earliest Tournaisian (Marshall et al., 1999; Marshall, 2020)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Actinopterygii: *Cuneognathus gardineri*. (Friedman & Blom, 2006)
+>> - Acanthodii: *Acanthodes* sp. (Qvarnström et al., 2022)
+>> - Chondrichthyes: Ctenacanthiformes indet. (semi-articulated remains, teeth, scales). (Marshall, 2020; Qvarnström et al., 2022)
+> - **Locality and horizon**: South face of Celsius Bjerg (73°08'N, 23°15'W), elevation ~1200 m; black shale unit of the formation. (Friedman & Blom, 2006; Marshall, 2020)
+> - **References**: Friedman & Blom, 2006; Marshall, 2020; Marshall et al., 1999; Qvarnström et al., 2022.
+> - **Comments**: Deposited in a deep, anoxic freshwater lake environment associated with the Hangenberg event; records a faunal turnover with the absence of typical Devonian placoderms and sarcopterygians found in underlying units; diverse coprolites suggest the presence of unpreserved large predators (possibly tetrapods or large fish). (Friedman & Blom, 2006; Marshall, 2020; Qvarnström et al., 2022)
 
 #### Waaipoort Formation (Witteberg Group), Eastern Cape, South Africa
 > - **Age**:
@@ -1377,6 +1380,7 @@ Fox, R. C., Campbell, K. S. W., Barwick, R. E., & Long, J. A. (1995). A new oste
 Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journal of Vertebrate Paleontology*, *2*(2), 117–131.
 
 Turner, S. (1993). Early Carboniferous microvertebrates from the Narrien Range, central Queensland. *Memoirs of the Association of Australasian Palaeontologists*, *15*, 289–304.
+
 
 
 
