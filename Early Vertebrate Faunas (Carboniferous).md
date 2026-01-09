@@ -1404,6 +1404,25 @@ Gess, R. W., & Whitfield, A. K. (2020). Estuarine fish and tetrapod evolution: i
 
 Jubb, R. A. (1965). A new palaeoniscid fish from the Witteberg Series (Lower Carboniferous) of South Africa. *Annals of the South African Museum*, *48*, 267–272.
 
+Amler, M. R. W., & Winkler Prins, C. F. (1999). Lower Carboniferous marine bivalves from the Cantabrian Mountains (Spain). *Scripta Geologica*, *120*, 1–45.
+
+Gandl, J. (1973). Die Karbon-Trilobiten des Kantabrischen Gebirges (NW-Spanien), 1: Die Trilobiten der Vegamián-Schichten (Ober-Tournai). *Senckenbergiana lethaea*, *54*, 21–63.
+
+Higgins, A. C. (1971). Conodont biostratigraphy of the Late Devonian-Early Carboniferous of the south central Cantabrian Cordillera. *Trabajos de Geología*, *3*, 179–192.
+
+Higgins, A. C., Wagner-Gentis, C. H. T., & Wagner, R. H. (1964). Basal Carboniferous strata in part of northern León, NW Spain: Stratigraphy, conodont and goniatite faunas. *Bulletin de la Société belge de Géologie, de Paléontologie et d'Hydrologie*, *72*(2), 205–248.
+
+Nemyrovska, T. I. (2005). Late Viséan/early Serpukhovian conodont succession from the Triollo section, Palencia (Cantabrian Mountains, Spain). *Scripta Geologica*, *129*, 13–89.
+
+Raven, J. G. M. (1983). Conodont biostratigraphy and depositional history of the Middle Devonian to Lower Carboniferous in the Cantabrian Zone (Cantabrian Mountains, Spain). *Leidse Geologische Mededelingen*, *52*(2), 265–339.
+
+Sanz-López, J., Blanco-Ferrera, S., & García-López, S. (2004). Taxonomy and evolutionary significance of some *Gnathodus* species (Conodonta) from the Mississippian of the northern Iberian Peninsula. *Revista Española de Micropaleontología*, *36*(2), 215–230.
+
+Sanz-López, J., Blanco-Ferrera, S., & García-López, S. (2006). Devonian to Lower Carboniferous conodont biostratigraphy of the Bernesga Valley section (Cantabrian Zone, NW Spain). *Cuadernos del Museo Geominero*, *1*, 163–205.
+
+Turner, S. (1982). Middle Palaeozoic microvertebrate assemblages from Europe. In *Ecological and Stratigraphical Significance of Vertebrate Microremains*.
+
+Winkler Prins, C. F. (1968). Carboniferous Productidina and Chonetidina of the Cantabrian Mountains (NW Spain): Systematics, stratigraphy and palaeoecology. *Leidse Geologische Mededelingen*, *43*, 41–126.
 
 
 
