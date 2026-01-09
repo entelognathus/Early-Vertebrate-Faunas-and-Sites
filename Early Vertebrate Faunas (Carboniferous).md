@@ -1522,6 +1522,17 @@ Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebr
 
 Shaver, R. H., Ault, C. H., Burger, A. M., Carr, D. D., Droste, J. B., Eggert, D. L., ... & Rudman, A. J. (1986). Compendium of Paleozoic rock-unit stratigraphy in Indiana: a revision. *Indiana Geological Survey Bulletin*, *59*, 1–203.
 
+Cicimurri, D. J., Ciampaglio, C. N., Hoenig, M. M. J., Shell, R. C., Fuelling, L. J., Peterman, D. J., Cline, D. A., & Jacquemin, S. J. (2024). A Description of the New Hybodont Shark Genus, *Columnaodus*, from the Burlington and Keokuk Limestones (Carboniferous, Mississippian, Osagean) of Illinois and Iowa, USA. *Diversity*, *16*(5), 276.
+
+Eastman, C. R. (1902). Carboniferous fishes from the central West. *Bulletin of the Museum of Comparative Zoology*, *39*, 163–226.
+
+Hoenig, M. M. J. (2019). *Chondrichthyan Diversity within the Burlington-Keokuk Fish Bed of Southeast Iowa and Northwest Illinois (Mississippian: Osagean)* (Master's thesis). Wright State University.
+
+Lane, H. R. (1978). The Burlington Shelf (Mississippian, north-central United States). *Geologica et Palaeontologica*, *12*, 165–196.
+
+Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. US Geological Survey Monograph 16.
+
+St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
 
 
 
