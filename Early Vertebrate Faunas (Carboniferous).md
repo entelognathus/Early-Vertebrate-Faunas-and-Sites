@@ -285,10 +285,14 @@
 
 #### Ballagan Formation, Coldstream, Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
-> - **Taxa**: (tetrapod skull bones and vertebrae, as well as lungfish and rhizodont elements，Gyracanthus spines, and scorpion fragments)
-> - **Locality and horizon**:
-> - **References**: Smithson et al., 2012；
-> - **Comments**: Previously dated as Visean.
+> - **Taxa**: 
+>> - Actinopterygii: *Styracopterus fulcratus* (syn. *Fouldenia ottadinica*, *Holurus fulcratus*). (Gardiner, 1985; Traquair, 1890; White, 1927)
+>> - Sarcopterygii (Dipnoi): *Occludus romeri* (Type Locality; formerly *Ctenodus romeri*). (Smithson et al., 2016; Thomson, 1965)
+>> - Sarcopterygii (Rhizodontida): *Rhizodus* sp., *Strepsodus* sp. (indet. large rhizodont material). (Andrews, 1985; Jeffery, 2006)
+>> - Tetrapoda: Unnamed tetrapod (isolated elements including limb bones). (Smithson et al., 2012; Clack et al., 2016)
+> - **Locality and horizon**: East bank of the River Tweed, approximately 350 m downstream of Coldstream Bridge (Grid Ref NT 852 403); also exposures at Lennel Braes. Fossils occur in sandy siltstones and cementstone bands of the Ballagan Formation (Inverclyde Group). (Smithson et al., 2012; Smithson et al., 2016)
+> - **References**: Clack et al., 2016; Gardiner, 1985; Marshall et al., 2019; Smithson et al., 2012; Smithson et al., 2016; Thomson, 1965; Traquair, 1881; White, 1927.
+> - **Comments**: The Coldstream locality is historically significant as the type locality for the lungfish *Occludus romeri*. Rediscovered in 1988, it yielded tetrapod remains in 1989, confirming the presence of terrestrial vertebrates in the eastern Tweed Basin. The depositional environment represents a seasonal wetland floodplain with sandy channel fills and hypersaline lakes. The tetrapod material, while fragmentary, is contemporaneous with the diverse faunas of Burnmouth and Willie's Hole. (Smithson et al., 2012; Bennett et al., 2016)
 
 #### Ballagan Formation, Tantallon Castle, East Lothian, Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.
@@ -1576,6 +1580,7 @@ Kearsey, T. I., Bennett, C. E., Millward, D., Davies, S. J., Gowing, C. J., Kemp
 Marshall, J. E. A., Reeves, E., Bennett, C. E., Davies, S. J., Kearsey, T. I., Millward, D., Smithson, T. R., & Browne, M. A. E. (2019). The Devonian–Carboniferous boundary in the Midland Valley of Scotland. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *108*(2–3), 1–27.
 
 Smithson, T. R., Wood, S. P., Marshall, J. E. A., & Clack, J. A. (2012). Earliest Carboniferous tetrapod and arthropod faunas from Scotland populate Romer's Gap. *Proceedings of the National Academy of Sciences*, *109*(12), 4532–4537. https://doi.org/10.1073/pnas.1117332109
+
 
 
 
