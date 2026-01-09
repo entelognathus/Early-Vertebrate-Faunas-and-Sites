@@ -1428,6 +1428,23 @@ Turner, S. (1982). Middle Palaeozoic microvertebrate assemblages from Europe. In
 
 Winkler Prins, C. F. (1968). Carboniferous Productidina and Chonetidina of the Cantabrian Mountains (NW Spain): Systematics, stratigraphy and palaeoecology. *Leidse Geologische Mededelingen*, *43*, 41–126.
 
+Darras, L., Derycke, C., Blieck, A., & Vachard, D. (2008). The oldest holocephalan (Chondrichthyes) from the Middle Devonian of the Boulonnais (Pas-de-Calais, France). *Comptes Rendus Palevol*, *7*(5), 297–304. https://doi.org/10.1016/j.crpv.2008.04.002
+
+Higgs, K. T., Finucane, D., & Tunbridge, I. P. (2002). Late Devonian and Early Carboniferous microfloras from the Hakkari Province of southeastern Turkey. *Review of Palaeobotany and Palynology*, *118*(1–4), 141–156. https://doi.org/10.1016/S0034-6667(01)00112-6
+
+Hoşgör, İ., & Štamberg, S. (2014). A first record of late Middle Permian actinopterygian fish from Anatolia, Turkey. *Acta Geologica Polonica*, *64*(2), 147–159. https://doi.org/10.2478/agp-2014-0009
+
+Hoşgör, İ., Okan, Y., & Goncuoglu, M. C. (2012). *Posidonia becheri* Bronn, 1828 from the Tournaisian of SE Turkey: A palaeobiogeographic enigma. *Comptes Rendus Palevol*, *11*(1), 13–20. https://doi.org/10.1016/j.crpv.2011.09.006
+
+Hoşgör, İ., Nolte, J., & Yılmaz, İ. (2014). *Palaeoaplysina* (Palaeoaplysinaceae) from the Early Permian (Asselian) of the Hakkari Province, SE Turkey. *Journal of Asian Earth Sciences*, *79*, 345–357.
+
+Janvier, P., & Clément, G. (2005). A new groenlandaspidid arthrodire (Vertebrata: Placodermi) from the Famennian of Belgium. *Geologica Belgica*, *8*(1–2), 51–67.
+
+Janvier, P., & Clément, G. (2007). A primitive megalichthyid fish (Sarcopterygii, Tetrapodomorpha) from the Upper Devonian of Turkey and its biogeographical implications. *Geodiversitas*, *29*(2), 249–268.
+
+Janvier, P., Letullier, A., & Monod, O. (1984). Discovery of a vertebrate fauna at the Devonian-Carboniferous boundary in SE Turkey (Hakkari Province). *Journal of Petroleum Geology*, *7*(2), 147–168. https://doi.org/10.1111/j.1747-5457.1984.tb00465.x
+
+Yalçın, M. N., & Yılmaz, İ. (2010). Devonian in Turkey—A review. *Geologica Carpathica*, *61*(3), 235–253. https://doi.org/10.2478/v10096-010-0014-4
 
 
 
