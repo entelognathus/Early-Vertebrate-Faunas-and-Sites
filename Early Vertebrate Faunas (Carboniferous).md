@@ -80,12 +80,6 @@
 > - **References**: Friedman & Blom, 2006; Marshall, 2020; Marshall et al., 1999; Qvarnström et al., 2022.
 > - **Comments**: Deposited in a deep, anoxic freshwater lake environment associated with the Hangenberg event; records a faunal turnover with the absence of typical Devonian placoderms and sarcopterygians found in underlying units; diverse coprolites suggest the presence of unpreserved large predators (possibly tetrapods or large fish). (Friedman & Blom, 2006; Marshall, 2020; Qvarnström et al., 2022)
 
-#### Waaipoort Formation (Witteberg Group), Eastern Cape, South Africa
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
 
 #### Vegamián Formation, Cantabrian Mountains, Spain
 > - **Age**:
@@ -287,7 +281,17 @@
 >> - Acanthodida: *Acanthodes* sp.
 > - **Locality and horizon**: Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa.
 > - **References**: 230, 250, 251, 252.
-> - **Comments**: Non-marine, lacustrine. 
+> - **Comments**: Non-marine, lacustrine.
+
+#### Waaipoort Formation (Witteberg Group), Eastern Cape, South Africa
+> - **Age**: Visean (Early Carboniferous). (Gardiner, 1969; Evans, 1999)
+> - **Taxa**:
+>> - Actinopterygii: *Mentzichthys walshi*, *Mentzichthys jubbi*, *Mentzichthys maraisi*, *Mentzichthys theroni*, *Willowmorichthys striatulus*, *Australichthys longidorsalis*, *Aestuarichthys fulcratus*, *Adroichthys tuberculatus*, *Sundayichthys elegantulus*, *Soetendalichthys cromptoni*, *Dwykia analensis*. (Gardiner, 1969; Jubb, 1965; Evans, 1999)
+>> - Acanthodii: *Gyracanthides* sp. (Evans, 1999)
+>> - Chondrichthyes: Protacrodontidae indet., ?*Plesioselachus* indet. (Evans, 1999; Gess & Whitfield, 2020)
+> - **Locality and horizon**: Schiethoogte (Jansenville District), Soetendals Vlei (Willowmore District), and Lake Mentz; fish present in calcitic or phosphatic nodules and specific black siltstone mass-mortality horizons within the Waaipoort Formation. (Gardiner, 1969; Evans, 1999)
+> - **References**: Evans, 1999; Gardiner, 1969; Gess & Whitfield, 2020; Jubb, 1965.
+> - **Comments**: eposited in a marginal marine, lagoonal, or estuarine environment; the fauna is highly endemic and dominated by palaeoniscoid actinopterygians, marking a significant faunal turnover from the underlying placoderm-rich Famennian Witpoort Formation. (Gardiner, 1969; Evans, 1999)
 
 #### Glencartholm Fish Bed, Dumfiresshire, Scotland
 > - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
@@ -1388,6 +1392,7 @@ Marshall, J. E. A. (2020). A terrestrial Devonian-Carboniferous boundary section
 Marshall, J. E. A., Astin, T. R., & Clack, J. A. (1999). The East Greenland tetrapods are Devonian in age. Geology, 27(7), 637-640.
 
 Qvarnström, M., Niedźwiedzki, G., & Ahlberg, P. E. (2022). Coprolite diversity reveals a cryptic ecosystem in an early Tournaisian lake in East Greenland: Implications for ecosystem recovery after the end-Devonian extinction. Palaeogeography, Palaeoclimatology, Palaeoecology, 605, 111215. https://doi.org/10.1016/j.palaeo.2022.111215
+
 
 
 
