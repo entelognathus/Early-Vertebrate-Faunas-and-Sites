@@ -1468,6 +1468,25 @@ Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. U.S. Geological
 
 Zidek, J. (1993). A large *Stethacanthus* spine from the Lower Mississippian of Oklahoma. *Oklahoma Geology Notes*, *53*(1), 4–15.
 
+Anderson, W. I. (1965). Conodonts from the Aplington Formation of Northcentral Iowa. *Proceedings of the Iowa Academy of Science*, *72*(1), 293–297.
+
+Eastman, C. R. (1908). Devonian fishes of Iowa. *Iowa Geological Survey Annual Report*, *18*, 29–386.
+
+Ginter, M., Hampe, O., & Duffin, C. J. (2010). *Handbook of Paleoichthyology, Vol. 3D: Chondrichthyes: Paleozoic Elasmobranchii: Teeth*. Verlag Dr. Friedrich Pfeil.
+
+Laudon, L. R. (1931). The stratigraphy of the Kinderhook series of Iowa. *Iowa Geological Survey Annual Report*, *35*, 333–451.
+
+Lund, R. (1985). The morphology of *Falcatus falcatus* (St. John and Worthen), a Mississippian stethacanthid chondrichthyan from the Bear Gulch Limestone of Montana. *Journal of Vertebrate Paleontology*, *5*(1), 1–19.
+
+Newberry, J. S. (1897). New species and a new genus of American Paleozoic fishes, together with notes on the genera *Oracanthus*, *Dactylodus*, *Polyrhizodus*, *Sandalodus*, *Deltodus*. *Transactions of the New York Academy of Sciences*, *16*, 282–304.
+
+Roy, S. K. (1929). Contributions to Paleontology. *Field Museum of Natural History, Geological Series*, *4*(5), 201–220.
+
+St. John, O. H., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
+
+St. John, O. H., & Worthen, A. H. (1883). Descriptions of fossil vertebrates. *Geological Survey of Illinois*, *7*, 53–264.
+
+Witzke, B. J., Bunker, B. J., & Thein, J. (2010). *Iowa's Geological Past: Three Billion Years of Earth History*. University of Iowa Press.
 
 
 
