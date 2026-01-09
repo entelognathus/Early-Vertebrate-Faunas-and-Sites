@@ -1372,6 +1372,11 @@ Thomas, G. A. (1959). The Lower Carboniferous Laurel Formation of the Fitzroy Ba
 
 Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journal of Vertebrate Paleontology*, *2*(2), 117-131.
 
+Fox, R. C., Campbell, K. S. W., Barwick, R. E., & Long, J. A. (1995). A new osteolepiform fish from the Lower Carboniferous Raymond Formation, Drummond Basin, Queensland. *Memoirs of the Queensland Museum*, *38*(1), 97–221.
+
+Turner, S. (1982). Middle Palaeozoic elasmobranch remains from Australia. *Journal of Vertebrate Paleontology*, *2*(2), 117–131.
+
+Turner, S. (1993). Early Carboniferous microvertebrates from the Narrien Range, central Queensland. *Memoirs of the Association of Australasian Palaeontologists*, *15*, 289–304.
 
 
 
