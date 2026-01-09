@@ -82,10 +82,13 @@
 
 
 #### Vegamián Formation, Cantabrian Mountains, Spain
-> - **Age**:
+> - **Age**: Middle–Late Tournaisian (Higgins, 1971; Raven, 1983; Sanz-López et al., 2006)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
+>> - Conodonta: *Siphonodella cooperi*, *Siphonodella isosticha*, *Siphonodella obsoleta*, *Siphonodella crenulata*, *Gnathodus punctatus*, *Gnathodus delicatus*, *Gnathodus pseudosemiglaber*, *Gnathodus cuneiformis*, *Gnathodus semiglaber*, *Polygnathus communis communis*, *Polygnathus inornatus*, *Scaliognathus anchoralis*, *Doliognathus latus*, *Mestognathus groessensi*. (Higgins, 1971; Raven, 1983; Sanz-López et al., 2004; Nemyrovska, 2005)
+>> - Chondrichthyes: *Stethacanthus* sp. (teeth and denticles), *Denaea* sp., *Symmorium* sp., *Thrinacodus ferox*, *Phoebodus* sp., *Ctenacanthus* sp. (spines), *Cladodus* spp. (teeth). (Higgins et al., 1964; Gandl, 1973; Turner, 1982)
+>> - Actinopterygii: Palaeonisciformes indet. (ganoid scales and acrodont teeth). (Higgins et al., 1964; Winkler Prins, 1968)
+> - **Locality and horizon**: Various sections in the Asturian-Leonese Domain (e.g., Bernesga Valley, Esla Nappe); fossils primarily recovered from phosphate nodules and black shales of the Vegamián Formation. (Raven, 1983; Sanz-López et al., 2006)
+> - **References**: Higgins, 1971; Higgins et al., 1964; Nemyrovska, 2005; Raven, 1983; Sanz-López et al., 2004, 2006; Winkler Prins, 1968.
 > - **Comments**:
 
 #### Köprülü Formation, Zap Valley, Hakkari, SE Turkey
@@ -1400,6 +1403,7 @@ Gardiner, B. G. (1969). New palaeoniscoid fish from the Witteberg series of Sout
 Gess, R. W., & Whitfield, A. K. (2020). Estuarine fish and tetrapod evolution: insights from a Late Devonian (Famennian) Gondwanan estuarine lake and a southern African Holocene equivalent. *Biological Reviews*, *95*(4), 865–888.
 
 Jubb, R. A. (1965). A new palaeoniscid fish from the Witteberg Series (Lower Carboniferous) of South Africa. *Annals of the South African Museum*, *48*, 267–272.
+
 
 
 
