@@ -1533,6 +1533,27 @@ Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. US Geological S
 
 St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
 
+Anderson, J. S., Smithson, T. R., Mansky, C. F., Meyer, T., & Clack, J. A. (2015). A diverse tetrapod fauna at the base of 'Romer's Gap'. *PLOS ONE*, *10*(4), e0125446. https://doi.org/10.1371/journal.pone.0125446
+
+Brazeau, M. D. (2005). A new genus of rhizodontid (Sarcopterygii, Tetrapodomorpha) from the Lower Carboniferous Horton Bluff Formation of Nova Scotia, and the evolution of the lower jaws in this group. *Canadian Journal of Earth Sciences*, *42*(8), 1481–1499.
+
+Downs, J. P., & Daeschler, E. B. (2001). Variation within a large sample of *Ageleodus pectinatus* teeth (Chondrichthyes, Elasmobranchii) from the Early Carboniferous of Pennsylvania, USA. *Journal of Vertebrate Paleontology*, *21*(4), 811–814.
+
+Heusinkveld, H. T. (2024). *The rhizodonts of Blue Beach, Nova Scotia, Canada (Horton Bluff Formation, Tournaisian Age)* [Master's thesis, University of Calgary]. PRISM.
+
+Mansky, C. F., & Lucas, S. G. (2013). Romer's Gap revisited: Continental assemblages and ichnoassemblages from the basal Carboniferous of Blue Beach, Nova Scotia, Canada. *The Carboniferous-Permian Transition*, *60*, 244–273.
+
+Pardo, J. D., Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2024). A dipterid-grade lungfish from the Tournaisian Horton Group of Blue Beach, Nova Scotia, Canada. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *115*(3–4).
+
+Tibert, N. E., & Scott, D. B. (1999). Ostracodes and agglutinated foraminifera as indicators of paleoenvironmental change in an Early Carboniferous brackish bay, Atlantic Canada. *PALAIOS*, *14*(3), 246–260.
+
+Utting, J., Keppie, J. D., & Giles, P. S. (1989). Palynology and stratigraphy of the Lower Carboniferous Horton Group, Nova Scotia. *Contributions to Canadian Paleontology, Geological Survey of Canada Bulletin*, *396*, 117–143.
+
+Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2018). A primitive actinopterygian braincase from the Tournaisan of Nova Scotia. *Royal Society Open Science*, *5*(5), 171727.
+
+Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2021). A platysomid occurrence from the Tournaisian of Nova Scotia. *Scientific Reports*, *11*, 7936.
+
+Wilson, C. D., Mansky, C. F., & Anderson, J. S. (2025). A new predatory actinopterygian from the Tournaisian of Nova Scotia provides insight into the evolution of actinopterygian feeding. *Journal of Vertebrate Paleontology*, *44*(6). https://doi.org/10.1080/02724634.2025.2498453
 
 
 
