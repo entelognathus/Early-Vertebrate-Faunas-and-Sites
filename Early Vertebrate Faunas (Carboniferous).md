@@ -1492,6 +1492,11 @@ St. John, O. H., & Worthen, A. H. (1883). Descriptions of fossil vertebrates. *G
 
 Witzke, B. J., Bunker, B. J., & Thein, J. (2010). *Iowa's Geological Past: Three Billion Years of Earth History*. University of Iowa Press.
 
+Ginter, M., & Sun, Y. (2007). Chondrichthyan remains from the Lower Carboniferous of Muhua, southern China. *Acta Palaeontologica Polonica*, *52*(4), 705–727.
+
+Hou, H. F., Ji, Q., Wu, X. H., Xiong, J. F., Wang, S. T., Gao, L. D., Sheng, H. B., Wei, J. Y., & Turner, S. (1985). *Muhua sections of Devonian-Carboniferous boundary beds*. Geological Publishing House.
+
+Wang, S.-T., & Turner, S. (1985). Vertebrate microfossils of the Devonian-Carboniferous boundary, Muhua Section, Guizhou Province. *Vertebrata PalAsiatica*, *23*(3), 223–234.
 
 
 
