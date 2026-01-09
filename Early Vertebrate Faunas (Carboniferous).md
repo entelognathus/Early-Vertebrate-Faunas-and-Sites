@@ -302,6 +302,97 @@
 > - **Comments**: late Tournaisian or earliest Visean of Tantallon near North Berwick, Scotland (Chen and Ahlberg, 2009). Sedimentary rocks close to the fossil plant localities of Castleton Bay and Oxroad Bay (Smithson et al., 2012).
 
 ### Visean, Middle Mississipian, Carboniferous
+#### Molignée Formation ("Black Marble of Denée"), Denée, Namur Province, Belgium
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Anhée Formation, Royseux, Dinant Synclinorium, Belgium
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Tyne Limestone Formation, Spittal to Redshin Cove, Northumberland, UK
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### St. Louis Formation (fissure fills), Delta, Keokuk County, Iowa, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### St. Louis Formation (Horse Cave Member), Mammoth Cave National Park, Kentucky, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Ste. Genevieve Formation (Joppa Member), Mammoth Cave National Park, Kentucky, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Salem Limestone, Bloomington area, Indiana, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Mauch Chunk Formation, Mount Carbon, Pennsylvania, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Point Edward Formation, Point Edward, Sydney, Nova Scotia, Canada
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Snakes Bight Formation (Anguille Group), Codroy, Newfoundland, Canada
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Pelagic Limestones (Crenistria Horizon), Westenfeld Quarry, Rhenish Mountains, Germany
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Pelagic Limestones, Ostrówka Quarry, Holy Cross Mountains, Poland
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Unnamed Formation C (deep-water carbonates), Verkhnyaya Kardailovka, South Urals, Russia
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 #### Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa
 > - **Age**: Early Visean, Middle Mississipian, Carboniferous.
 > - **Taxa**:
@@ -1602,6 +1693,7 @@ Thomson, K. S. (1965). On the relationships of certain Carboniferous Dipnoi: wit
 Traquair, R. H. (1881). Notice of new fish remains from the Blackband Ironstone of Borough Lee, near Edinburgh. *Geological Magazine*, *8*, 35–37.
 
 White, E. I. (1927). The fish fauna of the Cementstones of Foulden, Berwickshire. *Transactions of the Royal Society of Edinburgh*, *55*(1), 255–287.
+
 
 
 
