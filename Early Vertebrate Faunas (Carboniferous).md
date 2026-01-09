@@ -1499,6 +1499,21 @@ Hou, H. F., Ji, Q., Wu, X. H., Xiong, J. F., Wang, S. T., Gao, L. D., Sheng, H. 
 
 Wang, S.-T., & Turner, S. (1985). Vertebrate microfossils of the Devonian-Carboniferous boundary, Muhua Section, Guizhou Province. *Vertebrata PalAsiatica*, *23*(3), 223–234.
 
+Branson, E. B. (1906). Fish remains from the Salem Limestone of Indiana. In E. R. Cumings, J. W. Beede, E. B. Branson, & E. A. Smith (Eds.), *The Fauna of the Salem Limestone of Indiana* (pp. 1376–1394). Indiana Department of Geology and Natural Resources, 30th Annual Report.
+
+Cumings, E. R., Beede, J. W., Branson, E. B., & Smith, E. A. (1906). The Fauna of the Salem Limestone of Indiana. *Indiana Department of Geology and Natural Resources, 30th Annual Report*, 1187–1479.
+
+Duffin, C. J., & Ginter, M. (2006). Comments on the selachian genus *Cladodus* Agassiz, 1843. *Journal of Vertebrate Paleontology*, *26*(2), 253–266.
+
+Eastman, C. R. (1903). Carboniferous fishes from the central western states. *Bulletin of the Museum of Comparative Zoology*, *39*(7), 163–226.
+
+Itano, W. M., & Lambert, L. L. (2018). A new cochliodont anterior tooth plate from the Mississippian of Alabama, USA, having implications for the origin of tooth plates from tooth files. *Zoological Letters*, *4*, 12. https://doi.org/10.1186/s40851-018-0097-0
+
+Maisey, J. G. (1981). Studies on the Paleozoic selachian genus *Ctenacanthus* Agassiz No. 1. *American Museum Novitates*, *2718*, 1–22.
+
+Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebrates, mainly from the sub-Carboniferous limestone and Coal Measures of Illinois. *Geological Survey of Illinois*, *2*, 9–134.
+
+Shaver, R. H., Ault, C. H., Burger, A. M., Carr, D. D., Droste, J. B., Eggert, D. L., ... & Rudman, A. J. (1986). Compendium of Paleozoic rock-unit stratigraphy in Indiana: a revision. *Indiana Geological Survey Bulletin*, *59*, 1–203.
 
 
 
