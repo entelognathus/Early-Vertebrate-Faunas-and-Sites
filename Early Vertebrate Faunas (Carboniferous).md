@@ -92,11 +92,15 @@
 > - **Comments**: The formation represents a condensed, starved basin ("Kulm" facies) associated with the global Lower Alum Shale Event (LASE). Vertebrate remains are often concentrated in phosphatic nodules, preserving three-dimensional microfossils (ichthyoliths and conodonts) indicative of a stratified water column with pelagic predators above an anoxic/dysoxic seafloor. (Raven, 1983; Amler & Winkler Prins, 1999)
 
 #### Köprülü Formation, Zap Valley, Hakkari, SE Turkey
-> - **Age**: Tournaisian
-> - **Taxa**: Cochliodontiformes: *Cochliodus* sp.
-> - **Locality and horizon**: Köprülü Formation, Zap Valley, Hakkari, SE Turkey
-> - **References**: (Janvier, 1984)
-> - **Comments**: 
+> - **Age**: Latest Famennian to Tournaisian; *Retispora lepidophyta*-*Vallatisporites* Zone (basal) to *Spelaeotriletes pretiosus*–*Raistrickia clavata* Zone. (Janvier et al., 1984; Higgs et al., 2002; Hoşgör et al., 2012)
+> - **Taxa**:
+>> - Placodermi: *Groenlandaspis* sp. (Janvier et al., 1984; Janvier & Clément, 2005)
+>> - Chondrichthyes: *Cochliodus* sp., *Psephodus* sp., *Ctenacanthus* sp., "*Cladodus*" sp. (Janvier et al., 1984; Darras et al., 2008)
+>> - Sarcopterygii: Rhizodontida indet. (cf. *Strepsodus*), Dipnoi indet. (Janvier et al., 1984; Janvier & Clément, 2007)
+>> - Actinopterygii: Actinopterygii indet. (palaeoniscoid scales). (Janvier et al., 1984; Hoşgör & Štamberg, 2014)
+> - **Locality and horizon**:  Şort Dere section (N 37°17'05.08", E 43°32'25.78") and Zap 1/Zap 2 sections, Zap Valley, Hakkari Province; basal grey shales and limestones of the Köprülü Formation overlying Yığınlı Formation. (Janvier et al., 1984; Hoşgör et al., 2014; Hoşgör & Štamberg, 2014)
+> - **References**: Darras et al., 2008; Higgs et al., 2002; Hoşgör et al., 2012; Hoşgör & Štamberg, 2014; Hoşgör et al., 2014; Janvier et al., 1984; Janvier & Clément, 2005; Janvier & Clément, 2007; Yalçın & Yılmaz, 2010
+> - **Comments**: The fauna represents a critical Strunian "mixed assemblage" containing both late-surviving placoderms (*Groenlandaspis*) and early-radiating bradyodont sharks (*Cochliodus*, *Psephodus*). This co-occurrence provides evidence for the survival of placoderms into the latest Devonian on the Gondwanan margin and the early diversification of carboniferous-type chondrichthyans. The depositional environment was a shallow marine subtidal shelf, marking a major transgression over the underlying continental red beds. (Janvier et al., 1984; Janvier & Clément, 2005; Darras et al., 2008)
 
 #### Waverly group, Oil Creek, Ohio, USA
 > - **Age**: Tournaisian
@@ -1423,6 +1427,7 @@ Sanz-López, J., Blanco-Ferrera, S., & García-López, S. (2006). Devonian to Lo
 Turner, S. (1982). Middle Palaeozoic microvertebrate assemblages from Europe. In *Ecological and Stratigraphical Significance of Vertebrate Microremains*.
 
 Winkler Prins, C. F. (1968). Carboniferous Productidina and Chonetidina of the Cantabrian Mountains (NW Spain): Systematics, stratigraphy and palaeoecology. *Leidse Geologische Mededelingen*, *43*, 41–126.
+
 
 
 
