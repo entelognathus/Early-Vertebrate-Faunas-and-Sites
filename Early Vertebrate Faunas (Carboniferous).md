@@ -141,13 +141,14 @@
 > - **References**: Ginter & Sun, 2007; Hou et al., 1985; Wang & Turner, 1985.
 > - **Comments**: Pelagic slope carbonate facies lacking black shales; the first appearance of *Acanthodes guizhouensis* in sample GMII24 correlates with the base of the Carboniferous (*S. sulcata* zone); lower samples (GMII20, GMII21) represent the Late Famennian. (Wang & Turner, 1985)
 
-#### Salem Limestone, Lanesville, Indiana, USA
-> - **Age**: middle Visean
-> - **Taxa**:*Chomatodus lanesvillensis*,*Ctenacanthus bellus*, *Cladodus indianensis* (**many need andded**)
-> - **Locality and horizon**:Salem Limestone, Lanesville, Indiana, USA
-> - **References**:(Branson, 1906)
-> - **Comments**:
-> - 
+#### Salem Limestone, Lanesville, Harrison County, Indiana, USA
+> - **Age**: middle Visean (Cumings et al., 1906; Shaver et al., 1986)
+> - **Taxa**:
+>> - Chondrichthyes: *Cladodus indianensis*, *Cladodus spinosus*, *Cladodus ferox*, *Cladodus lamnoides*, *Saivodus striatus* (syn. *Cladodus striatus*), *Ctenacanthus pellensis*, *Asteroptychius bellus* (syn. *Ctenacanthus bellus*), *Chomatodus lanesvillensis*, *Chomatodus inconstans*, *Chomatodus parallelus*, *Helodus incisus*, *Helodus coniculus*, *Helodus laevis*, *Helodus robustus*, *Helodus elegantulus*, *Helodus minutus*, *Helodus ornatus*, *Arcuodus bialveatus* (syn. *Deltodopsis bialveatus*), *Deltodus cinctus*, *Sandalodus convolutus*, *Psephodus latus*, *Orodus neglectus*, *Orodus simplex*, *Desmiodus salemensis*. (Branson, 1906; Duffin & Ginter, 2006; Eastman, 1903; Itano & Lambert, 2018; Maisey, 1981; Newberry & Worthen, 1866)
+> - **Locality and horizon**: Weathered residual red clay overlying the Salem Limestone at Lanesville, Harrison County, Indiana. (Cumings et al., 1906)
+> - **References**: Branson, 1906; Cumings et al., 1906; Duffin & Ginter, 2006; Eastman, 1903; Itano & Lambert, 2018; Maisey, 1981; Newberry & Worthen, 1866; Shaver et al., 1986.
+> - **Comments**: The Lanesville vertebrate fauna is characterized by an abundance of isolated teeth and spines found in residual clays derived from the weathering of the limestone; the assemblage is noted for the diminutive size of many specimens ("Spergen fauna" dwarfism), likely a result of taphonomic sorting in a high-energy shoal environment. (Cumings et al., 1906)
+
 
 #### Burlington limestone, Illinois and Iowa, USA
 > - **Age**: late Tournaisian.
@@ -1497,6 +1498,7 @@ Ginter, M., & Sun, Y. (2007). Chondrichthyan remains from the Lower Carboniferou
 Hou, H. F., Ji, Q., Wu, X. H., Xiong, J. F., Wang, S. T., Gao, L. D., Sheng, H. B., Wei, J. Y., & Turner, S. (1985). *Muhua sections of Devonian-Carboniferous boundary beds*. Geological Publishing House.
 
 Wang, S.-T., & Turner, S. (1985). Vertebrate microfossils of the Devonian-Carboniferous boundary, Muhua Section, Guizhou Province. *Vertebrata PalAsiatica*, *23*(3), 223–234.
+
 
 
 
