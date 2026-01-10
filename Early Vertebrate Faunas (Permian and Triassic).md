@@ -1719,7 +1719,7 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 ## Late Triassic
 Los Esteros Member of the Santa Rosa Formation at the base of the Dockum Group in east-central New Mexico, early to middle Norian
 
-Chinle Formation
+#### Chinle Formation
 https://en.wikipedia.org/wiki/Triassic_land_vertebrate_faunachrons
 
 #### Lockatong Formation, USA
@@ -1940,6 +1940,56 @@ cf. Ischigualasa
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
+
+#### "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
+> - **Age**: Alaunian, Middle Norian, Late Triassic
+> - **Taxa**:
+>> - <img width="147.4" height="60.7" alt="image" src="https://github.com/user-attachments/assets/7c9fb56d-3f4c-481c-a610-b440b1a3246d" />
+>> - Actinopterygii
+> - **Locality and horizon**: Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
+> - **References**:Hornung et al., 2019
+> - **Comments**: 
+
+##### Fish-layer 1 (bed 9)- "main layer", "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
+> - **Age**: Alaunian, Middle Norian, Late Triassic
+> - **Taxa**:
+>> - Actinopterygii:
+>> - dominated by all growth stages of the morphologically variable species *Paralepidotus ornatus* (Agassiz), besides rare, small-sized *Pholidophorus latiusculus*, and indeterminable plant fragments (CTH)
+> - **Locality and horizon**:Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
+> - **References**: Hornung et al., 2019
+> - **Comments**: Approximately 13 cm above its base, the 40 cm thick bed 9 contains the “main layer”.
+
+##### Fish-layer 2 (bed 6), "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
+> - **Age**: Alaunian, Middle Norian, Late Triassic
+> - **Taxa**:
+>> - Actinopterygii: dominated by far by small-sized _Legnonotus krambergeri_ and _Pholidophorus latiusculus_ (size 3-6 cm), minor juvenile _Paralepidotus ornatus_ as well as – with extremely rare occurrence – the dapediiform _Dandya ovalis_ as well as rare specimens of the small-sized pycnodont _Eomesodon hoeferi_.
+>> -**Locality and horizon**:Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
+> - **References**: Hornung et al., 2019
+> - **Comments**: Bed 6 has an overall thickness of only 6 cm. Approximately 5 mm beneath its upper bedding plane, a wafer-thin layer contains a fish fauna. Similar to fish-layer 1, all fishes are arranged randomly but show no stacked embedding.
+
+##### Fish-layer 3 (bed 5), "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
+> - **Age**: Alaunian, Middle Norian, Late Triassic
+> - **Taxa**:
+>> - Actinopterygii: *Paralepidotus ornatus*, *Pholidophorus latiusculus*, *Legnonotus krambergeri*, *Semiolepis brembanus*
+>> -**Locality and horizon**:Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
+> - **References**: Hornung et al., 2019
+> - **Comments**: Bed 5 has an average thickness of 25 cm and contains “fish layer 3” approximately 10 cm above its base.
+
+##### Fish-layer 4 (bed 4), "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
+> - **Age**: Alaunian, Middle Norian, Late Triassic
+> - **Taxa**:
+>> - Actinopterygii: dominated by juvenile and subadult growth stages of *Paralepidotus ornatus*, accompanied by common *Pholidophorus latiusculus* and *Legnonotus krambergeri*. 
+>> -**Locality and horizon**:Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
+> - **References**: Hornung et al., 2019
+> - **Comments**: Bed 4 shows an average thickness of 17 cm and contains the fourth fish layer. The special feature of this fossil assemblage is the strict orientation of nearly all fish carcasses. The direction of orientation, however, seems to depend on the fish body size.
+
+##### Fish-layer 5 (bed 1 - "black layer"), "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
+> - **Age**: Alaunian, Middle Norian, Late Triassic
+> - **Taxa**:
+>> - Actinopterygii: different growth-stages of *Paralepidotus* as well as the small genera *Pholidophorus* and *Legnonotus*.
+>> -**Locality and horizon**:Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
+> - **References**: Hornung et al., 2019
+> - **Comments**: Bed 1 possesses an average thickness of 50 cm and turned out be to the layer of the highest hardness we have dismounted. Approximately 30 cm underneath the top, it revealed the lowermost fish-bearing horizon (“fish layer 5”)。
 
 #### Formation/Member, Locality
 > - **Age**:
@@ -3555,6 +3605,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
