@@ -194,7 +194,7 @@
 ####  Lucaogou Formation（芦草沟组）, Xinjiang, China
 > - **Age**: Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
->> - Tetrapoda: *UUrumqia liudaowanensis*
+>> - Tetrapoda: *Urumqia liudaowanensis*
 > - **Locality and horizon**: 
 > - **References**: Liu (2018)
 > - **Comments**:
@@ -979,6 +979,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Taxa**: Gnathorhiza cf. otschevi Minikh, Boreolepis tataricus, Toyemia blumentalis Minikh, Isadia aristoviensis Minikh, I. cf. suchonensis Minikh, Isadia sp., Varialepis vitalii Minikh, Acropholis cf. stensioei (Esin, 1995b; Tverdokhlebov et al., 2005); tetrapods: Dvinosaurus primus, Karpinskio saurus ultimus, Chroniosuchus paradoxus, Kotlassia cf. prima, Leogorgon klimovensis, Pareiasaurida fam. indet., Peramodon sp. (Ivakhnenko et al., 1997); conchostracans Esteria lineata Lutk., E. angulata Lutk., E. rotunda Lutk., and E. elongata Netsch. 
 > - **Locality and horizon**:Kutuluk Formation, Pronkino, Orenburg Region, Sorochinsky District, left scar of the Borovka River valley, 1 km from the central square of the Pronkino village, approximately halfway up the slope. 
 > - **References**: Bakaev, 2022.
+> - **Comments**: 
+
+#### Moradi Formation, Agadez Department, northern Niger
+> - **Age**: Changhsingian, Lopingian, Permian
+> - **Taxa**: 
+> - **Locality and horizon**:
+> - **References**:
 > - **Comments**: 
 
 #### Balfour Formation, Karoo Basin, South Africa
@@ -3643,6 +3650,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
