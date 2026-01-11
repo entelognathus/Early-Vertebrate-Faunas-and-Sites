@@ -142,13 +142,43 @@
 > - **References**: Pellenard et al., 2017; Soler-Gijón & Hampe, 1998; Heyler, 1969; Werneburg & Steyer, 1999; Sanchez et al., 2010; Werneburg & Ronchi, 2011
 > - **Comments**: 
 
-
 #### Lacustrine limestone horizon at the top of lithofacies B, Sardinia, Italy
 > - **Age**: Asselian, Cisuralian, Permian.
 > - **Taxa**:
 > - **Locality and horizon**: 
 > - **References**: 
 > - **Comments**: latest Carboniferous–earliest Permian (Gzhelian–Asselian), based on sporomorphs and radiometric dating.
+
+
+#### Rudník Member, Vrchlabí Formation /  Kalná Member, Prosečné Formation, Krkonoše Piedmont Basin, Czech
+> - **Age**: Asselian, Cisuralian, Permian.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**: Štamberg (2014)
+> - **Comments**: Four horizons with actinopterygians were distinguished in the Krkonoše Piedmont Basin (Fig. 10):
+1. Horizon with Paramblypterus rohani, Neslovicella elongata and rare Letovichthys sp., Igornichthys sp. (Vrchlabí Formation, Rudník Member).
+2. Horizon with Paramblypterus kablikae, P. feistmanteli, P. "type A" (Prosečné Formation, Kalná Member, Horní Kalná Horizon).
+3. Horizon with Paramblypterus zeidleri (Prosečné Formation, Kalná Member, Dolní Kalná Horizon).
+4. Horizon with Paramblypterus "type B", aeduellidae cf. Bourbonnella or Aeduella (Prosečné Formation, Kalná Member, Laminated limestone). 
+>
+#### Padochov Formation, Veverská Bitýška Formation and Letovice Formation, Boskovice Graben, Czech
+> - **Age**: Asselian, Cisuralian, Permian.
+> - **Taxa**:
+>> - Chondrichthyes:
+>> - Actinopterygii:
+>> - Sarcopterygii:
+>> - Tetrapoda: 
+> - **Locality and horizon**:
+> - **References**: Štamberg (2014)
+> - **Comments**: Four horizons were distinguished according to actinopterygian taxons in the Boskovice Graben:
+1. Horizon with Neslovicella sp. (Padochov Formation, probably Zbýšov Horizon).
+2. Horizon with Neslovicella rzehaki (Padochov Formation, probably Říčany Horizon).
+3. Horizon with Letovichthys tuberculatus and Letovichthys multidentatus (Lower Member of Letovice Formation, probably Lubě Horizon).
+4. Horizon with numerous paramblypterids, Paramblypterus "type B" and rare Bourbonnella hirsuta (Middle Member of Letovice Formation). 
 
 #### Ecca Group, Karoo Basin, South Africa & Namibia
 > - **Age**: Asselian, Cisuralian (Early Permian) to Roadian, Permian.
@@ -3613,6 +3643,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
