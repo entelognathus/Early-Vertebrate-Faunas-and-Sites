@@ -1742,6 +1742,31 @@ Dean, M. T., Browne, M. A. E., Waters, C. N., & Powell, J. H. (2011). A lithostr
 
 Scottish Geology Trust. (n.d.). *Redesdale*. Geoguide. Retrieved from https://geoguide.scottishgeologytrust.org
 
+Bennett, C. E., Kearsey, T., Davies, S. J., Millward, D., Clack, J. A., Smithson, T. R., & Marshall, J. E. A. (2016). Early Mississippian sandy siltstones preserve rare vertebrate fossils in seasonal flooding episodes. *Sedimentology*, *63*(7), 1777–1800. https://doi.org/10.1111/sed.12290
+
+Bolt, J. R., & Lombard, R. E. (2001). The mandible of the primitive tetrapod Greererpeton and the early evolution of the tetrapod lower jaw. *Journal of Paleontology*, *75*(5), 1016–1042.
+
+Bolt, J. R., & Lombard, R. E. (2006). *Sigournea multidentata*, a new stem tetrapod from the Upper Mississippian of Iowa, USA. *Journal of Paleontology*, *80*(4), 717–725. https://doi.org/10.1666/0022-3360(2006)802.0.CO;2
+
+Bolt, J. R., & Lombard, R. E. (2010). *Deltaherpeton hiemstrae*, a new colosteid tetrapod from the Mississippian of Iowa. *Journal of Paleontology*, *84*(6), 1135–1151. https://doi.org/10.1666/10-020.1
+
+Bolt, J. R., McKay, R. M., Witzke, B. J., & McAdams, M. P. (1988). A new Lower Carboniferous tetrapod locality in Iowa. *Nature*, *333*, 768–770. https://doi.org/10.1038/333768a0
+
+Burrow, C. J., Turner, S., Itano, W. M., den Blaauwen, J. L., & Stewart, S. (2025). *Cynopodius*, a long-toothed chondrichthyan from the Carboniferous of Scotland and the USA. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*. Advance online publication.
+
+Hampe, O., Johnson, G. D., & Turner, S. (2006). *Dicentrodus* (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Viséan: upper St Louis Formation) of Iowa, USA. *Geological Magazine*, *143*(4), 545–549. https://doi.org/10.1017/S0016756806002093
+
+Lombard, R. E., & Bolt, J. R. (1995). A new primitive tetrapod, *Whatcheeria deltae*, from the Lower Carboniferous of Iowa. *Palaeontology*, *38*(3), 471–494.
+
+McKay, R. M., Witzke, B. J., & McAdams, M. P. (1987). Early tetrapods, stratigraphy and paleoenvironments of the upper St. Louis Formation, western Keokuk County, Iowa. *Geological Society of Iowa Guidebook*, *46*, 1–84.
+
+Otoo, B. K. A., Bolt, J. R., Lombard, R. E., Angielczyk, K. D., & Pierce, S. E. (2019). The postcranial anatomy of *Whatcheeria deltae* and its implications for the biomechanics of early tetrapods. *Journal of Vertebrate Paleontology*, *38*(sup1), 1–41. https://doi.org/10.1080/02724634.2018.1561008
+
+Schultze, H.-P., & Bolt, J. R. (1996). The lungfish *Tranodis* and the tetrapod fauna from the Upper Mississippian of North America. *Special Papers in Palaeontology*, *52*, 31–54.
+
+Snyder, D., Burrow, C. J., & Turner, S. (2024). A new gyracanthid from the Mississippian of Delta, Iowa, U.S.A. *Journal of Vertebrate Paleontology*, *43*(4), e2310721. https://doi.org/10.1080/02724634.2024.2310721
+
+Witzke, B. J., McKay, R. M., & Anderson, R. R. (1990). Stratigraphy and paleoenvironments of the Mississippian St. Louis Formation in Iowa. In B. J. Bunker & B. J. Witzke (Eds.), *Geology of the Mississippian System in Iowa* (Geological Survey Bureau Guidebook Series No. 11, pp. 85–109). Iowa Department of Natural Resources.
 
 
 
