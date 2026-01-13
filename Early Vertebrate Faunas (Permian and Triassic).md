@@ -1143,7 +1143,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 #### Hongyanjing Formation（红岩井组）, Beishan, Subei County, Gansu, China
 > - **Age**: Olenekian, Early Triassic.
 > - **Taxa**:
->> - Tetrapoda: *Beishanichthys brevicaudalis*
+>> - Tetrapoda: *Beishanichthys brevicaudalis*, Beishanodon youngi
 > - **Locality and horizon**: Hongyanjing Formation, Beishan, Subei County, Gansu, China
 > - **References**:
 > - **Comments**: Xu & Gao (2011): "The fossil bearing deposits of dark mudstones and siltstones exposed at the Beishan site were previously interpreted as Late Permian in age, based on problematic plant fossils (Yang, Fan & Yao, 1997), but have been revised as Early Triassic (Olenekian), based on vertebrate fossils, and primarily on the trirachodontid eucynodont (Gao et al., 2008; 2010)." 马莲井组。
@@ -3650,6 +3650,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
