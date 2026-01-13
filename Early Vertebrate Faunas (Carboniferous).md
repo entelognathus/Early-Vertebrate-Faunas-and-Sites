@@ -1714,6 +1714,15 @@ van Beneden, P.-J. (1871). [Original publication details to be completed].
 
 Woodward, A. S. (1924). Un nouvel Elasmobranche (*Cratoselache pruvosti*, gen. et sp. nov.) du calcaire carbonifère inférieur de Denée. *Société Géologique de Belgique, Livre Jubilaire*, *1*, 57–62.
 
+Denayer, J., Mottequin, B., & Poty, E. (2016). Royseux: a palaeobiodiversity hotspot in the Late Viséan (Carboniferous) of Belgium. *Geologica Belgica*, *19*(1-2), 7–20.
+
+Duffin, C. J., & Ivanov, A. O. (2008). New chondrichthyan teeth from the Early Carboniferous of Britain and Russia. *Acta Geologica Polonica*, *58*(2), 191–197.
+
+Ivanov, A. O., & Derycke, C. (2005). Viséan elasmobranchs of Belgium. *Ichthyolith Issues Special Publication*, *9*, 13–17.
+
+Poty, E., Devuyst, F. X., & Hance, L. (2006). Upper Devonian and Mississippian foraminiferal and coral zonations of Belgium: a review. *Geological Society, London, Special Publications*, *263*(1), 53–68.
+
+Poty, E., Aretz, M., & Denayer, J. (2011). Field trip 3: The upper Viséan of the Royseux area (Dinant Synclinorium). In *Kölner Forum für Geologie und Paläontologie* (Vol. 20, pp. 99–112).
 
 
 
