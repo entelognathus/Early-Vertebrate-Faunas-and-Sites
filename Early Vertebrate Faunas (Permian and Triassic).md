@@ -1810,22 +1810,31 @@ Tikitherium copei
 > - **Comments**: 
 
 #### Lower Meleri Formation, Pranhita–Godavari basin, India
-> - **Age**: Carnian, Late Triassic.
-> - **Taxa**: Xenacanthus indicus
+> - **Age**: late Carnian, Late Triassic.
+> - **Taxa**:
+Alickmeron maleriensis
+Alwalkeria maleriensis
+Panthasaurus maleriensis
+Exaeretodon statisticae
+Hyperodapedon huxleyi
+Malerisaurus robinsonae
+Massospondylus hislopi
+Parasuchus hislopi
+Plateosaurus indet.
+
+Xenacanthus indicus
 Ptychoceratodus hislopianus
 Ptychoceratodus virapa
 Metoposaurus maleriensis
 Hyperodapedon huxleyi
-?Malerisaurus robinsonae
-Parasuchus hislopi
 cf. Angistorhinus
 cf. Typothorax
-Alwalkeria maleriensis
-Exaeretodon stascae
+
+
 Deccanodon maleriensis
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
+> - **Comments**: The Lower Maleri Formation is a sedimentary rock formation found in Andhra Pradesh and Telangana, India. It is the lowermost member of the Pranhita–Godavari Basin. It is of late Carnian to early Norian age (Upper Triassic), and is notable for its fossils of early dinosaurs, including the basal saurischian (possible theropod) Alwalkeria. The formation has been correlated with the Molteno Formation (Karoo Basin) and Pebbly Arkose Formation of Africa, the Santa Maria Formation of the Paraná Basin in Brazil, the Ischigualasto Formation of the Ischigualasto-Villa Unión Basin of Argentina and the lowermost Chinle Formation of North America. 
 
 #### Upper Meleri Formation, Pranhita–Godavari basin, India
 > - **Age**: Norian, Late Triassic.
@@ -3650,6 +3659,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
