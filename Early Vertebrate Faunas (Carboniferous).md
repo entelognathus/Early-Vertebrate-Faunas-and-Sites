@@ -1696,6 +1696,21 @@ Traquair, R. H. (1881). Notice of new fish remains from the Blackband Ironstone 
 
 White, E. I. (1927). The fish fauna of the Cementstones of Foulden, Berwickshire. *Transactions of the Royal Society of Edinburgh*, *55*(1), 255–287.
 
+Davis, J. W. (1883). On the fossil fishes of the Carboniferous Limestone Series of Great Britain. *The Scientific Transactions of the Royal Dublin Society*, *1*(2), 327–600.
+
+Fournier, G., & Pruvost, P. (1928). Description des poissons élasmobranches du marbre noir de Denée. *Mémoires de la Société Géologique de Belgique*, *5*, 1–23.
+
+Mottequin, B. (2008). The ‘black marble’ of Denée, a fossil conservation deposit from the Lower Carboniferous (Viséan) of southern Belgium. *Geological Journal*, *43*(2–3), 197–208.
+
+Mottequin, B., Poty, E., & Prestianni, C. (2015). Catalogue of the types and illustrated specimens recovered from the ‘black marble’ of Denée, a marine conservation-Lagerstätte from the Mississippian of southern Belgium. *Geologica Belgica*, *18*(1), 1–14.
+
+Poty, E., Devuyst, F. X., & Hance, L. (2006). Upper Devonian and Mississippian foraminiferal and rugose coral zonations of Belgium and adjacent areas: A synthesis. *Geologica Belgica*, *9*(1–2), 133–150.
+
+Traquair, R. H. (1878). On *Benedenius deneensis*, a new genus of palaeoniscid fish from the Carboniferous limestone of Denée, Belgium. In L. G. de Koninck (Ed.), *Faune du Calcaire carbonifère de la Belgique: première partie, poissons et genre nautile* (Vol. 2, pp. 14–18). *Annales du Musée Royal d'Histoire Naturelle de Belgique, série paléontologique*.
+
+van Beneden, P.-J. (1871). [Original publication details to be completed].
+
+Woodward, A. S. (1924). Un nouvel Elasmobranche (*Cratoselache pruvosti*, gen. et sp. nov.) du calcaire carbonifère inférieur de Denée. *Société Géologique de Belgique, Livre Jubilaire*, *1*, 57–62.
 
 
 
