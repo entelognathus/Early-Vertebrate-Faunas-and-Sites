@@ -1769,6 +1769,11 @@ Snyder, D., Burrow, C. J., & Turner, S. (2024). A new gyracanthid from the Missi
 
 Witzke, B. J., McKay, R. M., & Anderson, R. R. (1990). Stratigraphy and paleoenvironments of the Mississippian St. Louis Formation in Iowa. In B. J. Bunker & B. J. Witzke (Eds.), *Geology of the Mississippian System in Iowa* (Geological Survey Bureau Guidebook Series No. 11, pp. 85–109). Iowa Department of Natural Resources.
 
+Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olsen, R. (2021). The Late Mississippian (Viséan) chondrichthyan assemblage of the St. Louis Formation at Mammoth Cave National Park, Kentucky. *Society of Vertebrate Paleontology Annual Meeting Program*.
+
+Hodnett, J.-P. M., Toomey, R., Egli, H. C., Ward, G., Wood, J. R., Olson, R., Tolleson, K., Tweet, J. S., & Santucci, V. L. (2024a). New ctenacanth sharks (Chondrichthyes; Elasmobranchii; Ctenacanthiformes) from the Middle to Late Mississippian of Kentucky and Alabama. *Journal of Vertebrate Paleontology*, *43*(3), e2292599. https://doi.org/10.1080/02724634.2023.2292599
+
+Hodnett, J.-P. M., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Wood, J., Tweet, J. S., & Santucci, V. L. (2024b). Sharks in the dark: Paleontological resource inventory reveals multiple successive Mississippian Subperiod cartilaginous fish (Chondrichthyes) assemblages within Mammoth Cave National Park, Kentucky. *Parks Stewardship Forum*, *40*(1), 53–67. https://doi.org/10.5070/P540162921
 
 
 
