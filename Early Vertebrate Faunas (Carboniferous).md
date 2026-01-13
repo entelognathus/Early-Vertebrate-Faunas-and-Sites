@@ -1727,6 +1727,15 @@ Poty, E., Devuyst, F. X., & Hance, L. (2006). Upper Devonian and Mississippian f
 
 Poty, E., Aretz, M., & Denayer, J. (2011). Field trip 3: The upper Viséan of the Royseux area (Dinant Synclinorium). In *Kölner Forum für Geologie und Paläontologie* (Vol. 20, pp. 99–112).
 
+Berwickshire Naturalists' Club. (1938). Reports of Meetings for 1938. *History of the Berwickshire Naturalists' Club*, *30*, 21.
+
+British Geological Survey. (n.d.). *Berwick-upon-Tweed - an excursion*. Earthwise. Retrieved from http://earthwise.bgs.ac.uk
+
+Craig, J. A., Davies, N. S., & McMahon, W. J. (2025). True substrates from a Mississippian wetland: windows into the biogeomorphology of Viséan tetrapod habitats (Tyne Limestone Formation, UK). *Geological Society, London, Special Publications*, *556*(1). https://doi.org/10.1144/SP556-2024-109
+
+Dean, M. T., Browne, M. A. E., Waters, C. N., & Powell, J. H. (2011). A lithostratigraphical framework for the Carboniferous successions of northern Great Britain (Onshore). *British Geological Survey Research Report*, RR/10/07.
+
+Scottish Geology Trust. (n.d.). *Redesdale*. Geoguide. Retrieved from https://geoguide.scottishgeologytrust.org
 
 
 
