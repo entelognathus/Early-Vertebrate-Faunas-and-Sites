@@ -321,11 +321,14 @@
 > - **Comments**: The site is a recognised palaeobiodiversity hotspot for rugose corals; vertebrate microremains are concentrated in high-energy bioclastic grainstones and rudstones deposited in a shallow carbonate platform setting (Condroz Sedimentation Area). (Denayer et al., 2016; Ivanov & Derycke, 2005)
 
 #### Tyne Limestone Formation, Spittal to Redshin Cove, Northumberland, UK
-> - **Age**:
+> - **Age**: Viséan (Craig et al., 2025; Dean et al., 2011)  
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Sarcopterygii: *Megalichthys* sp., *Rhizodopsis* sp. (Berwickshire Naturalists' Club, 1938)  
+>> - Chondrichthyes: Bradyodonts (indeterminate). (Scottish Geology Trust, n.d.)  
+>> - Actinopterygii: Palaeoniscids (indeterminate). (Scottish Geology Trust, n.d.)  
+> - **Locality and horizon**: Coastal exposure extending from Spittal (55° 45′ 21.3″N, 01° 59′ 21.6″W) to Redshin Cove (55° 44′ 43.6″N, 01° 58′ 27.1″W); fossils concentrated in the basal fossiliferous layer of the Doupster Oil Shale Member and marine limestone intervals (e.g., Dun Limestone). (British Geological Survey, n.d.; Craig et al., 2025)
+> - **References**: Berwickshire Naturalists' Club, 1938; British Geological Survey, n.d.; Craig et al., 2025; Dean et al., 2011; Scottish Geology Trust, n.d.  
+> - **Comments**: he Doupster Oil Shale (approx. 4.5 m thick) represents a lacustrine or restricted lagoonal phase within the Yoredale cyclothems, preserving disarticulated fish debris including scales and teeth of predatory sarcopterygians; the formation is also noted for tetrapod trackways (excluded here) preserved on deltaic sandstone surfaces. (British Geological Survey, n.d.; Craig et al., 2025)
 
 #### St. Louis Formation (fissure fills), Delta, Keokuk County, Iowa, USA
 > - **Age**:
@@ -1723,6 +1726,7 @@ Ivanov, A. O., & Derycke, C. (2005). Viséan elasmobranchs of Belgium. *Ichthyol
 Poty, E., Devuyst, F. X., & Hance, L. (2006). Upper Devonian and Mississippian foraminiferal and coral zonations of Belgium: a review. *Geological Society, London, Special Publications*, *263*(1), 53–68.
 
 Poty, E., Aretz, M., & Denayer, J. (2011). Field trip 3: The upper Viséan of the Royseux area (Dinant Synclinorium). In *Kölner Forum für Geologie und Paläontologie* (Vol. 20, pp. 99–112).
+
 
 
 
