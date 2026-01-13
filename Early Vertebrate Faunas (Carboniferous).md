@@ -331,11 +331,16 @@
 > - **Comments**: he Doupster Oil Shale (approx. 4.5 m thick) represents a lacustrine or restricted lagoonal phase within the Yoredale cyclothems, preserving disarticulated fish debris including scales and teeth of predatory sarcopterygians; the formation is also noted for tetrapod trackways (excluded here) preserved on deltaic sandstone surfaces. (British Geological Survey, n.d.; Craig et al., 2025)
 
 #### St. Louis Formation (fissure fills), Delta, Keokuk County, Iowa, USA
-> - **Age**:
+> - **Age**: Late Viséan (Bolt et al., 1988; Witzke et al., 1990; Snyder et al., 2024)  
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Tetrapoda: *Whatcheeria deltae*, *Sigournea multidentata*, *Deltaherpeton hiemstrae*, Embolomeri indet., cf. Microsauria. (Bolt et al., 1988; Lombard & Bolt, 1995; Bolt & Lombard, 2006; Bolt & Lombard, 2010; Otoo et al., 2019)  
+>> - Sarcopterygii: *Tranodis* sp. (cf. *T. castrensis*), *Rhizodus* sp., Rhizodontidae indet., "Osteolepiforms" indet. (Bolt et al., 1988; Schultze & Bolt, 1996; Bennett et al., 2016)  
+>> - Acanthodii: *Gyracanthus? jasperi*. (Snyder et al., 2024)  
+>> - Chondrichthyes: *Dicentrodus* sp., *Cynopodius robustus*, Petalodontiformes indet. (Hampe et al., 2006; Burrow et al., 2025)  
+>> - Actinopterygii: Palaeonisciformes indet. (Bolt et al., 1988)  
+> - **Locality and horizon**: Hiemstra Quarry, near Delta, Keokuk County, Iowa, USA (41°17′41″N, 92°20′9″W). Fossils are concentrated in the "Main Bone Bed" (MBB) and associated facies within a complex of paleokarst collapse structures (sinkholes/fissure fills). These fills were originally assigned to the Waugh Member of the St. Louis Formation but have been biostratigraphically and lithologically correlated by some authors to the overlying Ste. Genevieve Formation, filling voids in the Verdi Member of the St. Louis Formation. (McKay et al., 1987; Bolt et al., 1988; Witzke et al., 1990; Snyder et al., 2024)  
+> - **References**: Bennett et al., 2016; Bolt & Lombard, 2001; Bolt & Lombard, 2006; Bolt & Lombard, 2010; Bolt et al., 1988; Burrow et al., 2025; Hampe et al., 2006; Lombard & Bolt, 1995; McKay et al., 1987; Otoo et al., 2019; Schultze & Bolt, 1996; Snyder et al., 2024; Witzke et al., 1990.  
+> - **Comments**: The Delta locality is a crucial "Romer's Gap" site, preserving one of the oldest and most diverse tetrapod assemblages in North America. The taphonomic setting is interpreted as a sinkhole lake or depression on an exposed karst surface, likely with brackish to freshwater conditions, which trapped a mix of aquatic (sharks, rhizodonts, lungfish) and semi-aquatic (tetrapods) fauna. *Whatcheeria deltae* is the most abundant tetrapod, represented by hundreds of elements indicating a largely aquatic lifestyle. The fauna demonstrates the early diversification of tetrapods and the persistence of archaic fish groups like gyracanthids and rhizodonts into the Carboniferous. The presence of *Dicentrodus* represents the earliest occurrence of xenacanth sharks in North America. (Bolt et al., 1988; Hampe et al., 2006; Otoo et al., 2019; Snyder et al., 2024)
 
 #### St. Louis Formation (Horse Cave Member), Mammoth Cave National Park, Kentucky, USA
 > - **Age**:
@@ -1736,6 +1741,7 @@ Craig, J. A., Davies, N. S., & McMahon, W. J. (2025). True substrates from a Mis
 Dean, M. T., Browne, M. A. E., Waters, C. N., & Powell, J. H. (2011). A lithostratigraphical framework for the Carboniferous successions of northern Great Britain (Onshore). *British Geological Survey Research Report*, RR/10/07.
 
 Scottish Geology Trust. (n.d.). *Redesdale*. Geoguide. Retrieved from https://geoguide.scottishgeologytrust.org
+
 
 
 
