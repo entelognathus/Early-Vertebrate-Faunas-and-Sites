@@ -343,11 +343,12 @@
 > - **Comments**: The Delta locality is a crucial "Romer's Gap" site, preserving one of the oldest and most diverse tetrapod assemblages in North America. The taphonomic setting is interpreted as a sinkhole lake or depression on an exposed karst surface, likely with brackish to freshwater conditions, which trapped a mix of aquatic (sharks, rhizodonts, lungfish) and semi-aquatic (tetrapods) fauna. *Whatcheeria deltae* is the most abundant tetrapod, represented by hundreds of elements indicating a largely aquatic lifestyle. The fauna demonstrates the early diversification of tetrapods and the persistence of archaic fish groups like gyracanthids and rhizodonts into the Carboniferous. The presence of *Dicentrodus* represents the earliest occurrence of xenacanth sharks in North America. (Bolt et al., 1988; Hampe et al., 2006; Otoo et al., 2019; Snyder et al., 2024)
 
 #### St. Louis Formation (Horse Cave Member), Mammoth Cave National Park, Kentucky, USA
-> - **Age**:
+> - **Age**: Viséan (Hodnett et al., 2024)  
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Saivodus striatus*, *Cladodus mirabilis*, *Cladodus elegans*, *Glencartius costellatus*, *Troglocladodus trimblei*, *Glikmanius careforum*, *Leiodus calcaratus*, *Chomatodus* sp., *Tanodus pumilis*, *Polyrhizodus concavus*, *Petalorhynchus pseudosagitatus*, *Helodus* sp., *Psephodus* sp., *Cochliodus* sp., *Deltodus* sp., *Sandalodus* sp., *Poecilodus* sp., *Psammodus* sp., *Copodus cornutus*, *Deltoptychius* sp., *Traquairius* sp. (Hodnett et al., 2021; Hodnett et al., 2024a; Hodnett et al., 2024b)  
+> - **Locality and horizon**: Horse Cave Member, exposed in underground river passages; fossils found in cave walls, ceilings, and floor sediments. (Hodnett et al., 2021; Hodnett et al., 2024b)  
+> - **References**: Hodnett et al., 2021; Hodnett et al., 2024a; Hodnett et al., 2024b.  
+> - **Comments**: The assemblage represents a diverse marine "recovery fauna" post-dating the Late Devonian extinction. It is dominated by ctenacanthiform sharks and durophagous holocephalians/petalodonts. Notable for the preservation of associated skeletal cartilage (e.g., "Boldon's Shark") and distinct faunal turnover compared to the overlying Ste. Genevieve Formation. (Hodnett et al., 2021; Hodnett et al., 2024b)
 
 #### Ste. Genevieve Formation (Joppa Member), Mammoth Cave National Park, Kentucky, USA
 > - **Age**:
@@ -1767,6 +1768,7 @@ Schultze, H.-P., & Bolt, J. R. (1996). The lungfish *Tranodis* and the tetrapod 
 Snyder, D., Burrow, C. J., & Turner, S. (2024). A new gyracanthid from the Mississippian of Delta, Iowa, U.S.A. *Journal of Vertebrate Paleontology*, *43*(4), e2310721. https://doi.org/10.1080/02724634.2024.2310721
 
 Witzke, B. J., McKay, R. M., & Anderson, R. R. (1990). Stratigraphy and paleoenvironments of the Mississippian St. Louis Formation in Iowa. In B. J. Bunker & B. J. Witzke (Eds.), *Geology of the Mississippian System in Iowa* (Geological Survey Bureau Guidebook Series No. 11, pp. 85–109). Iowa Department of Natural Resources.
+
 
 
 
