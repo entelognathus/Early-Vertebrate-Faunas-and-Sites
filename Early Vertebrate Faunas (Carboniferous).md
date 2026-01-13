@@ -312,11 +312,13 @@
 > - **Comments**: Exceptional marine Konservat-Lagerstätte (obrution deposit) formed by distal calcareous turbidites in an anoxic to dysoxic intra-platform basin; fossils are frequently articulated and occur primarily at the base of thin-bedded, laminated black limestone layers. (Mottequin, 2008; Mottequin et al., 2015)
 
 #### Anhée Formation, Royseux, Dinant Synclinorium, Belgium
-> - **Age**:
+> - **Age**: Late Viséan (*Gnathodus bilineatus* Zone). (Ivanov & Derycke, 2005; Poty et al., 2006)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Thrinacodus ferox*, *Bransonella nebraskensis*, *Denaea* cf. *fournieri*, *Denaea wangi*, *Glikmanius* sp., *Heslerodoides* sp., *Protacrodus aequalis*, *Sphenacanthus* sp., *Cooleyella fordi*, *Ginteria fungiforma*, Helodontiformes indet., Iniopterygia indet., Petalodontiformes indet. (Duffin & Ivanov, 2008; Ivanov & Derycke, 2005)  
+>> - Actinopterygii: Indeterminate teeth and scales. (Ivanov & Derycke, 2005)  
+> - **Locality and horizon**: Royseux sections I, II, and III (approx. N 50.45°, E 5.25°), Hoyoux valley, south of Huy; bioclastic limestones within Parasequence +2 of the lower Anhée Formation. (Denayer et al., 2016; Poty et al., 2011)  
+> - **References**: Denayer et al., 2016; Duffin & Ivanov, 2008; Ivanov & Derycke, 2005; Poty et al., 2006; Poty et al., 2011. 
+> - **Comments**: The site is a recognised palaeobiodiversity hotspot for rugose corals; vertebrate microremains are concentrated in high-energy bioclastic grainstones and rudstones deposited in a shallow carbonate platform setting (Condroz Sedimentation Area). (Denayer et al., 2016; Ivanov & Derycke, 2005)
 
 #### Tyne Limestone Formation, Spittal to Redshin Cove, Northumberland, UK
 > - **Age**:
@@ -1711,6 +1713,7 @@ Traquair, R. H. (1878). On *Benedenius deneensis*, a new genus of palaeoniscid f
 van Beneden, P.-J. (1871). [Original publication details to be completed].
 
 Woodward, A. S. (1924). Un nouvel Elasmobranche (*Cratoselache pruvosti*, gen. et sp. nov.) du calcaire carbonifère inférieur de Denée. *Société Géologique de Belgique, Livre Jubilaire*, *1*, 57–62.
+
 
 
 
