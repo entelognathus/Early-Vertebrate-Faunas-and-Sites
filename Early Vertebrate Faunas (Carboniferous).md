@@ -303,11 +303,13 @@
 
 ### Visean, Middle Mississipian, Carboniferous
 #### Molignée Formation ("Black Marble of Denée"), Denée, Namur Province, Belgium
-> - **Age**:
+> - **Age**: Early Viséan (Foraminifer Zones MFZ 9–10). (Mottequin et al., 2015; Poty et al., 2006)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Actinopterygii: *Benedenius deneensis*, *Benedenius soreili*, *Palaeoniscum* sp. (van Beneden, 1871; Traquair, 1878; Fraipont, 1890; Mottequin et al., 2015)   
+>> - Chondrichthyes: *Cratoselache pruvosti*, *Denaea fournieri*, *Helodus* sp., *Physonemus* sp., *Sandalodus morrisi*, *Sphenacanthus delepinei*. (Davis, 1883; Pruvost, 1922; Woodward, 1924; Pruvost, 1928; Fournier & Pruvost, 1928; Mottequin et al., 2015)  
+> - **Locality and horizon**: Denée and Salet area, Dinant Sedimentation Area (DSA); specific horizons include "La Veine" and "Les Drîs" within the Le Cerisier, Meurisse, Piette, Les Neuf Bonniers, and Plantis Thomas quarries. (Fournier & Pruvost, 1928; Mottequin et al., 2015)
+> - **References**: Davis, 1883; Fournier & Pruvost, 1928; Mottequin, 2008; Mottequin et al., 2015; Poty et al., 2006; Traquair, 1878; van Beneden, 1871; Woodward, 1924.
+> - **Comments**: Exceptional marine Konservat-Lagerstätte (obrution deposit) formed by distal calcareous turbidites in an anoxic to dysoxic intra-platform basin; fossils are frequently articulated and occur primarily at the base of thin-bedded, laminated black limestone layers. (Mottequin, 2008; Mottequin et al., 2015)
 
 #### Anhée Formation, Royseux, Dinant Synclinorium, Belgium
 > - **Age**:
@@ -1693,6 +1695,7 @@ Thomson, K. S. (1965). On the relationships of certain Carboniferous Dipnoi: wit
 Traquair, R. H. (1881). Notice of new fish remains from the Blackband Ironstone of Borough Lee, near Edinburgh. *Geological Magazine*, *8*, 35–37.
 
 White, E. I. (1927). The fish fauna of the Cementstones of Foulden, Berwickshire. *Transactions of the Royal Society of Edinburgh*, *55*(1), 255–287.
+
 
 
 
