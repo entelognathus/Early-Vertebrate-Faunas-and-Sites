@@ -1801,6 +1801,13 @@ Rexroad, C. B. (1986). Salem Limestone. In R. H. Shaver (Ed.), *Compendium of Pa
 
 Shaver, R. H., Ault, C. H., Burger, A. M., Carr, D. D., Droste, J. B., Eggert, D. L., Gray, H. H., Harper, D., Hasenmueller, N. R., Hasenmueller, W. A., Horowitz, A. S., Hutchison, H. C., Keith, B. D., Keller, S. J., Patton, J. B., Rexroad, C. B., & Wier, C. E. (1986). *Compendium of Paleozoic Rock-Unit Stratigraphy in Indiana: A Revision*. Indiana Geological Survey Bulletin 59.
 
+Fillmore, D. L., Lucas, S. G., & Simpson, E. L. (2012). Ichnology of the Mississippian Mauch Chunk Formation, eastern Pennsylvania. *New Mexico Museum of Natural History and Science Bulletin*, *60*, 1–136.
+
+Hoque, M. (1968). *Sedimentologic and paleocurrent study of Mauch Chunk Formation (Mississippian), south-central and western Pennsylvania*. Doctoral dissertation, University of Pittsburgh.
+
+Lucas, S. G., Fillmore, D. L., & Simpson, E. L. (2010). Amphibian body impressions from the Mississippian of Pennsylvania, USA. *Ichnos*, *17*(3), 175–178. https://doi.org/10.1080/10420940.2010.502482
+
+Vrazo, M. B., Benton, M. J., & Daeschler, E. B. (2007). Tetrapod tracks from the Mauch Chunk Formation (middle to upper Mississippippian) of Pennsylvania, USA. *Proceedings of the Academy of Natural Sciences of Philadelphia*, *156*(1), 199–209. https://doi.org/10.1635/0097-3157(2007)1562.0.CO;2
 
 
 
