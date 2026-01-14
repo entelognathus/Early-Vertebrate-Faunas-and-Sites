@@ -1775,6 +1775,17 @@ Hodnett, J.-P. M., Toomey, R., Egli, H. C., Ward, G., Wood, J. R., Olson, R., To
 
 Hodnett, J.-P. M., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Wood, J., Tweet, J. S., & Santucci, V. L. (2024b). Sharks in the dark: Paleontological resource inventory reveals multiple successive Mississippian Subperiod cartilaginous fish (Chondrichthyes) assemblages within Mammoth Cave National Park, Kentucky. *Parks Stewardship Forum*, *40*(1), 53–67. https://doi.org/10.5070/P540162921
 
+Hodnett, J.-P. M., Egli, H. C., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Tweet, J. S., & Santucci, V. L. (2025a). Obruchevodid petalodonts (Chondrichthyes, Petalodontiformes, Obruchevodidae) from the Middle Mississippian (Viséan) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky U.S.A. *Journal of Paleontology*, *98*(6), 1087–1097. https://doi.org/10.1017/jpa.2024.40
+
+Hodnett, J.-P. M., Toomey, R., Egli, H. C., Ward, G., Wood, J. R., Olson, R., Tolleson, K., Tweet, J. S., & Santucci, V. L. (2024). New ctenacanth sharks (Chondrichthyes; Elasmobranchii; Ctenacanthiformes) from the Middle to Late Mississippian of Kentucky and Alabama. *Journal of Vertebrate Paleontology*, *43*(3), e2292599. https://doi.org/10.1080/02724634.2023.2292599
+
+Hodnett, J.-P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2021). The Late Mississippian (Viséan) chondrichthyan assemblage from the Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky. *Journal of Vertebrate Paleontology*, *40*(Supplement 1), 168.
+
+Hodnett, J.-P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2023). Janassid petalodonts (Chondrichthyes, Petalodontiformes, Janassidae) from the Middle Mississippian (Viséan) Ste. Genevieve Formation, Mammoth Cave National Park, Kentucky, USA. *Historical Biology*, *35*(12), 2371–2384. https://doi.org/10.1080/08912963.2023.2231955
+
+Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olson, R. (2022). Sharks in the dark: Paleontological resource inventory reveals multiple successive Mississippian Subperiod cartilaginous fish (Chondrichthyes) assemblages within Mammoth Cave National Park, Kentucky. *Parks Stewardship Forum*, *40*(1), 53–67. https://doi.org/10.5070/P540162921
+
+Hodnett, J.-P. M., Toomey, R., Sues, H.-D., Santucci, V. L., Tolleson, K., & Tweet, J. S. (2025b). A new euchondrocephalan chondrichthyan (Chondrichthyes, Euchondrocephali) from the Middle Mississippian (Viséan) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky, USA. *New Mexico Museum of Natural History and Science Bulletin*, *100*, 87–98.
 
 
 
