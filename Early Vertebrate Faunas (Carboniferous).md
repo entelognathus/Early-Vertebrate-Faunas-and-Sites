@@ -1787,6 +1787,19 @@ Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olson, R. (2022). Sharks in th
 
 Hodnett, J.-P. M., Toomey, R., Sues, H.-D., Santucci, V. L., Tolleson, K., & Tweet, J. S. (2025b). A new euchondrocephalan chondrichthyan (Chondrichthyes, Euchondrocephali) from the Middle Mississippian (Visean) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky, USA. *New Mexico Museum of Natural History and Science Bulletin*, *100*, 87–98.
 
+Branson, E. B. (1906). Fish remains from the Salem Limestone of Indiana. In E. R. Cumings, J. W. Beede, E. B. Branson, & E. A. Smith (Eds.), *Fauna of the Salem Limestone of Indiana* (30th Annual Report, pp. 1376–1394). Indiana Department of Geology and Natural Resources.
+
+Cumings, E. R., Beede, J. W., Branson, E. B., & Smith, E. A. (1906). *Fauna of the Salem Limestone of Indiana*. Indiana Department of Geology and Natural Resources.
+
+Duffin, C. J., & Ginter, M. (2006). Comments on the selachian genus *Cladodus* Agassiz, 1843. *Journal of Vertebrate Paleontology*, *26*(2), 253–266. https://doi.org/10.1671/0272-4634(2006)262.0.CO;2
+
+Itano, W. M., & Lambert, L. L. (2018). *Arcuodus*, a new genus of cochliodontid fish (Chondrichthyes, Holocephali) from the central United States. *Journal of Vertebrate Paleontology*, *38*(2), e1440079. https://doi.org/10.1080/02724634.2018.1440079
+
+Maisey, J. G. (1981). Studies on the Paleozoic selachian genus *Ctenacanthus* Agassiz: No. 1. Historical review and revised diagnosis of *Ctenacanthus*, with a list of referred taxa. *American Museum Novitates*, *2718*, 1–22.
+
+Rexroad, C. B. (1986). Salem Limestone. In R. H. Shaver (Ed.), *Compendium of Paleozoic Rock-Unit Stratigraphy in Indiana: A Revision* (Bulletin 59, pp. 132–134). Indiana Geological Survey.
+
+Shaver, R. H., Ault, C. H., Burger, A. M., Carr, D. D., Droste, J. B., Eggert, D. L., Gray, H. H., Harper, D., Hasenmueller, N. R., Hasenmueller, W. A., Horowitz, A. S., Hutchison, H. C., Keith, B. D., Keller, S. J., Patton, J. B., Rexroad, C. B., & Wier, C. E. (1986). *Compendium of Paleozoic Rock-Unit Stratigraphy in Indiana: A Revision*. Indiana Geological Survey Bulletin 59.
 
 
 
