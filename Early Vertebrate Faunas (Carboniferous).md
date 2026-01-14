@@ -365,11 +365,11 @@
 > - **Comments**: Deposited in a high-energy, shallow marine carbonate shoal environment (spergenite facies); vertebrate fauna is dominated by isolated durophagous tooth plates and defensive fin spines, often exhibiting abrasion consistent with wave agitation; *Saivodus* remains represent apex macropredators. (Branson, 1906; Shaver et al., 1986)
 
 #### Mauch Chunk Formation, Mount Carbon, Pennsylvania, USA
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Visean–Serpukhovian (Fillmore et al., 2012; Vrazo et al., 2007)
+> - **Taxa**: indeterminate ichthyoliths (scales and teeth). (Hoque, 1968; Vrazo et al., 2007)  
+> - **Locality and horizon**: Mount Carbon, Schuylkill County (type locality for *Palaeosauropus* footprints); Indian Run Member (Middle Member), red siltstones and mudstones. (Fillmore et al., 2012)
+> - **References**: Fillmore et al., 2012; Hoque, 1968; Lucas et al., 2010; Vrazo et al., 2007. 
+> - **Comments**: Diagnostic tetrapod skeletal remains are absent at this locality due to oxidizing paleoenvironmental conditions (red beds); the vertebrate fauna is primarily known from an extensive ichnofossil record (footprints *Palaeosauropus*, body impressions *Temnocorpichnus*). Skeletal taxa often attributed to the "Mauch Chunk" (e.g., *Mauchchunkia*, *Proterogyrinus*, *Greererpeton*) are restricted to the lithostratigraphically equivalent Mauch Chunk Group of West Virginia. (Fillmore et al., 2012; Lucas et al., 2010)
 
 #### Point Edward Formation, Point Edward, Sydney, Nova Scotia, Canada
 > - **Age**:
@@ -1800,6 +1800,7 @@ Maisey, J. G. (1981). Studies on the Paleozoic selachian genus *Ctenacanthus* Ag
 Rexroad, C. B. (1986). Salem Limestone. In R. H. Shaver (Ed.), *Compendium of Paleozoic Rock-Unit Stratigraphy in Indiana: A Revision* (Bulletin 59, pp. 132–134). Indiana Geological Survey.
 
 Shaver, R. H., Ault, C. H., Burger, A. M., Carr, D. D., Droste, J. B., Eggert, D. L., Gray, H. H., Harper, D., Hasenmueller, N. R., Hasenmueller, W. A., Horowitz, A. S., Hutchison, H. C., Keith, B. D., Keller, S. J., Patton, J. B., Rexroad, C. B., & Wier, C. E. (1986). *Compendium of Paleozoic Rock-Unit Stratigraphy in Indiana: A Revision*. Indiana Geological Survey Bulletin 59.
+
 
 
 
