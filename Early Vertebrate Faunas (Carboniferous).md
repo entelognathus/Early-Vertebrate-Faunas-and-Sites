@@ -151,7 +151,7 @@
 
 
 #### Burlington limestone, Illinois and Iowa, USA
-> - **Age**: Late Tournaisian to Early Viséan (Lane, 1978; Hoenig, 2019)
+> - **Age**: Late Tournaisian to Early Visean (Lane, 1978; Hoenig, 2019)
 > - **Taxa**:
 >> - Chondrichthyes: *Cladodus alternatus*, *Cladodus exilis*, *Cladodus exiguus*, *Cladodus springeri*, *Cladodus bellifer*, *Ctenacanthus burlingtonensis*, *Ctenacanthus gradocostus*, *Stethacanthus productus*, *Stethacanthus compressus*, *Orodus major*, *Orodus micropterygius*, *Deltodus spatulatus*, *Deltodus grandis*, *Sandalodus laevissimus*, *Sandalodus grandis*, *Psammodus lovianus*, *Psammodus springeri*, *Psephodus reticulatus*, *Cochliodus vanhornii*, *Cochliodus costatus*, *Venustodus leidyi*, *Thrinacodus nanus*, *Columnaodus witzkei*, *Antliodus gracilis*, *Tanaodus* sp., *Erismacanthus* sp., *Acondylacanthus* sp. (St. John & Worthen, 1875; Newberry, 1889; Hoenig, 2019; Cicimurri et al., 2024)
 >> - Actinopterygii: *Eurylepis* sp., *Gonatodus* sp., *Palaeoniscum* sp. (Newberry, 1889; Eastman, 1902)
@@ -303,7 +303,7 @@
 
 ### Visean, Middle Mississipian, Carboniferous
 #### Molignée Formation ("Black Marble of Denée"), Denée, Namur Province, Belgium
-> - **Age**: Early Viséan (Foraminifer Zones MFZ 9–10). (Mottequin et al., 2015; Poty et al., 2006)
+> - **Age**: Early Visean (Foraminifer Zones MFZ 9–10). (Mottequin et al., 2015; Poty et al., 2006)
 > - **Taxa**:
 >> - Actinopterygii: *Benedenius deneensis*, *Benedenius soreili*, *Palaeoniscum* sp. (van Beneden, 1871; Traquair, 1878; Fraipont, 1890; Mottequin et al., 2015)   
 >> - Chondrichthyes: *Cratoselache pruvosti*, *Denaea fournieri*, *Helodus* sp., *Physonemus* sp., *Sandalodus morrisi*, *Sphenacanthus delepinei*. (Davis, 1883; Pruvost, 1922; Woodward, 1924; Pruvost, 1928; Fournier & Pruvost, 1928; Mottequin et al., 2015)  
@@ -312,7 +312,7 @@
 > - **Comments**: Exceptional marine Konservat-Lagerstätte (obrution deposit) formed by distal calcareous turbidites in an anoxic to dysoxic intra-platform basin; fossils are frequently articulated and occur primarily at the base of thin-bedded, laminated black limestone layers. (Mottequin, 2008; Mottequin et al., 2015)
 
 #### Anhée Formation, Royseux, Dinant Synclinorium, Belgium
-> - **Age**: Late Viséan (*Gnathodus bilineatus* Zone). (Ivanov & Derycke, 2005; Poty et al., 2006)
+> - **Age**: Late Visean (*Gnathodus bilineatus* Zone). (Ivanov & Derycke, 2005; Poty et al., 2006)
 > - **Taxa**:
 >> - Chondrichthyes: *Thrinacodus ferox*, *Bransonella nebraskensis*, *Denaea* cf. *fournieri*, *Denaea wangi*, *Glikmanius* sp., *Heslerodoides* sp., *Protacrodus aequalis*, *Sphenacanthus* sp., *Cooleyella fordi*, *Ginteria fungiforma*, Helodontiformes indet., Iniopterygia indet., Petalodontiformes indet. (Duffin & Ivanov, 2008; Ivanov & Derycke, 2005)  
 >> - Actinopterygii: Indeterminate teeth and scales. (Ivanov & Derycke, 2005)  
@@ -321,7 +321,7 @@
 > - **Comments**: The site is a recognised palaeobiodiversity hotspot for rugose corals; vertebrate microremains are concentrated in high-energy bioclastic grainstones and rudstones deposited in a shallow carbonate platform setting (Condroz Sedimentation Area). (Denayer et al., 2016; Ivanov & Derycke, 2005)
 
 #### Tyne Limestone Formation, Spittal to Redshin Cove, Northumberland, UK
-> - **Age**: Viséan (Craig et al., 2025; Dean et al., 2011)  
+> - **Age**: Visean (Craig et al., 2025; Dean et al., 2011)  
 > - **Taxa**:
 >> - Sarcopterygii: *Megalichthys* sp., *Rhizodopsis* sp. (Berwickshire Naturalists' Club, 1938)  
 >> - Chondrichthyes: Bradyodonts (indeterminate). (Scottish Geology Trust, n.d.)  
@@ -331,7 +331,7 @@
 > - **Comments**: he Doupster Oil Shale (approx. 4.5 m thick) represents a lacustrine or restricted lagoonal phase within the Yoredale cyclothems, preserving disarticulated fish debris including scales and teeth of predatory sarcopterygians; the formation is also noted for tetrapod trackways (excluded here) preserved on deltaic sandstone surfaces. (British Geological Survey, n.d.; Craig et al., 2025)
 
 #### St. Louis Formation (fissure fills), Delta, Keokuk County, Iowa, USA
-> - **Age**: Late Viséan (Bolt et al., 1988; Witzke et al., 1990; Snyder et al., 2024)  
+> - **Age**: Late Visean (Bolt et al., 1988; Witzke et al., 1990; Snyder et al., 2024)  
 > - **Taxa**:
 >> - Tetrapoda: *Whatcheeria deltae*, *Sigournea multidentata*, *Deltaherpeton hiemstrae*, Embolomeri indet., cf. Microsauria. (Bolt et al., 1988; Lombard & Bolt, 1995; Bolt & Lombard, 2006; Bolt & Lombard, 2010; Otoo et al., 2019)  
 >> - Sarcopterygii: *Tranodis* sp. (cf. *T. castrensis*), *Rhizodus* sp., Rhizodontidae indet., "Osteolepiforms" indet. (Bolt et al., 1988; Schultze & Bolt, 1996; Bennett et al., 2016)  
@@ -343,7 +343,7 @@
 > - **Comments**: The Delta locality is a crucial "Romer's Gap" site, preserving one of the oldest and most diverse tetrapod assemblages in North America. The taphonomic setting is interpreted as a sinkhole lake or depression on an exposed karst surface, likely with brackish to freshwater conditions, which trapped a mix of aquatic (sharks, rhizodonts, lungfish) and semi-aquatic (tetrapods) fauna. *Whatcheeria deltae* is the most abundant tetrapod, represented by hundreds of elements indicating a largely aquatic lifestyle. The fauna demonstrates the early diversification of tetrapods and the persistence of archaic fish groups like gyracanthids and rhizodonts into the Carboniferous. The presence of *Dicentrodus* represents the earliest occurrence of xenacanth sharks in North America. (Bolt et al., 1988; Hampe et al., 2006; Otoo et al., 2019; Snyder et al., 2024)
 
 #### St. Louis Formation (Horse Cave Member), Mammoth Cave National Park, Kentucky, USA
-> - **Age**: Viséan (Hodnett et al., 2024)  
+> - **Age**: Visean (Hodnett et al., 2024)  
 > - **Taxa**:
 >> - Chondrichthyes: *Saivodus striatus*, *Cladodus mirabilis*, *Cladodus elegans*, *Glencartius costellatus*, *Troglocladodus trimblei*, *Glikmanius careforum*, *Leiodus calcaratus*, *Chomatodus* sp., *Tanodus pumilis*, *Polyrhizodus concavus*, *Petalorhynchus pseudosagitatus*, *Helodus* sp., *Psephodus* sp., *Cochliodus* sp., *Deltodus* sp., *Sandalodus* sp., *Poecilodus* sp., *Psammodus* sp., *Copodus cornutus*, *Deltoptychius* sp., *Traquairius* sp. (Hodnett et al., 2021; Hodnett et al., 2024a; Hodnett et al., 2024b)  
 > - **Locality and horizon**: Horse Cave Member, exposed in underground river passages; fossils found in cave walls, ceilings, and floor sediments. (Hodnett et al., 2021; Hodnett et al., 2024b)  
@@ -351,18 +351,18 @@
 > - **Comments**: The assemblage represents a diverse marine "recovery fauna" post-dating the Late Devonian extinction. It is dominated by ctenacanthiform sharks and durophagous holocephalians/petalodonts. Notable for the preservation of associated skeletal cartilage (e.g., "Boldon's Shark") and distinct faunal turnover compared to the overlying Ste. Genevieve Formation. (Hodnett et al., 2021; Hodnett et al., 2024b)
 
 #### Ste. Genevieve Formation (Joppa Member), Mammoth Cave National Park, Kentucky, USA
-> - **Age**: Viséan
+> - **Age**: Visean
 > - **Taxa**: Chondrichthyes: *Saivodus striatus*, *Troglocladodus trimblei*, *Glikmanius careforum*, *Strigilodus tollesonae*, *Clavusodens mcginnisi*, *Macadens olsoni*, *Janassa* sp., *?Netsepoye* sp., *Cladodus* sp., *Denea* sp., *?Stethacanthus* sp., *Thrinacodus* cf. *T. incurvus*, *Bransonella* sp., *Helodus* sp., *Psephodus* sp., *Deltodus* sp., *Sandalodus* sp., *Psammodus* sp., *Deltoptychius* sp. (Hodnett et al., 2021; Hodnett et al., 2023; Hodnett et al., 2024; Hodnett et al., 2025a; Hodnett et al., 2025b)  
 > - **Locality and horizon**: Mammoth Cave National Park, cave passages cutting through the Joppa Member; fossils primarily associated with invertebrate hash beds and biostromal deposits. (Hodnett et al., 2022; Hodnett et al., 2025a)  
 > - **References**: Hodnett et al., 2021; Hodnett et al., 2022; Hodnett et al., 2023; Hodnett et al., 2024; Hodnett et al., 2025a; Hodnett et al., 2025b. 
 > - **Comments**: The assemblage was documented during the "Sharks in the Dark" Paleontological Resource Inventory. It represents a diverse shallow marine ecosystem (>70 taxa identified park-wide) preserved within the cave walls and ceilings, including rare preservation of three-dimensional cranial cartilages. (Hodnett et al., 2022; Hodnett et al., 2024)
 
 #### Salem Limestone, Bloomington area, Indiana, USA
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Visean
+> - **Taxa**: Chondrichthyes: *Saivodus striatus* (syn. *Cladodus spinosus*), *Cladodus indianensis*, *Ctenacanthus pellensis*, *Asteroptychius bellus* (syn. *Ctenacanthus bellus*), *Deltodus trilobus*, *Arcuodus bialveatus* (syn. *Deltodopsis bialveatus*), *Desmiodus salemensis*, *Helodus elegantulus*, *Helodus minutus*, *Helodus ornatus*, *Helodus robustus*, *Helodus incisus*, *Orodus simplex*, *Sandalodus convolutus*, *Petalodus* sp. (Branson, 1906; Duffin & Ginter, 2006; Itano & Lambert, 2018; Maisey, 1981)  
+> - **Locality and horizon**: Hunter Valley quarries (approx. N 39°12', W 86°33'), 3 miles NW of Bloomington; Old Cleveland Quarry (N 39°02', W 86°32'), 1 mile N of Harrodsburg, Monroe County. (Branson, 1906; Cumings et al., 1906)  
+> - **References**: Branson, 1906; Cumings et al., 1906; Duffin & Ginter, 2006; Itano & Lambert, 2018; Maisey, 1981; Rexroad, 1986; Shaver et al., 1986. 
+> - **Comments**: Deposited in a high-energy, shallow marine carbonate shoal environment (spergenite facies); vertebrate fauna is dominated by isolated durophagous tooth plates and defensive fin spines, often exhibiting abrasion consistent with wave agitation; *Saivodus* remains represent apex macropredators. (Branson, 1906; Shaver et al., 1986)
 
 #### Mauch Chunk Formation, Mount Carbon, Pennsylvania, USA
 > - **Age**:
@@ -1363,7 +1363,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 
 248. Gardiner BJ (1985) Actinopterygian fish from the Dinantian of Foulden, Berwickshire, Scotland. Trans R Soc Edinburgh Earth Sci 76:61-66.
 
-249. Lebedev O (1996) Fish assemblages in the Tournaisian-Viséan environments of the East European Platform. Geol Soc Spec Publ 107:387-415.
+249. Lebedev O (1996) Fish assemblages in the Tournaisian-Visean environments of the East European Platform. Geol Soc Spec Publ 107:387-415.
 
 250. Gardiner BG (1969) New palaeoniscoid fish from the Witteberg series of South Africa. Zool J Linn Soc 48:423-452.
 
@@ -1397,11 +1397,11 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 
 265. Warren A, Turner S (2004) First stem tetrapod from the Lower Carboniferous of Gondwana. Palaeontology 47: 151-184.
 
-266. Parker KE, Webb JA (2008) Estaurine deposition of a mid-Viséan tetrapod unit, Ducabrook Formation, central Queensland: implication for tetrapod dispersal. Austral J Earth Sci 55:509-530.
+266. Parker KE, Webb JA (2008) Estaurine deposition of a mid-Visean tetrapod unit, Ducabrook Formation, central Queensland: implication for tetrapod dispersal. Austral J Earth Sci 55:509-530.
 
 267. Paton RL, Smithson TR, Clack JA (1999) An amniote-like skeleton from the Early Carboniferous of Scotland. Nature 398:508-513.
 
-268. Coates MI (1994) Actinopterygian and acanthodian fishes from the Viséan of East Kirkton, West Lothian, Scotland. Trans R Soc Edinburgh Earth Sci 84:317-327.
+268. Coates MI (1994) Actinopterygian and acanthodian fishes from the Visean of East Kirkton, West Lothian, Scotland. Trans R Soc Edinburgh Earth Sci 84:317-327.
 
 269. Clack JA (2001) Eucritta melanolimnetes from the Early Carboniferous of Scotland, a stem tetrapod showing a mosaic of characters. Trans R Soc Edinburgh Earth Sci 92:75-95.
 
@@ -1441,7 +1441,7 @@ Trans R Soc Edinburgh Earth Sci 55:255-287.
 
 287. Clack JA (2002) Gaining Ground: The Origin and Evolution of Tetrapods (Indiana Univ, Bloomington).
 
-288. Hampe O, Johnson GD, Turner S (2006) Dicentrodus (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Viséan: upper St Louis Formation) of Iowa, USA. Geol Mag 143:545-549.
+288. Hampe O, Johnson GD, Turner S (2006) Dicentrodus (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Visean: upper St Louis Formation) of Iowa, USA. Geol Mag 143:545-549.
 
 289. Lowney KA (1980) Certain Bear Gulch (Namurian A, Montana) Actinopterygii (Osteichthyes) and a reevaluation of the evolution of the Paleozoic actinopterygians. PhD thesis (New York Univ).
 
@@ -1491,7 +1491,7 @@ Szmuc, E. J. (1970). The Mississippian System. In Banks, P. O., & Feldmann, R. M
 
 Afanasieva, M. S., & Kononova, L. I. (2009). Late Tournaisian radiolarians and conodonts from the Orenburg Region, Russia. Carboniferous Type Sections in Russia and Potential Global Stratotypes, 18-47.
 
-Lebedev, O. A. (1996). Fish assemblages in the Tournaisian-Viséan environments of the East European Platform. Geological Society, London, Special Publications, 107(1), 387-415.
+Lebedev, O. A. (1996). Fish assemblages in the Tournaisian-Visean environments of the East European Platform. Geological Society, London, Special Publications, 107(1), 387-415.
 
 Makhlina, M. H., et al. (1975). Field excursion guidebook for the Carboniferous sections of the Moscow Basin. Nauka.
 
@@ -1543,7 +1543,7 @@ Higgins, A. C. (1971). Conodont biostratigraphy of the Late Devonian-Early Carbo
 
 Higgins, A. C., Wagner-Gentis, C. H. T., & Wagner, R. H. (1964). Basal Carboniferous strata in part of northern León, NW Spain: Stratigraphy, conodont and goniatite faunas. *Bulletin de la Société belge de Géologie, de Paléontologie et d'Hydrologie*, *72*(2), 205–248.
 
-Nemyrovska, T. I. (2005). Late Viséan/early Serpukhovian conodont succession from the Triollo section, Palencia (Cantabrian Mountains, Spain). *Scripta Geologica*, *129*, 13–89.
+Nemyrovska, T. I. (2005). Late Visean/early Serpukhovian conodont succession from the Triollo section, Palencia (Cantabrian Mountains, Spain). *Scripta Geologica*, *129*, 13–89.
 
 Raven, J. G. M. (1983). Conodont biostratigraphy and depositional history of the Middle Devonian to Lower Carboniferous in the Cantabrian Zone (Cantabrian Mountains, Spain). *Leidse Geologische Mededelingen*, *52*(2), 265–339.
 
@@ -1711,7 +1711,7 @@ Davis, J. W. (1883). On the fossil fishes of the Carboniferous Limestone Series 
 
 Fournier, G., & Pruvost, P. (1928). Description des poissons élasmobranches du marbre noir de Denée. *Mémoires de la Société Géologique de Belgique*, *5*, 1–23.
 
-Mottequin, B. (2008). The ‘black marble’ of Denée, a fossil conservation deposit from the Lower Carboniferous (Viséan) of southern Belgium. *Geological Journal*, *43*(2–3), 197–208.
+Mottequin, B. (2008). The ‘black marble’ of Denée, a fossil conservation deposit from the Lower Carboniferous (Visean) of southern Belgium. *Geological Journal*, *43*(2–3), 197–208.
 
 Mottequin, B., Poty, E., & Prestianni, C. (2015). Catalogue of the types and illustrated specimens recovered from the ‘black marble’ of Denée, a marine conservation-Lagerstätte from the Mississippian of southern Belgium. *Geologica Belgica*, *18*(1), 1–14.
 
@@ -1723,21 +1723,21 @@ van Beneden, P.-J. (1871). [Original publication details to be completed].
 
 Woodward, A. S. (1924). Un nouvel Elasmobranche (*Cratoselache pruvosti*, gen. et sp. nov.) du calcaire carbonifère inférieur de Denée. *Société Géologique de Belgique, Livre Jubilaire*, *1*, 57–62.
 
-Denayer, J., Mottequin, B., & Poty, E. (2016). Royseux: a palaeobiodiversity hotspot in the Late Viséan (Carboniferous) of Belgium. *Geologica Belgica*, *19*(1-2), 7–20.
+Denayer, J., Mottequin, B., & Poty, E. (2016). Royseux: a palaeobiodiversity hotspot in the Late Visean (Carboniferous) of Belgium. *Geologica Belgica*, *19*(1-2), 7–20.
 
 Duffin, C. J., & Ivanov, A. O. (2008). New chondrichthyan teeth from the Early Carboniferous of Britain and Russia. *Acta Geologica Polonica*, *58*(2), 191–197.
 
-Ivanov, A. O., & Derycke, C. (2005). Viséan elasmobranchs of Belgium. *Ichthyolith Issues Special Publication*, *9*, 13–17.
+Ivanov, A. O., & Derycke, C. (2005). Visean elasmobranchs of Belgium. *Ichthyolith Issues Special Publication*, *9*, 13–17.
 
 Poty, E., Devuyst, F. X., & Hance, L. (2006). Upper Devonian and Mississippian foraminiferal and coral zonations of Belgium: a review. *Geological Society, London, Special Publications*, *263*(1), 53–68.
 
-Poty, E., Aretz, M., & Denayer, J. (2011). Field trip 3: The upper Viséan of the Royseux area (Dinant Synclinorium). In *Kölner Forum für Geologie und Paläontologie* (Vol. 20, pp. 99–112).
+Poty, E., Aretz, M., & Denayer, J. (2011). Field trip 3: The upper Visean of the Royseux area (Dinant Synclinorium). In *Kölner Forum für Geologie und Paläontologie* (Vol. 20, pp. 99–112).
 
 Berwickshire Naturalists' Club. (1938). Reports of Meetings for 1938. *History of the Berwickshire Naturalists' Club*, *30*, 21.
 
 British Geological Survey. (n.d.). *Berwick-upon-Tweed - an excursion*. Earthwise. Retrieved from http://earthwise.bgs.ac.uk
 
-Craig, J. A., Davies, N. S., & McMahon, W. J. (2025). True substrates from a Mississippian wetland: windows into the biogeomorphology of Viséan tetrapod habitats (Tyne Limestone Formation, UK). *Geological Society, London, Special Publications*, *556*(1). https://doi.org/10.1144/SP556-2024-109
+Craig, J. A., Davies, N. S., & McMahon, W. J. (2025). True substrates from a Mississippian wetland: windows into the biogeomorphology of Visean tetrapod habitats (Tyne Limestone Formation, UK). *Geological Society, London, Special Publications*, *556*(1). https://doi.org/10.1144/SP556-2024-109
 
 Dean, M. T., Browne, M. A. E., Waters, C. N., & Powell, J. H. (2011). A lithostratigraphical framework for the Carboniferous successions of northern Great Britain (Onshore). *British Geological Survey Research Report*, RR/10/07.
 
@@ -1755,7 +1755,7 @@ Bolt, J. R., McKay, R. M., Witzke, B. J., & McAdams, M. P. (1988). A new Lower C
 
 Burrow, C. J., Turner, S., Itano, W. M., den Blaauwen, J. L., & Stewart, S. (2025). *Cynopodius*, a long-toothed chondrichthyan from the Carboniferous of Scotland and the USA. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*. Advance online publication.
 
-Hampe, O., Johnson, G. D., & Turner, S. (2006). *Dicentrodus* (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Viséan: upper St Louis Formation) of Iowa, USA. *Geological Magazine*, *143*(4), 545–549. https://doi.org/10.1017/S0016756806002093
+Hampe, O., Johnson, G. D., & Turner, S. (2006). *Dicentrodus* (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Visean: upper St Louis Formation) of Iowa, USA. *Geological Magazine*, *143*(4), 545–549. https://doi.org/10.1017/S0016756806002093
 
 Lombard, R. E., & Bolt, J. R. (1995). A new primitive tetrapod, *Whatcheeria deltae*, from the Lower Carboniferous of Iowa. *Palaeontology*, *38*(3), 471–494.
 
@@ -1769,23 +1769,24 @@ Snyder, D., Burrow, C. J., & Turner, S. (2024). A new gyracanthid from the Missi
 
 Witzke, B. J., McKay, R. M., & Anderson, R. R. (1990). Stratigraphy and paleoenvironments of the Mississippian St. Louis Formation in Iowa. In B. J. Bunker & B. J. Witzke (Eds.), *Geology of the Mississippian System in Iowa* (Geological Survey Bureau Guidebook Series No. 11, pp. 85–109). Iowa Department of Natural Resources.
 
-Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olsen, R. (2021). The Late Mississippian (Viséan) chondrichthyan assemblage of the St. Louis Formation at Mammoth Cave National Park, Kentucky. *Society of Vertebrate Paleontology Annual Meeting Program*.
+Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olsen, R. (2021). The Late Mississippian (Visean) chondrichthyan assemblage of the St. Louis Formation at Mammoth Cave National Park, Kentucky. *Society of Vertebrate Paleontology Annual Meeting Program*.
 
 Hodnett, J.-P. M., Toomey, R., Egli, H. C., Ward, G., Wood, J. R., Olson, R., Tolleson, K., Tweet, J. S., & Santucci, V. L. (2024a). New ctenacanth sharks (Chondrichthyes; Elasmobranchii; Ctenacanthiformes) from the Middle to Late Mississippian of Kentucky and Alabama. *Journal of Vertebrate Paleontology*, *43*(3), e2292599. https://doi.org/10.1080/02724634.2023.2292599
 
 Hodnett, J.-P. M., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Wood, J., Tweet, J. S., & Santucci, V. L. (2024b). Sharks in the dark: Paleontological resource inventory reveals multiple successive Mississippian Subperiod cartilaginous fish (Chondrichthyes) assemblages within Mammoth Cave National Park, Kentucky. *Parks Stewardship Forum*, *40*(1), 53–67. https://doi.org/10.5070/P540162921
 
-Hodnett, J.-P. M., Egli, H. C., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Tweet, J. S., & Santucci, V. L. (2025a). Obruchevodid petalodonts (Chondrichthyes, Petalodontiformes, Obruchevodidae) from the Middle Mississippian (Viséan) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky U.S.A. *Journal of Paleontology*, *98*(6), 1087–1097. https://doi.org/10.1017/jpa.2024.40
+Hodnett, J.-P. M., Egli, H. C., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Tweet, J. S., & Santucci, V. L. (2025a). Obruchevodid petalodonts (Chondrichthyes, Petalodontiformes, Obruchevodidae) from the Middle Mississippian (Visean) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky U.S.A. *Journal of Paleontology*, *98*(6), 1087–1097. https://doi.org/10.1017/jpa.2024.40
 
 Hodnett, J.-P. M., Toomey, R., Egli, H. C., Ward, G., Wood, J. R., Olson, R., Tolleson, K., Tweet, J. S., & Santucci, V. L. (2024). New ctenacanth sharks (Chondrichthyes; Elasmobranchii; Ctenacanthiformes) from the Middle to Late Mississippian of Kentucky and Alabama. *Journal of Vertebrate Paleontology*, *43*(3), e2292599. https://doi.org/10.1080/02724634.2023.2292599
 
-Hodnett, J.-P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2021). The Late Mississippian (Viséan) chondrichthyan assemblage from the Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky. *Journal of Vertebrate Paleontology*, *40*(Supplement 1), 168.
+Hodnett, J.-P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2021). The Late Mississippian (Visean) chondrichthyan assemblage from the Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky. *Journal of Vertebrate Paleontology*, *40*(Supplement 1), 168.
 
-Hodnett, J.-P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2023). Janassid petalodonts (Chondrichthyes, Petalodontiformes, Janassidae) from the Middle Mississippian (Viséan) Ste. Genevieve Formation, Mammoth Cave National Park, Kentucky, USA. *Historical Biology*, *35*(12), 2371–2384. https://doi.org/10.1080/08912963.2023.2231955
+Hodnett, J.-P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2023). Janassid petalodonts (Chondrichthyes, Petalodontiformes, Janassidae) from the Middle Mississippian (Visean) Ste. Genevieve Formation, Mammoth Cave National Park, Kentucky, USA. *Historical Biology*, *35*(12), 2371–2384. https://doi.org/10.1080/08912963.2023.2231955
 
 Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olson, R. (2022). Sharks in the dark: Paleontological resource inventory reveals multiple successive Mississippian Subperiod cartilaginous fish (Chondrichthyes) assemblages within Mammoth Cave National Park, Kentucky. *Parks Stewardship Forum*, *40*(1), 53–67. https://doi.org/10.5070/P540162921
 
-Hodnett, J.-P. M., Toomey, R., Sues, H.-D., Santucci, V. L., Tolleson, K., & Tweet, J. S. (2025b). A new euchondrocephalan chondrichthyan (Chondrichthyes, Euchondrocephali) from the Middle Mississippian (Viséan) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky, USA. *New Mexico Museum of Natural History and Science Bulletin*, *100*, 87–98.
+Hodnett, J.-P. M., Toomey, R., Sues, H.-D., Santucci, V. L., Tolleson, K., & Tweet, J. S. (2025b). A new euchondrocephalan chondrichthyan (Chondrichthyes, Euchondrocephali) from the Middle Mississippian (Visean) Joppa Member of the Ste. Genevieve Formation at Mammoth Cave National Park, Kentucky, USA. *New Mexico Museum of Natural History and Science Bulletin*, *100*, 87–98.
+
 
 
 
