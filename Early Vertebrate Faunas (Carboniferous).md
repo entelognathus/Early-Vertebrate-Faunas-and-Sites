@@ -351,11 +351,11 @@
 > - **Comments**: The assemblage represents a diverse marine "recovery fauna" post-dating the Late Devonian extinction. It is dominated by ctenacanthiform sharks and durophagous holocephalians/petalodonts. Notable for the preservation of associated skeletal cartilage (e.g., "Boldon's Shark") and distinct faunal turnover compared to the overlying Ste. Genevieve Formation. (Hodnett et al., 2021; Hodnett et al., 2024b)
 
 #### Ste. Genevieve Formation (Joppa Member), Mammoth Cave National Park, Kentucky, USA
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+> - **Age**: Viséan
+> - **Taxa**: Chondrichthyes: *Saivodus striatus*, *Troglocladodus trimblei*, *Glikmanius careforum*, *Strigilodus tollesonae*, *Clavusodens mcginnisi*, *Macadens olsoni*, *Janassa* sp., *?Netsepoye* sp., *Cladodus* sp., *Denea* sp., *?Stethacanthus* sp., *Thrinacodus* cf. *T. incurvus*, *Bransonella* sp., *Helodus* sp., *Psephodus* sp., *Deltodus* sp., *Sandalodus* sp., *Psammodus* sp., *Deltoptychius* sp. (Hodnett et al., 2021; Hodnett et al., 2023; Hodnett et al., 2024; Hodnett et al., 2025a; Hodnett et al., 2025b)  
+> - **Locality and horizon**: Mammoth Cave National Park, cave passages cutting through the Joppa Member; fossils primarily associated with invertebrate hash beds and biostromal deposits. (Hodnett et al., 2022; Hodnett et al., 2025a)  
+> - **References**: Hodnett et al., 2021; Hodnett et al., 2022; Hodnett et al., 2023; Hodnett et al., 2024; Hodnett et al., 2025a; Hodnett et al., 2025b. 
+> - **Comments**: The assemblage was documented during the "Sharks in the Dark" Paleontological Resource Inventory. It represents a diverse shallow marine ecosystem (>70 taxa identified park-wide) preserved within the cave walls and ceilings, including rare preservation of three-dimensional cranial cartilages. (Hodnett et al., 2022; Hodnett et al., 2024)
 
 #### Salem Limestone, Bloomington area, Indiana, USA
 > - **Age**:
@@ -1774,6 +1774,7 @@ Hodnett, J.-P. M., Toomey, R., Santucci, V. L., & Olsen, R. (2021). The Late Mis
 Hodnett, J.-P. M., Toomey, R., Egli, H. C., Ward, G., Wood, J. R., Olson, R., Tolleson, K., Tweet, J. S., & Santucci, V. L. (2024a). New ctenacanth sharks (Chondrichthyes; Elasmobranchii; Ctenacanthiformes) from the Middle to Late Mississippian of Kentucky and Alabama. *Journal of Vertebrate Paleontology*, *43*(3), e2292599. https://doi.org/10.1080/02724634.2023.2292599
 
 Hodnett, J.-P. M., Toomey, R., Olson, R., Tolleson, K., Boldon, R., Wood, J., Tweet, J. S., & Santucci, V. L. (2024b). Sharks in the dark: Paleontological resource inventory reveals multiple successive Mississippian Subperiod cartilaginous fish (Chondrichthyes) assemblages within Mammoth Cave National Park, Kentucky. *Parks Stewardship Forum*, *40*(1), 53–67. https://doi.org/10.5070/P540162921
+
 
 
 
