@@ -1815,6 +1815,27 @@ Lucas, S. G., Fillmore, D. L., & Simpson, E. L. (2010). Amphibian body impressio
 
 Vrazo, M. B., Benton, M. J., & Daeschler, E. B. (2007). Tetrapod tracks from the Mauch Chunk Formation (middle to upper Mississippippian) of Pennsylvania, USA. *Proceedings of the Academy of Natural Sciences of Philadelphia*, *156*(1), 199–209. https://doi.org/10.1635/0097-3157(2007)1562.0.CO;2
 
+Adams, G. R., Mann, A., & Maddin, H. C. (2019). New embolomerous tetrapod material and a faunal overview of the Mississippian-aged Point Edward locality, Nova Scotia, Canada. *Canadian Journal of Earth Sciences*, *57*(3), 407–417. https://doi.org/10.1139/cjes-2018-0326
+
+Allen, J. P., Fielding, C. R., Gibling, M. R., & Rygel, M. C. (2014). Recognizing products of palaeoclimate fluctuation in the fluvial stratigraphic record: an example from the Pennsylvanian to Lower Permian of Cape Breton Island, Nova Scotia. *Sedimentology*, *61*(5), 1332–1381.
+
+Baird, D. (1962). A rhachitomous amphibian, *Spathicephalus*, from the Mississippian of Nova Scotia. *Breviora*, *157*, 1–9.
+
+Baird, D. (1978). Studies on Carboniferous freshwater fishes. *American Museum Novitates*, *2641*, 1–22.
+
+Beaumont, E. H., & Smithson, T. R. (1998). The cranial morphology and relationships of the aberrant Carboniferous amphibian *Spathicephalus mirus* Watson. *Zoological Journal of the Linnean Society*, *122*(1–2), 187–209.
+
+Carroll, R. L., Belt, E. S., Dineley, D. L., Baird, D., & McGregor, D. C. (1972). Vertebrate paleontology of eastern Canada. *24th International Geological Congress, Field Excursion A59 Guidebook*, 1–113.
+
+Holmes, R. B., Carroll, R. L., & Reisz, R. R. (1995). The first articulated skeleton of a dendrerpetontid temnospondyl from the Lower Pennsylvanian of Nova Scotia. *Journal of Vertebrate Paleontology*, *15*(2), 42A.
+
+Maddin Lab. (n.d.). Fieldwork: Point Edward. Carleton University. https://maddinlab.com/fieldwork/
+
+Müller, J. (2019). 2019 in amphibian paleontology. *WikiJournal of Science*. https://doi.org/10.15347/wjs/2019.006
+
+Romer, A. S. (1958). The Texas Permian redbeds and their vertebrate fauna. In *Studies on Fossil Vertebrates* (pp. 157–179).
+
+Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Romer (Amphibia: Temnospondyli). *Zoological Journal of the Linnean Society*, *76*(1), 29–90.
 
 
 
