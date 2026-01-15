@@ -379,7 +379,7 @@
 
 
 #### Hellefeld Formation, Westenfeld Quarry, Rhenish Mountains, Germany
-> - **Age**: Late Viséan (Late Asbian, *Goniatites crenistria* Zone). (Ginter et al., 2015; Korn, 1996)
+> - **Age**: Late Visean (Late Asbian, *Goniatites crenistria* Zone). (Ginter et al., 2015; Korn, 1996)
 > - **Taxa**:
 >> - Chondrichthyes: *Denaea* cf. *fournieri*, *Thrinacodus* cf. *gracia*, Falcatidae indet., Euselachii indet. (Ginter et al., 2015)  
 >> - Acanthodii: *Acanthodes* sp. (scales). (Ginter et al., 2015)  
@@ -389,11 +389,15 @@
 > - **Comments**: Pelagic deep-water environment (Kulm Basin) characterized by biomicritic limestones; the vertebrate assemblage is low-diversity and dominated by small falcatid sharks, lacking *Bransonella* and anachronistids typical of coeval shallow-water platforms. (Ginter et al., 2015)
 
 #### Pelagic Limestones, Ostrówka Quarry, Holy Cross Mountains, Poland
-> - **Age**:
+> - **Age**: Famennian（*Palmatolepis trachytera* to *P. praesulcata* Zones）to (Visean, *Gnathodus bilineatus* Zone). (Ginter, 1990; Szrek, 2020; Jobbins et al., 2024)  
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Placodermi: *Alienacanthus malkowskii* (syn. *Alienacanthus* sp.), *Eastmanosteus* sp., *Ptyctodus kielcensis*, *Rhynchodus* sp., *Holonema* sp. (Ivanov & Ginter, 1997; Szrek, 2020; Jobbins et al., 2024)  
+>> - Chondrichthyes: *Phoebodus gothicus*, *Phoebodus limpidus*, *Phoebodus turnerae*, *Thrinacodus tranquillus*, *Thrinacodus ferox*, *Stethacanthus resistens*, *Protacrodus vetustus*, *Jalodus australiensis*, *Denaea* sp. (cf. *fournieri*), *Bransonella nebraskensis*, *Squatinactis* sp., *Ctenacanthus* aff. *costellatus*. (Ginter, 1990; Ginter et al., 2015)  
+>> - Sarcopterygii: *Onychodus* sp., Dipnoi indet. (Liszkowski & Racki, 1993; Ivanov & Ginter, 1997)  
+>> - Actinopterygii: *Moythomasia* sp. (Liszkowski & Racki, 1993) 
+> - **Locality and horizon**: Active quarry at Ostrówka Hill near Gałęzice (N 50°50′26″, E 20°24′03″); vertebrate material primarily from condensed Famennian cephalopod limestones (Clymenia beds) and the Viséan “bone bed” layers at the Todowa Grząba section. (Ginter, 1990; Ginter et al., 2015)  
+> - **References**: Ginter, 1990; Ginter et al., 2015; Ivanov & Ginter, 1997; Jobbins et al., 2024; Liszkowski & Racki, 1993; Szrek, 2020.  
+> - **Comments**: The site records drowning of a carbonate platform. *Phoebodus gothicus* and *P. limpidus* have their type localities here. Recent work confirmed *Alienacanthus* as an arthrodire with extreme lower jaw elongation rather than an acanthodian. (Ginter, 1990; Jobbins et al., 2024)
 
 #### Unnamed Formation C (deep-water carbonates), Verkhnyaya Kardailovka, South Urals, Russia
 > - **Age**:
@@ -1862,6 +1866,7 @@ Vinn, O., & Mironenko, A. A. (2021). Discovery of *Sphenothallus* in the Upper M
 Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
 
 Korn, D. (1996). Revision of the Rhenish Late Visean goniatite stratigraphy. *Annales de la Société géologique de Belgique*, *117*(1), 215–224.
+
 
 
 
