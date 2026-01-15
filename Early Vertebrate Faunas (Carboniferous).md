@@ -1867,6 +1867,17 @@ Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic 
 
 Korn, D. (1996). Revision of the Rhenish Late Visean goniatite stratigraphy. *Annales de la Société géologique de Belgique*, *117*(1), 215–224.
 
+Ginter, M. (1990). Late Famennian shark teeth from the Holy Cross Mts, Central Poland. *Acta Geologica Polonica*, *40*(1–2), 69–81.
+
+Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
+
+Ivanov, A., & Ginter, M. (1997). Comments on the Late Devonian placoderms from the Holy Cross Mountains (Poland). *Acta Palaeontologica Polonica*, *42*(3), 413–426.
+
+Jobbins, M., Rücklin, M., Ferrón, H. G., & Klug, C. (2024). Extreme lower jaw elongation in a placoderm reflects high disparity and modularity in early vertebrate evolution. *Royal Society Open Science*, *11*(1), 231747. https://doi.org/10.1098/rsos.231747
+
+Liszkowski, J., & Racki, G. (1993). Ichthyoliths and deepening events in the Devonian carbonate platform of the Holy Cross Mountains. *Acta Palaeontologica Polonica*, *37*(2–4), 407–426.
+
+Szrek, P. (2020). Comments on distribution and taphonomy of Devonian placoderms in the Holy Cross Mountains, Poland. *Bulletin of Geosciences*, *95*(1), 1–18. https://doi.org/10.3140/bull.geosci.1761
 
 
 
