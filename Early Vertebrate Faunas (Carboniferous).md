@@ -378,12 +378,15 @@
 > - **Comments**: Diagnostic tetrapod skeletal remains are absent at this locality due to oxidizing paleoenvironmental conditions (red beds); the vertebrate fauna is primarily known from an extensive ichnofossil record (footprints *Palaeosauropus*, body impressions *Temnocorpichnus*). Skeletal taxa often attributed to the "Mauch Chunk" (e.g., *Mauchchunkia*, *Proterogyrinus*, *Greererpeton*) are restricted to the lithostratigraphically equivalent Mauch Chunk Group of West Virginia. (Fillmore et al., 2012; Lucas et al., 2010)
 
 
-#### Pelagic Limestones (Crenistria Horizon), Westenfeld Quarry, Rhenish Mountains, Germany
-> - **Age**:
+#### Hellefeld Formation, Westenfeld Quarry, Rhenish Mountains, Germany
+> - **Age**: Late Viséan (Late Asbian, *Goniatites crenistria* Zone). (Ginter et al., 2015; Korn, 1996)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Denaea* cf. *fournieri*, *Thrinacodus* cf. *gracia*, Falcatidae indet., Euselachii indet. (Ginter et al., 2015)  
+>> - Acanthodii: *Acanthodes* sp. (scales). (Ginter et al., 2015)  
+>> - Actinopterygii: Indeterminate teeth and scales. (Ginter et al., 2015) 
+> - **Locality and horizon**: 800 m south-west of Westenfeld (N 51°19′12.9′′, E 8°2′26.96′′), northern Rhenish Mountains; sample C12, Hellefeld Sequence (Kulm Facies). (Ginter et al., 2015)  
+> - **References**: Ginter et al., 2015; Korn, 1996.
+> - **Comments**: Pelagic deep-water environment (Kulm Basin) characterized by biomicritic limestones; the vertebrate assemblage is low-diversity and dominated by small falcatid sharks, lacking *Bransonella* and anachronistids typical of coeval shallow-water platforms. (Ginter et al., 2015)
 
 #### Pelagic Limestones, Ostrówka Quarry, Holy Cross Mountains, Poland
 > - **Age**:
@@ -1855,6 +1858,7 @@ Lyapin, V. R., & Bagirov, S. V. (2014). The first record of *Copodus* Davis, 188
 Skompski, S., Paszkowski, M., Kabanov, P. B., Krasnozhina, Z. V., & Perret, M. F. (2001). The depositional setting of the Lower Carboniferous (Viséan–Serpukhovian) of the Moscow Syneclise (Russia). *Geological Quarterly*, *45*(1), 21–38.
 
 Vinn, O., & Mironenko, A. A. (2021). Discovery of *Sphenothallus* in the Upper Mississippian of Central Russia. *Journal of Paleontology*, *95*(2), 1–7.
+
 
 
 
