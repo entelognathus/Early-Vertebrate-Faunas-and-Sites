@@ -737,10 +737,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 #### Dashkovo Formation, Moscow and Kaluga Regions, Russia
 > - **Age**: Middle Serpukhovian. 
-> - **Taxa**: *Protochimaera mirabilis*
-> - **Locality and horizon**: Dashkovo Formation, Kalinovskie Vyselki (Moscow Region); Zaborye (Moscow Region); Zudna (Kaluga Region); Russia.
-> - **References**: Lebedev et al., 2021:
-> - **Comments**: Steshevian Regional Stage.
+> - **Taxa**: 
+>> - Chondrichthyes: *Protochimaera mirabilis*, *Ginteria fungiforma*, *Copodus lebedevi*, *Ageleodus pectinatus*, *Cooleyella* cf. *fordi*. (Duffin & Ivanov, 2008; Lebedev et al., 2021; Lyapin & Bagirov, 2014; Skompski et al., 2001)  
+>> - Actinopterygii: Palaeoniscidae indet. (Skompski et al., 2001)  
+>> - Acanthodii: Acanthodidae indet. (Lyapin & Bagirov, 2014)
+> - **Locality and horizon**: Kalinovskie Vyselki (Dashkovka) Quarry (N 54°55′, E 37°20′), Zaborie Quarry (N 54°53′, E 37°22′), and Borshchevsky Quarry (N 54°25′, E 36°48′); Dashkovka Member of the Gurovo Formation (Steshevian Horizon). (Kabanov et al., 2014; Lyapin & Bagirov, 2014; Vinn & Mironenko, 2021) 
+> - **References**: Duffin & Ivanov, 2008; Kabanov et al., 2014; Lebedev et al., 2021; Lyapin & Bagirov, 2014; Skompski et al., 2001; Vinn & Mironenko, 2021.  
+> - **Comments**: Steshevian Regional Stage. The Dashkovka Member records a deep-water, hypoxic event within the Serpukhovian of the Moscow Syneclise. Lithologies comprise dark grey to black palygorskitic clays and shales with thin dolomitic siltstone intercalations deposited below the photic zone. The vertebrate assemblage is dominated by chondrichthyans, including the earliest known chimaeriform *Protochimaera mirabilis* and the anachronistid neoselachian *Ginteria fungiforma*. Low-energy, oxygen-deficient bottom waters favored preservation of disarticulated but well-preserved material and excluded most benthic invertebrates (except *Tolypammina kalugensis* and *Sphenothallus*). Occurrence of *Copodus* and *Ageleodus* indicates links to Western European Dinantian faunas, while endemic chimaeriforms suggest regional adaptation to Steshevian basin conditions. (Kabanov et al., 2014; Lebedev et al., 2021; Vinn & Mironenko, 2021)
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
@@ -1840,6 +1843,7 @@ Boyce, W. D. (1985). Biostratigraphic and paleoenvironmental significance of new
 Boyce, W. D. (1986). Biostratigraphic and paleoenvironmental significance of palaeoniscid fish and vascular plant remains from the Snakes Bight Formation (Anguille Group), Codroy area, southwestern Newfoundland. *Current Research, Newfoundland Department of Mines and Energy, Mineral Development Division*, *Report 86-1*, 169–171.
 
 Knight, I. (1983). *Geology of the Carboniferous Bay St. George Subbasin, western Newfoundland*. Newfoundland Department of Mines and Energy, Mineral Development Division, Memoir 1.
+
 
 
 
