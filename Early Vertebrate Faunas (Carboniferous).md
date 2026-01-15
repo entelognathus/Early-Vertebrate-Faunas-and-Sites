@@ -371,12 +371,7 @@
 > - **References**: Fillmore et al., 2012; Hoque, 1968; Lucas et al., 2010; Vrazo et al., 2007. 
 > - **Comments**: Diagnostic tetrapod skeletal remains are absent at this locality due to oxidizing paleoenvironmental conditions (red beds); the vertebrate fauna is primarily known from an extensive ichnofossil record (footprints *Palaeosauropus*, body impressions *Temnocorpichnus*). Skeletal taxa often attributed to the "Mauch Chunk" (e.g., *Mauchchunkia*, *Proterogyrinus*, *Greererpeton*) are restricted to the lithostratigraphically equivalent Mauch Chunk Group of West Virginia. (Fillmore et al., 2012; Lucas et al., 2010)
 
-#### Point Edward Formation, Point Edward, Sydney, Nova Scotia, Canada
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+
 
 #### Snakes Bight Formation (Anguille Group), Codroy, Newfoundland, Canada
 > - **Age**:
@@ -634,6 +629,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 
 ### Serpukhovian, Late Mississipian, Carboniferous
+#### Point Edward Formation, Point Edward, Sydney, Nova Scotia, Canada
+> - **Age**: Serpukhovian
+> - **Taxa**: 
+>> - Tetrapoda: *Spathicephalus pereger*, *Proterogyrinus* sp., *Greererpeton* sp., Embolomeri indet. (syn. ?*Pholiderpeton bretonense*). (Adams et al., 2019; Baird, 1962; Holmes et al., 1995; Romer, 1958)  
+>> - Acanthodii: *Gyracanthus* sp. (Baird, 1962; Baird, 1978; Maddin Lab, n.d.)  
+>> - Sarcopterygii: *Sagenodus* sp., Rhizodontidae indet. (Maddin Lab, n.d.)  
+>> - Actinopterygii: Haplolepididae indet. (Baird, 1978; Carroll et al., 1972)  
+> - **Locality and horizon**: Coastal exposures between Point Edward and Keating Cove (approximately 46°11′N, 60°13′W), Sydney Harbour, Cape Breton Island, Nova Scotia. Fossils occur in freshwater limestone and overlying mudstone and shale units of the Point Edward Formation (Mabou Group). (Adams et al., 2019; Baird, 1962; Carroll et al., 1972)  
+> - **References**: Adams et al., 2019; Allen et al., 2014; Baird, 1962; Baird, 1978; Carroll et al., 1972; Holmes et al., 1995; Maddin Lab, n.d.; Müller, 2019; Romer, 1958.
+> - **Comments**: The Point Edward Formation provides a key record of freshwater and semi-aquatic vertebrate assemblages during Romer's Gap. The tetrapod fauna includes the earliest known Spathicephalidae (*Spathicephalus pereger*), indicating early experimentation with suction-feeding morphologies. The embolomere record comprises at least two distinct proterogyrinid taxa, and *Greererpeton* material supports biogeographic links with the Appalachian Basin. The ichthyofauna includes gyracanthids, lungfish (*Sagenodus*), rhizodontids, and haplolepidid actinopterygians. Preservation of articulated and delicate elements suggests low-energy floodplain lacustrine settings, with much material recovered as beach float. (Adams et al., 2019; Baird, 1962; Baird, 1978; Holmes et al., 1995)
+
 #### Manse Burn Formation, Bearsden, Scotland
 > - **Age**: Early Serpukhovian.
 > - **Taxa**:
@@ -1808,6 +1814,7 @@ Hoque, M. (1968). *Sedimentologic and paleocurrent study of Mauch Chunk Formatio
 Lucas, S. G., Fillmore, D. L., & Simpson, E. L. (2010). Amphibian body impressions from the Mississippian of Pennsylvania, USA. *Ichnos*, *17*(3), 175–178. https://doi.org/10.1080/10420940.2010.502482
 
 Vrazo, M. B., Benton, M. J., & Daeschler, E. B. (2007). Tetrapod tracks from the Mauch Chunk Formation (middle to upper Mississippippian) of Pennsylvania, USA. *Proceedings of the Academy of Natural Sciences of Philadelphia*, *156*(1), 199–209. https://doi.org/10.1635/0097-3157(2007)1562.0.CO;2
+
 
 
 
