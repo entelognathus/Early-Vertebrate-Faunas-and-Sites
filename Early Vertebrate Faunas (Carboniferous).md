@@ -1859,6 +1859,9 @@ Skompski, S., Paszkowski, M., Kabanov, P. B., Krasnozhina, Z. V., & Perret, M. F
 
 Vinn, O., & Mironenko, A. A. (2021). Discovery of *Sphenothallus* in the Upper Mississippian of Central Russia. *Journal of Paleontology*, *95*(2), 1–7.
 
+Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
+
+Korn, D. (1996). Revision of the Rhenish Late Visean goniatite stratigraphy. *Annales de la Société géologique de Belgique*, *117*(1), 215–224.
 
 
 
