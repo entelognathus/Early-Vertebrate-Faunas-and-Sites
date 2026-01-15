@@ -1835,6 +1835,11 @@ Romer, A. S. (1958). The Texas Permian redbeds and their vertebrate fauna. In *S
 
 Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Romer (Amphibia: Temnospondyli). *Zoological Journal of the Linnean Society*, *76*(1), 29–90.
 
+Boyce, W. D. (1985). Biostratigraphic and paleoenvironmental significance of newly discovered palaeoniscid fish and vascular plant remains from the Snakes Bight Formation (Anguille Group) near Codroy, southwestern Newfoundland. *Current Research, Newfoundland Department of Mines and Energy, Mineral Development Division*, *Report 85-1*, 71–73.
+
+Boyce, W. D. (1986). Biostratigraphic and paleoenvironmental significance of palaeoniscid fish and vascular plant remains from the Snakes Bight Formation (Anguille Group), Codroy area, southwestern Newfoundland. *Current Research, Newfoundland Department of Mines and Energy, Mineral Development Division*, *Report 86-1*, 169–171.
+
+Knight, I. (1983). *Geology of the Carboniferous Bay St. George Subbasin, western Newfoundland*. Newfoundland Department of Mines and Energy, Mineral Development Division, Memoir 1.
 
 
 
