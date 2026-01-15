@@ -1844,6 +1844,17 @@ Boyce, W. D. (1986). Biostratigraphic and paleoenvironmental significance of pal
 
 Knight, I. (1983). *Geology of the Carboniferous Bay St. George Subbasin, western Newfoundland*. Newfoundland Department of Mines and Energy, Mineral Development Division, Memoir 1.
 
+Duffin, C. J., & Ivanov, A. (2008). New chondrichthyan teeth from the Early Carboniferous of Britain and Russia. *Acta Geologica Polonica*, *58*(2), 191–197.
+
+Kabanov, P., Anisimova, S., & Egorov, A. (2014). The upper Viséan–Serpukhovian in the type area for the Serpukhovian Stage (Moscow Basin, Russia): Part 1. Sequences, disconformities and biostratigraphic summary. *Geological Journal*, *51*(3), 380–403. https://doi.org/10.1002/gj.2612
+
+Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
+
+Lyapin, V. R., & Bagirov, S. V. (2014). The first record of *Copodus* Davis, 1883 (Chondrichthyes, Copodontiformes) from the Steshevian Regional Stage (Serpukhovian, Lower Carboniferous) of the Moscow Region. *Paleontological Journal*, *48*(10), 1045–1059. https://doi.org/10.1134/S0031030114100050
+
+Skompski, S., Paszkowski, M., Kabanov, P. B., Krasnozhina, Z. V., & Perret, M. F. (2001). The depositional setting of the Lower Carboniferous (Viséan–Serpukhovian) of the Moscow Syneclise (Russia). *Geological Quarterly*, *45*(1), 21–38.
+
+Vinn, O., & Mironenko, A. A. (2021). Discovery of *Sphenothallus* in the Upper Mississippian of Central Russia. *Journal of Paleontology*, *95*(2), 1–7.
 
 
 
