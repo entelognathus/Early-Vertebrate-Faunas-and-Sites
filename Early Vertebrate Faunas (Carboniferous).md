@@ -51,6 +51,12 @@
 > - **References**: Jiang, 1994; Qie et al., 2016; Wang, 2022.
 > - **Comments**: Shallow-water mixed carbonate-siliciclastic platform deposits consisting of micritic limestones, clayey limestones, and shales; vertebrate assemblage dominated by endemic shallow-water conodont faunas and indeterminate ichthyoliths recovered from acid-insoluble residues; records the Hangenberg and Tournaisian Carbon Isotope Excursions. (Qie et al., 2016; Wang, 2022)
 
+#### Snakes Bight Formation (Anguille Group), Codroy, Newfoundland, Canada
+> - **Age**: Late Tournaisian. (Boyce, 1986)  
+> - **Taxa**: Actinopterygii: *Acrolepis* sp., *Canobius* sp. (?), *Elonichthys* sp., *Rhadinichthys* sp. cf. *R. alberti* (syn. *Palaeoniscum alberti*). (Boyce, 1985; Boyce, 1986)  
+> - **Locality and horizon**: Upper part of the formation, coastal exposures near Codroy (approx. 47°52′N, 59°23′W) and Snakes Bight (47°57′N, 59°18′W), southwestern Newfoundland. (Boyce, 1985; Knight, 1983)  
+> - **References**: Boyce, 1985; Boyce, 1986; Knight, 1983.  
+> - **Comments**: The formation represents a deep, perennial, anoxic lacustrine environment dominated by turbidites and mudstones. Vertebrate fossils are restricted to articulated palaeoniscid fishes recovered from the upper member, associated with vascular plant debris (e.g., *Aneimites*, *Asterocalamites*). The fauna is biostratigraphically correlated with the Albert Formation of New Brunswick and the Horton Bluff Formation of Nova Scotia. (Boyce, 1985; Knight, 1983)
 
 #### Laurel Formation, Canning Basin, Western Australia, Australia
 > - **Age**: Tournaisian
@@ -371,14 +377,6 @@
 > - **References**: Fillmore et al., 2012; Hoque, 1968; Lucas et al., 2010; Vrazo et al., 2007. 
 > - **Comments**: Diagnostic tetrapod skeletal remains are absent at this locality due to oxidizing paleoenvironmental conditions (red beds); the vertebrate fauna is primarily known from an extensive ichnofossil record (footprints *Palaeosauropus*, body impressions *Temnocorpichnus*). Skeletal taxa often attributed to the "Mauch Chunk" (e.g., *Mauchchunkia*, *Proterogyrinus*, *Greererpeton*) are restricted to the lithostratigraphically equivalent Mauch Chunk Group of West Virginia. (Fillmore et al., 2012; Lucas et al., 2010)
 
-
-
-#### Snakes Bight Formation (Anguille Group), Codroy, Newfoundland, Canada
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
 
 #### Pelagic Limestones (Crenistria Horizon), Westenfeld Quarry, Rhenish Mountains, Germany
 > - **Age**:
@@ -1836,6 +1834,7 @@ Müller, J. (2019). 2019 in amphibian paleontology. *WikiJournal of Science*. ht
 Romer, A. S. (1958). The Texas Permian redbeds and their vertebrate fauna. In *Studies on Fossil Vertebrates* (pp. 157–179).
 
 Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Romer (Amphibia: Temnospondyli). *Zoological Journal of the Linnean Society*, *76*(1), 29–90.
+
 
 
 
