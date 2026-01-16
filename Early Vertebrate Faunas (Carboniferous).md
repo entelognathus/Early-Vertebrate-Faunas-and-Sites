@@ -1887,6 +1887,15 @@ Nikolaeva, S. V., Kulagina, E. I., Pazukhin, V. N., Kochetova, N. N., & Konovalo
 
 Richards, B. C., Nikolaeva, S. V., Kulagina, E. I., Alekseev, A. S., & Gatovsky, Y. A. (2017). A candidate for the Global Stratotype Section and Point at the base of the Serpukhovian in the South Urals, Russia. *Stratigraphy and Geological Correlation*, *25*(7), 697–758.
 
+Itano, W. M., & Duffin, C. J. (2023). An enigmatic chondrichthyan spine from the Viséan of Indiana, USA that resembles a median rostral cartilage of *Squaloraja* (Holocephali, Chimaeriformes). *Spanish Journal of Palaeontology*, *38*(1), 57–68. https://doi.org/10.7203/sjp.26305
+
+Maples, C. G., & Waters, J. A. (1987). Redefinition of the Meramecian/Chesterian boundary (Mississippian). *Geology*, *15*(7), 647–651.
+
+Newberry, J. S. (1878). Descriptions of new Paleozoic fishes. *Annals of the New York Academy of Sciences*, *1*, 188–192.
+
+Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. Monographs of the United States Geological Survey, 16.
+
+Safford, J. M. (1869). *Geology of Tennessee*. S.C. Mercer, Printer to the State.
 
 
 
