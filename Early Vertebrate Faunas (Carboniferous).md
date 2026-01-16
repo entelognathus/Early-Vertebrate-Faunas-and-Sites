@@ -1930,6 +1930,17 @@ Wellburn, E. D. (1902). On the fish fauna of the Pendleside Limestones. *Proceed
 
 Wellburn, E. D. (1903). On some new species of fossil fish from the Millstone Grit rocks, with an amended list of genera and species. *Proceedings of the Yorkshire Geological and Polytechnic Society*, *15*(1), 70–78.
 
+Aldridge, R. J., Briggs, D. E. G., Smith, M. P., Clarkson, E. N. K., & Clark, N. D. L. (1993). The anatomy of conodonts. *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, *340*(1294), 405–421.
+
+Briggs, D. E. G., & Clarkson, E. N. K. (1987). An enigmatic chordate from the Lower Carboniferous Granton “shrimp-bed” of the Edinburgh district, Scotland. *Lethaia*, *20*(2), 107–115.
+
+Briggs, D. E. G., Clark, N. D. L., & Clarkson, E. N. K. (1991). The Granton “shrimp-bed”, Edinburgh—a Lower Carboniferous Konservat-Lagerstätte. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, *82*(1), 65–85.
+
+Cater, J. M. L. (1987). Sedimentology of part of the Lower Oil-Shale Group (Dinantian) sequence at Granton, Edinburgh, including the Granton “shrimp-bed”. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, *78*(1), 29–40.
+
+Tait, D. (1923). Notice of a shrimp-bearing limestone in the Calciferous Sandstone Series at Granton, near Edinburgh. *Transactions of the Edinburgh Geological Society*, *11*(2), 131–134.
+
+Traquair, R. H. (1907). Report on fossil fishes collected by the Geological Survey of Scotland from shales exposed on the shore near Gullane, East Lothian. *Transactions of the Royal Society of Edinburgh*, *46*, 103–117.
 
 
 
