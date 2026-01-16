@@ -470,7 +470,7 @@
 
 #### St. Louis Formation/limestone, Indiana, USA
 > - **Age**: Visean
-> - **Taxa**: *Chomatodus newberryi*
+> - **Taxa**: *Chomatodus newberryi*, *Sulcacanthus schachti*, *Archaeobatis gigas*, *Psammodus* sp., *Copodus* sp., *Ctenacanthus* sp. (Safford, 1869; Newberry, 1878; Newberry, 1889; Itano & Duffin, 2023)  
 > - **Locality and horizon**: St. Louis Formation, Indiana, USA
 > - **References**:(Hay, 1902)
 > - **Comments**:
@@ -478,9 +478,9 @@
 #### St. Louis Formation/limestone, Alton, Illinois, USA
 > - **Age**: Visean
 > - **Taxa**: *Asteroptychius gracilis*, **, **
-> - **Locality and horizon**: St. Louis Formation/limestone, Alton, Illinois, USA
-> - **References**:(Newberry, 1897)
-> - **Comments**:
+> - **Locality and horizon**: Limestone quarry near Cloverdale, Putnam County (39°32′19″N, 86°48′12″W), upper Meramecian beds. (Itano & Duffin, 2023)  
+> - **References**: Newberry, 1897;Itano & Duffin, 2023; Maples & Waters, 1987; Newberry, 1878; Newberry, 1889; Safford, 1869.  
+> - **Comments**: The St. Louis Limestone of Indiana represents a shallow-marine carbonate platform. Vertebrate remains are relatively sparse compared with the underlying Salem Limestone and coeval St. Louis Formation successions in Kentucky and Missouri. The holocephalan *Sulcacanthus schachti* is notable for its resemblance to the Jurassic *Squaloraja*, implying a long ghost lineage for squalorajoid holocephalians. Historical collections from Greencastle document large durophagous tooth plates of *Archaeobatis* and *Psammodus*. (Itano & Duffin, 2023; Newberry, 1889)
 
 #### Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK
 > - **Age**: Visean
@@ -1886,6 +1886,7 @@ Ivanov, A. O., Alekseev, A. S., & Nikolaeva, S. V. (2024). New fishes from the V
 Nikolaeva, S. V., Kulagina, E. I., Pazukhin, V. N., Kochetova, N. N., & Konovalova, V. A. (2009). Paleontology and microfacies of the Serpukhovian in the Verkhnyaya Kardailovka section, South Urals, Russia: Potential candidate for the GSSP for the Visean–Serpukhovian boundary. *Newsletters on Stratigraphy*, *43*(2), 165–193.
 
 Richards, B. C., Nikolaeva, S. V., Kulagina, E. I., Alekseev, A. S., & Gatovsky, Y. A. (2017). A candidate for the Global Stratotype Section and Point at the base of the Serpukhovian in the South Urals, Russia. *Stratigraphy and Geological Correlation*, *25*(7), 697–758.
+
 
 
 
