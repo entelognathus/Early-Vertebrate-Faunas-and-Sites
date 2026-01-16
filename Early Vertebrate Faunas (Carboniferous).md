@@ -1962,6 +1962,17 @@ Stoddart, W. W. (1875). Geology of the Bristol Coalfield. *Proceedings of the Br
 
 Whiteside, D. I., & Marshall, J. E. A. (2008). The age, fauna and palaeoenvironment of the Late Triassic fissure deposits of Tytherington, South Gloucestershire, UK. *Geological Magazine*, *145*(1), 105–147.
 
+Aitkenhead, N., & Chisholm, J. I. (1982). A standard nomenclature for the Dinantian formations of the Peak District of Derbyshire and Staffordshire. *Report of the Institute of Geological Sciences*, *82*(8), 1–17.
+
+Duffin, C. J. (1985). Revision of the hybodont selachian genus *Lissodus* Brough (1935). *Palaeontographica Abteilung A*, *188*, 105–152.
+
+Duffin, C. J., & Ward, D. J. (1983). Neoselachian sharks’ teeth from the Lower Carboniferous of Britain and the Lower Permian of the U.S.A. *Palaeontology*, *26*(1), 93–110.
+
+Ford, T. D. (1964). A new fish bed in the Carboniferous Limestone of Derbyshire. *Mercian Geologist*, *1*(1), 3–9.
+
+Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
+
+Smith, R., Martill, D. M., & Duffin, C. J. (2017). The shark-beds of the Eyam Limestone Formation (Lower Carboniferous, Viséan) of Steeplehouse Quarry, Wirksworth, Derbyshire, UK. *Proceedings of the Geologists’ Association*, *128*(3), 374–400. https://doi.org/10.1016/j.pgeola.2017.04.004
 
 
 
