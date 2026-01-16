@@ -1913,6 +1913,17 @@ St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geologica
 
 St. John, O., & Worthen, A. H. (1883). Descriptions of fossil fishes. *Geological Survey of Illinois*, *7*, 55–264.
 
+Bromehead, C. E. N., Edwards, W., Wray, D. A., & Stephens, J. V. (1933). *The geology of the country around Holmfirth and Glossop*. H.M. Stationery Office.
+
+Davis, J. W. (1883). On the fossil fishes of the Carboniferous Limestone Series of Great Britain. *Scientific Transactions of the Royal Dublin Society*, *1*, 327–548.
+
+Forey, P. L. (1981). The coelacanth fish *Rhabdoderma* in the Carboniferous of the British Isles. *Palaeontology*, *24*(1), 203–229.
+
+Turner, J. S. (1965). On the Carboniferous nautiloids: *Pseudocatastroboceras*. *Proceedings of the Leeds Philosophical and Literary Society*, *9*, 229–243.
+
+Wellburn, E. D. (1902). On the fish fauna of the Pendleside Limestones. *Proceedings of the Yorkshire Geological and Polytechnic Society*, *14*(3), 465–473.
+
+Wellburn, E. D. (1903). On some new species of fossil fish from the Millstone Grit rocks, with an amended list of genera and species. *Proceedings of the Yorkshire Geological and Polytechnic Society*, *15*(1), 70–78.
 
 
 
