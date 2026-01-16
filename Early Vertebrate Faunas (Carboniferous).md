@@ -1881,6 +1881,11 @@ Liszkowski, J., & Racki, G. (1993). Ichthyoliths and deepening events in the Dev
 
 Szrek, P. (2020). Comments on distribution and taphonomy of Devonian placoderms in the Holy Cross Mountains, Poland. *Bulletin of Geosciences*, *95*(1), 1–18. https://doi.org/10.3140/bull.geosci.1761
 
+Ivanov, A. O., Alekseev, A. S., & Nikolaeva, S. V. (2024). New fishes from the Visean–Serpukhovian boundary beds (Carboniferous) of the Verkhnyaya Kardailovka section (South Urals, Russia). *Palaeoworld*, *33*(4), 905–924. https://doi.org/10.1016/j.palwor.2023.06.009
+
+Nikolaeva, S. V., Kulagina, E. I., Pazukhin, V. N., Kochetova, N. N., & Konovalova, V. A. (2009). Paleontology and microfacies of the Serpukhovian in the Verkhnyaya Kardailovka section, South Urals, Russia: Potential candidate for the GSSP for the Visean–Serpukhovian boundary. *Newsletters on Stratigraphy*, *43*(2), 165–193.
+
+Richards, B. C., Nikolaeva, S. V., Kulagina, E. I., Alekseev, A. S., & Gatovsky, Y. A. (2017). A candidate for the Global Stratotype Section and Point at the base of the Serpukhovian in the South Urals, Russia. *Stratigraphy and Geological Correlation*, *25*(7), 697–758.
 
 
 
