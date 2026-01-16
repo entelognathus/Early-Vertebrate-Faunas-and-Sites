@@ -1897,6 +1897,17 @@ Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. Monographs of t
 
 Safford, J. M. (1869). *Geology of Tennessee*. S.C. Mercer, Printer to the State.
 
+Lund, R. (1974). *Stethacanthus altonensis* (Elasmobranchii) from the Bear Gulch Limestone of Montana. *Annals of Carnegie Museum*, *45*, 161–178.
+
+Lund, R., & Grogan, E. D. (2004). Two tenaculum-bearing Holocephalimorpha (Chondrichthyes) from the Bear Gulch Limestone (Chesterian, Serpukhovian) of Montana, USA. *Freiberger Forschungshefte C*, *502*, 171–188.
+
+Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. Monographs of the United States Geological Survey, 16.
+
+Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebrates, mainly from the subcarboniferous limestone and coal measures of Illinois. *Geological Survey of Illinois*, *2*, 9–134.
+
+St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
+
+St. John, O., & Worthen, A. H. (1883). Descriptions of fossil fishes. *Geological Survey of Illinois*, *7*, 55–264.
 
 
 
