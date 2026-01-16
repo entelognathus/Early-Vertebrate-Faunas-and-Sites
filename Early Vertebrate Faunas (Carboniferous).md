@@ -522,11 +522,16 @@ The Gullane Shrimp Bed, exposed at Cheese Bay, on the East Lothian coast.
 The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Firth of Forth, about 3 km from the centre of Edinburgh. 
 
 #### Granton Shrimp Bed, Firth of Forth, Scotland
-> - **Age**: Visean.
+> - **Age**: Late Visean. (Cater, 1987; Briggs et al., 1991)  
 > - **Taxa**:
-> - **Locality and horizon**: Granton Shrimp Bed, Lower Oil Shale Group, Firth of Forth, Scotland*
-> - **References**:
-> - **Comments**: Early Dinantian, Tournasian; Late Dinantian, Visean.
+>> - Agnatha: *Clydagnathus windsorensis*, *Conopiscius clarki*. (Aldridge et al., 1993; Briggs & Clarkson, 1987)  
+>> - Actinopterygii: *Rhadinichthys brevis*, *Rhadinichthys ornatissimus*, *Eurynotus crenatus*, *Mesopoma* sp., *Gonatodus punctatus*, *Cosmoptychius striatus*, *Elonichthys robisoni*, *Nematoptychius greenocki*. (Traquair, 1907; Tait, 1923; Cater, 1987; Briggs et al., 1991)  
+>> - Sarcopterygii: *Rhizodus hibberti* (scales), *Rhabdoderma* sp. (Traquair, 1907; Briggs et al., 1991)  
+>> - Chondrichthyes: *Acanthodes* sp., *Tristychius* sp. (Traquair, 1907; Cater, 1987)  
+> - **Locality and horizon**: Foreshore exposures on the southern shore of the Firth of Forth (approx. 55.98°N, 3.26°W), Granton Sandstone Formation, Lower Oil Shale Group. (Cater, 1987; Briggs et al., 1991)
+> - **References**: Aldridge et al., 1993; Briggs & Clarkson, 1987; Briggs et al., 1991; Cater, 1987; Tait, 1923; Traquair, 1907.  
+> - **Comments**: A Konservat-Lagerstätte deposited in a restricted, brackish to hypersaline lagoonal setting with periodic marine incursions. The site is renowned for early documentation of soft-tissue preservation, including the conodont animal (*Clydagnathus*) and the enigmatic chordate *Conopiscius*. Vertebrate remains co-occur with abundant crustaceans (e.g., *Waterstonella*, *Tealliocaris*) and reflect low-oxygen bottom conditions favorable to exceptional preservation. (Briggs et al., 1991; Cater, 1987)
+
 
 #### East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland
 > - **Age**: Late Visean.
@@ -1924,6 +1929,7 @@ Turner, J. S. (1965). On the Carboniferous nautiloids: *Pseudocatastroboceras*. 
 Wellburn, E. D. (1902). On the fish fauna of the Pendleside Limestones. *Proceedings of the Yorkshire Geological and Polytechnic Society*, *14*(3), 465–473.
 
 Wellburn, E. D. (1903). On some new species of fossil fish from the Millstone Grit rocks, with an amended list of genera and species. *Proceedings of the Yorkshire Geological and Polytechnic Society*, *15*(1), 70–78.
+
 
 
 
