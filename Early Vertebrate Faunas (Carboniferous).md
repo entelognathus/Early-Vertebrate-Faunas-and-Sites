@@ -570,10 +570,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 #### Black Rock Limestione, Bristol, UK
 > - **Age**: late Visean
-> - **Taxa**: *Chalazacanthus verrucosus*
-> - **Locality and horizon**: Black Rock Limestione, late Visean, Bristol, UK
-> - **References**:(Davis, 1883)
-> - **Comments**: late Visean to early Serpukhovian
+> - **Taxa**: 
+>> - Chondrichthyes: *Antliodus* sp., *Bransonella* cf. *nebraskensis*, *Chomatodus* sp., *Cladodus* sp., *Cochliodus* sp., *Cromhallia parvunda*, *Ctenacanthus* sp., *Deltoptychius* sp., *Helodus* sp., *Jalodus* sp., *Orodus* sp., *Orthacanthus* sp., *Protacrodus* sp., *Psammodus* sp., *Psephodus* sp., *Stethacanthus* cf. *altonensis*, *Tantalepis* sp., *Thrinacodus ferox*, *Tomodus* sp. (Stoddart, 1875; Behan et al., 2012; Richards et al., 2018)  
+>> - Actinopterygii: *Palaeoniscum* sp. (scales), Palaeonisciformes indet. (Stoddart, 1875; Behan et al., 2012)  
+>> - Sarcopterygii: *Ctenodus* sp., *Strepsodus* sp. (Stoddart, 1875; Duffin, 1998)  
+> - **Locality and horizon**:  Avon Gorge “Palate Bed” (lag deposit near base of subgroup); derived fauna in solution residues within Late Triassic karst fissures at Cromhall Quarry and Tytherington Quarry (South Gloucestershire). (Stoddart, 1875; Behan et al., 2012; Whiteside & Marshall, 2008)  
+> - **References**: Behan et al., 2012; Duffin, 1998; Kellaway & Welch, 1993; Richards et al., 2018; Stoddart, 1875; Whiteside & Marshall, 2008.  
+> - **Comments**: late Visean to early Serpukhovian. The autochthonous component represents a shallow-marine carbonate ramp fauna dominated by durophagous chondrichthyans (e.g., cochliodonts, orodonts) associated with crinoid and brachiopod-rich limestones. Much of the documented microvertebrate diversity is derived from insoluble residues concentrated within Late Triassic karst fissures that cut the limestone, producing a natural solution-lag assemblage (not stratigraphically Triassic in age, but trapped within Triassic fissure-fill systems). The fissures also host, in the same karst system, the type material of the Triassic dinosaur *Thecodontosaurus* (hosted physically rather than stratigraphically within the Carboniferous limestone). (Behan et al., 2012; Whiteside & Marshall, 2008; Benton et al., 2000)
 
 
 #### Cawdor Limestiones, Wirksworth, Derbyshire, UK
@@ -1941,6 +1944,7 @@ Cater, J. M. L. (1987). Sedimentology of part of the Lower Oil-Shale Group (Dina
 Tait, D. (1923). Notice of a shrimp-bearing limestone in the Calciferous Sandstone Series at Granton, near Edinburgh. *Transactions of the Edinburgh Geological Society*, *11*(2), 131–134.
 
 Traquair, R. H. (1907). Report on fossil fishes collected by the Geological Survey of Scotland from shales exposed on the shore near Gullane, East Lothian. *Transactions of the Royal Society of Edinburgh*, *46*, 103–117.
+
 
 
 
