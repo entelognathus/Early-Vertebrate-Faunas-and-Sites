@@ -1978,6 +1978,25 @@ Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic 
 
 Smith, R., Martill, D. M., & Duffin, C. J. (2017). The shark-beds of the Eyam Limestone Formation (Lower Carboniferous, Viséan) of Steeplehouse Quarry, Wirksworth, Derbyshire, UK. *Proceedings of the Geologists’ Association*, *128*(3), 374–400. https://doi.org/10.1016/j.pgeola.2017.04.004
 
+Bolt, J. R., & Lombard, R. E. (2006). *Sigournea multidentata*, a new stem tetrapod from the Upper Mississippian of Iowa, USA. *Journal of Paleontology*, *80*(4), 717–725. https://doi.org/10.1666/0022-3360(2006)80%5B717:SMANST%5D2.0.CO;2
+
+Bolt, J. R., & Lombard, R. E. (2010). *Deltaherpeton hiemstrae*, a new colosteid tetrapod from the Mississippian of Iowa. *Journal of Paleontology*, *84*(6), 1135–1151. https://doi.org/10.1666/10-020.1
+
+Bolt, J. R., McKay, R. M., Witzke, B. J., & McAdams, M. P. (1988). A new Lower Carboniferous tetrapod locality in Iowa. *Nature*, *333*(6175), 768–770. https://doi.org/10.1038/333768a0
+
+Hampe, O., Johnson, G. D., & Turner, S. (2006). *Dicentrodus* (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Viséan: upper St Louis Formation) of Iowa, USA. *Geological Magazine*, *143*(4), 545–549. https://doi.org/10.1017/S0016756806002093
+
+Lombard, R. E., & Bolt, J. R. (1995). A new primitive tetrapod, *Whatcheeria deltae*, from the Lower Carboniferous of Iowa. *Palaeontology*, *38*(3), 471–494.
+
+Schultze, H.-P., & Bolt, J. R. (1996). The lungfish *Tranodis* and the tetrapod fauna from the Upper Mississippian of North America. *Special Papers in Palaeontology*, *52*, 31–54.
+
+Snyder, D., Burrow, C. J., & Turner, S. (2024). A new gyracanthid from the Mississippian of Delta, Iowa, U.S.A. *Journal of Vertebrate Paleontology*, *43*(4), e2310721. https://doi.org/10.1080/02724634.2024.2310721
+
+Snyder, D., Burrow, C. J., & Turner, S. (2025a). *Floydus punicellus* gen. et sp. nov. (Sarcopterygii, Rhizodontida) from the Mississippian of Iowa, USA. *Journal of Vertebrate Paleontology*, *45*(1), e2514116. https://doi.org/10.1080/02724634.2025.2514116
+
+Snyder, D., Burrow, C. J., Turner, S., Itano, W. M., den Blaauwen, J. L., & Stewart, S. (2025b). *Cynopodius*, a long-toothed chondrichthyan from the Carboniferous of Scotland and the USA. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*. Advance online publication.
+
+Witzke, B. J., Ludvigson, G. A., & Poppe, J. R. (1990). Lithostratigraphy and depositional environments of the Mississippian in Keokuk and Washington counties, southeast Iowa. *Geological Society of Iowa Guidebook*, *54*, 1–105.
 
 
 
