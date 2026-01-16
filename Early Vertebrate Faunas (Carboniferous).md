@@ -1945,6 +1945,19 @@ Tait, D. (1923). Notice of a shrimp-bearing limestone in the Calciferous Sandsto
 
 Traquair, R. H. (1907). Report on fossil fishes collected by the Geological Survey of Scotland from shales exposed on the shore near Gullane, East Lothian. *Transactions of the Royal Society of Edinburgh*, *46*, 103–117.
 
+Behan, C., Walkden, G., & Cuny, G. (2012). A Carboniferous chondrichthyan assemblage from residues within a Triassic karst system at Cromhall Quarry, Gloucestershire, England. *Palaeontology*, *55*(6), 1245–1263. https://doi.org/10.1111/j.1475-4983.2012.01193.x
+
+Benton, M. J., Juul, L., Storrs, G. W., & Galton, P. M. (2000). Anatomy and systematics of the prosauropod dinosaur *Thecodontosaurus antiquus* from the Upper Triassic of southwest England. *Journal of Vertebrate Paleontology*, *20*(1), 77–108.
+
+Duffin, C. J. (1998). New shark remains from the Early Carboniferous of Glencartholm (Dumfries and Galloway, Scotland). *Records of the Western Australian Museum*, *19*, 179–196.
+
+Kellaway, G. A., & Welch, F. B. A. (1993). *Geology of the Bristol District*. Memoir of the British Geological Survey. HMSO.
+
+Richards, K., Sherwin, J., Smithson, T., Bennion, R., Davies, S., Marshall, J., & Clack, J. (2018). Diverse and durophagous Early Carboniferous chondrichthyans from the Scottish Borders. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *108*(1), 67–87.
+
+Stoddart, W. W. (1875). Geology of the Bristol Coalfield. *Proceedings of the Bristol Naturalists' Society*, *1*(3), 313–350.
+
+Whiteside, D. I., & Marshall, J. E. A. (2008). The age, fauna and palaeoenvironment of the Late Triassic fissure deposits of Tytherington, South Gloucestershire, UK. *Geological Magazine*, *145*(1), 105–147.
 
 
 
