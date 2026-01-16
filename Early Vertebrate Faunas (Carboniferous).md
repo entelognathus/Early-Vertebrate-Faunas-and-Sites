@@ -482,12 +482,16 @@
 > - **References**: Lund & Grogan, 2004; Newberry, 1889; Newberry & Worthen, 1866; St. John & Worthen, 1875; St. John & Worthen, 1883. 
 > - **Comments**: The St. Louis Limestone of Indiana represents a shallow-marine carbonate platform. Vertebrate remains are relatively sparse compared with the underlying Salem Limestone and coeval St. Louis Formation successions in Kentucky and Missouri. The holocephalan *Sulcacanthus schachti* is notable for its resemblance to the Jurassic *Squaloraja*, implying a long ghost lineage for squalorajoid holocephalians. Historical collections from Greencastle document large durophagous tooth plates of *Archaeobatis* and *Psammodus*. (Itano & Duffin, 2023; Newberry, 1889)
 
-#### Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK
-> - **Age**: Visean
-> - **Taxa**: *Acanthodopsis acuta*
-> - **Locality and horizon**: Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK
-> - **References**:(Wellburn, 1902)
-> - **Comments**: 
+#### Millstone Grit Group (Marsdenian), Pule Hill, Marsden, Yourkshire, UK
+> - **Age**: Visean (*Reticuloceras reticulatum* Zone). (Bromehead et al., 1933; Turner, 1965)  
+> - **Taxa**: 
+>> - Acanthodii: *Acanthodes* sp., *Marsdenius summiti*, *Marsdenius acutus*. (Wellburn, 1902; Bromehead et al., 1933)  
+>> - Actinopterygii: *Elonichthys aitkeni*, *Elonichthys obliquus*, *Acrolepis hopkinsi*, *Rhadinichthys* sp. (Wellburn, 1903; Bromehead et al., 1933)  
+>> - Sarcopterygii: *Rhizodopsis sauroides*, *Strepsodus sauroides*, *Megalichthys* sp., *Rhabdoderma* sp. (syn. *Coelacanthus summiti*). (Wellburn, 1903; Bromehead et al., 1933; Forey, 1981)  
+>> - Chondrichthyes: *Ctenacanthus major* (syn. *C. tenuistriatus*), *Orodus elongatus*, *Oracanthus milleri*. (Davis, 1883; Wellburn, 1903; Bromehead et al., 1933)  
+> - **Locality and horizon**: Pule Hill (SE 032 108), Pule Edge Quarry; fossiliferous limestone nodules and shales overlying the Kinderscout Grit. (Bromehead et al., 1933)  
+> - **References**: Bromehead et al., 1933; Davis, 1883; Forey, 1981; Turner, 1965; Wellburn, 1902, 1903
+> - **Comments**: Historically misidentified as “Pendleside Limestones” by early authors, the Pule Hill fish-bearing beds are now correlated with the Marsdenian (R1) marine bands of the Millstone Grit Group. The locality is the type area of the acanthodian genus *Marsdenius* and preserves a mixed freshwater to marginal-marine vertebrate assemblage characteristic of Namurian basins in northern England. (Bromehead et al., 1933; Wellburn, 1902)
 
 #### Wardie Shales, Lower Lothian Group, Lothian, Scotland
 > - **Age**: Late Visean, Middle Mississipian, Carboniferous.
@@ -1908,6 +1912,7 @@ Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebr
 St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
 
 St. John, O., & Worthen, A. H. (1883). Descriptions of fossil fishes. *Geological Survey of Illinois*, *7*, 55–264.
+
 
 
 
