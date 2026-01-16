@@ -580,11 +580,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 
 #### Cawdor Limestiones, Wirksworth, Derbyshire, UK
-> - **Age**: late Visean
-> - **Taxa**: *Thrinacodus ferox*
-> - **Locality and horizon**: 
-> - **References**:
-> - **Comments**: 
+> - **Age**: Late Visean (Brigantian, *Lochriea nodosa* conodont Zone). (Aitkenhead & Chisholm, 1982; Smith et al., 2017)  
+> - **Taxa**: 
+>> - Chondrichthyes: *Petrodus patelliformis*, *Reesodus wirksworthensis*, *Cooleyella fordi*, *Thrinacodus dziki*, *Acanthorhachis* cf. *spinatus*, *Saivodus striatus*, *Carcharopsis prototypus*, *Ctenoptychius lobatus*, *Petalorhynchus psittacinus*, *Bransonella nebraskensis*, *Denaea* cf. *fournieri*, *Ginteria fungiforma*, *Squatinactis caudispinatus*, *Glencartius costellatus*, *Pristodus* cf. *falcatus*, *Cypripediodens cristatus*, *Protacrodus* sp., *Symmorium* cf. *reniforme*, *Cladodus* sp., ?*Triodus* sp., Euchondrocephali indet., Euselachii indet. (Ford, 1964; Duffin & Ward, 1983; Duffin, 1985; Ginter et al., 2015; Smith et al., 2017)  
+>> - Actinopterygii: Indeterminate teeth, scales, and vertebrae. (Smith et al., 2017) 
+> - **Locality and horizon**: Steeplehouse Quarry (SK 288 554), Cawdor Quarry (SK 287 606), and Baileycroft Quarry; Eyam Limestone Formation (formerly Cawdor Limestones/Group), dark bituminous facies and shale partings within crinoidal bioclastic limestones. (Ford, 1964; Smith et al., 2017)
+> - **References**: Aitkenhead & Chisholm, 1982; Duffin, 1985; Duffin & Ward, 1983; Ford, 1964; Ginter et al., 2015; Smith et al., 2017. 
+> - **Comments**: The vertebrate assemblage is dominated by chondrichthyans, especially dense concentrations of dermal denticles of *Petrodus patelliformis* (reported up to ~20% by weight) within clay partings at Steeplehouse Quarry. The fauna represents a diverse off-reef to fore-reef setting and includes early British records of neoselachians (*Cooleyella*) and hybodonts (*Reesodus*), as well as the first Viséan occurrence of the listracanthid *Acanthorhachis*. (Ford, 1964; Smith et al., 2017)
+
 
 #### Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland
 > - **Age**: Late Visean.
@@ -1958,6 +1961,7 @@ Richards, K., Sherwin, J., Smithson, T., Bennion, R., Davies, S., Marshall, J., 
 Stoddart, W. W. (1875). Geology of the Bristol Coalfield. *Proceedings of the Bristol Naturalists' Society*, *1*(3), 313–350.
 
 Whiteside, D. I., & Marshall, J. E. A. (2008). The age, fauna and palaeoenvironment of the Late Triassic fissure deposits of Tytherington, South Gloucestershire, UK. *Geological Magazine*, *145*(1), 105–147.
+
 
 
 
