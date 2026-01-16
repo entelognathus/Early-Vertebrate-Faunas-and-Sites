@@ -616,10 +616,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 #### Lower Waugh Member, Ste Genevieve Formation, Iowa, USA
 > - **Age**: Visean.
-> - **Taxa**: Gyracanthus? jasperi, (Lombard & Bolt, 1995),
+> - **Taxa**: 
+>> - Tetrapoda: *Whatcheeria deltae*, *Sigournea multidentata*, *Deltaherpeton hiemstrae*. (Lombard & Bolt, 1995; Bolt & Lombard, 2006; Bolt & Lombard, 2010)  
+>> - Sarcopterygii: *Floydus punicellus*, *Tranodis* sp., *Rhizodus* sp. (Schultze & Bolt, 1996; Snyder et al., 2025a)  
+>> - Chondrichthyes: *Gyracanthus? jasperi*, *Cynopodius robustus*, *Dicentrodus* sp., *Ageleodus pectinatus*. (Hampe et al., 2006; Snyder et al., 2024; Snyder et al., 2025b)  
+>> - Actinopterygii: Palaeonisciformes indet. (Bolt et al., 1988)  
 > - **Locality and horizon**: Lower Waugh Member, Ste Genevieve Formation, Hiemstra Quarry, near Delta, Iowa, USA (41°17′41″N, 92°20′9″W).
-> - **References**: Snyder et al. (2024). Bolt,1990; Bolt & Lombard, 2006, 2010; Bolt et al., 1988; Lombard & Bolt, 1995; Schultze & Bolt, 1996.
-> - **Comments**: The age assignment follows Snyder et al. (2024).
+> - **References**: Bolt et al., 1988; Bolt & Lombard, 2006; Bolt & Lombard, 2010; Hampe et al., 2006; Lombard & Bolt, 1995; Schultze & Bolt, 1996; Snyder et al., 2024; Snyder et al., 2025a; Snyder et al., 2025b; Witzke et al., 1990. 
+> - **Comments**: The age assignment follows Snyder et al. (2024). The assemblage is preserved in sinkhole-fill deposits representing a freshwater to brackish lacustrine environment. It is a key “Romer’s Gap” locality, yielding one of the oldest diverse tetrapod faunas in North America, including the primitive aquatic tetrapod *Whatcheeria*. (Bolt et al., 1988; Snyder et al., 2024)
 
 #### Keokuk limestone, Keokuk, Iowa, USA
 > - **Age**: early Visean
@@ -1973,6 +1977,7 @@ Ford, T. D. (1964). A new fish bed in the Carboniferous Limestone of Derbyshire.
 Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
 
 Smith, R., Martill, D. M., & Duffin, C. J. (2017). The shark-beds of the Eyam Limestone Formation (Lower Carboniferous, Viséan) of Steeplehouse Quarry, Wirksworth, Derbyshire, UK. *Proceedings of the Geologists’ Association*, *128*(3), 374–400. https://doi.org/10.1016/j.pgeola.2017.04.004
+
 
 
 
