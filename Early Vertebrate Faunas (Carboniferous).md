@@ -400,11 +400,13 @@
 > - **Comments**: The site records drowning of a carbonate platform. *Phoebodus gothicus* and *P. limpidus* have their type localities here. Recent work confirmed *Alienacanthus* as an arthrodire with extreme lower jaw elongation rather than an acanthodian. (Ginter, 1990; Jobbins et al., 2024)
 
 #### Unnamed Formation C (deep-water carbonates), Verkhnyaya Kardailovka, South Urals, Russia
-> - **Age**:
+> - **Age**: Late Visean–Early Serpukhovian, Hypergoniatites–Ferganoceras Genozone to Uralopronorites–Cravenoceras Genozone; spanning the FAD of *Lochriea ziegleri*. (Ivanov et al., 2024; Richards et al., 2017)  
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Thrinacodus* sp., *Denaea patula*, *Denaea wangi*, *Denaea* cf. *fournieri*, *Stethacanthus* sp., *Stethacanthulus decorus*, *Kungurodus* sp., *Squatinactis multicuspidatus*, *Squatinactis* sp., Sibyrhynchidae indet. (Ivanov et al., 2024)  
+>> - Actinopterygii: Actinopterygii gen. et sp. indet. (Ivanov et al., 2024)  
+> - **Locality and horizon**: Right bank of the Ural River, opposite Verkhnyaya Kardailovka village (52°17′11.7″N, 58°55′29.0″E); Units 10–13 of Unnamed Formation C, composed of deep-water stylonodular limestone. (Ivanov et al., 2024; Richards et al., 2017) 
+> - **References**: Ivanov et al., 2024; Nikolaeva et al., 2009; Richards et al., 2017.  
+> - **Comments**: Deep-water vertebrate assemblage from a sediment-starved basin slope to marginal setting, dominated by diverse symmoriiform and squatinactiform sharks. The section provides high-resolution age control across the Viséan–Serpukhovian boundary based on the *Lochriea* conodont lineage and is a candidate GSSP locality. (Ivanov et al., 2024; Richards et al., 2017)
 
 #### Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa
 > - **Age**: Early Visean, Middle Mississipian, Carboniferous.
@@ -1878,6 +1880,7 @@ Jobbins, M., Rücklin, M., Ferrón, H. G., & Klug, C. (2024). Extreme lower jaw 
 Liszkowski, J., & Racki, G. (1993). Ichthyoliths and deepening events in the Devonian carbonate platform of the Holy Cross Mountains. *Acta Palaeontologica Polonica*, *37*(2–4), 407–426.
 
 Szrek, P. (2020). Comments on distribution and taphonomy of Devonian placoderms in the Holy Cross Mountains, Poland. *Bulletin of Geosciences*, *95*(1), 1–18. https://doi.org/10.3140/bull.geosci.1761
+
 
 
 
