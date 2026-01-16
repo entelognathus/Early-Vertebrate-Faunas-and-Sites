@@ -477,9 +477,9 @@
 
 #### St. Louis Formation/limestone, Alton, Illinois, USA
 > - **Age**: Visean
-> - **Taxa**: *Asteroptychius gracilis*, **, **
+> - **Taxa**: Chondrichthyes: *Amacanthus gibbosus*, *Antliodus arcuatus*, *Antliodus minutus*, *Antliodus mucronatus*, *Cladodus ferox*, *Cladodus magnificus*, *Cladodus spinosus*, *Cochliodus* sp., *Coelosteus ferox*, *Deltodus occidentalis*, *Deltodus spatulatus*, *Drepanacanthus reversus*, *Erismacanthus maccoyanus*, *Gampsacanthus typus*, *Harpacanthus fimbriatus*, *Marracanthus rectus*, *Oracanthus consimilis*, *Orodus* sp., *Petalodus hybridus*, *Poecilodus st-ludovici*, *Polyrhizodus amplus*, *Polyrhizodus littoni*, *Polyrhizodus lobatus*, *Psammodus glyptus*, *Psammodus plenus*, *Stenopterodus parvulus*, *Stethacanthus altonensis*, *Tanaodus praenuntius*, *Tanaodus pumilis*, *Tanaodus sculptus*, *Venustodus venustus*. (Newberry & Worthen, 1866; St. John & Worthen, 1875; St. John & Worthen, 1883; Newberry, 1889; Lund & Grogan, 2004)  
 > - **Locality and horizon**: Limestone quarry near Cloverdale, Putnam County (39°32′19″N, 86°48′12″W), upper Meramecian beds. (Itano & Duffin, 2023)  
-> - **References**: Newberry, 1897;Itano & Duffin, 2023; Maples & Waters, 1987; Newberry, 1878; Newberry, 1889; Safford, 1869.  
+> - **References**: Lund & Grogan, 2004; Newberry, 1889; Newberry & Worthen, 1866; St. John & Worthen, 1875; St. John & Worthen, 1883. 
 > - **Comments**: The St. Louis Limestone of Indiana represents a shallow-marine carbonate platform. Vertebrate remains are relatively sparse compared with the underlying Salem Limestone and coeval St. Louis Formation successions in Kentucky and Missouri. The holocephalan *Sulcacanthus schachti* is notable for its resemblance to the Jurassic *Squaloraja*, implying a long ghost lineage for squalorajoid holocephalians. Historical collections from Greencastle document large durophagous tooth plates of *Archaeobatis* and *Psammodus*. (Itano & Duffin, 2023; Newberry, 1889)
 
 #### Pendleside limestones, Pule Hill, Marsden, Yourkshire, UK
@@ -1896,6 +1896,7 @@ Newberry, J. S. (1878). Descriptions of new Paleozoic fishes. *Annals of the New
 Newberry, J. S. (1889). *The Paleozoic Fishes of North America*. Monographs of the United States Geological Survey, 16.
 
 Safford, J. M. (1869). *Geology of Tennessee*. S.C. Mercer, Printer to the State.
+
 
 
 
