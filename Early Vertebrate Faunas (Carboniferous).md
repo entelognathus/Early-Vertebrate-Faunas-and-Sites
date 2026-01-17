@@ -2061,6 +2061,15 @@ Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I.
 
 Ivanov, A. O., & Lucas, S. G. (2011). The chondrichthyan *Thrinacodus ferox* from the Late Devonian and Early Carboniferous of Russia and Kazakhstan. *Bulletin of Geosciences*, *86*(3), 609–620.
 
+Ginter, M., Hampe, O., & Duffin, C. J. (2010). Handbook of Paleoichthyology, Volume 3D: Chondrichthyes, Paleozoic Elasmobranchii: Teeth. Verlag Dr. Friedrich Pfeil.
+
+Maisey, J. G. (1981). Studies on the Paleozoic selachian genus Ctenacanthus Agassiz: No. 1. Historical review and revision of C. vetustus Agassiz. American Museum Novitates, (2718), 1-22.
+
+Newberry, J. S., & Worthen, A. H. (1866). Palaeontology. Geological Survey of Illinois, Volume II. Western Engraving Company.
+
+St. John, O., & Worthen, A. H. (1875). Palaeontology. Geological Survey of Illinois, Volume VI. State of Illinois.
+
+St. John, O., & Worthen, A. H. (1883). Palaeontology. Geological Survey of Illinois, Volume VII. State of Illinois.
 
 
 
