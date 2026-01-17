@@ -641,11 +641,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
 
 #### Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia
-> - **Age**: Visean.
-> - **Taxa**: *Bransonella nebraskensis*, *Cochliodus contortus*, *Oracanthus vetustus*
+> - **Age**: Visean. (Tulian, Aleksinian, Mikhailovian, and Venevian Regional Substages). (Lebedev, 1996; Lebedev et al., 2021)
+> - **Taxa**: 
+>> - Chondrichthyes: *Protochimaera mirabilis*, *Stethacanthus obtusus*, *Glikmanius* sp. (syn. *Symmorium occidentalis* sensu Lebedev, 1996), *Reesodus pectinatus* (syn. *Lissodus pectinatus*), *Eunemacanthus krapivnensis*, *Orodus tumidus*, *Taeniolepis trautscholdi*, *Ctenacanthus* sp., *Helodus* sp., *Psephodus* sp., *Deltodus* sp., *Copodus* sp., *Streblodus* sp. (Lebedev, 1996; Ginter et al., 2005; Koot et al., 2013; Lebedev et al., 2021)
+*Bransonella nebraskensis*, *Cochliodus contortus*, *Oracanthus vetustus*
+>> - Actinopterygii: *Acanthodes* sp. (Lebedev, 1996)
 > - **Locality and horizon**: Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia: 1, Polotnyany Zavod; 2, Vitsa; 3, Priksha River; 4, Kamenka; 5, Gryzlovo quarry; 6, Azarovo; 7, Erino; 8, Gorenki; 9, Ust-Buzuluk borehole 41.
-> - **References**: Lebedev, 1996
-> - **Comments**: 
+> - **References**: Ginter et al., 2005; Koot et al., 2013; Lebedev, 1996; Lebedev et al., 2021.
+> - **Comments**: The Tula Horizon (“Tula pipes” facies) and the overlying Oka Group (Aleksin, Mikhailov, Venev horizons) document a transition from terrigenous to shallow-marine carbonate platform environments. *Protochimaera mirabilis* from the Tulian–Aleksinian interval represents the earliest known occurrence of Chimaeriformes. (Lebedev, 1996; Lebedev et al., 2021)
 
 > - Lebedev et al., 2021: Novoselki (Tula Region); Middle Visean, Olkhovets Formation of the Tulian Regional Stage (Visean) exposed in the Demidovo-Novoselki quarry between these two villages in the Lenin District of the Tula Region. In addition to this specimen (PIN 1488/96 Protochimaera mirabilis), the collection from this bed includes the remains of the chondrichthyans Stethacanthus sp., Saivodus cf. striatus (Agassiz, 1843), ‘Helodus’ sp., ?Petalorhynchus pseudosagittatus St. John & Worthen, 1875, Petalodus sp., ?Antliodus sp., Polyrhizodus sp., ?Edestiformes gen. et sp. nov., Cochliodus sp., Poecilodus sp., Psammodus rugosus Agassiz, 1838 and Platyxystrodus striatus (McCoy, 1855).
 
@@ -2022,6 +2025,7 @@ Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebr
 St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
 
 St. John, O., & Worthen, A. H. (1883). Descriptions of fossil fishes: A partial revision of the cochliodonts and psammodonts. *Geological Survey of Illinois*, *7*, 55–264.
+
 
 
 
