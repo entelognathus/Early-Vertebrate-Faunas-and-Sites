@@ -654,9 +654,10 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 > - Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
 
-#### Timan-Pechora Province, Russia
+#### Carboniferous Stratigraphic Units, Timan-Pechora Province, Russia
 > - **Age**: Visean.
 > - **Taxa**:
+>> - Chondrichthyes: *Thrinacodus ferox*. (Ivanov & Lucas, 2011)
 > - **Locality and horizon**: Timan-Pechora Province: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
 > - **References**: Lebedev, 1996
 > - **Comments**: 
@@ -2033,6 +2034,7 @@ Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse sha
 Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environments of the East European Platform. *Geological Society, London, Special Publications*, *107*(1), 387–415. https://doi.org/10.1144/GSL.SP.1996.107.01.28
 
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
+
 
 
 
