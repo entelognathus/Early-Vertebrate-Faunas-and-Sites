@@ -793,12 +793,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Duffin & Ivanov, 2008; Kabanov et al., 2014; Lebedev et al., 2021; Lyapin & Bagirov, 2014; Skompski et al., 2001; Vinn & Mironenko, 2021.  
 > - **Comments**: Steshevian Regional Stage. The Dashkovka Member records a deep-water, hypoxic event within the Serpukhovian of the Moscow Syneclise. Lithologies comprise dark grey to black palygorskitic clays and shales with thin dolomitic siltstone intercalations deposited below the photic zone. The vertebrate assemblage is dominated by chondrichthyans, including the earliest known chimaeriform *Protochimaera mirabilis* and the anachronistid neoselachian *Ginteria fungiforma*. Low-energy, oxygen-deficient bottom waters favored preservation of disarticulated but well-preserved material and excluded most benthic invertebrates (except *Tolypammina kalugensis* and *Sphenothallus*). Occurrence of *Copodus* and *Ageleodus* indicates links to Western European Dinantian faunas, while endemic chimaeriforms suggest regional adaptation to Steshevian basin conditions. (Kabanov et al., 2014; Lebedev et al., 2021; Vinn & Mironenko, 2021)
 
-#### Fayetteville Shale, Arkansas, USA
-> - **Age**:
+#### Fayetteville Shale, Arkansas and Oklahoma, USA
+> - **Age**: Late Mississippian (Chesterian, equivalent to Serpukhovian; *Eumorphoceras* ammonoid zone). (Lund & Mapes, 1984; Pradel et al., 2014; Bronson et al., 2024)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Ozarcus mapesae* (syn. *Cobelodus* sp. sensu Maisey, 2007), *Cosmoselachus mehlingi*, *Carcharopsis wortheni* (syn. *Dicrenodus texanus*), *Cladodus ozarkensis*, *Deltodus cingulatus*. (Croneis, 1927; Lund & Mapes, 1984; Maisey, 2007; Pradel et al., 2014; Bronson et al., 2018; Bronson et al., 2024)
+>> - Actinopterygii: *Rhadinichthys* sp., *Palaeoniscum* sp. (scales). (White, 1968; Zidek, 1972)
+> - **Locality and horizon**: Lower Black Shale Member of the Fayetteville Shale; *Ozarcus* type locality at ARC-07 near Leslie, Searcy County, Arkansas (Sec. 22, T. 14 N, R. 15 W); *Cosmoselachus* from Cove Creek, Searcy County, Arkansas. (Pradel et al., 2014; Bronson et al., 2024)
+> - **References**: Bronson et al., 2018; Bronson et al., 2024; Croneis, 1927; Lund & Mapes, 1984; Maisey, 2007; Pradel et al., 2014; White, 1968; Zidek, 1972.
+> - **Comments**: A Konservat-Lagerstätte characterized by phosphatic concretions within black shale, preserving three-dimensionally articulated cartilaginous endoskeletons of chondrichthyans (e.g., branchial arches and braincases). The fauna provides key insights into early gnathostome cranial and branchial evolution and reflects deposition in a dysoxic to anoxic deep-water marine ramp environment. (Pradel et al., 2014; Bronson et al., 2024)
+
 
 #### Buffalo Wallow Formation, Kentucky, USA
 > - **Age**:
@@ -2141,6 +2144,7 @@ Newberry, J. S., & Worthen, A. H. (1866). Palaeontology. Geological Survey of Il
 St. John, O., & Worthen, A. H. (1875). Palaeontology. Geological Survey of Illinois, Volume VI. State of Illinois.
 
 St. John, O., & Worthen, A. H. (1883). Palaeontology. Geological Survey of Illinois, Volume VII. State of Illinois.
+
 
 
 
