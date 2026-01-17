@@ -2026,6 +2026,13 @@ St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geologica
 
 St. John, O., & Worthen, A. H. (1883). Descriptions of fossil fishes: A partial revision of the cochliodonts and psammodonts. *Geological Survey of Illinois*, *7*, 55–264.
 
+Ginter, M., Ivanov, A., & Lebedev, O. (2005). The revision of “*Cladodus*” occidentalis, a late Palaeozoic ctenacanthiform shark. *Acta Palaeontologica Polonica*, *50*(3), 623–631.
+
+Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. https://doi.org/10.1111/j.1475-4983.2012.01199.x
+
+Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environments of the East European Platform. *Geological Society, London, Special Publications*, *107*(1), 387–415. https://doi.org/10.1144/GSL.SP.1996.107.01.28
+
+Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
 
 
