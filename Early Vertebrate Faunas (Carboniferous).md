@@ -510,7 +510,6 @@
 > - **References**: Dineley & Metcalfe, 1999.
 > - **Comments**: Non-marine, brackish lagoon.
 
-
 #### Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland
 > - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
@@ -697,10 +696,11 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 #### Chester limestone, Chester, Illinois, USA
 > - **Age**: Serpukhovian.
-> - **Taxa**: *Ctenacanthus cannaliratus*
-> - **Locality and horizon**: Chester limestone, Chester, Illinois, USA
-> - **References**:(St. John and Worthen, 1883)
-> - **Comments**: 
+> - **Taxa**:
+>> - Chondrichthyes: *Ctenacanthus angulatus*, *Physonemus chesterensis*, *Chomatodus chesterensis*, *Antliodus sulcatus*, *Polyrhizodus irregularis*, *Petalodus linguifer*, *Deltodus parvus*, *Orodus turgidus*. (Newberry & Worthen, 1866; St. John & Worthen, 1875; St. John & Worthen, 1883; Maisey, 1981)
+> - **Locality and horizon**:Mississippi River bluffs at and near Chester, Randolph County, Illinois, USA; historically referred to as the “Chester Limestone” or “Chester Group”, corresponding to the Menard and Glen Dean Limestones in modern stratigraphic usage. (Newberry & Worthen, 1866)
+> - **References**: Ginter et al., 2010; Maisey, 1981; Newberry & Worthen, 1866; St. John & Worthen, 1875; St. John & Worthen, 1883.
+> - **Comments**: The assemblage is dominated by durophagous euchondrocephalan dentitions (petalodonts and cochliodonts) and ctenacanthoid spines, preserved in shallow-marine, bioclastic carbonate shelf deposits rich in crinoids and bryozoans. (Newberry & Worthen, 1866; St. John & Worthen, 1875)
 
 #### Chokier Formation, Belgium
 > - **Age**: Early Serpukhovian.
@@ -2060,6 +2060,7 @@ Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Visean environments
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
 Ivanov, A. O., & Lucas, S. G. (2011). The chondrichthyan *Thrinacodus ferox* from the Late Devonian and Early Carboniferous of Russia and Kazakhstan. *Bulletin of Geosciences*, *86*(3), 609–620.
+
 
 
 
