@@ -2145,6 +2145,22 @@ St. John, O., & Worthen, A. H. (1875). Palaeontology. Geological Survey of Illin
 
 St. John, O., & Worthen, A. H. (1883). Palaeontology. Geological Survey of Illinois, Volume VII. State of Illinois.
 
+Bronson, A. W., Pradel, A., Denton, J. S. S., & Maisey, J. G. (2024). A new operculate symmoriiform chondrichthyan from the Late Mississippian Fayetteville Shale (Arkansas, United States). Geodiversitas, 46(4), 101–117. https://doi.org/10.5252/geodiversitas2024v46a4
+
+Bronson, A. W., Mapes, R., & Maisey, J. G. (2018). Chondrocranial morphology of Carcharopsis wortheni (Chondrichthyes, Euselachii incertae sedis) based on new material from the Fayetteville Shale (upper Mississippian, middle Chesterian). Papers in Palaeontology, 4(3), 349–362. https://doi.org/10.1002/spp2.1110
+
+Croneis, C. (1927). Sharks from the Fayetteville Formation. Pan-American Geologist, 47, 41–46.
+
+Lund, R., & Mapes, R. H. (1984). Carcharopsis wortheni from the Fayetteville Formation (Mississippian) of Arkansas. Journal of Paleontology, 58(3), 709–717.
+
+Maisey, J. G. (2007). The braincase in Paleozoic symmoriiform and cladoselachian sharks. Bulletin of the American Museum of Natural History, 307, 1–122. https://doi.org/10.1206/0003-0090(2007)3072.0.CO;2
+
+Pradel, A., Maisey, J. G., Tafforeau, P., Mapes, R. H., & Mallatt, J. (2014). A Paleozoic shark with osteichthyan-like branchial arches. Nature, 509(7502), 608–611. https://doi.org/10.1038/nature13195
+
+White, W. D. (1968). Stratigraphy and paleontology of the Fayetteville Shale (Mississippian) in the Eco-Spring Valley area, Washington County, Arkansas (Unpublished master’s thesis). University of Arkansas.
+
+Zidek, J. (1972). Oklahoma paleoichthyology, part 1: A review and commentary. Oklahoma Geology Notes, 32(6), 171–187.
+
 
 
 
