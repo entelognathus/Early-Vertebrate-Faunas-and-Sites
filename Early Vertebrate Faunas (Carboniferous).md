@@ -2003,6 +2003,25 @@ Snyder, D., Burrow, C. J., Turner, S., Itano, W. M., den Blaauwen, J. L., & Stew
 
 Witzke, B. J., Ludvigson, G. A., & Poppe, J. R. (1990). Lithostratigraphy and depositional environments of the Mississippian in Keokuk and Washington counties, southeast Iowa. *Geological Society of Iowa Guidebook*, *54*, 1–105.
 
+Ciampaglio, C. N., Hoenig, M. M., Cicimurri, D. J., & Jacquemin, S. J. (2019). Spatial variation and diversity in chondrichthyan assemblages within the Burlington–Keokuk bone bed (Mississippian, Viséan). *Geological Society of America Abstracts with Programs*.
+
+Cicimurri, D., Ciampaglio, C. N., Hoenig, M., Shell, R., Fuelling, L., Peterman, D., & Jacquemin, S. (2024). A description of the new hybodont shark genus *Columnaodus* from the Burlington and Keokuk Limestones (Carboniferous, Mississippian, Osagean) of Illinois and Iowa, USA. *Diversity*, *16*(5), 276. https://doi.org/10.3390/d16050276
+
+Hodnett, J.-P., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2024). A new euchondrocephalan chondrichthyan from the Middle Mississippian (Viséan) of Kentucky and a reassessment of the Lower Mississippian “*Helodus*” coxanus. *Journal of Paleontology*, 1–18.
+
+Hoenig, M. M. J. (2019). *Chondrichthyan diversity within the Burlington–Keokuk Fish Bed of southeast Iowa and northwest Illinois (Mississippian: Osagean)*. MSc thesis, Ohio University.
+
+Kammer, T. W., Brenckle, P. L., Carter, J. L., & Ausich, W. I. (1990). Redefinition of the Osagean–Meramecian boundary in the Mississippian stratotype region. *Palaios*, *5*(5), 414–431.
+
+Keyes, C. R. (1895). Geology of Lee County. *Iowa Geological Survey Annual Report*, *3*, 305–407.
+
+Newberry, J. S. (1897). New species and new genus of American Paleozoic fishes. *Transactions of the New York Academy of Sciences*, *16*, 282–304.
+
+Newberry, J. S., & Worthen, A. H. (1866). Descriptions of new species of vertebrates from the sub-Carboniferous limestone of Illinois. *Geological Survey of Illinois*, *2*, 9–134.
+
+St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, *6*, 245–488.
+
+St. John, O., & Worthen, A. H. (1883). Descriptions of fossil fishes: A partial revision of the cochliodonts and psammodonts. *Geological Survey of Illinois*, *7*, 55–264.
 
 
 
