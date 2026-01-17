@@ -395,7 +395,7 @@
 >> - Chondrichthyes: *Phoebodus gothicus*, *Phoebodus limpidus*, *Phoebodus turnerae*, *Thrinacodus tranquillus*, *Thrinacodus ferox*, *Stethacanthus resistens*, *Protacrodus vetustus*, *Jalodus australiensis*, *Denaea* sp. (cf. *fournieri*), *Bransonella nebraskensis*, *Squatinactis* sp., *Ctenacanthus* aff. *costellatus*. (Ginter, 1990; Ginter et al., 2015)  
 >> - Sarcopterygii: *Onychodus* sp., Dipnoi indet. (Liszkowski & Racki, 1993; Ivanov & Ginter, 1997)  
 >> - Actinopterygii: *Moythomasia* sp. (Liszkowski & Racki, 1993) 
-> - **Locality and horizon**: Active quarry at Ostrówka Hill near Gałęzice (N 50°50′26″, E 20°24′03″); vertebrate material primarily from condensed Famennian cephalopod limestones (Clymenia beds) and the Viséan “bone bed” layers at the Todowa Grząba section. (Ginter, 1990; Ginter et al., 2015)  
+> - **Locality and horizon**: Active quarry at Ostrówka Hill near Gałęzice (N 50°50′26″, E 20°24′03″); vertebrate material primarily from condensed Famennian cephalopod limestones (Clymenia beds) and the Visean “bone bed” layers at the Todowa Grząba section. (Ginter, 1990; Ginter et al., 2015)  
 > - **References**: Ginter, 1990; Ginter et al., 2015; Ivanov & Ginter, 1997; Jobbins et al., 2024; Liszkowski & Racki, 1993; Szrek, 2020.  
 > - **Comments**: The site records drowning of a carbonate platform. *Phoebodus gothicus* and *P. limpidus* have their type localities here. Recent work confirmed *Alienacanthus* as an arthrodire with extreme lower jaw elongation rather than an acanthodian. (Ginter, 1990; Jobbins et al., 2024)
 
@@ -406,7 +406,7 @@
 >> - Actinopterygii: Actinopterygii gen. et sp. indet. (Ivanov et al., 2024)  
 > - **Locality and horizon**: Right bank of the Ural River, opposite Verkhnyaya Kardailovka village (52°17′11.7″N, 58°55′29.0″E); Units 10–13 of Unnamed Formation C, composed of deep-water stylonodular limestone. (Ivanov et al., 2024; Richards et al., 2017) 
 > - **References**: Ivanov et al., 2024; Nikolaeva et al., 2009; Richards et al., 2017.  
-> - **Comments**: Deep-water vertebrate assemblage from a sediment-starved basin slope to marginal setting, dominated by diverse symmoriiform and squatinactiform sharks. The section provides high-resolution age control across the Viséan–Serpukhovian boundary based on the *Lochriea* conodont lineage and is a candidate GSSP locality. (Ivanov et al., 2024; Richards et al., 2017)
+> - **Comments**: Deep-water vertebrate assemblage from a sediment-starved basin slope to marginal setting, dominated by diverse symmoriiform and squatinactiform sharks. The section provides high-resolution age control across the Visean–Serpukhovian boundary based on the *Lochriea* conodont lineage and is a candidate GSSP locality. (Ivanov et al., 2024; Richards et al., 2017)
 
 #### Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa
 > - **Age**: Early Visean, Middle Mississipian, Carboniferous.
@@ -497,30 +497,31 @@
 > - **Comments**: Historically misidentified as “Pendleside Limestones” by early authors, the Pule Hill fish-bearing beds are now correlated with the Marsdenian (R1) marine bands of the Millstone Grit Group. The locality is the type area of the acanthodian genus *Marsdenius* and preserves a mixed freshwater to marginal-marine vertebrate assemblage characteristic of Namurian basins in northern England. (Bromehead et al., 1933; Wellburn, 1902)
 
 #### Wardie Shales, Lower Lothian Group, Lothian, Scotland
-> - **Age**: Late Visean, Middle Mississipian, Carboniferous.
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Cosmoptychius striatus, Nematoptychius greenocki, Elonichthys robinsoni, Elonichthys striatulus, Gonatodus punctatus, Eurynotus crenatus, Wardichthys cyclosoma, Rhadinichthys brevis, Rhadinichthys carinatus, Rhadinichthys ferox, Rhadinichthys orenatissimus, Chirodus sp.
+>> - Actinopterygii: *Cosmoptychius striatus*, *Nematoptychius greenocki*, *Elonichthys robinsoni*, *Elonichthys striatulus*, *Gonatodus punctatus*, *Eurynotus crenatus*, *Wardichthys cyclosoma*, *Rhadinichthys brevis*, *Rhadinichthys carinatus*, *Rhadinichthys ferox*, *Rhadinichthys ornatissimus*, *Chirodus* sp.
 >> - Dipnoi: Unnamed dipnoan.
->> - Megalichthyidae: Megalichthys sp.
->> - Rhizodontida: Rhizodus hibberti.
->> - Elasmobranchii: Onychoselache traquari, Sphenacanthus serrulatus, Ctenacanthus sp., Diplodoselache woodi.
->> - Acanthodida: Acanthodes sulcatus. Tetrapoda: Lethiscus stocki.
+>> - Megalichthyidae: *Megalichthys* sp.
+>> - Rhizodontida: *Rhizodus hibberti*.
+>> - Elasmobranchii: *Onychoselache traquairi*, *Sphenacanthus serrulatus*, *Ctenacanthus* sp., *Diplodoselache woodi*.
+>> - Acanthodida: *Acanthodes sulcatus*.
+>> - Tetrapoda: *Lethiscus stocki*.
 > - **Locality and horizon**: Wardie Shales, Lower Lothian Group, Lothian, Scotland.
-> - **References**: 6
+> - **References**: Dineley & Metcalfe, 1999.
 > - **Comments**: Non-marine, brackish lagoon.
 
-#### Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland
-> - **Age**: Late Visean, Middle Mississipian, Carboniferous.
-> - **Taxa**:
->> - Actinopterygii: Gonatodus punctatus, Elonichthys robinsoni, Elonichthys intermedius, Cosmoptychius striatus, Nematoptychius greenocki, Rhadinichthys brevis, Rhadinichthys elegantulus, Rhadinichthys formosus, Rhadinichthys ornatissimus, Wardichthys cyclosoma.
->> - Rhizodontida: Rhizodus hibberti.
->> - Actinistia: Rhabdoderma sp.
->> - Acanthodida: Acanthodes sp.
->> - Tetrapoda: Casineria kiddi.
-> - **Locality and horizon**: Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland.
-> - **References**: 6, 267.
-> - **Comments**: Non-marine, brackish pools.
 
+#### Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
+> - **Taxa**:
+>> - Actinopterygii: *Gonatodus punctatus*, *Elonichthys robinsoni*, *Elonichthys intermedius*, *Cosmoptychius striatus*, *Nematoptychius greenocki*, *Rhadinichthys brevis*, *Rhadinichthys elegantulus*, *Rhadinichthys formosus*, *Rhadinichthys ornatissimus*, *Wardichthys cyclosoma*.
+>> - Rhizodontida: *Rhizodus hibberti*.
+>> - Actinistia: *Rhabdoderma* sp.
+>> - Acanthodida: *Acanthodes* sp.
+>> - Tetrapoda: *Casineria kiddi*.
+> - **Locality and horizon**: Cheese Bay Shrimp Bed, Gullane Formation, Lower Oil Shale Group, Calciferous Sandstone Series, East Lothian, Scotland.
+> - **References**: Dineley & Metcalfe, 1999; Paton et al., 1999.
+> - **Comments**: Non-marine, brackish pools.
 The Gullane Shrimp Bed, exposed at Cheese Bay, on the East Lothian coast.
 The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Firth of Forth, about 3 km from the centre of Edinburgh. 
 
@@ -537,39 +538,43 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 
 #### East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland
-> - **Age**: Late Visean.
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Elonichthys robinsoni, Cosmoptychius sp., Watsonichthys sp., Rhadinichthys carinatus, Mesopoma sp., Eurynotus sp., Unnamed actinopterygian.
->> - Rhizodontida: Unnamed rhizodont.
->> - Elasmobranchii: Tristychius arcuatus, Diplodocanthus woodi.
->> - Gyracanthida: Unnamed gyracanthid. Acanthodida: Acanthodes sp.
->> - Tetrapoda: Eucritta melanolimnetes, Balanerpeton woodi, Ophiderpeton kirktonense, Eldeceeon rolfei, Silvanerpeton miripedes, Westlothiana lizziae.
+>> - Actinopterygii: *Elonichthys robinsoni*, *Cosmoptychius* sp., *Watsonichthys* sp., *Rhadinichthys carinatus*, *Mesopoma* sp., *Eurynotus* sp., unnamed actinopterygian.
+>> - Rhizodontida: unnamed rhizodont.
+>> - Elasmobranchii: *Tristychius arcuatus*, *Diplodocanthus woodi*.
+>> - Gyracanthida: unnamed gyracanthid.
+>> - Acanthodida: *Acanthodes* sp.
+>> - Tetrapoda: *Eucritta melanolimnetes*, *Balanerpeton woodi*, *Ophiderpeton kirktonense*, *Eldeceeon rolfei*, *Silvanerpeton miripedes*, *Westlothiana lizziae*.
 > - **Locality and horizon**: East Kirkton Limestone, West Lothian Oil Shale Formation, Bathgate, Lothian, Scotland.
-> - **References**: 6, 268, 269.
+> - **References**: Dineley & Metcalfe, 1999; Coates, 1994; Clack, 2001.
 > - **Comments**: Non-marine, lacustrine.
 
 #### Gilmerton Blackband Ironstone, Gilmerton, Scotland
-> - **Age**: Late Visean.
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Elonichthys robinsoni, Pseudogonatodus macrolepis, Eurynotus crenatus. Dipnoi: Uronemus splendens, Ctenodus interruptus, Sagenodus quinquecostatus.
->> - Megalichthyidae: Megalichthys sp.
->> - Rhizodontida: Screbinodus ornatus, Rhizodus hibberti. Holocephali: Harpacanthus fimbriatus. Acanthodida: Acanthodes sp.
->> - Tetrapoda: Crassigyrinus scoticus, Eoherpeton watsoni, Loxomma allmanni, Pholidogaster pisciformis.
+>> - Actinopterygii: *Elonichthys robinsoni*, *Pseudogonatodus macrolepis*, *Eurynotus crenatus*.
+>> - Dipnoi: *Uronemus splendens*, *Ctenodus interruptus*, *Sagenodus quinquecostatus*.
+>> - Megalichthyidae: *Megalichthys* sp.
+>> - Rhizodontida: *Screbinodus ornatus*, *Rhizodus hibberti*.
+>> - Holocephali: *Harpacanthus fimbriatus*.
+>> - Acanthodida: *Acanthodes* sp.
+>> - Tetrapoda: *Crassigyrinus scoticus*, *Eoherpeton watsoni*, *Loxomma allmanni*, *Pholidogaster pisciformis*.
 > - **Locality and horizon**: Gilmerton Blackband Ironstone, Gilmerton, Scotland.
-> - **References**: 6, 24, 235, 259, 260, 269, 270, 271, 272.
+> - **References**: Dineley & Metcalfe, 1999; Woodward & Sherborn, 1890; Jeffery, 2006; Traquair, 1890; Turner et al., 2005; Clack, 2001; Traquair, 1877–1914; Gardiner, 1967; Traquair, 1897.
 > - **Comments**: Non-marine, lacustrine, alluvial.
 
 #### Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, Fife, Scotland
-> - **Age**: Late Visean.
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Rhadinichthys carinatus, Rhadinoniscus wrighti, Elonichthys robinsoni, Watsonichthys pectinatus, Chirodus crassus.
->> - Actinistia: Rhabdoderma ardrossense, “Coelacanthopsis” curta.
->> - Elasmobranchii: Euphyacanthus semistriatus.
->> - Holocephali: Deloptychius armigerus, Eucentrurus paradoxus, Unnamed helodont.
->> - Acanthodida: Acanthodes sulcatus.
+>> - Actinopterygii: *Rhadinichthys carinatus*, *Rhadinoniscus wrighti*, *Elonichthys robinsoni*, *Watsonichthys pectinatus*, *Chirodus crassus*.
+>> - Actinistia: *Rhabdoderma ardrossense*, “*Coelacanthopsis*” *curta*.
+>> - Elasmobranchii: *Euphyacanthus semistriatus*.
+>> - Holocephali: *Deloptychius armigerus*, *Eucentrurus paradoxus*, Helodont indet.
+>> - Acanthodida: *Acanthodes sulcatus*.
 > - **Locality and horizon**: Crangopsis Beds, Calciferous Sandstone Series, Ardross Castle, Fife, Scotland.
-> - **References**: 6.
-> - **Comments**: Marine, marine forms stranded in a saline lagoon.
+> - **References**: Dineley & Metcalfe, 1999.
+> - **Comments**: Marine; marine forms stranded in a saline lagoon.
 
 #### Black Rock Limestione, Bristol, UK
 > - **Age**: late Visean
@@ -581,7 +586,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Behan et al., 2012; Duffin, 1998; Kellaway & Welch, 1993; Richards et al., 2018; Stoddart, 1875; Whiteside & Marshall, 2008.  
 > - **Comments**: late Visean to early Serpukhovian. The autochthonous component represents a shallow-marine carbonate ramp fauna dominated by durophagous chondrichthyans (e.g., cochliodonts, orodonts) associated with crinoid and brachiopod-rich limestones. Much of the documented microvertebrate diversity is derived from insoluble residues concentrated within Late Triassic karst fissures that cut the limestone, producing a natural solution-lag assemblage (not stratigraphically Triassic in age, but trapped within Triassic fissure-fill systems). The fissures also host, in the same karst system, the type material of the Triassic dinosaur *Thecodontosaurus* (hosted physically rather than stratigraphically within the Carboniferous limestone). (Behan et al., 2012; Whiteside & Marshall, 2008; Benton et al., 2000)
 
-
 #### Cawdor Limestiones, Wirksworth, Derbyshire, UK
 > - **Age**: Late Visean (Brigantian, *Lochriea nodosa* conodont Zone). (Aitkenhead & Chisholm, 1982; Smith et al., 2017)  
 > - **Taxa**: 
@@ -589,33 +593,33 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> - Actinopterygii: Indeterminate teeth, scales, and vertebrae. (Smith et al., 2017) 
 > - **Locality and horizon**: Steeplehouse Quarry (SK 288 554), Cawdor Quarry (SK 287 606), and Baileycroft Quarry; Eyam Limestone Formation (formerly Cawdor Limestones/Group), dark bituminous facies and shale partings within crinoidal bioclastic limestones. (Ford, 1964; Smith et al., 2017)
 > - **References**: Aitkenhead & Chisholm, 1982; Duffin, 1985; Duffin & Ward, 1983; Ford, 1964; Ginter et al., 2015; Smith et al., 2017. 
-> - **Comments**: The vertebrate assemblage is dominated by chondrichthyans, especially dense concentrations of dermal denticles of *Petrodus patelliformis* (reported up to ~20% by weight) within clay partings at Steeplehouse Quarry. The fauna represents a diverse off-reef to fore-reef setting and includes early British records of neoselachians (*Cooleyella*) and hybodonts (*Reesodus*), as well as the first Viséan occurrence of the listracanthid *Acanthorhachis*. (Ford, 1964; Smith et al., 2017)
-
+> - **Comments**: The vertebrate assemblage is dominated by chondrichthyans, especially dense concentrations of dermal denticles of *Petrodus patelliformis* (reported up to ~20% by weight) within clay partings at Steeplehouse Quarry. The fauna represents a diverse off-reef to fore-reef setting and includes early British records of neoselachians (*Cooleyella*) and hybodonts (*Reesodus*), as well as the first Visean occurrence of the listracanthid *Acanthorhachis*. (Ford, 1964; Smith et al., 2017)
 
 #### Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland
-> - **Age**: Late Visean.
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Chirodus crassus, Eurynotus crenatus, Nematoptychius greenocki, Elonichthys robinsoni.
->> - Rhizodontida: Archichthys (Strepsodus) portlocki.
->> - Actinistia: Diplocercides davisi.
->> - Elasmobranchii: Tristychius arcuatus.
->> - Holocephalii: Deltoptychius armigerus.
->> - Acanthodida: Acanthodes sp.
+>> - Actinopterygii: *Chirodus crassus*, *Eurynotus crenatus*, *Nematoptychius greenocki*, *Elonichthys robinsoni*.
+>> - Rhizodontida: *Archichthys* (*Strepsodus*) *portlocki*.
+>> - Actinistia: *Diplocercides davisi*.
+>> - Elasmobranchii: *Tristychius arcuatus*.
+>> - Holocephalii: *Deltoptychius armigerus*.
+>> - Acanthodida: *Acanthodes* sp.
 > - **Locality and horizon**: Abden Bone Bed, Calciferous Sandstone Series, Fife, Scotland.
-> - **References**: 6, 24, 235, 272.
-> - **Comments**: Marine, open marine.
+> - **References**: Dineley & Metcalfe, 1999; Woodward & Sherborn, 1890; Jeffery, 2006; Traquair, 1897.
+> - **Comments**: Marine, open-marine setting.
 
 #### Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland
-> - **Age**: Late Visean.
+> - **Age**: Late Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Psuedogonatodus sp., Elonichthys robinsoni, Nematoptychius sp., Eurynotus sp.
->> - Dipnoi: Sagenodus sp., Uronemus sp.
->> - Rhizodontida: Strepstodus sp., Rhizodus hibberti.
->> - Elasmobranchii: Ageleodus sp., Cynopodius crenulatus, Pleuracanthus sp. Gyracanthida: Gyracanthus sp.
->> - Tetrapoda: Doragnathus woodi, Palaeomolgophis.
+>> - Actinopterygii: *Psuedogonatodus* sp., *Elonichthys robinsoni*, *Nematoptychius* sp., *Eurynotus* sp.
+>> - Dipnoi: *Sagenodus* sp., *Uronemus* sp.
+>> - Rhizodontida: *Strepsodus* sp., *Rhizodus hibberti*.
+>> - Elasmobranchii: *Ageleodus* sp., *Cynopodius crenulatus*, *Pleuracanthus* sp.
+>> - Gyracanthida: *Gyracanthus* sp.
+>> - Tetrapoda: *Doragnathus woodi*, *Palaeomolgophis* sp.
 > - **Locality and horizon**: Inchkeith, Upper Oil Shale Group, Firth of Forth, Fife, Scotland.
-> - **References**: 6.
-> - **Comments**: Non-marine, lacustrine. 
+> - **References**: Dineley & Metcalfe, 1999.
+> - **Comments**: Non-marine, lacustrine.
 
 #### Lower Waugh Member, Ste Genevieve Formation, Iowa, USA
 > - **Age**: Visean.
@@ -664,7 +668,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Locality and horizon**: Timan-Pechora Province: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
 > - **References**: Lebedev, 1996
 > - **Comments**: 
-
 
 ### Serpukhovian, Late Mississipian, Carboniferous
 #### Point Edward Formation, Point Edward, Sydney, Nova Scotia, Canada
@@ -836,32 +839,43 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - Essex biota (marine): *Tullimonstrum gregarium*
 > - Braidwood biota (freshwater): *Illiniichthys cozarti*
 
-#### Edlington Spoil Tip Site, Yorkshire, Doncaster, UK
-> - **Age**: lower Westphalian in NW Europe. The age of fauna is considered to be early Westphalina (late Langsettian or early Duckmantian) and flora probably from the _Lonchopteris rugosa_ Zone.
+#### Edlington Spoil Tip Site, Doncaster, South Yorkshire, UK
+> - **Age**: Early Westphalian (late Langsettian to early Duckmantian), Pennsylvanian, Carboniferous; flora referable to the *Lonchopteris rugosa* Zone.
 > - **Taxa**:
->> - **plants**: Alethopteris decurrens (Artis) Zeiller, Alethopteris urophylla (Brongniart) Presl, Neuropteris obliqua (Brongniart) Zeiller, Laveineopteris loshii (Brongniart) Cleal et al., Cyclopteris sp., Paripteris pseudogigantea (Potonié) Gothan, ?Linopteris sp., Mariopteris muricata (Brongniart) Zeiller, Eusphenopteris sauveurii (Crépin) Simson-Scharold, Palmatopteris sp., Pecopteris plumosa (Artis) Brongniart, Sphenophyllum majus (Bronn) Bronn, Annularia radiata Brongniart, Annularia gallioides (Lindley and Hutton) Kidston, Asterophyllites equisetiformis Brongniart, Asterophyllites charaeformis (Sternberg) Unger, Calamites sp., Cordaites sp., Pinnularia sp., Lepidodendron cf. ophiurus Brongniart, Ulodendron landsburgii (Kidston) Thomas, Sigillaria sp., Lepidostrobus sp., Lepidostrobophyllum sp., Cyperites bicarinatus Lindley and Hutton, Asolanus camptotaenia Wood, as well as seeds (including Cordaicarpus) and cf. Whittleseya (pollen organ), and other fragments including cf. Potoniea and numerous indeterminate cone, lycopsid and general leafy twig/shoot fragments. **bivalves**: _Carbonicola_, _Anthraconaia_, _?Acharax radiata_ (Meek and Worthen), _Myalinella_ sp. **arthropods** (primarily xiphosurans): _Euproops rotundatus_ (Prestwich). **tentaculitids (microconchids)**: _Neuropteris obliqua_, _Spirorbis_ (Taylor and Vinn, 2006)
->> -  fish scales: _Ctenodus_ sp., shark egg capsules: _Palaeoxyris_ sp, coprolites.
-> - **Locality and horizon**: Edlington Tip, Doncaster, South Yorkshire, UK
-> - **References**: Lomax, _et al_., 2016
-> - **Comments**: The fossil remains are found in siderite nodules and shales. Unfortunately, as the remains derive from a spoil tip, they are unstratified and out of context.
+>> - Plants: *Alethopteris decurrens*, *Alethopteris urophylla*, *Neuropteris obliqua*, *Laveineopteris loshii*, *Cyclopteris* sp., *Paripteris pseudogigantea*, ?*Linopteris* sp., *Mariopteris muricata*, *Eusphenopteris sauveurii*, *Palmatopteris* sp., *Pecopteris plumosa*, *Sphenophyllum majus*, *Annularia radiata*, *Annularia gallioides*, *Asterophyllites equisetiformis*, *Asterophyllites charaeformis*, *Calamites* sp., *Cordaites* sp., *Pinnularia* sp., *Lepidodendron* cf. *ophiurus*, *Ulodendron landsburgii*, *Sigillaria* sp., *Lepidostrobus* sp., *Lepidostrobophyllum* sp., *Cyperites bicarinatus*, *Asolanus camptotaenia*; seeds including *Cordaicarpus*; pollen organs cf. *Whittleseya*; additional indeterminate cones, lycopsids, and leafy twig/shoot fragments.
+>> - Bivalvia: *Carbonicola* sp., *Anthraconaia* sp., ?*Acharax radiata*, *Myalinella* sp.
+>> - Arthropoda (Xiphosura): *Euproops rotundatus*.
+>> - Tentaculitida (Microconchida): *Spirorbis* sp.
+>> - Vertebrata (ichthyoliths): fish scales of *Ctenodus* sp.; chondrichthyan egg capsules *Palaeoxyris* sp.; coprolites.
+> - **Locality and horizon**: Edlington Spoil Tip, Doncaster, South Yorkshire, UK.
+> - **References**: Lomax et al., 2016.
+> - **Comments**: Fossils occur within siderite nodules and associated shales. As material derives from a spoil tip, specimens are unstratified and lack precise stratigraphic context.
 
-#### Westphalian A (Langsettian) Lagerstatten, Lancashire, UK
-> - **Age**: Westphalian A (Langsettian), late Carboniferous
-> - **Taxa**: plants, nonmarine bivalves, crustaceans, insects, arthropleurid fragments, a euthycarcinoid,
-xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprolites
-> - **Locality and horizon**: Bickershaw, Lancashire, UK
-> - **References**: Anderson _et al_., 1997
-> - **Comments**: In common with many Upper Carboniferous Lagerstatten, the fossils are preserved within siderite nodules hosted by coal seam roof shales.
+
+#### Westphalian A (Langsettian) Lagerstätten, Lancashire, UK
+> - **Age**: Westphalian A (Langsettian), Late Carboniferous.
+> - **Taxa**:
+>> - Plants: diverse compression floras.
+>> - Bivalvia (non-marine): indeterminate taxa.
+>> - Crustacea: indeterminate taxa.
+>> - Insecta: indeterminate taxa.
+>> - Myriapoda: arthropleurid fragments.
+>> - Euthycarcinoida: indeterminate euthycarcinoid.
+>> - Xiphosura: indeterminate taxa.
+>> - Arachnida: whip scorpion; scorpion cuticle fragments.
+>> - Vertebrata (ichthyoliths): fish scales; coprolites.
+> - **Locality and horizon**: Bickershaw, Lancashire, UK.
+> - **References**: Anderson et al., 1997.
+> - **Comments**: As with many Upper Carboniferous Lagerstätten, fossils are preserved within siderite nodules hosted by coal-seam roof shales.
 
 #### Joggins Fossil Cliffs, Joggins Formation, western Cumberland County, Nova Scotia, Canada
-> - **Age**: Moscovian
+> - **Age**: Moscovian (Late Carboniferous).
 > - **Taxa**:
->> - Reptile: _Hylonomus lyelli_,
->> - Invertebrate: _Dendropupa vetusta_,
->> - Tracks: _Arthropleura_
->>
-> - **Locality and horizon**: 
-> - **References**: Grey & Finkel, 2011
+>> - Reptilia: _Hylonomus lyelli_.
+>> - Invertebrata (Gastropoda): _Dendropupa vetusta_.
+>> - Ichnofossils: trackways attributed to _Arthropleura_.
+> - **Locality and horizon**: Joggins Formation, Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada.
+> - **References**: Grey & Finkel, 2011.
 > - **Comments**：Grey & Finkel, 2011: The Joggins Fossil Cliffs site comprises a 14.7-km-long coastal section. The pioneering Canadian geologist, William Logan, first described the section at Joggins in 1843 and logged over 4 km of it in just five  days (Rygel and Shipley 2005). Over the next 150 years, the sedimentology and stratigraphy of the section were revised by several researchers, including Dawson (1868), Bell (1912, 1914, 1944) and Copeland (1959). To date, the most complete lithostratigraphic investigations of the entire Joggins section remain those by Ryan et al. (1991) and Ryan and Boehner (1994). Ryan et al. (1991) were the first to delineate and name formations and informal members in the Cumberland Group, and this work was expanded upon by Davies et al. (2005), Calder et al. (2005a) and others. Recent tectonostratigraphic work on the oldest, Mabou Group, part of the section was the subject of a M.Sc. thesis by McLeod (2010). Today, the section is considered to include units of the Early Carboniferous (Mississippian) Mabou Group (Shepody and Claremont formations) and the Late Carboniferous (Pennsylvanian) Cumberland Group (Boss Point, Little River, Joggins, Springhill Mines, and Ragged Reef formations)。
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
@@ -872,7 +886,8 @@ xiphosurans, a whip scorpion, scorpion cuticle fragments, ®sh scales and coprol
 > - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
 > - **Locality and horizon**: Zhirnovsk Quarry, Volgograd  Region, Russia
 > - **References**:(Ivanov, 2022)
-> - **Comments**: 
+> - **Comments**:
+
 #### Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
 > - **Age**: Kasimovian (Missourian)
 > - **Taxa**: chondrichthyans (*Acondylacanthus*, *Amelacanthus americanus*, *Bythiacanthus*, Hybodontidae, gen. et sp. indet., *"Physonemus" baculiformis*, *"Physonemus" stellatus*, **, **,)
@@ -1892,23 +1907,23 @@ Knight, I. (1983). *Geology of the Carboniferous Bay St. George Subbasin, wester
 
 Duffin, C. J., & Ivanov, A. (2008). New chondrichthyan teeth from the Early Carboniferous of Britain and Russia. *Acta Geologica Polonica*, *58*(2), 191–197.
 
-Kabanov, P., Anisimova, S., & Egorov, A. (2014). The upper Viséan–Serpukhovian in the type area for the Serpukhovian Stage (Moscow Basin, Russia): Part 1. Sequences, disconformities and biostratigraphic summary. *Geological Journal*, *51*(3), 380–403. https://doi.org/10.1002/gj.2612
+Kabanov, P., Anisimova, S., & Egorov, A. (2014). The upper Visean–Serpukhovian in the type area for the Serpukhovian Stage (Moscow Basin, Russia): Part 1. Sequences, disconformities and biostratigraphic summary. *Geological Journal*, *51*(3), 380–403. https://doi.org/10.1002/gj.2612
 
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
 Lyapin, V. R., & Bagirov, S. V. (2014). The first record of *Copodus* Davis, 1883 (Chondrichthyes, Copodontiformes) from the Steshevian Regional Stage (Serpukhovian, Lower Carboniferous) of the Moscow Region. *Paleontological Journal*, *48*(10), 1045–1059. https://doi.org/10.1134/S0031030114100050
 
-Skompski, S., Paszkowski, M., Kabanov, P. B., Krasnozhina, Z. V., & Perret, M. F. (2001). The depositional setting of the Lower Carboniferous (Viséan–Serpukhovian) of the Moscow Syneclise (Russia). *Geological Quarterly*, *45*(1), 21–38.
+Skompski, S., Paszkowski, M., Kabanov, P. B., Krasnozhina, Z. V., & Perret, M. F. (2001). The depositional setting of the Lower Carboniferous (Visean–Serpukhovian) of the Moscow Syneclise (Russia). *Geological Quarterly*, *45*(1), 21–38.
 
 Vinn, O., & Mironenko, A. A. (2021). Discovery of *Sphenothallus* in the Upper Mississippian of Central Russia. *Journal of Paleontology*, *95*(2), 1–7.
 
-Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
+Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Visean pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
 
 Korn, D. (1996). Revision of the Rhenish Late Visean goniatite stratigraphy. *Annales de la Société géologique de Belgique*, *117*(1), 215–224.
 
 Ginter, M. (1990). Late Famennian shark teeth from the Holy Cross Mts, Central Poland. *Acta Geologica Polonica*, *40*(1–2), 69–81.
 
-Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
+Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Visean pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
 
 Ivanov, A., & Ginter, M. (1997). Comments on the Late Devonian placoderms from the Holy Cross Mountains (Poland). *Acta Palaeontologica Polonica*, *42*(3), 413–426.
 
@@ -1924,7 +1939,7 @@ Nikolaeva, S. V., Kulagina, E. I., Pazukhin, V. N., Kochetova, N. N., & Konovalo
 
 Richards, B. C., Nikolaeva, S. V., Kulagina, E. I., Alekseev, A. S., & Gatovsky, Y. A. (2017). A candidate for the Global Stratotype Section and Point at the base of the Serpukhovian in the South Urals, Russia. *Stratigraphy and Geological Correlation*, *25*(7), 697–758.
 
-Itano, W. M., & Duffin, C. J. (2023). An enigmatic chondrichthyan spine from the Viséan of Indiana, USA that resembles a median rostral cartilage of *Squaloraja* (Holocephali, Chimaeriformes). *Spanish Journal of Palaeontology*, *38*(1), 57–68. https://doi.org/10.7203/sjp.26305
+Itano, W. M., & Duffin, C. J. (2023). An enigmatic chondrichthyan spine from the Visean of Indiana, USA that resembles a median rostral cartilage of *Squaloraja* (Holocephali, Chimaeriformes). *Spanish Journal of Palaeontology*, *38*(1), 57–68. https://doi.org/10.7203/sjp.26305
 
 Maples, C. G., & Waters, J. A. (1987). Redefinition of the Meramecian/Chesterian boundary (Mississippian). *Geology*, *15*(7), 647–651.
 
@@ -1992,9 +2007,9 @@ Duffin, C. J., & Ward, D. J. (1983). Neoselachian sharks’ teeth from the Lower
 
 Ford, T. D. (1964). A new fish bed in the Carboniferous Limestone of Derbyshire. *Mercian Geologist*, *1*(1), 3–9.
 
-Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Viséan pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
+Ginter, M., Duffin, C. J., Dean, M. T., & Korn, D. (2015). Late Visean pelagic chondrichthyans from northern Europe. *Acta Palaeontologica Polonica*, *60*(4), 899–922. https://doi.org/10.4202/app.00084.2014
 
-Smith, R., Martill, D. M., & Duffin, C. J. (2017). The shark-beds of the Eyam Limestone Formation (Lower Carboniferous, Viséan) of Steeplehouse Quarry, Wirksworth, Derbyshire, UK. *Proceedings of the Geologists’ Association*, *128*(3), 374–400. https://doi.org/10.1016/j.pgeola.2017.04.004
+Smith, R., Martill, D. M., & Duffin, C. J. (2017). The shark-beds of the Eyam Limestone Formation (Lower Carboniferous, Visean) of Steeplehouse Quarry, Wirksworth, Derbyshire, UK. *Proceedings of the Geologists’ Association*, *128*(3), 374–400. https://doi.org/10.1016/j.pgeola.2017.04.004
 
 Bolt, J. R., & Lombard, R. E. (2006). *Sigournea multidentata*, a new stem tetrapod from the Upper Mississippian of Iowa, USA. *Journal of Paleontology*, *80*(4), 717–725. https://doi.org/10.1666/0022-3360(2006)80%5B717:SMANST%5D2.0.CO;2
 
@@ -2002,7 +2017,7 @@ Bolt, J. R., & Lombard, R. E. (2010). *Deltaherpeton hiemstrae*, a new colosteid
 
 Bolt, J. R., McKay, R. M., Witzke, B. J., & McAdams, M. P. (1988). A new Lower Carboniferous tetrapod locality in Iowa. *Nature*, *333*(6175), 768–770. https://doi.org/10.1038/333768a0
 
-Hampe, O., Johnson, G. D., & Turner, S. (2006). *Dicentrodus* (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Viséan: upper St Louis Formation) of Iowa, USA. *Geological Magazine*, *143*(4), 545–549. https://doi.org/10.1017/S0016756806002093
+Hampe, O., Johnson, G. D., & Turner, S. (2006). *Dicentrodus* (Chondrichthyes: Xenacanthida) from the Early Carboniferous (Visean: upper St Louis Formation) of Iowa, USA. *Geological Magazine*, *143*(4), 545–549. https://doi.org/10.1017/S0016756806002093
 
 Lombard, R. E., & Bolt, J. R. (1995). A new primitive tetrapod, *Whatcheeria deltae*, from the Lower Carboniferous of Iowa. *Palaeontology*, *38*(3), 471–494.
 
@@ -2016,11 +2031,11 @@ Snyder, D., Burrow, C. J., Turner, S., Itano, W. M., den Blaauwen, J. L., & Stew
 
 Witzke, B. J., Ludvigson, G. A., & Poppe, J. R. (1990). Lithostratigraphy and depositional environments of the Mississippian in Keokuk and Washington counties, southeast Iowa. *Geological Society of Iowa Guidebook*, *54*, 1–105.
 
-Ciampaglio, C. N., Hoenig, M. M., Cicimurri, D. J., & Jacquemin, S. J. (2019). Spatial variation and diversity in chondrichthyan assemblages within the Burlington–Keokuk bone bed (Mississippian, Viséan). *Geological Society of America Abstracts with Programs*.
+Ciampaglio, C. N., Hoenig, M. M., Cicimurri, D. J., & Jacquemin, S. J. (2019). Spatial variation and diversity in chondrichthyan assemblages within the Burlington–Keokuk bone bed (Mississippian, Visean). *Geological Society of America Abstracts with Programs*.
 
 Cicimurri, D., Ciampaglio, C. N., Hoenig, M., Shell, R., Fuelling, L., Peterman, D., & Jacquemin, S. (2024). A description of the new hybodont shark genus *Columnaodus* from the Burlington and Keokuk Limestones (Carboniferous, Mississippian, Osagean) of Illinois and Iowa, USA. *Diversity*, *16*(5), 276. https://doi.org/10.3390/d16050276
 
-Hodnett, J.-P., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2024). A new euchondrocephalan chondrichthyan from the Middle Mississippian (Viséan) of Kentucky and a reassessment of the Lower Mississippian “*Helodus*” coxanus. *Journal of Paleontology*, 1–18.
+Hodnett, J.-P., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2024). A new euchondrocephalan chondrichthyan from the Middle Mississippian (Visean) of Kentucky and a reassessment of the Lower Mississippian “*Helodus*” coxanus. *Journal of Paleontology*, 1–18.
 
 Hoenig, M. M. J. (2019). *Chondrichthyan diversity within the Burlington–Keokuk Fish Bed of southeast Iowa and northwest Illinois (Mississippian: Osagean)*. MSc thesis, Ohio University.
 
@@ -2040,11 +2055,12 @@ Ginter, M., Ivanov, A., & Lebedev, O. (2005). The revision of “*Cladodus*” o
 
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, *56*(2), 303–343. https://doi.org/10.1111/j.1475-4983.2012.01199.x
 
-Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environments of the East European Platform. *Geological Society, London, Special Publications*, *107*(1), 387–415. https://doi.org/10.1144/GSL.SP.1996.107.01.28
+Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Visean environments of the East European Platform. *Geological Society, London, Special Publications*, *107*(1), 387–415. https://doi.org/10.1144/GSL.SP.1996.107.01.28
 
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
 Ivanov, A. O., & Lucas, S. G. (2011). The chondrichthyan *Thrinacodus ferox* from the Late Devonian and Early Carboniferous of Russia and Kazakhstan. *Bulletin of Geosciences*, *86*(3), 609–620.
+
 
 
 
