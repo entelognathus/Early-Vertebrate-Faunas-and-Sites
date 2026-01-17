@@ -626,11 +626,16 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The age assignment follows Snyder et al. (2024). The assemblage is preserved in sinkhole-fill deposits representing a freshwater to brackish lacustrine environment. It is a key “Romer’s Gap” locality, yielding one of the oldest diverse tetrapod faunas in North America, including the primitive aquatic tetrapod *Whatcheeria*. (Bolt et al., 1988; Snyder et al., 2024)
 
 #### Keokuk limestone, Keokuk, Iowa, USA
-> - **Age**: early Visean
-> - **Taxa**: *Ctenacanthus acutus*, *Ctenacanthus xiphias*, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, **, 
-> - **Locality and horizon**: Keokuk limestone, Keokuk, Iowa, USA
-> - **References**:(Eastman, 1897)
-> - **Comments**: 
+> - **Age**: Late Tournaisian–Early Visean, Mississippian (Kammer et al., 1990; Ciampaglio et al., 2019)
+> - **Taxa**: 
+>> - Chondrichthyes (Euchondrocephali): *Deltodus spatulatus*, *Deltodus occidentalis*, *Deltodus grandis*, *Sandalodus laevissimus*, *Cochliodus vanhornii*, *Cochliodus leidyi*, *Venustodus* sp., *Psammodus* sp., *Chomatodus elegans*, *Chomatodus inconstans*, *Chomatodus parallelus*, *Rotuladens coxanus* (formerly *Helodus*), *Erismacanthus maccoyanus*, *Antliodus* sp., *Polyrhizodus williamsi*, *Desmiodus? ligoniformis* (dubious). (Newberry & Worthen, 1866; St. John & Worthen, 1875; Newberry, 1897; Ciampaglio et al., 2019; Hodnett et al., 2024)
+>> - Chondrichthyes (Elasmobranchii): *Orodus daedalus*, *Orodus decussatus*, *Orodus vericostatus*, *Columnaodus witzkei*, *Thrinacodus* sp. (cf. *T. nanus*), *Stethacanthus* sp., *Ctenacanthus sculptus*, *Ctenacanthus speciosus*, *Cladodus* spp., *Lissodus?* sp., *Protacrodus* sp. (St. John & Worthen, 1875; Hoenig, 2019; Cicimurri et al., 2024)
+>> - Chondrichthyes (Petalodontiformes): *Petalodus linguifer*, *Petalodus acuminatus*, *Petalodus* sp. (Newberry & Worthen, 1866; St. John & Worthen, 1875)
+>> - Osteichthyes: Palaeonisciformes indet. (scales and teeth). (Hoenig, 2019; Ciampaglio et al., 2019)
+>> - Acanthodii: Acanthodii indet. (spines and scales). (Hoenig, 2019)
+> - **Locality and horizon**: Type section at Keokuk, Lee County, Iowa (Soap Creek); Nelson Quarry (Mediapolis, Iowa); Biggsville Quarry (Biggsville, Illinois). Fossils concentrated in the regionally extensive “Burlington–Keokuk Fish Bed” at the Burlington–Keokuk contact and within the main limestone bodies. (Keyes, 1895; Ciampaglio et al., 2019; Cicimurri et al., 2024)
+> - **References**: Ciampaglio et al., 2019; Cicimurri et al., 2024; Hodnett et al., 2024; Hoenig, 2019; Kammer et al., 1990; Keyes, 1895; Newberry & Worthen, 1866; Newberry, 1897; St. John & Worthen, 1875, 1883.
+> - **Comments**: The Keokuk Limestone represents a shallow marine carbonate ramp on the Burlington Shelf. The vertebrate assemblage is dominated by durophagous chondrichthyans (cochliodonts, petalodonts, orodonts) exploiting abundant benthic echinoderms and brachiopods. The Burlington–Keokuk Fish Bed is a condensation horizon yielding abundant microvertebrate remains through acid dissolution. *Helodus coxanus* has been reassigned to *Rotuladens*, and *Columnaodus witzkei* represents a newly described hybodont from this unit. (Hoenig, 2019; Cicimurri et al., 2024; Hodnett et al., 2024)
 
 > Late Dinantian in NW Europe 
 > East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
@@ -1997,6 +2002,7 @@ Snyder, D., Burrow, C. J., & Turner, S. (2025a). *Floydus punicellus* gen. et sp
 Snyder, D., Burrow, C. J., Turner, S., Itano, W. M., den Blaauwen, J. L., & Stewart, S. (2025b). *Cynopodius*, a long-toothed chondrichthyan from the Carboniferous of Scotland and the USA. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*. Advance online publication.
 
 Witzke, B. J., Ludvigson, G. A., & Poppe, J. R. (1990). Lithostratigraphy and depositional environments of the Mississippian in Keokuk and Washington counties, southeast Iowa. *Geological Society of Iowa Guidebook*, *54*, 1–105.
+
 
 
 
