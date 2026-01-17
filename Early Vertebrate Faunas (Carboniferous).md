@@ -247,10 +247,10 @@
 >> - Actinopterygii: *Styracopterus fulcratus*, *Phanerosteon ovensi*, *Strepheoschema fouldensis*, *Aetheretmon valentiacum*, *Cosmoptychius striatus*, *Rhadinichthys* sp.
 >> - Dipnoi: Unnamed dipnoan.
 >> - Rhizodontida: *Strepsodus aulaconamensis*, *Strepsodus* nov. sp.
->> - Actinistia: Rhabdoderma sp.
->> - Holocephalii: Lophosteus sp.
->> - Gyracanthida: Gyracanthides sp.
->> - Acanthodida: Acanthodes ovensi.
+>> - Actinistia: *Rhabdoderma* sp.
+>> - Holocephalii: *Lophosteus* sp.
+>> - Gyracanthida: *Gyracanthides* sp.
+>> - Acanthodida: *Acanthodes ovensi*.
 >> - Tetrapoda: Unnamed anthracosaur.
 > - **Locality and horizon**: Foulden fish beds, Cementstone Group, Berwickshire, Scotland. 
 > - **References**: Brazeau,2009; Woodward, 1890; White, 1925; Moy-Thomas, 1938; Gardiner,1985.
@@ -259,12 +259,12 @@
 #### TIM (Tetrapod Interval Metre), Ballagan Formation, Burnmouth, Scotland
 > - **Age**: Tournaisian, Early Mississipian, Carboniferous.
 > - **Taxa**:
->> - rhizodonts: cf. _Strepsodus sauroides_, aff. _Archichthys portlocki_;
->> - lungfishes: _Ballagadus rossi_ (Smithson _et al_., 2015), Dipnoi indet., _Uronemus splendens_, _Ctenodus roberti_, _Xylognathus macrustenus_;
->> - tetrapods: _Aytonerpton microps_ (Clark _et al_., 2016), _Diploradus austiumensis_ (Clark _et al_., 2016), aff. _Pederpes_ and _Whatcheeria_, Tetrapoda indet. (at least two taxa, Clack _et al_. 2016);
->> - Acanthodii: Gyracanthidae indet.;
->> - holocephalans: aff. Menaspiformes;
->> - actinopterygians: Actinopterygii indet.
+>> - Rhizodontida: cf. *Strepsodus sauroides*, aff. *Archichthys portlocki*.
+>> - Dipnoi: *Ballagadus rossi*, *Uronemus splendens*, *Ctenodus roberti*, *Xylognathus macrustenus*, Dipnoi indet.
+>> - Tetrapoda: *Aytonerpeton microps*, *Diploradus austiumensis*, aff. *Pederpes*, aff. *Whatcheeria*, Tetrapoda indet. (at least two taxa).
+>> - Acanthodii: Gyracanthidae indet.
+>> - Holocephalii: aff. Menaspiformes.
+>> - Actinopterygii: Actinopterygii indet.
 > - **Locality and horizon**: Ballagan Formation, Burnmouth, Scotland.
 > - **References**: Otoo *et al*., 2019
 > - **Comments**:  Otoo *et al*. (2019): The Ballagan Formation has previously been referred to as the Cementstone Group in England and the lower part of the Carboniferous Sandstone Measures in Scotland, and probably spans **the whole of the Tournaisian** (Smithson _et al_., 2012). The entire Ballagan Formation is exposed at Burnmouth, Scotland (Fig. 1), as just over 500 m of vertically dipping beds. Most of the tetrapod fossils at Burnmouth occur from 332–383 m, though there are isolated bones known from lower horizons (see Clack _et al_. 2016, fig. 6a). **The greatest concentration comes from a ~50 cm span within a highly-sampled 1 m interval at 340.5 m originally discovered by TRS. This 1 m interval contains the *Ossirarus* and *Aytonerpeton* beds (Clack et al. 2016) and is here designated the Tetrapod Interval Metre, or TIM.** The Ballagan Formation comprises 10 facies and three facies associations, each of which occur throughout the formation: (1) fluvial facies association; (2) overbank facies association; and (3) saline-hypersaline lake facies association (Bennett et al. 2016).
@@ -416,7 +416,7 @@
 >> - Gyracanthida: *Gyracanthides* sp., *Gyracanthus* sp.
 >> - Acanthodida: *Acanthodes* sp.
 > - **Locality and horizon**: Waaipoort Formation, Lake Mentz Subgroup, Witteberg Group, Cape Supergroup, South Africa.
-> - **References**: 230, 250, 251, 252.
+> - **References**: Murray, 2000; Gardiner, 1969; Jubb & Gardiner, 1975; Evans, 1999.
 > - **Comments**: Non-marine, lacustrine.
 
 #### Waaipoort Formation (Witteberg Group), Eastern Cape, South Africa
@@ -440,32 +440,35 @@
 >> - Holocephalii: *Deltoptychius armigerus*, *Antliodus scoticus*, *Chondrenchelys problematica*.
 >> - Acanthodida: *Acanthodes nitidus*.
 > - **Locality and horizon**: Glencartholm Fish Bed, Dumfiresshire, Scotland. 
-> - **References**: 1, 6, 10, 24, 39, 148, 253, 254, 255.
+> - **References**: Sepkoski, 2002; Dineley & Metcalfe, 1999; Schram, 1983; Woodward & Sherborn, 1890; Maisey, 1984; Zangerl, 1981; Moy-Thomas, 1936; Moy-Thomas & Bradley-Dyne, 1938; Coates & Gess, 2007.
 > - **Comments**: nearshore marine. The Glencartholm Fish Bed is a thin unit within the Glencartholm Volcanic Beds of the Upper Border Group of the Calciferous Sandstone (Lumsden et al., 1967).
 
-#### Burdiehouse limestone, Edinburgh, Scotland
-> - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
+#### Burdiehouse Limestone, Edinburgh, Scotland
+> - **Age**: Middle Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Elonichthys robinsoni, Elonichthys bucklandi, Elonichthys striatulus, Rhadinichthys ornatissimus, Nematoptychius greenocki, Gonatodus punctatus, Eurynotus crenatus, Elonichthys ovatus, Elonichthys striolatus.
->> - Dipnoi: Uronemus lobatus, Ctenodus sp.
->> - Megalichthyidae: Megalichthys laticeps.
->> - Rhizodontida: Rhizodus hibberti, Screbinodus ornatus.
->> - Elasmobranchii: Cladodus hibberti, Cladodus parvus, Diplodus minutus, Ptyctacanthus sublaevis, Sphenacanthus serratulus, Ageolodus pectinatus. Gyracanthida: Gyracanthides rectus. Acanthodida: Acanthodes sulcatus.
->> - Tetrapoda: Pholidogaster pisciformis, Dolichopareias disjectins.
-> - **Locality and horizon**: Burdiehouse limestone, Edinburgh, Scotland.
-> - **References**: 6, 24, 41, 148, 256, 257, 258. 259, 260.
+>> - Actinopterygii: *Elonichthys robinsoni*, *Elonichthys bucklandi*, *Elonichthys striatulus*, *Rhadinichthys ornatissimus*, *Nematoptychius greenocki*, *Gonatodus punctatus*, *Eurynotus crenatus*, *Elonichthys ovatus*, *Elonichthys striolatus*.
+>> - Dipnoi: *Uronemus lobatus*, *Ctenodus* sp.
+>> - Megalichthyidae: *Megalichthys laticeps*.
+>> - Rhizodontida: *Rhizodus hibberti*, *Screbinodus ornatus*.
+>> - Elasmobranchii: *Cladodus hibberti*, *Cladodus parvus*, *Diplodus minutus*, *Ptyctacanthus sublaevis*, *Sphenacanthus serratulus*, *Ageleodus pectinatus*.
+>> - Gyracanthida: *Gyracanthides rectus*.
+>> - Acanthodida: *Acanthodes sulcatus*.
+>> - Tetrapoda: *Pholidogaster pisciformis*, *Dolichopareias disjectus*.
+> - **Locality and horizon**: Burdiehouse Limestone, Edinburgh, Scotland.
+> - **References**: Dineley & Metcalfe, 1999; Woodward & Sherborn, 1890; Andrews et al., 1967; Zangerl, 1981; Traquair, 1877a; Traquair, 1877b; Traquair, 1890; Turner et al., 2005.
 > - **Comments**: Non-marine, lacustrine, alluvial.
 
-#### Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australiay
-> - **Age**: Middle Visean, Middle Mississipian, Carboniferous.
+#### Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australia
+> - **Age**: Middle Visean, Middle Mississippian, Carboniferous.
 > - **Taxa**:
->> - Actinopterygii: Elonichthys sp., Unnamed actinopterygian.
->> - Dipnoi: Ctenodus sp.
->> - Rhizodontida: Strepsodus sp.
->> - Elasmobranchii: Unnamed xenacanth, Unnamed hybodont, Ageolodus sp., Psammodus sp. Gyracanthida: Gyracanthides hawkinsi.
->> - Tetrapoda: Ossinodus pueri.
+>> - Actinopterygii: *Elonichthys* sp., unnamed actinopterygian.
+>> - Dipnoi: *Ctenodus* sp.
+>> - Rhizodontida: *Strepsodus* sp.
+>> - Elasmobranchii: unnamed xenacanth, unnamed hybodont, *Ageleodus* sp., *Psammodus* sp.
+>> - Gyracanthida: *Gyracanthides hawkinsi*.
+>> - Tetrapoda: *Ossinodus pueri*.
 > - **Locality and horizon**: Middle Paddock Tetrapod Unit, Ducabrook Formation, Drummond Basin, Queensland, Australia.
-> - **References**: 260, 261, 262, 263, 264, 265, 266.
+> - **References**: Turner et al., 2005; Turner, 1982; Turner et al., 1999; Johansen et al., 2000; Warren & Ptasznick, 2002; Warren & Turner, 2004; Parker & Webb, 2008.
 > - **Comments**: Non-marine, estuarine.
 
 #### St. Louis Formation/limestone, Indiana, USA
@@ -686,14 +689,16 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> - Holocephali: *Deltoptychius sp.*, Unnamed menaspid.
 >> - Acanthodida: *Acanthodes sulcatus*.
 > - **Locality and horizon**: Manse Burn Formation, Bearsden, Scotland.
-> - **References**:6, 273, 274, 275, 276, 277
+> - **References**: Dineley & Metcalfe, 1999; Wood, 1982; Coates, 1993; Coates, 1998; Coates & Sequeira, 2001; Traquair, 1881.
 > - **Comments**: Marine, coastal.
+
 #### Chester limestone, Chester, Illinois, USA
 > - **Age**: Serpukhovian.
 > - **Taxa**: *Ctenacanthus cannaliratus*
 > - **Locality and horizon**: Chester limestone, Chester, Illinois, USA
 > - **References**:(St. John and Worthen, 1883)
 > - **Comments**: 
+
 #### Chokier Formation, Belgium
 > - **Age**: Early Serpukhovian.
 > - **Taxa**:
@@ -701,22 +706,23 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> -  Actinistia: *Rhabdoderma corneti*, *Rhabdoderma stensioei*.
 >> -  Holocephali: *Physonemus konincki*.
 > - **Locality and horizon**: Chokier Formation, Belgium.
-> - **References**:205, 206.
+> - **References**: Blieck & Lelievre, 1995; Derycke et al., 1995.
 > - **Comments**:  Marine, open marine
 
-#### Blackband Ironstone/Borough Lee Ironstone/Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
+#### Blackband Ironstone / Borough Lee Ironstone / Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - **Age**: Middle Serpukhovian.
 > - **Taxa**:
->> -  Actinopterygii: Cryphiolepis striatus, Drydenius insignis, Elonichthys robinsoni, Protohaplolepis scotica, Nematoptychius greenocki, Pseudogonatodus parvidens, Eurynotus crenatus, Blairolepis loanheadensis, Watsonichthys pectinatus.
->> -  Dipnoi: Ctenodus sp., Uronemus splendens, Sagenodus quinquecostatus.
->> -  Megalichthyidae: Rhizodopsis sp.
->> -  Rhizodontidae: Rhizodus hibberti, Screbinodus ornatus, Strepsodus sauroides , Strepsodus striatulus.
->> -  Elasmobranchii: Pleuracanthus gracillimus, Pleuracanthus horridulus, Pleuracanthus elegans, Cynopodius crenulatus, Dicentrodus bicuspidatus, Diplodus parvulus. Holocephali: Euctenius elegans, Euctenodopsis tenuis.
->> -  Gyracanthida: Aganacanthus striatulus, Gyracanthus nobilis, Gyracanthus youngi.
->> -  Acanthodida: Acanthodes sp.
->> -  Tetrapoda: Caerorhachis bairdi, Unnamed aistopod, Eoherpeton watsoni, Acheroniscus caledoniae, Adelogyrinus sp., Doragnathus woodi, Loxomma sp., Papposaurus traquair, Spathicephalus mirus.
-> - **Locality and horizon**: Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland; Burghlee/Borough Lee, Edinburgh, UK
-> - **References**:6, 24, 28, 41, 148, 259, 260, 262, 271, 277, 278, 279, 280, 281, 282.
+>> - **Actinopterygii**: *Cryphiolepis striatus*, *Drydenius insignis*, *Elonichthys robinsoni*, *Protohaplolepis scotica*, *Nematoptychius greenocki*, *Pseudogonatodus parvidens*, *Eurynotus crenatus*, *Blairolepis loanheadensis*, *Watsonichthys pectinatus*.
+>> - **Dipnoi**: *Ctenodus* sp., *Uronemus splendens*, *Sagenodus quinquecostatus*.
+>> - **Megalichthyidae**: *Rhizodopsis* sp.
+>> - **Rhizodontida**: *Rhizodus hibberti*, *Screbinodus ornatus*, *Strepsodus sauroides*, *Strepsodus striatulus*.
+>> - **Elasmobranchii**: *Pleuracanthus gracillimus*, *Pleuracanthus horridulus*, *Pleuracanthus elegans*, *Cynopodius crenulatus*, *Dicentrodus bicuspidatus*, *Diplodus parvulus*.
+>> - **Holocephalii**: *Euctenius elegans*, *Euctenodopsis tenuis*.
+>> - **Gyracanthida**: *Aganacanthus striatulus*, *Gyracanthus nobilis*, *Gyracanthus youngi*.
+>> - **Acanthodida**: *Acanthodes* sp.
+>> - **Tetrapoda**: *Caerorhachis bairdi*, Unnamed aistopod, *Eoherpeton watsoni*, *Acheroniscus caledoniae*, *Adelogyrinus* sp., *Doragnathus woodi*, *Loxomma* sp., *Papposaurus traquairi*, *Spathicephalus mirus*.
+> - **Locality and horizon**: Burghlee Ironstone (Borough Lee Ironstone), Limestone Coal Group, Loanhead, Midlothian, Scotland; Borough Lee, Edinburgh, UK.
+> - **References**: Dineley & Metcalfe, 1999; Woodward & Sherborn, 1890; Denison, 1979; Andrews et al., 1967; Zangerl, 1981; Traquair, 1890; Turner et al., 2005; Turner et al., 1999; Gardiner, 1967; Traquair, 1881; Traquair, 1882; Traquair, 1903; Lowney, 1983; Smithson, 1985; Ruta et al., 2001.
 > - **Comments**: Non-marine, lacustrine. Following a drafting error in the geological section published by Traquair (1903), the Blackband Ironstone from Burghlee (Borough Lee Ironstone of Traquair 1881, 1882, 1890a) was, for a long time, erroneously thought to be equivalent to the Loanhead Ironstone No 2. This was shown to be incorrect by Smithson (1985), who demonstrated that it was instead equivalent to the Rumbles Ironstone or Loanhead Ironstone No 3. This was later verified and confirmed by Andrews and Brand (in Andrews & Carroll 1991). The Rumbles Ironstone lies above the Great Seam (Tulloch & Walton 1958), near the top of the Limestone Coal Formation in the E1a ammonoid zone of the Pendleian substage of the Namurian in Scotland (Browne et al. 1999), in the upper part of the Serpukhovian, in the upper Mississippian (Smithson et al., 2019).
 
 #### Upper Limestone Group, Niddrie, Lothian, Scotland
@@ -727,7 +733,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> - Gyracanthida: *Gyracanthus youngi*.
 >> - Tetrapoda: *Adelogyrinus* sp., *Doracanthus woodi*, unnamed anthracosaur.
 > - **Locality and horizon**: Niddrie Colliery Shale overlying South Parrot Coal Seam, Upper Limestone Group, Niddrie, Lothian, Scotland.
-> - **References**: 6, 260, 262, 281.
+> - **References**: Dineley & Metcalfe, 1999; Turner et al., 2005; Turner et al., 1999; Smithson, 1985
 > - **Comments**: Non-marine, lacustrine, coal swamp. 
 
 #### Millstone Grit, Summit, Lancashire, England
@@ -744,7 +750,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> - Gyracanthida: *Marsdenius summiti*, *Oracanthus milleri*.
 >> - Acanthodida: *Acanthodes wardi*, *Acanthodes striatus*.
 > - **Locality and horizon**: Millstone Grit, Summit, Lancashire, England.
-> - **References**: 283, 284, 285, 286.
+> - **References**: McCoy, 1848; Wellburn, 1901; Wellburn, 1903; Johnson et al., 1962.
 > - **Comments**: Marine, coastal marine. 
 
 #### Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, Scotland
@@ -756,7 +762,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> - Gyracanthida: *Gyracanthus youngi*, *Aganacanthus striatulus*.
 >> - Tetrapoda: *Eoherpeton watsoni*, *Proterogyrinus* sp., *Crassigyrinus scoticus*, *Doragnathus woodi*, *Adelogyrinus* sp., *Spathicephalus mirus*, unnamed anthracosaur.
 > - **Locality and horizon**: Dora Bone Bed, Limestone Bone Bed, Cowdenbeath, Fife, Scotland.
-> - **References**:6, 42, 235, 260, 281, 287, 288.
+> - **References**: Dineley & Metcalfe, 1999; Forey et al., 2000; Jeffery, 2006; Turner et al., 2005; Smithson, 1985; Clack, 2002; Hampe et al., 2006.
 > - **Comments**: Non-marine, lacustrine, coal swamp.
 
 #### Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA
@@ -770,7 +776,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 >> - Holocephali: *Belantsea montana*, *Debeerius ellefseni*, *Bellobonn rogaire*, *Gregorius rexi*, *Srianta dawsoni*, *Srianta iarlis*, *Srianta srianta*, *Ctenopetalus serratus*, *Janassa clarki*, *Netsepoye hawesi*, *Petalorhynchus beargulchensis*, *Polyrhizodus digitatus*, *Siksika ottae*, *Venustodus arguatus*, *Harpacanthus fimbriatus*, *Lissodus* sp., *Delphyodontos dacriformes*, *Harpagofututor volsellorhinus*, *Echinochimaera meltoni*, *Echinochimaera snyderi*, *Traquairius agkistrocephalus*, *Traquairius nudus*, *Traquairius nitidus*, *Rainerichthys zengeri*, *Papillionichthys stahlae*.
 >> - Acanthodida: *Acanthodes lundi*.
 > - **Locality and horizon**: Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
-> - **References**: 44, 289, 290, 291, 292, 293, 294, 295, Carnegie Museum of Natural History
+> - **References**: Frickhinger, 1991; Lowney, 1980; Lund & Poplin, 1999; Lund et al., 1995; Lund & Grogan, 2005; Grogan & Lund, 2008; Grogan & Lund, 2009; Mickle et al., 2009.
 > - **Comments**: Marine, reef. Bear Gulch Limestone Lagerstatte.
 > - Early Namurian in NW Europe
 
@@ -801,6 +807,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > Westphalian in NW Europe
 
 > Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2â€?315.2â€…Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
+
 #### Upper Coal Measures, Manhattan, Kansas, USA
 > - **Age**: upper Moscovian
 > - **Taxa**: *Acondylacanthus mudgianus*, **, **
@@ -2038,6 +2045,7 @@ Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environment
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
 Ivanov, A. O., & Lucas, S. G. (2011). The chondrichthyan *Thrinacodus ferox* from the Late Devonian and Early Carboniferous of Russia and Kazakhstan. *Bulletin of Geosciences*, *86*(3), 609–620.
+
 
 
 
