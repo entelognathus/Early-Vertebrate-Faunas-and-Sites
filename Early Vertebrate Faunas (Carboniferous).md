@@ -762,13 +762,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 #### Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA
 > - **Age**: Late Serpukhovian.
 > - **Taxa**:
->> - Actinopterygii: Paratarrasius hibbardi, Kalops monophrys, Kalops diophrys, Unnamed tarrasiiform, Aesopichthys erinaceus, Proceramala montanensis, Cyranorhis bergeraci, Discoserra pectinodon, Wendichthys dicksoni, Wendyichthys lautreci, Guildayichthys carnegiei, Unnamed actinopterygian “copiosus”, Unnamed actinopterygian “brevis”, Unnamed actinopterygian “prolatus”, Cornuboniscus sp., Unnamed actinopterygian “gulo”, Phanerosteon sp., Unnamed actinopterygian “lundae”, Unnamed actinopterygian “worm tail”, Unnamed actinopterygian “round tail”, Unnamed actinopterygian “spike”, Unnamed actinopterygian “BGLP”, Unnamed actinopterygian “big antorbital”, Unnamed actinopterygian “deep belly”, Unnamed actinopterygian “short vertical cheek”, Unnamed actinopterygian “nude cheek”, Unnamed actinopterygian “horizontal cheek”, Unnamed actinopterygian “fat fish”, Unnamed actinopterygian “deep scale”, Unnamed actinopterygian “long pelvic”, Unnamed actinopterygian “barred scale”, Unnamed actinopterygian “tube bod”, Unnamed actinopterygian “pseudo”, Beagiascus pulcherrimus, Lineagruan snowyi, Lineagruan judithi, Platysomus sp.
->> - Rhizodontida: Strepsodus sp.
->> - Actinistia: Allenypterus montanus, Caridosuctor populosum, Hadronector donbairdi, Lochmocercus aciculodontus, Polyosteorhynchus beargulchensis, Actinistia gen. et sp. nov.
->> - Elasmobranchii: Heteropetalus elegantulus., Squatactinus montanus, Orodus daedalus, Orodus springeri, Orodus sp., Thrinacoselache gracia, Listracanthus sp.,
->> - Symmoriiformes: Damocles serratus, Falcatus falcatus, Orestiacanthus fergusi, Stethacanthus altonensis, Stethacanthus productus.
->> - Holocephali: Bellbonn rogaire, Gregorius rexi, Srianta dawsoni, Srianta iarlis, Srianta srianta, Debeerius ellefseni, Belantsea montana, Ctenopetalus serratus, Janassa clarki, Netsepoye hawesi, Petalorhynchus beargulchensis, Polyrhizodus digitatus, Sikisika ottae, Venustodus arguatus, Harpacanthus fimbriatus, Lisgodus sp., Delphyodontos dacriformes, Harpagofututor volsellorhinus, Echinochimaera meltoni, Echinochimaera snyderi,Traquairius agkistrocephalus, Traquairius nudus, Traquairius nitidus, Rainerichthys zengeri, Papillionichthys stahlae.
->> - Acanthodida: Acanthodes lundi.
+>> - Actinopterygii: *Paratarrasius hibbardi*, *Kalops monophrys*, *Kalops diophrys*, unnamed tarrasiiform, *Aesopichthys erinaceus*, *Proceramala montanensis*, *Cyranorhis bergeraci*, *Discoserra pectinodon*, *Wendichthys dicksoni*, *Wendyichthys lautreci*, *Guildayichthys carnegiei*, unnamed actinopterygian “copiosus”, unnamed actinopterygian “brevis”, unnamed actinopterygian “prolatus”, *Cornuboniscus* sp., unnamed actinopterygian “gulo”, *Phanerosteon* sp., unnamed actinopterygian “lundae”, unnamed actinopterygian “worm tail”, unnamed actinopterygian “round tail”, unnamed actinopterygian “spike”, unnamed actinopterygian “BGLP”, unnamed actinopterygian “big antorbital”, unnamed actinopterygian “deep belly”, unnamed actinopterygian “short vertical cheek”, unnamed actinopterygian “nude cheek”, unnamed actinopterygian “horizontal cheek”, unnamed actinopterygian “fat fish”, unnamed actinopterygian “deep scale”, unnamed actinopterygian “long pelvic”, unnamed actinopterygian “barred scale”, unnamed actinopterygian “tube bod”, unnamed actinopterygian “pseudo”, *Beagiascus pulcherrimus*, *Lineagruan snowyi*, *Lineagruan judithi*, *Platysomus* sp.
+>> - Rhizodontida: *Strepsodus* sp.
+>> - Actinistia: *Allenypterus montanus*, *Caridosuctor populosum*, *Hadronector donbairdi*, *Lochmocercus aciculodontus*, *Polyosteorhynchus beargulchensis*, Actinistia gen. et sp. nov.
+>> - Elasmobranchii: *Heteropetalus elegantulus*, *Squatinactis montanus*, *Orodus daedalus*, *Orodus springeri*, *Orodus* sp., *Thrinacoselache gracia*, *Listracanthus* sp.
+>> - Symmoriiformes: *Damocles serratus*, *Falcatus falcatus*, *Orestiacanthus fergusi*, *Stethacanthus altonensis*, *Stethacanthus productus*.
+>> - Holocephali: *Belantsea montana*, *Debeerius ellefseni*, *Bellobonn rogaire*, *Gregorius rexi*, *Srianta dawsoni*, *Srianta iarlis*, *Srianta srianta*, *Ctenopetalus serratus*, *Janassa clarki*, *Netsepoye hawesi*, *Petalorhynchus beargulchensis*, *Polyrhizodus digitatus*, *Siksika ottae*, *Venustodus arguatus*, *Harpacanthus fimbriatus*, *Lissodus* sp., *Delphyodontos dacriformes*, *Harpagofututor volsellorhinus*, *Echinochimaera meltoni*, *Echinochimaera snyderi*, *Traquairius agkistrocephalus*, *Traquairius nudus*, *Traquairius nitidus*, *Rainerichthys zengeri*, *Papillionichthys stahlae*.
+>> - Acanthodida: *Acanthodes lundi*.
 > - **Locality and horizon**: Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - **References**: 44, 289, 290, 291, 292, 293, 294, 295, Carnegie Museum of Natural History
 > - **Comments**: Marine, reef. Bear Gulch Limestone Lagerstatte.
@@ -2038,6 +2038,7 @@ Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environment
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
 Ivanov, A. O., & Lucas, S. G. (2011). The chondrichthyan *Thrinacodus ferox* from the Late Devonian and Early Carboniferous of Russia and Kazakhstan. *Bulletin of Geosciences*, *86*(3), 609–620.
+
 
 
 
