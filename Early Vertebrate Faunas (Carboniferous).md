@@ -715,15 +715,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 #### Blackband Ironstone / Borough Lee Ironstone / Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - **Age**: Middle Serpukhovian.
 > - **Taxa**:
->> - **Actinopterygii**: *Cryphiolepis striatus*, *Drydenius insignis*, *Elonichthys robinsoni*, *Protohaplolepis scotica*, *Nematoptychius greenocki*, *Pseudogonatodus parvidens*, *Eurynotus crenatus*, *Blairolepis loanheadensis*, *Watsonichthys pectinatus*.
->> - **Dipnoi**: *Ctenodus* sp., *Uronemus splendens*, *Sagenodus quinquecostatus*.
->> - **Megalichthyidae**: *Rhizodopsis* sp.
->> - **Rhizodontida**: *Rhizodus hibberti*, *Screbinodus ornatus*, *Strepsodus sauroides*, *Strepsodus striatulus*.
->> - **Elasmobranchii**: *Pleuracanthus gracillimus*, *Pleuracanthus horridulus*, *Pleuracanthus elegans*, *Cynopodius crenulatus*, *Dicentrodus bicuspidatus*, *Diplodus parvulus*.
->> - **Holocephalii**: *Euctenius elegans*, *Euctenodopsis tenuis*.
->> - **Gyracanthida**: *Aganacanthus striatulus*, *Gyracanthus nobilis*, *Gyracanthus youngi*.
->> - **Acanthodida**: *Acanthodes* sp.
->> - **Tetrapoda**: *Caerorhachis bairdi*, Unnamed aistopod, *Eoherpeton watsoni*, *Acheroniscus caledoniae*, *Adelogyrinus* sp., *Doragnathus woodi*, *Loxomma* sp., *Papposaurus traquairi*, *Spathicephalus mirus*.
+>> - Actinopterygii: *Cryphiolepis striatus*, *Drydenius insignis*, *Elonichthys robinsoni*, *Protohaplolepis scotica*, *Nematoptychius greenocki*, *Pseudogonatodus parvidens*, *Eurynotus crenatus*, *Blairolepis loanheadensis*, *Watsonichthys pectinatus*.
+>> - Dipnoi: *Ctenodus* sp., *Uronemus splendens*, *Sagenodus quinquecostatus*.
+>> - Megalichthyidae: *Rhizodopsis* sp.
+>> - Rhizodontida: *Rhizodus hibberti*, *Screbinodus ornatus*, *Strepsodus sauroides*, *Strepsodus striatulus*.
+>> - Elasmobranchii: *Pleuracanthus gracillimus*, *Pleuracanthus horridulus*, *Pleuracanthus elegans*, *Cynopodius crenulatus*, *Dicentrodus bicuspidatus*, *Diplodus parvulus*.
+>> - Holocephalii: *Euctenius elegans*, *Euctenodopsis tenuis*.
+>> - Gyracanthida: *Aganacanthus striatulus*, *Gyracanthus nobilis*, *Gyracanthus youngi*.
+>> - Acanthodida: *Acanthodes* sp.
+>> - Tetrapoda: *Caerorhachis bairdi*, Unnamed aistopod, *Eoherpeton watsoni*, *Acheroniscus caledoniae*, *Adelogyrinus* sp., *Doragnathus woodi*, *Loxomma* sp., *Papposaurus traquairi*, *Spathicephalus mirus*.
 > - **Locality and horizon**: Burghlee Ironstone (Borough Lee Ironstone), Limestone Coal Group, Loanhead, Midlothian, Scotland; Borough Lee, Edinburgh, UK.
 > - **References**: Dineley & Metcalfe, 1999; Woodward & Sherborn, 1890; Denison, 1979; Andrews et al., 1967; Zangerl, 1981; Traquair, 1890; Turner et al., 2005; Turner et al., 1999; Gardiner, 1967; Traquair, 1881; Traquair, 1882; Traquair, 1903; Lowney, 1983; Smithson, 1985; Ruta et al., 2001.
 > - **Comments**: Non-marine, lacustrine. Following a drafting error in the geological section published by Traquair (1903), the Blackband Ironstone from Burghlee (Borough Lee Ironstone of Traquair 1881, 1882, 1890a) was, for a long time, erroneously thought to be equivalent to the Loanhead Ironstone No 2. This was shown to be incorrect by Smithson (1985), who demonstrated that it was instead equivalent to the Rumbles Ironstone or Loanhead Ironstone No 3. This was later verified and confirmed by Andrews and Brand (in Andrews & Carroll 1991). The Rumbles Ironstone lies above the Great Seam (Tulloch & Walton 1958), near the top of the Limestone Coal Formation in the E1a ammonoid zone of the Pendleian substage of the Namurian in Scotland (Browne et al. 1999), in the upper part of the Serpukhovian, in the upper Mississippian (Smithson et al., 2019).
@@ -792,6 +792,77 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Locality and horizon**: Kalinovskie Vyselki (Dashkovka) Quarry (N 54°55′, E 37°20′), Zaborie Quarry (N 54°53′, E 37°22′), and Borshchevsky Quarry (N 54°25′, E 36°48′); Dashkovka Member of the Gurovo Formation (Steshevian Horizon). (Kabanov et al., 2014; Lyapin & Bagirov, 2014; Vinn & Mironenko, 2021) 
 > - **References**: Duffin & Ivanov, 2008; Kabanov et al., 2014; Lebedev et al., 2021; Lyapin & Bagirov, 2014; Skompski et al., 2001; Vinn & Mironenko, 2021.  
 > - **Comments**: Steshevian Regional Stage. The Dashkovka Member records a deep-water, hypoxic event within the Serpukhovian of the Moscow Syneclise. Lithologies comprise dark grey to black palygorskitic clays and shales with thin dolomitic siltstone intercalations deposited below the photic zone. The vertebrate assemblage is dominated by chondrichthyans, including the earliest known chimaeriform *Protochimaera mirabilis* and the anachronistid neoselachian *Ginteria fungiforma*. Low-energy, oxygen-deficient bottom waters favored preservation of disarticulated but well-preserved material and excluded most benthic invertebrates (except *Tolypammina kalugensis* and *Sphenothallus*). Occurrence of *Copodus* and *Ageleodus* indicates links to Western European Dinantian faunas, while endemic chimaeriforms suggest regional adaptation to Steshevian basin conditions. (Kabanov et al., 2014; Lebedev et al., 2021; Vinn & Mironenko, 2021)
+
+#### Fayetteville Shale, Arkansas, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Buffalo Wallow Formation, Kentucky, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Hinton Formation, West Virginia, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Bluefield Formation, West Virginia, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Manning Canyon Shale, Utah, USA
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Jingyuan Formation, Gansu, China
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Stainmore Formation, Northern England, UK
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Hoyada Verde Formation, San Juan, Argentina
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Klyamshor Formation, Komi Republic, Russia
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Ghaleh Formation, Central Iran, Iran
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
@@ -2070,6 +2141,7 @@ Newberry, J. S., & Worthen, A. H. (1866). Palaeontology. Geological Survey of Il
 St. John, O., & Worthen, A. H. (1875). Palaeontology. Geological Survey of Illinois, Volume VI. State of Illinois.
 
 St. John, O., & Worthen, A. H. (1883). Palaeontology. Geological Survey of Illinois, Volume VII. State of Illinois.
+
 
 
 
