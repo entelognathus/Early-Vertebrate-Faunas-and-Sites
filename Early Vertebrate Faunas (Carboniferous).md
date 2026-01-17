@@ -2035,6 +2035,7 @@ Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environment
 
 Lebedev, O. A., Popov, E. V., Bagirov, S. V., Bolshiyanov, I. P., Kadyrov, R. I., & Statsenko, E. O. (2021). The earliest chimaeriform fish from the Carboniferous of Central Russia. *Journal of Systematic Palaeontology*, *19*(12), 821–846. https://doi.org/10.1080/14772019.2021.1977732
 
+Ivanov, A. O., & Lucas, S. G. (2011). The chondrichthyan *Thrinacodus ferox* from the Late Devonian and Early Carboniferous of Russia and Kazakhstan. *Bulletin of Geosciences*, *86*(3), 609–620.
 
 
 
