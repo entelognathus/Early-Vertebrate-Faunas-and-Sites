@@ -838,11 +838,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The vertebrate assemblage from the Bickett Shale Member (Greer) represents a “Romer’s Gap” fauna deposited in a freshwater to brackish lagoonal setting, with articulated colosteid and embolomere skeletons associated with lungfish aestivation burrows and rhizodont remains. (Elliott & Taber, 1981; Mickle, 2018)
 
 #### Manning Canyon Shale, Utah, USA
-> - **Age**:
+> - **Age**: Late Mississippian (Serpukhovian) to Early Pennsylvanian (Bashkirian); vertebrate horizons are typically assigned to the Namurian B. (Mickle, 2011; Tidwell, 1967)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Cladodus* sp. (Miller, 1981)
+>> - Acanthodii: *Utahacanthus guntheri*. (Schultze, 1990)
+>> - Actinopterygii: *Spinofacia pectinatus*, *Guntherichthys lehiensis*, *Bourbonnella jocelynae*. (Mickle, 2011)
+>> - Tetrapoda: *Utaherpeton franklini*. (Carroll et al., 1991)
+> - **Locality and horizon**: Clay pits in the Traverse Mountains (40°23'30"N, 111°57'30"W) and Lake Mountain; upper shales of the formation. (Mickle, 2011; Nelson & Tidwell, 1987)
+> - **References**: Carroll et al., 1991; Mickle, 2011; Miller, 1981; Nelson & Tidwell, 1987; Schultze, 1990; Tidwell, 1967.
+> - **Comments**: Depositional environment interpreted as a shallow, organic-rich estuarine or bay setting with fluctuating salinity, based on the association of marine (sharks), euryhaline, and terrestrial (plants, insects) elements; fossils are commonly preserved in siderite nodules. (Mickle, 2011; Schultze, 1990)
 
 #### Jingyuan Formation, Gansu, China
 > - **Age**:
@@ -2203,6 +2207,7 @@ Stamm, (2013). [Reference details not provided in your text; please paste the fu
 Thomson, K. S. (1965). On the relationships of certain Carboniferous Dipnoi: with descriptions of four new forms. *Proceedings of the Royal Society of Edinburgh. Section B. Biology*, 69(3–4), 221–245.
 
 Turner, S., & Burrow, C. J. (2011). A Lower Carboniferous (Viséan) chondrichthyan fauna from the Connors Arch, Queensland. *Memoirs of the Association of Australasian Palaeontologists*, 41, 241–264.
+
 
 
 
