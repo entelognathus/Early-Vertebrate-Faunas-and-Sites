@@ -2186,6 +2186,23 @@ Hallett, C. E., & Caetano, J. (2021). Histological evidence for a specific life 
 
 Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Romer (Amphibia: Temnospondyli). *Zoological Journal of the Linnean Society*, 76(1), 29–90.
 
+Elliott, D. K., & Taber, T. (1981). Paleoecology of the vertebrate fauna of the Bluefield Formation (Mauch Chunk Group) of southeastern West Virginia. *Geological Society of America Abstracts with Programs*, 13(7), 445.
+
+Godfrey, S. J. (1989). The postcranial skeletal anatomy of the Carboniferous tetrapod *Greererpeton burkemorani* Romer, 1969. *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 323(1213), 75–133.
+
+Holmes, R. (1984). The Carboniferous amphibian *Proterogyrinus scheelei* Romer, and the early evolution of tetrapods. *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 306(1130), 431–524.
+
+Mickle, K. E. (2018). A new lower actinopterygian fish from the Upper Mississippian Bluefield Formation of West Virginia, USA. *PeerJ*, 6, e5533. https://doi.org/10.7717/peerj.5533
+
+Romer, A. S. (1969). A temnospondylous labyrinthodont from the Lower Carboniferous. *Kirtlandia*, 6, 1–20.
+
+Romer, A. S. (1970). A new anthracosaurian labyrinthodont, *Proterogyrinus scheelei*, from the Lower Carboniferous. *Kirtlandia*, 10, 1–15.
+
+Stamm, (2013). [Reference details not provided in your text; please paste the full citation so I can format it consistently.]
+
+Thomson, K. S. (1965). On the relationships of certain Carboniferous Dipnoi: with descriptions of four new forms. *Proceedings of the Royal Society of Edinburgh. Section B. Biology*, 69(3–4), 221–245.
+
+Turner, S., & Burrow, C. J. (2011). A Lower Carboniferous (Viséan) chondrichthyan fauna from the Connors Arch, Queensland. *Memoirs of the Association of Australasian Palaeontologists*, 41, 241–264.
 
 
 
@@ -2195,7 +2212,12 @@ Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Rom
 
 
 
-Sources
+
+
+
+
+
+
 
 
 
