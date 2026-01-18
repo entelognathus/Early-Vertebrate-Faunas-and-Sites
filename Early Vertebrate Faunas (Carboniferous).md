@@ -2175,6 +2175,25 @@ Garcia, W. J., Storrs, G. W., & Greb, S. F. (2006). The Hancock County tetrapod 
 
 Greb, S. F., Storrs, G. W., Garcia, W. J., & Eble, C. F. (2016). Late Mississippian vertebrate palaeoecology and taphonomy, Buffalo Wallow Formation, western Kentucky, USA. *Lethaia*, *49*(2), 199–218. https://doi.org/10.1111/let.12138
 
+Arkle, T., Jr., Beissel, D. R., Larese, R. E., Nufer, E. B., Patchen, D. G., Smosna, R. A., Gillespie, W. H., Lund, R., Norton, C. W., & Pfefferkorn, H. W. (1979). The Mississippian and Pennsylvanian (Carboniferous) systems in the United States: West Virginia and Maryland. *U.S. Geological Survey Professional Paper*, 1110-D, 1–35.
+
+Godfrey, S. J. (1989). The postcranial skeletal anatomy of the Carboniferous tetrapod *Greererpeton burkemorani* Romer, 1969. *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 323(1213), 75–133. :contentReference[oaicite:1]{index=1}
+
+Hallett, C. E., & Caetano, J. (2021). Histological evidence for a specific life history event in the Carboniferous colosteid *Greererpeton*. *Papers in Palaeontology*. 
+
+Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Romer (Amphibia: Temnospondyli). *Zoological Journal of the Linnean Society*, 76(1), 29–90.
+
+
+
+
+
+
+
+
+
+
+Sources
+
 
 
 
