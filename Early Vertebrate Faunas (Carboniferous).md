@@ -802,13 +802,16 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Bronson et al., 2018; Bronson et al., 2024; Croneis, 1927; Lund & Mapes, 1984; Maisey, 2007; Pradel et al., 2014; White, 1968; Zidek, 1972.
 > - **Comments**: A Konservat-Lagerstätte characterized by phosphatic concretions within black shale, preserving three-dimensionally articulated cartilaginous endoskeletons of chondrichthyans (e.g., branchial arches and braincases). The fauna provides key insights into early gnathostome cranial and branchial evolution and reflects deposition in a dysoxic to anoxic deep-water marine ramp environment. (Pradel et al., 2014; Bronson et al., 2024)
 
-
 #### Buffalo Wallow Formation, Kentucky, USA
-> - **Age**:
+> - **Age**: Serpukhovian (Garcia et al., 2006; Greb et al., 2016)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Ageleodus* sp., *Cynopodius* sp., *Gyracanthus* sp., Xenacanthiformes indet. (Garcia et al., 2006; Greb et al., 2016)
+>> - Actinopterygii: Palaeonisciformes indet. (Garcia et al., 2006; Greb et al., 2016)
+>> - Sarcopterygii: cf. *Tranodis* sp., cf. *Rhizodus* sp., Rhizodontida indet. (Garcia et al., 2006; Greb et al., 2016)
+>> - Tetrapoda: *Proterogyrinus* sp., cf. *Pederpes* sp., Colosteidae indet., Anthracosauria indet. (Garcia et al., 2006; Greb et al., 2016)
+> - **Locality and horizon**: Hancock County tetrapod locality, eastern margin of the Illinois Basin. Fossils derive from multiple facies, including a heterolithic fluvial–estuarine palaeochannel (articulated *Proterogyrinus*), an oxbow or abandoned channel fill (diverse fishes and colosteids), and floodplain to lacustrine siltstones yielding disarticulated tetrapod remains. (Garcia et al., 2006; Greb et al., 2016)
+> - **References**: Garcia et al., 2006; Greb et al., 2016.
+> - **Comments**: The Buffalo Wallow Formation preserves a diverse vertebrate assemblage in a low-accommodation, incised-valley setting representing a continental to marginal-marine wetland ecosystem. The occurrence of *Proterogyrinus* (Embolomeri) and cf. *Pederpes* (Whatcheeriidae) links this fauna with other Mississippian tetrapod localities in North America and Scotland. Taphonomic modes vary by facies, with articulated remains in channel deposits and disarticulated material in oxbow and floodplain settings. Lungfish remains (cf. *Tranodis*) occur in carbonate-rich nodules interpreted as aestivation burrows, indicating seasonal dryness. The chondrichthyan assemblage includes euryhaline-tolerant taxa (*Ageleodus*, *Cynopodius*) consistent with estuarine influence. (Garcia et al., 2006; Greb et al., 2016)
 
 #### Hinton Formation, West Virginia, USA
 > - **Age**:
@@ -2160,6 +2163,7 @@ Pradel, A., Maisey, J. G., Tafforeau, P., Mapes, R. H., & Mallatt, J. (2014). A 
 White, W. D. (1968). Stratigraphy and paleontology of the Fayetteville Shale (Mississippian) in the Eco-Spring Valley area, Washington County, Arkansas (Unpublished master’s thesis). University of Arkansas.
 
 Zidek, J. (1972). Oklahoma paleoichthyology, part 1: A review and commentary. Oklahoma Geology Notes, 32(6), 171–187.
+
 
 
 
