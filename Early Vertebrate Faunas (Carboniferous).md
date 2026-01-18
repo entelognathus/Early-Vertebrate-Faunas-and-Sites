@@ -2164,6 +2164,10 @@ White, W. D. (1968). Stratigraphy and paleontology of the Fayetteville Shale (Mi
 
 Zidek, J. (1972). Oklahoma paleoichthyology, part 1: A review and commentary. Oklahoma Geology Notes, 32(6), 171–187.
 
+Garcia, W. J., Storrs, G. W., & Greb, S. F. (2006). The Hancock County tetrapod locality: A new Mississippian (Chesterian) wetlands fauna from western Kentucky (USA). *Geological Society of America Special Papers*, *399*, 155–167. https://doi.org/10.1130/2006.2399(08)
+
+Greb, S. F., Storrs, G. W., Garcia, W. J., & Eble, C. F. (2016). Late Mississippian vertebrate palaeoecology and taphonomy, Buffalo Wallow Formation, western Kentucky, USA. *Lethaia*, *49*(2), 199–218. https://doi.org/10.1111/let.12138
+
 
 
 
