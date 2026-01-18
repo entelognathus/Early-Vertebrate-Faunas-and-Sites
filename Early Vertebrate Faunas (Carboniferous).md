@@ -814,11 +814,18 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The Buffalo Wallow Formation preserves a diverse vertebrate assemblage in a low-accommodation, incised-valley setting representing a continental to marginal-marine wetland ecosystem. The occurrence of *Proterogyrinus* (Embolomeri) and cf. *Pederpes* (Whatcheeriidae) links this fauna with other Mississippian tetrapod localities in North America and Scotland. Taphonomic modes vary by facies, with articulated remains in channel deposits and disarticulated material in oxbow and floodplain settings. Lungfish remains (cf. *Tranodis*) occur in carbonate-rich nodules interpreted as aestivation burrows, indicating seasonal dryness. The chondrichthyan assemblage includes euryhaline-tolerant taxa (*Ageleodus*, *Cynopodius*) consistent with estuarine influence. (Garcia et al., 2006; Greb et al., 2016)
 
 #### Hinton Formation, West Virginia, USA
-> - **Age**:
+> - **Age**: Late Mississippian (Chesterian; Serpukhovian). (Arkle et al., 1979; Smithson, 1982)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Xenacanthus* sp. cf. *X. triodus*, *Helodus simplex*. (Arkle et al., 1979)
+>> - Actinopterygii: Trissolepid indet. (aff. *Sphaerolepis*). (Arkle et al., 1979)
+>> - Sarcopterygii: *Megalichthys* sp. (Arkle et al., 1979)
+>> - Tetrapoda: *Greererpeton burkemorani*, *Greererpeton* sp. (Smithson, 1982; Godfrey, 1989; Hallett & Caetano, 2021)
+> - **Locality and horizon**: Vertebrate fossils occur primarily in two stratigraphic contexts within the formation:
+>> - Little Stone Gap Member (formerly Avis Limestone): a marine unit of fossiliferous argillaceous limestone and calcareous shale near the middle of the formation; yields chondrichthyan and osteichthyan remains, including the first associated dentition of *Helodus simplex* reported from the Western Hemisphere. (Arkle et al., 1979)
+>> - “Hinton Bonebed” (Summers County, West Virginia): a non-marine horizon (likely channel lag or oxbow deposit) yielding disarticulated colosteid remains of *Greererpeton*, distinct from articulated specimens from the underlying Bluefield Formation (Greer Quarry). (Smithson, 1982; Godfrey, 1989; Hallett & Caetano, 2021)
+> - **References**: Arkle et al., 1979; Smithson, 1982; Godfrey, 1989; Hallett & Caetano, 2021.
+> - **Comments**: Cyclothemic transition from the marine Greenbrier Group/Bluefield Formation below to more terrestrial Princeton/Bluestone units above. Marine limestones preserve largely isolated fish teeth, spines, and scales, whereas the “Hinton Bonebed” preserves fragmentary tetrapod elements consistent with freshwater to brackish alluvial settings. (Arkle et al., 1979; Hallett & Caetano, 2021)
+
 
 #### Bluefield Formation, West Virginia, USA
 > - **Age**:
@@ -2167,6 +2174,7 @@ Zidek, J. (1972). Oklahoma paleoichthyology, part 1: A review and commentary. Ok
 Garcia, W. J., Storrs, G. W., & Greb, S. F. (2006). The Hancock County tetrapod locality: A new Mississippian (Chesterian) wetlands fauna from western Kentucky (USA). *Geological Society of America Special Papers*, *399*, 155–167. https://doi.org/10.1130/2006.2399(08)
 
 Greb, S. F., Storrs, G. W., Garcia, W. J., & Eble, C. F. (2016). Late Mississippian vertebrate palaeoecology and taphonomy, Buffalo Wallow Formation, western Kentucky, USA. *Lethaia*, *49*(2), 199–218. https://doi.org/10.1111/let.12138
+
 
 
 
