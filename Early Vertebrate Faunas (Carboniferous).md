@@ -849,11 +849,12 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Depositional environment interpreted as a shallow, organic-rich estuarine or bay setting with fluctuating salinity, based on the association of marine (sharks), euryhaline, and terrestrial (plants, insects) elements; fossils are commonly preserved in siderite nodules. (Mickle, 2011; Schultze, 1990)
 
 #### Jingyuan Formation, Gansu, China
-> - **Age**:
+> - **Age**: Serpukhovian (Late Mississippian). (Wang et al., 2004)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Stethacanthus gansuensis*, *Stethacanthus* cf. *altonensis*, *Denaea wangi*, *Denaea* sp., *Bransonella* sp. (Wang et al., 2004)
+> - **Locality and horizon**: Marine lime mudstones of the Heishan area and Ciyao section, Jingyuan County. (Wang et al., 2004)
+> - **References**: Wang et al., 2004.
+> - **Comments**: The assemblage consists of isolated ichthyoliths (teeth) recovered from shallow marine carbonates. It represents the first record of these symmoriiform and xenacanthiform shark genera in the Carboniferous of China, demonstrating paleobiogeographic affinities with North American and European palaeoequatorial marine faunas. (Wang et al., 2004)
 
 #### Stainmore Formation, Northern England, UK
 > - **Age**:
@@ -2219,6 +2220,7 @@ Nelson, C. R., & Tidwell, W. D. (1987). *Brodioptera stricklani* n. sp. (Megasec
 Schultze, H.-P. (1990). A new acanthodian from the Pennsylvanian of Utah, U.S.A., and the distribution of otoliths in gnathostomes. *Journal of Vertebrate Paleontology*, 10(1), 49–58. https://doi.org/10.1080/02724634.1990.10011789
 
 Tidwell, W. D. (1967). Flora of Manning Canyon Shale: Part I: A lowermost Pennsylvanian flora from the Manning Canyon Shale, Utah. *Brigham Young University Geology Studies*, 14, 3–66.
+
 
 
 
