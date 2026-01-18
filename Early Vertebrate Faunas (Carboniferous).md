@@ -2221,6 +2221,14 @@ Schultze, H.-P. (1990). A new acanthodian from the Pennsylvanian of Utah, U.S.A.
 
 Tidwell, W. D. (1967). Flora of Manning Canyon Shale: Part I: A lowermost Pennsylvanian flora from the Manning Canyon Shale, Utah. *Brigham Young University Geology Studies*, 14, 3–66.
 
+Wang, N.-Z., Jin, F., & Wang, W. (2004). Early Carboniferous fishes (Acanthodian, Actinopterygians and Chondrichthyes) from the east sector of North Qilian Mountain, China — Carboniferous fish sequence from the east sector of North Qilian Mountain (1). *Vertebrata PalAsiatica*, 42(2), 89–110.
+
+
+
+
+
+
+
 
 
 
