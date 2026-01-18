@@ -2208,6 +2208,24 @@ Thomson, K. S. (1965). On the relationships of certain Carboniferous Dipnoi: wit
 
 Turner, S., & Burrow, C. J. (2011). A Lower Carboniferous (Viséan) chondrichthyan fauna from the Connors Arch, Queensland. *Memoirs of the Association of Australasian Palaeontologists*, 41, 241–264.
 
+Carroll, R. L., Bybee, P., & Tidwell, W. D. (1991). The oldest microsaur (Amphibia). *Journal of Paleontology*, 65(2), 314–322.
+
+Mickle, K. E. (2011). The early actinopterygian fauna of the Manning Canyon Shale Formation (upper Mississippian, lower Pennsylvanian) of Utah, U.S.A. *Journal of Vertebrate Paleontology*, 31(5), 962–980. https://doi.org/10.1080/02724634.2011.595622
+
+Miller, W. E. (1981). Cladodont shark teeth from Utah. *Journal of Paleontology*, 55(4), 894–895.
+
+Nelson, C. R., & Tidwell, W. D. (1987). *Brodioptera stricklani* n. sp. (Megasecoptera: Brodiopteridae), a new fossil insect from the Upper Manning Canyon Shale Formation, Utah (lowermost Namurian B). *Psyche*, 94(3–4), 309–316.
+
+Schultze, H.-P. (1990). A new acanthodian from the Pennsylvanian of Utah, U.S.A., and the distribution of otoliths in gnathostomes. *Journal of Vertebrate Paleontology*, 10(1), 49–58. https://doi.org/10.1080/02724634.1990.10011789
+
+Tidwell, W. D. (1967). Flora of Manning Canyon Shale: Part I: A lowermost Pennsylvanian flora from the Manning Canyon Shale, Utah. *Brigham Young University Geology Studies*, 14, 3–66.
+
+
+
+
+
+
+
 
 
 
