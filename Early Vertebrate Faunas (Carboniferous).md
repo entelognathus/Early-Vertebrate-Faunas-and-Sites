@@ -826,13 +826,16 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Arkle et al., 1979; Smithson, 1982; Godfrey, 1989; Hallett & Caetano, 2021.
 > - **Comments**: Cyclothemic transition from the marine Greenbrier Group/Bluefield Formation below to more terrestrial Princeton/Bluestone units above. Marine limestones preserve largely isolated fish teeth, spines, and scales, whereas the “Hinton Bonebed” preserves fragmentary tetrapod elements consistent with freshwater to brackish alluvial settings. (Arkle et al., 1979; Hallett & Caetano, 2021)
 
-
 #### Bluefield Formation, West Virginia, USA
-> - **Age**:
+> - **Age**: Serpukhovian (Mickle, 2018; Stamm, 2013)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Tetrapoda: *Greererpeton burkemorani*, *Proterogyrinus scheelei*. (Godfrey, 1989; Holmes, 1984; Romer, 1969; Romer, 1970)
+>> - Actinopterygii: *Bluefieldius mercerensis*. (Mickle, 2018)
+>> - Sarcopterygii: *Tranodis castrensis*, *Strepsodus* sp. (Elliott & Taber, 1981; Thomson, 1965)
+>> - Chondrichthyes: *Gyracanthus* sp., *Cynopodius* sp. (Elliott & Taber, 1981; Turner & Burrow, 2011)
+> - **Locality and horizon**: Greer Limestone Quarry (Bickett Shale Member), Monongalia County; Glen Lyn, Mercer County (lower Bluefield Formation). (Godfrey, 1989; Mickle, 2018)
+> - **References**: Elliott & Taber, 1981; Godfrey, 1989; Holmes, 1984; Mickle, 2018; Romer, 1969; Romer, 1970; Stamm, 2013; Thomson, 1965; Turner & Burrow, 2011.
+> - **Comments**: The vertebrate assemblage from the Bickett Shale Member (Greer) represents a “Romer’s Gap” fauna deposited in a freshwater to brackish lagoonal setting, with articulated colosteid and embolomere skeletons associated with lungfish aestivation burrows and rhizodont remains. (Elliott & Taber, 1981; Mickle, 2018)
 
 #### Manning Canyon Shale, Utah, USA
 > - **Age**:
@@ -2193,6 +2196,7 @@ Smithson, T. R. (1982). The cranial morphology of *Greererpeton burkemorani* Rom
 
 
 Sources
+
 
 
 
