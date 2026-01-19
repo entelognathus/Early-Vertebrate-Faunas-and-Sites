@@ -917,7 +917,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Calder et al., 2006; Carpenter et al., 2015; Carroll, 1964; Davies et al., 2005; Holmes et al., 1998; Logan, 1845; Mann et al., 2020; Milner, 1996; Steen, 1934; Utting et al., 2010.
 > - **Comments**: A UNESCO World Heritage Site (“Coal Age Galápagos”). The formation records cyclic paralic deposition in a rapidly subsiding basin, ranging from brackish bays to coastal rainforests and alluvial plains. It is globally significant for preserving terrestrial tetrapods within hollowed erect lycopsid trunks, providing the earliest definitive records of amniotes (*Hylonomus*) and stem-synapsids (*Protoclepsydrops*). Aquatic facies yield diverse, euryhaline fish assemblages. (Calder et al., 2006; Carpenter et al., 2015; Mann et al., 2020)
 
-#### Lantern North (Wamsutta Formation), Plainville area, Massachusetts, USA
+#### Wamsutta Formation, Lantern North, Plainville, Massachusetts, USA
+> - **Age**: Late Bashkirian (Knecht et al., 2024)
+> - **Taxa**:
+>> - Amphibia: Temnospondyli indet. (skeletal remains and body impressions). (Knecht et al., 2024)
+>> - Reptilia: Amniota indet. (basal eureptiles or early reptiles). (Knecht et al., 2024)
+> - **Locality and horizon**: Lantern North locality, Plainville, Massachusetts; fossiliferous red shale and fine-grained sandstone facies of the Wamsutta Formation. (Knecht et al., 2024)
+> - **References**: Knecht et al., 2024.
+> - **Comments**: A rare upland vertebrate assemblage from a subhumid alluvial-fan system, contrasting sharply with coeval lowland coal-swamp ecosystems. Exceptional preservation includes articulated skeletal material and high-fidelity full-body impressions in oxidized redbed clastics, constituting a Konservat-Lagerstätte and providing direct evidence of early Pennsylvanian terrestrial vertebrate communities in non-coastal settings. (Knecht et al., 2024)
 
 #### Joggins Formation (Cumberland Group), Joggins Fossil Cliffs, Nova Scotia, Canada
 
@@ -2354,6 +2361,7 @@ Milner, A. R. (1996). Revision of the temnospondyl amphibians from the Upper Car
 Steen, M. C. (1934). The amphibian fauna from the South Joggins, Nova Scotia. *Proceedings of the Zoological Society of London*, *104*(3), 465–504.
 
 Utting, J., Giles, P. S., & Dolby, G. (2010). Palynostratigraphy of the Carboniferous Joggins Fossil Cliffs (UNESCO World Heritage Site), Nova Scotia, Canada. *Atlantic Geology*, *46*, 124–130.
+
 
 
 
