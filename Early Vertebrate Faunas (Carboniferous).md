@@ -2240,6 +2240,24 @@ Zhuravlev, A. V. (2025). Estimation of the degree of recrystallization of carbon
 
 Zhuravlev, A. V., Plotitsyn, A. N., Gruzdev, D. A., & Saveliev, A. D. (2025). Conulariids from the late Serpukhovian (Late Mississippian) carbonate deposits of NE Europe. *Turkish Journal of Earth Sciences*. https://doi.org/10.3906/yer-2403-3
 
+Badpa, M., Poty, E., Ashouri, A., & Khaksar, K. (2015). Fasciculate kleopatrinid corals from the Bashkirian (Late Carboniferous) of the Sardar Formation (Ozbak-Kuh Mountains, east-central Iran). *Revista Brasileira de Paleontologia*, *19*(2), 173–186.
+
+Fassihi, S., Kulagina, E. I., & Esfahani, F. S. (2020). Latest Serpukhovian foraminiferal assemblage from the Sanandaj–Sirjan Zone, Iran. *Stratigraphy and Geological Correlation*, *28*, 87–100.
+
+Hairapetian, V., Korn, D., & Bahrami, A. (2006). Viséan and Bashkirian ammonoids from Central Iran. *Acta Geologica Polonica*, *56*(3), 229–240.
+
+Ruttner, A., Nabavi, M. H., & Hajian, J. (1968). *Geology of the Shirgesht area (Tabas area, East Iran)*. Geological Survey of Iran, Report 4, 1–133.
+
+Sattari, E., Bahrami, A., Königshof, P., & Vaziri-Moghaddam, H. (2024). Biostratigraphy, microfacies, sedimentary environments and sequence stratigraphy of the Late Devonian–Carboniferous deposits at the Anarak section, Central Iran. *Geological Journal*, *97*(4), 1038–1057.
+
+Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations, Shotori Range, Iran. *Records of the Western Australian Museum*, *58*, 223–240.
+
+
+
+
+
+
+
 
 
 
