@@ -2233,6 +2233,11 @@ Owens, B., & Burgess, I. C. (1965). The stratigraphy and palynology of the Upper
 
 Scarboro, D. D., & Tucker, M. E. (1995). Amphibian footprints from the mid-Carboniferous of Northumberland, England. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 113(2–4), 335–349.
 
+Zhuravlev, A. V. (2023). Stratigraphy and correlation of the Mississippian (Lower Carboniferous) of the Pechora Basin. *Stratigraphy and Geological Correlation*, 31, 1–20.
+
+Zhuravlev, A. V. (2025). Estimation of the degree of recrystallization of carbonates from thin sections based on machine learning. *Vestnik Geonauk*, 8. https://cyberleninka.ru/article/n/otsenka-stepeni-perekristallizatsii-karbonatov-po-shlifam-na-osnove-mashinnogo-obucheniya
+
+Zhuravlev, A. V., Plotitsyn, A. N., Gruzdev, D. A., & Saveliev, A. D. (2025). Conulariids from the late Serpukhovian (Late Mississippian) carbonate deposits of NE Europe. *Turkish Journal of Earth Sciences*. https://doi.org/10.3906/yer-2403-3
 
 
 
