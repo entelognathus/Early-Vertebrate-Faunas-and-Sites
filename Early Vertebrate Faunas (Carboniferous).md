@@ -2225,6 +2225,19 @@ Tidwell, W. D. (1967). Flora of Manning Canyon Shale: Part I: A lowermost Pennsy
 
 Wang, N.-Z., Jin, F., & Wang, W. (2004). Early Carboniferous fishes (Acanthodian, Actinopterygians and Chondrichthyes) from the east sector of North Qilian Mountain, China — Carboniferous fish sequence from the east sector of North Qilian Mountain (1). *Vertebrata PalAsiatica*, 42(2), 89–110.
 
+Armstrong, G., & Price, R. H. (1954). The Coal Measures of north-east Durham. *Transactions of the Institution of Mining Engineers*, 113, 973–997.
+
+Bird, H. C., et al. (2019). A lower Carboniferous (Visean) tetrapod trackway represents the earliest record of an edopoid amphibian from the UK. *Journal of the Geological Society*, 177(2), 276–282.
+
+Burgess, I. C., & Holliday, D. W. (1979). *Geology of the country around Brough-under-Stainmore*. Memoir of the Geological Survey of Great Britain. HMSO.
+
+Davies, N. S., Garwood, R. J., McMahon, W. J., Schneider, J. W., & Shillito, A. P. (2021). The largest arthropod in Earth history: insights from newly discovered *Arthropleura* remains (Serpukhovian Stainmore Formation, Northumberland, England). *Journal of the Geological Society*, 179(3), jgs2021-115. https://doi.org/10.1144/jgs2021-115
+
+Dean, M. T., Browne, M. A. E., Waters, C. N., & Powell, J. H. (2011). A lithostratigraphical framework for the Carboniferous successions of northern Great Britain (onshore). *British Geological Survey Research Report*, RR/10/007.
+
+Owens, B., & Burgess, I. C. (1965). The stratigraphy and palynology of the Upper Carboniferous outlier of Stainmore, Westmorland. *Bulletin of the Geological Survey of Great Britain*, 23, 17–44.
+
+Scarboro, D. D., & Tucker, M. E. (1995). Amphibian footprints from the mid-Carboniferous of Northumberland, England. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 113(2–4), 335–349.
 
 
 
