@@ -874,12 +874,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Deposited on a deep carbonate platform in a quiet-water setting dominated by mudstones to wackestones. The vertebrate record is overwhelmingly composed of a diverse conodont assemblage, associated with benthic invertebrates; other vertebrate remains are rare and indeterminate. (Zhuravlev et al., 2025)
 
 #### Ghaleh Formation, Central Iran, Iran
-> - **Age**:
+> - **Age**: Late Serpukhovian to Early Bashkirian (Early Pennsylvanian). (Badpa et al., 2015; Fassihi et al., 2020; Hairapetian et al., 2006; Sattari et al., 2024)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-
+>> - Chondrichthyes: *Orodus* sp., *Cladodus* sp., *Ctenacanthus* sp., Cochliodontidae indet. (teeth and tooth-plates). (Hairapetian et al., 2006; Ruttner et al., 1968; Yazdi & Turner, 2000)
+>> - Actinopterygii: Palaeoniscidae indet. (microremains including scales and teeth). (Yazdi & Turner, 2000)
+> - **Locality and horizon**: Howz-e-Dorah section (Shotori Range) and Shesh Angosht Mountain (Shirgesht region), Tabas Block, Central Iran; vertebrate remains occur in limestone members (Unit 1 and Unit 2 equivalents) of the Ghaleh Formation (formerly Sardar 1). (Hairapetian et al., 2006; Yazdi & Turner, 2000)
+> - **References**: Badpa et al., 2015; Fassihi et al., 2020; Hairapetian et al., 2006; Ruttner et al., 1968; Sattari et al., 2024; Yazdi & Turner, 2000.
+> - **Comments**: The Ghaleh Formation (Sardar 1) represents a shallow-marine carbonate platform characterized by alternating limestone and shale. Vertebrate fossils are primarily preserved as microremains (teeth, scales, dermal denticles), commonly associated with conodont-rich horizons (e.g., *Declinognathodus noduliferus* Zone). Orodontid shark teeth were reported here for the first time from Carboniferous strata of Iran. The formation is time-equivalent to the lower part of the Sardar Group and unconformably overlies the Shishtu Formation. (Hairapetian et al., 2006; Yazdi & Turner, 2000; Sattari et al., 2024)
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
@@ -2238,6 +2239,7 @@ Zhuravlev, A. V. (2023). Stratigraphy and correlation of the Mississippian (Lowe
 Zhuravlev, A. V. (2025). Estimation of the degree of recrystallization of carbonates from thin sections based on machine learning. *Vestnik Geonauk*, 8. https://cyberleninka.ru/article/n/otsenka-stepeni-perekristallizatsii-karbonatov-po-shlifam-na-osnove-mashinnogo-obucheniya
 
 Zhuravlev, A. V., Plotitsyn, A. N., Gruzdev, D. A., & Saveliev, A. D. (2025). Conulariids from the late Serpukhovian (Late Mississippian) carbonate deposits of NE Europe. *Turkish Journal of Earth Sciences*. https://doi.org/10.3906/yer-2403-3
+
 
 
 
