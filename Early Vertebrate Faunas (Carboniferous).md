@@ -884,7 +884,28 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
-#### Late Namurian in NW Europe
+#### Millstone Grit Group (Rossendale and Marsden Formations), UK
+> - **Age**:  Bashkirian (Aitkenhead et al., 2002; Waters et al., 2011)
+> - **Taxa**:
+>> - Chondrichthyes: *Lestrodus newtoni* (syn. *Edestus newtoni*), *Edestus* sp., *Cladodus mirabilis*, *Petalodus* sp., *Lissodus* sp., *Ctenacanthus* sp. (spines), *Acondylacanthus* sp. (spines), *Campodus* sp. (Woodward, 1917; Itano, 2013; Ginter et al., 2010)
+>> - Acanthodii: *Acanthodes wardi*, *Acanthodes* sp. (Moy-Thomas, 1937; Forey & Young, 1985)
+>> - Actinopterygii: *Elonichthys aitkeni*, *Elonichthys egertoni*, *Rhadinichthys monensis*, *Platysomus* sp. (Traquair, 1877–1914; Aitkenhead et al., 2002)
+>> - Sarcopterygii: *Megalichthys* sp., *Rhizodopsis* sp., *Coelacanthus* sp. (Aitkenhead et al., 2002; Wellburn, 1901)
+>> - Amphibia: *Limnopus* sp. (ichnotaxon). (Hardy, 1970; Miller, 1986)
+> - **Locality and horizon**: Pennine Basin (e.g., Brockholes, Huddersfield; Rough Rock Flags) and North Wales (Gwespyr Sandstone); fossils concentrated in marine bands (e.g., *Cancelloceras cancellatum*) and deltaic sandstones. (Itano, 2013; Waters et al., 2011)
+> - **References**: Aitkenhead et al., 2002; Forey & Young, 1985; Ginter et al., 2010; Hardy, 1970; Itano, 2013; Miller, 1986; Moy-Thomas, 1937; Traquair, 1877–1914; Waters et al., 2011; Wellburn, 1901; Woodward, 1917.
+> - **Comments**: The *Cancelloceras cancellatum* Marine Band (Yeadonian) yields the rare eugeneodontid *Lestrodus newtoni*; *Limnopus* trackways in the Rough Rock Flags indicate tetrapod activity on emergent delta tops. (Itano, 2013; Miller, 1986)
+
+#### Vorhalle Beds (Ziegelschiefer Formation), Germany
+> - **Age**: Bashkirian (Brauckmann et al., 2003; Heidtke, 1996)
+> - **Taxa**:
+>> - Chondrichthyes: *Hagenoselache sippeli*. (Hampe & Heidtke, 1997)
+>> - Acanthodii: *Acanthodes sippeli*. (Heidtke, 1996)
+>> - Actinopterygii: *Rhadinichthys* sp., *Elonichthys* sp. (Schultze, 1995)
+> - **Locality and horizon**: Hagen-Vorhalle, Ruhr District, North Rhine–Westphalia; laminated shales of the Vorhalle Beds. (Brauckmann et al., 2003)
+> - **References**: Brauckmann et al., 2003; Hampe & Heidtke, 1997; Heidtke, 1996; Schultze, 1995.
+> - **Comments**: A Konservat-Lagerstätte preserving vertebrates in siderite concretions within fine-grained lagoonal or interdistributary bay deposits; *Acanthodes sippeli* is the dominant vertebrate. (Heidtke, 1996; Hampe & Heidtke, 1997)
+
 
 
 #### Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
@@ -2277,6 +2298,7 @@ Ruttner, A., Nabavi, M. H., & Hajian, J. (1968). *Geology of the Shirgesht area 
 Sattari, E., Bahrami, A., Königshof, P., & Vaziri-Moghaddam, H. (2024). Biostratigraphy, microfacies, sedimentary environments and sequence stratigraphy of the Late Devonian–Carboniferous deposits at the Anarak section, Central Iran. *Geological Journal*, *97*(4), 1038–1057.
 
 Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations, Shotori Range, Iran. *Records of the Western Australian Museum*, *58*, 223–240.
+
 
 
 
