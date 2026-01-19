@@ -2299,6 +2299,42 @@ Sattari, E., Bahrami, A., Königshof, P., & Vaziri-Moghaddam, H. (2024). Biostra
 
 Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations, Shotori Range, Iran. *Records of the Western Australian Museum*, *58*, 223–240.
 
+Aitkenhead, N., Barclay, W. J., Brandon, A., Chadwick, R. A., Chisholm, J. I., Cooper, A. H., & Johnson, E. W. (2002). *British Regional Geology: The Pennines and adjacent areas* (4th ed.). British Geological Survey.
+
+Brauckmann, C., Schöllmann, L., & Sippel, W. (2003). Die Fossilien der Ziegeleigrube Hagen-Vorhalle. *Geologie und Paläontologie in Westfalen*, *59*, 1–75.
+
+Forey, P. L., & Young, V. T. (1985). Acanthodian records from the Carboniferous of Britain. In *Compte Rendu, X Congrès International de Stratigraphie et de Géologie du Carbonifère, Madrid 1983* (Vol. 2, pp. 385–391).
+
+Ginter, M., Hampe, O., & Duffin, C. J. (2010). *Handbook of Paleoichthyology, Vol. 3D: Chondrichthyes: Paleozoic Elasmobranchii: Teeth*. Verlag Dr. Friedrich Pfeil.
+
+Hampe, O., & Heidtke, U. H. J. (1997). *Hagenoselache sippeli* n. gen. n. sp., ein früher xenacanthider Elasmobranchier aus dem Oberkarbon (Namurium B) von Hagen-Vorhalle (NW-Sauerland, Deutschland). *Geologie und Paläontologie in Westfalen*, *47*, 1–42.
+
+Hardy, P. G. (1970). New Carboniferous amphibian footprints from the West Riding of Yorkshire. *Proceedings of the Yorkshire Geological Society*, *38*(2), 175–181.
+
+Heidtke, U. H. J. (1996). *Acanthodes sippeli* n. sp., ein Acanthodier aus dem Namurium von Hagen-Vorhalle (NRW, Deutschland). *Geologie und Paläontologie in Westfalen*, *43*, 5–15.
+
+Itano, W. M. (2013). A tooth of *Edestus* from the early Pennsylvanian of Cheshire, UK. *Proceedings of the Yorkshire Geological Society*, *59*(3), 187–191.
+
+Miller, J. (1986). Facies relationships and palaeoecology of the non-marine Haslingden Flags, Namurian G1, Pennines. *Geological Journal*, *21*(4), 361–382.
+
+Moy-Thomas, J. A. (1937). The Carboniferous coelacanth fishes of Great Britain and Ireland. *Proceedings of the Zoological Society of London*, *B107*(3), 383–415.
+
+Schultze, H.-P. (1995). The vertebrate locality Hagen-Vorhalle (Namurian B, Upper Carboniferous). In *II International Symposium on Lithographic Limestones, Extended Abstracts* (pp. 1–13).
+
+Traquair, R. H. (1877–1914). *The ganoid fishes of the British Carboniferous formations*. Palaeontographical Society Monographs.
+
+Waters, C. N., Browne, M. A. E., Dean, M. T., & Powell, J. H. (2011). A lithostratigraphical framework for the Carboniferous successions of northern Great Britain (onshore). *British Geological Survey Research Report*, RR/10/007.
+
+Wellburn, E. D. (1901). On the fish fauna of the Millstone Grits of Great Britain. *Geological Magazine*, *8*(5), 216–222.
+
+Woodward, A. S. (1917). On a new species of *Edestus* from the Upper Carboniferous of Yorkshire. *Quarterly Journal of the Geological Society*, *72*(1–4), 1–6.
+
+
+
+
+
+
+
 
 
 
