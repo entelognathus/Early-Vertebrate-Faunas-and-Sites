@@ -2362,6 +2362,14 @@ Steen, M. C. (1934). The amphibian fauna from the South Joggins, Nova Scotia. *P
 
 Utting, J., Giles, P. S., & Dolby, G. (2010). Palynostratigraphy of the Carboniferous Joggins Fossil Cliffs (UNESCO World Heritage Site), Nova Scotia, Canada. *Atlantic Geology*, *46*, 124–130.
 
+Knecht, R. J., Benner, J. S., Swain, A., Azevedo-Schmidt, L., Cleal, C. J., Labandeira, C. C., & Engel, M. S. (2024). Early Pennsylvanian Lagerstätte reveals a diverse ecosystem on a subhumid, alluvial fan. *Nature Communications*, *15*, 7876. https://doi.org/10.1038/s41467-024-52181-0
+
+
+
+
+
+
+
 
 
 
