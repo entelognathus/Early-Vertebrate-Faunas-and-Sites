@@ -857,11 +857,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The assemblage consists of isolated ichthyoliths (teeth) recovered from shallow marine carbonates. It represents the first record of these symmoriiform and xenacanthiform shark genera in the Carboniferous of China, demonstrating paleobiogeographic affinities with North American and European palaeoequatorial marine faunas. (Wang et al., 2004)
 
 #### Stainmore Formation, Northern England, UK
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Chondrichthyes: *Diplodus* sp. [tooth] (syn. *Orthacanthus* or *Diplodoselache*). (Armstrong & Price, 1954; Owens & Burgess, 1965)
+>> - Sarcopterygii: *Rhabdoderma* sp. [scales], *Rhizodopsis* sp. [scales]. (Armstrong & Price, 1954; Owens & Burgess, 1965)
+>> - Actinopterygii: *Elonichthys* sp. [scales], *Rhadinichthys* sp. [scales], indeterminate palaeoniscid scales. (Armstrong & Price, 1954; Owens & Burgess, 1965)
+>> - Tetrapoda: *Baropezia* isp. [trackway]. (Scarboro & Tucker, 1995; Bird et al., 2019)
+> - **Locality and horizon**: Mousegill Beck to Argill Beck, Stainmore Outlier, Cumbria. Fossils concentrated in ironstones associated with marine bands, particularly the Mousegill Marine Beds (Kinderscoutian, R1) and possibly the Swinstone Middle Marine Band (Yeadonian, G1). (Owens & Burgess, 1965; Burgess & Holliday, 1979)
+> - **References**: Armstrong & Price, 1954; Bird et al., 2019; Burgess & Holliday, 1979; Davies et al., 2021; Dean et al., 2011; Owens & Burgess, 1965; Scarboro & Tucker, 1995.
+> - **Comments**: Vertebrate body fossils are dominated by disarticulated ichthyoliths (teeth and scales) preserved in sideritic ironstone nodules within marine shale intervals. The assemblage represents a mixed euryhaline to marine fauna (*Rhabdoderma*, *Elonichthys*) with freshwater inputs (*Rhizodopsis*). Although skeletal tetrapod remains are absent, tetrapod presence is confirmed by *Baropezia* trackways preserved on emergent surfaces, co-occurring with terrestrial arthropods such as *Arthropleura*. (Owens & Burgess, 1965; Davies et al., 2021; Bird et al., 2019)
 
 #### Hoyada Verde Formation, San Juan, Argentina
 > - **Age**:
@@ -2222,6 +2224,7 @@ Schultze, H.-P. (1990). A new acanthodian from the Pennsylvanian of Utah, U.S.A.
 Tidwell, W. D. (1967). Flora of Manning Canyon Shale: Part I: A lowermost Pennsylvanian flora from the Manning Canyon Shale, Utah. *Brigham Young University Geology Studies*, 14, 3–66.
 
 Wang, N.-Z., Jin, F., & Wang, W. (2004). Early Carboniferous fishes (Acanthodian, Actinopterygians and Chondrichthyes) from the east sector of North Qilian Mountain, China — Carboniferous fish sequence from the east sector of North Qilian Mountain (1). *Vertebrata PalAsiatica*, 42(2), 89–110.
+
 
 
 
