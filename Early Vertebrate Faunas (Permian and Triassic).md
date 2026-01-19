@@ -524,15 +524,17 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 #### San Angelo Formation, north-central Texas, USA
 > - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**: 
->> - Caseidae: *Angelosaurus dolani*, *Caseoides sanangeloensis*.
+>> - Caseidae: *Angelosaurus dolani*, *Caseoides sanangeloensis*, Caseopsis agilis, Cotylorhynchus hancocki
 >> - Sphenacodontidae: *Dimetrodon angelensis*.
-> - **Locality and horizon**: The San Angelo Formation crops out in north‑central Texas (Hardeman, Foard, Jones counties) as the basal unit of the Pease River Group; vertebrate fossils occur in red shales, sandstones and conglomerates of flood‑plain deposits between the underlying Choza Formation (Clear Fork Group) and the overlying Blaine Formation.
+>> - Dimacrodon hottoni, Driveria	ponderosa,	Eosyodon hudsoni, Gorgodon minutus, Knoxosaurus	niteckii, Mastersonia	driverensis, Tappenosaurus	magnus
+> - **Locality and horizon**: 
 > - **References**: Olson & Beerbower, 1953; Beede & Waite, 1918.
-> - **Comments**:
+> - **Comments**: The San Angelo Formation crops out in north‑central Texas (Hardeman, Foard, Jones counties) as the basal unit of the Pease River Group; vertebrate fossils occur in red shales, sandstones and conglomerates of flood‑plain deposits between the underlying Choza Formation (Clear Fork Group) and the overlying Blaine Formation. Some studies argued that the San Angelo Formation belongs to the Kungurian stage of the Cisuralian series because it underlies the Blaine Formation, which is, according to the same studies, either upper Kungurian or lower Guadalupian. However, a recent study concluded that Olson was correct in regarding the San Angelo Formation as belonging to the Roadian, and that the Blaine Formation also dates from the Roadian.
 
 #### Cutoff Formation, Guadalupe Mountains, West Texas, USA
 > - **Age**: Roadian, Guadalupian, Permian.
-> - **Taxa**: Stethacanthulus decorus (Ivanov 1999), Kungurodus sp., Glikmanius myachkovensis (Lebedev 2001), Alilepis texasensis Bakaev 2021, Hybodontiformes indet., phenacanthus sp., Cooleyella amazonensis Duffin, Richter and Neis 199S, Cooleyella sp., Reifella lata Ivanov,2021, Adamantina foliacea Ivanov 1999, Isacrodus marthae Ivanov, Nestell and Nestell 2012, Isacrodus sp., Euchondrocephali indet.
+> - **Taxa**:
+>> - Chondrichthyes: *Stethacanthulus decorus* (Ivanov 1999), *Kungurodus* sp., *Glikmanius myachkovensis* (Lebedev 2001), *Alilepis texasensis* Bakaev 2021, Hybodontiformes indet., *Phenacanthus* sp., *Cooleyella amazonensis* Duffin, Richter and Neis 199S, *Cooleyella* sp., *Reifella lata* Ivanov,2021, *Adamantina foliacea* Ivanov 1999, *Isacrodus marthae* Ivanov, Nestell and Nestell 2012, *Isacrodus* sp., Euchondrocephali indet.
 > - **Locality and horizon**: Williams Ranch Member, Cutoff Formation, Guadalupe Mountains, West Texas, USA.
 > - **References**: Ivanov et al. (2021)
 > - **Comments**
@@ -3677,6 +3679,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
