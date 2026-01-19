@@ -884,9 +884,35 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 ## Pennsylvanian
 ### Bashkirian, Early Pennsylvanian, Carboniferous
-> Late Namurian in NW Europe
->
-> Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
+#### Late Namurian in NW Europe
+
+
+#### Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada: Hylonomus lyelli
+
+
+#### Lantern North (Wamsutta Formation), Plainville area, Massachusetts, USA
+
+#### Joggins Formation (Cumberland Group), Joggins Fossil Cliffs, Nova Scotia, Canada
+
+#### Rams Head (upper Parrsboro Formation), near Parrsboro, Cumberland County, Nova Scotia, Canada
+
+#### Bochum Formation, Ruhr area, Germany
+
+#### Ardenrigg Colliery waste tips (Scottish Lower Coal Measures Formation), Wester Bracco area, North Lanarkshire, Scotland, UK
+
+#### Sholaksay section, western Kazakhstan
+
+#### Naqing section, Guizhou Province, South China
+
+#### Narao section, Guizhou Province, South China
+
+#### Shanglong section, Guizhou Province, South China
+
+#### Aksu section, Uzbekistan
+
+#### Ghaleh Formation (Sardar 1 Formation), Howz-e-Dorah section and Shesh Angosht Mountain area, Tabas Block, Central Iran
+
+#### Clare Shale Formation, Fisherstreet Bay (Doolin area), County Clare, Ireland
 
 #### Mazon Creek, Morris, Grundy County, Illinois, USA
 > - **Age**: Moscovian
@@ -2251,6 +2277,7 @@ Ruttner, A., Nabavi, M. H., & Hajian, J. (1968). *Geology of the Shirgesht area 
 Sattari, E., Bahrami, A., Königshof, P., & Vaziri-Moghaddam, H. (2024). Biostratigraphy, microfacies, sedimentary environments and sequence stratigraphy of the Late Devonian–Carboniferous deposits at the Anarak section, Central Iran. *Geological Journal*, *97*(4), 1038–1057.
 
 Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations, Shotori Range, Iran. *Records of the Western Australian Museum*, *58*, 223–240.
+
 
 
 
