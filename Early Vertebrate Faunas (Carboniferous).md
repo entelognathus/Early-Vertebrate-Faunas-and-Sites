@@ -2335,6 +2335,32 @@ Wellburn, E. D. (1901). On the fish fauna of the Millstone Grits of Great Britai
 
 Woodward, A. S. (1917). On a new species of *Edestus* from the Upper Carboniferous of Yorkshire. *Quarterly Journal of the Geological Society*, *72*(1–4), 1–6.
 
+Calder, J. H., Rygel, M. C., Ryan, R. J., Falcon-Lang, H. J., & Hebert, B. L. (2006). Stratigraphy and sedimentology of early Pennsylvanian red beds at Lower Cove, Nova Scotia, Canada: the Little River Formation with redefinition of the Joggins Formation. *Atlantic Geology*, *41*(2–3), 143–167.
+
+Carpenter, D. K., Falcon-Lang, H. J., Benton, M. J., & Grey, M. (2015). Early Pennsylvanian (Langsettian) fish assemblages from the Joggins Formation, Canada, and their implications for palaeoecology and palaeogeography. *Palaeontology*, *58*(4), 661–690.
+
+Carroll, R. L. (1964). The earliest reptiles. *Journal of the Linnean Society of London, Zoology*, *45*(304), 61–83.
+
+Davies, S. J., Gibling, M. R., Rygel, M. C., Calder, J. H., & Skilliter, D. M. (2005). The Pennsylvanian Joggins Formation of Nova Scotia: sedimentological log and stratigraphic framework of the historic fossil cliffs. *Atlantic Geology*, *41*(2–3), 115–142.
+
+Holmes, R. B., Carroll, R. L., & Reisz, R. R. (1998). The first articulated skeleton of *Dendrerpeton acadianum* from the lower Pennsylvanian of Joggins, Nova Scotia. *Journal of Vertebrate Paleontology*, *18*(1), 64–79.
+
+Logan, W. E. (1845). Section of the Nova Scotia coal measures as displayed at the Joggins on the coast of Cumberland. *Geological Survey of Canada, Report of Progress for 1843*, 92–159.
+
+Mann, A., Gee, B. M., Pardo, J. D., Marjanović, D., Adams, G. R., Calthorpe, A. S., Maddin, H. C., & Anderson, J. S. (2020). Reassessment of historic ‘microsaurs’ from Joggins, Nova Scotia, reveals hidden diversity in the earliest amniote ecosystem. *Papers in Palaeontology*, *6*(4), 605–625.
+
+Milner, A. R. (1996). Revision of the temnospondyl amphibians from the Upper Carboniferous of Joggins, Nova Scotia. *Special Papers in Palaeontology*, *52*, 81–103.
+
+Steen, M. C. (1934). The amphibian fauna from the South Joggins, Nova Scotia. *Proceedings of the Zoological Society of London*, *104*(3), 465–504.
+
+Utting, J., Giles, P. S., & Dolby, G. (2010). Palynostratigraphy of the Carboniferous Joggins Fossil Cliffs (UNESCO World Heritage Site), Nova Scotia, Canada. *Atlantic Geology*, *46*, 124–130.
+
+
+
+
+
+
+
 
 
 
