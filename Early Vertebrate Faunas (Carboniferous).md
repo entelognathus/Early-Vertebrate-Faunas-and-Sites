@@ -865,19 +865,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Armstrong & Price, 1954; Bird et al., 2019; Burgess & Holliday, 1979; Davies et al., 2021; Dean et al., 2011; Owens & Burgess, 1965; Scarboro & Tucker, 1995.
 > - **Comments**: Vertebrate body fossils are dominated by disarticulated ichthyoliths (teeth and scales) preserved in sideritic ironstone nodules within marine shale intervals. The assemblage represents a mixed euryhaline to marine fauna (*Rhabdoderma*, *Elonichthys*) with freshwater inputs (*Rhizodopsis*). Although skeletal tetrapod remains are absent, tetrapod presence is confirmed by *Baropezia* trackways preserved on emergent surfaces, co-occurring with terrestrial arthropods such as *Arthropleura*. (Owens & Burgess, 1965; Davies et al., 2021; Bird et al., 2019)
 
-#### Hoyada Verde Formation, San Juan, Argentina
-> - **Age**:
-> - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
-
 #### Klyamshor Formation, Komi Republic, Russia
-> - **Age**:
+> - **Age**: Serpukhovian (Late Mississippian). (Zhuravlev, 2023; Zhuravlev et al., 2025)
 > - **Taxa**:
-> - **Locality and horizon**:
-> - **References**:
-> - **Comments**:
+>> - Agnatha (Conodonta): *Gnathodus bollandensis*, *Lochriea commutata*, *Lochriea ziegleri*, *Lochriea multinodosa*, *Hindeodus scitulus*, *Hindeodus cristulus*, *Cavusgnathus altus*, *Kladognathus complectens*, *Idioprioniodus* sp. (Zhuravlev, 2023; Zhuravlev et al., 2025; Zhuravlev, 2025)
+> - **Locality and horizon**: Kozhva Quarry (65.07488°N, 56.81640°E) and Kamenka River section (65.0772°N, 56.7532°E); upper part of the formation (Gnathodus bollandensis Zone) and lower part (Lochriea ziegleri Zone). (Zhuravlev, 2023; Zhuravlev et al., 2025; Zhuravlev, 2025)
+> - **References**: Zhuravlev, 2023; Zhuravlev, 2025; Zhuravlev et al., 2025.
+> - **Comments**: Deposited on a deep carbonate platform in a quiet-water setting dominated by mudstones to wackestones. The vertebrate record is overwhelmingly composed of a diverse conodont assemblage, associated with benthic invertebrates; other vertebrate remains are rare and indeterminate. (Zhuravlev et al., 2025)
 
 #### Ghaleh Formation, Central Iran, Iran
 > - **Age**:
@@ -2238,6 +2232,7 @@ Dean, M. T., Browne, M. A. E., Waters, C. N., & Powell, J. H. (2011). A lithostr
 Owens, B., & Burgess, I. C. (1965). The stratigraphy and palynology of the Upper Carboniferous outlier of Stainmore, Westmorland. *Bulletin of the Geological Survey of Great Britain*, 23, 17–44.
 
 Scarboro, D. D., & Tucker, M. E. (1995). Amphibian footprints from the mid-Carboniferous of Northumberland, England. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 113(2–4), 335–349.
+
 
 
 
