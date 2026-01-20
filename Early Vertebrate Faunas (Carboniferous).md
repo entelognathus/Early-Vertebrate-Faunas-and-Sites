@@ -2391,6 +2391,15 @@ Lucas, S. G., et al. (2022). The Carboniferous footprint record of the Maritimes
 
 Mossman, D. J., & Grantham, R. G. (1999). Vertebrate trackways in the Parrsboro Formation (upper Carboniferous) at Rams Head, Cumberland County, Nova Scotia. *Atlantic Geology*, *35*(3), 186–196. https://doi.org/10.4138/2032
 
+Aldinger, H. (1931). Über *Rhabdoderma elegans* Newberry. *Zentralblatt für Mineralogie, Geologie und Paläontologie, Abteilung B*, 1931, 610–620.
+
+Keller, G. (1934). Fischreste aus dem Oberkarbon des Ruhrgebiets. *Glückauf*, *70*, 913–917.
+
+Paproth, E., Dusar, M., Bless, M. J. M., Bouckaert, J., Delmer, A., Fairon-Demaret, M., Houlleberghs, E., Laloux, M., Pierart, P., Somers, Y., Streel, M., Thorez, J., & Tricot, J. (1983). Bio- and lithostratigraphic subdivisions of the Silesian in Belgium: A review. *Annales de la Société Géologique de Belgique*, *106*, 241–283.
+
+Voigt, S., & Ganzelewski, M. (2010). Toward the origin of amniotes: Diadectomorph and synapsid footprints from the early Late Carboniferous of Germany. *Acta Palaeontologica Polonica*, *55*(1), 57–72. https://doi.org/10.4202/app.2009.0021
+
+Witzmann, F., Dorka, M., & Korn, D. (2010). A juvenile Early Carboniferous (Viséan) coelacanth from Rösenbeck (Rhenish Mountains, Germany) with derived postcranial characters. *Fossil Record*, *13*(2), 309–316. https://doi.org/10.1002/mmng.201000007
 
 
 
