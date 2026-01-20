@@ -957,7 +957,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Elliott, 2015; Elliott, 2018; Elliott, 2023; Elliott & Giles, 2024; Elliott et al., 2023.
 > - **Comments**: The assemblage is dominated by small-bodied fishes (approximately 60–300 mm) preserved in laminated carbonaceous shales, consistent with a stratified, likely brackish to freshwater lacustrine setting developed over a drowned peat swamp. The locality has yielded substantial new haplolepid and dipnoan diversity in the early Pennsylvanian of Scotland. (Elliott, 2018; Elliott et al., 2023)
 
-#### Sholaksay section, western Kazakhstan
+#### Sholaksay section, Aktobe Region, Western Kazakhstan
+> - **Age**: Serpukhovian–Lower Bashkirian. (Ivanov & Hu, 2025)
+> - **Taxa**:
+>> - Chondrichthyes: *Stethacanthulus meccaensis*, *Stethacanthulus decorus*, *Stethacanthus* sp., *Denaea* sp., *Thrinacodus* sp., *Squatinactis* sp., *Gissarodus flabellatus*, Jalodontiformes indet. (Ivanov, 2013; Ivanov & Hu, 2025)
+> - **Locality and horizon**: Deep-water carbonate–argillaceous deposits of the Mugodzhar Hills (South Urals), Western Kazakhstan. (Ivanov & Hu, 2025)
+> - **References**: Ivanov, 2013; Ivanov & Hu, 2025.
+> - **Comments**: Interpreted as a deep-water Paleotethyan chondrichthyan assemblage with comparatively high taxonomic diversity near the Serpukhovian–Bashkirian transition. *Gissarodus* is reported as endemic to the Asian Paleotethys (Kazakhstan, Uzbekistan, China). The section is reported to yield the oldest global record of *Stethacanthulus meccaensis*. (Ivanov & Hu, 2025)
 
 #### Naqing section, Guizhou Province, South China
 
@@ -2416,6 +2422,7 @@ Elliott, F. M. (2023). On a new species of *Rhizodopsis* from the Carboniferous 
 Elliott, F. M., & Giles, S. (2024). A new species of *Mesolepis* (Actinopterygii) from the Late Carboniferous of Scotland, with especial reference to *Mesolepis wardi* Young. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *115*(1–2), 1–12. https://doi.org/10.1017/S1755691024000094
 
 Elliott, F. M., Challands, T. J., & Smithson, T. R. (2023). Dipnoan diversity in the early Pennsylvanian of Scotland: new lungfish from the Lower Coal Measures of North Lanarkshire. *Scottish Journal of Geology*, *59*(1), sjg2023-006. https://doi.org/10.1144/sjg2023-006
+
 
 
 
