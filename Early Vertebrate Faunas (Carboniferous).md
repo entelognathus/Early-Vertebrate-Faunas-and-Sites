@@ -2439,6 +2439,13 @@ Ivanov, A. O. (2013). Chondrichthyans from the Early–Late Carboniferous bounda
 
 Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17.
 
+Hu, K., Qi, Y., & Wei, S. (2025). New Moscovian *Idiognathodus* (conodont, Pennsylvanian) species from the Naqing section, Guizhou, South China. *Acta Micropalaeontologica Sinica*, *42*(1), 30–41.
+
+Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17.
+
+Qi, Y., Nemyrovska, T. I., Wang, X., & Wang, Q. (2014). Late Visean–early Serpukhovian conodont succession at the Naqing (Nashui) section in Guizhou, South China. *Palaeoworld*, *23*(3–4), 311–322.
+
+Wang, X., Qi, Y., & Wang, Q. (2011). Carboniferous conodont biostratigraphy of the Dianzishang section, Zhenning, Guizhou, South China. *Geological Magazine*, *148*(5–6), 1–16.
 
 
 
