@@ -906,7 +906,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Brauckmann et al., 2003; Hampe & Heidtke, 1997; Heidtke, 1996; Schultze, 1995.
 > - **Comments**: A Konservat-Lagerstätte preserving vertebrates in siderite concretions within fine-grained lagoonal or interdistributary bay deposits; *Acanthodes sippeli* is the dominant vertebrate. (Heidtke, 1996; Hampe & Heidtke, 1997)
 
-#### Joggins Formation, Joggins Fossil Cliffs, Cumberland Basin, Nova Scotia, Canada
+#### Joggins Formation, Cumberland Group, Joggins Fossil Cliffs, Nova Scotia, Canada
 > - **Age**: Bashkirian (Calder et al., 2006; Utting et al., 2010; Carpenter et al., 2015)
 > - **Taxa**:
 >> - Tetrapoda: *Hylonomus lyelli*, *Protoclepsydrops haplous*, *Dendrerpeton acadianum*, *Dendrerpeton confusum*, *Dendrerpeton helogenes*, *Calligenethlon watsoni*, *Asaphestera platyris*, *Steenerpeton silvae*, *Leiocephalikon problematicum*, *Trachystegos megalodon*, *Hylerpeton dawsoni*, *Ricnodon* sp. (Steen, 1934; Carroll, 1964; Milner, 1996; Holmes et al., 1998; Calder et al., 2006; Mann et al., 2020)
@@ -917,6 +917,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Calder et al., 2006; Carpenter et al., 2015; Carroll, 1964; Davies et al., 2005; Holmes et al., 1998; Logan, 1845; Mann et al., 2020; Milner, 1996; Steen, 1934; Utting et al., 2010.
 > - **Comments**: A UNESCO World Heritage Site (“Coal Age Galápagos”). The formation records cyclic paralic deposition in a rapidly subsiding basin, ranging from brackish bays to coastal rainforests and alluvial plains. It is globally significant for preserving terrestrial tetrapods within hollowed erect lycopsid trunks, providing the earliest definitive records of amniotes (*Hylonomus*) and stem-synapsids (*Protoclepsydrops*). Aquatic facies yield diverse, euryhaline fish assemblages. (Calder et al., 2006; Carpenter et al., 2015; Mann et al., 2020)
 
+
 #### Wamsutta Formation, Lantern North, Plainville, Massachusetts, USA
 > - **Age**: Late Bashkirian (Knecht et al., 2024)
 > - **Taxa**:
@@ -926,7 +927,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Knecht et al., 2024.
 > - **Comments**: A rare upland vertebrate assemblage from a subhumid alluvial-fan system, contrasting sharply with coeval lowland coal-swamp ecosystems. Exceptional preservation includes articulated skeletal material and high-fidelity full-body impressions in oxidized redbed clastics, constituting a Konservat-Lagerstätte and providing direct evidence of early Pennsylvanian terrestrial vertebrate communities in non-coastal settings. (Knecht et al., 2024)
 
-#### Joggins Formation (Cumberland Group), Joggins Fossil Cliffs, Nova Scotia, Canada
 
 #### Rams Head (upper Parrsboro Formation), near Parrsboro, Cumberland County, Nova Scotia, Canada
 
@@ -2363,6 +2363,7 @@ Steen, M. C. (1934). The amphibian fauna from the South Joggins, Nova Scotia. *P
 Utting, J., Giles, P. S., & Dolby, G. (2010). Palynostratigraphy of the Carboniferous Joggins Fossil Cliffs (UNESCO World Heritage Site), Nova Scotia, Canada. *Atlantic Geology*, *46*, 124–130.
 
 Knecht, R. J., Benner, J. S., Swain, A., Azevedo-Schmidt, L., Cleal, C. J., Labandeira, C. C., & Engel, M. S. (2024). Early Pennsylvanian Lagerstätte reveals a diverse ecosystem on a subhumid, alluvial fan. *Nature Communications*, *15*, 7876. https://doi.org/10.1038/s41467-024-52181-0
+
 
 
 
