@@ -938,7 +938,16 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Baird, 1962; Baird, 1978; Mossman & Grantham, 1999.
 > - **Comments**: The Rams Head locality is a classic tetrapod trackway site yielding *Hylopus*, *Dromilopus*, *Cursipes*, and *Pseudobradypus*, but no vertebrate skeletal remains. In contrast, vertebrate body fossils (haplolepidid actinopterygians and acanthodian spines) are confined to the nearby lacustrine “clam-coal” facies at the Whitehall Creek/Parrsboro Inlet locality, demonstrating strong facies control on vertebrate preservation within the Upper Parrsboro Formation. (Baird, 1962; Mossman & Grantham, 1999)
 
-#### Bochum Formation, Ruhr area, Germany
+#### Bochum Formation, Ruhr District, North Rhine-Westphalia, Germany
+> - **Age**: Late Carboniferous (Pennsylvanian), Langsettian (Westphalian A). (Paproth et al., 1983; Witzmann et al., 2010)
+> - **Taxa**:
+>> - Chondrichthyes: *Listracanthus* sp., *Petrodus* sp. (Paproth et al., 1983; Witzmann et al., 2010)
+>> - Actinopterygii: *Elonichthys* spp., *Rhadinichthys* sp., *Platysomus* sp. (Keller, 1934; Paproth et al., 1983)
+>> - Sarcopterygii: *Rhabdoderma elegans*, *Rhabdoderma tingleyense*, *Rhizodopsis sauroides*, *Megalichthys* sp., *Strepsodus* sp. (Aldinger, 1931; Keller, 1934; Witzmann et al., 2010)
+> - **Locality and horizon**: Subsurface coal mines and boreholes in the Ruhr District (e.g., Zeche Präsident, Bochum; Zeche Haus Aden, Bergkamen). Vertebrate remains are concentrated in marine bands, especially the Plasshofsbank Marine Band and the Katharina Marine Band (at the formation roof), as well as in bituminous shales overlying coal seams. (Paproth et al., 1983; Witzmann et al., 2010)
+> - **References**: Aldinger, 1931; Keller, 1934; Paproth et al., 1983; Witzmann et al., 2010.
+> - **Comments**: The vertebrate body-fossil record is dominated by disarticulated fish remains (scales, teeth, spines) from marine and brackish horizons. Although tetrapod footprints (e.g., *Ichniotherium*) are common in the Bochum Formation, skeletal remains of tetrapods are virtually absent, likely due to acidic swamp conditions that inhibited bone preservation. (Voigt & Ganzelewski, 2010; Witzmann et al., 2010)
+
 
 #### Ardenrigg Colliery waste tips (Scottish Lower Coal Measures Formation), Wester Bracco area, North Lanarkshire, Scotland, UK
 
@@ -2381,6 +2390,7 @@ Falcon-Lang, H. J., Benton, M. J., & Stimson, M. (2007). Ecology of earliest rep
 Lucas, S. G., et al. (2022). The Carboniferous footprint record of the Maritimes Basin. *Geological Society, London, Special Publications*, *512*.
 
 Mossman, D. J., & Grantham, R. G. (1999). Vertebrate trackways in the Parrsboro Formation (upper Carboniferous) at Rams Head, Cumberland County, Nova Scotia. *Atlantic Geology*, *35*(3), 186–196. https://doi.org/10.4138/2032
+
 
 
 
