@@ -2372,6 +2372,22 @@ Utting, J., Giles, P. S., & Dolby, G. (2010). Palynostratigraphy of the Carbonif
 
 Knecht, R. J., Benner, J. S., Swain, A., Azevedo-Schmidt, L., Cleal, C. J., Labandeira, C. C., & Engel, M. S. (2024). Early Pennsylvanian Lagerstätte reveals a diverse ecosystem on a subhumid, alluvial fan. *Nature Communications*, *15*, 7876. https://doi.org/10.1038/s41467-024-52181-0
 
+Baird, D. (1962). A haplolepid fish fauna in the Early Pennsylvanian of Nova Scotia. *Palaeontology*, *5*(1), 22–29.
+
+Baird, D. (1978). Carboniferous fishes from Nova Scotia and New Brunswick. *American Museum Novitates*, *2642*, 1–22.
+
+Falcon-Lang, H. J., Benton, M. J., & Stimson, M. (2007). Ecology of earliest reptiles inferred from basal Pennsylvanian trackways. *Journal of the Geological Society*, *164*(6), 1113–1118.
+
+Lucas, S. G., et al. (2022). The Carboniferous footprint record of the Maritimes Basin. *Geological Society, London, Special Publications*, *512*.
+
+Mossman, D. J., & Grantham, R. G. (1999). Vertebrate trackways in the Parrsboro Formation (upper Carboniferous) at Rams Head, Cumberland County, Nova Scotia. *Atlantic Geology*, *35*(3), 186–196. https://doi.org/10.4138/2032
+
+
+
+
+
+
+
 
 
 
