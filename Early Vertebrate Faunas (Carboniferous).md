@@ -917,7 +917,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Calder et al., 2006; Carpenter et al., 2015; Carroll, 1964; Davies et al., 2005; Holmes et al., 1998; Logan, 1845; Mann et al., 2020; Milner, 1996; Steen, 1934; Utting et al., 2010.
 > - **Comments**: A UNESCO World Heritage Site (“Coal Age Galápagos”). The formation records cyclic paralic deposition in a rapidly subsiding basin, ranging from brackish bays to coastal rainforests and alluvial plains. It is globally significant for preserving terrestrial tetrapods within hollowed erect lycopsid trunks, providing the earliest definitive records of amniotes (*Hylonomus*) and stem-synapsids (*Protoclepsydrops*). Aquatic facies yield diverse, euryhaline fish assemblages. (Calder et al., 2006; Carpenter et al., 2015; Mann et al., 2020)
 
-
 #### Wamsutta Formation, Lantern North, Plainville, Massachusetts, USA
 > - **Age**: Late Bashkirian (Knecht et al., 2024)
 > - **Taxa**:
@@ -927,8 +926,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Knecht et al., 2024.
 > - **Comments**: A rare upland vertebrate assemblage from a subhumid alluvial-fan system, contrasting sharply with coeval lowland coal-swamp ecosystems. Exceptional preservation includes articulated skeletal material and high-fidelity full-body impressions in oxidized redbed clastics, constituting a Konservat-Lagerstätte and providing direct evidence of early Pennsylvanian terrestrial vertebrate communities in non-coastal settings. (Knecht et al., 2024)
 
-
-#### Rams Head (upper Parrsboro Formation), near Parrsboro, Cumberland County, Nova Scotia, Canada
+#### Upper Parrsboro Formation, Parrsboro Area (Rams Head & Parrsboro Inlet), Nova Scotia, Canada
+> - **Age**: Late Bashkirian (Pennsylvanian; Westphalian A; Floral Zone D). (Baird, 1962; Baird, 1978; Mossman & Grantham, 1999)
+> - **Taxa**:
+>> - Actinopterygii: *Haplolepis* (*Parahaplolepis*) aff. *anglica*, *Haplolepis* (*Parahaplolepis*) *canadensis*. (Baird, 1962; Baird, 1978)
+>> - Acanthodii: *Gyracanthus* sp. (Baird, 1962; Baird, 1978)
+>> - Sarcopterygii: *Rhizodopsis* cf. *robustus*. (Baird, 1978)
+> - **Locality and horizon**:
+>> - **Body fossils**: West side of Parrsboro Inlet, south of Whitehall Creek (ca. 16 km east of Rams Head); fissile carbonaceous shale (“clam-coal”) within the upper part of the Parrsboro Formation. (Baird, 1962; Baird, 1978)
+>> - **Ichnofossils**: Rams Head section (approx. 45°24′N, 64°25′W), coastal exposure west of Parrsboro; grey and red siltstones and sandstones of the Upper Parrsboro Formation. (Mossman & Grantham, 1999)
+> - **References**: Baird, 1962; Baird, 1978; Mossman & Grantham, 1999.
+> - **Comments**: The Rams Head locality is a classic tetrapod trackway site yielding *Hylopus*, *Dromilopus*, *Cursipes*, and *Pseudobradypus*, but no vertebrate skeletal remains. In contrast, vertebrate body fossils (haplolepidid actinopterygians and acanthodian spines) are confined to the nearby lacustrine “clam-coal” facies at the Whitehall Creek/Parrsboro Inlet locality, demonstrating strong facies control on vertebrate preservation within the Upper Parrsboro Formation. (Baird, 1962; Mossman & Grantham, 1999)
 
 #### Bochum Formation, Ruhr area, Germany
 
@@ -2363,6 +2371,7 @@ Steen, M. C. (1934). The amphibian fauna from the South Joggins, Nova Scotia. *P
 Utting, J., Giles, P. S., & Dolby, G. (2010). Palynostratigraphy of the Carboniferous Joggins Fossil Cliffs (UNESCO World Heritage Site), Nova Scotia, Canada. *Atlantic Geology*, *46*, 124–130.
 
 Knecht, R. J., Benner, J. S., Swain, A., Azevedo-Schmidt, L., Cleal, C. J., Labandeira, C. C., & Engel, M. S. (2024). Early Pennsylvanian Lagerstätte reveals a diverse ecosystem on a subhumid, alluvial fan. *Nature Communications*, *15*, 7876. https://doi.org/10.1038/s41467-024-52181-0
+
 
 
 
