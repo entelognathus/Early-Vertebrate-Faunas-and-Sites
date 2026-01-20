@@ -948,8 +948,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Aldinger, 1931; Keller, 1934; Paproth et al., 1983; Witzmann et al., 2010.
 > - **Comments**: The vertebrate body-fossil record is dominated by disarticulated fish remains (scales, teeth, spines) from marine and brackish horizons. Although tetrapod footprints (e.g., *Ichniotherium*) are common in the Bochum Formation, skeletal remains of tetrapods are virtually absent, likely due to acidic swamp conditions that inhibited bone preservation. (Voigt & Ganzelewski, 2010; Witzmann et al., 2010)
 
-
-#### Ardenrigg Colliery waste tips (Scottish Lower Coal Measures Formation), Wester Bracco area, North Lanarkshire, Scotland, UK
+#### Scottish Lower Coal Measures Formation, Ardenrigg Colliery (Wester Bracco), North Lanarkshire, Scotland, UK
+> - **Age**: Langsettian (Westphalian A; Bashkirian), *Carbonicola communis* Chronozone. (Elliott et al., 2023)
+> - **Taxa**:
+>> - Sarcopterygii: *Braccodus kerri*, *Lanarkodus clarki*, *Sagenodus* sp., *Conchopoma* sp., *Rhizodopsis rankini*. (Elliott, 2023; Elliott et al., 2023)
+>> - Actinopterygii: *Millerolepis eleionomae*, *Parahaplolepis alexandrae*, *Braccohaplolepis fenestratum*, *Mesolepis arabellae*, *Mesonichthys aitkeni*, *Platysomus parvulus*, *Elonichthys caudalis*. (Elliott, 2015; Elliott, 2018; Elliott & Giles, 2024)
+> - **Locality and horizon**: Waste tips of Ardenrigg Colliery (Pit No. 6) at Wester Bracco Farm (National Grid Reference NS 827 657). Fossils occur in finely laminated shales overlying the Upper and Lower Drumgray Coals. (Elliott, 2015; Elliott et al., 2023)
+> - **References**: Elliott, 2015; Elliott, 2018; Elliott, 2023; Elliott & Giles, 2024; Elliott et al., 2023.
+> - **Comments**: The assemblage is dominated by small-bodied fishes (approximately 60–300 mm) preserved in laminated carbonaceous shales, consistent with a stratified, likely brackish to freshwater lacustrine setting developed over a drowned peat swamp. The locality has yielded substantial new haplolepid and dipnoan diversity in the early Pennsylvanian of Scotland. (Elliott, 2018; Elliott et al., 2023)
 
 #### Sholaksay section, western Kazakhstan
 
@@ -2400,6 +2406,7 @@ Paproth, E., Dusar, M., Bless, M. J. M., Bouckaert, J., Delmer, A., Fairon-Demar
 Voigt, S., & Ganzelewski, M. (2010). Toward the origin of amniotes: Diadectomorph and synapsid footprints from the early Late Carboniferous of Germany. *Acta Palaeontologica Polonica*, *55*(1), 57–72. https://doi.org/10.4202/app.2009.0021
 
 Witzmann, F., Dorka, M., & Korn, D. (2010). A juvenile Early Carboniferous (Viséan) coelacanth from Rösenbeck (Rhenish Mountains, Germany) with derived postcranial characters. *Fossil Record*, *13*(2), 309–316. https://doi.org/10.1002/mmng.201000007
+
 
 
 
