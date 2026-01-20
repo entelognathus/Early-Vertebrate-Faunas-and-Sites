@@ -480,6 +480,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 ## Guadalupian (middle Permian， 瓜德鲁普世)
 <img width="2574" height="1020" alt="Snipaste_2026-01-20_17-10-15" src="https://github.com/user-attachments/assets/6fb2b213-fdc3-405d-901c-3c4844d53124" />
+
+
 ### Roadian（罗德期）, Guadalupian, Permian
 #### Qingtoushan Formation（青头山组）, Dashankou, Gansu, China
 > - **Age**: Roadian, Guadalupian, Permian.
@@ -3686,6 +3688,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
