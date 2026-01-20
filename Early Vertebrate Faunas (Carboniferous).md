@@ -2452,6 +2452,13 @@ Qi, Y., Nemyrovska, T. I., Wang, X., & Wang, Q. (2014). Late Visean–early Serp
 
 Wang, X., Qi, Y., & Wang, Q. (2011). Carboniferous conodont biostratigraphy of the Dianzishang section, Zhenning, Guizhou, South China. *Geological Magazine*, *148*(5–6), 1–16.
 
+Hu, K., Wang, X., & Qi, Y. (2023). Biostratigraphy and biofacies of the Kasimovian conodonts from the Shanglong section, South China. *Geological Society, London, Special Publications*, *535*, 173–196.
+
+Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 958–974. https://doi.org/10.1017/jpa.2025.10134
+
+Qi, Y., Barrick, J. E., Hogancamp, N., Chen, J., Hu, K., Wang, Q., & Wang, X. (2020). Conodont faunas across the Kasimovian–Gzhelian boundary (Late Pennsylvanian) in South China and implications for the selection of the stratotype for the base of the global Gzhelian Stage. *Papers in Palaeontology*, *6*(3), 433–458.
+
+Qi, Y., Nemyrovska, T. I., Wang, X., Chen, J., Wang, Z., Lane, H. R., Richards, B. C., Hu, K., & Wang, Q. (2014). Late Visean–early Serpukhovian conodont biostratigraphy at the Naqing section, Guizhou, South China. *Palaeoworld*, *23*(4), 369–380.
 
 
 
