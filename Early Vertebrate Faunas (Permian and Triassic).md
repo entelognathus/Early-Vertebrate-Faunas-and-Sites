@@ -632,21 +632,6 @@ Hopson, 1996
 > - **References**: 
 > - **Comments**:
 
-#### Tapinocephalus Assemblage Zone, Abrahamskraal Formation, Karoo Basin, South Africa
-> - **Age**: Capitanian, Guadalupian, Permian.
-> - **Taxa**: 
->> - Temnospondyli: Rhinesuchus whaitsi SAM-PK-1212 Schoch and Milner, 2000; Rhinesuchoides tenuiceps FMNH UC1519 Schoch and Milner, 2000
->> - Parareptilia: Australothyris smithi SAM-PK-K8302 Modesto et al., 2009; Broomia perplexa BMNH R4065 Thommasen and Carroll, 1981; Bradysaurus baini BMNH R1971 Lee, 1997; “Bradysaurus” seeleyi BMNH 49426 Lee, 1997; Embrithosaurus schwarzi SAM-PK-8034 Lee, 1997; Eunotosaurus africanus BP/1/5677 Rubidge et al., 1999; Nochelesaurus alexanderi SAM-PK-6239 Lee, 1997; Nycteroleterid indet. NMQR 3061 Cisneros and Tsuji, 2009
->> - Varanopidae: Elliotsmithia longiceps BP/1/5678 Modesto et al., 2001; Heleosaurus scholtzi SAM-PK-1070 Reisz and Modesto, 2007
->> - Biarmosuchia: Bullacephalus jacksoni BP/1/5387 Rubidge and Kitching, 2003; Hipposaurus boonstrai SAM-PK-8950 Sigogneau-Russell, 1989; Hipposaurus? brinki SAM-PK-12252 Sigogneau-Russell, 1989; Pachydectes elsi BP/1/5735 Rubidge et al., 2006
->> - Dinocephalia: Anteosaurus magnificus SAM-PKK284 Kammerer, 2011; Criocephalosaurus vanderbyli SAM-PKK10888 Day et al., 2015; Jonkeria truculenta TM 212 King, 1988; Mormosaurus seeleyi BMNH R3594 King, 1988; Moschognathus whaitsi AMNH 5602 King, 1988; Moschops capensis AMNH 5550 King, 1988; Riebeeckosaurus longirostris SAM 3400 King, 1988; Struthiocephalus whaitsi SAM 2678 King, 1988; Styracocephalus platyrhynchus SAM-PK-8936 Rubidge et al., 1997 Tapinocephalus atherstonei BMNH R1705 King, 1988; Titanosuchus ferox BMNH 46367 King, 1988
->> - Anomodontia: Anomocephalus africanus BP/1/5582 Modesto et al., 1999; Brachyprosopus broomi FMNH UC1561 Angielczyk et al., 2016; Colobodectes cluveri NMQR 3323 Modesto et al., 2003; ?Cryptocynodon simus SAM-PKK4534 Day, 2014; Diictodon feliceps Angielczyk and Sullivan, 2008Eosimops newtoni BP/1/6674 Angielczyk and Rubidge, 2013; Galechirus scholtzi SAM 1068 King, 1988; Galeops whaitsi AMNH 5536 King, 1988; Pristerodon mackayi Smith and Keyser, 1995; Prosictodon dubei BP/1/5589 Angielczyk and Rubidge, 2010; Robertia broomiana Smith and Keyser, 1995
->> - Gorgonopsia: Eriphostoma microdon AMNH FARB5524 Kammerer, 2014
->> - Therocephalia: Alopecodon priscus AMNH 5569 Boonstra, 1935; Blattoidealestes gracilis Smith and Keyser, 1995; Crapartinella croucheri BMNH R4096 Mendrez, 1975; Cynariognathus platyrhinus AMNH 5502 Boonstra, 1935; Ictidosaurus angusticeps SAM-PK-630 Broom, 1903; Lycosuchus vanderrieti CGS MJF 68 Abdala et al., 2014; Pristerognathus polyodon BMNH R2581 Mendrez, 1975; Pardosuchus whaitsi SAM-PK-1077 Broom, 1908; Scylacosaurus sclateri AMNH 5560 Boonstra, 1935; Simorhinella baini BMNH R2581 Abdala et al., 2014
-> - **Locality and horizon**: Lowermost formation of the lower Beaufort Group (Adelaide Subgroup, Karoo Supergroup) (Cole et al., 2016). Correlates with the *Tapinocephalus* Assemblage Zone (AZ) (Ronchi et al., 2023). The *Tapinocephalus* AZ within this formation is subdivided into the lower *Eosimops – Glanosuchus* Subzone (corresponding to the Leeuvlei, Koornplaats, and Swaerskraal members) and the upper *Diictodon – Styracocephalus* Subzone (corresponding to the Moordenaars and Karelskraal members) (Day & Rubidge, 2020). A key locality is the Gansfontein palaeosurface on Gansfontein farm, near Fraserburg (Bordy et al., 2023).
-> - **References**: Day et al., 2021; Day & Rubidge, 2020; Rubidge & Day, 2020; Cole et al., 2016; Jirah & Rubidge, 2014; Rubidge et al., 2021; Rubidge et al., 2023.Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
-> - **Comments**: 
-
 #### Isheevo Formation, Tatarstan, Russia
 > - **Age**: Wordian to early Capitanian, Guadalupian (middle Permian).
 > - **Taxa**:
@@ -654,17 +639,6 @@ Hopson, 1996
 > - **Locality and horizon**: sheevo Locality, gorge Kurmy-Chugor, Kamennyi Ravine, left bank of Ulema River (tributary of Sviaga River), Apastovskii District, Tatarstan, Russia. Urzhumian Horizon (Dinocephalian Complex), Isheevo Faunal Assemblage (Zone II), corresponding to the Isheevo Formation (upper Urzhumian parastratotype) (Ivakhnenko, 1996; Silantiev et al., 2017).
 > - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
 > - **Comments**: 
-
-#### Abrahamskraal Formation, South Africa
-> - **Age**: Wordian to Capitanian, Guadalupian (middle Permian).
-> - **Taxa**:
->> - Therapsida: *Tapinocephalus atherstonei*, *Moschops capensis*, *Tapinocaninus*, *Eodicynodon*, *Robertia*, *Eosimops*, *Diictodon feliceps*; Gorgonopsia; Anomodontia.
->> - Parareptilia: Pareiasauria: *Bradysaurus*; *Eunotosaurus*.
->> - Temnospondyli: *Rhinesuchus*.
->> - Pisces: *Namaichthys*.
-> - **Locality and horizon**: Lowermost formation of the Adelaide Subgroup, Beaufort Group, main Karoo Basin. Outcrops found in the Northern, Western, and Eastern Cape Provinces (Cole et al., 2016). Biostratigraphically comprises the *Eodicynodon* Assemblage Zone in the lowermost part and the *Tapinocephalus* Assemblage Zone in the upper part (Rubidge & Day, 2020; Day & Rubidge, 2020).
-> - **References**: Cole et al., 2016; Day et al., 2015; Rubidge & Day, 2020; Day & Rubidge, 2020; Bordy & Paiva, 2021
-> - **Comments**:  
 
 #### La Lieude Formation, France
 > - **Age**: Wordian to Capitanian, Guadalupian (middle Permian).
@@ -688,15 +662,23 @@ Hopson, 1996
 > - **References**:
 > - **Comments**
 
-#### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
-> - **Age**: Capitanian, Guadalupian, Permian.
-> - **Taxa**: Strelnia insolita, Uranichthys pritokensis, Xenosynechodus sp., Platysomus biarmicus, Platysomus sp., Geryonichthys sp., Varialepis sp.; tetrapods Suchonica vladimiri;
-> - **Locality and horizon**: Ustpoldarsa Member, Poldarsa Formation, Vologda Region, Velikoustyugsky District, left bank of the Sukhona River near the Poldarsa village.
-> - **References**: Bakaev, 2022.
+#### Tapinocephalus Assemblage Zone, Abrahamskraal Formation, Karoo Basin, South Africa
+> - **Age**: Capitanian, Guadalupian, Permian.
+> - **Taxa**: 
+>> - Temnospondyli: Rhinesuchus whaitsi SAM-PK-1212 Schoch and Milner, 2000; Rhinesuchoides tenuiceps FMNH UC1519 Schoch and Milner, 2000
+>> - Parareptilia: Australothyris smithi SAM-PK-K8302 Modesto et al., 2009; Broomia perplexa BMNH R4065 Thommasen and Carroll, 1981; Bradysaurus baini BMNH R1971 Lee, 1997; “Bradysaurus” seeleyi BMNH 49426 Lee, 1997; Embrithosaurus schwarzi SAM-PK-8034 Lee, 1997; Eunotosaurus africanus BP/1/5677 Rubidge et al., 1999; Nochelesaurus alexanderi SAM-PK-6239 Lee, 1997; Nycteroleterid indet. NMQR 3061 Cisneros and Tsuji, 2009
+>> - Varanopidae: Elliotsmithia longiceps BP/1/5678 Modesto et al., 2001; Heleosaurus scholtzi SAM-PK-1070 Reisz and Modesto, 2007
+>> - Biarmosuchia: Bullacephalus jacksoni BP/1/5387 Rubidge and Kitching, 2003; Hipposaurus boonstrai SAM-PK-8950 Sigogneau-Russell, 1989; Hipposaurus? brinki SAM-PK-12252 Sigogneau-Russell, 1989; Pachydectes elsi BP/1/5735 Rubidge et al., 2006
+>> - Dinocephalia: Anteosaurus magnificus SAM-PKK284 Kammerer, 2011; Criocephalosaurus vanderbyli SAM-PKK10888 Day et al., 2015; Jonkeria truculenta TM 212 King, 1988; Mormosaurus seeleyi BMNH R3594 King, 1988; Moschognathus whaitsi AMNH 5602 King, 1988; Moschops capensis AMNH 5550 King, 1988; Riebeeckosaurus longirostris SAM 3400 King, 1988; Struthiocephalus whaitsi SAM 2678 King, 1988; Styracocephalus platyrhynchus SAM-PK-8936 Rubidge et al., 1997 Tapinocephalus atherstonei BMNH R1705 King, 1988; Titanosuchus ferox BMNH 46367 King, 1988
+>> - Anomodontia: Anomocephalus africanus BP/1/5582 Modesto et al., 1999; Brachyprosopus broomi FMNH UC1561 Angielczyk et al., 2016; Colobodectes cluveri NMQR 3323 Modesto et al., 2003; ?Cryptocynodon simus SAM-PKK4534 Day, 2014; Diictodon feliceps Angielczyk and Sullivan, 2008Eosimops newtoni BP/1/6674 Angielczyk and Rubidge, 2013; Galechirus scholtzi SAM 1068 King, 1988; Galeops whaitsi AMNH 5536 King, 1988; Pristerodon mackayi Smith and Keyser, 1995; Prosictodon dubei BP/1/5589 Angielczyk and Rubidge, 2010; Robertia broomiana Smith and Keyser, 1995
+>> - Gorgonopsia: Eriphostoma microdon AMNH FARB5524 Kammerer, 2014
+>> - Therocephalia: Alopecodon priscus AMNH 5569 Boonstra, 1935; Blattoidealestes gracilis Smith and Keyser, 1995; Crapartinella croucheri BMNH R4096 Mendrez, 1975; Cynariognathus platyrhinus AMNH 5502 Boonstra, 1935; Ictidosaurus angusticeps SAM-PK-630 Broom, 1903; Lycosuchus vanderrieti CGS MJF 68 Abdala et al., 2014; Pristerognathus polyodon BMNH R2581 Mendrez, 1975; Pardosuchus whaitsi SAM-PK-1077 Broom, 1908; Scylacosaurus sclateri AMNH 5560 Boonstra, 1935; Simorhinella baini BMNH R2581 Abdala et al., 2014
+> - **Locality and horizon**: Lowermost formation of the lower Beaufort Group (Adelaide Subgroup, Karoo Supergroup) (Cole et al., 2016). Correlates with the *Tapinocephalus* Assemblage Zone (AZ) (Ronchi et al., 2023). The *Tapinocephalus* AZ within this formation is subdivided into the lower *Eosimops – Glanosuchus* Subzone (corresponding to the Leeuvlei, Koornplaats, and Swaerskraal members) and the upper *Diictodon – Styracocephalus* Subzone (corresponding to the Moordenaars and Karelskraal members) (Day & Rubidge, 2020). A key locality is the Gansfontein palaeosurface on Gansfontein farm, near Fraserburg (Bordy et al., 2023).
+> - **References**: Day et al., 2021; Day & Rubidge, 2020; Rubidge & Day, 2020; Cole et al., 2016; Jirah & Rubidge, 2014; Rubidge et al., 2021; Rubidge et al., 2023.Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
 > - **Comments**: 
 
-#### Teekloof Formation (lower Poortjie Member), South Africa
-> - **Age**: latest Capitanian, Middle Permian
+#### Pristerognathus Assemblage Zone, Teekloof Formation (lower Poortjie Member), South Africa
+> - **Age**: latest Capitanian,Guadalupian, Permian.
 > - **Taxa**:
 >> - Dinocephalia: *Anteosaurus*, *Criocephalosaurus*, *Titanosuchus*.
 >> - Therocephalia: Baurioidea gen. indet. (ictidosuchid-grade), ?*Ictidosuchoides*.
@@ -722,6 +704,13 @@ Hopson, 1996
 > - **Locality and horizon**: Vertebrate fossils are known from the lower, middle, and upper members of the formation, primarily from the Luangwa Basin (e.g., North Luangwa National Park, Munyamadzi Game Management Area, localities L322, L359, Locality 4) and the Mid-Zambezi Basin (e.g., Gwembe District, locality L70). (Sidor et al., 2021; Peecook et al., 2025; Drysdall and Kitching, 1963; Whitney & Sidor, 2016; Sidor, 2015; Sidor et al., 2014)
 > - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor et al., 2021; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
 > - **Comments**:  
+
+#### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
+> - **Age**: Capitanian, Guadalupian, Permian.
+> - **Taxa**: Strelnia insolita, Uranichthys pritokensis, Xenosynechodus sp., Platysomus biarmicus, Platysomus sp., Geryonichthys sp., Varialepis sp.; tetrapods Suchonica vladimiri;
+> - **Locality and horizon**: Ustpoldarsa Member, Poldarsa Formation, Vologda Region, Velikoustyugsky District, left bank of the Sukhona River near the Poldarsa village.
+> - **References**: Bakaev, 2022.
+> - **Comments**: 
 
 ## Lopingian (late Permian, 乐平世)
 ### Wuchiapingian（吴家坪期）, Lopingian, Permian
@@ -3694,6 +3683,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
