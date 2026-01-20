@@ -957,8 +957,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**: Cao C Q, Wang W, Liu L J et al., 2008. Two episodes of 13C-depletion in organic carbon in the latest Permian: evidence from the terrestrial sequences in northern Xinjiang, China. Earth Planet Sci Lett, 270: 251–257.
 > - The PTB follows Cao et al. (2008). As such, C. IVPP V23295 (a chroniosuchian) and *Jimusaria sinkianensis* of Griesbachian, Induan; the lowest occurrence of *Lystrosaurus*, IVPP V 23296 (the therocephalian *Dalongkoua fuae*) of Changhsingian (Liu & Abdala, 2017). 
 
-<img width="1699" height="1348" alt="Snipaste_2025-12-19_10-11-06" src="https://github.com/user-attachments/assets/66616811-b001-45f2-8684-5e5f2e4faa91" />
-
 #### Burngrove Formation, Bowen Basin, Queensland, Australia
 > - **Age**: late Changhsingian, Lopingian, Late Permian 
 > - **Taxa**:
@@ -1025,6 +1023,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 >> - https://en.wikipedia.org/wiki/Beaufort_Group
 
 <img width="1302" height="927" alt="image" src="https://github.com/user-attachments/assets/fab92fba-4ff5-40ec-a531-75eeda623e8c" />
+
+<img width="1699" height="1348" alt="Snipaste_2025-12-19_10-11-06" src="https://github.com/user-attachments/assets/66616811-b001-45f2-8684-5e5f2e4faa91" />
 
 # Triassic:
 #### Formation/Member, Locality
@@ -3679,6 +3679,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
