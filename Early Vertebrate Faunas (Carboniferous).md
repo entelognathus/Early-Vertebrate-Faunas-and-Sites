@@ -2407,6 +2407,22 @@ Voigt, S., & Ganzelewski, M. (2010). Toward the origin of amniotes: Diadectomorp
 
 Witzmann, F., Dorka, M., & Korn, D. (2010). A juvenile Early Carboniferous (Viséan) coelacanth from Rösenbeck (Rhenish Mountains, Germany) with derived postcranial characters. *Fossil Record*, *13*(2), 309–316. https://doi.org/10.1002/mmng.201000007
 
+Elliott, F. M. (2015). A new haplolepid fauna (Osteichthyes: Actinopterygii) from the Lower Coal Measures of Scotland: Westphalian A; Langsettian, *Carbonicola communis* chronozone (Bashkirian). *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *105*(3), 207–225. https://doi.org/10.1017/S1755691015000067
+
+Elliott, F. M. (2018). An early actinopterygian ichthyofauna from the Scottish Lower Coal Measures Formation: Westphalian A (Bashkirian). *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *108*(4), 351–394. https://doi.org/10.1017/S1755691018000063
+
+Elliott, F. M. (2023). On a new species of *Rhizodopsis* from the Carboniferous of Scotland. *Scottish Journal of Geology*, *59*(2), sjg2023-008. https://doi.org/10.1144/sjg2023-008
+
+Elliott, F. M., & Giles, S. (2024). A new species of *Mesolepis* (Actinopterygii) from the Late Carboniferous of Scotland, with especial reference to *Mesolepis wardi* Young. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *115*(1–2), 1–12. https://doi.org/10.1017/S1755691024000094
+
+Elliott, F. M., Challands, T. J., & Smithson, T. R. (2023). Dipnoan diversity in the early Pennsylvanian of Scotland: new lungfish from the Lower Coal Measures of North Lanarkshire. *Scottish Journal of Geology*, *59*(1), sjg2023-006. https://doi.org/10.1144/sjg2023-006
+
+
+
+
+
+
+
 
 
 
