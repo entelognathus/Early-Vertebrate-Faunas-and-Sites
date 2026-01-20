@@ -477,16 +477,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Locality and horizon**: Intercalated within the upper part of the Monte Luco volcanic sequence, which is part of the Athesian Volcanic Group (Gruppo vulcanico atesino). The type locality is near the village of Tregiovo (46° 26' 18'' N, 11° 3' 10'' E) in the upper Val di Non, Trento Province (Barth & Mohr, 1994; Avanzini et al., 2008).
 > - **References**:
 > - **Comments**:
-
-## Guadalupian (middle Permian， 瓜德鲁普世)
 <img width="2574" height="1020" alt="Snipaste_2026-01-20_17-10-15" src="https://github.com/user-attachments/assets/6fb2b213-fdc3-405d-901c-3c4844d53124" />
-> -
+## Guadalupian (middle Permian， 瓜德鲁普世)
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
-> -
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
-> -
+
+
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
-> -
 ### Roadian（罗德期）, Guadalupian, Permian
 #### Qingtoushan Formation（青头山组）, Dashankou, Gansu, China
 > - **Age**: Roadian, Guadalupian, Permian.
@@ -3689,6 +3686,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
