@@ -1095,6 +1095,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Cosgriff, 1965; McKenzie, 1961; Cosgriff & Garbutt, 1972; Kear & Hamilton‑Bruce, 2011
 > - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
 
+
+
 ### Dienerian（第纳尔亚期）, Induan, Early Triassic
 #### "stegocephalian-horizon", Dienerian, late Induan, East Greenland
 > - **Age**: Dienerian, late Induan, Early Triassic
@@ -1293,8 +1295,8 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyes:
->> - Actinopterygii: Saurichthys giga.
->> - Sarcopterygii: Aphelodus anapes, Namatozodia pitikanta, Ptychoceratodus phillipsi, 
+>> - Actinopterygii: *Saurichthys giga*.
+>> - Sarcopterygii: *Aphelodus anapes*, *Namatozodia pitikanta*, *Ptychoceratodus phillipsi*
 >> - Tetrapoda: Acerastea wadeae, Arcadia	myriadens, Capulomala	arcadiaensis, Keratobrachyops australis, Lapillopsis	nana, Nanolania anatopretia, Plagiobatrachus australis, Rewana	quadricuneata, Tirraturhinus smisseni, Warrenisuchus	aliciae, Watsonisuchus	gunganj, W. rewanensis, Xenobrachyops	allos, Trematosauridae	indet., Eomurruna	yurrgensis, Kadimakara	australiensis, Kalisuchus	rewanensis, Kudnu mackinlayi, Dicynodontia	indet.
 > - **Locality and horizon**: Arcadia Formation, Queensland, Australia.
 > - **References**:
@@ -3679,6 +3681,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 > - Gow C. The Triassic reptile Palacrodon browni Broom, synonymy and a new specimen. Palaeontologia africana. 1999; 35:21–3.
 > - Jenkins KM, Meyer DL, Lewis PJ, Choiniere JN, Bhullar BA. Re-description of the early Triassic diapsid Palacrodon from the lower Fremouw formation of Antarctica. Journal of Anatomy. 2022; 241(6):1441–58.
 > - Gower DJ, Hancox PJ, Botha-Brink J, Sennikov AG, RJ B. A New Species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes: Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE. 2014; 9:e111154.
+
 
 
 
