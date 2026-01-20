@@ -2423,6 +2423,17 @@ Elliott, F. M., & Giles, S. (2024). A new species of *Mesolepis* (Actinopterygii
 
 Elliott, F. M., Challands, T. J., & Smithson, T. R. (2023). Dipnoan diversity in the early Pennsylvanian of Scotland: new lungfish from the Lower Coal Measures of North Lanarkshire. *Scottish Journal of Geology*, *59*(1), sjg2023-006. https://doi.org/10.1144/sjg2023-006
 
+Ivanov, A. O. (2013). Chondrichthyans from the Early–Late Carboniferous boundary beds of the Gissar Mountains, Uzbekistan. *Bulletin of Geosciences*, *88*(1), 145–152.
+
+Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17.
+
+
+
+
+
+
+
+
 
 
 
