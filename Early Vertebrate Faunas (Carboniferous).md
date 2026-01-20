@@ -857,6 +857,8 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The assemblage consists of isolated ichthyoliths (teeth) recovered from shallow marine carbonates. It represents the first record of these symmoriiform and xenacanthiform shark genera in the Carboniferous of China, demonstrating paleobiogeographic affinities with North American and European palaeoequatorial marine faunas. (Wang et al., 2004)
 
 #### Stainmore Formation, Northern England, UK
+> - **Age**: Serpukhovian to Bashkirian
+> - **Taxa**:
 >> - Chondrichthyes: *Diplodus* sp. [tooth] (syn. *Orthacanthus* or *Diplodoselache*). (Armstrong & Price, 1954; Owens & Burgess, 1965)
 >> - Sarcopterygii: *Rhabdoderma* sp. [scales], *Rhizodopsis* sp. [scales]. (Armstrong & Price, 1954; Owens & Burgess, 1965)
 >> - Actinopterygii: *Elonichthys* sp. [scales], *Rhadinichthys* sp. [scales], indeterminate palaeoniscid scales. (Armstrong & Price, 1954; Owens & Burgess, 1965)
@@ -949,7 +951,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The vertebrate body-fossil record is dominated by disarticulated fish remains (scales, teeth, spines) from marine and brackish horizons. Although tetrapod footprints (e.g., *Ichniotherium*) are common in the Bochum Formation, skeletal remains of tetrapods are virtually absent, likely due to acidic swamp conditions that inhibited bone preservation. (Voigt & Ganzelewski, 2010; Witzmann et al., 2010)
 
 #### Scottish Lower Coal Measures Formation, Ardenrigg Colliery (Wester Bracco), North Lanarkshire, Scotland, UK
-> - **Age**: Langsettian (Westphalian A; Bashkirian), *Carbonicola communis* Chronozone. (Elliott et al., 2023)
+> - **Age**:  Bashkirian (Elliott et al., 2023)
 > - **Taxa**:
 >> - Sarcopterygii: *Braccodus kerri*, *Lanarkodus clarki*, *Sagenodus* sp., *Conchopoma* sp., *Rhizodopsis rankini*. (Elliott, 2023; Elliott et al., 2023)
 >> - Actinopterygii: *Millerolepis eleionomae*, *Parahaplolepis alexandrae*, *Braccohaplolepis fenestratum*, *Mesolepis arabellae*, *Mesonichthys aitkeni*, *Platysomus parvulus*, *Elonichthys caudalis*. (Elliott, 2015; Elliott, 2018; Elliott & Giles, 2024)
@@ -965,7 +967,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Ivanov, 2013; Ivanov & Hu, 2025.
 > - **Comments**: Interpreted as a deep-water Paleotethyan chondrichthyan assemblage with comparatively high taxonomic diversity near the Serpukhovian–Bashkirian transition. *Gissarodus* is reported as endemic to the Asian Paleotethys (Kazakhstan, Uzbekistan, China). The section is reported to yield the oldest global record of *Stethacanthulus meccaensis*. (Ivanov & Hu, 2025)
 
-#### Naqing section, Guizhou Province, South China
+#### Nandan Formation, Naqing Section, Guizhou Province, South China
+
+> - **Age**: Late Devonian (Famennian) to Early Permian (Asselian). (Ivanov & Hu, 2025; Qi et al., 2014)
+> - **Taxa**:
+>> - Chondrichthyes: *Stethacanthulus meccaensis*, *Gissarodus flabellatus*, *Squatinactis* sp., *Thrinacodus* sp., *Cladodus* sp., Jalodontiformes indet. (Ivanov & Hu, 2025)
+>> - Conodonta: *Lochriea ziegleri*, *Idiognathodus simulator*, *Idiognathodus anteparallelus*, *Idiognathodus prosonimius*, *Idiognathodus zhuotingi*, *Declinognathodus noduliferus*, *Diplognathodus ellesmerensis*, *Swadelina* sp., *Gnathodus bilineatus*. (Qi et al., 2014; Wang et al., 2011; Hu et al., 2025)
+>> - Actinopterygii: Indeterminate teeth and scales. (Ivanov & Hu, 2025)
+> - **Locality and horizon**: Naqing section (25°15′04″N, 106°29′07″E), road-cut along the S312 highway, Luodian County, Guizhou Province; Nandan Formation, deep-water carbonate slope facies. (Ivanov & Hu, 2025; Qi et al., 2014)
+> - **References**: Hu et al., 2025; Ivanov & Hu, 2025; Qi et al., 2014; Wang et al., 2011.
+> - **Comments**: Represents a continuous deep-water “Black Zone” succession widely used for Carboniferous biostratigraphic calibration and GSSP-related studies. The assemblage includes a diverse Bashkirian chondrichthyan fauna, combining endemic taxa such as *Gissarodus flabellatus* with cosmopolitan elements (*Stethacanthulus meccaensis*), supporting interpretation of deep-water slope settings as refugia for vertebrate lineages during the Late Paleozoic Ice Age. (Ivanov & Hu, 2025)
+
 
 #### Narao section, Guizhou Province, South China
 
@@ -2426,6 +2438,7 @@ Elliott, F. M., Challands, T. J., & Smithson, T. R. (2023). Dipnoan diversity in
 Ivanov, A. O. (2013). Chondrichthyans from the Early–Late Carboniferous boundary beds of the Gissar Mountains, Uzbekistan. *Bulletin of Geosciences*, *88*(1), 145–152.
 
 Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17.
+
 
 
 
