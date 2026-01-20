@@ -620,25 +620,33 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Bissell, 1964; Larson & Scott, 1955; Lucas & Orchard, 2007; Romano et al., 2017; Wardlaw, 1977; Wardlaw & Collinson, 1977; Yochelson & Fraser, 1973
 > - **Comments**: 
 
-#### Abrahamskraal Formation, Northern/Western/Eastern Cape, South Africa
-> - **Age**: latest Wordian – late Capitanian, Guadalupian (middle Permian).
+#### Eodicynodon Assemblage Zone, Abrahamskraal Formation, Karoo Basin, South Africa
+> - **Age**: Wordian, Guadalupian, Permian.
 > - **Taxa**: 
->> - Dinocephalia: *Moschops capensis*, *Tapinocaninus pamelae*.
->> - Dicynodontia: *Eodicynodon oosthuizeni*, *Robertia broomiana*, *Eosimops newtoni*, *Lanthanostegus mohoii*, *Colobodectes* sp.
->> - Pareiasauria: *Bradysaurus baini*.
+>> - Temnospondyli indet. Rubidge (1995:5) mentioned the presence of fragmentary temnospondyl remains.
+>> - Dinocephalia: Australosyodon nyaphuli NMQR 3152 Rubidge, 1994; Tapinocaninus pamelae NMQR 2987 Rubidge, 1991
+>> - Anomodontia: “Eodicynodon” oelofseni NMQR 2913 Rubidge, 1990; Eodicynodon oosthuizeni NMQR 2902 Rubidge, 1984; Patranomodon nyaphulii NMQR 3000 Rubidge and
+Hopson, 1996
+>> - Gorgonopsia indet. Rubidge (1995:5) mentioned the presence of fragmentary gorgonopsian remains.
+>> - Therocephalia: Glanosuchus macrops NMQR 2908 Abdala et al., 2008; Ictidosaurus angusticeps NMQR 2910 Abdala et al., 2008
 > - **Locality and horizon**: The Abrahamskraal Formation crops out across the Northern, Western and Eastern Cape provinces of South Africa within the main Karoo Basin. It is the basal formation of the Adelaide Subgroup of the Beaufort Group and overlies the Waterford Formation (Ecca Group); in the southwestern part of the basin it reaches 2 200–2 565 m in thickness and thins northeastward.
-> - **References**: Day et al., 2021; Day & Rubidge, 2020; Rubidge & Day, 2020; Cole et al., 2016; Jirah & Rubidge, 2014; Rubidge et al., 2021; Rubidge et al., 2023.
+> - **References**: 
 > - **Comments**:
 
-#### Abrahamskraal Formation, Karoo Basin, South Africa
-> - **Age**: upper Wordian to upper Capitanian, Guadalupian (middle Permian).
+#### Tapinocephalus Assemblage Zone, Abrahamskraal Formation, Karoo Basin, South Africa
+> - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**: 
+>> - *Moschops capensis*, *Tapinocaninus pamelae*.
+>> - Dicynodontia: *Eodicynodon oosthuizeni*, *Robertia broomiana*, *Eosimops newtoni*, *Lanthanostegus mohoii*, *Colobodectes* sp.
+>> - Pareiasauria: *Bradysaurus baini*.
 >> - Therapsida: Dinocephalia, Dicynodontia, Therocephalia, Gorgonopsia, Biarmosuchia, basal Anomodontia.
 >> - Reptilia: Pareiasauria, *Eunotosaurus*.
 >> - Amphibia: Rhinesuchidae.
 > - **Locality and horizon**: Lowermost formation of the lower Beaufort Group (Adelaide Subgroup, Karoo Supergroup) (Cole et al., 2016). Correlates with the *Tapinocephalus* Assemblage Zone (AZ) (Ronchi et al., 2023). The *Tapinocephalus* AZ within this formation is subdivided into the lower *Eosimops – Glanosuchus* Subzone (corresponding to the Leeuvlei, Koornplaats, and Swaerskraal members) and the upper *Diictodon – Styracocephalus* Subzone (corresponding to the Moordenaars and Karelskraal members) (Day & Rubidge, 2020). A key locality is the Gansfontein palaeosurface on Gansfontein farm, near Fraserburg (Bordy et al., 2023).
-> - **References**: Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
+> - **References**: Day et al., 2021; Day & Rubidge, 2020; Rubidge & Day, 2020; Cole et al., 2016; Jirah & Rubidge, 2014; Rubidge et al., 2021; Rubidge et al., 2023.Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
 > - **Comments**: 
+
+
 
 #### Isheevo Formation, Tatarstan, Russia
 > - **Age**: Wordian to early Capitanian, Guadalupian (middle Permian).
@@ -2023,7 +2031,6 @@ cf. Ischigualasa
 #### "Seefeld Member", Wiestal, Northern Calcareous Alps, Salzburg, Austria
 > - **Age**: Alaunian, Middle Norian, Late Triassic
 > - **Taxa**:
->> - <img width="147.4" height="60.7" alt="image" src="https://github.com/user-attachments/assets/7c9fb56d-3f4c-481c-a610-b440b1a3246d" />
 >> - Actinopterygii
 > - **Locality and horizon**: Wiestal site, "Hirtenstein Quarry", Southern slope of the Raucheck Mountain, near the Wiestal reservoir lake, northeast of Hallein, Salzburg, Austria.
 > - **References**:Hornung et al., 2019
@@ -3688,6 +3695,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
