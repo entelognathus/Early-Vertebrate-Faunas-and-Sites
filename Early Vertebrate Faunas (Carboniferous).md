@@ -968,7 +968,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Interpreted as a deep-water Paleotethyan chondrichthyan assemblage with comparatively high taxonomic diversity near the Serpukhovian–Bashkirian transition. *Gissarodus* is reported as endemic to the Asian Paleotethys (Kazakhstan, Uzbekistan, China). The section is reported to yield the oldest global record of *Stethacanthulus meccaensis*. (Ivanov & Hu, 2025)
 
 #### Nandan Formation, Naqing Section, Guizhou Province, South China
-
 > - **Age**: Late Devonian (Famennian) to Early Permian (Asselian). (Ivanov & Hu, 2025; Qi et al., 2014)
 > - **Taxa**:
 >> - Chondrichthyes: *Stethacanthulus meccaensis*, *Gissarodus flabellatus*, *Squatinactis* sp., *Thrinacodus* sp., *Cladodus* sp., Jalodontiformes indet. (Ivanov & Hu, 2025)
@@ -978,8 +977,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Hu et al., 2025; Ivanov & Hu, 2025; Qi et al., 2014; Wang et al., 2011.
 > - **Comments**: Represents a continuous deep-water “Black Zone” succession widely used for Carboniferous biostratigraphic calibration and GSSP-related studies. The assemblage includes a diverse Bashkirian chondrichthyan fauna, combining endemic taxa such as *Gissarodus flabellatus* with cosmopolitan elements (*Stethacanthulus meccaensis*), supporting interpretation of deep-water slope settings as refugia for vertebrate lineages during the Late Paleozoic Ice Age. (Ivanov & Hu, 2025)
 
-
-#### Narao section, Guizhou Province, South China
+#### Baping Formation (Narao Section), Luodian County, Guizhou Province, South China
+> - **Age**: Late Mississippian (Viséan) to Early Permian (Asselian). (Qi et al., 2020; Ivanov & Hu, 2025)
+> - **Taxa**:
+>> - Conodonta: *Lochriea ziegleri*, *Lochriea nodosa*, *Gnathodus bilineatus*, *Declinognathodus noduliferus*, *Neognathodus symmetricus*, *Diplognathodus ellesmerensis*, *Mesogondolella clarki*, *Mesogondolella donbassica*, *Idiognathodus naraoensis*, *Idiognathodus simulator*, *Idiognathodus podolskensis*, *Idiognathodus sagittalis*, *Streptognathodus isolatus*, *Swadelina* sp., *Heckelina* sp. (Qi et al., 2014; Qi et al., 2020; Hu et al., 2023)
+>> - Chondrichthyes: *Stethacanthus* sp., *Gissarodus flabellatus*, Jalodontiformes indet. (Ivanov & Hu, 2025)
+> - **Locality and horizon**: Deep-water carbonate slope deposits exposed along the road from Fengting to Narao (25°24′48″N, 106°36′13″E), beside the Lianjiang River, Luodian County, Guizhou Province; Baping Formation. (Qi et al., 2020; Ivanov & Hu, 2025)
+> - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2014; Qi et al., 2020.
+> - **Comments**: A key auxiliary profile for Carboniferous GSSP-related work, characterized by a continuous deep-water carbonate slope succession. It is the type locality for the conodont *Idiognathodus naraoensis* and also yields deep-water chondrichthyan microremains, including symmoriiforms and jalodontiforms. (Qi et al., 2020; Ivanov & Hu, 2025)
 
 #### Shanglong section, Guizhou Province, South China
 
@@ -2446,6 +2451,7 @@ Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep
 Qi, Y., Nemyrovska, T. I., Wang, X., & Wang, Q. (2014). Late Visean–early Serpukhovian conodont succession at the Naqing (Nashui) section in Guizhou, South China. *Palaeoworld*, *23*(3–4), 311–322.
 
 Wang, X., Qi, Y., & Wang, Q. (2011). Carboniferous conodont biostratigraphy of the Dianzishang section, Zhenning, Guizhou, South China. *Geological Magazine*, *148*(5–6), 1–16.
+
 
 
 
