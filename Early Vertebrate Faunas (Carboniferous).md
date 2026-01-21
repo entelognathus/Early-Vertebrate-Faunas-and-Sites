@@ -2497,6 +2497,11 @@ Nigmadganov, I. M., & Nemirovskaya, T. I. (1992). Mid-Carboniferous boundary con
 
 Nikolaeva, S. V. (1995). Ammonoids from the late Lower and early Upper Carboniferous of Central Asia. *Courier Forschungsinstitut Senckenberg*, *179*, 1–107.
 
+Bahrami, A., Corradini, C., Over, D. J., & Yazdi, M. (2011). Conodont biostratigraphy across the Devonian/Carboniferous boundary in the Shotori Range, Tabas area, Central-East Iran Microplate. *Bollettino della Società Paleontologica Italiana*, *50*(1), 35–53.
+
+Hairapetian, V., Korn, D., & Bahrami, A. (2006). Viséan and Bashkirian ammonoids from Central Iran. *Acta Geologica Polonica*, *56*(3), 229–240.
+
+Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations of the Shotori Range, Iran. *Records of the Western Australian Museum Supplement*, *58*, 223–240.
 
 
 
