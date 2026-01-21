@@ -2483,6 +2483,15 @@ Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep
 
 Qi, Y., Barrick, J. E., Hogancamp, N. J., Chen, J., Hu, K., Wang, Q., & Wang, X. (2020). Conodont faunas across the Kasimovian–Gzhelian boundary (Late Pennsylvanian) in South China and implications for the selection of the stratotype for the base of the global Gzhelian Stage. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *553*, 109796.
 
+Ivanov, A. O. (2013). Chondrichthyans from the Early/Late Carboniferous boundary beds of the Gissar Mountains, Uzbekistan. *New Mexico Museum of Natural History and Science Bulletin*, *60*, 143–151.
+
+Ivanov, A. O., & Duffin, C. J. (2008). New chondrichthyan teeth from the Early Carboniferous of Britain and Russia. *Acta Geologica Polonica*, *58*(2), 191–206.
+
+Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17.
+
+Nigmadganov, I. M., & Nemirovskaya, T. I. (1992). Mid-Carboniferous boundary conodonts from the Gissar Ridge, South Tienshan, Middle Asia. *Courier Forschungsinstitut Senckenberg*, *154*, 253–275.
+
+Nikolaeva, S. V. (1995). Ammonoids from the late Lower and early Upper Carboniferous of Central Asia. *Courier Forschungsinstitut Senckenberg*, *179*, 1–107.
 
 
 
