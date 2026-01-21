@@ -2529,6 +2529,43 @@ Doyle, E., & Ó Gogáin, A. (2019). Tetrapod bones from the Clare Shale Formatio
 
 Fallon, P., & Murray, J. (2015). Conodont biostratigraphy of the mid-Carboniferous boundary in western Ireland. *Geological Magazine*, *152*(6), 1025–1042.
 
+Anderson, J. S. (2003). A new aïstopod (Tetrapoda: Lepospondyli) from Mazon Creek, Illinois. *Journal of Vertebrate Paleontology*, *23*(1), 79–88.
+
+Baird, G. C. (1979). Lithology and fossil distribution, Francis Creek Shale in northeastern Illinois. In M. H. Nitecki (Ed.), *Mazon Creek Fossils* (pp. 41–67). Academic Press.
+
+Bardack, D. (1974). A larval fish from the Pennsylvanian of Illinois. *Journal of Paleontology*, *48*(5), 988–993.
+
+Bardack, D. (1991). First fossil hagfish (Myxinoidea): A record from the Pennsylvanian of Illinois. *Science*, *254*(5032), 701–703.
+
+Bardack, D., & Richardson, E. S. (1977). New agnathans from the Pennsylvanian Mazon Creek fauna of Illinois. *Fieldiana: Geology*, *33*(26), 489–510.
+
+Bardack, D., & Zangerl, R. (1968). First fossil lamprey: A record from the Pennsylvanian of Illinois. *Science*, *162*(3859), 1265–1267.
+
+Byrnes, B. M., Bolt, J. R., & Mann, A. (2024). First occurrence of the urocordylid *Ctenerpeton remex* from the Mazon Creek Lagerstätte, Illinois, USA. *Vertebrate Anatomy Morphology Palaeontology*, *11*, 1–7.
+
+Clements, T., Purnell, M. A., & Gabbott, S. E. (2019). The Mazon Creek Lagerstätte: A diverse late Paleozoic ecosystem entombed within siderite concretions. *Journal of the Geological Society*, *176*(1), 1–11.
+
+Mann, A., & Maddin, H. C. (2019). *Diabloroter bolti*, a short-bodied recumbirostran from the Francis Creek Shale, Mazon Creek, Illinois. *Zoological Journal of the Linnean Society*, *187*(2), 494–505.
+
+Mann, A., Pardo, J. D., & Maddin, H. C. (2019). *Infernovenator steenae*, a new serpentine recumbirostran from the Mazon Creek Lagerstätte. *Zoological Journal of the Linnean Society*, *187*(2), 506–517.
+
+Mann, A., Pardo, J. D., & Maddin, H. C. (2022). Snake-like limb loss in a Carboniferous amniote. *Nature Ecology & Evolution*, *6*(5), 614–621.
+
+Moodie, R. L. (1912). The Pennsylvanian Amphibia of the Mazon Creek, Illinois, shales. *Kansas University Science Bulletin*, *6*(2), 323–359.
+
+Sallan, L. C., & Coates, M. I. (2014). The long-rostrumed elasmobranch *Bandringa* and taphonomy within a Carboniferous shark nursery. *Journal of Vertebrate Paleontology*, *34*(1), 22–33.
+
+Schultze, H.-P. (1977). *Megapleuron zangerli*: A new dipnoan from the Pennsylvanian of Illinois. *Fieldiana: Geology*, *33*(21), 375–396.
+
+Schultze, H.-P., & Bardack, D. (1987). Diversity and size changes in palaeonisciform fishes from the Pennsylvanian Mazon Creek fauna. *Journal of Vertebrate Paleontology*, *7*(1), 1–23.
+
+Shabica, C. W., & Hay, A. A. (1997). *Richardson’s Guide to the Fossil Fauna of Mazon Creek*. Northeastern Illinois University.
+
+Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony fishes. *Bulletin of the American Museum of Natural History*, *83*, 1–121.
+
+Zangerl, R. (1969). *Bandringa rayi*, a new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, *12*(10), 157–169.
+
+Zangerl, R. (1979). New Chondrichthyes from the Mazon Creek fauna (Pennsylvanian) of Illinois. In M. H. Nitecki (Ed.), *Mazon Creek Fossils* (pp. 449–500). Academic Press.
 
 
 
