@@ -708,9 +708,11 @@ Hopson, 1996
 #### Morro Pelado Member, Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
 > - **Age** Capitanian, Guadalupian, Permian.
 > - **Taxa**:
->> - Therapsida: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet.
->> - Parareptilia: *Provelosaurus americanus*.
->> - Temnospondyli: *Bageherpeton longignathus*, *Australerpeton cosgriffi*, “*Rhinesuchus*-like” temnospondyl.
+>> - Parareptilia: *Provelosaurus americanus* UFRGS 0231P Araújo, 1985; MCP 4263PV Cisneros et al., 2005
+>> - Temnospondyli: *Bageherpeton longignathus* UFRGS PV0317P Dias and Barbarena, 2001, *Australerpeton cosgriffi*, “*Rhinesuchus*-like” temnospondyl; Konzhukovia sangabrielensis UNIPAMPA PV-00137 Pacheco et al., 2016 Specimen was mentioned as a melosaurine by Diasda-Silva (2012); Temnospondyli indet. MCP 4275-PV Malabarba et al., 2003; Australerpeton cosgriffi; Platyoposaurinae indet. Eltink and Langer, 2010; Konzhukovia sp. UFRGS PV0350P Barbarena et al., 1980; Australerpeton cosgriffi UFRGS PV0227P Barbarena, 1998; Parapytanga catarinensis UFRGS PV0355P Strapasson et al., 2014
+>> - Dinocephalia: Pampaphoneus biccai UFRGS PV386P Cisneros et al., 2012; Anteosauridae indet. UFRGS PV0249P Langer, 2000 Originally considered to be a brithopodine, but reevaluated as an anteosaurid by Kammerer (2011); Titanosuchidae indet. MCP 3838-PV Langer, 2000; Tapinocephalidae indet. UFRGS PV0487P Boos et al., 2015
+>> - Anomodontia: Rastodon procurvidens UNIPAMPA PV 00317 Boos et al., 2016 Specimen was mentioned by Dias da Silva (2012) and Boos et al. (2013) as a pylaecephalid; Tiarajudens eccentricus UFRGS PV393P Cisneros et al., 2011; Endothiodon sp. FURB PV0226P Boos et al., 2013; 
+>> - Archosauromorpha: Archosauromorpha indet. UFRGS PV0546P Martinelli et al., 2016
 >> - Actinistia: Actinistia indet.
 >> - Dipnoi: Dipnoi indet.
 >> - Actinopterygii: Palaeonisciformes indet.
@@ -722,7 +724,6 @@ Hopson, 1996
 > - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016; Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
 > - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
 > - Here we assign the age of the Serrinha Member as Wordian, the age of the Morro Pelado Member as Capitanian.
-
 
 #### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
 > - **Age**: Capitanian, Guadalupian, Permian.
@@ -884,8 +885,6 @@ Hopson, 1996
 > - **Locality and horizon**: Vertebrate fossils are known from the lower, middle, and upper members of the formation, primarily from the Luangwa Basin (e.g., North Luangwa National Park, Munyamadzi Game Management Area, localities L322, L359, Locality 4) and the Mid-Zambezi Basin (e.g., Gwembe District, locality L70). (Sidor et al., 2021; Peecook et al., 2025; Drysdall and Kitching, 1963; Whitney & Sidor, 2016; Sidor, 2015; Sidor et al., 2014)
 > - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor et al., 2021; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
 > - **Comments**:  
-
-
 
 #### Lower Sakamena Formation, Sakamena Group, Morondava Basin, Madagascar
 > - **Age**: Wuchiapingian, Lopingian, Permian 
@@ -3705,6 +3704,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
