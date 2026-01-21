@@ -1025,12 +1025,20 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Deposited in a deep-water, condensed, anoxic to dysoxic marine basin of the Shannon Trough. Vertebrate remains are concentrated within phosphatic lag horizons formed under conditions of sediment starvation. Tetrapod material is interpreted as allochthonous, most plausibly transported from terrestrial environments via “bloat-and-float” processes prior to final deposition. (Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015)
 
 
-#### Mazon Creek, Morris, Grundy County, Illinois, USA
-> - **Age**: Moscovian
-> - **Taxa**: *Acanthodes beecheri*, **, **
-> - **Locality and horizon**: Mazon Creek, Morris, Grundy County, Illinois, USA**
-> - **References**:
-> - **Comments**: 
+
+
+
+#### Francis Creek Shale (Mazon Creek), Morris, Grundy County, Illinois, USA
+> - **Age**: Middle Pennsylvanian, Moscovian (Desmoinesian, Westphalian D). (Baird, 1979; Clements et al., 2018, 2019)
+> - **Taxa**:
+>> - Agnatha: *Mayomyzon pieckoensis* (lamprey), *Pipiscius zangerli*, *Gilpichthys greenei*, *Myxinikela siroka* (hagfish). (Bardack & Zangerl, 1968; Bardack & Richardson, 1977; Bardack, 1991)
+>> - Chondrichthyes: *Bandringa rayi* (syn. *B. herdinae*), *Dabasacanthus inskasi*, *Similihariotta dabasinskasi*, *Polysentor gorbairdi*, *Jimpohlia erinacea*. (Zangerl, 1969, 1979; Sallan & Coates, 2014)
+>> - Actinopterygii: *Elonichthys peltigerus*, *Elonichthys hypsilepus* (syn. *E. perpennatus*), *Platysomus circularis*, *Pyritocephalus gracilis*, *Pyritocephalus comptus*, *Haplolepis ovoidea*, *Haplolepis tuberculata*, *Illiniichthys* sp. (Westoll, 1944; Schultze & Bardack, 1987)
+>> - Sarcopterygii: *Rhabdoderma elegans*, *Conchopoma edesi*, *Megapleuron zangerli*, *Rhizodopsis mazonius*, *Ctenodus* sp., *Esconichthys apopyris* (incertae sedis/larval form). (Bardack, 1974; Schultze, 1977, 2004)
+>> - Tetrapoda: *Amphibamus grandiceps*, *Cephalerpeton ventriarmatum*, *Spondylerpeton spinatum*, *Pseudophlegethontia turnbullorum*, *Infernovenator steenae*, *Diabloroter bolti*, *Nagini mazonense*, *Ctenerpeton remex*. (Moodie, 1912; Anderson, 2003; Mann et al., 2019, 2022; Byrnes et al., 2024)
+> - **Locality and horizon**: Mazon Creek area (including Pit 11), northeastern Illinois; Francis Creek Shale Member, Carbondale Formation. Fossils occur within siderite concretions in deltaic mudstones. (Baird, 1979; Shabica & Hay, 1997)
+> - **References**: Anderson, 2003; Baird, 1979; Bardack, 1974, 1991; Bardack & Richardson, 1977; Bardack & Zangerl, 1968; Byrnes et al., 2024; Mann & Maddin, 2019; Mann et al., 2019, 2022; Sallan & Coates, 2014; Schultze, 1977; Schultze & Bardack, 1987; Zangerl, 1969, 1979.
+> - **Comments**: A world-renowned *Konservat-Lagerstätte* characterized by siderite concretions preserving soft tissues and articulated skeletons. The fauna is classically divided into the marine-influenced “Essex” assemblage (e.g., sharks, hagfish) and the freshwater–terrestrial “Braidwood” assemblage (e.g., tetrapods, insects), reflecting a deltaic–estuarine depositional system. The site preserves the earliest known fossil lampreys and hagfish, and documents a shark nursery environment for *Bandringa*. (Shabica & Hay, 1997; Sallan & Coates, 2014; Clements et al., 2019)
 
 ### Moscovian, Middle Pennsylvanian, Carboniferous
 > Westphalian in NW Europe
@@ -2520,6 +2528,7 @@ Doyle, E. (2025). First Irish record of denticles of the enigmatic Paleozoic sha
 Doyle, E., & Ó Gogáin, A. (2019). Tetrapod bones from the Clare Shale Formation (Pennsylvanian, Bashkirian) of County Clare, Ireland. *Irish Journal of Earth Sciences*, *37*(1), 19–25. https://doi.org/10.3318/IJES.2019.37.2
 
 Fallon, P., & Murray, J. (2015). Conodont biostratigraphy of the mid-Carboniferous boundary in western Ireland. *Geological Magazine*, *152*(6), 1025–1042.
+
 
 
 
