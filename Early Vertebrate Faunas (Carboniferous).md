@@ -2469,6 +2469,18 @@ Qi, Y., Barrick, J. E., Hogancamp, N., Chen, J., Hu, K., Wang, Q., & Wang, X. (2
 
 Qi, Y., Nemyrovska, T. I., Wang, X., Chen, J., Wang, Z., Lane, H. R., Richards, B. C., Hu, K., & Wang, Q. (2014). Late Visean–early Serpukhovian conodont biostratigraphy at the Naqing section, Guizhou, South China. *Palaeoworld*, *23*(4), 369–380.
 
+Hu, K., Qi, Y., & Wang, X. (2023). Biostratigraphy and biofacies of the Kasimovian conodonts from the Shanglong section, South China. *Geological Society, London, Special Publications*, *535*(1), 173–193. https://doi.org/10.1144/SP535-2022-173
+
+Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17. https://doi.org/10.1017/jpa.2025.10134
+
+Qi, Y., Barrick, J. E., Hogancamp, N. J., Chen, J., Hu, K., Wang, Q., & Wang, X. (2020). Conodont faunas across the Kasimovian–Gzhelian boundary (Late Pennsylvanian) in South China and implications for the selection of the stratotype for the base of the global Gzhelian Stage. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *553*, 109796.
+
+
+
+
+
+
+
 
 
 
