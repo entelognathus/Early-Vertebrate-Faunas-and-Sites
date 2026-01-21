@@ -805,6 +805,13 @@ Hopson, 1996
 > - **References**: Bakaev, 2022.
 > - **Comments**: 
 
+#### Poldarsa Formation, Kochevala-2, Vologda Region, European Russia
+> - **Age**: Wuchiapingian, Lopingian, Permian.
+> - **Taxa**: Toyemia tverdochlebovi, Geryonichthys longus, Varialepis cf. stanislavi; tetrapods Microphon exiguus
+> - **Locality and horizon**: Poldarsa Formation, Vologda Region, Nyuksensky District, right bank of the Sukhona River, 500 m downstream from the Kochevala River mouth, 200 m downstream from the power line. 
+> - **References**: Bakaev, 2022.
+> - **Comments**: 
+
 ## Lopingian (late Permian, 乐平世)
 ### Wuchiapingian（吴家坪期）, Lopingian, Permian
 #### Shangshihezi Formation or Upper Shiheze Formation（上石盒子组）, Jiyuan, Henan, China
@@ -888,13 +895,6 @@ Hopson, 1996
 > - **References**:
 > - **Comments**: The uppermost Severodvinian deposits is well characterized by fish fauna, including the fossils of three eurynotoidiforms referred to the genus Isadia: I. suchonensis A. Minich, 1986, I. aristoviensis A. Minich, 1990 and I. opokiensis A. Minich et Andrushkevich, 2017. The upper part of the Kichuga Member of the Poldarsa Formation of the Severodvinian Stage, corresponding to early Wuchiapingian (Bakaev, 2020).
 
-#### Poldarsa Formation, Kochevala-2, Vologda Region, European Russia
-> - **Age**: Wuchiapingian, Lopingian, Permian.
-> - **Taxa**: Toyemia tverdochlebovi, Geryonichthys longus, Varialepis cf. stanislavi; tetrapods Microphon exiguus
-> - **Locality and horizon**: Poldarsa Formation, Vologda Region, Nyuksensky District, right bank of the Sukhona River, 500 m downstream from the Kochevala River mouth, 200 m downstream from the power line. 
-> - **References**: Bakaev, 2022.
-> - **Comments**: 
-
 #### Orenburg & Vladimir Regions, Russia 
 > - **Age**: Wuchiapingian, Lopingian, Permian
 > - **Taxa**:
@@ -940,11 +940,10 @@ Hopson, 1996
 > - **References**: Huttenlocker & Sidor, 2016.
 > - **Comments**:
 
-#### Madumabisa Mudstone Formation, Zambia
-> - **Age**: Guadalupian (lower formation); Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
+#### Middle and Upper Madumabisa Mudstone Formation, Zambia
+> - **Age**: Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
 > - **Taxa**:
 >> - Therapsida:
->>> - Dinocephalia: *Mobaceras zambeziense* (**lower MMF**), Tapinocephalid indet. (**lower MMF**).
 >>> - Therapsida indet.: *Wantulignathus gwembensis* (**middle MMF**).
 >>> - Dicynodontia: *Endothiodon* sp. (**upper MMF**), *Kembawacela kitchingi* (**upper MMF**), *Aulacephalodon kapoliwacela* (**upper MMF**), *Daptocephalus* sp. (**upper MMF**), *Dicynodon* sp. (**upper MMF**).
 >>> - Therocephalia: *Theriognathus microps* (**upper MMF**).
@@ -1964,7 +1963,6 @@ cf. Ischigualasa
 > - **Locality and horizon**:
 > - **References**:
 > - **Comments**: 
-
 
 #### Santa Curz sequence (Santa Maria Formation), Rosário do Sul Group, Rio Grande do Sul, southern Brazil
  - **Age**: early Carnian, Late Triassic.
@@ -3775,6 +3773,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
