@@ -763,10 +763,17 @@ Hopson, 1996
 > - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
 > - **Comments**:
 
-#### Malaya Kinel Subassemblage, Cis-Urals Region, Russia 
+#### Malaya Kinel Subassemblage, Cis-Urals Region, Russia and Kazakhstan
 > - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**:
->> - 
+>> - Temnospondyli: Temnospondyli indet. PIN 272/52 V’yushkov, 1955 This specimen was originally classified as Tryphosuchus kinelensis, but this genus is now considered a nomen dubium by Pacheco et al. (2016).
+>> - Seymouriamorpha: Enosuchus cf. breviceps
+>> - Anthracosauromorpha: Anthracosauramorpha indet. Golubev (2000) mentioned the presence of anthracosauromorph remains
+>> - Parareptilia: Permotriturus sp. Golubev (2000) mentioned the presence of Permotriturus
+>> - Biarmosuchia: Microurania minima PIN 4337/1 Ivakhnenko, 2003; Phthinosaurus sp. PIN 4539/1 Ivakhnenko et al., 1997
+>> - Dinocephalia: Notosyodon gusevi PIN 2505/1 Tchudinov, 1968; Ulemosaurus gigas PIN 1955/5 Ivakhnenko, 2003
+>> - Anomodontia: Ulemica sp. PIN 4337/5 Ivakhnenko et al., 1997
+>> - Therocephalia: Porosteognathus sp. Golubev (2000) mentioned the presence of Porosteognathus
 > - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
@@ -3756,6 +3763,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
