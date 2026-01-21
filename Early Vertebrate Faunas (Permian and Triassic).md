@@ -749,27 +749,25 @@ Hopson, 1996
 > - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
 > - Here we assign the age of the Serrinha Member as Wordian, the age of the Morro Pelado Member as Capitanian.
 
-#### Isheevo Subassemblage, Cis-Urals Region, Russia 
+#### Isheevo Subassemblage, Isheevo Formation, Tatarstan, Cis-Urals Region, Russia 
 > - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**:
->> - 
-> - **Locality and horizon**: Poldarsa and Sundyr-1 localities
-> - **References**:
-> - **Comments**:
-
-#### Isheevo Formation, Tatarstan, Russia
-> - **Age**: Wordian to early Capitanian, Guadalupian (middle Permian).
-> - **Taxa**:
->> - Therapsida: *Ulemosaurus svijagensis*, *Ulemica invisa*, *Ulemica efremovi*. Parareptilia: *Permotriturus herrei*, *Belebey shumovi*.
-> - **Locality and horizon**: sheevo Locality, gorge Kurmy-Chugor, Kamennyi Ravine, left bank of Ulema River (tributary of Sviaga River), Apastovskii District, Tatarstan, Russia. Urzhumian Horizon (Dinocephalian Complex), Isheevo Faunal Assemblage (Zone II), corresponding to the Isheevo Formation (upper Urzhumian parastratotype) (Ivakhnenko, 1996; Silantiev et al., 2017).
+>> - Temnospondyli: Konzhukovia vetusta PIN 520/1 Konzhukova, 1955; Melosauridae indet. Ivakhnenko (2008) mentioned the presence of melosaurid remains; Uralosuchus tverdochlebovae PIN 4405/1 Gubin, 1993
+>> - Seymouriamorpha: Enosuchus breviceps PIN 271/99 Ivakhnenko, 1987; Karpinskiosaurus sp. Ivakhnenko (2008) mentioned the presence of Karpinskiosaurus
+>> - Parareptilia: Chalcosaurus lukjanovae PIN 2793/2 Ivakhnenko, 1980; Lanthanosuchus watsoni PIN 271/1 Efremov, 1946; Nycteroleteridae indet. Ivakhnenko (2008)mentioned the presence of nycteroleterid remains; Permotriturus herrei PIN 157/500 Ivakhnenko, 1990; Procolophonia indet. Ivakhnenko (2008) mentioned the presence of procolophonian remains; *Belebey shumovi*.
+>> - Biarmosuchia: Biarmosuchoides romanovi SGU 104B/2051 Tverdokhlebov and Ivakhnenko, 1994
+>> - Dinocephalia: Anteosaurus sp. PIN 1955/1 Ivakhnenko, 2003 Considered to be the senior synonym of Titanophoneus rugosus by Kammerer (2011); Deuterosaurus biarmicus PIN 1954/1 Eichwald, 1848; Notosyodon gusevi PIN 2505/1 Tchudinov, 1968 Ivakhnenko (1995) believes that this taxon belongs to the genus Syodon, but Kammerer (2011) asserts that Notosyodon is a distinct genus; Syodon biarmicum LGM/ChMP 140/1 Kutorga, 1838 Considered the senior synonym of Syodon efremovi (also Cliorhizodon efremovi) by Kammerer (2011); Titanophoneus adamanteus PIN 519 Orlov, 1958 The species Doliosauriscus adamanteus was assigned to the genus Titanophoneus by Kammerer (2011); Titanophoneus potens PIN 157/1 Efremov, 1938 Considered the senior synonym of Doliosauriscus yanschinovi by Kammerer (2011); Ulemosaurus svijagensis PIN 2207/2 Ryabinin, 1938 Considered by some authors to be a junior synonym of Moschops (Tchudinov, 1983), but others disagree (Ivakhnenko, 1994).
+>> - Anomodontia: Ulemica invisa PIN 157/5 Efremov, 1940a This species was originally assigned to the genus Venyukovia; Ulemica efremovi PIN 2793/1 Ivakhnenko et al., 1997; Venyukovia prima PIN 48/2 Efremov, 1940a; *Ulemosaurus svijagensis*, 
+>> - Therocephalia: Porosteognathus efremovi PIN 157/19 V’yushkov, 1955
+> - **Locality and horizon**: Isheevo Locality, Gorge Kurmy-Chugor, Kamennyi Ravine, left bank of Ulema River (tributary of Sviaga River), Apastovskii District, Tatarstan, Russia. Urzhumian Horizon (Dinocephalian Complex), Isheevo Faunal Assemblage (Zone II), corresponding to the Isheevo Formation (upper Urzhumian parastratotype) (Ivakhnenko, 1996; Silantiev et al., 2017).
 > - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
-> - **Comments**: 
+> - **Comments**:
 
 #### Malaya Kinel Subassemblage, Cis-Urals Region, Russia 
 > - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**:
 >> - 
-> - **Locality and horizon**: Poldarsa and Sundyr-1 localities
+> - **Locality and horizon**: 
 > - **References**:
 > - **Comments**:
 
@@ -1170,8 +1168,6 @@ Hopson, 1996
 > - **Locality and horizon**: Blina Shale Formation, Kimberley region, Northwest Australia; marine to deltaic shales of the eastern Erskine Range near Noonkanbah Station
 > - **References**: Cosgriff, 1965; McKenzie, 1961; Cosgriff & Garbutt, 1972; Kear & Hamilton‑Bruce, 2011
 > - **Comments**: *Batrachosuchus henwoodi* is a fossil species of amphibian, first described as *Blinasaurus henwoodi* by John W. Cosgriff in 1969. The species was placed in a new generic combination when separating the genus *Blinasaurus*, currently subsumed as a synonym to the genus *Platycepsion*.
-
-
 
 ### Dienerian（第纳尔亚期）, Induan, Early Triassic
 #### "stegocephalian-horizon", Dienerian, late Induan, East Greenland
@@ -3760,6 +3756,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
