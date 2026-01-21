@@ -712,12 +712,23 @@ Hopson, 1996
 > - **Comments**:  
 
 #### Madumabisa Mudstone Formation, mid-Zambezi Basin, Zimbabwe
-> - **Age**: Capitanian,Guadalupian, Permian.
+> - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**:
 >> - Dinocephalia: Anteosauridae indet. NHMB 2141 Lepper et al., 2000; Criocephalosaurus gunyankaensis Specimens lost Boonstra, 1946 This genus was renamed from Criocephalus by Kammerer and Sidor (2002); Tapinocephalidae indet. NHMB 2146 Lepper et al.,
 2000; Unpublished tapinocephalid Munyikwa, 2001
 > - **Locality and horizon**: 
 > - **Comments**:  
+
+#### Moradi Formation, northern Niger
+> - **Age**: Guadalupian, Permian.
+> - **Taxa**:
+>> - Temnospondyli: Nigerpeton ricqlesi MNN MOR69 Steyer et al., 2006; Saharastega moradiensis MNN MOR73 Steyer et al., 2006
+>> - Pareiasauria: Bunostegos akokanensis MNN MOR72 Tsuji et al., 2013
+>> - Captorhinidae: Moradisaurus grandis MNHN MRD1 Ricqlés and Taquet, 1982
+>> - Gorgonopsia: Gorgonopsia indet. MNN MOR99 Smiley et al., 2008
+> - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
+> - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
+> - **Comments**: Olroyd and Sidor assigned its age as Guadalupian. "Of these, the tetrapod-bearing Moradi Formation could be Guadalupian in age, but its endemic tetrapod fauna provides very little biostratigraphic control (Lucas, in press)."
 
 #### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
 > - **Age**: Capitanian, Guadalupian, Permian.
@@ -894,17 +905,6 @@ Hopson, 1996
 > - **References**: Bandyopadhyay & Ray, 2020; Bickelmann et al., 2009; Carroll, 1978; Carroll, 1981; Currie, 1980; Currie, 1981; Ketchum & Barrett, 2004; Mazin & King, 1991; Meckert, 1995; Piveteau, 1926; Piveteau, 1955
 > - **Comments**: Buffa et al. (2022): The Lower Sakamena Formation (southwestern Madagascar) is commonly considered of Wuchiapingian age (e.g., Piveteau, 1926; Currie, 1981a; Hankel, 1994; Lucas, 2017). However, recent reinvestigations (Smith, 2020) and a possible Capitanian age for the Russian taxa (Sennikov and Golubev, 2017) suggest that the age of the Lower Sakamena Formation is poorly constrained and could extend from late Guadalupian to late Lopingian (possibly Capitanian to Changhsingian).
 
-#### Moradi Formation, northern Niger
-> - **Age**: Wuchiapingian to Changhsingian, Lopingian, Permian
-> - **Taxa**:
->> - Sauropsida: *Moradisaurus grandis*.
->> - Parareptilia: *Bunostegos akokanensis*.
->> - Therapsida: cf. Rubidginae.
->> - Temnospondyli: *Saharastega moradiensis*, *Nigerpeton ricqlesi*.
-> - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
-> - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
-> - **Comments**:
-
 #### Usili Formation, Ruhuhu Basin, Tanzania
 > - **Age**: Wuchiapingian, Lopingian, Permian
 > - **Taxa**: 
@@ -1024,13 +1024,6 @@ Hopson, 1996
 > - **Taxa**: Gnathorhiza cf. otschevi Minikh, Boreolepis tataricus, Toyemia blumentalis Minikh, Isadia aristoviensis Minikh, I. cf. suchonensis Minikh, Isadia sp., Varialepis vitalii Minikh, Acropholis cf. stensioei (Esin, 1995b; Tverdokhlebov et al., 2005); tetrapods: Dvinosaurus primus, Karpinskio saurus ultimus, Chroniosuchus paradoxus, Kotlassia cf. prima, Leogorgon klimovensis, Pareiasaurida fam. indet., Peramodon sp. (Ivakhnenko et al., 1997); conchostracans Esteria lineata Lutk., E. angulata Lutk., E. rotunda Lutk., and E. elongata Netsch. 
 > - **Locality and horizon**:Kutuluk Formation, Pronkino, Orenburg Region, Sorochinsky District, left scar of the Borovka River valley, 1 km from the central square of the Pronkino village, approximately halfway up the slope. 
 > - **References**: Bakaev, 2022.
-> - **Comments**: 
-
-#### Moradi Formation, Agadez Department, northern Niger
-> - **Age**: Changhsingian, Lopingian, Permian
-> - **Taxa**: 
-> - **Locality and horizon**:
-> - **References**:
 > - **Comments**: 
 
 #### Balfour Formation, Karoo Basin, South Africa
@@ -3718,6 +3711,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
