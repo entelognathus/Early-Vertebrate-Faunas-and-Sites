@@ -2513,6 +2513,13 @@ Hairapetian, V., Korn, D., & Bahrami, A. (2006). Viséan and Bashkirian ammonoid
 
 Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations of the Shotori Range, Iran. *Records of the Western Australian Museum Supplement*, *58*, 223–240.
 
+Barham, M., Murray, J., & Sevastopulo, G. D. (2015). Conodonts of the genus *Lochriea* in Ireland and the recognition of the Viséan–Serpukhovian (Carboniferous) boundary. *Lethaia*, *48*(2), 151–171.
+
+Doyle, E. (2025). First Irish record of denticles of the enigmatic Paleozoic shark *Listracanthus hystrix* from the Carboniferous of County Clare, Ireland. *Irish Journal of Earth Sciences*, *43*(1), 45–50.
+
+Doyle, E., & Ó Gogáin, A. (2019). Tetrapod bones from the Clare Shale Formation (Pennsylvanian, Bashkirian) of County Clare, Ireland. *Irish Journal of Earth Sciences*, *37*(1), 19–25. https://doi.org/10.3318/IJES.2019.37.2
+
+Fallon, P., & Murray, J. (2015). Conodont biostratigraphy of the mid-Carboniferous boundary in western Ireland. *Geological Magazine*, *152*(6), 1025–1042.
 
 
 
