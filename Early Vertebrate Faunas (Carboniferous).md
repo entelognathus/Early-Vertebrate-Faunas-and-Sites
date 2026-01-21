@@ -968,7 +968,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Interpreted as a deep-water Paleotethyan chondrichthyan assemblage with comparatively high taxonomic diversity near the Serpukhovian–Bashkirian transition. *Gissarodus* is reported as endemic to the Asian Paleotethys (Kazakhstan, Uzbekistan, China). The section is reported to yield the oldest global record of *Stethacanthulus meccaensis*. (Ivanov & Hu, 2025)
 
 #### Nandan Formation, Naqing Section, Guizhou Province, South China
-> - **Age**: Late Devonian (Famennian) to Early Permian (Asselian). (Ivanov & Hu, 2025; Qi et al., 2014)
+> - **Age**: Famennian (Late Devonian) to Asselian (Early Permian). (Ivanov & Hu, 2025; Qi et al., 2014)
 > - **Taxa**:
 >> - Chondrichthyes: *Stethacanthulus meccaensis*, *Gissarodus flabellatus*, *Squatinactis* sp., *Thrinacodus* sp., *Cladodus* sp., Jalodontiformes indet. (Ivanov & Hu, 2025)
 >> - Conodonta: *Lochriea ziegleri*, *Idiognathodus simulator*, *Idiognathodus anteparallelus*, *Idiognathodus prosonimius*, *Idiognathodus zhuotingi*, *Declinognathodus noduliferus*, *Diplognathodus ellesmerensis*, *Swadelina* sp., *Gnathodus bilineatus*. (Qi et al., 2014; Wang et al., 2011; Hu et al., 2025)
@@ -978,7 +978,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Represents a continuous deep-water “Black Zone” succession widely used for Carboniferous biostratigraphic calibration and GSSP-related studies. The assemblage includes a diverse Bashkirian chondrichthyan fauna, combining endemic taxa such as *Gissarodus flabellatus* with cosmopolitan elements (*Stethacanthulus meccaensis*), supporting interpretation of deep-water slope settings as refugia for vertebrate lineages during the Late Paleozoic Ice Age. (Ivanov & Hu, 2025)
 
 #### Baping Formation (Narao Section), Luodian County, Guizhou Province, South China
-> - **Age**: Late Mississippian (Viséan) to Early Permian (Asselian). (Qi et al., 2020; Ivanov & Hu, 2025)
+> - **Age**: Visean (Late Mississippian) to Asselian (Early Permian). (Qi et al., 2020; Ivanov & Hu, 2025)
 > - **Taxa**:
 >> - Conodonta: *Lochriea ziegleri*, *Lochriea nodosa*, *Gnathodus bilineatus*, *Declinognathodus noduliferus*, *Neognathodus symmetricus*, *Diplognathodus ellesmerensis*, *Mesogondolella clarki*, *Mesogondolella donbassica*, *Idiognathodus naraoensis*, *Idiognathodus simulator*, *Idiognathodus podolskensis*, *Idiognathodus sagittalis*, *Streptognathodus isolatus*, *Swadelina* sp., *Heckelina* sp. (Qi et al., 2014; Qi et al., 2020; Hu et al., 2023)
 >> - Chondrichthyes: *Stethacanthus* sp., *Gissarodus flabellatus*, Jalodontiformes indet. (Ivanov & Hu, 2025)
@@ -997,7 +997,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
 
 #### Khodzhir-Bulak Formation, Aksu Section, Gissar Mountains, Uzbekistan
-> - **Age**: Late Serpukhovian–Early Bashkirian (mid-Carboniferous boundary interval). (Ivanov, 2013; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995)
+> - **Age**: Late Serpukhovian to Early Bashkirian (mid-Carboniferous boundary interval). (Ivanov, 2013; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995)
 > - **Taxa**:
 >> - Chondrichthyes: *Gissarodus flabellatus*, *Stethacanthulus decorus*, *Stethacanthulus meccaensis*, *Denaea* cf. *D. williamsi*, *Denaea* sp. (Ivanov, 2013; Ivanov & Duffin, 2008; Ivanov & Hu, 2025)
 >> - Actinopterygii: Indeterminate teeth and scales. (Ivanov, 2013)
@@ -1006,14 +1006,24 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The Aksu section is a key deep-water carbonate reference section for the Mid-Carboniferous Boundary in Central Asia. The chondrichthyan assemblage is dominated by the endemic euselachian *Gissarodus* and diverse symmoriiforms (*Stethacanthulus*, *Denaea*), showing strong Paleotethyan affinities comparable to South China and Western Kazakhstan faunas. The occurrence of *Stethacanthulus meccaensis* has been interpreted as documenting the earliest record of that species and has been discussed in the context of Paleotethyan–Laurussian dispersal. (Ivanov, 2013; Ivanov & Hu, 2025)
 
 #### Ghaleh Formation (Sardar 1 Formation), Howz-e-Dorah section and Shesh Angosht Mountain area, Tabas Block, Central Iran
-> - **Age**: Early Carboniferous (Late Tournaisian; *Scaliognathus anchoralis*–*Doliognathus latus* Zone) to Late Carboniferous (Early Bashkirian). (Yazdi & Turner, 2000; Hairapetian et al., 2006; Bahrami et al., 2011)
+> - **Age**: Late Tournaisian (*Scaliognathus anchoralis*–*Doliognathus latus* Zone) to Early Bashkirian. (Yazdi & Turner, 2000; Hairapetian et al., 2006; Bahrami et al., 2011)
 > - **Taxa**:
 >> - Chondrichthyes: *Orodus* sp., *Stethacanthus*? sp., *Ctenacanthus*? sp. (Yazdi & Turner, 2000)
 > - **Locality and horizon**: Howz-e-Dorah section (33°22′N, 57°20′E) and Shesh Angosht Mountain (33°58′N, 56°45′E), Shotori Range; vertebrate remains reported from the *Scaliognathus anchoralis*–*Doliognathus latus* conodont zone in the lower part of the formation (Sardar 1), including crinoidal limestone horizons. (Yazdi & Turner, 2000; Bahrami et al., 2011)
 > - **References**: Bahrami et al., 2011; Hairapetian et al., 2006; Yazdi & Turner, 2000.
 > - **Comments**: Shallow-marine carbonate platform deposits. *Orodus* sp. was reported as the first record of Orodontiformes from the Early Carboniferous of Iran and has been discussed as evidence of faunal links with Laurussian platforms. The formation unconformably overlies the Devonian Shishtu Formation and is overlain by the Absheni Formation or the Permian Jamal Formation (usage varies by local stratigraphic scheme). (Yazdi & Turner, 2000; Bahrami et al., 2011)
 
-#### Clare Shale Formation, Fisherstreet Bay (Doolin area), County Clare, Ireland
+#### Clare Shale Formation, Fisherstreet Bay, Doolin Area, County Clare, Ireland
+> - **Age**: Serpukhovian to Bashkirian (Mid-Carboniferous boundary interval; Chokierian to Kinderscoutian regional substages). (Fallon & Murray, 2015; Doyle & Ó Gogáin, 2019)
+> - **Taxa**:
+>> - Chondrichthyes: *Listracanthus hystrix*, *Petrodus* sp., indeterminate chondrichthyan denticles. (Doyle, 2025)
+>> - Tetrapoda: Indeterminate limb bone (zeugopod) and indeterminate ilium (aff. Colosteidae, Nectridea, or Temnospondyli). (Doyle & Ó Gogáin, 2019)
+>> - Agnatha (Conodonta): *Lochriea ziegleri*, *Lochriea monocarinata*, *Lochriea cruciformis*, *Gnathodus girtyi*, *Gnathodus bilineatus bollandensis*, *Gnathodus postbilineatus*, *Declinognathodus noduliferus*. (Barham et al., 2015; Fallon & Murray, 2015)
+>> - Actinopterygii: Indeterminate skeletal remains and isolated teeth. (Doyle, 2025)
+> - **Locality and horizon**: Fisherstreet Bay (53.016° N, 9.377° W), Doolin coast; basal part of the Clare Shale Formation. Fossils recovered primarily from phosphatic bands and loose blocks on the storm beach. (Doyle & Ó Gogáin, 2019; Doyle, 2025)
+> - **References**: Barham et al., 2015; Doyle, 2025; Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015.
+> - **Comments**: Deposited in a deep-water, condensed, anoxic to dysoxic marine basin of the Shannon Trough. Vertebrate remains are concentrated within phosphatic lag horizons formed under conditions of sediment starvation. Tetrapod material is interpreted as allochthonous, most plausibly transported from terrestrial environments via “bloat-and-float” processes prior to final deposition. (Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015)
+
 
 #### Mazon Creek, Morris, Grundy County, Illinois, USA
 > - **Age**: Moscovian
@@ -2502,6 +2512,7 @@ Bahrami, A., Corradini, C., Over, D. J., & Yazdi, M. (2011). Conodont biostratig
 Hairapetian, V., Korn, D., & Bahrami, A. (2006). Viséan and Bashkirian ammonoids from Central Iran. *Acta Geologica Polonica*, *56*(3), 229–240.
 
 Yazdi, M., & Turner, S. (2000). Late Devonian and Carboniferous vertebrates from the Shishtu and Sardar formations of the Shotori Range, Iran. *Records of the Western Australian Museum Supplement*, *58*, 223–240.
+
 
 
 
