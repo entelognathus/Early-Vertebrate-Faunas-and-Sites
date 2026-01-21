@@ -691,6 +691,15 @@ Hopson, 1996
 > - **References**: Day et al., 2013; Day et al., 2015a; Day et al., 2015b; Day and Smith, 2020; Huttenlocker and Smith, 2017; Rubidge et al., 2013; Smith, 1989; Smith and Keyser, 1995
 > - **Comments**:  
 
+#### R1 and R2, Ruhuhu Formation, Ruhuhu Basin, Tanzania
+> - **Age**: Capitanian,Guadalupian, Permian.
+> - **Taxa**: 
+>> - Dinocephalia: Tapinocephalidae indet. NMT RB24 Simon et al., 2010
+>> - Anomodontia: Abajudon kaayai NMT RB158 Angielczyk et al., 2014; Endothiodon tolani NHMUK PV R12443 Cox and Angielczyk, 2015; Kingoriidae indet. NHMUK PV R12453 Angielczyk and Cox, 2016
+> - **Locality and horizon**: Lower horizon (R1) and Middle Horizon (R2), Ruhuhu Formation, Ruhuhu Basin, Tanzania
+> - **References**: 
+> - **Comments**:
+
 #### Madumabisa Mudstone Formation, Zambia
 > - **Age**: Guadalupian (lower formation); Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
 > - **Taxa**:
@@ -3688,6 +3697,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
