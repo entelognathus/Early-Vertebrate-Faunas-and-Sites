@@ -555,6 +555,18 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 
 #### Golyusherma Subassemblage, Cis-Urals Region, Russia
 > - **Age**: Roadian, Guadalupian, Permian.
+> - **Taxa**:
+>> - Temnospondyli: ?Alegeinosaurus sp. PIN 4416/23 Gubin, 1993; Koinia silantjevi PIN 4416/15 Gubin, 1993; Melosaurus uralensis MB 334 Shishkin, Novikov and Gubin, 2000; Melosaurus kamaensis PIN 683/1 Shishkin et al., 2000; Melosaurus platyrhinus PIN 161/1 Golubev, 1995; Melosaurus compilatus PIN 4276/60 Golubev, 1995; Platyoposaurus watsoni PIN 2250/8 Efremov, 1933
+>> - Seymouriamorpha: Biarmica tchudinovi PIN 1581/1 Ivakhnenko, 1987; Karpinskiosauridae indet.; Leptoropha talonophora PIN 161/72 Ivakhnenko, 1987 Considered to be a senior synonym of Rhipaeosaurus talonophorus by Ivakhnenko et al. (1997)
+>> - Parareptilia: Nyctiboetus kassini PIN 161/63 Chudinov, 1955; Timanosaurus ivachnenkoi PIN 4416/22 Gubin, 1993
+>> - Captorhinidae: Hecatogomphius kavejevi PIN 1156/1 V’yushkov and Chudinov, 1957; Riabininus cf. uralensis TsNIGRI 348/1 Ivakhnenko, 1990
+>> - Caseidae: Phreatophasma aenigmaticum PIN 294/24 Efremov, 1954
+>> - Biarmosuchia: Alrausuchidae indet. Ivakhnenko, 2008; Phreatosaurus bazhovi LGM/ChMP 75 Efremov, 1954; Phreatosaurus menneri LGM/ChMP 74 Efremov, 1954; Phreatosuchus qualeni LGM/ChMP 77 Efremov, 1954
+>> - Dinocephalia: Microsyodon orlovi PIN 4276/13 Ivakhnenko, 1995; Parabradysaurus silantjevi PIN 4416/33 Ivakhnenko, 2003; Parabradysaurus udmurticus TsNIGRI 2/1727 Efremov, 1954; Rhopalodontidae indet. PIN 270/2 Ivakhnenko et al., 1997
+>> - Gorgonopsia: Kamagorgon ulanovi PIN 4312/1 Ivakhnenko, 2003
+> - **Locality and horizon**:
+> - **References**: 
+> - **Comments**:
 
 #### Kamyshla Beds, Kazanian (Roadian), Sentyak locality (S5/6-8), Tatarstan, Russia
 > - **Age**: Roadian, Guadalupian, Permian.
@@ -617,14 +629,7 @@ Hopson, 1996
 #### Ocher Subassemblage, Cis-Urals Region, Russia 
 > - **Age**: Wordian, Guadalupian, Permian.
 > - **Taxa**:
->> - Temnospondyli: ?Alegeinosaurus sp. PIN 4416/23 Gubin, 1993; Koinia silantjevi PIN 4416/15 Gubin, 1993; Melosaurus uralensis MB 334 Shishkin, Novikov and Gubin, 2000; Melosaurus kamaensis PIN 683/1 Shishkin et al., 2000; Melosaurus platyrhinus PIN 161/1 Golubev, 1995; Melosaurus compilatus PIN 4276/60 Golubev, 1995; Platyoposaurus watsoni PIN 2250/8 Efremov, 1933
->> - Seymouriamorpha: Biarmica tchudinovi PIN 1581/1 Ivakhnenko, 1987; Karpinskiosauridae indet.; Leptoropha talonophora PIN 161/72 Ivakhnenko, 1987 Considered to be a senior synonym of Rhipaeosaurus talonophorus by Ivakhnenko et al. (1997)
->> - Parareptilia: Nyctiboetus kassini PIN 161/63 Chudinov, 1955; Timanosaurus ivachnenkoi PIN 4416/22 Gubin, 1993
->> - Captorhinidae: Hecatogomphius kavejevi PIN 1156/1 V’yushkov and Chudinov, 1957; Riabininus cf. uralensis TsNIGRI 348/1 Ivakhnenko, 1990
->> - Caseidae: Phreatophasma aenigmaticum PIN 294/24 Efremov, 1954
->> - Biarmosuchia: Alrausuchidae indet. Ivakhnenko, 2008; Phreatosaurus bazhovi LGM/ChMP 75 Efremov, 1954; Phreatosaurus menneri LGM/ChMP 74 Efremov, 1954; Phreatosuchus qualeni LGM/ChMP 77 Efremov, 1954
->> - Dinocephalia: Microsyodon orlovi PIN 4276/13 Ivakhnenko, 1995; Parabradysaurus silantjevi PIN 4416/33 Ivakhnenko, 2003; Parabradysaurus udmurticus TsNIGRI 2/1727 Efremov, 1954; Rhopalodontidae indet. PIN 270/2 Ivakhnenko et al., 1997
->> - Gorgonopsia: Kamagorgon ulanovi PIN 4312/1 Ivakhnenko, 2003
+>> - Temnospondyli:
 > - **Locality and horizon**: Ezhovo locality and Belebey locality
 > - **References**: 
 > - **Comments**:
@@ -3738,6 +3743,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
