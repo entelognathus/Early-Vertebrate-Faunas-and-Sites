@@ -793,21 +793,29 @@ Hopson, 1996
 #### Sundyr Assemblage, Cis-Urals Region, Russia 
 > - **Age**: late Capitanian, Guadalupian, Permian.
 > - **Taxa**:
->> - 
+>> - Temnospondyli: Dvinosaurus sp. Golubevet al., 2015
+>> - Reptiliomorpha: Enosuchidae indet. Golubev et al., 2015; Leptoropha sp. Golubev et al., 2015; Karpinskiosauridae indet. Golubev, 2015; Microphon exiguus Bulanov, 2014; Suchonica vladimiri PIN 4611/1 Golubev, 1999
+>> - Biarmosuchia:  Burnetiioidea indet. Golubev et al., 2015
+>> - Dinocephalia: Anteosauridae indet. Golubev, 2015; Syodontinae indet. Golubev, 2015; Tapinocephalia indet. Golubev et al., 2015 Golubev et al. (2015) note that this specimen is similar to members of the Ulemosauridae; Titanosuchia indet. Golubev et al., 2015
+>> - Anomodontia: Galeopidae indet. Golubev et al., 2015 Golubev et al. (2015) note that the specimen is similar to Suminia.
+>> - Therocephalia: Therocephalia indet. Golubevet al., 2015
+>> - Diapsida: ?Eosuchia indet. Golubevet al., 2015
 > - **Locality and horizon**: Poldarsa and Sundyr-1 localities
 > - **References**:
 > - **Comments**:
 
 #### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
-> - **Age**: Capitanian, Guadalupian, Permian.
-> - **Taxa**: Strelnia insolita, Uranichthys pritokensis, Xenosynechodus sp., Platysomus biarmicus, Platysomus sp., Geryonichthys sp., Varialepis sp.; tetrapods Suchonica vladimiri;
+> - **Age**: late Capitanian, Guadalupian, Permian.
+> - **Taxa**: Strelnia insolita, Uranichthys pritokensis, Xenosynechodus sp., Platysomus biarmicus, Platysomus sp., Geryonichthys sp., Varialepis sp.;
+> - tetrapods Suchonica vladimiri;
 > - **Locality and horizon**: Ustpoldarsa Member, Poldarsa Formation, Vologda Region, Velikoustyugsky District, left bank of the Sukhona River near the Poldarsa village.
 > - **References**: Bakaev, 2022.
 > - **Comments**: 
 
 #### Poldarsa Formation, Kochevala-2, Vologda Region, European Russia
-> - **Age**: Wuchiapingian, Lopingian, Permian.
-> - **Taxa**: Toyemia tverdochlebovi, Geryonichthys longus, Varialepis cf. stanislavi; tetrapods Microphon exiguus
+> - **Age**: late Capitanian, Guadalupian, Permian.
+> - **Taxa**: Toyemia tverdochlebovi, Geryonichthys longus, Varialepis cf. stanislavi;
+> - tetrapods Microphon exiguus
 > - **Locality and horizon**: Poldarsa Formation, Vologda Region, Nyuksensky District, right bank of the Sukhona River, 500 m downstream from the Kochevala River mouth, 200 m downstream from the power line. 
 > - **References**: Bakaev, 2022.
 > - **Comments**: 
@@ -3773,6 +3781,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
