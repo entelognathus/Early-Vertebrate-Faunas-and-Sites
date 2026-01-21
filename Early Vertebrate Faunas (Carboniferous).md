@@ -996,7 +996,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2020.
 > - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
 
-
 #### Khodzhir-Bulak Formation, Aksu Section, Gissar Mountains, Uzbekistan
 > - **Age**: Late Serpukhovian–Early Bashkirian (mid-Carboniferous boundary interval). (Ivanov, 2013; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995)
 > - **Taxa**:
@@ -1006,8 +1005,13 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Ivanov, 2013; Ivanov & Duffin, 2008; Ivanov & Hu, 2025; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995.
 > - **Comments**: The Aksu section is a key deep-water carbonate reference section for the Mid-Carboniferous Boundary in Central Asia. The chondrichthyan assemblage is dominated by the endemic euselachian *Gissarodus* and diverse symmoriiforms (*Stethacanthulus*, *Denaea*), showing strong Paleotethyan affinities comparable to South China and Western Kazakhstan faunas. The occurrence of *Stethacanthulus meccaensis* has been interpreted as documenting the earliest record of that species and has been discussed in the context of Paleotethyan–Laurussian dispersal. (Ivanov, 2013; Ivanov & Hu, 2025)
 
-
 #### Ghaleh Formation (Sardar 1 Formation), Howz-e-Dorah section and Shesh Angosht Mountain area, Tabas Block, Central Iran
+> - **Age**: Early Carboniferous (Late Tournaisian; *Scaliognathus anchoralis*–*Doliognathus latus* Zone) to Late Carboniferous (Early Bashkirian). (Yazdi & Turner, 2000; Hairapetian et al., 2006; Bahrami et al., 2011)
+> - **Taxa**:
+>> - Chondrichthyes: *Orodus* sp., *Stethacanthus*? sp., *Ctenacanthus*? sp. (Yazdi & Turner, 2000)
+> - **Locality and horizon**: Howz-e-Dorah section (33°22′N, 57°20′E) and Shesh Angosht Mountain (33°58′N, 56°45′E), Shotori Range; vertebrate remains reported from the *Scaliognathus anchoralis*–*Doliognathus latus* conodont zone in the lower part of the formation (Sardar 1), including crinoidal limestone horizons. (Yazdi & Turner, 2000; Bahrami et al., 2011)
+> - **References**: Bahrami et al., 2011; Hairapetian et al., 2006; Yazdi & Turner, 2000.
+> - **Comments**: Shallow-marine carbonate platform deposits. *Orodus* sp. was reported as the first record of Orodontiformes from the Early Carboniferous of Iran and has been discussed as evidence of faunal links with Laurussian platforms. The formation unconformably overlies the Devonian Shishtu Formation and is overlain by the Absheni Formation or the Permian Jamal Formation (usage varies by local stratigraphic scheme). (Yazdi & Turner, 2000; Bahrami et al., 2011)
 
 #### Clare Shale Formation, Fisherstreet Bay (Doolin area), County Clare, Ireland
 
@@ -2492,6 +2496,7 @@ Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep
 Nigmadganov, I. M., & Nemirovskaya, T. I. (1992). Mid-Carboniferous boundary conodonts from the Gissar Ridge, South Tienshan, Middle Asia. *Courier Forschungsinstitut Senckenberg*, *154*, 253–275.
 
 Nikolaeva, S. V. (1995). Ammonoids from the late Lower and early Upper Carboniferous of Central Asia. *Courier Forschungsinstitut Senckenberg*, *179*, 1–107.
+
 
 
 
