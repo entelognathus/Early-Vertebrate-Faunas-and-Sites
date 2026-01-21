@@ -749,9 +749,13 @@ Hopson, 1996
 > - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
 > - Here we assign the age of the Serrinha Member as Wordian, the age of the Morro Pelado Member as Capitanian.
 
-#### Isheevo and Malaya Kinel Subassemblages, Cis-Urals Region, Russia 
+#### Isheevo Subassemblage, Cis-Urals Region, Russia 
 > - **Age**: Capitanian, Guadalupian, Permian.
-Mezen fauna
+> - **Taxa**:
+>> - 
+> - **Locality and horizon**: Poldarsa and Sundyr-1 localities
+> - **References**:
+> - **Comments**:
 
 #### Isheevo Formation, Tatarstan, Russia
 > - **Age**: Wordian to early Capitanian, Guadalupian (middle Permian).
@@ -761,10 +765,21 @@ Mezen fauna
 > - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
 > - **Comments**: 
 
+#### Malaya Kinel Subassemblage, Cis-Urals Region, Russia 
+> - **Age**: Capitanian, Guadalupian, Permian.
+> - **Taxa**:
+>> - 
+> - **Locality and horizon**: Poldarsa and Sundyr-1 localities
+> - **References**:
+> - **Comments**:
+
 #### Sundyr Assemblage, Cis-Urals Region, Russia 
 > - **Age**: late Capitanian, Guadalupian, Permian.
-Poldarsa and Sundyr-1 localities
-
+> - **Taxa**:
+>> - 
+> - **Locality and horizon**: Poldarsa and Sundyr-1 localities
+> - **References**:
+> - **Comments**:
 
 #### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
 > - **Age**: Capitanian, Guadalupian, Permian.
@@ -3745,6 +3760,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
