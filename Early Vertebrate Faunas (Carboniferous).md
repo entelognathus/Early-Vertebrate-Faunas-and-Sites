@@ -986,7 +986,16 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2014; Qi et al., 2020.
 > - **Comments**: A key auxiliary profile for Carboniferous GSSP-related work, characterized by a continuous deep-water carbonate slope succession. It is the type locality for the conodont *Idiognathodus naraoensis* and also yields deep-water chondrichthyan microremains, including symmoriiforms and jalodontiforms. (Qi et al., 2020; Ivanov & Hu, 2025)
 
-#### Shanglong section, Guizhou Province, South China
+#### Nandan Formation (Shanglong Section), Luodian County, Guizhou Province, South China
+> - **Age**: Late Carboniferous (Bashkirian–Gzhelian) to Early Permian (Asselian). (Ivanov & Hu, 2025; Hu et al., 2023)
+> - **Taxa**:
+>> - Conodonta: *Idiognathodus guizhouensis*, *Idiognathodus heckeli*, *Idiognathodus magnificus*, *Idiognathodus naraoensis*, *Idiognathodus podolskensis*, *Idiognathodus simulator*, *Idiognathodus sagittalis*, *Swadelina makhlinae*, *Swadelina subexcelsa*, *Swadelina* sp. A, *Heckelina eudoraensis*, *Heckelina simulator*, *Streptognathodus* sp., *Gondolella* sp., *Diplognathodus* sp. (Hu et al., 2023; Qi et al., 2020)
+>> - Chondrichthyes: *Gissarodus flabellatus*, *Stethacanthulus decorus*, *Stethacanthulus meccaensis*, *Denaea* cf. *D. williamsi*, *Denaea* sp. (Ivanov & Hu, 2025)
+>> - Actinopterygii: Indeterminate teeth. (Ivanov & Hu, 2025)
+> - **Locality and horizon**: Shanglong section (25°20′50″N, 106°30′07″E), approx. 27 km west of Luodian, Guizhou Province; Nandan Formation, deep-water slope carbonate facies. (Hu et al., 2023; Ivanov & Hu, 2025)
+> - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2020.
+> - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
+
 
 #### Aksu section, Uzbekistan
 
@@ -2459,6 +2468,7 @@ Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep
 Qi, Y., Barrick, J. E., Hogancamp, N., Chen, J., Hu, K., Wang, Q., & Wang, X. (2020). Conodont faunas across the Kasimovian–Gzhelian boundary (Late Pennsylvanian) in South China and implications for the selection of the stratotype for the base of the global Gzhelian Stage. *Papers in Palaeontology*, *6*(3), 433–458.
 
 Qi, Y., Nemyrovska, T. I., Wang, X., Chen, J., Wang, Z., Lane, H. R., Richards, B. C., Hu, K., & Wang, Q. (2014). Late Visean–early Serpukhovian conodont biostratigraphy at the Naqing section, Guizhou, South China. *Palaeoworld*, *23*(4), 369–380.
+
 
 
 
