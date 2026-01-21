@@ -778,6 +778,18 @@ Hopson, 1996
 > - **References**:
 > - **Comments**:
 
+#### Mezen Assemblage, Mezen River Basin, Russia 
+> - **Age**: Guadalupian, Permian.
+> - **Taxa**:
+>> - Parareptilia: Bashkyroleter mesenensis PIN 162/30 Ivakhnenko, 1997; Lanthaniscus efremovi; Macroleter poezicus PIN 3586/1 Tverdokhlebov and Ivakhnenko, 1984; Nyctiphruretus acudens PIN 162/1 Ivakhnenko et al., 1997; Nycteroleter ineptus PIN 158/9 Ivakhnenko et al.,1997
+>> - Varanopidae: Mesenosaurus romeri PIN 158/1 Reisz and Berman, 2001; Pyozia mesenensis PIN 3717/33 Anderson and Reisz, 2004
+>> - Caseidae: Ennatosaurus tecton PIN 4653/2 Ivakhnenko et al., 1997
+>> - Therapsida: Nikkasaurus tatarinovi PIN 162/33 Ivakhnenko, 2000; Reiszia gubini PIN 162/32 Ivakhnenko, 2000; Reiszia tippula PIN 4541/2 Ivakhnenko, 2000
+>> - Biarmosuchia: Alrausuchus tagax PIN 3706/10 Ivakhnenko, 1990 This species was originally assigned to the genus Biarmosuchus, but Ivakhnenko (2008) placed it within its own new genus. Niaftasuchus zekkeli PIN 3717/36 Ivakhnenko, 1990
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 #### Sundyr Assemblage, Cis-Urals Region, Russia 
 > - **Age**: late Capitanian, Guadalupian, Permian.
 > - **Taxa**:
@@ -3763,6 +3775,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
