@@ -677,11 +677,16 @@ Hopson, 1996
 > - **References**: Day et al., 2021; Day & Rubidge, 2020; Rubidge & Day, 2020; Cole et al., 2016; Jirah & Rubidge, 2014; Rubidge et al., 2021; Rubidge et al., 2023.Ronchi et al., 2023; Day & Rubidge, 2020; Bordy et al., 2023; Cole et al., 2016
 > - **Comments**: 
 
-#### Pristerognathus Assemblage Zone, Teekloof Formation (lower Poortjie Member), South Africa
+#### Pristerognathus Assemblage Zone, Teekloof Formation (lower Poortjie Member), Karoo Basin, South Africa
 > - **Age**: latest Capitanian,Guadalupian, Permian.
 > - **Taxa**:
->> - Dinocephalia: *Anteosaurus*, *Criocephalosaurus*, *Titanosuchus*.
->> - Therocephalia: Baurioidea gen. indet. (ictidosuchid-grade), ?*Ictidosuchoides*.
+>> - Temnospondyli: Rhinesuchus sp.
+>> - Parareptilia: Eunotosaurus africanus Day et al. (2015:fig. 1) note this occurrence.
+>> - Varanopidae: Mycterosaurinae indet. SAM-PKK10407 Modesto et al., 2011
+>> - Biarmosuchia: Biarmosuchia indet. BP/1/7098 Day, 2014 Previously identified as ?Lobalopax mordax (see Day et al., 2016); Burnetiamorpha indet. BP/1/7098 Day et al., 2016
+>> - Anomodontia: Dicynodontoides recurvidens; Diictodon feliceps Angielczyk and Sullivan, 2008; Emydops arctatus SAM-PK-708 Angielczyk et al., 2005; Endothiodon bathystoma Smith and Keyser, 1995; Eosimops newtoni Angielczyk and Rubidge, 2013; Galepus jouberti AMNH 5541 Day, 2014; Pristerodon mackayi Smith & Keyser, 1995; Robertia broomiana Rubidge and Angielczyk, 2009
+>> - Gorgonopsia: Eriphostoma microdon SAM-PKK11164 Kammerer et al., 2015 Considered to be a senior synonym of Scylacognathus parvus by Kammerer et al. (2015); Gorgonops? kaiseri BSP 1934 VIII 10 Kammerer et al., 2015 Reclassified from Pachyrhinos kaiseri (Sigogneau-Russell, 1989); Gorgonops torvus SAM-PKK11143 Kammerer et al., 2015
+>> - Therocephalia: Glanosuchus macrops SAM-PKK7809 Fourie and Rubidge, 2009; Ictidosuchoides longiceps CGS M765 Day, 2014; Hofmeyeria atavus SAM-PKK10525 Day, 2014; Lycosuchus vanderrieti CGS M793 Abdala et al., 2014; Pristerognathus polyodon Boos et al., 2013 Day (2014) considers these specimens to belong to Glanosuchus; Scylacosaurus sclateri SAM-PKK10530 Day, 2014
 > - **Locality and horizon**: Basal/lowermost strata of the Poortjie Member, Teekloof Formation. Located in the southwestern Main Karoo Basin, near Beaufort West and Sutherland. 
 > - **References**: Day et al., 2013; Day et al., 2015a; Day et al., 2015b; Day and Smith, 2020; Huttenlocker and Smith, 2017; Rubidge et al., 2013; Smith, 1989; Smith and Keyser, 1995
 > - **Comments**:  
@@ -3683,6 +3688,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
