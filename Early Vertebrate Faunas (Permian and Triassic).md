@@ -639,14 +639,22 @@ Hopson, 1996
 > - **References**: Bulanov et al., 2022; Ivakhnenko et al., 1997; Lozovsky, 2005; Reisz et al., 2007; Tverdokhlebov et al., 2005.
 > - **Comments**:
 
-#### La Lieude Formation, France
-> - **Age**: Wordian to Capitanian, Guadalupian (middle Permian).
+#### Kaş Formation, southeastern Turkey
+> - **Age**: Wordian, Guadalupian, Permian.
+> - **Taxa**:
+>> - Temnospondyli:
+> - **Locality and horizon**:
+> - **References**: Fortuny et al., 2015
+> - **Comments**:
+
+#### La Lieude Formation, Lodève Basin, France
+> - **Age**: early Capitanian, Guadalupian, Permian.
 > - **Taxa**: 
 >> - Synapsida: *Lalieudorhynchus gandi*, ?*Stereorachis dominans*.
 >> - Temnospondyli: Tupilakosauridae indet.
 >> - Amniota: Araeoscelidia indet., Seymouriamorpha indet.
 > - **Locality and horizon**: Lodève Basin, Occitanie, southern France; fossiliferous horizon located ~140 m above the base of the formation, southwest of La Lieude farmhouse, along the southern bank of the Salagou creek, within the “Dalle permienne à empreintes de reptiles de La Lieude” (Werneburg et al., 2022).
-> - **References**: Gervais, 1858; Werneburg et al., 2022.
+> - **References**: Gervais, 1858; Werneburg et al., 2022. Lopez et al., 2008
 > - **Comments**:
 
 ### Capitanian（卡匹敦期）, Guadalupian, Permian
@@ -819,6 +827,16 @@ Hopson, 1996
 > - **Locality and horizon**: Poldarsa Formation, Vologda Region, Nyuksensky District, right bank of the Sukhona River, 500 m downstream from the Kochevala River mouth, 200 m downstream from the power line. 
 > - **References**: Bakaev, 2022.
 > - **Comments**: 
+
+#### La Lieude Formation, Lodève Basin, France
+> - **Age**: early Capitanian, Guadalupian, Permian.
+> - **Taxa**: 
+>> - Synapsida: *Lalieudorhynchus gandi*, ?*Stereorachis dominans*.
+>> - Temnospondyli: Tupilakosauridae indet.
+>> - Amniota: Araeoscelidia indet., Seymouriamorpha indet.
+> - **Locality and horizon**: Lodève Basin, Occitanie, southern France; fossiliferous horizon located ~140 m above the base of the formation, southwest of La Lieude farmhouse, along the southern bank of the Salagou creek, within the “Dalle permienne à empreintes de reptiles de La Lieude” (Werneburg et al., 2022).
+> - **References**: Gervais, 1858; Werneburg et al., 2022. Lopez et al., 2008
+> - **Comments**: Or La Liuede Member at the top of the Salagou Formation.
 
 ## Lopingian (late Permian, 乐平世)
 ### Wuchiapingian（吴家坪期）, Lopingian, Permian
@@ -3781,6 +3799,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
