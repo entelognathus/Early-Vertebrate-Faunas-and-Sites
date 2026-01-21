@@ -700,23 +700,15 @@ Hopson, 1996
 > - **References**: 
 > - **Comments**:
 
-#### Madumabisa Mudstone Formation, Zambia
-> - **Age**: Guadalupian (lower formation); Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
+#### Lower Madumabisa Mudstone Formation, mid-Zambezi Basin, Zambia
+> - **Age**: Capitanian,Guadalupian, Permian.
 > - **Taxa**:
->> - Therapsida:
->>> - Dinocephalia: *Mobaceras zambeziense* (**lower MMF**), Tapinocephalid indet. (**lower MMF**).
->>> - Therapsida indet.: *Wantulignathus gwembensis* (**middle MMF**).
->>> - Dicynodontia: *Endothiodon* sp. (**upper MMF**), *Kembawacela kitchingi* (**upper MMF**), *Aulacephalodon kapoliwacela* (**upper MMF**), *Daptocephalus* sp. (**upper MMF**), *Dicynodon* sp. (**upper MMF**).
->>> - Therocephalia: *Theriognathus microps* (**upper MMF**).
->>> - Cynodontia: *Procynosuchus delaharpeae* (**upper MMF**).
->>> - Gorgonopsia: *Arctops umulunshi* (**upper MMF**), *Cyonosaurus* sp. (**upper MMF**), *Isengops luangwensis* (**upper MMF**).
->>> - Biarmosuchia: Biarmosuchia indet. (**upper MMF**).
->> - Temnospondyli:
->>> - *Rhineceps karibaensis* (**upper MMF**).
->> - Reptilia:
->>> - Captorhinidae: Moradisaurine captorhinid (**upper MMF**).
-> - **Locality and horizon**: Vertebrate fossils are known from the lower, middle, and upper members of the formation, primarily from the Luangwa Basin (e.g., North Luangwa National Park, Munyamadzi Game Management Area, localities L322, L359, Locality 4) and the Mid-Zambezi Basin (e.g., Gwembe District, locality L70). (Sidor et al., 2021; Peecook et al., 2025; Drysdall and Kitching, 1963; Whitney & Sidor, 2016; Sidor, 2015; Sidor et al., 2014)
-> - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor et al., 2021; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
+>> - Temnospondyli: Rhineceps sp. NHCC LB375; Temnospondyli indet. NHCC LB136 Sidor et al., 2014
+>> - Biarmosuchia: Burnetiidae indet. NHCC LB133 Sidor et al., 2014; cf. Hipposaurus sp. NHCC LB600; Wantulignathus gwembensis NHCC LB354 Whitney and Sidor, 2016
+>> - Dinocephalia: Anteosauria indet. NHCC LB134 Sidor et al., 2014; Tapinocephalidae indet. NHCC LB130 Sidor et al., 2014
+>> - Anomodontia: Abajudon kaayai NHCC LB314 Olroyd et al., 2015; Undescribed cistecephalid NHCC LB366
+>> - Gorgonopsia: Gorgonopsia indet. NHCC LB132 Sidor et al., 2014
+> - **Locality and horizon**: 
 > - **Comments**:  
 
 #### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
@@ -860,6 +852,27 @@ Hopson, 1996
 > - **Locality and horizon**: upper Madumabisa Mudstone Formation, Munyamadzi Game Management Area, Northern Province, Zambia.
 > - **References**: Huttenlocker & Sidor, 2016.
 > - **Comments**:
+
+#### Madumabisa Mudstone Formation, Zambia
+> - **Age**: Guadalupian (lower formation); Lopingian, specifically mid-late Wuchiapingian to possibly early Changhsingian (upper formation). (Kammerer & Sidor, 2021; Peecook et al., 2025; Sidor, Tabor, & Smith, 2021)
+> - **Taxa**:
+>> - Therapsida:
+>>> - Dinocephalia: *Mobaceras zambeziense* (**lower MMF**), Tapinocephalid indet. (**lower MMF**).
+>>> - Therapsida indet.: *Wantulignathus gwembensis* (**middle MMF**).
+>>> - Dicynodontia: *Endothiodon* sp. (**upper MMF**), *Kembawacela kitchingi* (**upper MMF**), *Aulacephalodon kapoliwacela* (**upper MMF**), *Daptocephalus* sp. (**upper MMF**), *Dicynodon* sp. (**upper MMF**).
+>>> - Therocephalia: *Theriognathus microps* (**upper MMF**).
+>>> - Cynodontia: *Procynosuchus delaharpeae* (**upper MMF**).
+>>> - Gorgonopsia: *Arctops umulunshi* (**upper MMF**), *Cyonosaurus* sp. (**upper MMF**), *Isengops luangwensis* (**upper MMF**).
+>>> - Biarmosuchia: Biarmosuchia indet. (**upper MMF**).
+>> - Temnospondyli:
+>>> - *Rhineceps karibaensis* (**upper MMF**).
+>> - Reptilia:
+>>> - Captorhinidae: Moradisaurine captorhinid (**upper MMF**).
+> - **Locality and horizon**: Vertebrate fossils are known from the lower, middle, and upper members of the formation, primarily from the Luangwa Basin (e.g., North Luangwa National Park, Munyamadzi Game Management Area, localities L322, L359, Locality 4) and the Mid-Zambezi Basin (e.g., Gwembe District, locality L70). (Sidor et al., 2021; Peecook et al., 2025; Drysdall and Kitching, 1963; Whitney & Sidor, 2016; Sidor, 2015; Sidor et al., 2014)
+> - **References**: Acker et al., 2025; Angielczyk et al., 2014; Angielczyk et al., 2019; Drysdall and Kitching, 1963; Jenkins et al., 2025; Kammerer & Sidor, 2021; Mann & Sidor, 2025; Nyambe and Dixon, 2000; Peecook et al., 2025; Rubidge et al., 2013; Sidor, 2015; Sidor et al., 2014; Sidor et al., 2021; Sidor, Tabor, & Smith, 2021; Smith et al., 2020; Steyer & Sidor, 2025; Whitney & Sidor, 2016
+> - **Comments**:  
+
+
 
 #### Lower Sakamena Formation, Sakamena Group, Morondava Basin, Madagascar
 > - **Age**: Wuchiapingian, Lopingian, Permian 
@@ -3697,6 +3710,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
