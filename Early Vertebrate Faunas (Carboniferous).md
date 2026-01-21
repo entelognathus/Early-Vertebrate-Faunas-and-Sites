@@ -1025,6 +1025,27 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Deposited in a deep-water, condensed, anoxic to dysoxic marine basin of the Shannon Trough. Vertebrate remains are concentrated within phosphatic lag horizons formed under conditions of sediment starvation. Tetrapod material is interpreted as allochthonous, most plausibly transported from terrestrial environments via “bloat-and-float” processes prior to final deposition. (Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015)
 
 
+### Moscovian,Middle Pennsylvanian, Carboniferous
+#### Upper Freeport Coal (Diamond Mine), Linton, Jefferson County, Ohio, USA
+
+#### Mecca Quarry Shale (Linton Formation), Mecca, Parke County, Indiana, USA
+
+#### Logan Quarry Shale (Staunton Formation), Logan, Parke County, Indiana, USA
+
+#### Nýřany Member (Gaskohle), Nýřany, Plzeň Region, Czech Republic
+
+#### Sydney Mines Formation (Florence), Cape Breton Island, Nova Scotia, Canada
+
+#### Allegheny Group (Five Points), Mahoning County, Ohio, USA
+
+#### Low Main Seam (Middle Coal Measures), Newsham, Northumberland, UK
+
+#### Black Prince Limestone, Swisshelm Mountains, Cochise County, Arizona, USA
+
+#### Nýřany Member (Kladno Formation), Třemošná, Czech Republic
+
+#### Cannelton Cannel Coal (Darlington Coal), Cannelton, Beaver County, Pennsylvania, USA
+
 
 
 
@@ -1052,7 +1073,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**:(St. John and Worthen, 1883)
 > - **Comments**: Comparison of Upper Coal Measures miospore assemblages with those recorded from parts of Russia and the United States suggests correlation with the upper parts of the Moscovian and Desmoinesian Series, respectively. There is some doubt regarding the presence in Britain of assemblages equivalent to those recorded from the highest parts of either of these series (Butterworth and Smith, 1976). 
 
-#### Mazon Creek lagerstÃ¤tte
+#### Mazon Creek Lagerstätte
 > - **Age**: upper Moscovian stage, Middle Pennsylvanian
 > - **Taxa**:
 >> - *Tullimonstrum gregarium* (Richardson,1966; Johnson & Richardson,1969)
@@ -1072,6 +1093,18 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - Mazon Creek fauna: *Bandringa rayi* (=*Bandringa herdinae*),
 > - Essex biota (marine): *Tullimonstrum gregarium*
 > - Braidwood biota (freshwater): *Illiniichthys cozarti*
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Edlington Spoil Tip Site, Doncaster, South Yorkshire, UK
 > - **Age**: Early Westphalian (late Langsettian to early Duckmantian), Pennsylvanian, Carboniferous; flora referable to the *Lonchopteris rugosa* Zone.
@@ -2566,6 +2599,7 @@ Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony
 Zangerl, R. (1969). *Bandringa rayi*, a new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, *12*(10), 157–169.
 
 Zangerl, R. (1979). New Chondrichthyes from the Mazon Creek fauna (Pennsylvanian) of Illinois. In M. H. Nitecki (Ed.), *Mazon Creek Fossils* (pp. 449–500). Academic Press.
+
 
 
 
