@@ -486,13 +486,13 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**:
 >> - Temnospondyli: *Anakamacops petrolicus* IGCAGS V365 Li and Cheng, 1999.
->> - Anthracosauromorpha: Ingentidens corridoricus IGCAGS V363 Li and Cheng, 1999; Phratochronis qilianensis IVPP IGCAGS V364 Li and Cheng, 1999
+>> - Anthracosauromorpha: Ingentidens corridoricus IGCAGS V363 Li and Cheng, 1999; Phratochronis qilianensis IGCAGS V364 Li and Cheng, 1999
 >> - Parareptilia: Belebey chengi IGCAGS V331 Müller et al., 2008 Previously classified as Belebey vegrandis (Li, 2001)
 >> - Captorhinidae: Gansurhinus qingtoushanensis IVPP V15989 Reisz et al., 2011
 >> - Therapsida: Raranimus dashankouensis IVPP V15424 Liu et al., 2009a
 >> - Dinocephalia: Sinophoneus yumensis GMV 1601 Liu, 2013
 >> - Anomodontia: Biseridens qilianicus IVPP V 16013 Liu et al., 2009
->> - Synapsida: *Raranimus dashankouensis*, *Biseridens qilianicus*, *Sinophoneus yumenensis*. *Stenocybus acidentatus*.
+>> - Synapsida: *Stenocybus acidentatus*.
 > - **Locality and horizon**:  Dashankou locality, approximately 20 km southwest of Old Yumen City, Gansu Province, China. Fossils are recovered from red mudstone layers in the upper part of the Qingtoushan Formation, a fluvial deposit (Liu et al., 2009; Liu et al., 2012). Vertebrate fossils occur in red mudstone in the upper part of the formation at the Dashankou locality, near Yumen, Gansu Province (Liu et al., 2009; Liu et al., 2012).
 > - **References**: Duhamel et al., 2021; Li & Cheng, 1999; Liu et al., 2009; Liu et al., 2012; Reisz et al., 2011; Cheng and Ji, 1996; Cheng and Li, 1997; Li and Cheng, 1997; Li and Cheng, 1999; Müller et al., 2008; Liu et al., 2009; Liu et al., 2012; Chen and Liu, 2024
 > - **Comments**: *Sinophoneus* AZ. Also Xidagou Formation. 
@@ -3708,6 +3708,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
