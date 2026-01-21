@@ -997,7 +997,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
 
 
-#### Aksu section, Uzbekistan
+#### Khodzhir-Bulak Formation, Aksu Section, Gissar Mountains, Uzbekistan
+> - **Age**: Late Serpukhovian–Early Bashkirian (mid-Carboniferous boundary interval). (Ivanov, 2013; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995)
+> - **Taxa**:
+>> - Chondrichthyes: *Gissarodus flabellatus*, *Stethacanthulus decorus*, *Stethacanthulus meccaensis*, *Denaea* cf. *D. williamsi*, *Denaea* sp. (Ivanov, 2013; Ivanov & Duffin, 2008; Ivanov & Hu, 2025)
+>> - Actinopterygii: Indeterminate teeth and scales. (Ivanov, 2013)
+> - **Locality and horizon**: Surkhantau Range, watershed of the Aksu (Ak-Su) and Vakhshivardara rivers, SW Gissar Mountains (approx. 39°N, 67°E); Khodzhir-Bulak Formation (locally correlated with/used alongside Badava and Suffa formations in regional stratigraphy), deep-water carbonate facies. (Ivanov, 2013; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995)
+> - **References**: Ivanov, 2013; Ivanov & Duffin, 2008; Ivanov & Hu, 2025; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995.
+> - **Comments**: The Aksu section is a key deep-water carbonate reference section for the Mid-Carboniferous Boundary in Central Asia. The chondrichthyan assemblage is dominated by the endemic euselachian *Gissarodus* and diverse symmoriiforms (*Stethacanthulus*, *Denaea*), showing strong Paleotethyan affinities comparable to South China and Western Kazakhstan faunas. The occurrence of *Stethacanthulus meccaensis* has been interpreted as documenting the earliest record of that species and has been discussed in the context of Paleotethyan–Laurussian dispersal. (Ivanov, 2013; Ivanov & Hu, 2025)
+
 
 #### Ghaleh Formation (Sardar 1 Formation), Howz-e-Dorah section and Shesh Angosht Mountain area, Tabas Block, Central Iran
 
@@ -2474,6 +2482,7 @@ Hu, K., Qi, Y., & Wang, X. (2023). Biostratigraphy and biofacies of the Kasimovi
 Ivanov, A. O., & Hu, K. (2025). New fish assemblages from the Carboniferous deep-water sections of South China and Western Kazakhstan. *Journal of Paleontology*, *99*(4), 1–17. https://doi.org/10.1017/jpa.2025.10134
 
 Qi, Y., Barrick, J. E., Hogancamp, N. J., Chen, J., Hu, K., Wang, Q., & Wang, X. (2020). Conodont faunas across the Kasimovian–Gzhelian boundary (Late Pennsylvanian) in South China and implications for the selection of the stratotype for the base of the global Gzhelian Stage. *Palaeogeography, Palaeoclimatology, Palaeoecology*, *553*, 109796.
+
 
 
 
