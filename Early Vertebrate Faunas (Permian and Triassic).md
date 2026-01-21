@@ -576,31 +576,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Comments**:
 
 ### Wordian（沃德期）, Guadalupian, Permian
-#### Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
-> - **Age**: Wordian to Wuchiapingian, Guadalupian to Lopingian, Permian.
-> - **Taxa**:
->> - Therapsida: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet.
->> - Parareptilia: *Provelosaurus americanus*.
->> - Temnospondyli: *Bageherpeton longignathus*, *Australerpeton cosgriffi*, “*Rhinesuchus*-like” temnospondyl.
->> - Actinistia: Actinistia indet.
->> - Dipnoi: Dipnoi indet.
->> - Actinopterygii: Palaeonisciformes indet.
->> - Chondrichthyes: Chondrichthyes indet.
->> - Tetrapod ichnotaxa: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, *Parapytanga catarinensis*.
->> - Diapsida: Unnamed basal archosauromorph.
->> - Other vertebrate evidence: Vertebrate coprolites; lungfish aestivation burrows.
-> - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the Morro Pelado Member. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015). Boqueirão farm (São Gabriel municipality, Rio Grande do Sul State)
-> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016; Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
-> - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
-> - Here we assign the age of the Serrinha Member as from Wordian to Capitanian of Guadalupian, the age of the Morro Pelado Member as Wuchiapingian, Lopingian.
-
-#### Lower Morro Pelado Member, Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
-> - **Age**: Capitanian, Guadalupian, Permian.
-> - **Taxa**: Rastodon procurvidens
-> - **Locality and horizon**:
-> - **References**: 
-> - **Comments**: 
-
 #### Khuff Formation, Haushi-Huqf, Oman
 > - **Age**: Wordian, Guadalupian (middle Permian).
 > - **Taxa**:
@@ -692,7 +667,7 @@ Hopson, 1996
 > - **Comments**:  
 
 #### R1 and R2, Ruhuhu Formation, Ruhuhu Basin, Tanzania
-> - **Age**: Capitanian,Guadalupian, Permian.
+> - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**: 
 >> - Dinocephalia: Tapinocephalidae indet. NMT RB24 Simon et al., 2010
 >> - Anomodontia: Abajudon kaayai NMT RB158 Angielczyk et al., 2014; Endothiodon tolani NHMUK PV R12443 Cox and Angielczyk, 2015; Kingoriidae indet. NHMUK PV R12453 Angielczyk and Cox, 2016
@@ -701,7 +676,7 @@ Hopson, 1996
 > - **Comments**:
 
 #### Lower Madumabisa Mudstone Formation, mid-Zambezi Basin, Zambia
-> - **Age**: Capitanian,Guadalupian, Permian.
+> - **Age**: Capitanian, Guadalupian, Permian.
 > - **Taxa**:
 >> - Temnospondyli: Rhineceps sp. NHCC LB375; Temnospondyli indet. NHCC LB136 Sidor et al., 2014
 >> - Biarmosuchia: Burnetiidae indet. NHCC LB133 Sidor et al., 2014; cf. Hipposaurus sp. NHCC LB600; Wantulignathus gwembensis NHCC LB354 Whitney and Sidor, 2016
@@ -729,6 +704,25 @@ Hopson, 1996
 > - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
 > - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
 > - **Comments**: Olroyd and Sidor assigned its age as Guadalupian. "Of these, the tetrapod-bearing Moradi Formation could be Guadalupian in age, but its endemic tetrapod fauna provides very little biostratigraphic control (Lucas, in press)."
+
+#### Morro Pelado Member, Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
+> - **Age** Capitanian, Guadalupian, Permian.
+> - **Taxa**:
+>> - Therapsida: *Pampaphoneus biccai*, *Rastodon procurvidens*, *Endothiodon* sp., Tapinocephalidae gen. et sp. indet.
+>> - Parareptilia: *Provelosaurus americanus*.
+>> - Temnospondyli: *Bageherpeton longignathus*, *Australerpeton cosgriffi*, “*Rhinesuchus*-like” temnospondyl.
+>> - Actinistia: Actinistia indet.
+>> - Dipnoi: Dipnoi indet.
+>> - Actinopterygii: Palaeonisciformes indet.
+>> - Chondrichthyes: Chondrichthyes indet.
+>> - Tetrapod ichnotaxa: *Batrachichnus salamandroides*, *Procolophonichnium nopcsai*, *Parapytanga catarinensis*.
+>> - Diapsida: Unnamed basal archosauromorph.
+>> - Other vertebrate evidence: Vertebrate coprolites; lungfish aestivation burrows.
+> - **Locality and horizon**: Located in the Paraná Basin (Paraná, Santa Catarina, and Rio Grande do Sul states), Brazil. The formation comprises the lower Serrinha Member (lacustrine deposits) and the upper Morro Pelado Member (fluvial-deltaic red beds); vertebrate body fossils are restricted to the **Morro Pelado Member**. Key localities include São Jerônimo da Serra (PR), Serra do Cadeado (PR), Posto Queimado (RS), Aceguá (RS), and Boqueirão farm (RS) (Azevedo et al., 2018; Ramos & Vega, 2011; Cisneros et al., 2012; Dias-da-Silva, 2011; Cisneros et al., 2005; Boos et al., 2015). Boqueirão farm (São Gabriel municipality, Rio Grande do Sul State)
+> - **References**: Azevedo et al., 2018; Barberena, 1998; Barberena & Dias, 1998; Boos et al., 2013; Boos et al., 2015; Boos et al., 2016; Cisneros et al., 2005; Cisneros et al., 2012; Dias & Barberena, 2001; Dias-da-Silva, 2011; Figueroa et al., 2016; Francischini et al., 2018; Malabarba et al., 2003; Pauliv et al., 2014; Ramos & Vega, 2011; Silva & Francischini, 2025; Dias-da-Silva, 2012; Eltink & Langer, 2014; Martinelli et al., 2016; Holz et al., 2010; Boos et al., 2016; Cisneros et al., 2021.
+> - **Comments**: Dias et al. (2020): "According to Holz et al. (2010) the age of the Serrinha Member is middle Permian (Guadalupian) from Wordian to Capitanian, while the Morro Pelado Member is mostly late Permian (Lopingian) from Wuchiapingian to Changhsingian. Alessandretti et al. (2016) presented a U-Pb detrital zircon dating with minimal ages of 273–275 Ma for the Serrinha Member, placing it close to the Kungurian–Rodian limit, and 261 Ma for the Morro Pelado Member placing it in the Capitanian, comprising almost the entire Guadalupian, while Canile et al. (2016) found a zircon of 252 Ma in the Morro Pelado Member, which is Lopingian according to ICS (2019)."
+> - Here we assign the age of the Serrinha Member as Wordian, the age of the Morro Pelado Member as Capitanian.
+
 
 #### Ustpoldarsa Member, Poldarsa Formation, Poldarsa, Vologda Region, European Russia
 > - **Age**: Capitanian, Guadalupian, Permian.
@@ -3711,6 +3705,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
