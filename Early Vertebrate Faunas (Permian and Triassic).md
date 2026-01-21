@@ -582,18 +582,6 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **References**: Bakaev, 2022.
 > - **Comments**
 
-#### Belebei Formation, Ocher locality, Perm Krai, Russia
-> - **Age**: Roadian to Wordian, Guadalupian, Permian.
-> - **Taxa**:
->> - Temnospondyli: *Collidosuchus tchudinovi*, *Bashkirosaurus tcherdyncevi*, *Platyoposaurus stuckenbergi*, *Melosaurus* sp., *Rhipaeosaurus tricuspidens*.
->> - Parareptilia: *Belebey vegrandis*, *Belebey maximi*, *Belebey churkini*, *Belebey shumovi*, *Tokosaurus perforatus*, *Macroleter poezicus*, *Microsyodon orlovi*, *Kitiakia firma*, *Bashkyroleter bashkyricus*.
->> - Therapsida: *Estemmenosuchus uralensis*, *Estemmenosuchus mirabilis*, *Biarmosuchus tener*, *Archaeosyodon praeventor*, *Konzhukovia tarda*, *Kamacops acervalis*, *Otsheria netzvetajevi*, *Otsheria lenocinator*, *Davletkulia gigantea*, *Molybdopygus arcanus*, *Gecatogomphius kavejevi*.
->> - Actinopterygii: *Kazanichthys golyushermensis*, *Kargalichthys pritokensis*, *Platysomus bashkirus*, *Platysomus soloduchi*, *Varialepis* sp.
->> - Coelacanthiformes: *Phthinosaurus borissiaki*.
-> - **Locality and horizon**: Ocher (Ezhovo) locality, eastern Cis-Urals, Perm Krai, Russia; Belebei Formation, Upper Kazanian Substage (Tatarian Series), deposited in fluvial floodplain and lacustrine environments (Tverdokhlebov et al., 2005; Lozovsky, 2005).
-> - **References**: Bulanov et al., 2022; Ivakhnenko et al., 1997; Lozovsky, 2005; Reisz et al., 2007; Tverdokhlebov et al., 2005.
-> - **Comments**:
-
 ### Wordian（沃德期）, Guadalupian, Permian
 #### Khuff Formation, Haushi-Huqf, Oman
 > - **Age**: Wordian, Guadalupian (middle Permian).
@@ -629,11 +617,27 @@ Hopson, 1996
 #### Ocher Subassemblage, Cis-Urals Region, Russia 
 > - **Age**: Wordian, Guadalupian, Permian.
 > - **Taxa**:
->> - Temnospondyli:
+>> - Temnospondyli: Bashkirosaurus tcherdyncevi PIN 164/70 Gubin, 1981 Belebey locality only; Collidosuchus tchudinovi PIN 1758/334 Gubin, 1987; Iratusaurus vorax PIN 164/300 Gubin, 1980 Belebey locality only; Kamacops acervalis PIN 3817/1 Gubin, 1980 Belebey locality and others; Konzhukovia tarda PIN 1758/253 Gubin, 1991; Platyoposaurus stuckenbergi PIN 164/1 Trautschold, 1884 Belebey locality only; Zygosaurus lucius Specimen lost Eichwald, 1848
+>> - Seymouriamorpha: Enosuchidae indet.
+>> - Parareptilia: Bashkyroleter bashkyricus PIN 164/300 Ivakhnenko, 1990a Considered to be the senior synonym of Nycteroleter bashkyricus by Ivakhnenko et al. (1997). Belebey locality only; Belebey vegrandis PIN 164/50 Ivakhnenko, 1973 Belebey locality and others; Davletkulia gigantea PIN 4311/1 Ivakhnenko, 1990b; “Discosauriscus netschajevi” TsNIGRI 1387/1 Riabinin, 1911; Macroleter poezicus SGU 104B/2004 Ivakhnenko et al., 1997 Considered to be the senior synonym of Tokosaurus by Tsuji et al. (2012); Rhipaeosaurus tricuspidens PIN 164/2 Efremov, 1940b Belebey locality only; Biarmosuchia: Biarmosuchoides romanovi SGU 104B/2051 Ivakhnenko, 2003; Biarmosuchus tchudinovi Ivakhnenko, 2008; Biarmosuchus tener PIN 1785/2 Chudinov, 1960 Considered to be a senior synonym of Ivantosaurus ensifer by Ivakhnenko (1999); Phthinosaurus borissiaki PIN 164/7 Efremov, 1940b Belebey locality only;
+>> - Eotitanosuchia: Eotitanosuchus olsoni PIN 1758/1 Tchudinov, 1960 Ivakhnenko (1999) considered this taxon to be a junior synonym of Biarmosuchus tener, but Sidor and Rubidge (2006) believe the two to be separate taxa.
+>> - Dinocephalia: Anoplosuchus tenuirostris PIN 1758/79 Tchudinov, 1968; Archaeosyodon praeventor PIN 1758/3 Tchudinov, 1960; Chthomaloporus lenocinator PIN 1758/17 Tchudinov, 1964 Taxon is based on fragmentary material that is difficult to identify; Estemmenosuchus mirabilis PIN 1758/6 Tchudinov, 1968 Considered a possible senior synonym of Anoplosuchus by Ivakhnenko et al. (1997); Estemmenosuchus uralensis PIN 1758/4 Chudinov, 1960; Molybdopygus arcanus PIN 2225/1 Tchudinov, 1964; Zopherosuchus luceus PIN 1759/300 Tchudinov, 1983
+>> - Anomodontia:  Otsheria netzvetajevi PIN 1758/5 Tchudinov, 1960; Venyukovia prima PIN 48/1 Efremov, 1940b
 > - **Locality and horizon**: Ezhovo locality and Belebey locality
 > - **References**: 
 > - **Comments**:
 
+#### Belebei Formation, Ocher locality, Perm Krai, Russia
+> - **Age**: Wordian, Guadalupian, Permian.
+> - **Taxa**:
+>> - Temnospondyli: *Collidosuchus tchudinovi*, *Bashkirosaurus tcherdyncevi*, *Platyoposaurus stuckenbergi*, *Melosaurus* sp., *Rhipaeosaurus tricuspidens*.
+>> - Parareptilia: *Belebey vegrandis*, *Belebey maximi*, *Belebey churkini*, *Belebey shumovi*, *Tokosaurus perforatus*, *Macroleter poezicus*, *Microsyodon orlovi*, *Kitiakia firma*, *Bashkyroleter bashkyricus*.
+>> - Therapsida: *Estemmenosuchus uralensis*, *Estemmenosuchus mirabilis*, *Biarmosuchus tener*, *Archaeosyodon praeventor*, *Konzhukovia tarda*, *Kamacops acervalis*, *Otsheria netzvetajevi*, *Otsheria lenocinator*, *Davletkulia gigantea*, *Molybdopygus arcanus*, *Gecatogomphius kavejevi*.
+>> - Actinopterygii: *Kazanichthys golyushermensis*, *Kargalichthys pritokensis*, *Platysomus bashkirus*, *Platysomus soloduchi*, *Varialepis* sp.
+>> - Coelacanthiformes: *Phthinosaurus borissiaki*.
+> - **Locality and horizon**: Ocher (Ezhovo) locality, eastern Cis-Urals, Perm Krai, Russia; Belebei Formation, Upper Kazanian Substage (Tatarian Series), deposited in fluvial floodplain and lacustrine environments (Tverdokhlebov et al., 2005; Lozovsky, 2005).
+> - **References**: Bulanov et al., 2022; Ivakhnenko et al., 1997; Lozovsky, 2005; Reisz et al., 2007; Tverdokhlebov et al., 2005.
+> - **Comments**:
 
 #### La Lieude Formation, France
 > - **Age**: Wordian to Capitanian, Guadalupian (middle Permian).
@@ -749,7 +753,6 @@ Hopson, 1996
 > - **Age**: Capitanian, Guadalupian, Permian.
 Mezen fauna
 
-
 #### Isheevo Formation, Tatarstan, Russia
 > - **Age**: Wordian to early Capitanian, Guadalupian (middle Permian).
 > - **Taxa**:
@@ -757,7 +760,6 @@ Mezen fauna
 > - **Locality and horizon**: sheevo Locality, gorge Kurmy-Chugor, Kamennyi Ravine, left bank of Ulema River (tributary of Sviaga River), Apastovskii District, Tatarstan, Russia. Urzhumian Horizon (Dinocephalian Complex), Isheevo Faunal Assemblage (Zone II), corresponding to the Isheevo Formation (upper Urzhumian parastratotype) (Ivakhnenko, 1996; Silantiev et al., 2017).
 > - **References**: Bulanov, 2025; Bulanov et al., 2022; Dias-da-Silva, 2011; Golubev, 2015; Ivakhnenko, 1996; Riabinin, 1938; Silantiev et al., 2017
 > - **Comments**: 
-
 
 #### Sundyr Assemblage, Cis-Urals Region, Russia 
 > - **Age**: late Capitanian, Guadalupian, Permian.
@@ -3743,6 +3745,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
