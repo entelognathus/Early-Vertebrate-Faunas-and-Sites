@@ -941,7 +941,6 @@ Hopson, 1996
 > - **Locality and horizon**: Kotel'nich locality, western (right) bank of the Vyatka River, Kirov district, Russia (Kordikova & Khlyupin, 2001). Fossils are primarily from red calcareous mudstones and brownish-red siltstones (Kordikova & Khlyupin, 2001; Benton et al., 2012) of the **Vanyushonkov Member** (also Vanyushenki) (Kordikova & Khlyupin, 2001; Benton et al., 2012), the main fossiliferous horizon of the **Urpalov Formation** (Kordikova & Khlyupin, 2001). This corresponds to the *Deltavjatia vjatkensis* Assemblage Zone (Arefiev et al., 2015).
 > - **References**: Arefiev et al., 2015; Benton et al., 2012; Fröbisch & Reisz, 2009; Ivakhnenko, 2011; Kammerer & Masyutin, 2018; Kordikova & Khlyupin, 2001; Tatarinov, 1997
 > - **Comments**:  
-<img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" />
 
 #### Brazil 
 > - **Age**: Wuchiapingian, Lopingian, Permian
@@ -3804,6 +3803,8 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+<img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" 
+
 
 
 
