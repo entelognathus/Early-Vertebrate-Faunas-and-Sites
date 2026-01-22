@@ -506,7 +506,7 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Reference**: (Zhang et al., 2013)
 > - 
 #### Flowerpot Formation, Texas & Oklahoma, USA
-> - **Age**: Roadian, Guadalupian (middle Permian).
+> - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**:
 >> - Actinopterygii: Palaeoniscidae? indet.
 >> - Amphibia: *Cymatorhiza kittsi*.
@@ -520,18 +520,23 @@ https://en.wikipedia.org/wiki/Organ_Rock_Formation
 > - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**: 
 >> - Chondrichthyes: *Xenacanthus* sp.
->> - Amphibia: *Nooxobeia gracilis*, *Diplocaulus parvus*.
->> - Reptilia: *Rothianiscus robusta*.
->> - Synapsida: *Cotylorhynchus bransoni*, *Angelosaurus romeri*, *Varanodon agilis*, *Watongia meieri*.
+>> - Lepospondyli: Cymatorhiza kittsi FMNH UR 855 Olson, 1965; *Diplocaulus parvus* UCLA VP 3015 Olson, 1972, *Nooxobeia gracilis*
+>> - Temnospondyli: Fayella chickashaensis FMNH UR 1004 Olson, 1965; Nannospondylus stewarti FMNH UR 1002 Olson, 1965
+>> - Parareptilia: Macroleter agilis UCMP 143 277 Reisz and Laurin, 2001 Originally identified as Seymouria agilis
+>> - Captorhinidaez: Kahneria seltina FMNH UR 562 Olson, 1962; Rothianiscus multidonta FMNH UR 966 Olson, 1965; *Rothianiscus robusta*.
+>> - Caseidae: *Angelosaurus romeri* FMNH UR 827 Olson, 1965; *Cotylorhynchus bransoni* FMNH UR 835 Olson, 1965
+>> - Varanopidae: *Varanodon agilis* FMNH UR 986 Olson, 1965; *Watongia meieri* UCMP 143278 Reisz and Laurin, 2004 The number for this specimen was previously UCLA VP 3132. The specimen was originally identified as a gorgonopsian and redescribed as a varanopid (Reisz and Laurin, 2004).
 > - **Locality and horizon**: Vertebrate-bearing sites occur along the western margin of the Chickasha Tongue, a deltaic facies that interfingers with the Flowerpot, Blaine, and Dog Creek formations of the El Reno Group. Localities are found in a northwest-southeast trend through Blaine, Kingfisher, Canadian, and Grady Counties
 > - **References**: Gould, 1924; Olson, 1965; Olson, 1972; Reisz & Laurin, 2004; Gee et al., 2018; Laurin & Hook, 2022
-> - **Comments**:
+> - **Comments**: The list above includes some taxa from the Flowerpot Formation.
 
 #### San Angelo Formation, north-central Texas, USA
 > - **Age**: Roadian, Guadalupian, Permian.
 > - **Taxa**: 
->> - Caseidae: *Angelosaurus dolani*, *Caseoides sanangeloensis*, Caseopsis agilis, Cotylorhynchus hancocki
->> - Sphenacodontidae: *Dimetrodon angelensis*.
+>> - Temnospondyli: Slaugenhopia texensis FMNH UR 702 Olson, 1962
+>> - Captorhinidae: Kahneria seltina FMNH UR 618 Olson, 1962: Rothianiscus multidonta FMNH UR 87 Olson and Beerbower, 1953 This species was originally called Rothia multidonta, but the genus name was changed.
+>> - Caseidae: *Angelosaurus dolani* FMNH UR 149 Olson and Beerbower, 1953; Cotylorhynchus sp. FMNH UR 154 Olson and Beerbower, 1953; *Caseoides sanangeloensis*, Caseopsis agilis, Cotylorhynchus hancocki
+>> - Sphenacodontia: Dimetrodon sp. FMNH UR 32 Olson, 1962; *Dimetrodon angelensis*.
 >> - Dimacrodon hottoni, Driveria	ponderosa,	Eosyodon hudsoni, Gorgodon minutus, Knoxosaurus	niteckii, Mastersonia	driverensis, Tappenosaurus	magnus
 > - **Locality and horizon**: 
 > - **References**: Olson & Beerbower, 1953; Beede & Waite, 1918.
@@ -3799,6 +3804,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="306" height="436" alt="Snipaste_2026-01-20_17-10-50" src="https://github.com/user-attachments/assets/6d99b0a8-1737-4de7-9b71-19b469ea5cff" />
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
+
 
 
 
