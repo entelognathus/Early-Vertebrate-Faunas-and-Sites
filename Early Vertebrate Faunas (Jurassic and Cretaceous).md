@@ -345,9 +345,19 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 > - **References**: (Stringer, 2020)
 > - **Comments**:
 
+#### Sânpetru and Densuş-Ciula Formation, Hațeg Island, western Romania
+> - **Age**: Maastrichtian, late Cretaceous
+> - **Taxa**: *Paralatonia transylvanica*
+> - **Locality and horizon**: 
+> - **References**: Venczel and Csiki, 2003
+> - **Comments**:
+
+
+
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
