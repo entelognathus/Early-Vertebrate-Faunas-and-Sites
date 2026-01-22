@@ -173,6 +173,17 @@
 > - **Comments**: 
 
 ### Coniacian
+#### [In Beceten Formation, Iullemmeden Basin, Tahoua, Niger](https://en.wikipedia.org/wiki/In_Beceten_Formation)
+> - **Age**: Coniacian to Santonian
+> - **Taxa**: some angiosperms;  polypterifoms, urodeles, anurans, and turtles, dinosaur.
+>> - **Fish**: Amia sp.; Stromerichthys sp.; Lepisosteidae indet.
+>> - **Reptiles**: Erymnochelys madagascariensis; Madtsoia aff. madagascariensis; Trematochampsa taqueti; Libycosuchus sp.; Carnosauria indet.; Goniopholididae indet.; Lacertilia indet.; Pelomedusidae indet.; Serpentes indet.; Titanosaurinae indet.
+>> - **Amphibians**: Pachycentrata taqueti; Inbecetenanura ragei; Ranidae indet.; Urodela indet.;
+>> - **Dipnoi**: Ceratodus sp.; Protopterus sp.
+>> - **Flora**: Dicotyledonae
+> - **Locality and horizon**:
+> - **References**: https://en.wikipedia.org/wiki/In_Beceten_Formation
+> - **Comments**: 
 
 ### Santonian
 #### Sahel Alma Fauna (Lebanon) late Santonian
@@ -323,6 +334,7 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
