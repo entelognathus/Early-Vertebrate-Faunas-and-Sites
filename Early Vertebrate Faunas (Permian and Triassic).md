@@ -1735,7 +1735,28 @@ the Lower Gogolin Beds (Anisian) of southern Poland. Annales Societatis Geologor
 > - **Taxa**: Bentonyx sidensis Langer et al., 2010, Fodonyx spenceri (Benton, 1990)
 > - **Locality and horizon**:
 > - **References**:
-> - **Comments**: 
+> - **Comments**:
+
+#### Ashfield Shale Formation, Sydney, New South Wales, Australia
+> - **Age**: Anisian, Middle Triassic
+> - **Taxa**: *Paracyclotosaurus davidi*
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Denwa Formation, Pranhita-Godavari Basin, India
+> - **Age**: Middle Triassic
+> - **Taxa**: *Paracyclotosaurus crookkshanki*
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### upper Cynognathus Assemblage Zone, Karoo Basin, South Africa
+> - **Age**: late Anisian, Middle Triassic
+> - **Taxa**: *Paracyclotosaurus morgenorum*
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
 
 ### Ladinian（拉丁期）, Middle Triassic
 #### Tongchuan Formation（铜川组）， North China
@@ -3829,6 +3850,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
 <img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" 
+
 
 
 
