@@ -1122,9 +1122,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Andrews, 1985; Atthey, 1868, 1876, 1877; Baird, 1962, 1978; Boyd, 1980, 1984; Clack, 1987; Hancock & Atthey, 1868–1872; Hodnett et al., 2024; Jeffery, 2006; Land, 1974; Lowney, 1980; Milner, 1980; Panchen, 1970, 1972; Sharp & Clack, 2013; Traquair, 1877, 1879, 1881; Turner, 1980; Woodward, 1889, 1891.
 > - **Comments**: Interpreted as a deep freshwater oxbow-lake deposit in an abandoned channel. The assemblage is among the most diverse Westphalian tetrapod faunas in Europe and includes early records of a protorothyridid reptile and a lysorophid from the British Isles. Preservation in black shale indicates anoxic bottom waters; articulation occurs but many specimens are disarticulated. (Boyd, 1984; Milner, 1980; Panchen, 1970)
 
+#### Nýřany Member, Kladno Formation, Třemošná, Plzeň Basin, Czech Republic
+> - **Age**: Moscovian (Late Westphalian D / Asturian). (Milner, 1980; Opluštil et al., 2016; Zajíc & Štamberg, 1985)
+> - **Taxa**:
+>> - Tetrapoda: *Hyloplesion longicostatum*, *Microbrachis pelikani*, *Limnogyrinus elegans*, *Branchiosaurus salamandroides*. (Carroll & Gaskill, 1978; Fritsch, 1883; Milner & Sequeira, 2003; Steen, 1938; Werneburg, 2012)
+>> - Chondrichthyes: *Xenacanthus parallelus*. (Schneider & Zajíc, 1994; Zajíc & Štamberg, 1985)
+> - **Locality and horizon**: Třemošná coalfield (approx. 49°49′N, 13°23′E), approximately 5 km north of Plzeň; fossiliferous horizons within the Plattelkohle (cannel coal) and associated sapropelic mudstones of the Nýřany Member, Kladno Formation. (Fritsch, 1883; Pešek et al., 1998; Zajíc & Štamberg, 1985)
+> - **References**: Carroll & Gaskill, 1978; Fritsch, 1879; Fritsch, 1883; Milner, 1980; Milner & Sequeira, 2003; Opluštil et al., 2016; Pešek et al., 1998; Schneider & Zajíc, 1994; Steen, 1938; Werneburg, 2012; Zajíc & Štamberg, 1985.
+> - **Comments**: The Třemošná vertebrate assemblage represents a significant Late Carboniferous (Moscovian) freshwater fauna within the Nýřany Member of the Kladno Formation, broadly contemporaneous with the classic Nýřany Gaskohle fauna. Fossiliferous horizons consist mainly of laminated cannel coal (Plattelkohle) and sapropelic mudstones deposited in lacustrine to paludal environments within the intermontane Plzeň Basin. These deposits record aquatic and semi-aquatic ecosystems preserved under dysoxic to anoxic conditions, favoring the retention of articulated skeletal remains. (Milner, 1980; Pešek et al., 1998; Zajíc & Štamberg, 1985)
 
-
-#### Nýřany Member (Kladno Formation), Třemošná, Czech Republic
 
 #### Cannelton Cannel Coal (Darlington Coal), Cannelton, Beaver County, Pennsylvania, USA
 
@@ -2873,6 +2879,7 @@ Woodward, A. S. (1891). *Catalogue of the Fossil Fishes in the British Museum (N
 Johnson, G. D., & Thayer, D. W. (2009). Early Pennsylvanian xenacanth chondrichthyans from the Swisshelm Mountains, Arizona, USA. *Acta Palaeontologica Polonica*, *54*(4), 649–668. https://doi.org/10.4202/app.2008.0051
 
 Thayer, D. W. (1985). New Pennsylvanian lepospondyl amphibians from the Swisshelm Mountains, Arizona. *Journal of Paleontology*, *59*(3), 684–700.
+
 
 
 
