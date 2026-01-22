@@ -2803,6 +2803,61 @@ Hook, R. W., & Baird, D. (1993). A new fish and tetrapod assemblage from the All
 
 Schoch, R. R., Henrici, A. C., & Hook, R. W. (2021). A new dissorophoid temnospondyl from the Allegheny Group (late Carboniferous) of Five Points, Mahoning County, Ohio (USA). *Journal of Paleontology*, *95*(3), 638–651. https://doi.org/10.1017/jpa.2020.101
 
+Andrews, S. M. (1985). Rhizodont crossopterygian fish from the Dinantian of Foulden, Berwickshire, Scotland, with a re-evaluation of this group. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, *76*, 67–95.
+
+Atthey, T. (1868). On the occurrence of the palatal teeth of a fish belonging to the genus *Climaxodus* M'Coy, in the Low Main Shale of Newsham. *Annals and Magazine of Natural History*, *2*(4), 321–323.
+
+Atthey, T. (1876). On *Anthracosaurus russelli* (Huxley). *Annals and Magazine of Natural History*, *18*(4), 146–167.
+
+Atthey, T. (1877). On *Pteroplax cornuta*, H. & A. *Annals and Magazine of Natural History*, *20*(4), 369–377.
+
+Baird, D. (1962). A haplolepid fish fauna in the early Pennsylvanian of Nova Scotia. *Palaeontology*, *5*(1), 22–29.
+
+Baird, D. (1978). Studies on Carboniferous freshwater fishes. *American Museum Novitates*, *2641*, 1–22.
+
+Boyd, M. J. (1980). The axial skeleton of the Carboniferous amphibian *Pteroplax cornutus*. *Palaeontology*, *23*(2), 273–285.
+
+Boyd, M. J. (1984). The Upper Carboniferous tetrapod assemblage from Newsham, Northumberland. *Palaeontology*, *27*(2), 367–392.
+
+Clack, J. A. (1987). *Pholiderpeton scutigerum* Huxley, an amphibian from the Yorkshire Coal Measures. *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, *318*(1188), 1–107.
+
+Hancock, A., & Atthey, T. (1868). Notes on the remains of some reptiles and fishes from the shales of the Northumberland coal-field. *Annals and Magazine of Natural History*, *1*(4), 266–278.
+
+Hancock, A., & Atthey, T. (1869). On a new Labyrinthodont amphibian from the Northumberland coal-field, and on the occurrence in the same locality of *Anthracosaurus russelli*. *Annals and Magazine of Natural History*, *4*(4), 182–189.
+
+Hancock, A., & Atthey, T. (1870). On the occurrence of *Loxomma allmanni* in the Northumberland coal-field. *Annals and Magazine of Natural History*, *5*(4), 374–379.
+
+Hancock, A., & Atthey, T. (1871). Description of a considerable portion of a mandibular ramus of *Anthracosaurus russelli*; with notes on *Loxomma* and *Archichthys*. *Annals and Magazine of Natural History*, *7*(4), 73–83.
+
+Hancock, A., & Atthey, T. (1872). Descriptive notes on a nearly entire specimen of *Pleurodus rankinii*, on two new species of *Platysomus* and a new *Amphicentrum*, with remarks on a few other fish-remains found in the Coal-measures at Newsham. *Annals and Magazine of Natural History*, *9*(4), 249–262.
+
+Hodnett, J. P. M., Toomey, R., Olson, R., Tweet, J. S., & Santucci, V. L. (2024). Janassid petalodonts (Chondrichthyes, Petalodontiformes, Janassidae) from the middle Mississippian (Viséan) Ste. Genevieve Formation, Mammoth Cave National Park, Kentucky, USA. *Historical Biology*, 1–13.
+
+Jeffery, J. E. (2006). The Carboniferous fish genera *Strepsodus* and *Archichthys* (Sarcopterygii: Rhizodontida): clarifying 150 years of confusion. *Palaeontology*, *49*(1), 113–132.
+
+Land, D. H. (1974). *Geology of the Tynemouth district*. Memoirs of the Geological Survey of Great Britain. HMSO.
+
+Lowney, K. A. (1980). A revision of the family Haplolepidae (Actinopterygii, Paleonisciformes) from the Carboniferous of the world. *Journal of Paleontology*, *54*(5), 942–953.
+
+Milner, A. R. (1980). The tetrapod assemblage from Nýřany, Czechoslovakia. In A. L. Panchen (Ed.), *The Terrestrial Environment and the Origin of Land Vertebrates* (pp. 439–496). Academic Press.
+
+Panchen, A. L. (1970). *Handbuch der Paläoherpetologie, Teil 5a: Anthracosauria*. Gustav Fischer Verlag.
+
+Panchen, A. L. (1972). The skull and skeleton of *Eogyrinus attheyi* Watson (Amphibia: Labyrinthodontia). *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, *263*(851), 279–326.
+
+Sharp, E., & Clack, J. A. (2013). A review of the Carboniferous lungfish genus *Ctenodus* Agassiz, 1838 from the United Kingdom, with new data from an articulated specimen of *Ctenodus interruptus* Barkas, 1869. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *104*(2), 169–204.
+
+Traquair, R. H. (1877). *The Ganoid Fishes of the British Carboniferous Formations. Part I. Palaeoniscidae*. Palaeontographical Society.
+
+Traquair, R. H. (1879). On the structure and affinities of the Platysomidae. *Transactions of the Royal Society of Edinburgh*, *29*, 343–391.
+
+Traquair, R. H. (1881). On the cranial osteology of *Rhizodopsis*. *Transactions of the Royal Society of Edinburgh*, *30*, 167–179.
+
+Turner, S. (1980). Trace fossils of the Carboniferous of the British Isles. *Earth Sciences Conservancy*.
+
+Woodward, A. S. (1889). *Catalogue of the Fossil Fishes in the British Museum (Natural History). Part I. Elasmobranchii*. British Museum (Natural History).
+
+Woodward, A. S. (1891). *Catalogue of the Fossil Fishes in the British Museum (Natural History). Part II. Elasmobranchii (Acanthodii), Holocephali, Ichthyodorulites, Ostracodermi, Dipnoi, and Teleostomi (Crossopterygii and Chondrostean Actinopterygii).* British Museum (Natural History).
 
 
 
