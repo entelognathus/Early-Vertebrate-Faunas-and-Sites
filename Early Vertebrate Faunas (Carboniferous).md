@@ -1029,6 +1029,21 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 ### Moscovian,Middle Pennsylvanian, Carboniferous
 #### Upper Freeport Coal (Diamond Mine), Linton, Jefferson County, Ohio, USA
+> - **Age**: Westphalian D (Late Moscovian; Middle Pennsylvanian). (Hook & Baird, 1986; Mann et al., 2019)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus adamas* (syn. *O. gracilis*), *Orthacanthus lintonensis* (syn. *Diplodus gracilis*), *Xenacanthus* sp. (Hook & Baird, 1986; Babcock, 2024)
+>> - Actinopterygii: *Haplolepis corrugata* (syn. *Eurylepis striolatus*), *Parahaplolepis tuberculata*, *Microhaplolepis ovoidea*, *Pyritocephalus lineatus*, *Elonichthys* sp. (Newberry, 1857; Westoll, 1944; Babcock, 2024)
+>> - Sarcopterygii: *Rhabdoderma elegans*, *Sagenodus serratus*, *Conchopoma* sp., *Megalichthys* sp. (Hook & Baird, 1986; Newberry, 1873)
+>> - Tetrapoda (Colosteidae): *Colosteus scutellatus*. (Hook & Baird, 1986)
+>> - Tetrapoda (Baphetidae): *Megalocephalus lineolatus* (syn. *Baphetes* sp., *Loxomma* sp.). (Beaumont, 1977; Milner et al., 2009)
+>> - Tetrapoda (Temnospondyli): *Platyrhinops lyelli*, *Stegops newberryi*, *Erpetosaurus radiatus*, *Isodectes obtusus*, *Adamanterpeton ohioensis*, *Macrerpeton huxleyi*, *Amphibamus* sp. (Hook & Baird, 1986; Milner & Sequeira, 1998; Mann et al., 2019)
+>> - Tetrapoda (Lepospondyli): *Sauropleura pectinata*, *Ptyonius marshii*, *Ctenerpeton remex*, *Diceratosaurus brevirostris*, *Phlegethontia linearis*, *Oestocephalus amphiuminus*, *Brachydectes newberryi* (syn. *Cocytinus gyrinoides*, *Molgophis macrurus*), *Tuditanus punctulatus*, *Odonterpeton triangulare*. (Carroll & Gaskill, 1978; Anderson et al., 2003; Hook & Baird, 1986; Pardo et al., 2016)
+>> - Tetrapoda (Reptiliomorpha): *Leptophractus obsoletus* (syn. *Anthracosaurus lancifer*?), *Eusauropleura digitata*, *Gephyrostegus* sp. (Romer, 1930; Panchen, 1977; Hook & Baird, 1986)
+>> - Tetrapoda (Amniota): *Anthracodromeus longipes*, *Carbonodraco lundi* (formerly *Cephalerpeton*), *Cephalerpeton* sp., *Archaeothyris* sp., *Malanedaphodon hovaneci*. (Reisz & Baird, 1983; Mann et al., 2019, 2021)
+> - **Locality and horizon**: Diamond Coal Mine, near the mouth of Yellow Creek (40.57°N, 80.67°W), Saline Township, Jefferson County, Ohio; cannel coal at the base of the Upper Freeport Coal, Allegheny Group. (Hook & Baird, 1986)
+> - **References**: Babcock, 2024; Hook & Baird, 1986; Mann et al., 2019; Mann et al., 2021; Newberry, 1873; Reisz & Baird, 1983.
+> - **Comments**: Interpreted as an oxbow-lake deposit (abandoned meander channel) with anoxic bottom conditions favoring exceptional preservation of articulated skeletons. The assemblage is dominated by aquatic lepospondyls and fishes, with rare allochthonous terrestrial amniotes. The locality is the type area of the oldest known parareptile *Carbonodraco*. (Hook & Ferm, 1985; Mann et al., 2019)
+
 
 #### Mecca Quarry Shale (Linton Formation), Mecca, Parke County, Indiana, USA
 
@@ -2601,6 +2616,7 @@ Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony
 Zangerl, R. (1969). *Bandringa rayi*, a new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, *12*(10), 157–169.
 
 Zangerl, R. (1979). New Chondrichthyes from the Mazon Creek fauna (Pennsylvanian) of Illinois. In M. H. Nitecki (Ed.), *Mazon Creek Fossils* (pp. 449–500). Academic Press.
+
 
 
 
