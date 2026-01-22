@@ -2677,6 +2677,21 @@ Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan f
 
 Zangerl, R., & Richardson, E. S. (1963). The paleoecological history of two Pennsylvanian black shales. *Fieldiana Geology Memoirs*, *4*, 1–352.
 
+Ginter, M. (2002). Taxonomic notes on *Phoebodus heslerorum* and *Symmorium reniforme* (Chondrichthyes, Elasmobranchii). *Acta Palaeontologica Polonica*, *47*(3), 547–555.
+
+Ginter, M., Ivanov, A., & Lebedev, O. (2005). The revision of “Cladodus” occidentalis, a late Palaeozoic ctenacanthiform shark. *Acta Palaeontologica Polonica*, *50*(3), 623–631.
+
+Shen, C. (2025). A new early actinopterygian from the Mid-Pennsylvanian Logan Quarry Shale Member of Indiana. *PLOS ONE*, *20*(5), e0320932. https://doi.org/10.1371/journal.pone.0320932
+
+Williams, M. E. (1985). The “cladodont level” sharks of the Pennsylvanian black shales of central North America. *Palaeontographica Abteilung A*, *190*, 83–158.
+
+Zangerl, R. (1966). A new shark of the family Edestidae, *Ornithoprion hertwigi*, from the Pennsylvanian Mecca and Logan Quarry shales of Indiana. *Fieldiana: Geology*, *16*(1), 1–43.
+
+Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In H.-P. Schultze (Ed.), *Handbook of Paleoichthyology* (Vol. 3A). Gustav Fischer Verlag.
+
+Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana: Geology Memoirs*, *6*, 1–67.
+
+Zangerl, R., & Richardson, E. S. (1963). The paleoecological history of two Pennsylvanian black shales. *Fieldiana: Geology Memoirs*, *4*, 1–352.
 
 
 
