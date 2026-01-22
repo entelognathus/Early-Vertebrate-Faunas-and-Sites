@@ -1064,8 +1064,21 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Ginter, 2002; Ginter et al., 2005; Shen, 2025; Williams, 1985; Zangerl, 1966; Zangerl, 1981; Zangerl & Case, 1973; Zangerl & Richardson, 1963.
 > - **Comments**: A transgressive black shale Lagerstätte representing a nearshore, shallow marine lagoonal environment with floating vegetation (“flotant”). The site is noted for exceptional preservation of articulated cartilaginous fishes and for Zangerl and Richardson’s extensive radiographic studies. (Zangerl & Richardson, 1963; Shen, 2025)
 
+#### Nýřany Member (Gaskohle), Plzeň Basin, Czech Republic
+> - **Age**: Late Carboniferous, Moscovian Stage (Westphalian D), approx. 311–307 Ma. (Opluštil et al., 2016; Pešek et al., 2001; Opluštil et al., 2024)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus bohemicus*, *Triodus* sp., *Xenacanthus* sp. (Schneider & Zajíc, 1994; Heidtke, 1998; Štamberg & Zajíc, 2008)
+>> - Acanthodii: *Acanthodes* sp., *Traquairichthys pygmaeus* (formerly *Acanthodes pygmaeus*). (Zajíc, 1988; Štamberg & Zajíc, 2008; Whitley, 1933)
+>> - Actinopterygii: *Stambergichthys macrodens*, *Pyritocephalus sculptus*, *Sceletophorus biserialis*, *Sceletophorus verrucosus*, *Sphaerolepis* sp., Actinopterygii indet. (Štamberg, 1978, 2013; Štamberg et al., 2024; Fritsch, 1893)
+>> - Sarcopterygii: *Sagenodus* sp., *Rhizodopsis* sp.? (Fritsch, 1888; Opluštil et al., 2016; Štamberg & Zajíc, 2008)
+>> - Tetrapoda (Temnospondyli): *Cochleosaurus bohemicus*, *Capetus palustris*, *Branchiosaurus salamandroides*, *Limnogyrinus elegans*, *Platyrhinops* cf. *lyelli*, *Mordex calliprepes*, *Mattauschia laticeps*, *Cheliderpeton vranyi*, *Anthracobamus fritschi*. (Milner, 1980, 1986, 2018; Sequeira, 2003; Werneburg & Steyer, 2002; Brough & Brough, 1967)
+>> - Tetrapoda (Reptiliomorpha): *Gephyrostegus bohemicus*, *Diplovertebron punctatum*, *Solenodonsaurus janenschi*, *Baphetes orientalis*, *Nummulosaurus kolbii* (often synonymized with *Diplovertebron*). (Carroll, 1970; Milner et al., 2009; Klembara et al., 2014; Danto et al., 2012)
+>> - Tetrapoda (Lepospondyli): *Scincosaurus crassus*, *Sauropleura scalaris*, *Microbrachis pelikani*, *Hyloplesion longicostatum*, *Boii crassidens*, *Sparodus validus*, *Crinodon limnophyes*, *Oestocephalus granulosus*, *Phlegethontia longissima*. (Carroll & Gaskill, 1978; Bossy & Milner, 1998; Milner, 1980; Anderson, 2001; Germain, 2008)
+>> - Amniota: *Coelostegus prothales*, *Brouffia orientalis*, *Archaeothyris* sp.? (Carroll & Baird, 1972; Müller & Reisz, 2006; Klembara et al., 2023)
+> - **Locality and horizon**: Main Nýřany Coal Seam, Plattelkohle (canneloid shale) horizon, Nýřany Member, Kladno Formation. Principal localities include Humboldt and Krimich Mines, Nýřany (approx. 49°42′58″N, 13°12′25″E), and Třemošná, Plzeň Basin, Czech Republic. (Fritsch, 1879; Milner, 1980; Opluštil et al., 2016)
+> - **References**: Bossy & Milner, 1998; Broili, 1924; Brough & Brough, 1967; Carroll, 1970; Carroll & Baird, 1972; Fritsch, 1879–1901; Heidtke, 1998; Klembara et al., 2014; Milner, 1980, 2018; Opluštil et al., 2016; Sequeira, 2003; Štamberg et al., 2024; Werneburg & Steyer, 2002; Zajíc, 1988.
+> - **Comments**: The Nýřany Member (especially the Plattelkohle horizon) represents one of the most important Late Carboniferous (Moscovian/Westphalian D) vertebrate Lagerstätten worldwide. It records "Coal Forest" ecosystems of Variscan Euramerica. The depositional environment was a shallow lacustrine system with dysoxic to anoxic bottom waters within a braided-river and coal-swamp landscape, favoring exceptional preservation of articulated vertebrate skeletons, often flattened in cannel coal slabs. (Milner, 1980; Opluštil et al., 2016)
 
-#### Nýřany Member (Gaskohle), Nýřany, Plzeň Region, Czech Republic
 
 #### Sydney Mines Formation (Florence), Cape Breton Island, Nova Scotia, Canada
 
@@ -2692,6 +2705,7 @@ Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In H.-P. Schultz
 Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana: Geology Memoirs*, *6*, 1–67.
 
 Zangerl, R., & Richardson, E. S. (1963). The paleoecological history of two Pennsylvanian black shales. *Fieldiana: Geology Memoirs*, *4*, 1–352.
+
 
 
 
