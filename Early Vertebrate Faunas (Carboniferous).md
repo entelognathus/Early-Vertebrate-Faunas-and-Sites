@@ -1044,8 +1044,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Babcock, 2024; Hook & Baird, 1986; Mann et al., 2019; Mann et al., 2021; Newberry, 1873; Reisz & Baird, 1983.
 > - **Comments**: Interpreted as an oxbow-lake deposit (abandoned meander channel) with anoxic bottom conditions favoring exceptional preservation of articulated skeletons. The assemblage is dominated by aquatic lepospondyls and fishes, with rare allochthonous terrestrial amniotes. The locality is the type area of the oldest known parareptile *Carbonodraco*. (Hook & Ferm, 1985; Mann et al., 2019)
 
-
-#### Mecca Quarry Shale (Linton Formation), Mecca, Parke County, Indiana, USA
+#### Mecca Quarry Shale Member (Linton Formation), Indiana, USA
+> - **Age**: Middle Pennsylvanian, Desmoinesian (Moscovian; Westphalian C/D equivalent). (Zangerl & Richardson, 1963; Rexroad et al., 2001; Sallan & Coates, 2013)
+> - **Taxa**:
+>> - Chondrichthyes: *Caseodus basalis*, *Cervifurca nasuta*, *Cobelodus aculeatus*, *Deanea meccaensis* (syn. *Stethacanthulus meccaensis*), *Edestus heinrichi*, *Glikmanius occidentalis*, *Gyracanthus filius*, *Heslerodus divergens* (syn. *Phoebodus*), *Iniopera richardsoni*, *Iniopteryx rushlaui*, *Iniopteryx tedwhitei*, *Inioxyele whitei*, *Listracanthus* sp., *Orodus micropterygius*, *Ornithoprion hertwigi*, *Petrodus* sp., *Promexyele bairdi*, *Promexyele peyeri*, *Rainerichthys zangerli*, *Rhombacanthus zangerli*, *Sibyrhynchus denisoni*, *Stethacanthulus meccaensis*, *Stethacanthus altonensis*, *Styptobasis aculeata*, *Symmorium reniforme*, *Trichorhipis praecursor*. (Zangerl & Richardson, 1963; Zangerl, 1966; Zangerl & Case, 1973; Baird, 1978; Zangerl, 1981; Williams, 1985; Ginter et al., 2010; Grogan & Lund, 2009; Sallan & Coates, 2013; Bronson et al., 2018)
+>> - Actinopterygii: *Elonichthys* sp. (or "Elonichthyid" indet.), *Rhadinichthys* sp., "Palaeoniscoidea" indet. (Zangerl & Richardson, 1963; Gottfried, 1992; Bruner, 1992)
+>> - Sarcopterygii: *Megalichthys* sp., *Rhizodopsis* cf. *R. robustus*. (Zangerl & Richardson, 1963; Baird, 1978; Schultze, 2004)
+> - **Locality and horizon**: Mecca Quarry, Wabash Township, Parke County, Indiana (SW 1/4 NE 1/4 sec. 29, T. 15 N., R. 8 W.); Hesler Quarry; Montgomery Creek. Black fissile sheety shale (~1.5 ft thick) overlying the Colchester Coal Member (Coal IIIa) and underlying the Velpen Limestone Member, Linton Formation. (Zangerl & Richardson, 1963; Vine, 1965; Rexroad et al., 2001)
+> - **References**: Baird, 1978; Bronson et al., 2018; Bruner, 1992; Ginter et al., 2010; Gottfried, 1992; Grogan & Lund, 2009; Rexroad et al., 2001; Sallan & Coates, 2013; Schultze, 2004; Vine, 1965; Williams, 1985; Zangerl, 1966; Zangerl, 1981; Zangerl & Case, 1973; Zangerl & Richardson, 1963.
+> - **Comments**: A major Pennsylvanian Lagerstätte (“Mecca Fauna”) deposited in a transgressive shallow epicontinental sea under dysoxic to anoxic bottom conditions. The assemblage is dominated by chondrichthyans, especially iniopterygians and symmoriiforms, many preserved with calcified cartilage and gut contents. The classic “flotant” hypothesis (floating vegetation mats) proposed by Zangerl & Richardson (1963) has been partly revised by later interpretations emphasizing rapid sedimentation and stratified water columns in shallow marine settings. The fauna combines marine taxa with elements likely transported from adjacent freshwater or brackish environments (e.g., *Megalichthys*, *Rhizodopsis*). (Zangerl & Case, 1973; Rexroad et al., 2001; Baird, 1978)
 
 #### Logan Quarry Shale (Staunton Formation), Logan, Parke County, Indiana, USA
 
@@ -2630,6 +2637,7 @@ Mann, A., Henrici, A. C., Sues, H.-D., & Pierce, S. E. (2021). A new edaphosauri
 Newberry, J. S. (1873). The classification and geological distribution of fossil fishes. *Report of the Geological Survey of Ohio*, *1*(2), 247–355.
 
 Reisz, R. R., & Baird, D. (1983). The earliest known reptile: a new specimen of *Hylonomus lyelli* from the Pennsylvanian of Nova Scotia. *Canadian Journal of Earth Sciences*, *20*, 1478–1486.
+
 
 
 
