@@ -2762,6 +2762,19 @@ Werneburg, R., & Steyer, J. S. (2002). Revision of *Cheliderpeton vranyi* Fritsc
 
 Zajíc, J. (1988). The Permo-Carboniferous acanthodians of the Bohemian Massif. *Acta Musei Reginaehradecensis S. A*, *21*, 23–36.
 
+Carroll, R. L. (1969). A Middle Pennsylvanian captorhinomorph, and the interrelationships of primitive reptiles. *Journal of Paleontology*, *43*(1), 151–170.
+
+Godfrey, S. J., & Holmes, R. (1995). The Pennsylvanian temnospondyl *Cochleosaurus florensis* Rieppel, from the lycopsid stump fauna at Florence, Nova Scotia. *Breviora*, *500*, 1–25.
+
+Klembara, J. (1985). A new embolomerous amphibian (Anthracosauria) from the Upper Carboniferous of Florence, Nova Scotia. *Journal of Vertebrate Paleontology*, *5*(4), 293–302.
+
+Maddin, H. C., Mann, A., & Hebert, B. (2020). Varanopid from the Carboniferous of Nova Scotia reveals evidence of parental care in amniotes. *Nature Ecology & Evolution*, *4*(1), 50–56.
+
+Mann, A., & Paterson, R. S. (2020). Cranial osteology and systematics of the enigmatic early ‘sail-backed’ synapsid *Echinerpeton intermedium* Reisz, 1972, and a review of the earliest ‘pelycosaurs’. *Journal of Systematic Palaeontology*, *18*(6), 529–539.
+
+Reisz, R. R. (1972). Pelycosaurian reptiles from the Middle Pennsylvanian of North America. *Bulletin of the Museum of Comparative Zoology*, *144*(2), 27–60.
+
+Rieppel, O. (1980). The edopoid amphibian *Cochleosaurus* from the Middle Pennsylvanian of Nova Scotia. *Palaeontology*, *23*(1), 143–149.
 
 
 
