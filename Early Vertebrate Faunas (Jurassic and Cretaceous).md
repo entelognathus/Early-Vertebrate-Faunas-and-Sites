@@ -68,6 +68,20 @@
 
 ### Callovian
 ## Late Jurassic
+
+#### Daohugou (道虎沟) Fossil Bed, Haifanggou Formation(海房沟组), Wubaiding Village, Lingyuan City, Liaoning, China; Part of the Yanliao Biota
+> - **Age**: Callovian, Middle Jurassic to Oxfordian, Late Jurassic
+> - **Taxa**:
+>> - **Fish**: *Liaosteus hongi*, *Yanliaomyzon ingensdentes*
+>> - **Amphibians**: *Chunerpeton tianyiensis*, *Jeholotriton paradoxus*, *Neimengtriton daohugouensis*, *Pangerpeton sinensis*
+>> - **Dinosaurs**: *Pedopenna daohugouensis*, *Epidexipteryx hui*, *Epidendrosaurus ningchengensis*
+>> - **Pterosaurs**: *Daohugoupterus delicatus*, *Jeholopterus	J. ningchengensis*, *Liaodactylus primus*, *Pterorhynchus wellnhoferi*
+>> - **Mammaliforms**: *Agilodocodon scansorius*, *Castorocauda lutrasimilis*, *Microdocodon gracilis*, *Megaconus mammaliaformis*,*Mirusodens caii*,  *Pseudotribos robustus*, *Volaticotherium antiquum*
+>> - Arthropods
+> - **Locality and horizon**:
+> - **References**: https://en.wikipedia.org/wiki/Haifanggou_Formation
+> - **Comments**: The age of the Daohugou bed has been debated, and a number of studies, using different methodologies, have reached conflicting conclusions. Various papers have placed the fossils here as being anywhere from the Middle Jurassic period (169 million years ago) to the Early Cretaceous period (122 ma).[4] One of the first studies on the age of the Daohugou beds, published in 2004 by He et al., found them to be Early Cretaceous, only a few million years older than the overlying Jehol beds of the Yixian Formation.[5] The 2004 study primarily used Argon–argon dating of a tuff within the Daohugou Beds to determine its age.
+
 ### Oxfordian
 ### Kimmeridgian
 #### Nakanosawa Formation, Tomizawa, Soma City, Honshu, Japan**
@@ -334,6 +348,7 @@ osteichthyans: *?Stephanodus sp.*, *Albula sp.*, *Paralbula casei*, *Lepidotes s
 ###References
 1. Miyata, S., Nakajima, Y., Motoyama, I., Nishimura, T., & Yabumoto, Y. (2025). A first fossil sturgeon from the Upper Cretaceous (Maastrichtian) of Northwestern Pacific. Cretaceous Research, 106251.
 2. Vavrek Matthew J., Murray Alison M., and Bell Phil R. (2014). An early Late Cretaceous (Cenomanian) sturgeon (Acipenseriformes) from the Dunvegan Formation, northwestern Alberta, Canada. Canadian Journal of Earth Sciences. 51(7): 677-681.
+
 
 
 
