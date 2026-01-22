@@ -2638,6 +2638,35 @@ Newberry, J. S. (1873). The classification and geological distribution of fossil
 
 Reisz, R. R., & Baird, D. (1983). The earliest known reptile: a new specimen of *Hylonomus lyelli* from the Pennsylvanian of Nova Scotia. *Canadian Journal of Earth Sciences*, *20*, 1478–1486.
 
+Baird, D. (1978). Studies on Carboniferous freshwater fishes. *American Museum Novitates*, *2641*, 1–22.
+
+Bronson, A. W., Pradel, A., Denton, J. S., & Maisey, J. G. (2018). A new operculate symmoriiform chondrichthyan from the Late Mississippian Fayetteville Shale (Arkansas, USA). *American Museum Novitates*, *2018*(3909), 1–51.
+
+Bruner, J. C. (1992). A catalogue of type specimens of fossil fishes in the Field Museum of Natural History. *Fieldiana Geology*, *23*, 1–54.
+
+Ginter, M., Hampe, O., & Duffin, C. J. (2010). *Handbook of Paleoichthyology, Vol. 3D: Chondrichthyes: Paleozoic Elasmobranchii: Teeth*. Pfeil Verlag.
+
+Gottfried, M. D. (1992). The lower jaw of the primitive actinopterygian *Cheirolepis canadensis* (Whiteaves). *Journal of Vertebrate Paleontology*, *12*(4), 418–424.
+
+Grogan, E. D., & Lund, R. (2009). Two new iniopterygians (Chondrichthyes) from the Mississippian (Serpukhovian) Bear Gulch Limestone of Montana with a review of the Iniopterygia. *Journal of Paleontology*, *83*(6), 970–990.
+
+Rexroad, C. B., Wade, J. A., Merrill, G. K., Brown, L. M., & Padgett, P. (2001). Conodont biostratigraphy and depositional environments of the Mecca Quarry Shale Member and the Velpen Limestone Member of the Linton Formation (Pennsylvanian, Desmoinesian) in the eastern part of the Illinois Basin, USA. *Indiana Geological Survey Special Report*, *63*, 1–19.
+
+Sallan, L. C., & Coates, M. I. (2013). Staggered developmental responses to environmental change in early ray-finned fishes. *Biology Letters*, *9*(5), 20130219.
+
+Schultze, H.-P. (2004). Mesozoic sarcopterygians. In Arratia, G., & Tintori, A. (Eds.), *Mesozoic Fishes 3 – Systematics, Paleoenvironments and Biodiversity* (pp. 463–492). Verlag Dr. Friedrich Pfeil.
+
+Vine, J. D. (1965). Spectrographic analyses of Paleozoic black shale samples. *U.S. Geological Survey Open-File Report*, 65–166.
+
+Williams, M. E. (1985). The “cladodont level” sharks of the Pennsylvanian black shales of central North America. *Palaeontographica Abteilung A*, *190*, 83–158.
+
+Zangerl, R. (1966). A new shark of the family Edestidae, *Ornithoprion hertwigi*, from the Pennsylvanian Mecca and Logan Quarry shales of Indiana. *Fieldiana Geology*, *16*(1), 1–43.
+
+Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In *Handbook of Paleoichthyology* (Vol. 3A). Gustav Fischer Verlag.
+
+Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana Geology Memoirs*, *6*, 1–67.
+
+Zangerl, R., & Richardson, E. S. (1963). The paleoecological history of two Pennsylvanian black shales. *Fieldiana Geology Memoirs*, *4*, 1–352.
 
 
 
