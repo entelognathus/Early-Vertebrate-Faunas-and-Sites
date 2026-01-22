@@ -1055,6 +1055,15 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A major Pennsylvanian Lagerstätte (“Mecca Fauna”) deposited in a transgressive shallow epicontinental sea under dysoxic to anoxic bottom conditions. The assemblage is dominated by chondrichthyans, especially iniopterygians and symmoriiforms, many preserved with calcified cartilage and gut contents. The classic “flotant” hypothesis (floating vegetation mats) proposed by Zangerl & Richardson (1963) has been partly revised by later interpretations emphasizing rapid sedimentation and stratified water columns in shallow marine settings. The fauna combines marine taxa with elements likely transported from adjacent freshwater or brackish environments (e.g., *Megalichthys*, *Rhizodopsis*). (Zangerl & Case, 1973; Rexroad et al., 2001; Baird, 1978)
 
 #### Logan Quarry Shale (Staunton Formation), Logan, Parke County, Indiana, USA
+> - **Age**: Moscovian (Desmoinesian), Pennsylvanian. (Zangerl & Richardson, 1963; Shen, 2025)
+> - **Taxa**:
+>> - Chondrichthyes: *Ornithoprion hertwigi*, *Caseodus eatoni*, *Eugeneodus richardsoni*, *Gilliodus peyeri*, *Stethacanthulus meccaensis*, *Denaea* sp., *Glikmanius occidentalis*, *Heslerodus divergens*, *Iniopteryx rushlaui*, *Promexyele peyeri*, *Iniopera richardsoni*, *Sibyrhynchus denisoni*, *Orodus greggi*. (Zangerl, 1966; Zangerl & Case, 1973; Zangerl, 1981; Williams, 1985; Ginter, 2002; Ginter et al., 2005)
+>> - Actinopterygii: *Kalops loganensis*, *Elonichthys* sp., *Rhadinichthys* sp. (Shen, 2025; Zangerl & Richardson, 1963)
+>> - Sarcopterygii: *Rhabdoderma exiguum*, *Rhizodopsis* sp. (Zangerl & Richardson, 1963; Zangerl, 1966)
+> - **Locality and horizon**: Logan Quarry (N 39.846°, W 87.301°), Parke County, Indiana; Level J of the Logan Quarry Shale Member, Staunton Formation. (Zangerl & Richardson, 1963; Shen, 2025)
+> - **References**: Ginter, 2002; Ginter et al., 2005; Shen, 2025; Williams, 1985; Zangerl, 1966; Zangerl, 1981; Zangerl & Case, 1973; Zangerl & Richardson, 1963.
+> - **Comments**: A transgressive black shale Lagerstätte representing a nearshore, shallow marine lagoonal environment with floating vegetation (“flotant”). The site is noted for exceptional preservation of articulated cartilaginous fishes and for Zangerl and Richardson’s extensive radiographic studies. (Zangerl & Richardson, 1963; Shen, 2025)
+
 
 #### Nýřany Member (Gaskohle), Nýřany, Plzeň Region, Czech Republic
 
@@ -2667,6 +2676,7 @@ Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In *Handbook of 
 Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana Geology Memoirs*, *6*, 1–67.
 
 Zangerl, R., & Richardson, E. S. (1963). The paleoecological history of two Pennsylvanian black shales. *Fieldiana Geology Memoirs*, *4*, 1–352.
+
 
 
 
