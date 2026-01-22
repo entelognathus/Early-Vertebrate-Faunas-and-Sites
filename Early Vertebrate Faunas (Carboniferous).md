@@ -1087,8 +1087,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Carroll, 1969; Godfrey & Holmes, 1995; Klembara, 1985; Maddin et al., 2020; Mann & Paterson, 2020; Reisz, 1972; Rieppel, 1980.
 > - **Comments**: A terrestrial assemblage preserved within hollowed *Sigillaria* stumps (interpreted as pitfall traps). The fauna is notable for three-dimensional preservation of basal amniotes and the relative absence of aquatic taxa typical of contemporaneous coal-swamp deposits such as Linton, Ohio. (Godfrey & Holmes, 1995; Reisz, 1972)
 
-
 #### Allegheny Group (Five Points), Mahoning County, Ohio, USA
+> - **Age**: Middle Pennsylvanian (Westphalian D). (Hook & Baird, 1993; Schoch et al., 2021)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus compressus*, *Ageleodus pectinatus*, *Bandringa rayi*, *Gyracanthus* sp. (Hook & Baird, 1993; Baird, 1978)
+>> - Actinopterygii: *Elonichthys* sp., *Pyritocephalus* sp., *Haplolepis* sp., *Microhaplolepis* sp., *Platysomus* sp. (Hook & Baird, 1993)
+>> - Sarcopterygii: *Sagenodus serratus*, *Rhabdoderma* sp., *Megalichthys* sp., *Rhizodopsis* sp., *Conchopoma* sp. (Hook & Baird, 1993)
+>> - Tetrapoda: *Palodromeus bairdi*, *Oestocephalus amphiuminus*, *Colosteus scutellatus*, *Isodectes obtusus*, *Tuditanus* sp., *Elfridia* sp., *Ctenerpeton* sp., *Sauropleura* sp., *Diceratosaurus* sp., *Brachydectes* sp., *Macrerpeton* sp., *Stegops* sp., *Amphibamus* sp., *Baphetes* sp., *Leptophractus* sp. (Hook & Baird, 1993; Schoch et al., 2021; Anderson et al., 2018)
+> - **Locality and horizon**: Five Points Cannel Mine, Beaver Township (approx. 1.3 km NE of North Lima); cannel coal underlying the Lower Kittanning Coal. (Hook & Baird, 1993; Schoch et al., 2021)
+> - **References**: Anderson et al., 2018; Baird, 1978; Hook & Baird, 1993; Schoch et al., 2021.
+> - **Comments**: Sapropelic oxbow-lake deposit yielding a diverse freshwater assemblage; exceptional preservation (including articulated skeletons and occasional soft tissues) within an anoxic cannel-coal matrix. (Hook & Baird, 1993)
+
 
 #### Low Main Seam (Middle Coal Measures), Newsham, Northumberland, UK
 
@@ -2775,6 +2784,7 @@ Mann, A., & Paterson, R. S. (2020). Cranial osteology and systematics of the eni
 Reisz, R. R. (1972). Pelycosaurian reptiles from the Middle Pennsylvanian of North America. *Bulletin of the Museum of Comparative Zoology*, *144*(2), 27–60.
 
 Rieppel, O. (1980). The edopoid amphibian *Cochleosaurus* from the Middle Pennsylvanian of Nova Scotia. *Palaeontology*, *23*(1), 143–149.
+
 
 
 
