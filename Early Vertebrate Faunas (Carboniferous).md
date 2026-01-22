@@ -2870,6 +2870,9 @@ Woodward, A. S. (1889). *Catalogue of the Fossil Fishes in the British Museum (N
 
 Woodward, A. S. (1891). *Catalogue of the Fossil Fishes in the British Museum (Natural History). Part II. Elasmobranchii (Acanthodii), Holocephali, Ichthyodorulites, Ostracodermi, Dipnoi, and Teleostomi (Crossopterygii and Chondrostean Actinopterygii).* British Museum (Natural History).
 
+Johnson, G. D., & Thayer, D. W. (2009). Early Pennsylvanian xenacanth chondrichthyans from the Swisshelm Mountains, Arizona, USA. *Acta Palaeontologica Polonica*, *54*(4), 649–668. https://doi.org/10.4202/app.2008.0051
+
+Thayer, D. W. (1985). New Pennsylvanian lepospondyl amphibians from the Swisshelm Mountains, Arizona. *Journal of Paleontology*, *59*(3), 684–700.
 
 
 
