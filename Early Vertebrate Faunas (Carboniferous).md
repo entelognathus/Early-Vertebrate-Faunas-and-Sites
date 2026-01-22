@@ -1026,6 +1026,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Barham et al., 2015; Doyle, 2025; Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015.
 > - **Comments**: Deposited in a deep-water, condensed, anoxic to dysoxic marine basin of the Shannon Trough. Vertebrate remains are concentrated within phosphatic lag horizons formed under conditions of sediment starvation. Tetrapod material is interpreted as allochthonous, most plausibly transported from terrestrial environments via “bloat-and-float” processes prior to final deposition. (Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015)
 
+#### Black Prince Limestone, Swisshelm Mountains, Cochise County, Arizona, USA
+> - **Age**: Late Bashkirian (Johnson & Thayer, 2009; Thayer, 1985)
+> - **Taxa**:
+>> - Amphibia: *Arizonerpeton wellsi*, *Elfridia bulbidens*, *Ophiderpeton swisshelmense*, *Phlegethontia phanerhapha*, *?Ptyonius olistmonaias*. (Thayer, 1985)
+>> - Chondrichthyes: *Orthacanthus donnelljohnsi*, *Triodus elpia*, *Bransonella* cf. *B. nebraskensis*, *Bransonella*? *lingulata*, *Bransonella* spp., *Petalodus* sp., Helodontidae indet., Cladoselachian indet. (Johnson & Thayer, 2009; Thayer, 1985)
+>> - Sarcopterygii: *Gnathorhiza* sp. (Thayer, 1985)
+>> - Actinopterygii: Palaeonisciformes indet. (Thayer, 1985)
+> - **Locality and horizon**: Swisshelm Mountains, UALP locality 7205; “Amphibian bed” located approximately 1 m below the top of the formation. (Johnson & Thayer, 2009; Thayer, 1985)
+> - **References**: Johnson & Thayer, 2009; Thayer, 1985.
+> - **Comments**: Mixed assemblage deposited in an estuarine or marginal-marine setting, indicated by the co-occurrence of terrestrial/freshwater tetrapods and lungfish with marine chondrichthyans and algal oncolites. (Johnson & Thayer, 2009; Thayer, 1985)
+
 
 ### Moscovian,Middle Pennsylvanian, Carboniferous
 #### Upper Freeport Coal (Diamond Mine), Linton, Jefferson County, Ohio, USA
@@ -1111,7 +1122,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Andrews, 1985; Atthey, 1868, 1876, 1877; Baird, 1962, 1978; Boyd, 1980, 1984; Clack, 1987; Hancock & Atthey, 1868–1872; Hodnett et al., 2024; Jeffery, 2006; Land, 1974; Lowney, 1980; Milner, 1980; Panchen, 1970, 1972; Sharp & Clack, 2013; Traquair, 1877, 1879, 1881; Turner, 1980; Woodward, 1889, 1891.
 > - **Comments**: Interpreted as a deep freshwater oxbow-lake deposit in an abandoned channel. The assemblage is among the most diverse Westphalian tetrapod faunas in Europe and includes early records of a protorothyridid reptile and a lysorophid from the British Isles. Preservation in black shale indicates anoxic bottom waters; articulation occurs but many specimens are disarticulated. (Boyd, 1984; Milner, 1980; Panchen, 1970)
 
-#### Black Prince Limestone, Swisshelm Mountains, Cochise County, Arizona, USA
+
 
 #### Nýřany Member (Kladno Formation), Třemošná, Czech Republic
 
@@ -2858,6 +2869,7 @@ Turner, S. (1980). Trace fossils of the Carboniferous of the British Isles. *Ear
 Woodward, A. S. (1889). *Catalogue of the Fossil Fishes in the British Museum (Natural History). Part I. Elasmobranchii*. British Museum (Natural History).
 
 Woodward, A. S. (1891). *Catalogue of the Fossil Fishes in the British Museum (Natural History). Part II. Elasmobranchii (Acanthodii), Holocephali, Ichthyodorulites, Ostracodermi, Dipnoi, and Teleostomi (Crossopterygii and Chondrostean Actinopterygii).* British Museum (Natural History).
+
 
 
 
