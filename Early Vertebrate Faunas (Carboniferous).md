@@ -1079,8 +1079,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Bossy & Milner, 1998; Broili, 1924; Brough & Brough, 1967; Carroll, 1970; Carroll & Baird, 1972; Fritsch, 1879–1901; Heidtke, 1998; Klembara et al., 2014; Milner, 1980, 2018; Opluštil et al., 2016; Sequeira, 2003; Štamberg et al., 2024; Werneburg & Steyer, 2002; Zajíc, 1988.
 > - **Comments**: The Nýřany Member (especially the Plattelkohle horizon) represents one of the most important Late Carboniferous (Moscovian/Westphalian D) vertebrate Lagerstätten worldwide. It records "Coal Forest" ecosystems of Variscan Euramerica. The depositional environment was a shallow lacustrine system with dysoxic to anoxic bottom waters within a braided-river and coal-swamp landscape, favoring exceptional preservation of articulated vertebrate skeletons, often flattened in cannel coal slabs. (Milner, 1980; Opluštil et al., 2016)
 
+#### Sydney Mines Formation, Florence, Cape Breton Island, Nova Scotia, Canada
+> - **Age**: Late Moscovian (Westphalian D) to earliest Kasimovian (Cantabrian). (Reisz, 1972; Maddin et al., 2020)
+> - **Taxa**:
+>> - Tetrapoda: *Archaeothyris florensis* (ophiacodontid synapsid), *Echinerpeton intermedium* (ophiacodontid synapsid), *Paleothyris acadiana* (protorothyridid eureptile), *Carbonoherpeton carrolli* (embolomere), *Cochleosaurus florensis* (cochleosaurid temnospondyl). (Carroll, 1969; Godfrey & Holmes, 1995; Klembara, 1985; Mann & Paterson, 2020; Reisz, 1972; Rieppel, 1980)
+> - **Locality and horizon**: Dominion Coal Company strip mine No. 7, approximately 2 km north of Florence; fossils recovered from sediment-filled, upright lycopsid tree stumps above the Lloyd Cove Seam. (Carroll, 1969; Reisz, 1972)
+> - **References**: Carroll, 1969; Godfrey & Holmes, 1995; Klembara, 1985; Maddin et al., 2020; Mann & Paterson, 2020; Reisz, 1972; Rieppel, 1980.
+> - **Comments**: A terrestrial assemblage preserved within hollowed *Sigillaria* stumps (interpreted as pitfall traps). The fauna is notable for three-dimensional preservation of basal amniotes and the relative absence of aquatic taxa typical of contemporaneous coal-swamp deposits such as Linton, Ohio. (Godfrey & Holmes, 1995; Reisz, 1972)
 
-#### Sydney Mines Formation (Florence), Cape Breton Island, Nova Scotia, Canada
 
 #### Allegheny Group (Five Points), Mahoning County, Ohio, USA
 
@@ -2755,6 +2761,7 @@ Sequeira, S. E. K. (2003). The skull of *Cochleosaurus bohemicus* Frič, a temno
 Werneburg, R., & Steyer, J. S. (2002). Revision of *Cheliderpeton vranyi* Fritsch, 1877 (Amphibia, Temnospondyli) from the Lower Permian of Bohemia. *Paläontologische Zeitschrift*, *76*(1), 149–162.
 
 Zajíc, J. (1988). The Permo-Carboniferous acanthodians of the Bohemian Massif. *Acta Musei Reginaehradecensis S. A*, *21*, 23–36.
+
 
 
 
