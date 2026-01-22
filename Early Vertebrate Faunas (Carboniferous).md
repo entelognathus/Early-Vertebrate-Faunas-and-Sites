@@ -1029,7 +1029,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 ### Moscovian,Middle Pennsylvanian, Carboniferous
 #### Upper Freeport Coal (Diamond Mine), Linton, Jefferson County, Ohio, USA
-> - **Age**: Westphalian D (Late Moscovian; Middle Pennsylvanian). (Hook & Baird, 1986; Mann et al., 2019)
+> - **Age**: Late Moscovian(Hook & Baird, 1986; Mann et al., 2019)
 > - **Taxa**:
 >> - Chondrichthyes: *Orthacanthus adamas* (syn. *O. gracilis*), *Orthacanthus lintonensis* (syn. *Diplodus gracilis*), *Xenacanthus* sp. (Hook & Baird, 1986; Babcock, 2024)
 >> - Actinopterygii: *Haplolepis corrugata* (syn. *Eurylepis striolatus*), *Parahaplolepis tuberculata*, *Microhaplolepis ovoidea*, *Pyritocephalus lineatus*, *Elonichthys* sp. (Newberry, 1857; Westoll, 1944; Babcock, 2024)
@@ -1045,7 +1045,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Interpreted as an oxbow-lake deposit (abandoned meander channel) with anoxic bottom conditions favoring exceptional preservation of articulated skeletons. The assemblage is dominated by aquatic lepospondyls and fishes, with rare allochthonous terrestrial amniotes. The locality is the type area of the oldest known parareptile *Carbonodraco*. (Hook & Ferm, 1985; Mann et al., 2019)
 
 #### Mecca Quarry Shale Member (Linton Formation), Indiana, USA
-> - **Age**: Middle Pennsylvanian, Desmoinesian (Moscovian; Westphalian C/D equivalent). (Zangerl & Richardson, 1963; Rexroad et al., 2001; Sallan & Coates, 2013)
+> - **Age**: Moscovian (Zangerl & Richardson, 1963; Rexroad et al., 2001; Sallan & Coates, 2013)
 > - **Taxa**:
 >> - Chondrichthyes: *Caseodus basalis*, *Cervifurca nasuta*, *Cobelodus aculeatus*, *Deanea meccaensis* (syn. *Stethacanthulus meccaensis*), *Edestus heinrichi*, *Glikmanius occidentalis*, *Gyracanthus filius*, *Heslerodus divergens* (syn. *Phoebodus*), *Iniopera richardsoni*, *Iniopteryx rushlaui*, *Iniopteryx tedwhitei*, *Inioxyele whitei*, *Listracanthus* sp., *Orodus micropterygius*, *Ornithoprion hertwigi*, *Petrodus* sp., *Promexyele bairdi*, *Promexyele peyeri*, *Rainerichthys zangerli*, *Rhombacanthus zangerli*, *Sibyrhynchus denisoni*, *Stethacanthulus meccaensis*, *Stethacanthus altonensis*, *Styptobasis aculeata*, *Symmorium reniforme*, *Trichorhipis praecursor*. (Zangerl & Richardson, 1963; Zangerl, 1966; Zangerl & Case, 1973; Baird, 1978; Zangerl, 1981; Williams, 1985; Ginter et al., 2010; Grogan & Lund, 2009; Sallan & Coates, 2013; Bronson et al., 2018)
 >> - Actinopterygii: *Elonichthys* sp. (or "Elonichthyid" indet.), *Rhadinichthys* sp., "Palaeoniscoidea" indet. (Zangerl & Richardson, 1963; Gottfried, 1992; Bruner, 1992)
@@ -1055,7 +1055,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A major Pennsylvanian Lagerstätte (“Mecca Fauna”) deposited in a transgressive shallow epicontinental sea under dysoxic to anoxic bottom conditions. The assemblage is dominated by chondrichthyans, especially iniopterygians and symmoriiforms, many preserved with calcified cartilage and gut contents. The classic “flotant” hypothesis (floating vegetation mats) proposed by Zangerl & Richardson (1963) has been partly revised by later interpretations emphasizing rapid sedimentation and stratified water columns in shallow marine settings. The fauna combines marine taxa with elements likely transported from adjacent freshwater or brackish environments (e.g., *Megalichthys*, *Rhizodopsis*). (Zangerl & Case, 1973; Rexroad et al., 2001; Baird, 1978)
 
 #### Logan Quarry Shale (Staunton Formation), Logan, Parke County, Indiana, USA
-> - **Age**: Moscovian (Desmoinesian), Pennsylvanian. (Zangerl & Richardson, 1963; Shen, 2025)
+> - **Age**: Moscovian (Desmoinesian) (Zangerl & Richardson, 1963; Shen, 2025)
 > - **Taxa**:
 >> - Chondrichthyes: *Ornithoprion hertwigi*, *Caseodus eatoni*, *Eugeneodus richardsoni*, *Gilliodus peyeri*, *Stethacanthulus meccaensis*, *Denaea* sp., *Glikmanius occidentalis*, *Heslerodus divergens*, *Iniopteryx rushlaui*, *Promexyele peyeri*, *Iniopera richardsoni*, *Sibyrhynchus denisoni*, *Orodus greggi*. (Zangerl, 1966; Zangerl & Case, 1973; Zangerl, 1981; Williams, 1985; Ginter, 2002; Ginter et al., 2005)
 >> - Actinopterygii: *Kalops loganensis*, *Elonichthys* sp., *Rhadinichthys* sp. (Shen, 2025; Zangerl & Richardson, 1963)
@@ -1065,7 +1065,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A transgressive black shale Lagerstätte representing a nearshore, shallow marine lagoonal environment with floating vegetation (“flotant”). The site is noted for exceptional preservation of articulated cartilaginous fishes and for Zangerl and Richardson’s extensive radiographic studies. (Zangerl & Richardson, 1963; Shen, 2025)
 
 #### Nýřany Member (Gaskohle), Plzeň Basin, Czech Republic
-> - **Age**: Late Carboniferous, Moscovian Stage (Westphalian D), approx. 311–307 Ma. (Opluštil et al., 2016; Pešek et al., 2001; Opluštil et al., 2024)
+> - **Age**: Moscovian Stage (Westphalian D)(Opluštil et al., 2016; Pešek et al., 2001; Opluštil et al., 2024)
 > - **Taxa**:
 >> - Chondrichthyes: *Orthacanthus bohemicus*, *Triodus* sp., *Xenacanthus* sp. (Schneider & Zajíc, 1994; Heidtke, 1998; Štamberg & Zajíc, 2008)
 >> - Acanthodii: *Acanthodes* sp., *Traquairichthys pygmaeus* (formerly *Acanthodes pygmaeus*). (Zajíc, 1988; Štamberg & Zajíc, 2008; Whitley, 1933)
@@ -1088,7 +1088,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A terrestrial assemblage preserved within hollowed *Sigillaria* stumps (interpreted as pitfall traps). The fauna is notable for three-dimensional preservation of basal amniotes and the relative absence of aquatic taxa typical of contemporaneous coal-swamp deposits such as Linton, Ohio. (Godfrey & Holmes, 1995; Reisz, 1972)
 
 #### Allegheny Group (Five Points), Mahoning County, Ohio, USA
-> - **Age**: Middle Pennsylvanian (Westphalian D). (Hook & Baird, 1993; Schoch et al., 2021)
+> - **Age**: Late Moscovian (Westphalian D). (Hook & Baird, 1993; Schoch et al., 2021)
 > - **Taxa**:
 >> - Chondrichthyes: *Orthacanthus compressus*, *Ageleodus pectinatus*, *Bandringa rayi*, *Gyracanthus* sp. (Hook & Baird, 1993; Baird, 1978)
 >> - Actinopterygii: *Elonichthys* sp., *Pyritocephalus* sp., *Haplolepis* sp., *Microhaplolepis* sp., *Platysomus* sp. (Hook & Baird, 1993)
@@ -1099,7 +1099,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Sapropelic oxbow-lake deposit yielding a diverse freshwater assemblage; exceptional preservation (including articulated skeletons and occasional soft tissues) within an anoxic cannel-coal matrix. (Hook & Baird, 1993)
 
 
-#### Low Main Seam (Middle Coal Measures), Newsham, Northumberland, UK
+#### Low Main Seam, Newsham, Northumberland, UK
+> - **Age**: Early Moscovian (Westphalian B)(Boyd, 1984; Land, 1974; Milner, 1980)
+> - **Taxa**:
+>> - Tetrapoda: *Pholiderpeton attheyi* (formerly *Eogyrinus*), *Pteroplax cornutus*, *Anthracosaurus russelli*, *Megalocephalus pachycephalus* (syn. *Loxomma allmanni* in part; *Orthosaurus*), *Batrachiderpeton reticulatum* (syn. *Urocordylus reticulatus*, *Keraterpeton reticulatum*, *Batrachiderpeton lineatum*), *Ophiderpeton nanum*, unnamed lysorophid (Hancock Museum G91.15), unnamed protorothyridid reptile (Hancock Museum G24.84). (Atthey, 1876, 1877; Baird, 1978; Boyd, 1980, 1984; Clack, 1987; Hancock & Atthey, 1868–1872; Milner, 1980; Panchen, 1970, 1972)
+>> - Sarcopterygii: *Rhizodopsis sauroides*, *Strepsodus sauroides*, *Archichthys sulcidens* (syn. *Strepsodus sulcidens*), *Megalichthys hibberti*, *Megalichthys coccolepis*, *Ctenodus cristatus* (syn. *C. obliquus*, *C. elegans*, *C. imbricatus*), *Sagenodus inaequalis*, *Coelacanthus lepturus*, *Coelacanthus* sp. (Andrews, 1985; Atthey, 1877; Hancock & Atthey, 1870, 1871; Jeffery, 2006; Sharp & Clack, 2013; Traquair, 1881; Woodward, 1891)
+>> - Actinopterygii: *Haplolepis* (*Parahaplolepis*) aff. *anglica*, *Elonichthys semistriatus*, *Elonichthys egertoni*, *Gyrolepis rankinii* (syn. *Acrolepis*), *Platysomus parvulus*, *Platysomus rotundus*, *Platysomus forsteri*, *Amphicentrum striatum*. (Baird, 1962; Hancock & Atthey, 1868, 1872; Lowney, 1980; Traquair, 1877, 1879)
+>> - Chondrichthyes: *Gyracanthus tuberculatus*, *Janassa linguaeformis* (syn. *Climaxodus*), *Pleurodus rankinii*, *Cladodus mirabilis*, *Poecilodus* sp., *Petalodus* sp., *Diplodus* sp., *Xenacanthus* sp. (syn. *Pleuracanthus laevissimus*, *P. cylindricus*), *Helodus* sp. (Atthey, 1868; Hancock & Atthey, 1868, 1872; Hodnett et al., 2024; Turner, 1980; Woodward, 1889, 1891)
+>> - Acanthodii: *Acanthodopsis egertoni*, *Acanthodopsis wardii*. (Hancock & Atthey, 1868; Woodward, 1891)
+> - **Locality and horizon**: Hannah Pit (Newsham Colliery), near Blyth, Northumberland, UK (approx. 55.10°N, 1.50°W); black shale immediately overlying the Low Main Seam (Middle Coal Measures). (Boyd, 1984; Land, 1974)
+> - **References**: Andrews, 1985; Atthey, 1868, 1876, 1877; Baird, 1962, 1978; Boyd, 1980, 1984; Clack, 1987; Hancock & Atthey, 1868–1872; Hodnett et al., 2024; Jeffery, 2006; Land, 1974; Lowney, 1980; Milner, 1980; Panchen, 1970, 1972; Sharp & Clack, 2013; Traquair, 1877, 1879, 1881; Turner, 1980; Woodward, 1889, 1891.
+> - **Comments**: Interpreted as a deep freshwater oxbow-lake deposit in an abandoned channel. The assemblage is among the most diverse Westphalian tetrapod faunas in Europe and includes early records of a protorothyridid reptile and a lysorophid from the British Isles. Preservation in black shale indicates anoxic bottom waters; articulation occurs but many specimens are disarticulated. (Boyd, 1984; Milner, 1980; Panchen, 1970)
 
 #### Black Prince Limestone, Swisshelm Mountains, Cochise County, Arizona, USA
 
@@ -2792,6 +2802,7 @@ Baird, D. (1978). Studies on Carboniferous freshwater fishes. *American Museum N
 Hook, R. W., & Baird, D. (1993). A new fish and tetrapod assemblage from the Allegheny Group (Late Westphalian, Upper Carboniferous) of eastern Ohio, USA. In U. Heidtke (Ed.), *New Research on Permo-Carboniferous Faunas* (Pollichia-Buch 29, pp. 143–154). Pollichia.
 
 Schoch, R. R., Henrici, A. C., & Hook, R. W. (2021). A new dissorophoid temnospondyl from the Allegheny Group (late Carboniferous) of Five Points, Mahoning County, Ohio (USA). *Journal of Paleontology*, *95*(3), 638–651. https://doi.org/10.1017/jpa.2020.101
+
 
 
 
