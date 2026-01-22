@@ -2785,6 +2785,13 @@ Reisz, R. R. (1972). Pelycosaurian reptiles from the Middle Pennsylvanian of Nor
 
 Rieppel, O. (1980). The edopoid amphibian *Cochleosaurus* from the Middle Pennsylvanian of Nova Scotia. *Palaeontology*, *23*(1), 143–149.
 
+Anderson, J. S., Pardo, J. D., & Holmes, R. (2018). An enigmatic braincase from Five Points, Ohio (Westphalian D) further supports a stem tetrapod position for aistopods. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *109*(1–2), 1–10.
+
+Baird, D. (1978). Studies on Carboniferous freshwater fishes. *American Museum Novitates*, *2641*, 1–22.
+
+Hook, R. W., & Baird, D. (1993). A new fish and tetrapod assemblage from the Allegheny Group (Late Westphalian, Upper Carboniferous) of eastern Ohio, USA. In U. Heidtke (Ed.), *New Research on Permo-Carboniferous Faunas* (Pollichia-Buch 29, pp. 143–154). Pollichia.
+
+Schoch, R. R., Henrici, A. C., & Hook, R. W. (2021). A new dissorophoid temnospondyl from the Allegheny Group (late Carboniferous) of Five Points, Mahoning County, Ohio (USA). *Journal of Paleontology*, *95*(3), 638–651. https://doi.org/10.1017/jpa.2020.101
 
 
 
