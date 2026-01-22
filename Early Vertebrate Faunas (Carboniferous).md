@@ -2880,6 +2880,27 @@ Johnson, G. D., & Thayer, D. W. (2009). Early Pennsylvanian xenacanth chondricht
 
 Thayer, D. W. (1985). New Pennsylvanian lepospondyl amphibians from the Swisshelm Mountains, Arizona. *Journal of Paleontology*, *59*(3), 684–700.
 
+Carroll, R. L., & Gaskill, P. (1978). *The Order Microsauria*. Memoirs of the American Philosophical Society, 126, 1–211.
+
+Fritsch, A. (1879). *Fauna der Gaskohle und der Kalksteine der Permformation Böhmens* (Vol. 1, Part 1). Prague: F. Řivnáč.
+
+Fritsch, A. (1883). *Fauna der Gaskohle und der Kalksteine der Permformation Böhmens* (Vol. 1, Part 4). Prague: F. Řivnáč.
+
+Milner, A. R. (1980). The tetrapod assemblage from Nýřany, Czechoslovakia. In A. L. Panchen (Ed.), *The Terrestrial Environment and the Origin of Land Vertebrates* (pp. 439–496). Academic Press.
+
+Milner, A. R., & Sequeira, S. E. K. (2003). Revision of the amphibian genus *Limnerpeton* (Temnospondyli) from the Upper Carboniferous of the Czech Republic. *Acta Palaeontologica Polonica*, 48(1), 123–141.
+
+Opluštil, S., Schmitz, M., Cleal, C. J., & Martínek, K. (2016). A review of the Middle–Late Pennsylvanian west European regional substages and biostratigraphic zones, and their correlation to the ICC based on new CA-ID-TIMS U–Pb ages. *Earth-Science Reviews*, 154, 301–335. https://doi.org/10.1016/j.earscirev.2016.01.004
+
+Pešek, J., Opluštil, S., Kumpera, O., Holub, V., & Skoček, V. (1998). *Paleogeographic atlas: Late Paleozoic continental basins in the Czech Republic*. Czech Geological Survey.
+
+Schneider, J. W., & Zajíc, J. (1994). Xenacanthiden (Pisces, Chondrichthyes) des westdeutschen und tschechoslowakischen Permokarbons. *Freiberger Forschungshefte*, C452, 101–151.
+
+Steen, M. C. (1938). On the fossil Amphibia from the Gas Coal of Nýřany and other deposits in Czechoslovakia. *Proceedings of the Zoological Society of London, Series B*, 108(2), 205–283.
+
+Werneburg, R. (2012). Dissorophoid temnospondyls from the Upper Carboniferous of the Czech Republic. *Palaeontographica Abteilung A*.
+
+Zajíc, J., & Štamberg, S. (1985). Summary of the Permocarboniferous freshwater fauna of the limnic basins of Bohemia and Moravia. *Acta Musei Reginaehradecensis, Series A*, 20, 61–82.
 
 
 
