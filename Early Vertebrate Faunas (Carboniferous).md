@@ -2706,6 +2706,55 @@ Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan f
 
 Zangerl, R., & Richardson, E. S. (1963). The paleoecological history of two Pennsylvanian black shales. *Fieldiana: Geology Memoirs*, *4*, 1–352.
 
+Anderson, J. S. (2001). The phylogenetic trunk: maximal inclusion of taxa with missing data in an analysis of the Lepospondyli. *Systematic Biology*, *50*(2), 170–193.
+
+Bossy, K. A., & Milner, A. C. (1998). Order Nectridea Miall 1875. In P. Wellnhofer (Ed.), *Handbuch der Paläoherpetologie* (Part 1, pp. 73–131). Verlag Dr. Friedrich Pfeil.
+
+Broili, F. (1924). Ein neuer Fund von *Solenodonsaurus janenschi* Broili. *Sitzungsberichte der Bayerischen Akademie der Wissenschaften*, 1924, 1–12.
+
+Brough, M. C., & Brough, J. (1967). The genus *Gephyrostegus*. *Philosophical Transactions of the Royal Society of London. Series B*, *252*(776), 147–165.
+
+Carroll, R. L. (1970). The ancestry of reptiles. *Philosophical Transactions of the Royal Society of London. Series B*, *257*(814), 267–308.
+
+Carroll, R. L., & Baird, D. (1972). Carboniferous stem-reptiles of the family Romeriidae. *Bulletin of the Museum of Comparative Zoology*, *143*(5), 321–363.
+
+Carroll, R. L., & Gaskill, P. (1978). *The Order Microsauria*. Memoirs of the American Philosophical Society, 126, 1–211.
+
+Danto, M., Witzmann, F., & Müller, J. (2012). Redescription and phylogenetic relationships of *Solenodonsaurus janenschi* Broili, 1924, from the Late Carboniferous of Nýřany, Czech Republic. *Fossil Record*, *15*(2), 45–59.
+
+Fritsch, A. (1879–1901). *Fauna der Gaskohle und der Kalksteine der Permformation Böhmens* (Vols. 1–4). Prague: Selbstverlag.
+
+Heidtke, U. H. J. (1998). *Acanthodes* (Acanthodii: Acanthodiformes) aus dem Oberkarbon (Westphal D) von Nýřany (Böhmen). *Palaeontographica Abteilung A*, *248*, 33–51.
+
+Klembara, J., Clack, J. A., Milner, A. R., & Ruta, M. (2014). Cranial anatomy, ontogeny, and relationships of the Late Carboniferous tetrapod *Gephyrostegus bohemicus* Jaekel, 1902. *Journal of Vertebrate Paleontology*, *34*(4), 774–792.
+
+Klembara, J., Ruta, M., Anderson, J., & Valaška, D. (2023). A review of *Coelostegus prothales* Carroll and Baird, 1972 from the Upper Carboniferous of the Czech Republic. *PLOS ONE*, *18*(9), e0291687.
+
+Milner, A. R. (1980). The tetrapod assemblage from Nýřany, Czechoslovakia. In A. L. Panchen (Ed.), *The Terrestrial Environment and the Origin of Land Vertebrates* (pp. 439–496). Academic Press.
+
+Milner, A. R. (1986). The lungfish *Sagenodus* from the Carboniferous of Nýřany, Czechoslovakia. *Acta Musei Reginaehradecensis S. A*, *20*, 23–30.
+
+Milner, A. R. (2018). Two primitive trematopid amphibians (Temnospondyli, Dissorophoidea) from the Upper Carboniferous of the Czech Republic. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *108*(2–3), 201–223.
+
+Milner, A. R., Milner, A. C., & Walsh, S. A. (2009). A new specimen of *Baphetes* from Nýřany, Czech Republic and the intrinsic relationships of the Baphetidae. *Acta Zoologica*, *90*, 318–334.
+
+Müller, J., & Reisz, R. R. (2006). The phylogeny of early eureptiles: comparing parsimony and Bayesian approaches in the investigation of a basal fossil clade. *Systematic Biology*, *55*(3), 503–511.
+
+Opluštil, S., Schmitz, M., & Cleal, C. J. (2016). Tectonic and climatic controls on the Late Carboniferous–Early Permian biostratigraphy and environments of the Central and Western Bohemian basins (Czech Republic). *Bulletin of Geosciences*, *91*(4), 1–32.
+
+Schneider, J. W., & Zajíc, J. (1994). Xenacanthiden (Pisces, Chondrichthyes) aus dem Westfalium D von Nýřany (Böhmen). *Věstník Českého geologického ústavu*, *69*(1), 1–30.
+
+Sequeira, S. E. K. (2003). The skull of *Cochleosaurus bohemicus* Frič, a temnospondyl from the Czech Republic (Upper Carboniferous) and cochleosaurid interrelationships. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, *94*(1), 21–43.
+
+Štamberg, S. (1978). New data on *Pyritocephalus sculptus* (Pisces) from the Carboniferous of the Plzeň Basin. *Paleontologický konference ’77*, 275–288.
+
+Štamberg, S., & Zajíc, J. (2008). *Carboniferous and Permian faunas and their occurrence in the limnic basins of the Czech Republic*. Museum of Eastern Bohemia.
+
+Štamberg, S., Calábková, G., & Březina, J. (2024). The actinopterygian fish *Stambergichthys macrodens* gen. et sp. nov. from the Moscovian, Middle Pennsylvanian, Nýřany Member, Kladno Formation, Czech Republic. *Acta Palaeontologica Polonica*, *69*(3), 431–442.
+
+Werneburg, R., & Steyer, J. S. (2002). Revision of *Cheliderpeton vranyi* Fritsch, 1877 (Amphibia, Temnospondyli) from the Lower Permian of Bohemia. *Paläontologische Zeitschrift*, *76*(1), 149–162.
+
+Zajíc, J. (1988). The Permo-Carboniferous acanthodians of the Bohemian Massif. *Acta Musei Reginaehradecensis S. A*, *21*, 23–36.
 
 
 
