@@ -168,12 +168,14 @@
 > - **References**: (Carnevale, G.,2020), (Bannikov, 2012), (Carnevale, 2017), (Bannikov, 2005), (Bannikov, 2019)
 > - **Comments**: 
 
-#### Green River Formation, Green River Basin, southwestern Wyoming
-> - **Age**: Ypresian
-> - **Taxa**: Eupercaria: (*Mioplosus labracoides*, *Morone chrysops*, **Roccus saxatilis*, *Macquaria australasica*, *Nannoperca australis*, *Percoidei indet.*)
+#### [Green River Formation, Green River Basin, southwestern Wyoming](https://en.wikipedia.org/wiki/Green_River_Formation)
+> - **Age**: Ypresian, Eocene, Paleogene
+> - **Taxa**:
+>> - **Eupercaria**: (*Mioplosus labracoides*, *Morone chrysops*, **Roccus saxatilis*, *Macquaria australasica*, *Nannoperca australis*, *Percoidei indet.*)
+>> - **Fish**: *Clupea humilis* (later renamed _Knightia eocaena_); *Diplomystus dentatus*; catfish (Ictaluridae and Hypsidoridae) and suckers (Catostomidae); 
 > - **Locality and horizon**: Green River Basin, southwestern Wyoming
-> - **References**: (Whitlock, 2010)
-> - **Comments**:
+> - **References**: Whitlock, 2010
+> - **Comments**: Within the Green River Formation of southwest Wyoming in the area known as Fossil Lake, two distinct zones of very fine-grained lime muds are particularly noted for preserving a variety of complete and detailed fossils. These layers are an Eocene Lagerstätte, a rare place where conditions were right for a rich accumulation of undisturbed fossils. The most productive zone—called the split fish layer—consists of a series of laminated or varved lime muds about 6 ft (1.8 m) thick, which contains abundant fish and other fossils. These are easily split along the layers to reveal the fossils. This thin zone represents some 4000 years of deposition. The second fossil zone, the 18 inch layer, is an unlaminated layer about 18 in (46 cm) thick that also contains abundant detailed fossils, but is harder to work because it is not composed of fissile laminae.
 
 #### Nanjemoy Formation, along and near the Potomac River estuary, U.S.A.
 > - **Age**: Ypresian
@@ -1114,6 +1116,7 @@ fauna by Kellum (1926) demonstrated that it was younger, probably of lower Mioce
 
 ## References
 ### To be added.
+
 
 
 
