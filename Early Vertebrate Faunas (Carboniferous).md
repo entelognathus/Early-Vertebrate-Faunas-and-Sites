@@ -6,6 +6,7 @@
 > - **References**:
 > - **Comments**: 
 <img width="957" height="899" alt="Snipaste_2026-01-22_13-55-33" src="https://github.com/user-attachments/assets/988657d3-7466-4276-a191-69ca0fe46fcb" />
+<img width="1044" height="781" alt="Snipaste_2026-01-22_17-29-57" src="https://github.com/user-attachments/assets/0993701d-e570-4508-8c34-709dd2016a61" />
 
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
@@ -2600,6 +2601,7 @@ Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony
 Zangerl, R. (1969). *Bandringa rayi*, a new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, *12*(10), 157–169.
 
 Zangerl, R. (1979). New Chondrichthyes from the Mazon Creek fauna (Pennsylvanian) of Illinois. In M. H. Nitecki (Ed.), *Mazon Creek Fossils* (pp. 449–500). Academic Press.
+
 
 
 
