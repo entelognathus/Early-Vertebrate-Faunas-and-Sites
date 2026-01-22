@@ -2617,6 +2617,19 @@ Zangerl, R. (1969). *Bandringa rayi*, a new ctenacanthoid shark from the Pennsyl
 
 Zangerl, R. (1979). New Chondrichthyes from the Mazon Creek fauna (Pennsylvanian) of Illinois. In M. H. Nitecki (Ed.), *Mazon Creek Fossils* (pp. 449–500). Academic Press.
 
+Babcock, L. E. (2024). Replacement names for two species of *Orthacanthus* Agassiz, 1843 (Chondrichthyes, Xenacanthiformes), and discussion of *Giebelodus* Whitley, 1940. *ZooKeys*, *1188*, 219–226.
+
+Hook, R. W., & Baird, D. (1986). The Diamond Coal Mine of Linton, Ohio, and its Pennsylvanian-age vertebrates. *Journal of Vertebrate Paleontology*, *6*(2), 174–190.
+
+Hook, R. W., & Ferm, J. C. (1985). A depositional model for the Linton tetrapod assemblage (Westphalian D, Upper Carboniferous) and its palaeoenvironmental significance. *Philosophical Transactions of the Royal Society of London B*, *311*(1148), 101–109.
+
+Mann, A., McDaniel, E. J., McColville, E. R., & Maddin, H. C. (2019). *Carbonodraco lundi* gen. et sp. nov., the oldest parareptile, from Linton, Ohio, and new insights into the early radiation of reptiles. *Royal Society Open Science*, *6*(11), 191191.
+
+Mann, A., Henrici, A. C., Sues, H.-D., & Pierce, S. E. (2021). A new edaphosaurid synapsid from the Pennsylvanian of Ohio. *Acta Palaeontologica Polonica*, *66*, ms.
+
+Newberry, J. S. (1873). The classification and geological distribution of fossil fishes. *Report of the Geological Survey of Ohio*, *1*(2), 247–355.
+
+Reisz, R. R., & Baird, D. (1983). The earliest known reptile: a new specimen of *Hylonomus lyelli* from the Pennsylvanian of Nova Scotia. *Canadian Journal of Earth Sciences*, *20*, 1478–1486.
 
 
 
