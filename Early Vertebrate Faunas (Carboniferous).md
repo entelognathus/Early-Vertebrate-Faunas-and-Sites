@@ -1131,8 +1131,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Carroll & Gaskill, 1978; Fritsch, 1879; Fritsch, 1883; Milner, 1980; Milner & Sequeira, 2003; Opluštil et al., 2016; Pešek et al., 1998; Schneider & Zajíc, 1994; Steen, 1938; Werneburg, 2012; Zajíc & Štamberg, 1985.
 > - **Comments**: The Třemošná vertebrate assemblage represents a significant Late Carboniferous (Moscovian) freshwater fauna within the Nýřany Member of the Kladno Formation, broadly contemporaneous with the classic Nýřany Gaskohle fauna. Fossiliferous horizons consist mainly of laminated cannel coal (Plattelkohle) and sapropelic mudstones deposited in lacustrine to paludal environments within the intermontane Plzeň Basin. These deposits record aquatic and semi-aquatic ecosystems preserved under dysoxic to anoxic conditions, favoring the retention of articulated skeletal remains. (Milner, 1980; Pešek et al., 1998; Zajíc & Štamberg, 1985)
 
+#### Cannelton Cannel Coal (Darlington Coal), Beaver County, Pennsylvania, USA
+> - **Age**: Moscovian (Westphalian D; Desmoinesian, Allegheny Group). (Baird, 1978; Hook & Baird, 1986)
+> - **Taxa**:
+>> - Chondrichthyes: *Bandringa rayi*, *Xenacanthus compressus*. (Baird, 1978; Zangerl, 1969)
+>> - Actinopterygii: *Haplolepis (Haplolepis) aff. ovoidea*, *Elonichthys peltigerus*, gen. et sp. indet. (cf. *Commentrya*). (Baird, 1978; Westoll, 1944)
+>> - Sarcopterygii: *Rhabdoderma elegans*, *Rhizodopsis* cf. *robustus*. (Baird, 1978)
+>> - Tetrapoda: *Ctenerpeton alveolatum*, *Isodectes minimus* (syn. *Erpetosaurus sculptilis*, *Erpetosaurus minutus*), *Oestocephalus* sp. (syn. *Cercariomorphus parvisquamis*), *Sauropleura* sp. (Baird, 1978; Cope, 1897; Moodie, 1916)
+> - **Locality and horizon**: Mines at Cannelton, Beaver County; cannel shale at the base of the Upper Kittanning Coal, Kittanning Formation, Allegheny Group. (Baird, 1978; Hook & Baird, 1986)
+> - **References**: Baird, 1978; Cope, 1897; Hook & Baird, 1986; Moodie, 1916; Westoll, 1944; Zangerl, 1969.
+> - **Comments**: Interpreted as a freshwater oxbow-lake deposit; notable for preserving large adult specimens of *Bandringa*, contrasting with juvenile-dominated material from the marginal-marine Mazon Creek fauna. (Baird, 1978)
 
-#### Cannelton Cannel Coal (Darlington Coal), Cannelton, Beaver County, Pennsylvania, USA
 
 
 
@@ -2901,6 +2910,7 @@ Steen, M. C. (1938). On the fossil Amphibia from the Gas Coal of Nýřany and ot
 Werneburg, R. (2012). Dissorophoid temnospondyls from the Upper Carboniferous of the Czech Republic. *Palaeontographica Abteilung A*.
 
 Zajíc, J., & Štamberg, S. (1985). Summary of the Permocarboniferous freshwater fauna of the limnic basins of Bohemia and Moravia. *Acta Musei Reginaehradecensis, Series A*, 20, 61–82.
+
 
 
 
