@@ -998,8 +998,24 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2020.
 > - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
 
+#### Westphalian A (Langsettian) Lagerstätten, Lancashire, UK
+> - **Age**: early Bashkirian
+> - **Taxa**:
+>> - Plants: diverse compression floras.
+>> - Bivalvia (non-marine): indeterminate taxa.
+>> - Crustacea: indeterminate taxa.
+>> - Insecta: indeterminate taxa.
+>> - Myriapoda: arthropleurid fragments.
+>> - Euthycarcinoida: indeterminate euthycarcinoid.
+>> - Xiphosura: indeterminate taxa.
+>> - Arachnida: whip scorpion; scorpion cuticle fragments.
+>> - Vertebrata (ichthyoliths): fish scales; coprolites.
+> - **Locality and horizon**: Bickershaw, Lancashire, UK.
+> - **References**: Anderson et al., 1997.
+> - **Comments**: As with many Upper Carboniferous Lagerstätten, fossils are preserved within siderite nodules hosted by coal-seam roof shales.
+
 #### Scottish Lower Coal Measures Formation, Midland Valley of Scotland
-> - **Age**: Langsettian Substage (Westphalian A), Late Carboniferous. (Waters et al., 2007; Browne et al., 1999)
+> - **Age**: Bashkirian (Waters et al., 2007; Browne et al., 1999)
 > - **Taxa**:
 >> - Chondrichthyes: *Gyracanthus formosus*, *Ctenacanthus hybodoides*, *Acanthodes wardi*, *Sphenacanthus* sp. (Dunlop, 1913; Elliott et al., 2015)
 >> - Sarcopterygii (Dipnoi): *Sagenodus* sp., *Ctenodus* sp., *Conchopoma* sp., *Braccodus kerri*, *Lanarkodus clarki*. (Elliott et al., 2023; Sharp & Clack, 2013)
@@ -1037,6 +1053,18 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Locality and horizon**: Fisherstreet Bay (53.016° N, 9.377° W), Doolin coast; basal part of the Clare Shale Formation. Fossils recovered primarily from phosphatic bands and loose blocks on the storm beach. (Doyle & Ó Gogáin, 2019; Doyle, 2025)
 > - **References**: Barham et al., 2015; Doyle, 2025; Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015.
 > - **Comments**: Deposited in a deep-water, condensed, anoxic to dysoxic marine basin of the Shannon Trough. Vertebrate remains are concentrated within phosphatic lag horizons formed under conditions of sediment starvation. Tetrapod material is interpreted as allochthonous, most plausibly transported from terrestrial environments via “bloat-and-float” processes prior to final deposition. (Doyle & Ó Gogáin, 2019; Fallon & Murray, 2015)
+
+#### Edlington Spoil Tip Site, Doncaster, South Yorkshire, UK
+> - **Age**: late Bashkirian
+> - **Taxa**:
+>> - Plants: *Alethopteris decurrens*, *Alethopteris urophylla*, *Neuropteris obliqua*, *Laveineopteris loshii*, *Cyclopteris* sp., *Paripteris pseudogigantea*, ?*Linopteris* sp., *Mariopteris muricata*, *Eusphenopteris sauveurii*, *Palmatopteris* sp., *Pecopteris plumosa*, *Sphenophyllum majus*, *Annularia radiata*, *Annularia gallioides*, *Asterophyllites equisetiformis*, *Asterophyllites charaeformis*, *Calamites* sp., *Cordaites* sp., *Pinnularia* sp., *Lepidodendron* cf. *ophiurus*, *Ulodendron landsburgii*, *Sigillaria* sp., *Lepidostrobus* sp., *Lepidostrobophyllum* sp., *Cyperites bicarinatus*, *Asolanus camptotaenia*; seeds including *Cordaicarpus*; pollen organs cf. *Whittleseya*; additional indeterminate cones, lycopsids, and leafy twig/shoot fragments.
+>> - Bivalvia: *Carbonicola* sp., *Anthraconaia* sp., ?*Acharax radiata*, *Myalinella* sp.
+>> - Arthropoda (Xiphosura): *Euproops rotundatus*.
+>> - Tentaculitida (Microconchida): *Spirorbis* sp.
+>> - Vertebrata (ichthyoliths): fish scales of *Ctenodus* sp.; chondrichthyan egg capsules *Palaeoxyris* sp.; coprolites.
+> - **Locality and horizon**: Edlington Spoil Tip, Doncaster, South Yorkshire, UK.
+> - **References**: Lomax et al., 2016.
+> - **Comments**: Fossils occur within siderite nodules and associated shales. As material derives from a spoil tip, specimens are unstratified and lack precise stratigraphic context.
 
 #### Black Prince Limestone, Swisshelm Mountains, Cochise County, Arizona, USA
 > - **Age**: Late Bashkirian (Johnson & Thayer, 2009; Thayer, 1985)
@@ -1165,7 +1193,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A world-renowned *Konservat-Lagerstätte* characterized by siderite concretions preserving soft tissues and articulated skeletons. The fauna is classically divided into the marine-influenced “Essex” assemblage (e.g., sharks, hagfish) and the freshwater–terrestrial “Braidwood” assemblage (e.g., tetrapods, insects), reflecting a deltaic–estuarine depositional system. The site preserves the earliest known fossil lampreys and hagfish, and documents a shark nursery environment for *Bandringa*. (Shabica & Hay, 1997; Sallan & Coates, 2014; Clements et al., 2019)
 
 #### Mazon Creek Lagerstätte
-> - **Age**: late Moscovian stage
+> - **Age**: late Moscovian
 > - **Taxa**:
 >> - *Tullimonstrum gregarium* (Richardson,1966; Johnson & Richardson,1969)
 >> - Cyclostomata：lamprey *Mayomyzon pieckoensis*
@@ -1195,49 +1223,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Grey & Finkel, 2011.  
 > - **Comments**: The Joggins Fossil Cliffs comprise a ~14.7 km-long coastal section. William Logan first described the section in 1843 and logged more than 4 km within five days (Rygel & Shipley, 2005). During the following 150 years, sedimentology and stratigraphy were revised by Dawson (1868), Bell (1912, 1914, 1944), and Copeland (1959). The most comprehensive lithostratigraphic studies of the entire Joggins section remain those of Ryan et al. (1991) and Ryan & Boehner (1994). Ryan et al. (1991) first defined and named formations and informal members within the Cumberland Group, later expanded by Davies et al. (2005), Calder et al. (2005a), and others. Recent tectonostratigraphic work on the oldest Mabou Group was addressed in an M.Sc. thesis by McLeod (2010). The section is now considered to include Early Carboniferous (Mississippian) units of the Mabou Group (Shepody and Claremont formations) and Late Carboniferous (Pennsylvanian) units of the Cumberland Group (Boss Point, Little River, Joggins, Springhill Mines, and Ragged Reef formations).  
 
-
-
-
-
-
-
-
-
-
-
-
-#### Edlington Spoil Tip Site, Doncaster, South Yorkshire, UK
-> - **Age**: Early Westphalian (late Langsettian to early Duckmantian), Pennsylvanian, Carboniferous; flora referable to the *Lonchopteris rugosa* Zone.
-> - **Taxa**:
->> - Plants: *Alethopteris decurrens*, *Alethopteris urophylla*, *Neuropteris obliqua*, *Laveineopteris loshii*, *Cyclopteris* sp., *Paripteris pseudogigantea*, ?*Linopteris* sp., *Mariopteris muricata*, *Eusphenopteris sauveurii*, *Palmatopteris* sp., *Pecopteris plumosa*, *Sphenophyllum majus*, *Annularia radiata*, *Annularia gallioides*, *Asterophyllites equisetiformis*, *Asterophyllites charaeformis*, *Calamites* sp., *Cordaites* sp., *Pinnularia* sp., *Lepidodendron* cf. *ophiurus*, *Ulodendron landsburgii*, *Sigillaria* sp., *Lepidostrobus* sp., *Lepidostrobophyllum* sp., *Cyperites bicarinatus*, *Asolanus camptotaenia*; seeds including *Cordaicarpus*; pollen organs cf. *Whittleseya*; additional indeterminate cones, lycopsids, and leafy twig/shoot fragments.
->> - Bivalvia: *Carbonicola* sp., *Anthraconaia* sp., ?*Acharax radiata*, *Myalinella* sp.
->> - Arthropoda (Xiphosura): *Euproops rotundatus*.
->> - Tentaculitida (Microconchida): *Spirorbis* sp.
->> - Vertebrata (ichthyoliths): fish scales of *Ctenodus* sp.; chondrichthyan egg capsules *Palaeoxyris* sp.; coprolites.
-> - **Locality and horizon**: Edlington Spoil Tip, Doncaster, South Yorkshire, UK.
-> - **References**: Lomax et al., 2016.
-> - **Comments**: Fossils occur within siderite nodules and associated shales. As material derives from a spoil tip, specimens are unstratified and lack precise stratigraphic context.
-
-
-#### Westphalian A (Langsettian) Lagerstätten, Lancashire, UK
-> - **Age**: Westphalian A (Langsettian), Late Carboniferous.
-> - **Taxa**:
->> - Plants: diverse compression floras.
->> - Bivalvia (non-marine): indeterminate taxa.
->> - Crustacea: indeterminate taxa.
->> - Insecta: indeterminate taxa.
->> - Myriapoda: arthropleurid fragments.
->> - Euthycarcinoida: indeterminate euthycarcinoid.
->> - Xiphosura: indeterminate taxa.
->> - Arachnida: whip scorpion; scorpion cuticle fragments.
->> - Vertebrata (ichthyoliths): fish scales; coprolites.
-> - **Locality and horizon**: Bickershaw, Lancashire, UK.
-> - **References**: Anderson et al., 1997.
-> - **Comments**: As with many Upper Carboniferous Lagerstätten, fossils are preserved within siderite nodules hosted by coal-seam roof shales.
-
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
-> The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.Gzhelodus serratus
-
+#### Khamovnikian Regional Stage, Kasimovian, Zhirnovsk Quarry, Volgograd Region, Russia
+#### Suvorovo Formation, Krevyakinian Regional Stage, Domodedovo Quarry, Moscow Region, Russia
+#### Wea Shale Member, Cherryvale Shale, Kansas City Group, Kansas City, Missouri, USA
+#### Kiewitz Shale Member, Stoner Limestone Formation, Cass and Sarpy counties, Nebraska, USA
+#### Rock Lake Shale Member, Stanton Formation, Garnett Quarry, Kansas, USA
+#### Tinajas Member, Atrasado Formation, Kinney Brick Quarry, New Mexico, USA
+#### Lower Conemaugh Group, Missourian Stage, 7-11 Mine, Columbiana County, Ohio, USA
+#### Inglefield Sandstone Member, Patoka Formation, Horseshoe Bend, Vermilion County, Illinois, USA
+#### LaSalle Limestone Member, Bond Formation, LaSalle County, Illinois, USA
+#### Commentry Basin (Stephanian A), Allier Department, Auvergne-Rhône-Alpes, France
 #### Kosherovo Formation, Khamovnikian Regional Stage, Zhirnovsk Quarry, Volgograd  Region, Russia
 > - **Age**: Kasimovian
 > - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
@@ -1258,7 +1254,19 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Locality and horizon**: Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
 > - **References**: (Gunnell, 1933)
 > - **Comments**:
-> - 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 #### Hamilton Quarry, Hamilton County, Kansas, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
@@ -2979,6 +2987,7 @@ St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geologica
 West, R. R., Miller, K. B., & Watney, W. L. (2003). The Permian System in Kansas. *Kansas Geological Survey Bulletin*, 257.
 
 Williston, S. W. (1899). A new species of *Sagenodus* from the Kansas Coal Measures. *Kansas University Quarterly*, 8, 175–181.
+
 
 
 
