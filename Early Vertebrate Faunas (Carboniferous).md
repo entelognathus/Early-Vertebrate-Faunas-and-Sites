@@ -1164,10 +1164,8 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Anderson, 2003; Baird, 1979; Bardack, 1974, 1991; Bardack & Richardson, 1977; Bardack & Zangerl, 1968; Byrnes et al., 2024; Mann & Maddin, 2019; Mann et al., 2019, 2022; Sallan & Coates, 2014; Schultze, 1977; Schultze & Bardack, 1987; Zangerl, 1969, 1979.
 > - **Comments**: A world-renowned *Konservat-Lagerstätte* characterized by siderite concretions preserving soft tissues and articulated skeletons. The fauna is classically divided into the marine-influenced “Essex” assemblage (e.g., sharks, hagfish) and the freshwater–terrestrial “Braidwood” assemblage (e.g., tetrapods, insects), reflecting a deltaic–estuarine depositional system. The site preserves the earliest known fossil lampreys and hagfish, and documents a shark nursery environment for *Bandringa*. (Shabica & Hay, 1997; Sallan & Coates, 2014; Clements et al., 2019)
 
-
-
 #### Mazon Creek Lagerstätte
-> - **Age**: upper Moscovian stage, Middle Pennsylvanian
+> - **Age**: late Moscovian stage
 > - **Taxa**:
 >> - *Tullimonstrum gregarium* (Richardson,1966; Johnson & Richardson,1969)
 >> - Cyclostomata：lamprey *Mayomyzon pieckoensis*
@@ -1187,6 +1185,15 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - Essex biota (marine): *Tullimonstrum gregarium*
 > - Braidwood biota (freshwater): *Illiniichthys cozarti*
 
+#### Joggins Fossil Cliffs, Joggins Formation, western Cumberland County, Nova Scotia, Canada
+> - **Age**: Moscovian (Late Carboniferous).  
+> - **Taxa**:
+>> - Reptilia: *Hylonomus lyelli*.  
+>> - Invertebrata (Gastropoda): *Dendropupa vetusta*.  
+>> - Ichnofossils: trackways attributed to *Arthropleura*.  
+> - **Locality and horizon**: Joggins Formation, Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada.  
+> - **References**: Grey & Finkel, 2011.  
+> - **Comments**: The Joggins Fossil Cliffs comprise a ~14.7 km-long coastal section. William Logan first described the section in 1843 and logged more than 4 km within five days (Rygel & Shipley, 2005). During the following 150 years, sedimentology and stratigraphy were revised by Dawson (1868), Bell (1912, 1914, 1944), and Copeland (1959). The most comprehensive lithostratigraphic studies of the entire Joggins section remain those of Ryan et al. (1991) and Ryan & Boehner (1994). Ryan et al. (1991) first defined and named formations and informal members within the Cumberland Group, later expanded by Davies et al. (2005), Calder et al. (2005a), and others. Recent tectonostratigraphic work on the oldest Mabou Group was addressed in an M.Sc. thesis by McLeod (2010). The section is now considered to include Early Carboniferous (Mississippian) units of the Mabou Group (Shepody and Claremont formations) and Late Carboniferous (Pennsylvanian) units of the Cumberland Group (Boss Point, Little River, Joggins, Springhill Mines, and Ragged Reef formations).  
 
 
 
@@ -1227,16 +1234,6 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Locality and horizon**: Bickershaw, Lancashire, UK.
 > - **References**: Anderson et al., 1997.
 > - **Comments**: As with many Upper Carboniferous Lagerstätten, fossils are preserved within siderite nodules hosted by coal-seam roof shales.
-
-#### Joggins Fossil Cliffs, Joggins Formation, western Cumberland County, Nova Scotia, Canada
-> - **Age**: Moscovian (Late Carboniferous).
-> - **Taxa**:
->> - Reptilia: _Hylonomus lyelli_.
->> - Invertebrata (Gastropoda): _Dendropupa vetusta_.
->> - Ichnofossils: trackways attributed to _Arthropleura_.
-> - **Locality and horizon**: Joggins Formation, Joggins Fossil Cliffs, western Cumberland County, Nova Scotia, Canada.
-> - **References**: Grey & Finkel, 2011.
-> - **Comments**：Grey & Finkel, 2011: The Joggins Fossil Cliffs site comprises a 14.7-km-long coastal section. The pioneering Canadian geologist, William Logan, first described the section at Joggins in 1843 and logged over 4 km of it in just five  days (Rygel and Shipley 2005). Over the next 150 years, the sedimentology and stratigraphy of the section were revised by several researchers, including Dawson (1868), Bell (1912, 1914, 1944) and Copeland (1959). To date, the most complete lithostratigraphic investigations of the entire Joggins section remain those by Ryan et al. (1991) and Ryan and Boehner (1994). Ryan et al. (1991) were the first to delineate and name formations and informal members in the Cumberland Group, and this work was expanded upon by Davies et al. (2005), Calder et al. (2005a) and others. Recent tectonostratigraphic work on the oldest, Mabou Group, part of the section was the subject of a M.Sc. thesis by McLeod (2010). Today, the section is considered to include units of the Early Carboniferous (Mississippian) Mabou Group (Shepody and Claremont formations) and the Late Carboniferous (Pennsylvanian) Cumberland Group (Boss Point, Little River, Joggins, Springhill Mines, and Ragged Reef formations)。
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 > The (regionally defined) Stephanian stage corresponds to the (internationally used) Kasimovian and Gzhelian stages. From youngest to oldest, the proposed substages of the Stephanian are: Stephanian C, Stephanian B, "Saberian", Barruelian (Stephanian A), Cantabrian.Gzhelodus serratus
@@ -2982,6 +2979,7 @@ St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geologica
 West, R. R., Miller, K. B., & Watney, W. L. (2003). The Permian System in Kansas. *Kansas Geological Survey Bulletin*, 257.
 
 Williston, S. W. (1899). A new species of *Sagenodus* from the Kansas Coal Measures. *Kansas University Quarterly*, 8, 175–181.
+
 
 
 
