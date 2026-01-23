@@ -1240,7 +1240,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Goreva et al., 2009; Ivanov, 2022.
 > - **Comments**: The formation at this locality consists of palygorskite-rich clays and shales intercalated with dolomitic marl. Vertebrate micro-remains were recovered from carbonate-cemented horizons via acid dissolution. (Goreva et al., 2009; Ivanov, 2022)
 
-#### Wea Shale Member, Cherryvale Shale, Kansas City Group, Kansas City, Missouri, USA
+#### Wea Shale Member, Cherryvale Formation, Kansas City, Missouri (and Sarpy County, Nebraska)
+> - **Age**: Kasimovian (Late Pennsylvanian, Missourian Stage). (Gunnell, 1933; Heckel & Watney, 2002; Bicknell et al., 2024)
+> - **Taxa**:
+>> - Chondrichthyes: *Cooleyella peculiaris*, *C. cuspidata*, *C. simplex*, *C. quadrilobata*, *C. spatulata*, *C. quinqueloba*, *Williamsella typicalis*, *W. striata*, *Kirkella indentata*, *K. typicalis*, *Iniopteryx rushlaui*, *I. tedwhitei*, *Promexyele bairdi*, *Iniopera richardsoni*, *Romerodus orodontus*, *Heslerodus divergens*, *Cobelodus* sp., *Petrodus* sp. (Gunnell, 1933; Zangerl & Case, 1973; Zangerl, 1981)
+>> - Actinopterygii: *Palaeoniscus* sp., "Idiacanthus" *bellistriatus*, "Idiacanthus" *cameratus*, "Idiacanthus" *trispinosus*. (Gunnell, 1933)
+>> - Conodonta: *Idiognathodus sulciferus*, *Gondolella sublanceolata*, *Idioprioniodus striatus*. (Gunnell, 1933)
+> - **Locality and horizon**: 12th St. and Viaduct, Kansas City, Missouri (type Wea microfauna); Hansen Quarry (Quarry 6) and Iske Quarry, Sarpy County, Nebraska (black shale facies). (Gunnell, 1933; Zangerl & Case, 1973)
+> - **References**: Bicknell et al., 2024; Gunnell, 1933; Heckel & Watney, 2002; Zangerl, 1981; Zangerl & Case, 1973.
+> - **Comments**: The unit represents a shallow marine to prodeltaic environment. The Nebraska localities, assigned to the Wea Shale by Zangerl & Case but debated as possible Stark Shale equivalents, constitute a Lagerstätte yielding three-dimensionally preserved chondrichthyans in phosphatic concretions, whereas the type area in Missouri yields mainly disarticulated micro-ichthyoliths. (Zangerl & Case, 1973; Bicknell et al., 2024)
+
 #### Kiewitz Shale Member, Stoner Limestone Formation, Cass and Sarpy counties, Nebraska, USA
 #### Rock Lake Shale Member, Stanton Formation, Garnett Quarry, Kansas, USA
 #### Tinajas Member, Atrasado Formation, Kinney Brick Quarry, New Mexico, USA
@@ -3011,6 +3020,7 @@ Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First finding of tooth
 Goreva, N. V., Isakova, T. N., Alekseev, A. S., Kabanov, P. B., & Kossovaya, O. L. (2009). Domodedovo section. Neostratotype of Moscovian Stage and Myachkovian Substage. In A. S. Alekseev & N. V. Goreva (Eds.), *Type and Reference Carboniferous Sections in the South Part of the Moscow Basin* (pp. 65–90). Paleontological Institute of Russian Academy of Sciences.
 
 Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. https://doi.org/10.3140/bull.geosci.1845
+
 
 
 
