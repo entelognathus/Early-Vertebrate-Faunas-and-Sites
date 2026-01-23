@@ -1225,14 +1225,21 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 #### Khamovnikian Regional Stage, Kasimovian, Zhirnovsk Quarry, Volgograd Region, Russia
-> * **Age**: Khamovnikian Regional Stage, Kasimovian (Late Pennsylvanian). (Ivanov, 2022; Petukhov et al., 2011)
-> * **Taxa**:
-> > * Chondrichthyes: *Gzhelodus serratus*, *Heslerodoides triangularis*, *Heslerodus divergens*, *Glikmanius* sp., *Adamantina foliacea*, *Cooleyella amazonensis*, *Cooleyella* sp., *Samarodus flexus*, *Campyloprion* sp., *Stethacanthus* sp., Helodontiformes indet., Cochliodontiformes indet. (Ivanov, 2022; Petukhov et al., 2011; Ivanov & Suess, 2024)
-> * **Locality and horizon**: Zhirnovsk Quarry (N 50°55.50′, E 44°59.39′), right bank of the Medveditsa River, near Zhirnovsk town; dolomitic limestone and montmorillonite clay beds. (Ivanov, 2022; Petukhov et al., 2011; Saltykov, 2009)
-> * **References**: Ivanov, 2022; Petukhov et al., 2011; Ivanov & Suess, 2024.
-> * **Comments**: Shallow marine carbonate deposits yielding a diverse chondrichthyan assemblage dominated by ctenacanthiforms; representing the earliest record of the eugeneodontiform *Campyloprion* in Russia and the type locality of *Gzhelodus serratus*. (Ivanov, 2022; Petukhov et al., 2011)
+> - **Age**: Khamovnikian Regional Stage, Kasimovian (Late Pennsylvanian). (Ivanov, 2022; Petukhov et al., 2011)
+> - **Taxa**:
+>> - Chondrichthyes: *Gzhelodus serratus*, *Heslerodoides triangularis*, *Heslerodus divergens*, *Glikmanius* sp., *Adamantina foliacea*, *Cooleyella amazonensis*, *Cooleyella* sp., *Samarodus flexus*, *Campyloprion* sp., *Stethacanthus* sp., Helodontiformes indet., Cochliodontiformes indet. (Ivanov, 2022; Petukhov et al., 2011; Ivanov & Suess, 2024)
+> - **Locality and horizon**: Zhirnovsk Quarry (N 50°55.50′, E 44°59.39′), right bank of the Medveditsa River, near Zhirnovsk town; dolomitic limestone and montmorillonite clay beds. (Ivanov, 2022; Petukhov et al., 2011; Saltykov, 2009)
+> - **References**: Ivanov, 2022; Petukhov et al., 2011; Ivanov & Suess, 2024.
+> - **Comments**: Shallow marine carbonate deposits yielding a diverse chondrichthyan assemblage dominated by ctenacanthiforms; representing the earliest record of the eugeneodontiform *Campyloprion* in Russia and the type locality of *Gzhelodus serratus*. (Ivanov, 2022; Petukhov et al., 2011)
 
 #### Suvorovo Formation, Krevyakinian Regional Stage, Domodedovo Quarry, Moscow Region, Russia
+> - **Age**: Kasimovian (Krevyakinian Regional Stage, Late Pennsylvanian). (Goreva et al., 2009; Ivanov, 2022)
+> - **Taxa**:
+>> - Chondrichthyes: *Heslerodoides triangularis*. (Ivanov, 2022)
+> - **Locality and horizon**: Domodedovo Quarry, right bank of the Pakhra River, ~15 km south of Moscow; Bed 39 (sample D-8C). (Goreva et al., 2009; Ivanov, 2022)
+> - **References**: Goreva et al., 2009; Ivanov, 2022.
+> - **Comments**: The formation at this locality consists of palygorskite-rich clays and shales intercalated with dolomitic marl. Vertebrate micro-remains were recovered from carbonate-cemented horizons via acid dissolution. (Goreva et al., 2009; Ivanov, 2022)
+
 #### Wea Shale Member, Cherryvale Shale, Kansas City Group, Kansas City, Missouri, USA
 #### Kiewitz Shale Member, Stoner Limestone Formation, Cass and Sarpy counties, Nebraska, USA
 #### Rock Lake Shale Member, Stanton Formation, Garnett Quarry, Kansas, USA
@@ -3000,6 +3007,7 @@ Ivanov, A. O. (2022). New Late Carboniferous chondrichthyans from European Russi
 Ivanov, A. O., & Suess, W. (2024). *Paleozoic Chondrichthyans of the World*. Dallas Paleontological Society.
 
 Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First finding of tooth whorl fragment of chondrichthyan of Order Eugeneodontiformes in the Upper Carboniferous of the Lower Volga region. In A. S. Alekseev (Ed.), *Paleostrat-2011: Annual Meeting Abstracts* (pp. 54–55). Paleontological Institute.
+
 
 
 
