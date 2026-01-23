@@ -2911,6 +2911,17 @@ Werneburg, R. (2012). Dissorophoid temnospondyls from the Upper Carboniferous of
 
 Zajíc, J., & Štamberg, S. (1985). Summary of the Permocarboniferous freshwater fauna of the limnic basins of Bohemia and Moravia. *Acta Musei Reginaehradecensis, Series A*, 20, 61–82.
 
+Baird, D. (1978). Studies on Carboniferous freshwater fishes. *American Museum Novitates*, 2641, 1–22.
+
+Cope, E. D. (1897). On new Paleozoic Vertebrata from Illinois, Ohio and Pennsylvania. *Proceedings of the American Philosophical Society*, 36(154), 71–91.
+
+Hook, R. W., & Baird, D. (1986). The Diamond Coal Mine of Linton, Ohio, and its Pennsylvanian-age vertebrates. *Journal of Vertebrate Paleontology*, 6(2), 174–190.
+
+Moodie, R. L. (1916). *The Coal Measures Amphibia of North America*. Carnegie Institution of Washington Publication, 238, 1–222.
+
+Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony fishes: A study in taxonomy and evolution. *Bulletin of the American Museum of Natural History*, 83(1), 1–121.
+
+Zangerl, R. (1969). *Bandringa rayi*: A new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, 12(10), 157–169.
 
 
 
