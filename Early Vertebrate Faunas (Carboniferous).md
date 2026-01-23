@@ -1049,7 +1049,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Johnson & Thayer, 2009; Thayer, 1985.
 > - **Comments**: Mixed assemblage deposited in an estuarine or marginal-marine setting, indicated by the co-occurrence of terrestrial/freshwater tetrapods and lungfish with marine chondrichthyans and algal oncolites. (Johnson & Thayer, 2009; Thayer, 1985)
 
-
 ### Moscovian,Middle Pennsylvanian, Carboniferous
 #### Upper Freeport Coal (Diamond Mine), Linton, Jefferson County, Ohio, USA
 > - **Age**: Late Moscovian(Hook & Baird, 1986; Mann et al., 2019)
@@ -1121,7 +1120,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Anderson et al., 2018; Baird, 1978; Hook & Baird, 1993; Schoch et al., 2021.
 > - **Comments**: Sapropelic oxbow-lake deposit yielding a diverse freshwater assemblage; exceptional preservation (including articulated skeletons and occasional soft tissues) within an anoxic cannel-coal matrix. (Hook & Baird, 1993)
 
-
 #### Low Main Seam, Newsham, Northumberland, UK
 > - **Age**: Early Moscovian (Westphalian B)(Boyd, 1984; Land, 1974; Milner, 1980)
 > - **Taxa**:
@@ -1154,12 +1152,8 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Baird, 1978; Cope, 1897; Hook & Baird, 1986; Moodie, 1916; Westoll, 1944; Zangerl, 1969.
 > - **Comments**: Interpreted as a freshwater oxbow-lake deposit; notable for preserving large adult specimens of *Bandringa*, contrasting with juvenile-dominated material from the marginal-marine Mazon Creek fauna. (Baird, 1978)
 
-
-
-
-
 #### Francis Creek Shale (Mazon Creek), Morris, Grundy County, Illinois, USA
-> - **Age**: Middle Pennsylvanian, Moscovian (Desmoinesian, Westphalian D). (Baird, 1979; Clements et al., 2018, 2019)
+> - **Age**: Moscovian (Desmoinesian, Westphalian D). (Baird, 1979; Clements et al., 2018, 2019)
 > - **Taxa**:
 >> - Agnatha: *Mayomyzon pieckoensis* (lamprey), *Pipiscius zangerli*, *Gilpichthys greenei*, *Myxinikela siroka* (hagfish). (Bardack & Zangerl, 1968; Bardack & Richardson, 1977; Bardack, 1991)
 >> - Chondrichthyes: *Bandringa rayi* (syn. *B. herdinae*), *Dabasacanthus inskasi*, *Similihariotta dabasinskasi*, *Polysentor gorbairdi*, *Jimpohlia erinacea*. (Zangerl, 1969, 1979; Sallan & Coates, 2014)
@@ -1171,13 +1165,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A world-renowned *Konservat-Lagerstätte* characterized by siderite concretions preserving soft tissues and articulated skeletons. The fauna is classically divided into the marine-influenced “Essex” assemblage (e.g., sharks, hagfish) and the freshwater–terrestrial “Braidwood” assemblage (e.g., tetrapods, insects), reflecting a deltaic–estuarine depositional system. The site preserves the earliest known fossil lampreys and hagfish, and documents a shark nursery environment for *Bandringa*. (Shabica & Hay, 1997; Sallan & Coates, 2014; Clements et al., 2019)
 
 
-
-#### Upper Coal Measures, Manhattan, Kansas, USA
-> - **Age**: upper Moscovian
-> - **Taxa**: *Acondylacanthus mudgianus*, **, **
-> - **Locality and horizon**: Upper Coal Measures, Rock Creek, Manhattan, Kansas, USA
-> - **References**:(St. John and Worthen, 1883)
-> - **Comments**: Comparison of Upper Coal Measures miospore assemblages with those recorded from parts of Russia and the United States suggests correlation with the upper parts of the Moscovian and Desmoinesian Series, respectively. There is some doubt regarding the presence in Britain of assemblages equivalent to those recorded from the highest parts of either of these series (Butterworth and Smith, 1976). 
 
 #### Mazon Creek Lagerstätte
 > - **Age**: upper Moscovian stage, Middle Pennsylvanian
@@ -1303,6 +1290,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Locality and horizon**: Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
 > - **References**: (Silva-Santos, 1967)
 > - **Comments**:
+
+#### Wabaunsee Group (Upper Coal Measures), Manhattan, Riley & Wabaunsee Counties, Kansas, USA
+> - **Age**: Gzhelian (Virgilian Stage). (Baars et al., 1994; Sawin et al., 2008)
+> - **Taxa**:
+>> - Chondrichthyes: *Glikmanius occidentalis* (syn. *Cladodus occidentalis*), *Petalodus ohioensis* (syn. *P. alleghaniensis*), *Agassizodus variabilis*, *Lissodus* sp., *Peripristis semicircularis*, *Deltodus* sp., *Xystracanthus* sp. (Leidy, 1859; St. John & Worthen, 1875; Hansen, 1996; Ginter et al., 2005; Robb, 2003; Everhart & Everhart, 2003)
+>> - Sarcopterygii: *Gnathorhiza* sp. (burrows and skeletal elements), *Sagenodus copeanus*. (Williston, 1899; Chorn & Schultz, 1990; McAllister, 1988)
+>> - Tetrapoda: *Diplocaulus* sp., *Cricotus* sp., *Cardiocephalus* sp. (cf.), Lysorophidae indet., Protorothyrididae indet., Eupelycosauria indet. (Chorn & Schultz, 1990; Foreman & Martin, 1988; Huttenlocker et al., 2013)
+> - **Locality and horizon**: Outcrops in Manhattan, Kansas (e.g., K-13 and K-18 road cuts, Tuttle Creek spillway); horizons include Brownville Limestone Member (Wood Siding Formation), Soldier Creek Shale Member (Bern Limestone), Tarkio Limestone Member (Zeandale Limestone), and Scranton Shale. (Cunningham & Dickson, 1996; Pabian & Diffendal, 1989; West et al., 2003; Merriam, 1963)
+> - **References**: Baars et al., 1994; Chorn & Schultz, 1990; Cunningham & Dickson, 1996; Everhart & Everhart, 2003; Foreman & Martin, 1988; Ginter et al., 2005; Hansen, 1996; Huttenlocker et al., 2013; Leidy, 1859; McAllister, 1988; Merriam, 1963; Pabian & Diffendal, 1989; Robb, 2003; Sawin et al., 2008; St. John & Worthen, 1875; West et al., 2003; Williston, 1899.
+> - **Comments**: Cyclothemic succession with marine limestones yielding chondrichthyans and nearshore to terrestrial shales yielding lungfish (often in aestivation burrows) and tetrapods. The type locality of *Glikmanius occidentalis* is the “Upper Coal Measures of Manhattan”. Faunal composition indicates a seasonally arid, monsoonal climate regime inferred from *Gnathorhiza* aestivation traces. (Ginter et al., 2005; Cunningham & Dickson, 1996; Hasiotis et al., 2002)
 
 ## References
 1. Sepkoski JJ (2002) A compendium of fossil marine animal genera. Bull Am Paleont 363:1-560.
@@ -2949,6 +2946,7 @@ Elliott, F. M., Challands, T. J., & Smithson, T. R. (2023). Dipnoan diversity in
 Sharp, E. L., & Clack, J. A. (2013). A review of the Carboniferous lungfish genus *Ctenodus* Agassiz, 1838 from the United Kingdom, with new data from an articulated specimen of *Ctenodus interruptus* Barkas, 1869. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, 104(2), 169–204.
 
 Waters, C. N., et al. (2007). Stratigraphical Chart of the United Kingdom: Northern Britain. British Geological Survey.
+
 
 
 
