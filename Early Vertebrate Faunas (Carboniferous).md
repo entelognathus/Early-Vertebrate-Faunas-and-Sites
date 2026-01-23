@@ -3008,6 +3008,9 @@ Ivanov, A. O., & Suess, W. (2024). *Paleozoic Chondrichthyans of the World*. Dal
 
 Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First finding of tooth whorl fragment of chondrichthyan of Order Eugeneodontiformes in the Upper Carboniferous of the Lower Volga region. In A. S. Alekseev (Ed.), *Paleostrat-2011: Annual Meeting Abstracts* (pp. 54–55). Paleontological Institute.
 
+Goreva, N. V., Isakova, T. N., Alekseev, A. S., Kabanov, P. B., & Kossovaya, O. L. (2009). Domodedovo section. Neostratotype of Moscovian Stage and Myachkovian Substage. In A. S. Alekseev & N. V. Goreva (Eds.), *Type and Reference Carboniferous Sections in the South Part of the Moscow Basin* (pp. 65–90). Paleontological Institute of Russian Academy of Sciences.
+
+Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. https://doi.org/10.3140/bull.geosci.1845
 
 
 
