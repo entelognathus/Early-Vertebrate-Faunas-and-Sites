@@ -2995,6 +2995,11 @@ West, R. R., Miller, K. B., & Watney, W. L. (2003). The Permian System in Kansas
 
 Williston, S. W. (1899). A new species of *Sagenodus* from the Kansas Coal Measures. *Kansas University Quarterly*, 8, 175–181.
 
+Ivanov, A. O. (2022). New Late Carboniferous chondrichthyans from European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. https://doi.org/10.3140/bull.geosci.1845
+
+Ivanov, A. O., & Suess, W. (2024). *Paleozoic Chondrichthyans of the World*. Dallas Paleontological Society.
+
+Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First finding of tooth whorl fragment of chondrichthyan of Order Eugeneodontiformes in the Upper Carboniferous of the Lower Volga region. In A. S. Alekseev (Ed.), *Paleostrat-2011: Annual Meeting Abstracts* (pp. 54–55). Paleontological Institute.
 
 
 
