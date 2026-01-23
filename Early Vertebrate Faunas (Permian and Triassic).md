@@ -737,17 +737,6 @@ Hopson, 1996
 > - **Locality and horizon**: 
 > - **Comments**:  
 
-#### Moradi Formation, northern Niger
-> - **Age**: Guadalupian, Permian.
-> - **Taxa**:
->> - Temnospondyli: Nigerpeton ricqlesi MNN MOR69 Steyer et al., 2006; Saharastega moradiensis MNN MOR73 Steyer et al., 2006
->> - Pareiasauria: Bunostegos akokanensis MNN MOR72 Tsuji et al., 2013
->> - Captorhinidae: Moradisaurus grandis MNHN MRD1 Ricqlés and Taquet, 1982
->> - Gorgonopsia: Gorgonopsia indet. MNN MOR99 Smiley et al., 2008
-> - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
-> - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
-> - **Comments**: Olroyd and Sidor assigned its age as Guadalupian. "Of these, the tetrapod-bearing Moradi Formation could be Guadalupian in age, but its endemic tetrapod fauna provides very little biostratigraphic control (Lucas, in press)."
-
 #### Morro Pelado Member, Rio do Rasto Formation, Paraná Basin, Southern Brazil, Brazil
 > - **Age** Capitanian, Guadalupian, Permian.
 > - **Taxa**:
@@ -869,6 +858,17 @@ Hopson, 1996
 > - **Locality and horizon**: Sections at Dalongkou and Lucaogou, Turpan Basin, Xinjiang, China. At Dalongkou, the formation is 121 m thick and represents a dominantly fluvial environment (Metcalfe et al., 2009; Liu & Yang, 2022).
 > - **References**: Liu, 2018; Liu & Yang, 2022; Lucas, 1998; Metcalfe et al., 2009; Shi & Liu, 2024
 > - **Comments**: 
+
+#### Moradi Formation, northern Niger
+> - **Age**: Lopingian, Permian.
+> - **Taxa**:
+>> - Temnospondyli: Nigerpeton ricqlesi MNN MOR69 Steyer et al., 2006; Saharastega moradiensis MNN MOR73 Steyer et al., 2006
+>> - Pareiasauria: Bunostegos akokanensis MNN MOR72 Tsuji et al., 2013
+>> - Captorhinidae: Moradisaurus grandis MNHN MRD1 Ricqlés and Taquet, 1982
+>> - Gorgonopsia: Gorgonopsia indet. MNN MOR99 Smiley et al., 2008
+> - **Locality and horizon**: Ibadanane Area I (18°47.515′N, 7°11.160′E), ~20 km SW of Arlit, in the upper strata of the Moradi Formation, approximately 25 meters below the unconformity at the base of the Téloua 1 Formation (Sidor et al., 2003; Damiani et al., 2006; Smiley et al., 2008).
+> - **References**: Damiani et al., 2006; O’Keefe et al., 2005; Sidor et al., 2003; Sidor et al., 2005; Smiley et al., 2008; Smith et al., 2015; Taquet, 1969; Tsuji et al., 2013.
+> - **Comments**: Olroyd and Sidor assigned its age as Guadalupian. "Of these, the tetrapod-bearing Moradi Formation could be Guadalupian in age, but its endemic tetrapod fauna provides very little biostratigraphic control (Lucas, in press)."
 
 #### Kundaram Formation, Pranhita–Godavari Basin, India
 > - **Age**: Wuchiapingian, Lopingian, Permian.
@@ -3856,6 +3856,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
 <img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" 
+
 
 
 
