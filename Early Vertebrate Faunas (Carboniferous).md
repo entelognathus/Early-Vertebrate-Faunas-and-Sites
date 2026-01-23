@@ -2932,6 +2932,23 @@ Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony
 
 Zangerl, R. (1969). *Bandringa rayi*: A new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, 12(10), 157–169.
 
+Browne, M. A. E., Dean, M. T., Hall, I. H. S., McAdam, A. D., Monro, S. K., & Chisholm, J. I. (1999). A lithostratigraphical framework for the Carboniferous rocks of the Midland Valley of Scotland. *British Geological Survey Research Report*, RR/99/07.
+
+Coates, M. I. (1999). Endocranial preservation of a Carboniferous actinopterygian from Lancashire, UK, and the interrelationships of primitive actinopterygians. *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 354(1382), 435–462.
+
+Dunlop, R. (1913). Notes on the mineral seams round Airdrie and their fossils. *Transactions of the Geological Society of Glasgow*, 13(1), 35–44.
+
+Elliott, F. M. (2014). A new haplolepid fauna (Osteichthyes: Actinopterygii) from the Lower Coal Measures of Scotland: Westphalian A; Langsettian, Carbonicola communis chronozone (Bashkirian). *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, 105(3), 207–225.
+
+Elliott, F. M. (2016). An early actinopterygian ichthyofauna from the Scottish Lower Coal Measures Formation: Westphalian A (Bashkirian). *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, 106(3), 191–218.
+
+Elliott, F. M. (2018). A new species of Rhizodopsis (Sarcopterygii, Rhizodontida) from the Lower Coal Measures (Westphalian A) of Scotland. *Scottish Journal of Geology*, 54(2), 69–78.
+
+Elliott, F. M., Challands, T. J., & Smithson, T. R. (2023). Dipnoan diversity in the early Pennsylvanian of Scotland: new lungfish from the Lower Coal Measures of North Lanarkshire. *Scottish Journal of Geology*, 59(1–2), sjg2023-006.
+
+Sharp, E. L., & Clack, J. A. (2013). A review of the Carboniferous lungfish genus *Ctenodus* Agassiz, 1838 from the United Kingdom, with new data from an articulated specimen of *Ctenodus interruptus* Barkas, 1869. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, 104(2), 169–204.
+
+Waters, C. N., et al. (2007). Stratigraphical Chart of the United Kingdom: Northern Britain. British Geological Survey.
 
 
 
