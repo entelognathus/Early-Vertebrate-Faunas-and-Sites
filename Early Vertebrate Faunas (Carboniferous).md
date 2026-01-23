@@ -2947,6 +2947,41 @@ Sharp, E. L., & Clack, J. A. (2013). A review of the Carboniferous lungfish genu
 
 Waters, C. N., et al. (2007). Stratigraphical Chart of the United Kingdom: Northern Britain. British Geological Survey.
 
+Baars, D. L., Ross, C. A., Ritter, S. M., & Maples, C. G. (1994). Proposed repositioning of the Pennsylvanian–Permian boundary in Kansas. *Kansas Geological Survey Bulletin*, 230, 5–10.
+
+Chorn, J., & Schultz, H. (1990). A Late Pennsylvanian vertebrate assemblage from stromatolites in the Bern Limestone, northeastern Kansas. *Kansas Academy of Science Abstracts*, 9, 139.
+
+Cunningham, C. R., & Dickson, E. D. (1996). Distributions of Kansas Permo-Carboniferous vertebrate assemblages as a function of wet and dry seasons. *Transactions of the Kansas Academy of Science*, 99(1/2), 16–28.
+
+Everhart, M. J., & Everhart, P. A. (2003). First report of the Paleozoic shark, *Ctenacanthus amblyxiphias* Cope 1891 from the Lower Permian of Morris County, Kansas. *Kansas Academy of Science Abstracts*, 22, 13.
+
+Foreman, B. C., & Martin, L. D. (1988). A review of Paleozoic tetrapods from Kansas. *Kansas Geological Survey Guidebook Series*, 6, 137–145.
+
+Ginter, M., Ivanov, A., & Lebedev, O. (2005). The revision of *Cladodus occidentalis*, a late Palaeozoic ctenacanthiform shark. *Acta Palaeontologica Polonica*, 50(3), 623–631.
+
+Hansen, M. C. (1996). Phylum Chordata—Vertebrate fossils. In *Fossils of Ohio* (Bulletin 70, pp. 288–369). Ohio Division of Geological Survey.
+
+Hasiotis, S. T., Miller, K. B., & McCahon, T. J. (2002). Burrows of the lungfish *Gnathorhiza* within paleosols of the lower Permian (Wolfcampian) of eastern Kansas. *Geological Society of America Abstracts with Programs*, 34, 212.
+
+Huttenlocker, A. K., Pardo, J. D., & Small, B. J. (2013). Cranial morphology of recumbirostrans (Lepospondyli) from the Permian of Kansas and Nebraska, and early morphological evolution of the group. *Journal of Vertebrate Paleontology*, 33(3), 540–552.
+
+Leidy, J. (1859). Proceedings of the Academy of Natural Sciences of Philadelphia, 11, 3.
+
+McAllister, J. A. (1988). Lungfish burrows in the Upper Triassic Chinle and Dolores formations, Colorado Plateau. *Journal of Sedimentary Petrology*, 58(2), 368.
+
+Merriam, D. F. (1963). *The geologic history of Kansas*. Kansas Geological Survey Bulletin, 162, 1–317.
+
+Pabian, R. K., & Diffendal, R. F. (1989). Late Pennsylvanian and Early Permian cyclic sedimentation, paleogeography, paleoecology, and biostratigraphy in Kansas and Nebraska. Conservation and Survey Division, University of Nebraska.
+
+Robb, A. J. (2003). Notes on the occurrence of some petalodont shark fossils from the Upper Pennsylvanian rocks of northeastern Kansas. *Transactions of the Kansas Academy of Science*, 106(1), 71–80.
+
+Sawin, R. S., Franseen, E. K., West, R. R., & Ludvigson, G. A. (2008). The Pennsylvanian–Permian boundary in Kansas. *Kansas Geological Survey Open-File Report*, 2008-23.
+
+St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geological Survey of Illinois*, 6, 245–488.
+
+West, R. R., Miller, K. B., & Watney, W. L. (2003). The Permian System in Kansas. *Kansas Geological Survey Bulletin*, 257.
+
+Williston, S. W. (1899). A new species of *Sagenodus* from the Kansas Coal Measures. *Kansas University Quarterly*, 8, 175–181.
 
 
 
