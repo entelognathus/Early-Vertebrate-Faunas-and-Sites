@@ -3021,6 +3021,15 @@ Goreva, N. V., Isakova, T. N., Alekseev, A. S., Kabanov, P. B., & Kossovaya, O. 
 
 Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. https://doi.org/10.3140/bull.geosci.1845
 
+Bicknell, R. D. C., Klompmaker, A. A., & Smith, P. M. (2024). A new archaeostomatopod from the Pennsylvanian Wea Shale Member, Nebraska. *American Museum Novitates*, 2024(4028), 1–16. https://doi.org/10.1206/4028.1
+
+Gunnell, F. H. (1933). Conodonts and fish remains from the Cherokee, Kansas City, and Wabaunsee Groups of Missouri and Kansas. *Journal of Paleontology*, 7(3), 261–297.
+
+Heckel, P. H., & Watney, W. L. (2002). Revision of stratigraphic nomenclature and classification of the Pleasanton, Kansas City, Lansing, and lower part of the Douglas Groups (lower Upper Pennsylvanian, Missourian) in Kansas. *Kansas Geological Survey Bulletin*, 246, 1–70.
+
+Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In H. P. Schultze (Ed.), *Handbook of Paleoichthyology* (Vol. 3A). Gustav Fischer Verlag.
+
+Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana: Geology Memoirs*, 6, 1–67.
 
 
 
