@@ -989,7 +989,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: A key auxiliary profile for Carboniferous GSSP-related work, characterized by a continuous deep-water carbonate slope succession. It is the type locality for the conodont *Idiognathodus naraoensis* and also yields deep-water chondrichthyan microremains, including symmoriiforms and jalodontiforms. (Qi et al., 2020; Ivanov & Hu, 2025)
 
 #### Nandan Formation (Shanglong Section), Luodian County, Guizhou Province, South China
-> - **Age**: Late Carboniferous (Bashkirian–Gzhelian) to Early Permian (Asselian). (Ivanov & Hu, 2025; Hu et al., 2023)
+> - **Age**: Bashkirian–Gzhelian to Asselian. (Ivanov & Hu, 2025; Hu et al., 2023)
 > - **Taxa**:
 >> - Conodonta: *Idiognathodus guizhouensis*, *Idiognathodus heckeli*, *Idiognathodus magnificus*, *Idiognathodus naraoensis*, *Idiognathodus podolskensis*, *Idiognathodus simulator*, *Idiognathodus sagittalis*, *Swadelina makhlinae*, *Swadelina subexcelsa*, *Swadelina* sp. A, *Heckelina eudoraensis*, *Heckelina simulator*, *Streptognathodus* sp., *Gondolella* sp., *Diplognathodus* sp. (Hu et al., 2023; Qi et al., 2020)
 >> - Chondrichthyes: *Gissarodus flabellatus*, *Stethacanthulus decorus*, *Stethacanthulus meccaensis*, *Denaea* cf. *D. williamsi*, *Denaea* sp. (Ivanov & Hu, 2025)
@@ -997,6 +997,18 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Locality and horizon**: Shanglong section (25°20′50″N, 106°30′07″E), approx. 27 km west of Luodian, Guizhou Province; Nandan Formation, deep-water slope carbonate facies. (Hu et al., 2023; Ivanov & Hu, 2025)
 > - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2020.
 > - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
+
+#### Scottish Lower Coal Measures Formation, Midland Valley of Scotland
+> - **Age**: Langsettian Substage (Westphalian A), Late Carboniferous. (Waters et al., 2007; Browne et al., 1999)
+> - **Taxa**:
+>> - Chondrichthyes: *Gyracanthus formosus*, *Ctenacanthus hybodoides*, *Acanthodes wardi*, *Sphenacanthus* sp. (Dunlop, 1913; Elliott et al., 2015)
+>> - Sarcopterygii (Dipnoi): *Sagenodus* sp., *Ctenodus* sp., *Conchopoma* sp., *Braccodus kerri*, *Lanarkodus clarki*. (Elliott et al., 2023; Sharp & Clack, 2013)
+>> - Sarcopterygii (Rhizodontida/Megalichthyidae): *Rhizodopsis rankini*, *Rhizodopsis sauroides*, *Megalichthys hibberti*, *Megalichthys pygmaeus*, *Strepsodus sauroides*. (Elliott, 2018; Elliott et al., 2023)
+>> - Actinopterygii: *Protohaplolepis isabellae*, *Protohaplolepis limnades*, *Protohaplolepis traquairi*, *Parahaplolepis alexandrae*, *Parahaplolepis elenae*, *Parahaplolepis poppaea*, *Blairolepis wallacei*, *Braccohaplolepis fenestratum*, *Andrewsolepis lochlani*, *Pyritocephalus youngii*, *Rhadinichthys ornatissimus*, *Rhadinichthys monensis*, *Rhadinichthys grossarti*, *Elonichthys robisoni*, *Elonichthys serratus*, *Elonichthys caudalis*, *Elonichthys semistriatus*, *Mesopoma planti*, *Platysomus parvulus*, *Amphicentrum granulosum*, *Lanarkichthys gardineri*. (Elliott, 2015, 2016; Coates, 1999)
+>> - Tetrapoda: indeterminate tetrapod remains. (Browne et al., 1999)
+> - **Locality and horizon**: Drumgray Coals (Upper, Middle, Lower), Slatyband Ironstone, Kiltongue Coal, Virtuewell Coal; localities include Wester Bracco, Shotts, Greenrigg, Newarthill, and Airdrie (North Lanarkshire). (Elliott et al., 2023; Dunlop, 1913)
+> - **References**: Browne et al., 1999; Coates, 1999; Dunlop, 1913; Elliott, 2014, 2015, 2016, 2018; Elliott et al., 2023; Sharp & Clack, 2013; Waters et al., 2007.
+> - **Comments**: Fluviodeltaic coal-measures facies dominated by diverse small actinopterygians (haplolepids) and lungfish from carbonaceous shales above coal seams. Taxa from the stratigraphically higher Middle Coal Measures (e.g., Airdrie Blackband Ironstone, Duckmantian) are excluded.
 
 #### Khodzhir-Bulak Formation, Aksu Section, Gissar Mountains, Uzbekistan
 > - **Age**: Late Serpukhovian to Early Bashkirian (mid-Carboniferous boundary interval). (Ivanov, 2013; Nigmadganov & Nemirovskaya, 1992; Nikolaeva, 1995)
@@ -1158,10 +1170,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Anderson, 2003; Baird, 1979; Bardack, 1974, 1991; Bardack & Richardson, 1977; Bardack & Zangerl, 1968; Byrnes et al., 2024; Mann & Maddin, 2019; Mann et al., 2019, 2022; Sallan & Coates, 2014; Schultze, 1977; Schultze & Bardack, 1987; Zangerl, 1969, 1979.
 > - **Comments**: A world-renowned *Konservat-Lagerstätte* characterized by siderite concretions preserving soft tissues and articulated skeletons. The fauna is classically divided into the marine-influenced “Essex” assemblage (e.g., sharks, hagfish) and the freshwater–terrestrial “Braidwood” assemblage (e.g., tetrapods, insects), reflecting a deltaic–estuarine depositional system. The site preserves the earliest known fossil lampreys and hagfish, and documents a shark nursery environment for *Bandringa*. (Shabica & Hay, 1997; Sallan & Coates, 2014; Clements et al., 2019)
 
-### Moscovian, Middle Pennsylvanian, Carboniferous
-> Westphalian in NW Europe
 
-> Elliott (2023): Material recovered from Greengairs, Longriggend, Ardenrigg, Dewshill, Calderhead and Greenrigg is of Westphalian age and represents part of the **Scottish Lower Coal Measures Formation (323.2â€?315.2â€…Ma)** (Macgregor et al. 1920; Hinxman et al. 1921; Browne et al. 2011; McLean 2018). The bulk of this material is skull bones and scales of the coelacanth *Rhabdoderma elegans* and the tetrapodomorphs *Megalichthys pygmaeus*, *Megalichthys hibberti* and *Strepsodus sauroides*. It also includes two articulated but incomplete specimens of the new species of Rhizodopsis together with individual bones.
 
 #### Upper Coal Measures, Manhattan, Kansas, USA
 > - **Age**: upper Moscovian
@@ -2922,6 +2931,7 @@ Moodie, R. L. (1916). *The Coal Measures Amphibia of North America*. Carnegie In
 Westoll, T. S. (1944). The Haplolepidae, a new family of Late Carboniferous bony fishes: A study in taxonomy and evolution. *Bulletin of the American Museum of Natural History*, 83(1), 1–121.
 
 Zangerl, R. (1969). *Bandringa rayi*: A new ctenacanthoid shark from the Pennsylvanian Essex fauna of Illinois. *Fieldiana: Geology*, 12(10), 157–169.
+
 
 
 
