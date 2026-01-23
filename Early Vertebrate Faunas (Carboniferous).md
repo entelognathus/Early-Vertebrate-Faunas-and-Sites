@@ -1225,6 +1225,13 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 
 ### Kasimovian, Late Pennsylvanian, Carboniferous 
 #### Khamovnikian Regional Stage, Kasimovian, Zhirnovsk Quarry, Volgograd Region, Russia
+> * **Age**: Khamovnikian Regional Stage, Kasimovian (Late Pennsylvanian). (Ivanov, 2022; Petukhov et al., 2011)
+> * **Taxa**:
+> > * Chondrichthyes: *Gzhelodus serratus*, *Heslerodoides triangularis*, *Heslerodus divergens*, *Glikmanius* sp., *Adamantina foliacea*, *Cooleyella amazonensis*, *Cooleyella* sp., *Samarodus flexus*, *Campyloprion* sp., *Stethacanthus* sp., Helodontiformes indet., Cochliodontiformes indet. (Ivanov, 2022; Petukhov et al., 2011; Ivanov & Suess, 2024)
+> * **Locality and horizon**: Zhirnovsk Quarry (N 50°55.50′, E 44°59.39′), right bank of the Medveditsa River, near Zhirnovsk town; dolomitic limestone and montmorillonite clay beds. (Ivanov, 2022; Petukhov et al., 2011; Saltykov, 2009)
+> * **References**: Ivanov, 2022; Petukhov et al., 2011; Ivanov & Suess, 2024.
+> * **Comments**: Shallow marine carbonate deposits yielding a diverse chondrichthyan assemblage dominated by ctenacanthiforms; representing the earliest record of the eugeneodontiform *Campyloprion* in Russia and the type locality of *Gzhelodus serratus*. (Ivanov, 2022; Petukhov et al., 2011)
+
 #### Suvorovo Formation, Krevyakinian Regional Stage, Domodedovo Quarry, Moscow Region, Russia
 #### Wea Shale Member, Cherryvale Shale, Kansas City Group, Kansas City, Missouri, USA
 #### Kiewitz Shale Member, Stoner Limestone Formation, Cass and Sarpy counties, Nebraska, USA
@@ -2987,6 +2994,7 @@ St. John, O., & Worthen, A. H. (1875). Descriptions of fossil fishes. *Geologica
 West, R. R., Miller, K. B., & Watney, W. L. (2003). The Permian System in Kansas. *Kansas Geological Survey Bulletin*, 257.
 
 Williston, S. W. (1899). A new species of *Sagenodus* from the Kansas Coal Measures. *Kansas University Quarterly*, 8, 175–181.
+
 
 
 
