@@ -1319,11 +1319,13 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: The Zhirnovsk section (Khamovnikian) contains a vertebrate assemblage often compared to the younger Gzhelian Kosherovo Formation; it yielded the earliest record of the eugeneodontid *Karpinskiprion* in Russia and the holotype of the protacrodontid *Gzhelodus serratus*. (Petukhov et al., 2011; Ivanov, 2022)
 
 #### Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
-> - **Age**: Kasimovian (Missourian)
-> - **Taxa**: chondrichthyans (*Acondylacanthus*, *Amelacanthus americanus*, *Bythiacanthus*, Hybodontidae, gen. et sp. indet., *"Physonemus" baculiformis*, *"Physonemus" stellatus*, **, **,)
-> - **Locality and horizon**: Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
-> - **References**: (Maisey, 1983)
-> - **Comments**:
+> - **Age**: Kasimovian (Missourian stage)
+> - **Taxa**:
+>> - Chondrichthyes: *Acondylacanthus aequicostatus*, *Amelacanthus americanus*, *Bythiacanthus* sp., *Physonemus baculiformis*, *Petalodus* sp., *Janassa* sp., *Cladodus* sp., *Orodus* sp., *Ctenoptychius* sp., Hybodontidae gen. et sp. indet. (Maisey, 1983; Pabian & Rushlau, 2002; Condra & Dunbar, 1932)
+> - **Locality and horizon**: Outcrops in the lower Platte River Valley, Cass and Sarpy counties, Nebraska; key sites include the Ash Grove Cement Company Quarry near Louisville (approx. 41.005° N, 96.154° W) and the Kiewitz Quarry west of Meadow; stratigraphically restricted to the Kiewitz Shale Bed within the Stoner Limestone Member, Stanton Formation. (Maisey, 1983; Pabian & Rushlau, 2002)
+> - **References**: Condra & Dunbar, 1932; Heckel, 1975; Maisey, 1983; Pabian & Rushlau, 2002.
+> - **Comments**: The Kiewitz Shale represents a marine transgressive unit deposited in a shallow, warm epicontinental sea; the vertebrate fauna is dominated by fragmentary elasmobranch ichthyodorulites (spines) and dental elements; the unit includes the type locality of *Amelacanthus americanus*, and predation traces on associated trilobite fauna indicate an active trophic network involving nektonic predators. (Maisey, 1983; Pabian & Rushlau, 2002)
+
 
 #### Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
 > - **Age**: Kasimovian
@@ -3195,6 +3197,7 @@ Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European R
 Lebedev, O. A., & Itano, W. M. (2021). Tooth whorl structure, growth and function in a helicoprionid chondrichthyan *Karpinskiprion* nom. nov. (Eugeneodontiformes), with a revision of the family composition. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *112*(3–4), 231–247.
 
 Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First record of Eugeneodontiformes (Chondrichthyes) in the Middle Carboniferous of the Lower Volga region. In *Paleostrat-2011: Annual Meeting of the Paleontological Section of the Moscow Society of Naturalists* (pp. 54–55). Paleontological Institute.
+
 
 
 
