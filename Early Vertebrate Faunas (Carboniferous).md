@@ -3053,6 +3053,31 @@ Maisey, J. G. (1983). Some Pennsylvanian chondrichthyan spines from Nebraska. *T
 
 Pabian, R. K., & Rushlau, W. J. (2002). Taphonomy and paleoecology of the Kiewitz Shale Bed (Stoner Limestone Member, Stanton Formation, Pennsylvanian, Missourian) in the lower Platte River Valley, Nebraska. *University of Nebraska State Museum Bulletin*, 13.
 
+Boardman, D. R., Nestell, M. K., & Wardlaw, B. R. (2009). Upper Pennsylvanian conodont zonation of the Midcontinent of North America. *Bulletin of Geosciences*, 84(4), 659–680.
+
+Currie, P. J. (1977). A new haptodontine sphenacodont (Reptilia: Pelycosauria) from the Upper Pennsylvanian of North America. *Journal of Paleontology*, 51(5), 927–942.
+
+Eaton, T. H. (1973). A Pennsylvanian dissorophid amphibian from Kansas. *Occasional Papers of the Museum of Natural History, University of Kansas*, 14, 1–8.
+
+Echols, J. (1963). A new genus of Pennsylvanian fish (Crossopterygii, Coelacanthiformes) from Kansas. *University of Kansas Publications, Museum of Natural History*, 12(10), 475–501.
+
+Foreman, B. C., & Martin, L. D. (1988). A review of Paleozoic tetrapod localities of Kansas and Nebraska. In G. Mapes & R. Mapes (Eds.), *Regional Geology and Paleontology of Upper Paleozoic Hamilton Quarry Area in Southeastern Kansas* (pp. 133–145). Kansas Geological Survey Guidebook Series 6.
+
+Hibbard, C. W. (1933). Two new species of Coelacanthus from the Middle Pennsylvanian of Anderson County, Kansas. *University of Kansas Science Bulletin*, 21(9), 279–287.
+
+Kissel, R. A., & Reisz, R. R. (2004). Synapsid fauna of the Upper Pennsylvanian Rock Lake Shale near Garnett, Kansas and the diversity pattern of early amniotes. In G. Arratia, M. V. H. Wilson, & R. Cloutier (Eds.), *Recent Advances in the Origin and Early Radiation of Vertebrates* (pp. 409–428). Verlag Dr. Friedrich Pfeil.
+
+Lane, H. H. (1945). New Mid-Pennsylvanian reptiles from Kansas. *Transactions of the Kansas Academy of Science*, 47(3), 381–390.
+
+Peabody, F. E. (1952). *Petrolacosaurus kansensis* Lane, a Pennsylvanian reptile from Kansas. *University of Kansas Paleontological Contributions: Vertebrata*, 1, 1–41.
+
+Peabody, F. E. (1958). An embolomerous amphibian in the Garnett fauna (Pennsylvanian) of Kansas. *Journal of Paleontology*, 32(3), 571–573.
+
+Reisz, R. R., Heaton, M. J., & Pynn, B. R. (1982). Vertebrate fauna of Late Pennsylvanian Rock Lake Shale near Garnett, Kansas: Pelycosauria. *Journal of Paleontology*, 56(3), 741–750.
+
+Spindler, F. (2020). A faunivorous early sphenacodontian synapsid with a diastema. *Palaeontologia Electronica*, 23(1), a01. https://doi.org/10.26879/1023
+
+Wehrbein, R. (2017). Comparisons of Paleoenvironments, Taxa, and Taphonomy of the Late Carboniferous Garnett and Hamilton Quarry Localities, Eastern Kansas.
 
 
 
