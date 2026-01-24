@@ -3139,6 +3139,19 @@ Romer, A. S., & Smith, H. J. (1934). American Carboniferous dipnoans. *The Journ
 
 Wier, C. E., & Gray, H. H. (1961). Geologic map of the Indianapolis 1° × 2° Quadrangle, Indiana and Illinois, showing bedrock and unconsolidated deposits. *Indiana Geological Survey Regional Geologic Map*, 1.
 
+Easterday, C. R. (2004). Stratigraphy and paleontology of Cemetery Hill (Desmoinesian–Missourian: Upper Carboniferous), Columbiana County, eastern Ohio [Unpublished master's thesis]. The Ohio State University.
+
+Falcon-Lang, H. J., Heckel, P. H., DiMichele, W. A., Blake, B. M., Easterday, C. R., Eble, C. F., Elrick, S., Gastaldo, R. A., Greb, S. F., & Martino, R. L. (2011). No major stratigraphic gap exists near the Middle–Upper Pennsylvanian (Desmoinesian–Missourian) boundary in North America. *Palaios*, 26(3), 125–139. https://doi.org/10.2110/palo.2010.p10-048r
+
+Hansen, M. C. (1986). Microscopic chondrichthyan remains from Pennsylvanian marine rocks of Ohio and adjacent areas. *Dissertation Abstracts International*, 47(02), 539B.
+
+Heckel, P. H., Barrick, J. E., & Rosscoe, S. J. (2011). Conodont-based correlation of marine units in lower Conemaugh Group (Late Pennsylvanian) in northern Appalachian Basin. *Stratigraphy*, 8(4), 253–269.
+
+McComas, M. A. (1988). Upper Pennsylvanian compression floras of the 7-11 Mine, Columbiana County, northeastern Ohio. *The Ohio Journal of Science*, 88(1), 48–52.
+
+Mindat. (n.d.). 7-11 Mine Clay-Ironstone Horizon, Columbiana County, Ohio, USA. Hudson Institute of Mineralogy. Retrieved January 24, 2025, from https://www.mindat.org/paleo_loc.php?id=43324
+
+Ohio Department of Natural Resources. (n.d.). Late Pennsylvanian: Life in Ancient Ohio.
 
 
 
