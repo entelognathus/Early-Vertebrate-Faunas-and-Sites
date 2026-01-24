@@ -3262,6 +3262,19 @@ Hansen, M. C. (1986). *Microscopic Chondrichthyan Remains from Pennsylvanian Mar
 
 St. John, J. (2017). *Petalodus ohioensis* (fossil shark tooth) (Skelley Member, Upper Pennsylvanian; Noble County, Ohio, USA). Wikimedia Commons. 
 
+Hansen, M. C. (1986). *Microscopic Chondrichthyan Remains from Pennsylvanian Marine Rocks of Ohio and Adjacent Areas* (Doctoral dissertation). Ohio State University.
+
+Harper, J. A. (1990). Fossil Collecting in the Pittsburgh Area. *Pittsburgh Geological Society Guidebook*.
+
+Heckel, P. H., Alekseev, A. S., Barrick, J. E., Boardman, D. R., Goreva, N. V., Isakova, T. N., Nemyrovska, T. I., Ueno, K., Villa, E., & Work, D. M. (2008). Choice of conodont *Idiognathodus simulator* (sensu stricto) as the event marker for the base of the global Gzhelian Stage (Upper Pennsylvanian Series, Carboniferous System). *Episodes*, 31(3), 319–325.
+
+Lund, R. (1970). Fossil fishes from western Pennsylvania. Part 1: Fishes from the Duquesne Limestones (Conemaugh, Pennsylvanian). *Annals of the Carnegie Museum*, 41, 231–261.
+
+Lund, R. (1976). General geology and vertebrate biostratigraphy of the Dunkard Basin. In H. Falke (Ed.), *The Continental Permian in Central, West, and South Europe* (pp. 225–239). D. Reidel Publishing Company.
+
+Merrill, G. K. (1974). Pennsylvanian conodont localities in northeastern Ohio. *Ohio Division of Geological Survey Guidebook*, 3, 1–25.
+
+Raymond, P. E. (1910). A preliminary list of the fauna of the Allegheny and Conemaugh series in western Pennsylvania. *Annals of the Carnegie Museum*, 7, 144–158.
 
 
 
