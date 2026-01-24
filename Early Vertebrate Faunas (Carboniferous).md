@@ -1354,6 +1354,13 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: Interpreted as deposits of the terminal marine transgression in the Appalachian Basin; the vertebrate assemblage is dominated by diverse micro-chondrichthyans recovered via acid maceration, indicating a nearshore marine environment with complex trophic structures including durophagous and piscivorous guilds. (Cline, 2022; Cline et al., 2023)
 
 #### Ames Limestone, Allegheny County, Pennsylvania, USA
+> - **Age**: Gzhelian (Late Pennsylvanian); *Idiognathodus simulator* conodont Zone. (Heckel et al., 2008; Merrill, 1974)
+> - **Taxa**:
+>> - Chondrichthyes: *Agassizodus variabilis*, *Chomatodus* sp., *Cladodus* sp., *Deltodus angularis*, *Glikmanius occidentalis*, *Janassa striglina*, *Peltodus transversus*, *Peripristis semicircularis*, *Petalodus ohioensis*, *Physonemus* cf. *P. acinaciformis*. (Hansen, 1986; Harper, 1990; Lund, 1976; Raymond, 1910)
+> - **Locality and horizon**: “Brilliant Cut” along Pennsylvania Railroad/Washington Blvd (40.4844° N, 79.9050° W); Pitcairn; exposures along PA Route 28; marine limestone of the Glenshaw Formation. (Harper, 1990; Lund, 1970)
+> - **References**: Hansen, 1986; Harper, 1990; Heckel et al., 2008; Lund, 1970; Lund, 1976; Merrill, 1974; Raymond, 1910.
+> - **Comments**: Interpreted as a transgressive marine unit (maximum flooding surface), traditionally termed the “Crinoidal Limestone”. Vertebrate remains are dominated by disarticulated chondrichthyan teeth and spines within limestones and associated calcareous shales. (Harper, 1990; Heckel et al., 2008)
+
 #### Danville Bonebed (Horseshoe Bend), Vermilion County, Illinois, USA
 #### Finis Shale, Jack County, Texas, USA
 #### El Cobre Canyon Formation (Lower Beds), Rio Arriba County, New Mexico, USA
@@ -3254,6 +3261,7 @@ Ginter, M. (2016). The heterodonty in euselachian sharks from the Pennsylvanian 
 Hansen, M. C. (1986). *Microscopic Chondrichthyan Remains from Pennsylvanian Marine Rocks of Ohio and Adjacent Areas*. The Ohio State University.
 
 St. John, J. (2017). *Petalodus ohioensis* (fossil shark tooth) (Skelley Member, Upper Pennsylvanian; Noble County, Ohio, USA). Wikimedia Commons. 
+
 
 
 
