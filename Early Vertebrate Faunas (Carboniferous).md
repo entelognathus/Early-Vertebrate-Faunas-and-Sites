@@ -1258,7 +1258,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Heckel, 1977; Maisey, 1983; Pabian & Rushlau, 2002.
 > - **Comments**: The Kiewitz Shale represents an offshore core-shale facies of a cyclothem, characterized by black phosphatic shales deposited under dysaerobic conditions; the vertebrate assemblage is dominated by isolated chondrichthyan spines and durophagous teeth concentrated in lag deposits. (Heckel, 1977; Maisey, 1983)
 
-#### Rock Lake Shale Member, Stanton Formation, Garnett Quarry, Kansas, USA
+#### Rock Lake Shale Member, Stanton Formation, Garnett Quarry, Anderson County, Kansas, USA
+> - **Age**: Kasimovian (Late Pennsylvanian, Missourian Stage). (Boardman et al., 2009; Reisz et al., 1982)
+> - **Taxa**:
+>> - Tetrapoda: *Petrolacosaurus kansensis*, *Haptodus garnettensis*, *Kenomagnathus scottae*, *Ianthasaurus hardestiorum*, *Ianthodon schultzei*, *Xyrospondylus ecordi*, *Actiobates peabodyi*, *Hesperoherpeton garnettense*, *Clepsydrops* sp., *Ophiacodon* sp. (Currie, 1977; Eaton, 1973; Kissel & Reisz, 2004; Lane, 1945; Peabody, 1952, 1958; Reisz et al., 1982; Spindler, 2020)
+>> - Sarcopterygii: *Synaptotylus newelli*. (Echols, 1963; Hibbard, 1933)
+>> - Chondrichthyes: Xenacanthiformes indet., Hybodontiformes indet. (Foreman & Martin, 1988; Wehrbein, 2017)
+> - **Locality and horizon**: Garnett Quarry (Sections 5 and 32, T19S, R19E), Anderson County, Kansas; Rock Lake Shale Member, Stanton Formation, Lansing Group. (Peabody, 1952; Reisz et al., 1982)
+> - **References**: Boardman et al., 2009; Currie, 1977; Eaton, 1973; Echols, 1963; Foreman & Martin, 1988; Hibbard, 1933; Kissel & Reisz, 2004; Lane, 1945; Peabody, 1952, 1958; Reisz et al., 1982; Spindler, 2020; Wehrbein, 2017.
+> - **Comments**: The Garnett Quarry represents a shallow marine to lagoonal channel-fill deposit containing a diverse allochthonous assemblage of terrestrial tetrapods and marine vertebrates. It is a key locality for early diapsid and synapsid evolution during the Kasimovian. (Kissel & Reisz, 2004; Reisz et al., 1982)
+
 #### Tinajas Member, Atrasado Formation, Kinney Brick Quarry, New Mexico, USA
 #### Lower Conemaugh Group, Missourian Stage, 7-11 Mine, Columbiana County, Ohio, USA
 #### Inglefield Sandstone Member, Patoka Formation, Horseshoe Bend, Vermilion County, Illinois, USA
@@ -3043,6 +3052,7 @@ Heckel, P. H. (1977). Origin of phosphatic black shale facies in Pennsylvanian c
 Maisey, J. G. (1983). Some Pennsylvanian chondrichthyan spines from Nebraska. *Transactions of the Nebraska Academy of Sciences*, 11, 81–84.
 
 Pabian, R. K., & Rushlau, W. J. (2002). Taphonomy and paleoecology of the Kiewitz Shale Bed (Stoner Limestone Member, Stanton Formation, Pennsylvanian, Missourian) in the lower Platte River Valley, Nebraska. *University of Nebraska State Museum Bulletin*, 13.
+
 
 
 
