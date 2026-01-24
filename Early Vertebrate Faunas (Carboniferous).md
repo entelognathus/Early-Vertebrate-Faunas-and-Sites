@@ -3374,6 +3374,25 @@ Williston, S. W. (1911). A new family of reptiles from the Permian of New Mexico
 
 Williston, S. W. (1915). A new genus and species of American Theromorpha: *Mycterosaurus longiceps*. *The Journal of Geology*, 23(6), 554–559.
 
+Berman, D. S., Reisz, R. R., & Fracasso, M. A. (1981). Skull of the Lower Permian dissorophid amphibian *Platyhystrix rugosus*. *Annals of Carnegie Museum*, 50, 391–416.
+
+Henrici, A. C., Berman, D. S., Sumida, S. S., & Huttenlocker, A. K. (2023). *Halgaitosaurus gregarius*, a new Upper Carboniferous araeoscelidian (Reptilia: Diapsida) from the Halgaito Formation, Bears Ears National Monument, Utah, USA. *Annals of Carnegie Museum*, 88(3), 161–192.
+
+Huttenlocker, A. K., Henrici, A. C., Nelson, W. J., Elrick, S. D., & Sumida, S. S. (2018). A multitaxic bonebed near the Carboniferous–Permian boundary (Halgaito Formation, Cutler Group) in Valley of the Gods, Utah, USA: Vertebrate paleontology and taphonomy. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 499, 72–92. https://doi.org/10.1016/j.palaeo.2018.03.017
+
+Huttenlocker, A. K., Singh, S. A., Henrici, A. C., & Sumida, S. S. (2021). A Carboniferous synapsid with caniniform teeth and a reappraisal of mandibular size–shape heterodonty in the origin of mammals. *Royal Society Open Science*, 8(12), 211237. https://doi.org/10.1098/rsos.211237
+
+Lewis, G. E., & Vaughn, P. P. (1965). Early Permian vertebrates from the Cutler Formation of the Placerville area, Colorado, with a section on footprints from the Cutler Formation. *U.S. Geological Survey Professional Paper*, 503-C, 1–50.
+
+Scott, A. K. (2013). Paleontology and stratigraphy of the Carboniferous–Permian Halgaito Formation, Cutler Group, San Juan County, Utah. Master’s thesis, California State University, San Bernardino.
+
+Sumida, S. S., Berman, D. S., Eberth, D. A., & Henrici, A. C. (1999). Late Paleozoic tetrapods of the Halgaito Formation, Utah. *Journal of Vertebrate Paleontology*, 19(Suppl. 3), 79A.
+
+Thomson, K. S., & Vaughn, P. P. (1968). A new rhidipistian fish from the Lower Permian of Utah. *Postilla*, 128, 1–19.
+
+Vaughn, P. P. (1962). Vertebrates from the Halgaito Tongue of the Cutler Formation, Permian of San Juan County, Utah. *Journal of Paleontology*, 36(3), 529–539.
+
+Vaughn, P. P. (1965). Frog-like vertebrae from the Lower Permian of southeastern Utah. *Contributions in Science, Los Angeles County Museum*, 87, 1–18.
 
 
 
