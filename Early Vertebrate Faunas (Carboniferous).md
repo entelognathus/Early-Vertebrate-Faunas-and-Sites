@@ -1310,7 +1310,6 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Brusatte, 2007; Gieser et al., 2023; Phillips, 2000; Plotnick, 2019.
 > - **Comments**: Shallow-marine algal-bank environment. The vertebrate fauna is dominated by isolated durophagous chondrichthyan teeth; rare tetrapod remains likely represent allochthonous material transported from adjacent terrestrial coal-swamp environments. (Brusatte, 2007; Gieser et al., 2023; Plotnick, 2019)
 
-#### Commentry Basin (Stephanian A), Allier Department, Auvergne-Rhône-Alpes, France
 #### Kosherovo Formation, Khamovnikian Regional Stage, Zhirnovsk Quarry, Volgograd  Region, Russia
 > - **Age**: Kasimovian
 > - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
@@ -1351,7 +1350,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Locality and horizon**: Hamilton Quarry, Hamilton County, Kansas, USA
 > - **References**: (Zidek, 1976)
 > - **Comments**:
-> - 
+
+#### Commentry Basin, Allier Department, Auvergne-Rhône-Alpes, France
+> - **Age**: Gzhelian (Late Pennsylvanian; Late Stephanian, Stephanian B/C transition). (Schneider et al., 2010; Werneburg, 2019)
+> - **Taxa**:
+>> - Actinopterygii: *Paramblypterus decorus*, *Commentrya traquairi*. (Blot, 1966; Heyler, 2000; Štamberg, 2013)
+>> - Tetrapoda: *Anthracobamus fayoli*, *Branchiosaurus commentryensis*. (Thevenin, 1906; Werneburg, 2019)
+> - **Locality and horizon**: Grande Couche (Large Seam), freshwater shales associated with coal measures. (Blot, 1966; Werneburg, 2019)
+> - **References**: Blot, 1966; Heyler, 2000; Schneider et al., 2010; Štamberg, 2013; Thevenin, 1906; Werneburg, 2019.
+> - **Comments**: Historically assigned to Stephanian A, but insect biostratigraphy (spiloblattinids) indicates a younger Gzhelian age. The vertebrate fauna includes the terrestrial amphibamiform *Anthracobamus* and the aquatic branchiosaurid *Branchiosaurus commentryensis* (formerly lumped as *Branchiosaurus fayoli*). (Schneider et al., 2010; Werneburg, 2019)
+
 #### Oscar Formation, southern Oklahoma, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: chondrichthyans (*Anodontacanthus belemnoideus*, , **, **,)
@@ -3168,6 +3176,7 @@ Gieser, R., Shell, R., Thomas, M. J., & Davis, M. (2023). First records of the c
 Phillips, M. (2000). Amphibian leg bone fossil. Illinois Valley Community College. http://www2.ivcc.edu/phillips/fossil/amphibian/amphibian.html
 
 Plotnick, R. (2019). A fossil park for Illinois. *Medium*. https://plotnick.medium.com/a-fossil-park-for-illinois-4c2cb44af2e9
+
 
 
 
