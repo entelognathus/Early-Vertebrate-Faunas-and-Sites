@@ -1335,20 +1335,22 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Cohen et al., 2013; Everhart, 2011; Ginter et al., 2010; Gunnell, 1933; Hansen, 1986; Heckel, 2002; Itano et al., 2024; Koot et al., 2013; Wilimovsky, 1954.
 > - **Comments**: The vertebrate assemblage is dominated by micro-ichthyoliths (scales, denticles, and teeth), many originally described as conodonts or isolated problematica; *Gunnellodus* (formerly *Idiacanthus*) and *Holmesella* represent symmoriiform/stethacanthid shark elements; the Quivira Shale corresponds to a core shale (maximum flooding surface) with anoxic bottom conditions favorable for phosphatic preservation, whereas the Block Limestone preserves rare macroscopic petalodont teeth; the upper member (Quivira) is sometimes assigned to the Dewey Formation in modern Kansas stratigraphic schemes but was historically included within the Cherryvale Formation. (Gunnell, 1933; Hansen, 1986; Heckel, 2002)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
+#### Egmont Bay Formation, Prince Edward Island, Canada
+#### Skelley Limestone, Noble County, Ohio, USA
+#### Ames Limestone, Allegheny County, Pennsylvania, USA
+#### Danville Bonebed (Horseshoe Bend), Vermilion County, Illinois, USA
+#### Finis Shale, Jack County, Texas, USA
+#### El Cobre Canyon Formation (Lower Beds), Rio Arriba County, New Mexico, USA
+#### Halgaito Formation (Lower Interval), San Juan County, Utah, USA
+#### Snyderville Shale, Greenwood County, Kansas, USA
+#### Red Tanks Member, Bursum Formation, Socorro County, New Mexico, USA
+#### Markley Formation, Clay County, Texas, USA
+#### Montceau-les-Mines, Saône-et-Loire, France
+#### Puertollano Basin, Ciudad Real, Spain
+#### Kounov Member, Central Bohemian Region, Czech Republic
+#### Semily Formation, Hradec Králové Region, Czech Republic
+#### Remigiusberg Formation, Rhineland-Palatinate, Germany
 #### Hamilton Quarry, Hamilton County, Kansas, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: *Orthacanthus platypternus*, *Acanthodes bridgei*,
@@ -3225,6 +3227,7 @@ Itano, W. M., Houck, K. J., & Lockley, M. G. (2024). *Batillodus beaveri*, a new
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, 56(2), 303–343. https://doi.org/10.1111/j.1475-4983.2012.01199.x
 
 Wilimovsky, N. J. (1954). *Gunnellodus*, a new name for *Idiacanthus* Gunnell. *Journal of Paleontology*, 28(5), 693.
+
 
 
 
