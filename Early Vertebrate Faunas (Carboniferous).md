@@ -1420,7 +1420,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Aber et al., 2014; McElroy et al., 2016.
 > - **Comments**: The locality represents a terrestrial–fluvial floodplain environment (paleosol) with abundant disarticulated vertebrate material preserved via mineral replacement and permineralization. The assemblage includes aquatic, semi-aquatic, and terrestrial taxa, indicating a coastal wetland setting with nearby water bodies, stratigraphically positioned between the Garnett and Hamilton quarry localities. (Aber et al., 2014; McElroy et al., 2016)
 
-#### Red Tanks Member, Bursum Formation, Socorro County, New Mexico, USA
+#### Red Tanks Member, Bursum Formation, Socorro and Valencia Counties, New Mexico, USA
+> - **Age**: late Gzhelian to early Asselian (Harris et al., 2004; Lucas et al., 2016; Schneider et al., 2004)
+> - **Taxa**:
+>> - Chondrichthyes: *Petalodus* sp., *Deltodus* sp., *Orthacanthus* sp., ?*Glikmanius* sp., ?*Janassa* sp., Acanthodiformes indet. (Harris et al., 2004; Hodnett & Lucas, 2015; Johnson & Lucas, 2004)
+>> - Sarcopterygii: *Gnathorhiza bothrotreta*. (Berman, 1976; Harris et al., 2004)
+>> - Actinopterygii: *Platysomus* sp., indeterminate ichthyoliths (scales, teeth). (Harris et al., 2004; Hodnett & Lucas, 2015; Johnson & Lucas, 2004)
+>> - Tetrapoda: *Eryops* sp., *Trimerorhachis* sp., *Archeria* sp. (or cf. *Archeria*), *Diadectes* sp., *Edaphosaurus* sp., *Sphenacodon* sp. (cf. *S. ferox*), *Dimetrodon* cf. *D. milleri*, *Ophiacodon* sp., *Diplocaulus* sp., *Phlegethonia* sp., Bolosauridae indet., Caseidae indet. (Berman et al., 2015; Harris et al., 2004; Lucas et al., 2016)
+> - **Locality and horizon**: Type section at Carrizo Arroyo (34.779° N, 107.107° W), Lucero Uplift; also present at Abo Pass and Major Ranch. Fossils occur in the Red Tanks Member, consisting of mixed marine and nonmarine variegated shale, mudstone, and limestone sequences. (Harris et al., 2004; Krainer & Lucas, 2004; Lucas et al., 2016)
+> - **References**: Berman, 1976; Berman et al., 2015; Harris et al., 2004; Hodnett & Lucas, 2015; Johnson & Lucas, 2004; Krainer & Lucas, 2004; Lucas et al., 2016; Schneider et al., 2004.
+> - **Comments**: The Red Tanks Member preserves a diverse "Coyotean" vertebrate assemblage across the Late Pennsylvanian–Early Permian transition, characterized by a mixture of marine (petalodonts, primitive sharks), euryhaline, and terrestrial taxa (temnospondyls, pelycosaurs). Vertebrate fossils occur mainly in channel-lag conglomerates and pedogenic calcrete nodules within coastal plain deposits, whereas associated Lagerstätten horizons preserve plants and insects. Faunal composition varies among localities; for example, *Ophiacodon* and *Diplocaulus* are recorded at Abo Pass but absent from Lucero Uplift collections. (Harris et al., 2004; Lucas et al., 2016)
+
 #### Markley Formation, Clay County, Texas, USA
 #### Montceau-les-Mines, Saône-et-Loire, France
 #### Puertollano Basin, Ciudad Real, Spain
@@ -3407,6 +3417,7 @@ Vaughn, P. P. (1965). Frog-like vertebrae from the Lower Permian of southeastern
 Aber, S. W., Peterson, N., May, W. J., Johnston, P., & Aber, J. S. (2014). First report of vertebrate fossils in the Snyderville Shale (Oread Formation; Upper Pennsylvanian), Greenwood County, Kansas. *Transactions of the Kansas Academy of Science*, 117(3–4), 193–202. https://doi.org/10.1660/062.117.0304
 
 McElroy, A., Hembree, D. I., & Aber, J. S. (2016). Taphonomy and depositional environment of a Late Pennsylvanian vertebrate fossil locality in the Snyderville Shale, Greenwood County, Kansas. *Geological Society of America Abstracts with Programs*, 48(7). https://doi.org/10.1130/abs/2016AM-273788
+
 
 
 
