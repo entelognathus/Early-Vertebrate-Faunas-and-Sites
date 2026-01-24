@@ -1269,6 +1269,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: The Garnett Quarry represents a shallow marine to lagoonal channel-fill deposit containing a diverse allochthonous assemblage of terrestrial tetrapods and marine vertebrates. It is a key locality for early diapsid and synapsid evolution during the Kasimovian. (Kissel & Reisz, 2004; Reisz et al., 1982)
 
 #### Tinajas Member, Atrasado Formation, Kinney Brick Quarry, New Mexico, USA
+> - **Age**: Kasimovian (Middle Missourian, Late Pennsylvanian), *Idiognathodus confragus* Zone. (Lucas et al., 2011; Hodnett & Lucas, 2021)
+> - **Taxa**:
+>> - Acanthodii: *Acanthodes kinneyi*. (Zidek, 1975; Hodnett & Lucas, 2021)
+>> - Chondrichthyes: *Dracopristis hoffmanorum*, *Glikmanius occidentalis*, *Peripristis* sp., *Orthacanthus* sp., *Campyloprion* sp., "Cobelodus" sp. (Hodnett et al., 2021; Hodnett & Lucas, 2021)
+>> - Actinopterygii: *Platysomus schultzei*, *Amphicentrum jurgenai*, *Schizolepis manzanitaensis*, *Tanyrhinichthys mcallesteri*, *Pyritocephalus lowneyae*, cf. *Bourbonnella* sp., *Progyrolepis* sp. (Zidek, 1992; Hodnett & Lucas, 2021; Stack et al., 2021)
+>> - Sarcopterygii: *Sagenodus hlavini* (Dipnoi), *Rhizodopsis* sp. (Rhizodontidae), Coelacanthidae indet., Megalichthyidae indet. (Zidek, 1992; Hodnett & Lucas, 2021)
+>> - Tetrapoda: *Lafonius lehmani*, *Milnererpeton huberi*, *Bermanerpeton kinneyi*, *Brachydectes* sp. (Berman, 1973; Werneburg et al., 2021; Hunt et al., 1996)
+> - **Locality and horizon**: Kinney Brick Quarry (35.0015° N, 106.3376° W), Manzano Mountains, Bernalillo County; "Kinney Fish Bed" (Bed 3), Tinajas Member, Atrasado Formation. (Lucas et al., 2011)
+> - **References**: Berman, 1973; Hodnett & Lucas, 2021; Hodnett et al., 2021; Hunt et al., 1996; Lucas et al., 2011; Stack et al., 2021; Werneburg et al., 2021; Zidek, 1975, 1992.
+> - **Comments**: A Konservat-Lagerstätte representing a restricted marine embayment or estuary with significant freshwater input; preserves soft tissues (cololites, pigment) and articulated skeletons. (Hodnett & Lucas, 2021)
+
 #### Lower Conemaugh Group, Missourian Stage, 7-11 Mine, Columbiana County, Ohio, USA
 #### Inglefield Sandstone Member, Patoka Formation, Horseshoe Bend, Vermilion County, Illinois, USA
 #### LaSalle Limestone Member, Bond Formation, LaSalle County, Illinois, USA
@@ -3078,6 +3089,7 @@ Reisz, R. R., Heaton, M. J., & Pynn, B. R. (1982). Vertebrate fauna of Late Penn
 Spindler, F. (2020). A faunivorous early sphenacodontian synapsid with a diastema. *Palaeontologia Electronica*, 23(1), a01. https://doi.org/10.26879/1023
 
 Wehrbein, R. (2017). Comparisons of Paleoenvironments, Taxa, and Taphonomy of the Late Carboniferous Garnett and Hamilton Quarry Localities, Eastern Kansas.
+
 
 
 
