@@ -3235,6 +3235,7 @@ Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse sha
 
 Wilimovsky, N. J. (1954). *Gunnellodus*, a new name for *Idiacanthus* Gunnell. *Journal of Paleontology*, 28(5), 693.
 
+Modesto, S. P., Scott, D. M., MacDougall, M. J., Sues, H.-D., Evans, D. C., & Reisz, R. R. (2015). The oldest parareptile and the early diversification of reptiles. *Proceedings of the Royal Society B: Biological Sciences*, 282(1801), 20141912. https://doi.org/10.1098/rspb.2014.1912
 
 
 
