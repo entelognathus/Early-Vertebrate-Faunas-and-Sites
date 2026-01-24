@@ -1326,13 +1326,15 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Condra & Dunbar, 1932; Heckel, 1975; Maisey, 1983; Pabian & Rushlau, 2002.
 > - **Comments**: The Kiewitz Shale represents a marine transgressive unit deposited in a shallow, warm epicontinental sea; the vertebrate fauna is dominated by fragmentary elasmobranch ichthyodorulites (spines) and dental elements; the unit includes the type locality of *Amelacanthus americanus*, and predation traces on associated trilobite fauna indicate an active trophic network involving nektonic predators. (Maisey, 1983; Pabian & Rushlau, 2002)
 
-
 #### Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
 > - **Age**: Kasimovian
-> - **Taxa**: chondrichthyans (*Cooleyella cuspidata*, *Cooleyella quadrilobata*, *Cooleyella spatulata*, *Cooleyella peculiaris*, *Cooperella subsulcata*, *Cooperella eroda*, * Cooperella rectistriata*, *Cooperella striatula*,*Cooperella selluliformis*, *Cooperella ? sp*, *Cooperella typicalis*, *Cooperella, sp.*, *Idiacanthus cameratus*, *Idiognathodus symmetricus*, **, **, **, **, **, **, **, **, **, **, )
-> - **Locality and horizon**: Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
-> - **References**: (Gunnell, 1933)
-> - **Comments**:
+> - **Taxa**:
+>> - Chondrichthyes: *Gunnellodus bellistriatus*, *Gunnellodus cameratus*, *Gunnellodus trispinosus*, *Holmesella speni*, *Holmesella rhomboidelis*, *Holmesella parallella*, *Holmesella equilaterata*, *Kirkella indentata*, *Kirkella typicalis*, *Cooleyella peculiaris*, *Cooleyella simplex*, *Cooleyella spatulata*, *Sturgeonella quinqueloba*, *Cooperella typicalis*, *Cooperella striatula*, *Cooperella subsulcata*, *Moreyella typicalis*, *Moreyella trilobata*, *Petrodus* sp., *Cladodus* sp., *Glikmanius myachkovensis*, *Batillodus beaveri*, *Listracanthus* sp., *Peripristis* sp. (Gunnell, 1933; Wilimovsky, 1954; Hansen, 1986; Ginter et al., 2010; Koot et al., 2013; Everhart, 2011; Itano et al., 2024)
+>> - Actinopterygii: *Palaeoniscus* sp., Palaeoniscoidea indet. (Gunnell, 1933)
+> - **Locality and horizon**: Kansas City metropolitan area, Jackson County, Missouri, and adjacent Johnson and Wyandotte counties, Kansas; key localities include Main Street cut, 12th Street and viaduct, Duntile Quarry, 29th Street and Southwest Boulevard, and outcrops along I-70 and I-435; fossils primarily recovered from the Quivira Shale Member (black shale facies) and Wea Shale Member, with *Batillodus* and *Glikmanius* from the Block Limestone Member. (Gunnell, 1933; Hansen, 1986; Itano et al., 2024)
+> - **References**: Cohen et al., 2013; Everhart, 2011; Ginter et al., 2010; Gunnell, 1933; Hansen, 1986; Heckel, 2002; Itano et al., 2024; Koot et al., 2013; Wilimovsky, 1954.
+> - **Comments**: The vertebrate assemblage is dominated by micro-ichthyoliths (scales, denticles, and teeth), many originally described as conodonts or isolated problematica; *Gunnellodus* (formerly *Idiacanthus*) and *Holmesella* represent symmoriiform/stethacanthid shark elements; the Quivira Shale corresponds to a core shale (maximum flooding surface) with anoxic bottom conditions favorable for phosphatic preservation, whereas the Block Limestone preserves rare macroscopic petalodont teeth; the upper member (Quivira) is sometimes assigned to the Dewey Formation in modern Kansas stratigraphic schemes but was historically included within the Cherryvale Formation. (Gunnell, 1933; Hansen, 1986; Heckel, 2002)
+
 
 
 
@@ -3205,6 +3207,7 @@ Heckel, P. H. (1975). Stratigraphy and depositional framework of the Stanton For
 Maisey, J. G. (1983). Some Pennsylvanian chondrichthyan spines from Nebraska. *Transactions of the Nebraska Academy of Sciences*, *11*, 81–84.
 
 Pabian, R. K., & Rushlau, W. J. (2002). Taphonomy and paleoecology of the crinoid fauna from the Kiewitz Shale Bed, Stoner Limestone Member, Stanton Formation (Late Pennsylvanian, Missourian), in the lower Platte River Valley, Cass and Sarpy Counties, Nebraska. *Nebraska Geological Survey Paper*, *20*, 1–35.
+
 
 
 
