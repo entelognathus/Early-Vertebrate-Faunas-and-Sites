@@ -3404,6 +3404,9 @@ Vaughn, P. P. (1962). Vertebrates from the Halgaito Tongue of the Cutler Formati
 
 Vaughn, P. P. (1965). Frog-like vertebrae from the Lower Permian of southeastern Utah. *Contributions in Science, Los Angeles County Museum*, 87, 1–18.
 
+Aber, S. W., Peterson, N., May, W. J., Johnston, P., & Aber, J. S. (2014). First report of vertebrate fossils in the Snyderville Shale (Oread Formation; Upper Pennsylvanian), Greenwood County, Kansas. *Transactions of the Kansas Academy of Science*, 117(3–4), 193–202. https://doi.org/10.1660/062.117.0304
+
+McElroy, A., Hembree, D. I., & Aber, J. S. (2016). Taphonomy and depositional environment of a Late Pennsylvanian vertebrate fossil locality in the Snyderville Shale, Greenwood County, Kansas. *Geological Society of America Abstracts with Programs*, 48(7). https://doi.org/10.1130/abs/2016AM-273788
 
 
 
