@@ -3161,6 +3161,13 @@ Mindat. (n.d.). 7-11 Mine Clay-Ironstone Horizon, Columbiana County, Ohio, USA. 
 
 Ohio Department of Natural Resources. (n.d.). Late Pennsylvanian: Life in Ancient Ohio.
 
+Brusatte, S. L. (2007). Pennsylvanian (Late Carboniferous) chondrichthyans from the LaSalle Limestone Member (Bond Formation) of Illinois, USA. *Neues Jahrbuch für Geologie und Paläontologie-Abhandlungen*, 244(1), 1–8. https://doi.org/10.1127/0077-7749/2007/0244-0001
+
+Gieser, R., Shell, R., Thomas, M. J., & Davis, M. (2023). First records of the chondrichthyans *Heslerodus* and *Ossianodus* from the Upper Pennsylvanian LaSalle Limestone (Bond Formation) of northern Illinois. *Kentiana*, 5, 1–7. https://doi.org/10.21900/j.kentiana.n.1439
+
+Phillips, M. (2000). Amphibian leg bone fossil. Illinois Valley Community College. http://www2.ivcc.edu/phillips/fossil/amphibian/amphibian.html
+
+Plotnick, R. (2019). A fossil park for Illinois. *Medium*. https://plotnick.medium.com/a-fossil-park-for-illinois-4c2cb44af2e9
 
 
 
