@@ -3552,6 +3552,17 @@ Romer, A. S. (1945). The late Carboniferous vertebrate fauna of Kounova (Bohemia
 
 Schneider, J. W., & Zajíc, J. (1994). Xenacanth sharks and their palaeoecology in the Bohemian Massif. In: [exact publication details depending on original source].
 
+Calábková, G., Březina, J., & Nádaskay, R. (2026). A highly diverse Pennsylvanian tetrapod ichnoassemblage from the Semily Formation (Krkonoše Piedmont Basin, Czechia). *PeerJ*, 14, e20437. https://doi.org/10.7717/peerj.20437
+
+Frič, A. (1912). Studien im Gebiete der Permformation Böhmens. *Archiv für die naturwissenschaftliche Landesdurchforschung von Böhmen*, 15(2), 1–52.
+
+Opluštil, S., Šimůnek, Z., Zajíc, J., & Mencl, V. (2013). Climatic cycles in the Late Paleozoic continental sediments of the Bohemian Massif (Czech Republic). *International Journal of Coal Geology*, 119, 133–151.
+
+Štamberg, S. (2001). Fin spine of a ctenacanthoid shark (Elasmobranchii, Ctenacanthoidea) from the Upper Stephanian of the Krkonoše Piedmont Basin (Bohemia). *Bulletin of the Czech Geological Survey*, 76(2), 141–148.
+
+Štamberg, S. (2016). Fossil fauna and flora of a re-discovered locality in the Late Carboniferous Ploužnice Horizon of the Krkonoše Piedmont Basin, Bohemian Massif. *Fossil Imprint*, 72(3–4), 215–224.
+
+Zajíc, J. (2007). The Carboniferous–Permian boundary and the fish faunas of the Bohemian Massif. In T. E. Wong (Ed.), *Proceedings of the XVth International Congress on Carboniferous and Permian Stratigraphy* (pp. 379–386). Royal Netherlands Academy of Arts and Sciences.
 
 
 
