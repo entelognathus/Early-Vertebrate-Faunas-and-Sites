@@ -1337,6 +1337,13 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 
 ### Gzhelian, Late Pennsylvanian, Carboniferous 
 #### Egmont Bay Formation, Prince Edward Island, Canada
+> - **Age**: Gzhelian (Late Pennsylvanian). (Modesto et al., 2015)
+> - **Taxa**:
+>> - Reptilia: *Erpetonyx arsenaultorum*. (Modesto et al., 2015)
+> - **Locality and horizon**: Cape Egmont, southwestern Prince Edward Island; fluvioclastic redbeds of the Egmont Bay Formation (Megacyclic Sequence II). (Modesto et al., 2015)
+> - **References**: Modesto et al., 2015.
+> - **Comments**: Interpreted as deposits of a meandering fluvial system under seasonally arid climatic conditions; *Erpetonyx* represents the oldest definitive parareptile record globally and the only described vertebrate body fossil from this unit, contrasting with an abundant ichnofauna (e.g., *Dimetropus*, *Ichniotherium*) documented from the same stratigraphic interval. (Modesto et al., 2015)
+
 #### Skelley Limestone, Noble County, Ohio, USA
 #### Ames Limestone, Allegheny County, Pennsylvania, USA
 #### Danville Bonebed (Horseshoe Bend), Vermilion County, Illinois, USA
@@ -3227,6 +3234,7 @@ Itano, W. M., Houck, K. J., & Lockley, M. G. (2024). *Batillodus beaveri*, a new
 Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, 56(2), 303–343. https://doi.org/10.1111/j.1475-4983.2012.01199.x
 
 Wilimovsky, N. J. (1954). *Gunnellodus*, a new name for *Idiacanthus* Gunnell. *Journal of Paleontology*, 28(5), 693.
+
 
 
 
