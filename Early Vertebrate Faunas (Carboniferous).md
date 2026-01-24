@@ -1251,6 +1251,13 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: The unit represents a shallow marine to prodeltaic environment. The Nebraska localities, assigned to the Wea Shale by Zangerl & Case but debated as possible Stark Shale equivalents, constitute a Lagerstätte yielding three-dimensionally preserved chondrichthyans in phosphatic concretions, whereas the type area in Missouri yields mainly disarticulated micro-ichthyoliths. (Zangerl & Case, 1973; Bicknell et al., 2024)
 
 #### Kiewitz Shale Member, Stoner Limestone Formation, Cass and Sarpy counties, Nebraska, USA
+> - **Age**: Kasimovian (Late Pennsylvanian, Missourian Stage). (Heckel, 1977; Maisey, 1983)
+> - **Taxa**:
+>> - Chondrichthyes: *Acondylacanthus aequicostatus*, *Amelacanthus* sp., *Bythiacanthus* sp., *Cladodus* sp., *Ctenoptychius* sp., *Janassa* sp., *Orodus* sp., *Petalodus ohioensis*, *Physonemus* sp., Hybodontiformes indet. (Maisey, 1983; Pabian & Rushlau, 2002)
+> - **Locality and horizon**: Kiewitz Quarry, Meadow, Sarpy County (41.0157° N, 96.1860° W) and Ash Grove Cement Company Quarry, Louisville, Cass County (41.0018° N, 96.0914° W); Kiewitz Shale Bed, Stoner Limestone Member, Stanton Formation. (Maisey, 1983; Pabian & Rushlau, 2002)
+> - **References**: Heckel, 1977; Maisey, 1983; Pabian & Rushlau, 2002.
+> - **Comments**: The Kiewitz Shale represents an offshore core-shale facies of a cyclothem, characterized by black phosphatic shales deposited under dysaerobic conditions; the vertebrate assemblage is dominated by isolated chondrichthyan spines and durophagous teeth concentrated in lag deposits. (Heckel, 1977; Maisey, 1983)
+
 #### Rock Lake Shale Member, Stanton Formation, Garnett Quarry, Kansas, USA
 #### Tinajas Member, Atrasado Formation, Kinney Brick Quarry, New Mexico, USA
 #### Lower Conemaugh Group, Missourian Stage, 7-11 Mine, Columbiana County, Ohio, USA
@@ -3030,6 +3037,7 @@ Heckel, P. H., & Watney, W. L. (2002). Revision of stratigraphic nomenclature an
 Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In H. P. Schultze (Ed.), *Handbook of Paleoichthyology* (Vol. 3A). Gustav Fischer Verlag.
 
 Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana: Geology Memoirs*, 6, 1–67.
+
 
 
 
