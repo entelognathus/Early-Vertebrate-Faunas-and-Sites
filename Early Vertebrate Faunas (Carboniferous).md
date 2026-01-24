@@ -1374,7 +1374,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 
 
 
-#### Finis Shale, Jack County, Texas, USA
+#### Finis Shale Member (Graham Formation), Jacksboro, Jack County, Texas, USA
+> - **Age**: Gzhelian (*Shumardites cuyleri* Subzone of the *Shumardites* Zone). (Boardman et al., 1994; Ivanov & Seuss, 2024)
+> - **Taxa**:
+>> - Chondrichthyes: *Bransonella lingulata* (syn. *B. nebraskensis*), *Heslerodus divergens*, *Glikmanius occidentalis* (syn. *Symmorium reniforme*), *Campyloprion* sp. (syn. *Edestus* sp.), *Petalodus ohioensis*, *Peripristis semicircularis*, *Deltodus* sp., *Cooleyella amazonensis*, *Euglossodus* sp., *Tanaodus* sp., *Denaea* cf. *williamsi*, *Stethacanthus* sp., *Ctenacanthus* sp., *Physonemus mirabilis*, *Arpagodus* sp. (syn. *Orodus variabilis*), *Orodus* sp. (Dalquest et al., 1993; Itano & Lucas, 2018; Ivanov & Seuss, 2024; Maisey et al., 2017; McKinzie & McLeod, 2003)
+>> - Acanthodii: *Acanthodes* sp. (Ivanov & Seuss, 2024)
+>> - Actinopterygii: Palaeonisciformes indet. (Ivanov & Seuss, 2024)
+> - **Locality and horizon**: Lost Creek Lake Dam spillway (TXV-200), Jacksboro, Jack County, Texas (33°14′12″N, 98°07′12″W); dark marine shales of the Finis Shale Member, Graham Formation, Cisco Group. (Ivanov & Seuss, 2024; Maisey et al., 2017)
+> - **References**: Boardman et al., 1994; Dalquest et al., 1993; Itano & Lucas, 2018; Ivanov & Seuss, 2024; Maisey et al., 2017; McKinzie & McLeod, 2003.
+> - **Comments**: A shallowing-upwards cyclothem dominated by dark marine shales; fauna includes diverse marine invertebrates (ammonoids, crinoids, gastropods) and a rich assemblage of shark microremains dominated by *Bransonella*. Occipital braincases indicate the presence of gigantic ctenacanthiform sharks reaching ~7 m in total length. (Ivanov & Seuss, 2024; Maisey et al., 2017)
+
 #### El Cobre Canyon Formation (Lower Beds), Rio Arriba County, New Mexico, USA
 #### Halgaito Formation (Lower Interval), San Juan County, Utah, USA
 #### Snyderville Shale, Greenwood County, Kansas, USA
@@ -3303,6 +3312,7 @@ Mann, A., Nelson, W. J., Hook, R. W., & Elrick, S. D. (2024). The lost Permo-Car
 Newberry, J. S. (1856). Description of several new genera and species of fossil fishes, from the Carboniferous strata of Ohio. *Proceedings of the Academy of Natural Sciences of Philadelphia*, 8, 96–100.
 
 Romer, A. S., & Smith, H. J. (1934). American Carboniferous dipnoans. *The Journal of Geology*, 42(7), 700–719.
+
 
 
 
