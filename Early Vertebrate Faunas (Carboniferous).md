@@ -1396,6 +1396,19 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: Type locality of the Cobrean Land Vertebrate Faunachron (LVF). The fauna represents a Late Pennsylvanian lowland ecosystem dominated by the large diadectomorph *Limnoscelis* and the primitive pelycosaur *Ophiacodon navajovicus*. This assemblage is stratigraphically distinct from the overlying Early Permian (Coyotean) fauna characterized by *Sphenacodon ferox*. (Lucas et al., 2005)
 
 #### Halgaito Formation (Lower Interval), San Juan County, Utah, USA
+> - **Age**: Gzhelian (Huttenlocker et al., 2018; Sumida et al., 1999)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus texensis*, Xenacanthidae indet., Hybodontiformes indet., *Lissodus* sp. (Huttenlocker et al., 2018; Scott, 2013; Vaughn, 1962)
+>> - Actinopterygii: Palaeonisciformes indet. (teeth and scales). (Huttenlocker et al., 2018)
+>> - Sarcopterygii: *Sagenodus copeanus*, *Lohsania utahensis*, Dipnoi indet. (Huttenlocker et al., 2018; Thomson & Vaughn, 1968)
+>> - Amphibia: *Eryops grandis* (or *E.* cf. *megacephalus*), *Platyhystrix rugosus*, *Lasalia cutlerensis*, *Seymouria* sp., Dissorophidae indet., Aistopoda indet. (Huttenlocker et al., 2018; Vaughn, 1962, 1965; Berman et al., 1981; Sumida et al., 1999)
+>> - Diadectomorpha: *Limnoscelis* sp., *Diadectes* sp., Diadectidae indet. (Huttenlocker et al., 2018; Lewis & Vaughn, 1965; Sumida et al., 1999)
+>> - Synapsida: *Shashajaia bermani*, *Sphenacodon ferox* (or *S.* sp.), *Ophiacodon navajovicus* (or *O.* cf. *mirus*), *Edaphosaurus* sp., *Cutleria wilmarthi*, *Mycterosaurus smithae*. (Huttenlocker et al., 2018; Huttenlocker et al., 2021; Lewis & Vaughn, 1965; Vaughn, 1962; Sumida et al., 1999)
+>> - Reptilia: *Halgaitosaurus gregarius*, Araeoscelidia indet. (Henrici et al., 2023; Huttenlocker et al., 2018)
+> - **Locality and horizon**: Valley of the Gods (Birthday Bonebed, locality CM 3345), Lime Ridge, and John’s Canyon; Lower Interval of the Halgaito Formation, stratigraphically between the McKim Limestone and the “A” Limestone. (Huttenlocker et al., 2018; Henrici et al., 2023)
+> - **References**: Berman et al., 1981; Henrici et al., 2023; Huttenlocker et al., 2018; Huttenlocker et al., 2021; Lewis & Vaughn, 1965; Scott, 2013; Sumida et al., 1999; Thomson & Vaughn, 1968; Vaughn, 1962; Vaughn, 1965.
+> - **Comments**: The Lower Halgaito fauna represents a Coyotean Land Vertebrate Faunachron (LVF) assemblage within the Gzhelian. It documents a transitional ecosystem with co-occurring aquatic taxa (xenacanth sharks, *Sagenodus*, *Eryops*) and terrestrial taxa (*Sphenacodon*, *Halgaitosaurus*, *Edaphosaurus*). The Birthday Bonebed is a key multitaxic deposit formed in a flood-dammed tributary channel. (Huttenlocker et al., 2018; Henrici et al., 2023)
+
 #### Snyderville Shale, Greenwood County, Kansas, USA
 #### Red Tanks Member, Bursum Formation, Socorro County, New Mexico, USA
 #### Markley Formation, Clay County, Texas, USA
@@ -3360,6 +3373,7 @@ Utting, J., & Lucas, S. G. (2010). Palynological investigation of the Upper Penn
 Williston, S. W. (1911). A new family of reptiles from the Permian of New Mexico. *The American Journal of Science*, 31(185), 378–398.
 
 Williston, S. W. (1915). A new genus and species of American Theromorpha: *Mycterosaurus longiceps*. *The Journal of Geology*, 23(6), 554–559.
+
 
 
 
