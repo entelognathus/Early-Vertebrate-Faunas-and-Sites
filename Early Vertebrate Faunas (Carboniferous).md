@@ -3208,6 +3208,23 @@ Maisey, J. G. (1983). Some Pennsylvanian chondrichthyan spines from Nebraska. *T
 
 Pabian, R. K., & Rushlau, W. J. (2002). Taphonomy and paleoecology of the crinoid fauna from the Kiewitz Shale Bed, Stoner Limestone Member, Stanton Formation (Late Pennsylvanian, Missourian), in the lower Platte River Valley, Cass and Sarpy Counties, Nebraska. *Nebraska Geological Survey Paper*, *20*, 1–35.
 
+Cohen, K. M., Finney, S. C., Gibbard, P. L., & Fan, J.-X. (2013). The ICS International Chronostratigraphic Chart. *Episodes*, 36(3), 199–204.
+
+Everhart, M. J. (2011). Microichthyoliths and conodonts from the Quindaro Shale and Argentine Limestone of the Kansas City Group. *Oceans of Kansas Paleontology*. http://oceansofkansas.com/KAS2009.html
+
+Ginter, M., Hampe, O., & Duffin, C. J. (2010). *Handbook of Paleoichthyology*, Vol. 3D: Chondrichthyes, Paleozoic Elasmobranchii: Teeth. Verlag Dr. Friedrich Pfeil.
+
+Gunnell, F. H. (1933). Conodonts and fish remains from the Cherokee, Kansas City, and Wabaunsee Groups of Missouri and Kansas. *Journal of Paleontology*, 7(3), 261–297.
+
+Hansen, M. C. (1986). Microscopic chondrichthyan remains from Pennsylvanian marine rocks of Ohio and adjacent areas. [Unpublished doctoral dissertation]. The Ohio State University.
+
+Heckel, P. H. (2002). Genetic stratigraphy and conodont biostratigraphy of Upper Desmoinesian–Missourian (Pennsylvanian) cyclothem succession in Midcontinent North America. *Canadian Society of Petroleum Geologists Memoir*, 19, 99–119.
+
+Itano, W. M., Houck, K. J., & Lockley, M. G. (2024). *Batillodus beaveri*, a new petalodont (Chondrichthyes, Petalodontiformes) from the Upper Pennsylvanian of Kansas, USA. *Vertebrate Anatomy Morphology Palaeontology*, 11, 1–12.
+
+Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse shark fauna from the Wordian (Middle Permian) Khuff Formation in the interior Haushi-Huqf area, Sultanate of Oman. *Palaeontology*, 56(2), 303–343. https://doi.org/10.1111/j.1475-4983.2012.01199.x
+
+Wilimovsky, N. J. (1954). *Gunnellodus*, a new name for *Idiacanthus* Gunnell. *Journal of Paleontology*, 28(5), 693.
 
 
 
