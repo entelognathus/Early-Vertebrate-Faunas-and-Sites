@@ -3190,6 +3190,11 @@ Thevenin, A. (1906). Les plus anciens quadrupèdes de France. *Annales de Paléo
 
 Werneburg, R. (2019). Dissorophoid amphibians from the Carboniferous–Permian boundary of France. *Bulletin de la Société Géologique de France*, 190(1). https://doi.org/10.1051/bsgf/2019003
 
+Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. http://dx.doi.org/10.3140/bull.geosci.1845
+
+Lebedev, O. A., & Itano, W. M. (2021). Tooth whorl structure, growth and function in a helicoprionid chondrichthyan *Karpinskiprion* nom. nov. (Eugeneodontiformes), with a revision of the family composition. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *112*(3–4), 231–247.
+
+Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First record of Eugeneodontiformes (Chondrichthyes) in the Middle Carboniferous of the Lower Volga region. In *Paleostrat-2011: Annual Meeting of the Paleontological Section of the Moscow Society of Naturalists* (pp. 54–55). Paleontological Institute.
 
 
 
