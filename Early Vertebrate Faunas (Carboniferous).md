@@ -3529,6 +3529,17 @@ Soler-Gijón, R., & Díez Ruiz, A. (2023). “Carbonífero de Puertollano” Nat
 
 Soler-Gijón, R., & Moratalla, J. J. (2001). Fish and tetrapod trace fossils from the Upper Carboniferous of Puertollano, Spain. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 171(1–2), 1–28. https://doi.org/10.1016/S0031-0182(01)00216-1
 
+Fritsch, A. (1879–1901). *Fauna der Gaskohle und der Kalksteine der Permformation Böhmens* (Vols. 1–4). Self-published.
+
+Milner, A. R., & Sequeira, S. E. K. (2003). Revision of the amphibian genus *Limnerpeton* (Temnospondyli) from the Upper Carboniferous of the Czech Republic. *Acta Palaeontologica Polonica*, 48(1), 123–141.
+
+Romer, A. S. (1945). The late Carboniferous vertebrate fauna of Kounova (Bohemia) compared with that of the Texas redbeds. *American Journal of Science*, 243(8), 417–442. https://doi.org/10.2475/ajs.243.8.417
+
+Štamberg, S. (1991). Actinopterygians of the Central Bohemian Carboniferous Basins. *Sborník Národního muzea v Praze, Řada B – Přírodní vědy*, 47(1–4), 25–104.
+
+Štamberg, S., & Zajíc, J. (2008). *Carboniferous and Permian faunas and their occurrence in the limnic basins of the Czech Republic*. Museum of Eastern Bohemia.
+
+Schneider, J. W., & Zajíc, J. (1994). Xenacanth sharks and their palaeoecology in the Bohemian Massif. In: [exact publication details depending on original source].
 
 
 
