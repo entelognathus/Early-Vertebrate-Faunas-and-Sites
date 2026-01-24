@@ -1456,6 +1456,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: A Konservat-Lagerstätte characterized by three-dimensional preservation of soft tissues (digestive tracts, muscles, branchial structures) within sideritic nodules and flattened remains in shales. Preservation resulted from rapid burial in fine anoxic mud followed by early siderite precipitation and phosphatization. (Perrier & Charbonnier, 2014; Werneburg, 2019)
 
 #### Puertollano Basin, Ciudad Real, Spain
+> - **Age**: Late Gzhelian (Soler-Gijón & Díez Ruiz, 2023)
+> - **Taxa**:
+>> - Chondrichthyes: *Acanthodes* sp., *Orthacanthus meridionalis*, *Triodus* n. sp., *Sphenacanthus carbonarius*, *Lissodus zideki*. (Soler-Gijón, 1997b, 1997c; Soler-Gijón & Díez Ruiz, 2023)
+>> - Actinopterygii: *Puertollanichthys ritchiei*, *Elonichthys* sp., *Amblypterus angustus*, *Bourbonella*? sp., *Progyrolepis speciosus*, *Paramblypterus* sp., *Palaeoniscum* cf. *P. freieslebeni*, *Platysomidae* indet. (Forey & Young, 1985; Soler-Gijón & Díez Ruiz, 2023)
+>> - Sarcopterygii: *Strepsodus* sp., *Rhabdoderma* sp., *Sagenodus* sp. (Soler-Gijón & Moratalla, 2001)
+>> - Tetrapoda: *Iberospondylus schultzei*, Aïstopoda indet. (Laurin & Soler-Gijón, 2006; Soler-Gijón & Moratalla, 2001)
+> - **Locality and horizon**: Emma, María Isabel, and La Extranjera quarries; bituminous layer B, “amphibian bed” above coal seam III, and bed 7 above coal seam I. (Soler-Gijón & Díez Ruiz, 2023)
+> - **References**: Alvarado & Menéndez Puget, 1931; Forey & Young, 1985; Laurin & Soler-Gijón, 2001, 2006; Soler-Gijón, 1997b, 1997c; Soler-Gijón & Díez Ruiz, 2023; Soler-Gijón & Moratalla, 2001.
+> - **Comments**: A vertebrate Lagerstätte preserving a diverse euryhaline fauna in an estuarine–deltaic system influenced by tidal processes; vertebrate remains are commonly associated with volcanic tuffites and anoxic shales. (Soler-Gijón & Díez Ruiz, 2023; Soler-Gijón & Moratalla, 2001)
+
 #### Kounov Member, Central Bohemian Region, Czech Republic
 #### Semily Formation, Hradec Králové Region, Czech Republic
 #### Remigiusberg Formation, Rhineland-Palatinate, Germany
@@ -3491,6 +3501,7 @@ Poplin, C., Sotty, D., & Janvier, P. (2001). A myxinid (Craniata: Hyperotreti) f
 Sotty, D. (1980). Le bassin houiller de Blanzy-Montceau. *BRGM Mémoires*, 101, 1–246.
 
 Werneburg, R. (2019). Dissorophoid amphibians from the Carboniferous–Permian boundary of France. *Semana*, 34, 11–51.
+
 
 
 
