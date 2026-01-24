@@ -3177,6 +3177,17 @@ Phillips, M. (2000). Amphibian leg bone fossil. Illinois Valley Community Colleg
 
 Plotnick, R. (2019). A fossil park for Illinois. *Medium*. https://plotnick.medium.com/a-fossil-park-for-illinois-4c2cb44af2e9
 
+Blot, J. (1966). Étude des Palaeonisciformes du Bassin de Commentry. *Cahiers de Paléontologie*, 1–99.
+
+Heyler, D. (2000). Les actinoptérygiens stéphaniens et autuniens du Massif Central (France) dans les collections du M.N.H.N. (Paris) et du Muséum d'Autun: compléments, mises au point, bilan. *Bulletin de la Société d'Histoire Naturelle d'Autun*, 169, 7–44.
+
+Schneider, J. W., Lucas, S. G., Werneburg, R., & Rößler, R. (2010). Euramerican Late Pennsylvanian/Early Permian arthropleurid micro- and macro-remains: stratigraphy, taxonomy and palaeoecology. *International Journal of Earth Sciences*, 99(2), 667–686.
+
+Štamberg, S. (2013). New data on the osteology of the actinopterygian fish *Amblypterus* and the relationship between *Amblypterus* and *Paramblypterus*. *Acta Musei Nationalis Pragae, Series B – Historia Naturalis*, 69(3–4), 183–194.
+
+Thevenin, A. (1906). Les plus anciens quadrupèdes de France. *Annales de Paléontologie*, 1, 1–65.
+
+Werneburg, R. (2019). Dissorophoid amphibians from the Carboniferous–Permian boundary of France. *Bulletin de la Société Géologique de France*, 190(1). https://doi.org/10.1051/bsgf/2019003
 
 
 
