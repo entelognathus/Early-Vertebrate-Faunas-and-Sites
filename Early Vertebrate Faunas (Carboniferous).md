@@ -1409,7 +1409,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Berman et al., 1981; Henrici et al., 2023; Huttenlocker et al., 2018; Huttenlocker et al., 2021; Lewis & Vaughn, 1965; Scott, 2013; Sumida et al., 1999; Thomson & Vaughn, 1968; Vaughn, 1962; Vaughn, 1965.
 > - **Comments**: The Lower Halgaito fauna represents a Coyotean Land Vertebrate Faunachron (LVF) assemblage within the Gzhelian. It documents a transitional ecosystem with co-occurring aquatic taxa (xenacanth sharks, *Sagenodus*, *Eryops*) and terrestrial taxa (*Sphenacodon*, *Halgaitosaurus*, *Edaphosaurus*). The Birthday Bonebed is a key multitaxic deposit formed in a flood-dammed tributary channel. (Huttenlocker et al., 2018; Henrici et al., 2023)
 
-#### Snyderville Shale, Greenwood County, Kansas, USA
+#### Snyderville Shale Member, Oread Formation, Greenwood County, Kansas, USA
+> - **Age**: Gzhelian (Aber et al., 2014; McElroy et al., 2016)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus* sp., Xenacanthidae indet. (Aber et al., 2014; McElroy et al., 2016)
+>> - Sarcopterygii: *Sagenodus* cf. *S. serratus*. (Aber et al., 2014; McElroy et al., 2016)
+>> - Amphibia: *Archeria* sp., *Eryops* sp., *Trimerorhachis* sp. (Aber et al., 2014)
+>> - Reptilia: *Diasparactus* sp. (cf. *D. zenos*), *Ophiacodon* sp., Sphenacodontidae indet. (Aber et al., 2014; McElroy et al., 2016)
+> - **Locality and horizon**: Eastern Greenwood County, near Toronto, Kansas; upper portion of the lowest paleosol layer within the Snyderville Shale Member, Oread Formation. (Aber et al., 2014; McElroy et al., 2016)
+> - **References**: Aber et al., 2014; McElroy et al., 2016.
+> - **Comments**: The locality represents a terrestrial–fluvial floodplain environment (paleosol) with abundant disarticulated vertebrate material preserved via mineral replacement and permineralization. The assemblage includes aquatic, semi-aquatic, and terrestrial taxa, indicating a coastal wetland setting with nearby water bodies, stratigraphically positioned between the Garnett and Hamilton quarry localities. (Aber et al., 2014; McElroy et al., 2016)
+
 #### Red Tanks Member, Bursum Formation, Socorro County, New Mexico, USA
 #### Markley Formation, Clay County, Texas, USA
 #### Montceau-les-Mines, Saône-et-Loire, France
@@ -3393,6 +3403,7 @@ Thomson, K. S., & Vaughn, P. P. (1968). A new rhidipistian fish from the Lower P
 Vaughn, P. P. (1962). Vertebrates from the Halgaito Tongue of the Cutler Formation, Permian of San Juan County, Utah. *Journal of Paleontology*, 36(3), 529–539.
 
 Vaughn, P. P. (1965). Frog-like vertebrae from the Lower Permian of southeastern Utah. *Contributions in Science, Los Angeles County Museum*, 87, 1–18.
+
 
 
 
