@@ -1282,6 +1282,15 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 
 #### Lower Conemaugh Group, Missourian Stage, 7-11 Mine, Columbiana County, Ohio, USA
 #### Inglefield Sandstone Member, Patoka Formation, Horseshoe Bend, Vermilion County, Illinois, USA
+> - **Age**: Early Kasimovian (Early Missourian, Late Pennsylvanian). (Mann et al., 2025; Wier & Gray, 1961)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus* sp., *Janassa* sp. (Mann et al., 2025)
+>> - Sarcopterygii: *Sagenodus vinslovii*, *Sagenodus serratus*, *Sagenodus paucicristatus*, *Conchopoma* sp., *Gnathorhiza* sp. (Cope, 1875; Cope, 1877a; Romer & Smith, 1934; Mann et al., 2025)
+>> - Tetrapoda: *Clepsydrops collettii*, *Clepsydrops vinslovii*, *Diplocaulus salamandroides*, *Lysorophus tricarinatus*, *Cricotus heteroclitus*, *Cricotus gibsonii*, *Cricotus discophorus*, Diadectidae indet., Limnoscelidae indet., Captorhinidae indet. (Cope, 1875; Cope, 1877a; Case, 1900; Mann et al., 2025)
+> - **Locality and horizon**: Horseshoe Bend, cutbank of the Salt Fork of the Vermilion River, west of Danville (SE 1/4, SE 1/4, Sec. 23, T. 19 N., R. 13 W.), Vermilion County, Illinois; paleochannel fill in the Inglefield Sandstone Member, Patoka Formation. (Mann et al., 2025)
+> - **References**: Case, 1900; Cope, 1875; Cope, 1877a; Mann et al., 2025; Romer & Smith, 1934; Wier & Gray, 1961.
+> - **Comments**: Historically known as the "Danville Bonebed," interpreted as a freshwater to brackish paleochannel-fill deposit dominated by the ophiacodontid *Clepsydrops*. It contains the oldest known records of the diplocaulid *Diplocaulus* and potentially the oldest diadectids and captorhinids. The petalodont shark *Janassa* is likely reworked from associated marine beds. (Mann et al., 2025)
+
 #### LaSalle Limestone Member, Bond Formation, LaSalle County, Illinois, USA
 #### Commentry Basin (Stephanian A), Allier Department, Auvergne-Rhône-Alpes, France
 #### Kosherovo Formation, Khamovnikian Regional Stage, Zhirnovsk Quarry, Volgograd  Region, Russia
@@ -3107,6 +3116,7 @@ Werneburg, R., Schneider, J. W., & Lucas, S. G. (2021). The new dvinosaurian *Be
 Zidek, J. (1975). Some fishes of the Wild Cow Formation (Pennsylvanian), Manzanita Mountains, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Circular*, 135, 1–22.
 
 Zidek, J. (1992). Late Pennsylvanian Chondrichthyes, Acanthodii, and deep-bodied Actinopterygii from the Kinney Quarry, Manzanita Mountains, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Bulletin*, 138, 145–182.
+
 
 
 
