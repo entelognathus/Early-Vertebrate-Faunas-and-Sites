@@ -3418,6 +3418,21 @@ Aber, S. W., Peterson, N., May, W. J., Johnston, P., & Aber, J. S. (2014). First
 
 McElroy, A., Hembree, D. I., & Aber, J. S. (2016). Taphonomy and depositional environment of a Late Pennsylvanian vertebrate fossil locality in the Snyderville Shale, Greenwood County, Kansas. *Geological Society of America Abstracts with Programs*, 48(7). https://doi.org/10.1130/abs/2016AM-273788
 
+Berman, D. S. (1976). *Gnathorhiza bothrotreta* (Osteichthyes: Dipnoi) from the Lower Permian Abo Formation of New Mexico. *Annals of Carnegie Museum*, 48, 211–230.
+
+Berman, D. S., Henrici, A. C., Sumida, S. S., & Martens, T. (2015). First European record of a varanopid (Synapsida: Eupelycosauria): Member of a unique Early Permian upland paleoecosystem, Tambach Basin, central Germany. *New Mexico Museum of Natural History and Science Bulletin*, 65, 1–69.
+
+Harris, S. K., Lucas, S. G., Berman, D. S., & Henrici, A. C. (2004). Vertebrate fossil assemblage from the Upper Pennsylvanian Red Tanks Member of the Bursum Formation, Lucero Uplift, central New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 25, 267–283.
+
+Hodnett, J. P. M., & Lucas, S. G. (2015). Paleozoic fishes of New Mexico: A review. *New Mexico Museum of Natural History and Science Bulletin*, 68, 51–63.
+
+Johnson, S. C., & Lucas, S. G. (2004). Pennsylvanian–Early Permian elasmobranch faunas, central New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 25, 268.
+
+Krainer, K., & Lucas, S. G. (2004). The Upper Pennsylvanian Red Tanks Member of the Bursum Formation at Carrizo Arroyo, central New Mexico: Transition from shallow marine to nonmarine facies. *New Mexico Museum of Natural History and Science Bulletin*, 25, 53–69.
+
+Lucas, S. G., Barrick, J. E., Krainer, K., & Schneider, J. W. (2016). The Carboniferous–Permian boundary at Carrizo Arroyo, central New Mexico, USA. *New Mexico Museum of Natural History and Science Bulletin*, 72, 1–15.
+
+Schneider, J. W., Lucas, S. G., & Krainer, K. (2004). Insect, eurypterid and conchostracan biostratigraphy of the Red Tanks Member, Bursum Formation (late Pennsylvanian), Carrizo Arroyo, New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 25, 1–12.
 
 
 
