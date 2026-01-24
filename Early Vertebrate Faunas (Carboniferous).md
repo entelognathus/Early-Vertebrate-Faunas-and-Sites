@@ -1478,7 +1478,18 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Fritsch, 1879–1901; Romer, 1945; Schneider & Zajíc, 1994; Milner & Sequeira, 2003; Štamberg & Zajíc, 2008.
 > - **Comments**: Fossils occur in bituminous, sapropelic “gas coal” deposits representing a quiet, shallow lacustrine environment. Persistent anoxia at the sediment–water interface enabled the preservation of articulated skeletons and delicate skeletal elements. (Mindat, 2024; Romer, 1945; Štamberg & Zajíc, 2008)
 
-#### Semily Formation, Hradec Králové Region, Czech Republic
+#### Semily Formation, Krkonoše Piedmont Basin, Czech Republic
+> - **Age**: Gzhelian (Stephanian C). (Calábková et al., 2026; Štamberg, 2016)
+> - **Taxa**:
+>> - Chondrichthyes: *Bohemiacanthus carinatus*, *Xenacanthus* sp., *Orthacanthus* sp., *Turnovichthys magnus*, *Sphenacanthus* sp., *Lissodus* sp. (Calábková et al., 2026; Štamberg, 2001, 2016)
+>> - Acanthodii: *Acanthodes* sp. (Štamberg, 2016; Zajíc, 2007)
+>> - Actinopterygii: *Sphaerolepis kounoviensis*, *Spinarichthys dispersus*, *Progyrolepis speciosus*, *Zaborichthys fragmentalis*, *Elonichthys* sp. (Calábková et al., 2026; Opluštil et al., 2013; Štamberg, 2016)
+>> - Sarcopterygii: *Megalichthys nitens*, *Sagenodus barrandei*, *Sagenodus* sp. (Opluštil et al., 2013; Štamberg, 2016)
+>> - Amphibia: Branchiosauridae indet., Dissorophoidea indet. (Calábková et al., 2026; Frič, 1912; Opluštil et al., 2013)
+> - **Locality and horizon**: Ploužnice Horizon (Ploužnice railway cut, Malá rokle, Krsmol “Deep Gorge”, Štikov, Žďár u Kumburku) and Štěpanice–Čikvásky Horizon (Nedvězí, Sutice). (Calábková et al., 2026; Štamberg, 2016)
+> - **References**: Calábková et al., 2026; Frič, 1912; Opluštil et al., 2013; Štamberg, 2001, 2016; Zajíc, 2007.
+> - **Comments**: Lacustrine “red beds” (Ploužnice) and grey shales (Štěpanice–Čikvásky) representing a large lake system; tetrapod body fossils are extremely rare compared with the diverse ichnofauna (not treated here). (Calábková et al., 2026; Štamberg, 2016)
+
 #### Remigiusberg Formation, Rhineland-Palatinate, Germany
 #### Hamilton Quarry, Hamilton County, Kansas, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
@@ -3540,6 +3551,7 @@ Romer, A. S. (1945). The late Carboniferous vertebrate fauna of Kounova (Bohemia
 Štamberg, S., & Zajíc, J. (2008). *Carboniferous and Permian faunas and their occurrence in the limnic basins of the Czech Republic*. Museum of Eastern Bohemia.
 
 Schneider, J. W., & Zajíc, J. (1994). Xenacanth sharks and their palaeoecology in the Bohemian Massif. In: [exact publication details depending on original source].
+
 
 
 
