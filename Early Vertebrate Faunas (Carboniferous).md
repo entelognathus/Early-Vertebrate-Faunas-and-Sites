@@ -3245,6 +3245,15 @@ Wilimovsky, N. J. (1954). *Gunnellodus*, a new name for *Idiacanthus* Gunnell. *
 
 Modesto, S. P., Scott, D. M., MacDougall, M. J., Sues, H.-D., Evans, D. C., & Reisz, R. R. (2015). The oldest parareptile and the early diversification of reptiles. *Proceedings of the Royal Society B: Biological Sciences*, 282(1801), 20141912. https://doi.org/10.1098/rspb.2014.1912
 
+Cline, D. A. (2022). *Vertebrate Assemblages of the Skelley Limestone (Conemaugh Group: Carboniferous, Gzhelian) in Noble and Muskingum Counties, Ohio* [Master's thesis]. Wright State University. https://corescholar.libraries.wright.edu/etd_all/2648
+
+Cline, D. A., Shell, R., Cheshire, J., Ciampaglio, C., & Fuelling, L. (2023). Osteichthyans of the Skelley Limestone (Conemaugh Group: Carboniferous, Gzhelian) of Ohio. *Society of Vertebrate Paleontology 83rd Annual Meeting Program Guide*, 108–109.
+
+Ginter, M. (2016). The heterodonty in euselachian sharks from the Pennsylvanian of Nebraska. *Acta Geologica Polonica*, 66(3), 299–312.
+
+Hansen, M. C. (1986). *Microscopic Chondrichthyan Remains from Pennsylvanian Marine Rocks of Ohio and Adjacent Areas*. The Ohio State University.
+
+St. John, J. (2017). *Petalodus ohioensis* (fossil shark tooth) (Skelley Member, Upper Pennsylvanian; Noble County, Ohio, USA). Wikimedia Commons. 
 
 
 
