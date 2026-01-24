@@ -1467,6 +1467,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: A vertebrate Lagerstätte preserving a diverse euryhaline fauna in an estuarine–deltaic system influenced by tidal processes; vertebrate remains are commonly associated with volcanic tuffites and anoxic shales. (Soler-Gijón & Díez Ruiz, 2023; Soler-Gijón & Moratalla, 2001)
 
 #### Kounov Member, Central Bohemian Region, Czech Republic
+> - **Age**: Gzhelian (Stephanian B). (Mindat, 2024; Romer, 1945)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus kounoviensis*, *Orthacanthus pinguis*, *Xenacanthus parallelus*, *Xenacanthus ovalis*, *Plicatodus plicatus*, *Triodus* sp., *Turnovichthys magnus*, *Sphenacanthus carbonarius*, *Lissodus lacustris*, *Platyacanthus ventricosus*, *Brachyacanthus semiplanus*. (Schneider & Zajíc, 1994; Štamberg & Zajíc, 2008)
+>> - Actinopterygii: *Progyrolepis speciosus*, *Sphaerolepis kounoviensis*, *Zaborichthys fragmentalis*, *Elonichthys krejcii*, *Elonichthys sphaerosideritarum*, *Spinarichthys dispersus*, *Setlikia bohemica*, *Igornichthys* sp. (Štamberg, 1991; Štamberg & Zajíc, 2008)
+>> - Acanthodii: *Acanthodes fritschi*, *Traquairichthys pygmaeus*. (Zajíc, 1998; Štamberg & Zajíc, 2008)
+>> - Sarcopterygii: *Sagenodus barrandei*, *Megalichthys nitens*. (Fritsch, 1888; Štamberg & Zajíc, 2008)
+>> - Tetrapoda: *Edaphosaurus mirabilis*, *Macromerion schwartzenbergii*, *Boii crassidens*, *Keraterpeton gigas*, *Dawsonerpeton polydens*, *Oestocephalus vicinum*, *Porierpeton* sp., *Gephyrostegus bohemicus*, *Mordex laticeps*, *Limnogyrinus elegans*, *Crinodon limnophyes*, *Oestocephalus granulosus*, *Microbrachis pelikani*. (Carroll, 1966; Milner & Sequeira, 2003; Romer, 1945)
+> - **Locality and horizon**: Kounov (50°12′47″ N, 13°40′31″ E), Rakovník District, Central Bohemian Region, Czech Republic; organic-rich sapropelic coal horizons (“Gaskohle”) and associated shales in the upper part of the Slaný Formation. (Mindat, 2024; Romer, 1945)
+> - **References**: Fritsch, 1879–1901; Romer, 1945; Schneider & Zajíc, 1994; Milner & Sequeira, 2003; Štamberg & Zajíc, 2008.
+> - **Comments**: Fossils occur in bituminous, sapropelic “gas coal” deposits representing a quiet, shallow lacustrine environment. Persistent anoxia at the sediment–water interface enabled the preservation of articulated skeletons and delicate skeletal elements. (Mindat, 2024; Romer, 1945; Štamberg & Zajíc, 2008)
+
 #### Semily Formation, Hradec Králové Region, Czech Republic
 #### Remigiusberg Formation, Rhineland-Palatinate, Germany
 #### Hamilton Quarry, Hamilton County, Kansas, USA
@@ -3517,6 +3528,7 @@ Soler-Gijón, R. (1997c). Euselachian sharks from the Late Carboniferous of the 
 Soler-Gijón, R., & Díez Ruiz, A. (2023). “Carbonífero de Puertollano” Natural Monument (Puertollano basin, Spain): a window for the knowledge of early vertebrates. *Spanish Journal of Palaeontology*, 38(1), 81–94. https://doi.org/10.7203/sjp.26864
 
 Soler-Gijón, R., & Moratalla, J. J. (2001). Fish and tetrapod trace fossils from the Upper Carboniferous of Puertollano, Spain. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 171(1–2), 1–28. https://doi.org/10.1016/S0031-0182(01)00216-1
+
 
 
 
