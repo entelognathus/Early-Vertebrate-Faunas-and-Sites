@@ -3090,6 +3090,23 @@ Spindler, F. (2020). A faunivorous early sphenacodontian synapsid with a diastem
 
 Wehrbein, R. (2017). Comparisons of Paleoenvironments, Taxa, and Taphonomy of the Late Carboniferous Garnett and Hamilton Quarry Localities, Eastern Kansas.
 
+Berman, D. S. (1973). A trimerorhachid amphibian from the Upper Pennsylvanian of New Mexico. *Journal of Paleontology*, 47(5), 932–945.
+
+Hodnett, J.-P. M., & Lucas, S. G. (2021). Review of the Late Pennsylvanian fish assemblage from the Kinney Brick Quarry, New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 84, 359–390.
+
+Hodnett, J.-P. M., Toomey, R., Egerton, V. M., Cimino, G., Pwood, R., & Lucas, S. G. (2021). Ctenacanthiform sharks from the Late Pennsylvanian (Missourian) Tinajas Member of the Atrasado Formation, central New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 84, 391–424.
+
+Hunt, A. P., Lucas, S. G., & Berman, D. S. (1996). The amphibian *Milnererpeton* from the Kinney Brick Quarry, Late Pennsylvanian of New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 12, 1–3.
+
+Lucas, S. G., Allen, B. D., Krainer, K., Barrick, J., Vachard, D., Schneider, J. W., & Spielmann, J. A. (2011). Precise age and biostratigraphic significance of the Kinney Brick Quarry Lagerstätte, Pennsylvanian of New Mexico, USA. *Stratigraphy*, 8(1), 7–27.
+
+Stack, J., Hodnett, J.-P. M., Lucas, S. G., & Sallan, L. (2021). *Tanyrhinichthys mcallesteri*, a long-rostrumed Pennsylvanian ray-finned fish (Actinopterygii) and the simultaneous evolution of elongated snouts in Late Palaeozoic cis- and trans-Atlantic faunas. *Zoological Journal of the Linnean Society*, 191(2), 347–368.
+
+Werneburg, R., Schneider, J. W., & Lucas, S. G. (2021). The new dvinosaurian *Bermanerpeton kinneyi* (Temnospondyli) from the Late Pennsylvanian Kinney Brick Quarry in New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 84, 425–441.
+
+Zidek, J. (1975). Some fishes of the Wild Cow Formation (Pennsylvanian), Manzanita Mountains, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Circular*, 135, 1–22.
+
+Zidek, J. (1992). Late Pennsylvanian Chondrichthyes, Acanthodii, and deep-bodied Actinopterygii from the Kinney Quarry, Manzanita Mountains, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Bulletin*, 138, 145–182.
 
 
 
