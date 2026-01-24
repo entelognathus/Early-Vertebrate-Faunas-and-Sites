@@ -3335,6 +3335,31 @@ Maisey, J. G., Bronson, A. W., Williams, R. R., & McKinzie, M. (2017). A Pennsyl
 
 McKinzie, M., & McLeod, J. (2003). *Pennsylvanian Fossils of North Texas*. Occasional Papers of the Dallas Paleontological Society, 6.
 
+Berman, D. S. (1993). Lower Permian vertebrate localities of New Mexico and their assemblages. *New Mexico Museum of Natural History and Science Bulletin*, 2, 11–21.
+
+Berman, D. S., Reisz, R. R., & Eberth, D. A. (1987). *Anconastes vesperus*, a new early Permian temnospondyl amphibian from New Mexico. *Annals of Carnegie Museum*, 56(2), 31–57.
+
+Berman, D. S., & Sumida, S. S. (1995). New cranial material of the rare diadectid *Desmatodon hesperis* (Diadectomorpha) from the Late Pennsylvanian of central Colorado. *Annals of Carnegie Museum*, 64(4), 315–336.
+
+Case, E. C. (1907). Revision of the Pelycosauria of North America. *Carnegie Institution of Washington Publication*, 55, 1–176.
+
+Eberth, D. A., & Brinkman, D. (1983). *Ruthiromia elcobriensis*, a new pelycosaur from El Cobre Canyon, New Mexico. *Breviora*, 474, 1–26.
+
+Ivanov, A. O., & Lucas, S. G. (2019). Late Paleozoic fish assemblages of New Mexico, USA. *Bulletin of Geosciences*, 94(1), 77–94.
+
+Jenkins, K. M., Meyer, D., & Bhullar, B.-A. S. (2023). Lost and Found: Redescription of *Chamasaurus dolichognathus* Williston 1915 from the Permo-Carboniferous of New Mexico. *Bulletin of the Peabody Museum of Natural History*, 64(1), 3–9. https://doi.org/10.3374/014.064.0101
+
+Lucas, S. G., Harris, S. K., Spielmann, J. A., Berman, D. S., & Henrici, A. C. (2005). Vertebrate biostratigraphy and biochronology of the Pennsylvanian–Permian Cutler Group, El Cobre Canyon, northern New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 31, 128–139.
+
+Romer, A. S. (1937). New genera and species of pelycosaurian reptiles. *Proceedings of the New England Zoölogical Club*, 16, 89–96.
+
+Romer, A. S., & Price, L. I. (1940). Review of the Pelycosauria. *Geological Society of America Special Paper*, 28, 1–538.
+
+Utting, J., & Lucas, S. G. (2010). Palynological investigation of the Upper Pennsylvanian (Carboniferous) El Cobre Canyon Formation, Cutler Group, Cañon del Cobre, Rio Arriba County, New Mexico, USA. *New Mexico Museum of Natural History and Science Bulletin*, 49, 71–74.
+
+Williston, S. W. (1911). A new family of reptiles from the Permian of New Mexico. *The American Journal of Science*, 31(185), 378–398.
+
+Williston, S. W. (1915). A new genus and species of American Theromorpha: *Mycterosaurus longiceps*. *The Journal of Geology*, 23(6), 554–559.
 
 
 
