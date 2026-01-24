@@ -1301,7 +1301,15 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Case, 1900; Cope, 1875; Cope, 1877a; Mann et al., 2025; Romer & Smith, 1934; Wier & Gray, 1961.
 > - **Comments**: Historically known as the "Danville Bonebed," interpreted as a freshwater to brackish paleochannel-fill deposit dominated by the ophiacodontid *Clepsydrops*. It contains the oldest known records of the diplocaulid *Diplocaulus* and potentially the oldest diadectids and captorhinids. The petalodont shark *Janassa* is likely reworked from associated marine beds. (Mann et al., 2025)
 
-#### LaSalle Limestone Member, Bond Formation, LaSalle County, Illinois, USA
+#### LaSalle Limestone Member, LaSalle and Livingston Counties, Illinois, USA
+> - **Age**: Kasimovian (Late Pennsylvanian, Missourian Stage). (Brusatte, 2007; Gieser et al., 2023)
+> - **Taxa**:
+>> - Chondrichthyes: *Deltodus angularis*, *Helodus* cf. *simplex*, *Heslerodus divergens*, *Ossianodus* sp., *Peripristis semicircularis*, *Petalodus ohioensis*. (Brusatte, 2007; Gieser et al., 2023)
+>> - Tetrapoda: Tetrapoda indet. (Phillips, 2000; Plotnick, 2019)
+> - **Locality and horizon**: Buzzi Unicem Quarry (formerly Lone Star Quarry), Oglesby (41.2955° N, 89.0595° W) and Wagner Stone Company Quarry, Pontiac; marine limestones and calcareous shales of the Bond Formation (LaSalle Limestone Member). (Brusatte, 2007; Plotnick, 2019)
+> - **References**: Brusatte, 2007; Gieser et al., 2023; Phillips, 2000; Plotnick, 2019.
+> - **Comments**: Shallow-marine algal-bank environment. The vertebrate fauna is dominated by isolated durophagous chondrichthyan teeth; rare tetrapod remains likely represent allochthonous material transported from adjacent terrestrial coal-swamp environments. (Brusatte, 2007; Gieser et al., 2023; Plotnick, 2019)
+
 #### Commentry Basin (Stephanian A), Allier Department, Auvergne-Rhône-Alpes, France
 #### Kosherovo Formation, Khamovnikian Regional Stage, Zhirnovsk Quarry, Volgograd  Region, Russia
 > - **Age**: Kasimovian
@@ -3152,6 +3160,7 @@ McComas, M. A. (1988). Upper Pennsylvanian compression floras of the 7-11 Mine, 
 Mindat. (n.d.). 7-11 Mine Clay-Ironstone Horizon, Columbiana County, Ohio, USA. Hudson Institute of Mineralogy. Retrieved January 24, 2025, from https://www.mindat.org/paleo_loc.php?id=43324
 
 Ohio Department of Natural Resources. (n.d.). Late Pennsylvanian: Life in Ancient Ohio.
+
 
 
 
