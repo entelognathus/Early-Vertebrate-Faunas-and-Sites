@@ -1326,6 +1326,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Condra & Dunbar, 1932; Heckel, 1975; Maisey, 1983; Pabian & Rushlau, 2002.
 > - **Comments**: The Kiewitz Shale represents a marine transgressive unit deposited in a shallow, warm epicontinental sea; the vertebrate fauna is dominated by fragmentary elasmobranch ichthyodorulites (spines) and dental elements; the unit includes the type locality of *Amelacanthus americanus*, and predation traces on associated trilobite fauna indicate an active trophic network involving nektonic predators. (Maisey, 1983; Pabian & Rushlau, 2002)
 
+#### Danville Bonebed (Horseshoe Bend), Vermilion County, Illinois, USA
+> - **Age**: Kasimovian (Missourian Series; Patoka Formation, Inglefield Sandstone Member). (Mann et al., 2024; DiMichele et al., 1996)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus quadriseriatus*, *Orthacanthus compressus* (syn. *Didymodus compressus*, *Diplodus compressus*), *Orthacanthus gracilis*, *Janassa* sp. (Cope, 1877; Newberry, 1856; Hussakof, 1911; Mann et al., 2024)
+>> - Sarcopterygii: *Sagenodus serratus* (syn. *Ctenodus pusillus*, *C. gurleyanus*), *Sagenodus paucicristatus*, *Gnathorhiza* sp., *Conchopoma* sp. (Cope, 1877; Romer & Smith, 1934; Mann et al., 2024)
+>> - Tetrapoda (Amphibia): *Diplocaulus salamandroides*, *Lysorophus tricarinatus* (syn. *Cocytinus*), *Cricotus heteroclitus*. (Cope, 1877; Case, 1900; Mann et al., 2024)
+>> - Tetrapoda (Amniota/Stem-Amniota): *Clepsydrops collettii*, *Clepsydrops vinslovii*, *Clepsydrops pedunculatus*, Diadectidae indet., Limnoscelidae indet., Captorhinidae indet. (Cope, 1875, 1877; Case, 1900; Mann et al., 2024)
+> - **Locality and horizon**: Horseshoe Bend cutbank on the Salt Fork of the Vermilion River, west of Danville (approx. N 40°07′, W 87°40′); paleochannel fill within the Inglefield Sandstone Member, Patoka Formation (McLeansboro Group). (Mann et al., 2024)
+> - **References**: Case, 1900; Cope, 1875, 1877; Hussakof, 1911; Mann et al., 2024; Newberry, 1856; Romer & Smith, 1934.
+> - **Comments**: A channel-fill deposit yielding a diverse assemblage of aquatic (xenacanth sharks, lungfish) and early terrestrial (diadectids, captorhinids) vertebrates; represents the earliest occurrence of diplocaulids and a “vanguard” of Permian-like taxa in the Late Pennsylvanian; classic locality and historical source of key taxa including *Clepsydrops* and *Diplocaulus salamandroides*. (Mann et al., 2024)
+
 #### Cherryvale shale, Kansas City Group, Kansas City, Missouri, USA
 > - **Age**: Kasimovian
 > - **Taxa**:
@@ -1361,7 +1372,8 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Hansen, 1986; Harper, 1990; Heckel et al., 2008; Lund, 1970; Lund, 1976; Merrill, 1974; Raymond, 1910.
 > - **Comments**: Interpreted as a transgressive marine unit (maximum flooding surface), traditionally termed the “Crinoidal Limestone”. Vertebrate remains are dominated by disarticulated chondrichthyan teeth and spines within limestones and associated calcareous shales. (Harper, 1990; Heckel et al., 2008)
 
-#### Danville Bonebed (Horseshoe Bend), Vermilion County, Illinois, USA
+
+
 #### Finis Shale, Jack County, Texas, USA
 #### El Cobre Canyon Formation (Lower Beds), Rio Arriba County, New Mexico, USA
 #### Halgaito Formation (Lower Interval), San Juan County, Utah, USA
@@ -3275,6 +3287,7 @@ Lund, R. (1976). General geology and vertebrate biostratigraphy of the Dunkard B
 Merrill, G. K. (1974). Pennsylvanian conodont localities in northeastern Ohio. *Ohio Division of Geological Survey Guidebook*, 3, 1–25.
 
 Raymond, P. E. (1910). A preliminary list of the fauna of the Allegheny and Conemaugh series in western Pennsylvania. *Annals of the Carnegie Museum*, 7, 144–158.
+
 
 
 
