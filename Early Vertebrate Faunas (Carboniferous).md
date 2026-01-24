@@ -3502,6 +3502,21 @@ Sotty, D. (1980). Le bassin houiller de Blanzy-Montceau. *BRGM Mémoires*, 101, 
 
 Werneburg, R. (2019). Dissorophoid amphibians from the Carboniferous–Permian boundary of France. *Semana*, 34, 11–51.
 
+Alvarado, A., & Menéndez Puget, L. (1931). Contribución al estudio del Carbonífero de Puertollano. *Boletín del Instituto Geológico y Minero de España*, 52, 1–1.
+
+Forey, P. L., & Young, V. T. (1985). Upper Carboniferous fish from Puertollano, Spain. *Palaeontology*, 28(2), 233–244.
+
+Laurin, M., & Soler-Gijón, R. (2001). The oldest stegocephalian from the Iberian Peninsula: evidence that temnospondyls were euryhaline. *Comptes Rendus de l'Académie des Sciences – Series III – Sciences de la Vie*, 324(5), 495–501. https://doi.org/10.1016/S0764-4469(01)01311-6
+
+Laurin, M., & Soler-Gijón, R. (2006). The oldest known stegocephalian from the Iberian Peninsula: evidence that temnospondyls were euryhaline. *Journal of Vertebrate Paleontology*, 26(2), 281–285. https://doi.org/10.1671/0272-4634(2006)26[2]281:TONSFT]2.0.CO;2
+
+Soler-Gijón, R. (1997b). *Orthacanthus meridionalis*, a new xenacanth shark (Elasmobranchii) from the Upper Carboniferous of the Puertollano basin, Spain. *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen*, 204(2), 141–169.
+
+Soler-Gijón, R. (1997c). Euselachian sharks from the Late Carboniferous of the Puertollano Basin, Spain: biostratigraphic and palaeoenvironmental implications. *Modern Geology*, 21, 137–169.
+
+Soler-Gijón, R., & Díez Ruiz, A. (2023). “Carbonífero de Puertollano” Natural Monument (Puertollano basin, Spain): a window for the knowledge of early vertebrates. *Spanish Journal of Palaeontology*, 38(1), 81–94. https://doi.org/10.7203/sjp.26864
+
+Soler-Gijón, R., & Moratalla, J. J. (2001). Fish and tetrapod trace fossils from the Upper Carboniferous of Puertollano, Spain. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 171(1–2), 1–28. https://doi.org/10.1016/S0031-0182(01)00216-1
 
 
 
