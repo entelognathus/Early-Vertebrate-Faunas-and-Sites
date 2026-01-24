@@ -3444,6 +3444,19 @@ Lucas, S. G., Barrick, J. E., Krainer, K., & Schneider, J. W. (2016). The Carbon
 
 Schneider, J. W., Lucas, S. G., & Krainer, K. (2004). Insect, eurypterid and conchostracan biostratigraphy of the Red Tanks Member, Bursum Formation (late Pennsylvanian), Carrizo Arroyo, New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 25, 1–12.
 
+Barnes, V. E. (1987). Geologic Atlas of Texas, Sherman Sheet. Bureau of Economic Geology, The University of Texas at Austin.
+
+DiMichele, W. A., Cecil, C. B., Chaney, D. S., Elrick, S. D., Lucas, S. G., Lupia, R., Nelson, W. J., & Tabor, N. J. (2011). Pennsylvanian–Permian vegetational changes in tropical Euramerica. In J. A. Harper (Ed.), *Geology of the Pennsylvanian–Permian in the Dunkard Basin: Guidebook, 76th Annual Field Conference of Pennsylvania Geologists* (pp. 60–102). Pennsylvania Geological Survey.
+
+Hentz, T. F. (1988). Lithostratigraphy and paleoenvironments of upper Paleozoic continental red beds, north-central Texas: Bowie (new) and Wichita (revised) Groups. *Bureau of Economic Geology Report of Investigations*, 170, 1–55.
+
+Hook, R. W. (1989). Stratigraphic distribution of tetrapods in the Bowie and Wichita Groups, Permo-Carboniferous of north-central Texas. *49th Annual Meeting of the Society of Vertebrate Paleontology*, Abstracts.
+
+Romer, A. S. (1963). The larger embolomerous amphibians of the American Carboniferous. *Bulletin of the Museum of Comparative Zoology*, 128(9), 415–454.
+
+Tabor, N. J., & Montañez, I. P. (2004). Morphology and stable isotope composition of Late Pennsylvanian and Early Permian paleosols of southeastern Pangea and their paleoenvironmental implications. *Sedimentology*, 51(2), 203–222. https://doi.org/10.1111/j.1365-3091.2004.00618.x
+
+Tabor, N. J., Montañez, I. P., & DiMichele, W. A. (2013). Paleosol-based estimations of Pennsylvanian–Permian temperatures and their relationship to the Late Paleozoic Ice Age. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 392, 524–540. https://doi.org/10.1016/j.palaeo.2013.10.005
 
 
 
