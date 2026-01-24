@@ -3038,6 +3038,11 @@ Zangerl, R. (1981). Chondrichthyes I: Paleozoic Elasmobranchii. In H. P. Schultz
 
 Zangerl, R., & Case, G. R. (1973). Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana: Geology Memoirs*, 6, 1–67.
 
+Heckel, P. H. (1977). Origin of phosphatic black shale facies in Pennsylvanian cyclothems of mid-continent North America. *AAPG Bulletin*, 61(7), 1045–1068.
+
+Maisey, J. G. (1983). Some Pennsylvanian chondrichthyan spines from Nebraska. *Transactions of the Nebraska Academy of Sciences*, 11, 81–84.
+
+Pabian, R. K., & Rushlau, W. J. (2002). Taphonomy and paleoecology of the Kiewitz Shale Bed (Stoner Limestone Member, Stanton Formation, Pennsylvanian, Missourian) in the lower Platte River Valley, Nebraska. *University of Nebraska State Museum Bulletin*, 13.
 
 
 
