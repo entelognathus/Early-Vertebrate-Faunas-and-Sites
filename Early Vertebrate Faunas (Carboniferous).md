@@ -1432,6 +1432,16 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: The Red Tanks Member preserves a diverse "Coyotean" vertebrate assemblage across the Late Pennsylvanian–Early Permian transition, characterized by a mixture of marine (petalodonts, primitive sharks), euryhaline, and terrestrial taxa (temnospondyls, pelycosaurs). Vertebrate fossils occur mainly in channel-lag conglomerates and pedogenic calcrete nodules within coastal plain deposits, whereas associated Lagerstätten horizons preserve plants and insects. Faunal composition varies among localities; for example, *Ophiacodon* and *Diplocaulus* are recorded at Abo Pass but absent from Lucero Uplift collections. (Harris et al., 2004; Lucas et al., 2016)
 
 #### Markley Formation, Clay County, Texas, USA
+> - **Age**: Gzhelian to Asselian (Barnes, 1987; Hentz, 1988; Tabor & Montañez, 2004)
+> - **Taxa**:
+>> - Tetrapoda: *Neopteroplax* sp., *Edops* sp., *Eryops* sp. (cf. *E. megacephalus*), *Ophiacodon* sp., *Archeria* sp. (cf. *A. crassidisca*), *Diadectes* sp. (cf. *D. sideropelicus*). (Romer, 1963; Hook, 1989)
+>> - Chondrichthyes: *Xenacanthus* sp., *Orthacanthus texensis*, *Orthacanthus compressus*. (Hook, 1989)
+>> - Sarcopterygii: *Ectosteorhachis nitidus*, *Sagenodus* sp. (Romer, 1963; Hook, 1989)
+>> - Actinopterygii: indeterminate palaeoniscoids. (Hook, 1989)
+> - **Locality and horizon**: Southern Clay County, northeastern Young County, and adjacent Jack and Montague Counties, Texas. Vertebrate occurrences are restricted to abandoned channel-fill mudstones and organic-rich lenses associated with 15 informal sandstone members (ss1–ss15), notably at the Prideaux Pocket (Young County equivalent) and localities near Lake Arrowhead Dam. (Barnes, 1987; Hentz, 1988)
+> - **References**: Barnes, 1987; DiMichele et al., 2011; Hentz, 1988; Hook, 1989; Romer, 1963; Tabor & Montañez, 2004; Tabor et al., 2013.
+> - **Comments**: The Markley Formation represents the basal, predominantly continental unit of the Bowie Group and a key lithostratigraphic bridge across the Pennsylvanian–Permian boundary in North-Central Texas. It records a transition from Late Carboniferous perhumid coal-swamp ecosystems to increasingly seasonal and arid Early Permian environments. Sedimentologically, the formation comprises ~15 cyclic packages, each typically including a basal paleosol, kaolinite-rich siltstone, localized organic-rich shales or subbituminous coals (e.g., Newcastle Coal), and overlying multistory fluvial sandstones up to ~50 ft thick. The vertebrate record is sparse relative to the overlying Archer City and Nocona formations, likely reflecting high-energy fluvial regimes and acidic soil conditions unfavorable for fossil preservation. Nevertheless, the fauna is evolutionarily significant: the occurrence of the embolomere *Neopteroplax* documents the final persistence of archaic Carboniferous aquatic tetrapod lineages, whereas the appearance of *Ophiacodon* and *Eryops* in the upper Markley signals the emergence of typical Wolfcampian “Red Bed” faunas. This turnover reflects a fundamental restructuring of tropical ecosystems during the waning of the Late Paleozoic Ice Age and the early radiation of Permian synapsids and temnospondyls. (DiMichele et al., 2011; Tabor & Montañez, 2004; Tabor et al., 2013)
+
 #### Montceau-les-Mines, Saône-et-Loire, France
 #### Puertollano Basin, Ciudad Real, Spain
 #### Kounov Member, Central Bohemian Region, Czech Republic
@@ -3433,6 +3443,7 @@ Krainer, K., & Lucas, S. G. (2004). The Upper Pennsylvanian Red Tanks Member of 
 Lucas, S. G., Barrick, J. E., Krainer, K., & Schneider, J. W. (2016). The Carboniferous–Permian boundary at Carrizo Arroyo, central New Mexico, USA. *New Mexico Museum of Natural History and Science Bulletin*, 72, 1–15.
 
 Schneider, J. W., Lucas, S. G., & Krainer, K. (2004). Insect, eurypterid and conchostracan biostratigraphy of the Red Tanks Member, Bursum Formation (late Pennsylvanian), Carrizo Arroyo, New Mexico. *New Mexico Museum of Natural History and Science Bulletin*, 25, 1–12.
+
 
 
 
