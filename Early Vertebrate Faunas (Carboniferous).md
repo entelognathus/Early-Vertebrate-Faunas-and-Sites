@@ -3470,6 +3470,27 @@ Tabor, N. J., & Montañez, I. P. (2004). Morphology and stable isotope compositi
 
 Tabor, N. J., Montañez, I. P., & DiMichele, W. A. (2013). Paleosol-based estimations of Pennsylvanian–Permian temperatures and their relationship to the Late Paleozoic Ice Age. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 392, 524–540. https://doi.org/10.1016/j.palaeo.2013.10.005
 
+Civet, C. (1982). Étude d'un nouvel amphibien fossile du bassin houiller de Montceau-les-Mines, *Scincosaurus spinosus* nov. sp. *La Physiophile*, 96, 73–79.
+
+Dutuit, J. M., & Heyler, D. (1994). Rachitomes, Lépospondyles et Reptiles du Stéphanien (Carbonifère supérieur) du bassin de Montceau-les-Mines (Massif central, France). *Mémoires de la Section des Sciences*, 12, 249–266.
+
+Heyler, D. (1977). Sur *Bourbonnella sottyi*, un nouvel Aeduellidae (poisson Actinoptérygien). Stéphanien du Bassin de Blanzy-Montceau. *Compte Rendu sommaire de la Société Géologique de France*, 1, 21–23.
+
+Heyler, D., & Poplin, C. (1988). The fossils of Montceau-les-Mines. *Scientific American*, 259(3), 70–76.
+
+Heyler, D., & Poplin, C. (1994). Les poissons de Montceau-les-Mines. In C. Poplin & D. Heyler (Eds.), *Quand le Massif Central était sous l'équateur: un écosystème Carbonifère à Montceau-les-Mines* (pp. 205–222). Éditions du CTHS.
+
+Olive, S., Clément, G., & Pouillon, J. M. (2012). First occurrence of the lungfish *Sagenodus* (Dipnoi, Sarcopterygii) from the Carboniferous Lagerstätte of Montceau-les-Mines, France. *Journal of Vertebrate Paleontology*, 32(2), 285–295. https://doi.org/10.1080/02724634.2012.637504
+
+Perrier, V., & Charbonnier, S. (2014). The Montceau-les-Mines Lagerstätte (Late Carboniferous, France). *Comptes Rendus Palevol*, 13(5), 353–367. https://doi.org/10.1016/j.crpv.2014.03.001
+
+Poplin, C. (2001). Le genre *Bourbonnella* (Actinopterygii, Aeduellidae): révision et description d'une nouvelle espèce du Stéphanien (Carbonifère supérieur) de Montceau-les-Mines (Massif Central, France). *Annales de Paléontologie*, 87(4), 231–248. https://doi.org/10.1016/S0753-3969(01)80012-4
+
+Poplin, C., Sotty, D., & Janvier, P. (2001). A myxinid (Craniata: Hyperotreti) from the Upper Carboniferous of France. *Nature*, 411(6841), 1047–1050. https://doi.org/10.1038/35082562
+
+Sotty, D. (1980). Le bassin houiller de Blanzy-Montceau. *BRGM Mémoires*, 101, 1–246.
+
+Werneburg, R. (2019). Dissorophoid amphibians from the Carboniferous–Permian boundary of France. *Semana*, 34, 11–51.
 
 
 
