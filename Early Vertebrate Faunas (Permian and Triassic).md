@@ -218,7 +218,7 @@
 > - **Comments**:
 
 #### Nocona Formation, Texas, USA
-> - **Age**: Sakmarian, Cisuralian (Early Permian).
+> - **Age**: Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Chondrichthyes: *Barbclabornia luedersensis*, *Xenacanthus* sp. (Johnson, 2003; Johnson, 2013).
 >> - Osteichthyes: *Paleoniscum* sp., *Acrolepis* sp., *Ectosteorhachis* sp., *Bourbonnella* sp. (Dunkle, 1946; Sander, 1987).
@@ -230,7 +230,7 @@
 > - **Comments**: 
 
 #### Tambach Formation, Thuringian Forest, Germany
-> - **Age**: Sakmarian, Cisuralian (Early Permian).
+> - **Age**: Sakmarian, Cisuralian, Permian.
 > - **Taxa**:
 >> - Amphibia: *Georgenthalia clavinasica*, *Diadectes absitus*, *Diadectes dreigleichenensis*, *Orobates pabsti*.
 >> - Amniota incertae sedis: *Eudibamus cursoris*.
@@ -258,6 +258,15 @@
 > - **Taxa**:Chondrichthyans (*Dwykaselachus oosthuizeni*)
 > - **Locality and horizon**: Prince Albert Shale Formation,  Cape Province, South Africa
 > - **References**: (Maisey, 2007)
+> - **Comments**: 
+
+#### Whitehill Formation,  Ecca Group, Namibia and South Africa
+> - **Age**: Artinskian to Kungurian，Cisuralian, Permian.
+> - **Taxa**:
+>> - Reptiles: Mesosaurus tenuidens; Noteosaurus africanusStereosternum tumidum
+>> - Fish: Palaeoniscum capensis, Watsonichthys lotzi
+> - **Locality and horizon**:
+> - **References**:
 > - **Comments**: 
 
 #### Lueders Formation, north-central Texas, USA
@@ -3856,6 +3865,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
 <img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" 
+
 
 
 
