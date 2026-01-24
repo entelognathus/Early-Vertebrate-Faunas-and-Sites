@@ -3313,6 +3313,17 @@ Newberry, J. S. (1856). Description of several new genera and species of fossil 
 
 Romer, A. S., & Smith, H. J. (1934). American Carboniferous dipnoans. *The Journal of Geology*, 42(7), 700–719.
 
+Boardman, D. R., Work, D. M., Mapes, R. H., & Barrick, J. E. (1994). Biostratigraphy of Middle and Late Pennsylvanian (Desmoinesian–Virgilian) ammonoids. *Kansas Geological Survey Bulletin*, 232, 1–121.
+
+Dalquest, W. W., Kocurko, M. J., & Grimes, J. V. (1993). *Physonemus mirabilis* (Chondrichthyes) from the Upper Pennsylvanian of Texas. *Texas Journal of Science*, 45(2), 182–184.
+
+Itano, W. M., & Lucas, S. G. (2018). A revision of *Campyloprion* Eastman, 1902 (Chondrichthyes, Helicoprionidae), including new occurrences from the Upper Pennsylvanian of New Mexico and Texas, USA. *Acta Geologica Polonica*, 68(3), 403–419. https://doi.org/10.1515/agp-2018-0007
+
+Ivanov, A. O., & Seuss, B. (2024). Late Pennsylvanian fishes from the Finis Shales of North-Central Texas (USA). *Paläontologische Zeitschrift*, 98(1), 1–19. https://doi.org/10.1007/s12542-023-00679-1
+
+Maisey, J. G., Bronson, A. W., Williams, R. R., & McKinzie, M. (2017). A Pennsylvanian “supershark” from Texas. *Journal of Vertebrate Paleontology*, 37(3), e1325369. https://doi.org/10.1080/02724634.2017.1325369
+
+McKinzie, M., & McLeod, J. (2003). *Pennsylvanian Fossils of North Texas*. Occasional Papers of the Dallas Paleontological Society, 6.
 
 
 
