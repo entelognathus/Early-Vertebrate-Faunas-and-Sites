@@ -1312,10 +1312,11 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 
 #### Kosherovo Formation, Khamovnikian Regional Stage, Zhirnovsk Quarry, Volgograd  Region, Russia
 > - **Age**: Kasimovian
-> - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
-> - **Locality and horizon**: Zhirnovsk Quarry, Volgograd  Region, Russia
-> - **References**:(Ivanov, 2022)
-> - **Comments**:
+> - **Taxa**:
+>> - Chondrichthyes: *Gzhelodus serratus*, *Karpinskiprion* sp. (syn. *Campyloprion* sp.). (Petukhov et al., 2011; Lebedev & Itano, 2021; Ivanov, 2022)
+> - **Locality and horizon**: Melnichniy ravine, right bank of the Medveditsa River, near Zhirnovsk; limestones and dolomites interbedded with yellowish-green montmorillonite clays. (Petukhov et al., 2011; Ivanov, 2022)
+> - **References**: Ivanov, 2022; Lebedev & Itano, 2021; Petukhov et al., 2011.
+> - **Comments**: The Zhirnovsk section (Khamovnikian) contains a vertebrate assemblage often compared to the younger Gzhelian Kosherovo Formation; it yielded the earliest record of the eugeneodontid *Karpinskiprion* in Russia and the holotype of the protacrodontid *Gzhelodus serratus*. (Petukhov et al., 2011; Ivanov, 2022)
 
 #### Kiewitz Shale Member, Stoner Limestone Frmation, Cass and Sarpy counties, Nebraska, USA
 > - **Age**: Kasimovian (Missourian)
@@ -3188,6 +3189,7 @@ Schneider, J. W., Lucas, S. G., Werneburg, R., & Rößler, R. (2010). Euramerica
 Thevenin, A. (1906). Les plus anciens quadrupèdes de France. *Annales de Paléontologie*, 1, 1–65.
 
 Werneburg, R. (2019). Dissorophoid amphibians from the Carboniferous–Permian boundary of France. *Bulletin de la Société Géologique de France*, 190(1). https://doi.org/10.1051/bsgf/2019003
+
 
 
 
