@@ -1372,8 +1372,6 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Hansen, 1986; Harper, 1990; Heckel et al., 2008; Lund, 1970; Lund, 1976; Merrill, 1974; Raymond, 1910.
 > - **Comments**: Interpreted as a transgressive marine unit (maximum flooding surface), traditionally termed the “Crinoidal Limestone”. Vertebrate remains are dominated by disarticulated chondrichthyan teeth and spines within limestones and associated calcareous shales. (Harper, 1990; Heckel et al., 2008)
 
-
-
 #### Finis Shale Member (Graham Formation), Jacksboro, Jack County, Texas, USA
 > - **Age**: Gzhelian (*Shumardites cuyleri* Subzone of the *Shumardites* Zone). (Boardman et al., 1994; Ivanov & Seuss, 2024)
 > - **Taxa**:
@@ -1385,6 +1383,18 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: A shallowing-upwards cyclothem dominated by dark marine shales; fauna includes diverse marine invertebrates (ammonoids, crinoids, gastropods) and a rich assemblage of shark microremains dominated by *Bransonella*. Occipital braincases indicate the presence of gigantic ctenacanthiform sharks reaching ~7 m in total length. (Ivanov & Seuss, 2024; Maisey et al., 2017)
 
 #### El Cobre Canyon Formation (Lower Beds), Rio Arriba County, New Mexico, USA
+> - **Age**: Gzhelian (Virgilian Series). (Lucas et al., 2005; Utting & Lucas, 2010)
+> - **Taxa**:
+>> - Chondrichthyes: *Orthacanthus* cf. *texensis*. (Ivanov & Lucas, 2019)
+>> - Sarcopterygii: *Sagenodus* sp., *Gnathorhiza* sp. (Berman, 1993; Lucas et al., 2005)
+>> - Amphibia: *Anconastes vesperus*, *Eryops* sp., *Chenoprosopus* cf. *C. milleri*. (Berman et al., 1987; Lucas et al., 2005)
+>> - Reptiliomorpha: *Limnoscelis paludis*, *Desmatodon hesperis* (syn. *D.* aff. *hollandi*), *Diasparactus zenos* (likely lower strata), *Anthracosauria* indet. (Williston, 1911; Berman & Sumida, 1995; Lucas et al., 2005)
+>> - Reptilia: *Chamasaurus dolichognathus*. (Williston, 1915; Jenkins et al., 2023)
+>> - Synapsida: *Ophiacodon navajovicus*, *Aerosaurus greenleeorum*, *Baldwinonus trux*, *Ruthiromia elcobriensis*, *Nitosaurus jacksonorum*, *Edaphosaurus novomexicanus*. (Case, 1907; Romer, 1937; Romer & Price, 1940; Eberth & Brinkman, 1983; Lucas et al., 2005)
+> - **Locality and horizon**: Classic collecting localities on the canyon floor and lower walls of El Cobre Canyon (Cañon del Cobre); coarse arkosic sandstones and brown siltstones of the lower El Cobre Canyon Formation. (Lucas et al., 2005)
+> - **References**: Berman, 1993; Berman et al., 1987; Berman & Sumida, 1995; Case, 1907; Eberth & Brinkman, 1983; Ivanov & Lucas, 2019; Jenkins et al., 2023; Lucas et al., 2005; Romer, 1937; Romer & Price, 1940; Utting & Lucas, 2010; Williston, 1911; Williston, 1915.
+> - **Comments**: Type locality of the Cobrean Land Vertebrate Faunachron (LVF). The fauna represents a Late Pennsylvanian lowland ecosystem dominated by the large diadectomorph *Limnoscelis* and the primitive pelycosaur *Ophiacodon navajovicus*. This assemblage is stratigraphically distinct from the overlying Early Permian (Coyotean) fauna characterized by *Sphenacodon ferox*. (Lucas et al., 2005)
+
 #### Halgaito Formation (Lower Interval), San Juan County, Utah, USA
 #### Snyderville Shale, Greenwood County, Kansas, USA
 #### Red Tanks Member, Bursum Formation, Socorro County, New Mexico, USA
@@ -3324,6 +3334,7 @@ Ivanov, A. O., & Seuss, B. (2024). Late Pennsylvanian fishes from the Finis Shal
 Maisey, J. G., Bronson, A. W., Williams, R. R., & McKinzie, M. (2017). A Pennsylvanian “supershark” from Texas. *Journal of Vertebrate Paleontology*, 37(3), e1325369. https://doi.org/10.1080/02724634.2017.1325369
 
 McKinzie, M., & McLeod, J. (2003). *Pennsylvanian Fossils of North Texas*. Occasional Papers of the Dallas Paleontological Society, 6.
+
 
 
 
