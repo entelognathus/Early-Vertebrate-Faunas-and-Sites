@@ -1442,7 +1442,19 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Barnes, 1987; DiMichele et al., 2011; Hentz, 1988; Hook, 1989; Romer, 1963; Tabor & Montañez, 2004; Tabor et al., 2013.
 > - **Comments**: The Markley Formation represents the basal, predominantly continental unit of the Bowie Group and a key lithostratigraphic bridge across the Pennsylvanian–Permian boundary in North-Central Texas. It records a transition from Late Carboniferous perhumid coal-swamp ecosystems to increasingly seasonal and arid Early Permian environments. Sedimentologically, the formation comprises ~15 cyclic packages, each typically including a basal paleosol, kaolinite-rich siltstone, localized organic-rich shales or subbituminous coals (e.g., Newcastle Coal), and overlying multistory fluvial sandstones up to ~50 ft thick. The vertebrate record is sparse relative to the overlying Archer City and Nocona formations, likely reflecting high-energy fluvial regimes and acidic soil conditions unfavorable for fossil preservation. Nevertheless, the fauna is evolutionarily significant: the occurrence of the embolomere *Neopteroplax* documents the final persistence of archaic Carboniferous aquatic tetrapod lineages, whereas the appearance of *Ophiacodon* and *Eryops* in the upper Markley signals the emergence of typical Wolfcampian “Red Bed” faunas. This turnover reflects a fundamental restructuring of tropical ecosystems during the waning of the Late Paleozoic Ice Age and the early radiation of Permian synapsids and temnospondyls. (DiMichele et al., 2011; Tabor & Montañez, 2004; Tabor et al., 2013)
 
-#### Montceau-les-Mines, Saône-et-Loire, France
+#### Assise de Montceau, Montceau-les-Mines, Saône-et-Loire, France
+> - **Age**: Gzhelian to possible Gzhelian/Asselian transition (Perrier & Charbonnier, 2014; Werneburg, 2019)
+> - **Taxa**:
+>> - Cyclostomi: *Myxineidus gonorum*. (Poplin et al., 2001; Perrier & Charbonnier, 2014)
+>> - Chondrichthyes: *Orthacanthus* sp., *Xenacanthus* sp., *Triodus* sp., *Hamiltonichthys* sp., *Expleuracanthus* sp. (Heyler & Poplin, 1988; Heyler & Poplin, 1994; Luccisano et al., 2021)
+>> - Acanthodii: *Acanthodes* sp. (Heyler & Poplin, 1988; Perrier & Charbonnier, 2014)
+>> - Actinopterygii: *Bourbonnella sottyi*, *Bourbonnella fourrieri*, *Platysella descusi*, *Igornella montcellensis*, *Blanzyhaplolepis beckaryae*, *Elonichthys* sp. (Heyler, 1977; Heyler & Poplin, 1994; Poplin, 2001; Perrier & Charbonnier, 2014)
+>> - Sarcopterygii: *Sagenodus* sp. (Olive et al., 2012)
+>> - Tetrapoda: *Montceaubatrachus platyrhynchus*, *Micromelerpeton boyi*, *Nyranerpeton montceauense*, *Branchiosaurus petrolei*, *Montcellia longidentata*, *Sauravus costei*, *Sauravus spinosus*, *Phlegethontia* sp., *Actinodon* sp. (Dutuit & Heyler, 1994; Werneburg, 2019)
+> - **Locality and horizon**: Saint-Louis pit (46°41′25″N, 4°22′32″E), Saint-François quarry (46°40′17″N, 4°20′50″E), and Sainte-Hélène; “Couche à nodules” (nodule layer), ~20 m above the First Seam (Couche 1) in the Assise de Montceau. (Sotty, 1980; Perrier & Charbonnier, 2014; Mindat, 2026)
+> - **References**: Civet, 1982; Dutuit & Heyler, 1994; Heyler, 1977; Heyler & Poplin, 1988; Heyler & Poplin, 1994; Olive et al., 2012; Perrier & Charbonnier, 2014; Poplin, 2001; Poplin et al., 2001; Sotty, 1980; Werneburg, 2019.
+> - **Comments**: A Konservat-Lagerstätte characterized by three-dimensional preservation of soft tissues (digestive tracts, muscles, branchial structures) within sideritic nodules and flattened remains in shales. Preservation resulted from rapid burial in fine anoxic mud followed by early siderite precipitation and phosphatization. (Perrier & Charbonnier, 2014; Werneburg, 2019)
+
 #### Puertollano Basin, Ciudad Real, Spain
 #### Kounov Member, Central Bohemian Region, Czech Republic
 #### Semily Formation, Hradec Králové Region, Czech Republic
@@ -3457,6 +3469,7 @@ Romer, A. S. (1963). The larger embolomerous amphibians of the American Carbonif
 Tabor, N. J., & Montañez, I. P. (2004). Morphology and stable isotope composition of Late Pennsylvanian and Early Permian paleosols of southeastern Pangea and their paleoenvironmental implications. *Sedimentology*, 51(2), 203–222. https://doi.org/10.1111/j.1365-3091.2004.00618.x
 
 Tabor, N. J., Montañez, I. P., & DiMichele, W. A. (2013). Paleosol-based estimations of Pennsylvanian–Permian temperatures and their relationship to the Late Paleozoic Ice Age. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 392, 524–540. https://doi.org/10.1016/j.palaeo.2013.10.005
+
 
 
 
