@@ -1345,6 +1345,14 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: Interpreted as deposits of a meandering fluvial system under seasonally arid climatic conditions; *Erpetonyx* represents the oldest definitive parareptile record globally and the only described vertebrate body fossil from this unit, contrasting with an abundant ichnofauna (e.g., *Dimetropus*, *Ichniotherium*) documented from the same stratigraphic interval. (Modesto et al., 2015)
 
 #### Skelley Limestone, Noble County, Ohio, USA
+> - **Age**: Gzhelian (Late Pennsylvanian; Virgilian Series). (Cline, 2022; Cline et al., 2023)
+> - **Taxa**:
+>> - Chondrichthyes: *Adamantina foliacea*, *Agassizodus* sp., *Cooleyella* sp., *Deltodus* sp., *Denaea saltsmani*, *Diablodontus* sp., *Glikmanius myachkovensis*, *Helodus* sp., *Heslerodus divergens*, *Ossianodus nebraskensis* (syn. “*Maiseyodus johnsoni*”), *Petalodus ohioensis*, *Protacrodus* sp., *Sphenacanthus* sp., *Stethacanthus* sp. (Cline, 2022; Cline et al., 2023; Hansen, 1986)
+>> - Actinopterygii: Palaeonisciformes indet., Platysomidae indet. (Cline, 2022; Cline et al., 2023)
+> - **Locality and horizon**: Roadcut exposure along Interstate-77 near Mile Marker 33.5 (39.85389° N, 81.54449° W), North Caldwell Quadrangle; Skelley Limestone Member of the Casselman Formation, Conemaugh Group. (Cline, 2022)
+> - **References**: Cline, 2022; Cline et al., 2023; Ginter, 2016; Hansen, 1986; St. John, 2017.
+> - **Comments**: Interpreted as deposits of the terminal marine transgression in the Appalachian Basin; the vertebrate assemblage is dominated by diverse micro-chondrichthyans recovered via acid maceration, indicating a nearshore marine environment with complex trophic structures including durophagous and piscivorous guilds. (Cline, 2022; Cline et al., 2023)
+
 #### Ames Limestone, Allegheny County, Pennsylvania, USA
 #### Danville Bonebed (Horseshoe Bend), Vermilion County, Illinois, USA
 #### Finis Shale, Jack County, Texas, USA
@@ -3236,6 +3244,7 @@ Koot, M. B., Cuny, G., Tintori, A., & Twitchett, R. J. (2013). A new diverse sha
 Wilimovsky, N. J. (1954). *Gunnellodus*, a new name for *Idiacanthus* Gunnell. *Journal of Paleontology*, 28(5), 693.
 
 Modesto, S. P., Scott, D. M., MacDougall, M. J., Sues, H.-D., Evans, D. C., & Reisz, R. R. (2015). The oldest parareptile and the early diversification of reptiles. *Proceedings of the Royal Society B: Biological Sciences*, 282(1801), 20141912. https://doi.org/10.1098/rspb.2014.1912
+
 
 
 
