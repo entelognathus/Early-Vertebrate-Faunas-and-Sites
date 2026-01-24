@@ -1280,7 +1280,17 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Berman, 1973; Hodnett & Lucas, 2021; Hodnett et al., 2021; Hunt et al., 1996; Lucas et al., 2011; Stack et al., 2021; Werneburg et al., 2021; Zidek, 1975, 1992.
 > - **Comments**: A Konservat-Lagerstätte representing a restricted marine embayment or estuary with significant freshwater input; preserves soft tissues (cololites, pigment) and articulated skeletons. (Hodnett & Lucas, 2021)
 
-#### Lower Conemaugh Group, Missourian Stage, 7-11 Mine, Columbiana County, Ohio, USA
+#### Lower Conemaugh Group, 7-11 Mine, Columbiana County, Ohio, USA
+> - **Age**: Kasimovian (Late Pennsylvanian, Missourian Stage). (McComas, 1988; Easterday, 2004; Falcon-Lang et al., 2011)
+> - **Taxa**:
+>> - Chondrichthyes: *Xenacanthus* sp., *Sphenacanthus* sp., *Orthacanthus* sp., *Orthacanthus compressus*, *Helodus* sp., *Petalodus ohioensis*, *Petalodus* sp. (McComas, 1988; Hansen, 1986; Falcon-Lang et al., 2011; Mindat, n.d.)
+>> - Actinopterygii: *Elonichthys* sp., Palaeonisciformes indet. (McComas, 1988; Mindat, n.d.)
+>> - Sarcopterygii: Dipnoi indet., *Coelacanthus* sp. (McComas, 1988)
+>> - Tetrapoda: *Edaphosaurus* sp., *Clepsydrops magnus*, *Desmatodon hollandi*, *Ophiacodon* sp., *Eryops* sp. (cf. *Glaukerpeton*). (Easterday, 2004; Falcon-Lang et al., 2011; Heckel et al., 2011; Mindat, n.d.)
+> - **Locality and horizon**: 7-11 Mine, Madison Township, Columbiana County, Ohio (40.6811° N, 80.6412° W); Lower Conemaugh Group, dark argillaceous freshwater shales and the overlying Brush Creek marine unit. (McComas, 1988; Easterday, 2004)
+> - **References**: Easterday, 2004; Falcon-Lang et al., 2011; Hansen, 1986; Heckel et al., 2011; McComas, 1988; Mindat, n.d.; Ohio Department of Natural Resources, n.d.
+> - **Comments**: Records a transition from freshwater incised-valley fill to marine transgression. Freshwater shales yield xenacanth sharks (*Orthacanthus*, *Xenacanthus*), lungfish, and palaeoniscids (*Elonichthys*), with terrestrial tetrapods (*Edaphosaurus*, *Desmatodon*) transported from adjacent dryland environments. The overlying Brush Creek marine unit yields marine petalodont sharks (*Petalodus*). The site documents the coexistence of wetland and dryland biotas during the Desmoinesian–Missourian aridification trend. (McComas, 1988; Falcon-Lang et al., 2011)
+
 #### Inglefield Sandstone Member, Patoka Formation, Horseshoe Bend, Vermilion County, Illinois, USA
 > - **Age**: Early Kasimovian (Early Missourian, Late Pennsylvanian). (Mann et al., 2025; Wier & Gray, 1961)
 > - **Taxa**:
@@ -3128,6 +3138,7 @@ Mann, A., Nelson, W. J., Hook, R. W., & Elrick, S. D. (2025). The lost Permo-Car
 Romer, A. S., & Smith, H. J. (1934). American Carboniferous dipnoans. *The Journal of Geology*, 42(7), 700–719.
 
 Wier, C. E., & Gray, H. H. (1961). Geologic map of the Indianapolis 1° × 2° Quadrangle, Indiana and Illinois, showing bedrock and unconsolidated deposits. *Indiana Geological Survey Regional Geologic Map*, 1.
+
 
 
 
