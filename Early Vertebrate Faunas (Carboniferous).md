@@ -3288,6 +3288,21 @@ Merrill, G. K. (1974). Pennsylvanian conodont localities in northeastern Ohio. *
 
 Raymond, P. E. (1910). A preliminary list of the fauna of the Allegheny and Conemaugh series in western Pennsylvania. *Annals of the Carnegie Museum*, 7, 144–158.
 
+Case, E. C. (1900). The vertebrates from the Permian bone bed of Vermilion County, Illinois. *The Journal of Geology*, 8(8), 698–729.
+
+Cope, E. D. (1875). On the fossil remains of Reptilia and fishes from Illinois. *Proceedings of the Academy of Natural Sciences of Philadelphia*, 27, 404–411.
+
+Cope, E. D. (1877). On the Vertebrata of the Bone Bed of Eastern Illinois. *Proceedings of the American Philosophical Society*, 17, 52–63.
+
+DiMichele, W. A., et al. (1996). Lithologic composition of the Carbondale and lower Modesto Formations of the Illinois Basin. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 125, 105–128.
+
+Hussakof, L. (1911). The Permian fishes of North America. *Carnegie Institution of Washington Publication*, 146, 155–175.
+
+Mann, A., Nelson, W. J., Hook, R. W., & Elrick, S. D. (2024). The lost Permo-Carboniferous vertebrate deposit of Horseshoe Bend near Danville, Vermilion County, Illinois. *Journal of Paleontology*, 98(5), 838–854. https://doi.org/10.1017/jpa.2024.30
+
+Newberry, J. S. (1856). Description of several new genera and species of fossil fishes, from the Carboniferous strata of Ohio. *Proceedings of the Academy of Natural Sciences of Philadelphia*, 8, 96–100.
+
+Romer, A. S., & Smith, H. J. (1934). American Carboniferous dipnoans. *The Journal of Geology*, 42(7), 700–719.
 
 
 
