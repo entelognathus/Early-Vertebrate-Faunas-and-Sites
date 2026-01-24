@@ -3198,6 +3198,13 @@ Lebedev, O. A., & Itano, W. M. (2021). Tooth whorl structure, growth and functio
 
 Petukhov, S. V., Petrov, G. S., & Pakhomov, I. O. (2011). First record of Eugeneodontiformes (Chondrichthyes) in the Middle Carboniferous of the Lower Volga region. In *Paleostrat-2011: Annual Meeting of the Paleontological Section of the Moscow Society of Naturalists* (pp. 54–55). Paleontological Institute.
 
+Condra, G. E., & Dunbar, C. O. (1932). The stratigraphy of Nebraska. *Nebraska Geological Survey Bulletin*, *5*, 1–188.
+
+Heckel, P. H. (1975). Stratigraphy and depositional framework of the Stanton Formation in southeastern Kansas. *Kansas Geological Survey Bulletin*, *210*, 1–45.
+
+Maisey, J. G. (1983). Some Pennsylvanian chondrichthyan spines from Nebraska. *Transactions of the Nebraska Academy of Sciences*, *11*, 81–84.
+
+Pabian, R. K., & Rushlau, W. J. (2002). Taphonomy and paleoecology of the crinoid fauna from the Kiewitz Shale Bed, Stoner Limestone Member, Stanton Formation (Late Pennsylvanian, Missourian), in the lower Platte River Valley, Cass and Sarpy Counties, Nebraska. *Nebraska Geological Survey Paper*, *20*, 1–35.
 
 
 
