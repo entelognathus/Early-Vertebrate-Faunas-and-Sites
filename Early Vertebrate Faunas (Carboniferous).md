@@ -3117,6 +3117,17 @@ Zidek, J. (1975). Some fishes of the Wild Cow Formation (Pennsylvanian), Manzani
 
 Zidek, J. (1992). Late Pennsylvanian Chondrichthyes, Acanthodii, and deep-bodied Actinopterygii from the Kinney Quarry, Manzanita Mountains, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Bulletin*, 138, 145–182.
 
+Case, E. C. (1900). The vertebrates from the Permian bone bed of Vermilion County, Illinois. *The Journal of Geology*, 8(8), 693–729.
+
+Cope, E. D. (1875). On fossil remains of Reptilia and fishes from Illinois. *Proceedings of the Academy of Natural Sciences of Philadelphia*, 27, 404–411.
+
+Cope, E. D. (1877a). Descriptions of extinct Vertebrata from the Permian and Triassic formations of the United States. *Proceedings of the American Philosophical Society*, 17(100), 182–193.
+
+Mann, A., Nelson, W. J., Hook, R. W., & Elrick, S. D. (2025). The lost Permo-Carboniferous vertebrate deposit of Horseshoe Bend near Danville, Vermilion County, Illinois. *Journal of Paleontology*, 98(5), 838–854. https://doi.org/10.1017/jpa.2024.30
+
+Romer, A. S., & Smith, H. J. (1934). American Carboniferous dipnoans. *The Journal of Geology*, 42(7), 700–719.
+
+Wier, C. E., & Gray, H. H. (1961). Geologic map of the Indianapolis 1° × 2° Quadrangle, Indiana and Illinois, showing bedrock and unconsolidated deposits. *Indiana Geological Survey Regional Geologic Map*, 1.
 
 
 
