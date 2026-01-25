@@ -3689,6 +3689,17 @@ Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European R
 
 Lebedev, O. A., & Itano, W. M. (2022). Tooth whorl structure, growth and function in a helicoprionid chondrichthyan *Karpinskiprion* nom. nov. (Eugeneodontiformes), with a revision of the family composition. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *113*(1–2), 1–19. https://doi.org/10.1017/S175569102200003X
 
+Chahud, A., & Petri, S. (2012). The euselachian type of tooth-bases in Paleozoic chondrichthyans. In V. Hairapetian & M. Ginter (Eds.), *Devonian Vertebrates of the Continental Margins* (pp. 11–12). *Ichthyolith Issues*, Special Publication 8.
+
+Derby, O. A. (1877). Contribuição para a geologia da região do baixo Amazonas. *Archivos do Museu Nacional do Rio de Janeiro*, 2, 77–104.
+
+Duffin, C. J., Richter, M., & Neis, P. A. (1996). Shark remains from the Late Carboniferous of the Amazon Basin, Brazil. *Neues Jahrbuch für Geologie und Paläontologie, Monatshefte*, 1996(4), 232–256.
+
+Gonzaga de Campos, L. F. (1913). *Geologia da região situada entre os rios Madeira e Parauari*. Serviço Geológico e Mineralógico do Brasil.
+
+Lemos, V. B., Scomazzon, A. K., Moutinho, L. P., & Nascimento, S. (2009). Bioestratigrafia (Conodontes e Palinologia) da Formação Itaituba (Pensilvaniano da Bacia do Amazonas), em um depósito selecionado em Itaituba, Estado do Pará, Brasil. *Geociências*, 28(4).
+
+Silva Santos, R. da. (1967). *Cladodus pirauariensis* n. sp., du Carbonifère du Rio Parauari, État d'Amazonas, Brésil. *Atas do Simpósio sobre a Biota Amazônica*, 1 (Geociências), 373–386.
 
 
 
