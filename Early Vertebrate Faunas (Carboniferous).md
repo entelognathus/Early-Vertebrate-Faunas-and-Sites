@@ -1490,7 +1490,18 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Calábková et al., 2026; Frič, 1912; Opluštil et al., 2013; Štamberg, 2001, 2016; Zajíc, 2007.
 > - **Comments**: Lacustrine “red beds” (Ploužnice) and grey shales (Štěpanice–Čikvásky) representing a large lake system; tetrapod body fossils are extremely rare compared with the diverse ichnofauna (not treated here). (Calábková et al., 2026; Štamberg, 2016)
 
-#### Remigiusberg Formation, Rhineland-Palatinate, Germany
+#### Remigiusberg Formation, Saar-Nahe Basin, Rhineland-Palatinate, Germany
+> - **Age**: Latest Gzhelian to earliest Asselian (Carboniferous–Permian boundary). (Voigt et al., 2022; Werneburg et al., 2024)
+> - **Taxa**:
+>> - Chondrichthyes: *Lissodus* cf. *zideki*, *Orthacanthus gracilis*, *Orthacanthus senkenbergianus*, *Xenacanthus* sp., *Triodus* sp., *Palaeoxyris* sp. (egg capsule). (Boy & Schindler, 2000; Fischer et al., 2025)
+>> - Sarcopterygii: *Gnathorhiza* sp., *Sagenodus* sp., Rhizodopsidae indet. (Boy & Schindler, 2000; Voigt et al., 2019)
+>> - Actinopterygii: Palaeoniscoidea indet. (Voigt et al., 2019)
+>> - Amphibia: *Stenokranio boldi*, *Trypanognathus remigiusbergensis*, *Phlegethontia* sp., *Batropetes* sp., Urocordylidae indet., Lysorophia indet., Eryopidae indet. (Schoch & Voigt, 2019; Voigt et al., 2019; Werneburg et al., 2024)
+>> - Synapsida: *Cryptovenator hirschbergeri*, *Remigiomontanus robustus*, ?Ophiacodontidae indet., ?Varanopidae indet. (Fröbisch et al., 2011; Spindler et al., 2019; Voigt et al., 2014)
+>> - Reptiliomorpha: *Diasparactus* sp., *Tseajaia* sp. (Voigt et al., 2014; Voigt et al., 2019)
+> - **Locality and horizon**: Remigiusberg–Rammelskopf quarry near Kusel (N 49°32′, E 7°25′); fluvio-lacustrine deposits of the Remigiusberg Formation (basal Glan Subgroup, Rotliegend). (Fröbisch et al., 2011; Werneburg et al., 2024)
+> - **References**: Boy & Schindler, 2000; Fischer et al., 2025; Fröbisch et al., 2011; Schoch & Voigt, 2019; Spindler et al., 2019; Voigt et al., 2014; Voigt et al., 2019; Voigt et al., 2022; Werneburg et al., 2024.
+
 #### Hamilton Quarry, Hamilton County, Kansas, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
 > - **Taxa**: *Orthacanthus platypternus*, *Acanthodes bridgei*,
@@ -3563,6 +3574,7 @@ Opluštil, S., Šimůnek, Z., Zajíc, J., & Mencl, V. (2013). Climatic cycles in
 Štamberg, S. (2016). Fossil fauna and flora of a re-discovered locality in the Late Carboniferous Ploužnice Horizon of the Krkonoše Piedmont Basin, Bohemian Massif. *Fossil Imprint*, 72(3–4), 215–224.
 
 Zajíc, J. (2007). The Carboniferous–Permian boundary and the fish faunas of the Bohemian Massif. In T. E. Wong (Ed.), *Proceedings of the XVth International Congress on Carboniferous and Permian Stratigraphy* (pp. 379–386). Royal Netherlands Academy of Arts and Sciences.
+
 
 
 
