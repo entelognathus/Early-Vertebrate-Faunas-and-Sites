@@ -284,6 +284,15 @@
 > - **References**: Bennett et al., 2016; Clack et al., 2016; Smithson et al., 2012; Smithson et al., 2016; Smithson & Clack, 2018.
 > - **Comments**: A key "Romer's Gap" locality representing a coastal floodplain environment with ephemeral saline lakes and vegetation-rich overbank deposits; preservation in nodules within siltstones has yielded diverse articulated tetrapods and terrestrial arthropods. (Bennett et al., 2016)
 
+#### Kamenka River Section, Pechora Swell, Timan–Pechora Province, Russia
+> - **Age**: Late Famennian to Late Tournaisian (*praesulcata*–*crenulata* conodont zones; Late Devonian–Early Carboniferous). (Zhuravlev, 2018; Zhuravlev & Sobolev, 2019)
+> - **Taxa**:
+>> - Conodonta: *Polygnathus parapetus*, *Polygnathus communis communis*, *Siphonodella* spp., *Bispathodus stabilis*, *Ligonodina discreta*, *Hindeodus penescitulus*. (Lebedev, 1996; Ivanov, 1999; Vevel et al., 2012; Ginter et al., 2010; Zhuravlev, 2018)
+>> - Chondrichthyes: *Lissodus pectinatus*, *Stethacanthulus decorus*, *Protacrodus aequalis*. (Lebedev, 1996; Ivanov, 1999; Ginter et al., 2010)
+> - **Locality and horizon**: Kamenka River section, Pechora Swell, Timan–Pechora Province; shallow-water carbonate platform facies. (Zhuravlev, 2018)
+> - **References**: Ginter et al., 2010; Ivanov, 1999; Lebedev, 1996; Vevel et al., 2012; Zhuravlev, 2018; Zhuravlev & Sobolev, 2019.
+> - **Comments**: Conodont elements show CAI ≈ 1, indicating low thermal maturity; isotopic data suggest *Polygnathus parapetus* occupied a low trophic level in the carbonate platform ecosystem. (Zhuravlev, 2018)
+
 #### Ballagan Formation, Auchenreoch Glen (Dumbarton), Western Scotland
 > - **Age**: Late Tournaisian, Early Mississipian, Carboniferous.  (Ivorian substage; Tn3c; *Schopfites claviger*-*Auroraspora macra* (CM) miospore zone). (Clack, 2002; Clack & Finney, 2005; Marshall et al., 2019)
 > - **Taxa**: *Pederpes finneyae*
@@ -662,14 +671,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 
 > - Zarechye (Ryazan Region), Middle Visean, Aleksinian Regional Stage (Visean, lower Carboniferous) exposed in Zarechye quarry, near Zarechye village (Korablino District, Ryasan Region). In addition to this specimen (PIN 1488/70 Protochimaera mirabilis), the collection from this bed includes the chondrichthyans Saivodus cf. striatus, Copodus spatulatus Davis, 1883, Fadenia monscana (Trautschold, 1874) and a sarcopterigian tooth belonging to Rhizodontiformes.
 
-#### Carboniferous Stratigraphic Units, Timan-Pechora Province, Russia
-> - **Age**: Visean.
-> - **Taxa**:
->> - Chondrichthyes: *Thrinacodus ferox*. (Ivanov & Lucas, 2011)
-> - **Locality and horizon**: Timan-Pechora Province: 1, Ovin Kamen, Shchugor River; 2, Kozhim River; 3, Kirpich- Kyrty, Podcheryom River; 4, Klina-Shor Creek, Kozhva River; 5, cement factory quarry, Vorkuta River; 6, Kamenka River; 7, Talata River; 8, Vangyr River. 
-> - **References**: Lebedev, 1996
-> - **Comments**: 
-
 ### Serpukhovian, Late Mississipian, Carboniferous
 #### Point Edward Formation, Point Edward, Sydney, Nova Scotia, Canada
 > - **Age**: Serpukhovian
@@ -796,7 +797,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Steshevian Regional Stage. The Dashkovka Member records a deep-water, hypoxic event within the Serpukhovian of the Moscow Syneclise. Lithologies comprise dark grey to black palygorskitic clays and shales with thin dolomitic siltstone intercalations deposited below the photic zone. The vertebrate assemblage is dominated by chondrichthyans, including the earliest known chimaeriform *Protochimaera mirabilis* and the anachronistid neoselachian *Ginteria fungiforma*. Low-energy, oxygen-deficient bottom waters favored preservation of disarticulated but well-preserved material and excluded most benthic invertebrates (except *Tolypammina kalugensis* and *Sphenothallus*). Occurrence of *Copodus* and *Ageleodus* indicates links to Western European Dinantian faunas, while endemic chimaeriforms suggest regional adaptation to Steshevian basin conditions. (Kabanov et al., 2014; Lebedev et al., 2021; Vinn & Mironenko, 2021)
 
 #### Fayetteville Shale, Arkansas and Oklahoma, USA
-> - **Age**: Late Mississippian (Chesterian, equivalent to Serpukhovian; *Eumorphoceras* ammonoid zone). (Lund & Mapes, 1984; Pradel et al., 2014; Bronson et al., 2024)
+> - **Age**: Serpukhovian (Chesterian, *Eumorphoceras* ammonoid zone). (Lund & Mapes, 1984; Pradel et al., 2014; Bronson et al., 2024)
 > - **Taxa**:
 >> - Chondrichthyes: *Ozarcus mapesae* (syn. *Cobelodus* sp. sensu Maisey, 2007), *Cosmoselachus mehlingi*, *Carcharopsis wortheni* (syn. *Dicrenodus texanus*), *Cladodus ozarkensis*, *Deltodus cingulatus*. (Croneis, 1927; Lund & Mapes, 1984; Maisey, 2007; Pradel et al., 2014; Bronson et al., 2018; Bronson et al., 2024)
 >> - Actinopterygii: *Rhadinichthys* sp., *Palaeoniscum* sp. (scales). (White, 1968; Zidek, 1972)
@@ -816,7 +817,7 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The Buffalo Wallow Formation preserves a diverse vertebrate assemblage in a low-accommodation, incised-valley setting representing a continental to marginal-marine wetland ecosystem. The occurrence of *Proterogyrinus* (Embolomeri) and cf. *Pederpes* (Whatcheeriidae) links this fauna with other Mississippian tetrapod localities in North America and Scotland. Taphonomic modes vary by facies, with articulated remains in channel deposits and disarticulated material in oxbow and floodplain settings. Lungfish remains (cf. *Tranodis*) occur in carbonate-rich nodules interpreted as aestivation burrows, indicating seasonal dryness. The chondrichthyan assemblage includes euryhaline-tolerant taxa (*Ageleodus*, *Cynopodius*) consistent with estuarine influence. (Garcia et al., 2006; Greb et al., 2016)
 
 #### Hinton Formation, West Virginia, USA
-> - **Age**: Late Mississippian (Chesterian; Serpukhovian). (Arkle et al., 1979; Smithson, 1982)
+> - **Age**: Serpukhovian (Chesterian) (Arkle et al., 1979; Smithson, 1982)
 > - **Taxa**:
 >> - Chondrichthyes: *Xenacanthus* sp. cf. *X. triodus*, *Helodus simplex*. (Arkle et al., 1979)
 >> - Actinopterygii: Trissolepid indet. (aff. *Sphaerolepis*). (Arkle et al., 1979)
@@ -3700,6 +3701,7 @@ Gonzaga de Campos, L. F. (1913). *Geologia da região situada entre os rios Made
 Lemos, V. B., Scomazzon, A. K., Moutinho, L. P., & Nascimento, S. (2009). Bioestratigrafia (Conodontes e Palinologia) da Formação Itaituba (Pensilvaniano da Bacia do Amazonas), em um depósito selecionado em Itaituba, Estado do Pará, Brasil. *Geociências*, 28(4).
 
 Silva Santos, R. da. (1967). *Cladodus pirauariensis* n. sp., du Carbonifère du Rio Parauari, État d'Amazonas, Brésil. *Atas do Simpósio sobre a Biota Amazônica*, 1 (Geociências), 373–386.
+
 
 
 
