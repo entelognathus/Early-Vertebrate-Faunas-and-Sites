@@ -3702,6 +3702,17 @@ Lemos, V. B., Scomazzon, A. K., Moutinho, L. P., & Nascimento, S. (2009). Bioest
 
 Silva Santos, R. da. (1967). *Cladodus pirauariensis* n. sp., du Carbonifère du Rio Parauari, État d'Amazonas, Brésil. *Atas do Simpósio sobre a Biota Amazônica*, 1 (Geociências), 373–386.
 
+Ginter, M., Hampe, O., & Duffin, C. J. (2010). *Handbook of Paleoichthyology, Vol. 3D: Chondrichthyes: Paleozoic Elasmobranchii: Teeth*. Verlag Dr. Friedrich Pfeil.
+
+Ivanov, A. (1999). Late Devonian–Early Permian chondrichthyans of the Russian Arctic. *Acta Geologica Polonica*, 49(3), 267–285.
+
+Lebedev, O. A. (1996). Fish assemblages in the Tournaisian–Viséan environments of the East European Platform. In P. Strogen, I. D. Somerville, & G. L. Jones (Eds.), *Recent Advances in Lower Carboniferous Geology* (pp. 387–415). Geological Society Special Publication 107.
+
+Vevel, Y. A., Zhuravlev, A. V., & Popov, V. V. (2012). The Devonian/Carboniferous boundary in the Northern Urals (Kamenka River section). *Newsletter on Carboniferous Stratigraphy*, 30, 36–42.
+
+Zhuravlev, A. V. (2018). Carbon isotope values in conodont elements from the latest Devonian–Early Carboniferous carbonate platform facies (Timan–Pechora Basin). *Estonian Journal of Earth Sciences*, 67(4), 238–246. https://doi.org/10.3176/earth.2018.17
+
+Zhuravlev, A. V., & Sobolev, D. B. (2019). Carbon isotope stratigraphy of the Tournaisian (Lower Carboniferous) in the Subpolar Urals (Timan–Pechora Province). *Bulletin of Geosciences*, 94(4), 483–494.
 
 
 
