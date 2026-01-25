@@ -1538,12 +1538,15 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Case, 1915; Cope, 1891; Olson, 1967; Romer & Price, 1940; Simpson, 1976, 1979; Smith, 1927; Sullivan & Reisz, 1999; Wegemann, 1915; Zidek, 1976, 1978, 1992.
 > - **Comments**: A “chronofauna” spanning the Pennsylvanian–Permian transition, with abundant aquatic (xenacanths, *Diplocaulus*) and semi-aquatic taxa (*Eryops*, *Ophiacodon*) alongside increasing terrestrial components (*Dimetrodon*, *Diadectes*). Bonebed lenses indicate deposition in stream channels and ponds within a deltaic complex. (Olson, 1967; Simpson, 1979)
 
-#### Kosherovo Formation, Dobryatinian Regional Stage, , Russia
-> - **Age**: Gzhelian
-> - **Taxa**: Chondrichthyans: *Gzhelodus serratus*
-> - **Locality and horizon**: Gzhel section, Ramenskoe District, Russia; Rusavkino Quarry, Balashikha District, Russia;
-> - **References**:(Ivanov, 2022)
-> - **Comments**: 
+#### Kosherovo Formation, Moscow Basin, Russia
+> - **Age**: Early Gzhelian, Dobryatinian Regional Stage (*Idiognathodus simulator* conodont Zone). (Alekseev et al., 2009; Lebedev & Itano, 2022)
+> - **Taxa**:
+>> - Chondrichthyes: *Karpinskiprion ivanovi* (syn. *Campyloprion ivanovi*, *Helicoprion ivanovi*), *Gzhelodus serratus*, *Heslerodus divergens*, *Adamantina foliacea*, *Glikmanius* sp., *Lagarodus angustus*, *Petalodus* sp., *Polyrhizodus concavus*, *Deltodus concha*, *Deltodus circlinans*, *Deltodus laminaris*, *Cochliodus triangularis*, *Solenodus crenulatus*, *Pranunodus specularis*. (Alekseev et al., 2009; Ivanov, 2022; Lebedev & Itano, 2022)
+>> - Actinopterygii: Indeterminate teeth and scales. (Alekseev et al., 2015)
+> - **Locality and horizon**: Rusavkino Quarry and Gzhel section, Moscow Region; dolomites and limestones of the Kosherovo Formation. (Alekseev et al., 2009; Ivanov, 2022)
+> - **References**: Alekseev et al., 2009, 2015; Ivanov, 2022; Lebedev & Itano, 2022.
+> - **Comments**: Shallow-marine carbonate platform deposits with tempestites. Type locality for the eugeneodontid *Karpinskiprion ivanovi* and the protacrodontid *Gzhelodus serratus*. The assemblage is dominated by durophagous chondrichthyans (cochliodonts, petalodonts) and ctenacanthiform sharks. (Ivanov, 2022; Lebedev & Itano, 2022)
+
 
 #### Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
@@ -3675,6 +3678,7 @@ Zidek, J. (1976). Oklahoma paleoichthyology, Part V: Chondrichthyes. *Oklahoma G
 Zidek, J. (1978). New chondrichthyan spines from the late Paleozoic of Oklahoma. *Journal of Paleontology*, 52(5), 1070–1078.
 
 Zidek, J. (1992). Late Pennsylvanian Chondrichthyes, Acanthodii, and deep-bodied Actinopterygii from the Kinney Brick Quarry, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Bulletin*, 138, 145–182.
+
 
 
 
