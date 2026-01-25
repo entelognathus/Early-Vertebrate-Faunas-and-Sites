@@ -3652,6 +3652,29 @@ Zidek, J. (1992). Actinopterygian fishes from the Hamilton Quarry (Upper Pennsyl
 
 Zidek, J. (1993). Xenacanth sharks from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Journal of Vertebrate Paleontology*, 13(3), 300–314.
 
+Case, E. C. (1915). The Permo-Carboniferous red beds of North America and their vertebrate fauna. *Carnegie Institution of Washington Publication*, 207, 1–176.
+
+Cope, E. D. (1891). On new species of Platysomidae. *Proceedings of the United States National Museum*, 14, 460–463.
+
+Olson, E. C. (1967). Early Permian vertebrates of Oklahoma. *Oklahoma Geological Survey Circular*, 74, 1–111.
+
+Romer, A. S., & Price, L. I. (1940). Review of the Pelycosauria. *Geological Society of America Special Paper*, 28, 1–538.
+
+Simpson, L. C. (1976). Paleontology of the Garber Formation (Lower Permian), Tillman County, Oklahoma. *Oklahoma Geology Notes*, 36(6), 161–175.
+
+Simpson, L. C. (1979). Upper Gearyan and Lower Leonardian terrestrial vertebrate faunas of Oklahoma. *Oklahoma Geology Notes*, 39(1), 3–21.
+
+Smith, G. N. (1927). *The Permian vertebrates of Oklahoma* (Master’s thesis). University of Oklahoma.
+
+Sullivan, C., & Reisz, R. R. (1999). First record of Seymouria (Vertebrata: Seymouriamorpha) from Early Permian fissure fills at Richards Spur, Oklahoma. *Canadian Journal of Earth Sciences*, 36(8), 1257–1266.
+
+Wegemann, C. H. (1915). Anticlinal structure in parts of Cotton and Jefferson Counties, Oklahoma. *U.S. Geological Survey Bulletin*, 602, 1–108.
+
+Zidek, J. (1976). Oklahoma paleoichthyology, Part V: Chondrichthyes. *Oklahoma Geology Notes*, 36(5), 175–192.
+
+Zidek, J. (1978). New chondrichthyan spines from the late Paleozoic of Oklahoma. *Journal of Paleontology*, 52(5), 1070–1078.
+
+Zidek, J. (1992). Late Pennsylvanian Chondrichthyes, Acanthodii, and deep-bodied Actinopterygii from the Kinney Brick Quarry, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Bulletin*, 138, 145–182.
 
 
 
