@@ -3679,6 +3679,13 @@ Zidek, J. (1978). New chondrichthyan spines from the late Paleozoic of Oklahoma.
 
 Zidek, J. (1992). Late Pennsylvanian Chondrichthyes, Acanthodii, and deep-bodied Actinopterygii from the Kinney Brick Quarry, New Mexico. *New Mexico Bureau of Mines and Mineral Resources Bulletin*, 138, 145–182.
 
+Alekseev, A. S., Goreva, N. V., Isakova, T. N., & Kossovaya, O. L. (2009). Biostratigraphy of the Carboniferous in the Moscow Syneclise (Russia). *Geological Society, London, Special Publications*, *312*(1), 241–266. https://doi.org/10.1144/SP312.12
+
+Alekseev, A. S., Goreva, N. V., & Isakova, T. N. (2015). *Type sections of the Carboniferous of the Moscow Basin*. Borissiak Paleontological Institute of the Russian Academy of Sciences.
+
+Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. https://doi.org/10.3140/bull.geosci.1845
+
+Lebedev, O. A., & Itano, W. M. (2022). Tooth whorl structure, growth and function in a helicoprionid chondrichthyan *Karpinskiprion* nom. nov. (Eugeneodontiformes), with a revision of the family composition. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *113*(1–2), 1–19. https://doi.org/10.1017/S175569102200003X
 
 
 
