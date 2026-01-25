@@ -3723,6 +3723,29 @@ Lohest, M. (1889). Présentation d’un échantillon de *Megalichthys agassizian
 
 Nyhuis, C. J., Rippen, D., & Denayer, J. (2014). Facies characterization of organic-rich mudstones from the Chokier Formation (lower Namurian), south Belgium. *Geologica Belgica*, 17(3–4), 311–322.
 
+Anderson, L. I., Dunlop, J. A., Eagar, R. M. C., Horrocks, C. A., & Wilson, H. M. (1997). Exceptionally preserved fossils from Bickershaw, Lancashire UK (Upper Carboniferous, Westphalian A (Langsettian)). *Geological Journal*, 32(3), 197–210.
+
+Bolton, H. (1896). On the occurrence of the genus *Listracanthus* in the English Coal Measures. *Geological Magazine*, 3(9), 424–426.
+
+Bolton, H. (1905). The palaeontology of the Lancashire Coal Measures. *Transactions of the Manchester Geological and Mining Society*, 28, 378–415.
+
+Coates, M. I., & Tietjen, K. (2018). “This strange little palaeoniscid”: a new early actinopterygian genus, and commentary on pectoral fin conditions and function. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, 109(1–2), 15–31.
+
+Figueroa, R. T., Goodvin, D., Kolmann, M. A., Coates, M. I., Caron, A. M., Friedman, M., & Giles, S. (2023). Exceptional fossil preservation and evolution of the ray-finned fish brain. *Nature*, 614, 486–491. https://doi.org/10.1038/s41586-022-05666-1
+
+Forey, P. L. (1981). The coelacanth *Rhabdoderma* in the Carboniferous of the British Isles. *Palaeontology*, 24(1), 203–229.
+
+Martill, D. M., Duffin, C. J., & Wallace, D. R. (2013). *Acanthorhachis*, a new genus of shark from the Carboniferous Westphalian of Yorkshire, England. *Geological Magazine*, 151(3), 517–533.
+
+Milner, A. R. (1980). The temnospondyl amphibian *Eugyrinus wildi* from the Upper Carboniferous of Lancashire. *Palaeontology*, 23(1), 125–141.
+
+Moy-Thomas, J. A. (1937). The Carboniferous coelacanth fishes of Great Britain and Ireland. *Proceedings of the Zoological Society of London*, 107B, 383–415.
+
+Pruvost, P. (1919). *La faune continentale du terrain houiller du Nord de la France*. Mémoires pour servir à l’explication de la Carte géologique détaillée de la France, 1–584.
+
+Waters, C. N., & Davies, S. J. (2006). Carboniferous: extensional basins, advancing deltas and coal swamps. In P. J. Brenchley & P. F. Rawson (Eds.), *The Geology of England and Wales* (pp. 173–223). Geological Society, London.
+
+Woodward, A. S. (1891). A microsaurian (*Hylonomus wildi* sp. nov.) from the Lancashire Coal-field. *Geological Magazine*, 8(5), 211–213.
 
 
 
