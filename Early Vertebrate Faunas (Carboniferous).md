@@ -997,21 +997,20 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Hu et al., 2023; Ivanov & Hu, 2025; Qi et al., 2020.
 > - **Comments**: Deep-water slope carbonate succession yielding the first reliable Pennsylvanian fish assemblage reported from China based on associated ichthyoliths; conodont biostratigraphy provides high-resolution zonation across the Kasimovian–Gzhelian interval. (Ivanov & Hu, 2025; Hu et al., 2023)
 
-#### Westphalian A (Langsettian) Lagerstätten, Lancashire, UK
-> - **Age**: early Bashkirian
+#### Pennine Lower Coal Measures Formation, Lancashire Coalfield, UK
+> - **Age**: Langsettian (Westphalian A, Early Pennsylvanian). (Figueroa et al., 2023; Waters & Davies, 2006)
 > - **Taxa**:
->> - Plants: diverse compression floras.
->> - Bivalvia (non-marine): indeterminate taxa.
->> - Crustacea: indeterminate taxa.
->> - Insecta: indeterminate taxa.
->> - Myriapoda: arthropleurid fragments.
->> - Euthycarcinoida: indeterminate euthycarcinoid.
->> - Xiphosura: indeterminate taxa.
->> - Arachnida: whip scorpion; scorpion cuticle fragments.
->> - Vertebrata (ichthyoliths): fish scales; coprolites.
-> - **Locality and horizon**: Bickershaw, Lancashire, UK.
-> - **References**: Anderson et al., 1997.
-> - **Comments**: As with many Upper Carboniferous Lagerstätten, fossils are preserved within siderite nodules hosted by coal-seam roof shales.
+>> - Amphibia: *Eugyrinus wildi*. (Milner, 1980; Woodward, 1891)
+>> - Acanthodii: *Acanthodes wardi*. (Bolton, 1905)
+>> - Chondrichthyes: *Acanthorhachis spinatus*, *Listracanthus* sp., *Edestus pringlei*, *Xenacanthus* sp. (Bolton, 1896; Martill et al., 2013)
+>> - Actinopterygii: *Coccocephalichthys wildi*, *Trawdenia planti*, *Mesonichthys aitkeni*, *Platysomus parvulus*, *Rhadinichthys monensis*, *Rhadinichthys renieri*, *Elonichthys* spp. (Bolton, 1905; Coates & Tietjen, 2018; Figueroa et al., 2023; Pruvost, 1919)
+>> - Sarcopterygii: *Megalichthys hibberti*, *Megalichthys pygmaeus*, *Megalichthys intermedius*, *Rhizodopsis sauroides*, *Strepsodus sauroides*, *Rhabdoderma* sp. (Bolton, 1905; Forey, 1981; Moy-Thomas, 1937)
+> - **Locality and horizon**:
+>> 1. "Soapstone Bed" (roof of Mountain Four Foot Mine), Colne–Trawden area: siderite nodules yielding *Eugyrinus* and three-dimensionally preserved actinopterygians. (Figueroa et al., 2023)
+>> 2. *Gastrioceras listeri* Marine Band (Bullion Mine Marine Band), widespread: calcareous concretions yielding marine chondrichthyans and coelacanths. (Martill et al., 2013)
+>> 3. Wigan Four Foot Seam, Westhoughton–Bickershaw area: sideritic concretions with *Rhadinichthys* and *Platysomus*. (Anderson et al., 1997)
+> - **References**: Anderson et al., 1997; Bolton, 1896, 1905; Coates & Tietjen, 2018; Figueroa et al., 2023; Forey, 1981; Martill et al., 2013; Milner, 1980; Moy-Thomas, 1937; Pruvost, 1919; Waters & Davies, 2006; Woodward, 1891.
+> - **Comments**: A Konservat-Lagerstätte characterized by dual preservation modes: (1) marine calcareous concretions preserving three-dimensional chondrichthyan remains, and (2) non-marine to brackish siderite nodules preserving soft tissues, including the oldest known vertebrate brain in *Coccocephalichthys wildi*. (Figueroa et al., 2023; Martill et al., 2013)
 
 #### Scottish Lower Coal Measures Formation, Midland Valley of Scotland
 > - **Age**: Bashkirian (Waters et al., 2007; Browne et al., 1999)
@@ -3723,6 +3722,7 @@ Lohest, M. (1888). Recherches sur les poissons des terrains paléozoïques de Be
 Lohest, M. (1889). Présentation d’un échantillon de *Megalichthys agassizianus* provenant de Chokier. *Annales de la Société Géologique de Belgique*, 16, 98–99.
 
 Nyhuis, C. J., Rippen, D., & Denayer, J. (2014). Facies characterization of organic-rich mudstones from the Chokier Formation (lower Namurian), south Belgium. *Geologica Belgica*, 17(3–4), 311–322.
+
 
 
 
