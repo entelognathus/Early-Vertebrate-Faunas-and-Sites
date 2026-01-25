@@ -3712,6 +3712,17 @@ Zhuravlev, A. V. (2018). Carbon isotope values in conodont elements from the lat
 
 Zhuravlev, A. V., & Sobolev, D. B. (2019). Carbon isotope stratigraphy of the Tournaisian (Lower Carboniferous) in the Subpolar Urals (Timan–Pechora Province). *Bulletin of Geosciences*, 94(4), 483–494.
 
+Cloutier, R., & Candilier, A. M. (1995). Palaeozoic vertebrates of northern France and Belgium: Part III – Sarcopterygii (Devonian to Carboniferous). *Geobios*, 28(S2), 335–341. https://doi.org/10.1016/S0016-6995(95)80136-X
+
+Demanet, F. (1941). *Faune et stratigraphie de l'étage namurien de la Belgique*. Mémoires du Musée Royal d'Histoire Naturelle de Belgique, 97, 1–327.
+
+Derycke, C., Cloutier, R., & Candilier, A. M. (1995). Palaeozoic vertebrates of northern France and Belgium: Part II – Chondrichthyes, Acanthodii, Actinopterygii (uppermost Silurian to Carboniferous). *Geobios*, 28(S2), 343–350. https://doi.org/10.1016/S0016-6995(95)80137-8
+
+Lohest, M. (1888). Recherches sur les poissons des terrains paléozoïques de Belgique. *Annales de la Société Géologique de Belgique*, 15, 112–203.
+
+Lohest, M. (1889). Présentation d’un échantillon de *Megalichthys agassizianus* provenant de Chokier. *Annales de la Société Géologique de Belgique*, 16, 98–99.
+
+Nyhuis, C. J., Rippen, D., & Denayer, J. (2014). Facies characterization of organic-rich mudstones from the Chokier Formation (lower Namurian), south Belgium. *Geologica Belgica*, 17(3–4), 311–322.
 
 
 
