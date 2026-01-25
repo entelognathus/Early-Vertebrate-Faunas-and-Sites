@@ -3604,6 +3604,49 @@ Voigt, S., Pöppelreiter, M. C., & Lützner, H. (2022). High-precision U-Pb age 
 
 Werneburg, R., Witzmann, F., Rinehart, L. F., & Fischer, J. (2024). A new eryopid temnospondyl from the Carboniferous–Permian boundary of Germany. *Journal of Paleontology*, 97(6), 1–31. https://doi.org/10.1017/jpa.2023.58
 
+Berman, D. S., Reisz, R. R., & Eberth, D. A. (1987). *Anconastes vesperus*, a new early Permian temnospondyl amphibian from New Mexico. *Annals of Carnegie Museum*, 56(2), 31–57.
+
+Chorn, J., & Schultze, H.-P. (1989). Early Carboniferous actinopterygians from Kansas. *Journal of Vertebrate Paleontology*, 9(Suppl.), 19A.
+
+Cunningham, S. J. (1993). The paleoecology of the Hamilton Quarry (Upper Pennsylvanian, Kansas). *University of Kansas*, unpublished thesis.
+
+Cunningham, S. J., Mapes, R. H., & Mapes, G. (1993). Paleoecology of the Hamilton Quarry Lagerstätte (Upper Pennsylvanian, Kansas). *Palaios*, 8, 195–210.
+
+Daly, E. (1994). The osteology and relationships of the temnospondyl amphibian *Eoscopus lockardi*. *Journal of Vertebrate Paleontology*, 14(3), 362–379.
+
+deBraga, M., & Reisz, R. R. (1995). A new diapsid reptile from the Upper Pennsylvanian of Kansas. *Journal of Vertebrate Paleontology*, 15(2), 245–254.
+
+Everhart, M. J. (2011). Microichthyoliths and conodonts from the Quindaro Shale and Argentine Limestone of the Kansas City Group. *Oceans of Kansas Paleontology*. http://oceansofkansas.com/KAS2009.html
+
+Gottfried, M. D. (1989). Actinopterygian fishes from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Journal of Vertebrate Paleontology*, 9(Suppl.), 19A.
+
+Maisey, J. G. (1989). Hamiltonichthys, a new xenacanth shark from the Upper Pennsylvanian of Kansas. *American Museum Novitates*, 2952, 1–22.
+
+Mapes, R. H., & Mapes, G. (1988). The Hamilton Quarry Lagerstätte: A new Upper Pennsylvanian fossil locality in Kansas. *Geological Society of America Abstracts with Programs*, 20, 284.
+
+Müller, J., & Reisz, R. R. (2005). Four well-constrained calibration points from the vertebrate fossil record. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 219, 69–91.
+
+Reisz, R. R., & Dilkes, D. W. (2003). Archaeovenator hamiltonensis, a new basal synapsid from the Upper Pennsylvanian of Kansas. *Journal of Vertebrate Paleontology*, 23(3), 515–526.
+
+Reisz, R. R., & Fröbisch, J. (2014). The oldest caseid synapsid from the Late Pennsylvanian of Kansas. *PLoS ONE*, 9(2), e89222.
+
+Reisz, R. R., Müller, J., & Tsuji, L. A. (2016). A new early diapsid reptile from the Upper Pennsylvanian of Kansas. *Journal of Vertebrate Paleontology*, 36(3), e1095874.
+
+Schultze, H.-P. (1988). Actinopterygian fishes from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Journal of Vertebrate Paleontology*, 8(Suppl.), 28A.
+
+Schultze, H.-P. (1990). Early actinopterygian fishes from Kansas. *Journal of Vertebrate Paleontology*, 10(Suppl.), 33A.
+
+Schultze, H.-P., & Chorn, J. (1988). The Hamilton Quarry (Upper Pennsylvanian) and its vertebrate fauna. *Journal of Vertebrate Paleontology*, 8(Suppl.), 28A.
+
+Wehrbein, K. (2016). Synapsid diversity and ecology in the Hamilton Quarry assemblage. *University of Toronto*, unpublished thesis.
+
+Zidek, J. (1976). Kansas Hamilton Quarry acanthodians. *University of Kansas Paleontological Contributions*, 83, 1–16.
+
+Zidek, J. (1988). Late Pennsylvanian acanthodians and chondrichthyans from Kansas. *Journal of Vertebrate Paleontology*, 8(Suppl.), 34A.
+
+Zidek, J. (1992). Actinopterygian fishes from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Kansas Geological Survey Bulletin*, 243, 1–50.
+
+Zidek, J. (1993). Xenacanth sharks from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Journal of Vertebrate Paleontology*, 13(3), 300–314.
 
 
 
