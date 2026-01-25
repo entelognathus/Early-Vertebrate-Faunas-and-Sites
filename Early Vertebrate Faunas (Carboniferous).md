@@ -1501,6 +1501,7 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 >> - Reptiliomorpha: *Diasparactus* sp., *Tseajaia* sp. (Voigt et al., 2014; Voigt et al., 2019)
 > - **Locality and horizon**: Remigiusberg–Rammelskopf quarry near Kusel (N 49°32′, E 7°25′); fluvio-lacustrine deposits of the Remigiusberg Formation (basal Glan Subgroup, Rotliegend). (Fröbisch et al., 2011; Werneburg et al., 2024)
 > - **References**: Boy & Schindler, 2000; Fischer et al., 2025; Fröbisch et al., 2011; Schoch & Voigt, 2019; Spindler et al., 2019; Voigt et al., 2014; Voigt et al., 2019; Voigt et al., 2022; Werneburg et al., 2024.
+> - **Comments**: This formation represents a tetrapod Lagerstätte documenting the “Remigiusberg Invasion” of terrestrial vertebrates; fossils from the Remigiusberg quarry are often white due to thermal metamorphism caused by a magmatic intrusion (Kuselite sill). (Arns et al., 2020; Voigt et al., 2019)
 
 #### Hamilton Quarry, Hamilton County, Kansas, USA
 > - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
@@ -3575,6 +3576,25 @@ Opluštil, S., Šimůnek, Z., Zajíc, J., & Mencl, V. (2013). Climatic cycles in
 
 Zajíc, J. (2007). The Carboniferous–Permian boundary and the fish faunas of the Bohemian Massif. In T. E. Wong (Ed.), *Proceedings of the XVth International Congress on Carboniferous and Permian Stratigraphy* (pp. 379–386). Royal Netherlands Academy of Arts and Sciences.
 
+Arns, A., Tomaschek, F., Alig, E., Weber, K., Vonhof, H., Fischer, J., Voigt, S., & Tütken, T. (2020). Metamorphosed Permian vertebrate fossils: geochemistry and mineralogy of “white” sharks. *EGU General Assembly 2020*, EGU2020-18533. https://doi.org/10.5194/egusphere-egu2020-18533
+
+Boy, J. A., & Schindler, T. (2000). Ökostratigraphische Bioevents im Grenzbereich Stephanium/Autunium (höchstes Karbon) des Saar-Nahe-Beckens (SW-Deutschland) und benachbarter Gebiete. *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen*, 216(1), 89–152.
+
+Fischer, J., Spindler, F., Neumann, E., Schindler, T., & Voigt, S. (2025). The fossil egg capsule *Palaeoxyris* – Indirect evidence of hybodontid sharks in the Late Paleozoic Remigiusberg Formation, Saar-Nahe Basin, Germany. *Geo4Göttingen 2025 Book of Abstracts*.
+
+Fröbisch, J., Schoch, R. R., Müller, J., Schindler, T., & Schweiss, D. (2011). A new basal sphenacodontid synapsid from the Late Carboniferous of the Saar-Nahe Basin, Germany. *Acta Palaeontologica Polonica*, 56(1), 113–120. https://doi.org/10.4202/app.2010.0039
+
+Schoch, R. R., & Voigt, S. (2019). A dvinosaurian temnospondyl from the Carboniferous–Permian boundary of Germany sheds light on dvinosaurian phylogeny and distribution. *Journal of Vertebrate Paleontology*, 39(1), e1577874. https://doi.org/10.1080/02724634.2019.1577874
+
+Spindler, F., Voigt, S., & Fischer, J. (2019). Edaphosauridae (Synapsida, Eupelycosauria) from Europe and their relationship to North American representatives. *PalZ*, 94, 125–153. https://doi.org/10.1007/s12542-019-00453-2
+
+Voigt, S., Fischer, J., Schindler, T., Wuttke, M., Spindler, F., & Rinehart, L. (2014). On a potential fossil hotspot for Pennsylvanian–Permian non-aquatic vertebrates in Europe. *Freiberger Forschungshefte*, C548, 39–44.
+
+Voigt, S., Berman, D. S., & Henrici, A. C. (2019). Carboniferous–Permian tetrapods of North-American affinity in the Saar-Nahe Basin (SW Germany). *Paläontologische Gesellschaft, Annual Meeting Abstracts*, 2019.
+
+Voigt, S., Pöppelreiter, M. C., & Lützner, H. (2022). High-precision U-Pb age constraints on the Carboniferous–Permian transition in continental basins of eastern equatorial Pangaea. *International Journal of Earth Sciences*, 111, 2367–2388.
+
+Werneburg, R., Witzmann, F., Rinehart, L. F., & Fischer, J. (2024). A new eryopid temnospondyl from the Carboniferous–Permian boundary of Germany. *Journal of Paleontology*, 97(6), 1–31. https://doi.org/10.1017/jpa.2023.58
 
 
 
