@@ -1503,12 +1503,20 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **References**: Boy & Schindler, 2000; Fischer et al., 2025; Fröbisch et al., 2011; Schoch & Voigt, 2019; Spindler et al., 2019; Voigt et al., 2014; Voigt et al., 2019; Voigt et al., 2022; Werneburg et al., 2024.
 > - **Comments**: This formation represents a tetrapod Lagerstätte documenting the “Remigiusberg Invasion” of terrestrial vertebrates; fossils from the Remigiusberg quarry are often white due to thermal metamorphism caused by a magmatic intrusion (Kuselite sill). (Arns et al., 2020; Voigt et al., 2019)
 
-#### Hamilton Quarry, Hamilton County, Kansas, USA
-> - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
-> - **Taxa**: *Orthacanthus platypternus*, *Acanthodes bridgei*,
-> - **Locality and horizon**: Hamilton Quarry, Hamilton County, Kansas, USA
-> - **References**: (Zidek, 1976)
-> - **Comments**:
+#### Hamilton Quarry, Greenwood County, Kansas, USA
+> - **Age**: middle–late Gzhelian (Virgilian Stage, Shawnee Group; channel fill incised into the Calhoun Shale and/or Topeka Limestone; approx. 303.4–298.9 Ma). (Mapes & Mapes, 1988; Cunningham, 1993; Reisz & Fröbisch, 2014)
+> - **Taxa**:
+>> - Acanthodii: *Acanthodes bridgei*, *Acanthodes* sp. (large orbits). (Zidek, 1976; Zidek, 1988)
+>> - Chondrichthyes: *Hamiltonichthys mapesi*, *Orthacanthus platypternus*, *Expleuracanthus* cf. *E. parallelus*, *Xenacanthus* sp., *Petalodus* sp., *Lissodus*? sp. (Maisey, 1989; Zidek, 1988, 1993; Cunningham et al., 1993; Everhart, 2011)
+>> - Actinopterygii: *Elonichthys* sp., “*Feroniscus hamiltoni*” (nomen nudum), *Sphaerolepis*?, deep-bodied actinopterygians indet. (Gottfried, 1989; Schultze & Chorn, 1988; Zidek, 1992)
+>> - Sarcopterygii: *Sagenodus copeanus*, *Gnathorhiza* sp., Megalichthyinae indet., Actinistia indet. (Chorn & Schultze, 1989; Schultze, 1988, 1990; Cunningham, 1993)
+>> - Amphibia: *Eoscopus lockardi*, *Trimerorhachis* sp., Eryopoidea indet. (Daly, 1994; Schultze & Chorn, 1988; Berman et al., 1987)
+>> - Synapsida: *Archaeovenator hamiltonensis*, *Eocasea martini*, *Ianthasaurus* sp., ?*Lupeosaurus* sp., Ophiacodontidae indet. (Reisz & Dilkes, 2003; Reisz & Fröbisch, 2014; Schultze & Chorn, 1988; Wehrbein, 2016)
+>> - Reptilia: *Spinoaequalis schultzei*, *Euconcordia cunninghami*. (deBraga & Reisz, 1995; Reisz et al., 2016; Müller & Reisz, 2005)
+> - **Locality and horizon**: Paleochannel deposits (Hamilton paleochannel) exposed in the Main Quarry and associated pits near Hamilton, Greenwood County, Kansas. Vertebrate horizon consists of laminated limestone and mudstone facies. (Mapes & Mapes, 1988; Cunningham, 1993)
+> - **References**: Berman et al., 1987; Chorn & Schultze, 1989; Cunningham, 1993; Cunningham et al., 1993; Daly, 1994; deBraga & Reisz, 1995; Everhart, 2011; Gottfried, 1989; Maisey, 1989; Mapes & Mapes, 1988; Müller & Reisz, 2005; Reisz & Dilkes, 2003; Reisz & Fröbisch, 2014; Reisz et al., 2016; Schultze, 1988, 1990; Schultze & Chorn, 1988; Wehrbein, 2016; Zidek, 1976, 1988, 1993.
+> - **Comments**: A world-class Konservat-Lagerstätte preserving a mixed marine–freshwater–terrestrial assemblage in an estuarine channel setting. Noted for exceptional soft-tissue preservation (pigmentation, eyes, skin) and ontogenetic series of acanthodians and xenacanths. Represents a key window into Late Pennsylvanian amniote diversification. (Mapes & Mapes, 1988; Cunningham et al., 1993; Reisz & Fröbisch, 2014)
+
 
 #### Commentry Basin, Allier Department, Auvergne-Rhône-Alpes, France
 > - **Age**: Gzhelian (Late Pennsylvanian; Late Stephanian, Stephanian B/C transition). (Schneider et al., 2010; Werneburg, 2019)
@@ -3595,6 +3603,7 @@ Voigt, S., Berman, D. S., & Henrici, A. C. (2019). Carboniferous–Permian tetra
 Voigt, S., Pöppelreiter, M. C., & Lützner, H. (2022). High-precision U-Pb age constraints on the Carboniferous–Permian transition in continental basins of eastern equatorial Pangaea. *International Journal of Earth Sciences*, 111, 2367–2388.
 
 Werneburg, R., Witzmann, F., Rinehart, L. F., & Fischer, J. (2024). A new eryopid temnospondyl from the Carboniferous–Permian boundary of Germany. *Journal of Paleontology*, 97(6), 1–31. https://doi.org/10.1017/jpa.2023.58
+
 
 
 
