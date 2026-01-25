@@ -1548,12 +1548,14 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: Shallow-marine carbonate platform deposits with tempestites. Type locality for the eugeneodontid *Karpinskiprion ivanovi* and the protacrodontid *Gzhelodus serratus*. The assemblage is dominated by durophagous chondrichthyans (cochliodonts, petalodonts) and ctenacanthiform sharks. (Ivanov, 2022; Lebedev & Itano, 2022)
 
 
-#### Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
-> - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
-> - **Taxa**: *Cladodus parauariensis*, 
-> - **Locality and horizon**: Itaituba Formation/Series, Pedra do Barco, municipality of Maues, Brazeau
-> - **References**: (Silva-Santos, 1967)
-> - **Comments**:
+#### Itaituba Formation, Pedra do Barco, Maués, Amazonas Basin, Brazil
+> - **Age**: Late Carboniferous (Pennsylvanian, Atokan/Moscovian). (Lemos et al., 2009; Silva Santos, 1967)
+> - **Taxa**:
+>> - Chondrichthyes: *Cladodus pirauariensis* (syn. *Glikmanius* sp.). (Silva Santos, 1967; Duffin et al., 1996; Chahud & Petri, 2012)
+> - **Locality and horizon**: Limestone outcrops at Pedra do Barco, on the banks of the Rio Parauari (Maués-Açu River), municipality of Maués, Amazonas State, Brazil. (Derby, 1877; Gonzaga de Campos, 1913; Silva Santos, 1967)
+> - **References**: Chahud & Petri, 2012; Derby, 1877; Duffin et al., 1996; Gonzaga de Campos, 1913; Lemos et al., 2009; Silva Santos, 1967.
+> - **Comments**: Type locality for *Cladodus pirauariensis*, long regarded as the only confirmed vertebrate record from the Itaituba Formation prior to later reports of microvertebrate assemblages near Itaituba City. Depositional setting is a shallow-marine carbonate shelf with abundant invertebrates (notably brachiopods) and conodonts. Subsequent taxonomic assessments suggest affinities of *C. pirauariensis* with the ctenacanthiform genus *Glikmanius*, based on tooth-base morphology. (Silva Santos, 1967; Duffin et al., 1996; Chahud & Petri, 2012)
+
 
 #### Wabaunsee Group (Upper Coal Measures), Manhattan, Riley & Wabaunsee Counties, Kansas, USA
 > - **Age**: Gzhelian (Virgilian Stage). (Baars et al., 1994; Sawin et al., 2008)
@@ -3686,6 +3688,7 @@ Alekseev, A. S., Goreva, N. V., & Isakova, T. N. (2015). *Type sections of the C
 Ivanov, A. O. (2022). New late Carboniferous chondrichthyans from the European Russia. *Bulletin of Geosciences*, *97*(2), 219–234. https://doi.org/10.3140/bull.geosci.1845
 
 Lebedev, O. A., & Itano, W. M. (2022). Tooth whorl structure, growth and function in a helicoprionid chondrichthyan *Karpinskiprion* nom. nov. (Eugeneodontiformes), with a revision of the family composition. *Earth and Environmental Science Transactions of the Royal Society of Edinburgh*, *113*(1–2), 1–19. https://doi.org/10.1017/S175569102200003X
+
 
 
 
