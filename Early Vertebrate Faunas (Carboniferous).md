@@ -1528,11 +1528,15 @@ The Francis Creek Shale Member was deposited largely from sediment washout from 
 > - **Comments**: Historically assigned to Stephanian A, but insect biostratigraphy (spiloblattinids) indicates a younger Gzhelian age. The vertebrate fauna includes the terrestrial amphibamiform *Anthracobamus* and the aquatic branchiosaurid *Branchiosaurus commentryensis* (formerly lumped as *Branchiosaurus fayoli*). (Schneider et al., 2010; Werneburg, 2019)
 
 #### Oscar Formation, southern Oklahoma, USA
-> - **Age**: Gzhelian, Late Pennsylvanian, Carboniferous
-> - **Taxa**: chondrichthyans (*Anodontacanthus belemnoideus*, , **, **,)
-> - **Locality and horizon**: Oscar Formation; Waurika #1 site, Jefferson County, southern Oklahoma, USA
-> - **References**: (Maisey, 1983; Shelton, 1979)
-> - **Comments**: Oscar Group, Preferred name of the Oklahoma Geol. Survey rather than Kansas names Council Grove and Chase. Described from Noble County, central northern Oklahoma. Includes (descending) Herington Limestone, Enterprise Shale, Winfield Limestone, Doyle Shale, Fort Riley Limestone, Matfield Shale, Wreford Limestone, Garrison Shale, and, in subsurface, Witney (Hodges) sand, Cottonwood Limestone, Hotson sand, and Neva Limestone. Total thickness about 650 feet; outcrop thickness about 300 feet. Overlies Vanoss Group (in subsurface); underlies Sumner Group. **Age is latest Pennsylvanian (Gearyan), based on fossil data (see Branson, 1962; Wilson and Rashid [abs.], 1971; Clendening [abs.], 1971); previously considered earliest Permian**. From (Shelton, 1979, Geology and mineral resources of Noble County, Oklahoma, with a chapter on petroleum by J.W. Shelton and W.A. Jenkins and a chapter on water resources by R.H. Bingham: Oklahoma Geological Survey Bulletin, no. 128, 66 p.)
+> - **Age**: Gzhelian (Late Pennsylvanian to Early Permian; correlates with Wolfcampian). (Olson, 1967; Simpson, 1979)
+> - **Taxa**:
+>> - Chondrichthyes: *Xenacanthus texensis*, *Orthacanthus compressus*, *Anodontacanthus belemnoideus*, *Hybodus* sp., *Petrodus occidentalis*. (Olson, 1967; Simpson, 1976; Zidek, 1978)
+>> - Actinopterygii: *Platysomus palmaris*, undifferentiated palaeoniscoids. (Cope, 1891; Olson, 1967; Zidek, 1992)
+>> - Sarcopterygii: *Sagenodus texensis*, *Gnathorhiza* sp., *Ectosteorhachis* sp. (Smith, 1927; Olson, 1967; Zidek, 1976)
+>> - Tetrapoda: *Dimetrodon limbatus*, *Dimetrodon dollovianus*, *Dimetrodon grandis*, *Dimetrodon macrospondylus*, *Edaphosaurus boanerges*, *Ophiacodon retroversus*, *Ophiacodon major*, *Eryops megacephalus*, *Trimerorhachis* sp., *Diplocaulus magnicornis*, *Archeria* sp., *Diadectes* sp., *Captorhinus aguti*, *Pantylus* sp. (Olson, 1967; Simpson, 1979; Romer & Price, 1940; Sullivan & Reisz, 1999)
+> - **Locality and horizon**: Waurika Sites 1, 2, and 3 (Jefferson County); Taylor Sites (East and Southwest, Jefferson/Cotton Counties). Fossiliferous shale lenses and channel fills ~40 ft below the Ryan–Asphaltum Sandstone. (Olson, 1967; Wegemann, 1915)
+> - **References**: Case, 1915; Cope, 1891; Olson, 1967; Romer & Price, 1940; Simpson, 1976, 1979; Smith, 1927; Sullivan & Reisz, 1999; Wegemann, 1915; Zidek, 1976, 1978, 1992.
+> - **Comments**: A “chronofauna” spanning the Pennsylvanian–Permian transition, with abundant aquatic (xenacanths, *Diplocaulus*) and semi-aquatic taxa (*Eryops*, *Ophiacodon*) alongside increasing terrestrial components (*Dimetrodon*, *Diadectes*). Bonebed lenses indicate deposition in stream channels and ponds within a deltaic complex. (Olson, 1967; Simpson, 1979)
 
 #### Kosherovo Formation, Dobryatinian Regional Stage, , Russia
 > - **Age**: Gzhelian
@@ -3647,6 +3651,7 @@ Zidek, J. (1988). Late Pennsylvanian acanthodians and chondrichthyans from Kansa
 Zidek, J. (1992). Actinopterygian fishes from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Kansas Geological Survey Bulletin*, 243, 1–50.
 
 Zidek, J. (1993). Xenacanth sharks from the Hamilton Quarry (Upper Pennsylvanian, Kansas). *Journal of Vertebrate Paleontology*, 13(3), 300–314.
+
 
 
 
