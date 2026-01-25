@@ -149,15 +149,6 @@
 > - **References**: Ginter & Sun, 2007; Hou et al., 1985; Wang & Turner, 1985.
 > - **Comments**: Pelagic slope carbonate facies lacking black shales; the first appearance of *Acanthodes guizhouensis* in sample GMII24 correlates with the base of the Carboniferous (*S. sulcata* zone); lower samples (GMII20, GMII21) represent the Late Famennian. (Wang & Turner, 1985)
 
-#### Salem Limestone, Lanesville, Harrison County, Indiana, USA
-> - **Age**: middle Visean (Cumings et al., 1906; Shaver et al., 1986)
-> - **Taxa**:
->> - Chondrichthyes: *Cladodus indianensis*, *Cladodus spinosus*, *Cladodus ferox*, *Cladodus lamnoides*, *Saivodus striatus* (syn. *Cladodus striatus*), *Ctenacanthus pellensis*, *Asteroptychius bellus* (syn. *Ctenacanthus bellus*), *Chomatodus lanesvillensis*, *Chomatodus inconstans*, *Chomatodus parallelus*, *Helodus incisus*, *Helodus coniculus*, *Helodus laevis*, *Helodus robustus*, *Helodus elegantulus*, *Helodus minutus*, *Helodus ornatus*, *Arcuodus bialveatus* (syn. *Deltodopsis bialveatus*), *Deltodus cinctus*, *Sandalodus convolutus*, *Psephodus latus*, *Orodus neglectus*, *Orodus simplex*, *Desmiodus salemensis*. (Branson, 1906; Duffin & Ginter, 2006; Eastman, 1903; Itano & Lambert, 2018; Maisey, 1981; Newberry & Worthen, 1866)
-> - **Locality and horizon**: Weathered residual red clay overlying the Salem Limestone at Lanesville, Harrison County, Indiana. (Cumings et al., 1906)
-> - **References**: Branson, 1906; Cumings et al., 1906; Duffin & Ginter, 2006; Eastman, 1903; Itano & Lambert, 2018; Maisey, 1981; Newberry & Worthen, 1866; Shaver et al., 1986.
-> - **Comments**: The Lanesville vertebrate fauna is characterized by an abundance of isolated teeth and spines found in residual clays derived from the weathering of the limestone; the assemblage is noted for the diminutive size of many specimens ("Spergen fauna" dwarfism), likely a result of taphonomic sorting in a high-energy shoal environment. (Cumings et al., 1906)
-
-
 #### Burlington limestone, Illinois and Iowa, USA
 > - **Age**: Late Tournaisian to Early Visean (Lane, 1978; Hoenig, 2019)
 > - **Taxa**:
@@ -167,7 +158,6 @@
 > - **Locality and horizon**: Burlington-Keokuk Fish Bed (BKFB) at the contact of the Cedar Fork Member of the Burlington Limestone and the Keokuk Limestone; localities include Nelson Quarry (Mediapolis, Iowa) and Biggsville Quarry (Illinois). (Hoenig, 2019; Cicimurri et al., 2024)
 > - **References**: St. John & Worthen, 1875; Newberry, 1889; Eastman, 1902; Hoenig, 2019; Cicimurri et al., 2024.
 > - **Comments**: A laterally extensive bone bed representing a transgressive lag deposit rich in disarticulated chondrichthyan teeth, spines, and denticles; represents a diverse durophagous and predatory guild inhabiting a crinoid-dominated carbonate ramp. (Hoenig, 2019; Cicimurri et al., 2024)
-
 
 #### Horton Bluff and Albert Formations, Bay of Fundy, Canada
 > - **Age**: Early to middle Tournaisian.
@@ -327,6 +317,14 @@
 > - **Locality and horizon**: Denée and Salet area, Dinant Sedimentation Area (DSA); specific horizons include "La Veine" and "Les Drîs" within the Le Cerisier, Meurisse, Piette, Les Neuf Bonniers, and Plantis Thomas quarries. (Fournier & Pruvost, 1928; Mottequin et al., 2015)
 > - **References**: Davis, 1883; Fournier & Pruvost, 1928; Mottequin, 2008; Mottequin et al., 2015; Poty et al., 2006; Traquair, 1878; van Beneden, 1871; Woodward, 1924.
 > - **Comments**: Exceptional marine Konservat-Lagerstätte (obrution deposit) formed by distal calcareous turbidites in an anoxic to dysoxic intra-platform basin; fossils are frequently articulated and occur primarily at the base of thin-bedded, laminated black limestone layers. (Mottequin, 2008; Mottequin et al., 2015)
+
+#### Salem Limestone, Lanesville, Harrison County, Indiana, USA
+> - **Age**: middle Visean (Cumings et al., 1906; Shaver et al., 1986)
+> - **Taxa**:
+>> - Chondrichthyes: *Cladodus indianensis*, *Cladodus spinosus*, *Cladodus ferox*, *Cladodus lamnoides*, *Saivodus striatus* (syn. *Cladodus striatus*), *Ctenacanthus pellensis*, *Asteroptychius bellus* (syn. *Ctenacanthus bellus*), *Chomatodus lanesvillensis*, *Chomatodus inconstans*, *Chomatodus parallelus*, *Helodus incisus*, *Helodus coniculus*, *Helodus laevis*, *Helodus robustus*, *Helodus elegantulus*, *Helodus minutus*, *Helodus ornatus*, *Arcuodus bialveatus* (syn. *Deltodopsis bialveatus*), *Deltodus cinctus*, *Sandalodus convolutus*, *Psephodus latus*, *Orodus neglectus*, *Orodus simplex*, *Desmiodus salemensis*. (Branson, 1906; Duffin & Ginter, 2006; Eastman, 1903; Itano & Lambert, 2018; Maisey, 1981; Newberry & Worthen, 1866)
+> - **Locality and horizon**: Weathered residual red clay overlying the Salem Limestone at Lanesville, Harrison County, Indiana. (Cumings et al., 1906)
+> - **References**: Branson, 1906; Cumings et al., 1906; Duffin & Ginter, 2006; Eastman, 1903; Itano & Lambert, 2018; Maisey, 1981; Newberry & Worthen, 1866; Shaver et al., 1986.
+> - **Comments**: The Lanesville vertebrate fauna is characterized by an abundance of isolated teeth and spines found in residual clays derived from the weathering of the limestone; the assemblage is noted for the diminutive size of many specimens ("Spergen fauna" dwarfism), likely a result of taphonomic sorting in a high-energy shoal environment. (Cumings et al., 1906)
 
 #### Anhée Formation, Royseux, Dinant Synclinorium, Belgium
 > - **Age**: Late Visean (*Gnathodus bilineatus* Zone). (Ivanov & Derycke, 2005; Poty et al., 2006)
@@ -706,14 +704,14 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: The assemblage is dominated by durophagous euchondrocephalan dentitions (petalodonts and cochliodonts) and ctenacanthoid spines, preserved in shallow-marine, bioclastic carbonate shelf deposits rich in crinoids and bryozoans. (Newberry & Worthen, 1866; St. John & Worthen, 1875)
 
 #### Chokier Formation, Belgium
-> - **Age**: Early Serpukhovian.
+> - **Age**: Serpukhovian–Bashkirian transition (Chokierian substage, Late Mississippian–Early Pennsylvanian). (Demanet, 1941; Nyhuis et al., 2014)
 > - **Taxa**:
->> -  Actinopterygii: *Elonichthys robinsoni*, *Mesonichthys aitkeni*, *Rhadinichthys raineri*.
->> -  Actinistia: *Rhabdoderma corneti*, *Rhabdoderma stensioei*.
->> -  Holocephali: *Physonemus konincki*.
-> - **Locality and horizon**: Chokier Formation, Belgium.
-> - **References**: Blieck & Lelievre, 1995; Derycke et al., 1995.
-> - **Comments**:  Marine, open marine
+>> - Chondrichthyes: *Listracanthus hystrix*, *Listracanthus beyrichi*, *Listracanthus konincki*, *Petrodus patelliformis*, *Xystracanthus konincki*, *Chomatodus arcuatus*, *Cladodus* sp., *Campodus* sp., *Thrinacodus incurvus* (syn. *Diplodus duplicatus*), *Xenacanthus latus* (syn. *Diplodus latus*). (Demanet, 1941; Derycke et al., 1995; Lohest, 1888)
+>> - Sarcopterygii: *Rhabdoderma corneti*, *Rhabdoderma stensioei*, *Rhabdoderma elegans*, *Rhabdoderma tingleyense*, *Rhabdoderma* sp. aff. *R. huxleyi*, *Strepsodus sauroides*, *Rhizodus lancifer*, *Megalichthys agassizianus*, *Megalichthys hibberti*, *Rhizodopsis minor*, *Rhizodopsis sauroides*. (Cloutier & Candilier, 1995; Demanet, 1941; Lohest, 1889)
+>> - Actinopterygii: *Acrolepis hopkinsi*, *Elonichthys aitkeni*, *Elonichthys robisoni*, *Elonichthys* sp., *Rhadinichthys renieri*, *Rhadinichthys* sp. (Demanet, 1941; Derycke et al., 1995; Lohest, 1888)
+> - **Locality and horizon**: Chokier (type locality), Flémalle, and exposures in the Namur and Dinant Synclinoria (e.g., Bois-et-Borsu Member); associated with marine ampelites (organic-rich black shales) and calcareous concretions. (Demanet, 1941; Nyhuis et al., 2014)
+> - **References**: Cloutier & Candilier, 1995; Demanet, 1941; Derycke et al., 1995; Lohest, 1888, 1889; Nyhuis et al., 2014.
+> - **Comments**: The Chokier Formation (“Houiller sans houille”) represents a drowned foreland basin setting characterized by anoxic, organic-rich black shales and radiolarian cherts; vertebrate remains occur mainly as isolated teeth, spines, and scales concentrated in marine bands and concretions. (Nyhuis et al., 2014)
 
 #### Blackband Ironstone / Borough Lee Ironstone / Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - **Age**: Middle Serpukhovian.
@@ -3713,6 +3711,7 @@ Vevel, Y. A., Zhuravlev, A. V., & Popov, V. V. (2012). The Devonian/Carboniferou
 Zhuravlev, A. V. (2018). Carbon isotope values in conodont elements from the latest Devonian–Early Carboniferous carbonate platform facies (Timan–Pechora Basin). *Estonian Journal of Earth Sciences*, 67(4), 238–246. https://doi.org/10.3176/earth.2018.17
 
 Zhuravlev, A. V., & Sobolev, D. B. (2019). Carbon isotope stratigraphy of the Tournaisian (Lower Carboniferous) in the Subpolar Urals (Timan–Pechora Province). *Bulletin of Geosciences*, 94(4), 483–494.
+
 
 
 
