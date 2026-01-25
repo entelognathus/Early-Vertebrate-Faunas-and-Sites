@@ -353,7 +353,7 @@
 >> - Acanthodii: *Gyracanthus? jasperi*. (Snyder et al., 2024)  
 >> - Chondrichthyes: *Dicentrodus* sp., *Cynopodius robustus*, Petalodontiformes indet. (Hampe et al., 2006; Burrow et al., 2025)  
 >> - Actinopterygii: Palaeonisciformes indet. (Bolt et al., 1988)  
-> - **Locality and horizon**: Hiemstra Quarry, near Delta, Keokuk County, Iowa, USA (41°17′41″N, 92°20′9″W). Fossils are concentrated in the "Main Bone Bed" (MBB) and associated facies within a complex of paleokarst collapse structures (sinkholes/fissure fills). These fills were originally assigned to the Waugh Member of the St. Louis Formation but have been biostratigraphically and lithologically correlated by some authors to the overlying Ste. Genevieve Formation, filling voids in the Verdi Member of the St. Louis Formation. (McKay et al., 1987; Bolt et al., 1988; Witzke et al., 1990; Snyder et al., 2024)  
+> - **Locality and horizon**: Hiemstra Quarry, near Delta, Keokuk County, Iowa, USA (41°17′41″N, 92°20′9″W). Fossils are concentrated in the "Main Bone Bed" (MBB) and associated facies within a complex of paleokarst collapse structures (sinkholes/fissure fills). These fills were originally assigned to the Waugh Member of the St. Louis Formation but have been biostratigraphically and lithologically correlated by some authors to the overlying Ste. Genevieve Formation, filling voids in the Verdi Member of the St. Louis Formation. (McKay et al., 1987; Bolt et al., 1988; Witzke et al., 1990; Snyder et al., 2024) 
 > - **References**: Bennett et al., 2016; Bolt & Lombard, 2001; Bolt & Lombard, 2006; Bolt & Lombard, 2010; Bolt et al., 1988; Burrow et al., 2025; Hampe et al., 2006; Lombard & Bolt, 1995; McKay et al., 1987; Otoo et al., 2019; Schultze & Bolt, 1996; Snyder et al., 2024; Witzke et al., 1990.  
 > - **Comments**: The Delta locality is a crucial "Romer's Gap" site, preserving one of the oldest and most diverse tetrapod assemblages in North America. The taphonomic setting is interpreted as a sinkhole lake or depression on an exposed karst surface, likely with brackish to freshwater conditions, which trapped a mix of aquatic (sharks, rhizodonts, lungfish) and semi-aquatic (tetrapods) fauna. *Whatcheeria deltae* is the most abundant tetrapod, represented by hundreds of elements indicating a largely aquatic lifestyle. The fauna demonstrates the early diversification of tetrapods and the persistence of archaic fish groups like gyracanthids and rhizodonts into the Carboniferous. The presence of *Dicentrodus* represents the earliest occurrence of xenacanth sharks in North America. (Bolt et al., 1988; Hampe et al., 2006; Otoo et al., 2019; Snyder et al., 2024)
 
@@ -385,7 +385,6 @@
 > - **Locality and horizon**: Mount Carbon, Schuylkill County (type locality for *Palaeosauropus* footprints); Indian Run Member (Middle Member), red siltstones and mudstones. (Fillmore et al., 2012)
 > - **References**: Fillmore et al., 2012; Hoque, 1968; Lucas et al., 2010; Vrazo et al., 2007. 
 > - **Comments**: Diagnostic tetrapod skeletal remains are absent at this locality due to oxidizing paleoenvironmental conditions (red beds); the vertebrate fauna is primarily known from an extensive ichnofossil record (footprints *Palaeosauropus*, body impressions *Temnocorpichnus*). Skeletal taxa often attributed to the "Mauch Chunk" (e.g., *Mauchchunkia*, *Proterogyrinus*, *Greererpeton*) are restricted to the lithostratigraphically equivalent Mauch Chunk Group of West Virginia. (Fillmore et al., 2012; Lucas et al., 2010)
-
 
 #### Hellefeld Formation, Westenfeld Quarry, Rhenish Mountains, Germany
 > - **Age**: Late Visean (Late Asbian, *Goniatites crenistria* Zone). (Ginter et al., 2015; Korn, 1996)
@@ -652,8 +651,17 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Ciampaglio et al., 2019; Cicimurri et al., 2024; Hodnett et al., 2024; Hoenig, 2019; Kammer et al., 1990; Keyes, 1895; Newberry & Worthen, 1866; Newberry, 1897; St. John & Worthen, 1875, 1883.
 > - **Comments**: The Keokuk Limestone represents a shallow marine carbonate ramp on the Burlington Shelf. The vertebrate assemblage is dominated by durophagous chondrichthyans (cochliodonts, petalodonts, orodonts) exploiting abundant benthic echinoderms and brachiopods. The Burlington–Keokuk Fish Bed is a condensation horizon yielding abundant microvertebrate remains through acid dissolution. *Helodus coxanus* has been reassigned to *Rotuladens*, and *Columnaodus witzkei* represents a newly described hybodont from this unit. (Hoenig, 2019; Cicimurri et al., 2024; Hodnett et al., 2024)
 
-> Late Dinantian in NW Europe 
-> East Kirkton Quarry, Bathgate, Scotland, late Visean. Pederpes, Crassigyrinus, Perittodus apsconditus, Koilops herma, Ossirarus kierani, Diploradus austiumensis, Aytonerpeton microps, Balanerpeton (a temnospondyl), Silvanerpeton and Eldeceeon (basal anthracosaurs), Westlothiana
+#### East Kirkton Limestone, East Kirkton Quarry, Bathgate, Scotland
+> - **Age**: Visean (Holkerian–Arundian)(Garza et al., 2025; Rolfe et al., 1994)
+> - **Taxa**:
+>> - Chondrichthyes: *Diplodoselache woodi*, *Tristychius arcuatus*. (Paton, 1994)
+>> - Acanthodii: *Acanthodes* sp., Climatiidae gen. et sp. indet. (Coates, 1994)
+>> - Actinopterygii: *Eurynotus* sp. (cf. *E. crenatus*), *Rhadinichthys* sp., *Elonichthys* sp., *Mesopoma* sp., *Cosmoptychius* sp., *Watsonichthys* sp. (Coates, 1993; Coates, 1994)
+>> - Sarcopterygii: Rhizodontida indet. (Coates, 1994)
+>> - Tetrapoda: *Balanerpeton woodi*, *Westlothiana lizziae*, *Eldeceeon rolfei*, *Silvanerpeton miripedes*, *Eucritta melanolimnetes*, *Ophiderpeton kirktonense*, *Kirktonecta milnerae*. (Clack, 1994, 1998, 2011; Milner, 1994; Milner & Sequeira, 1994; Smithson, 1994; Smithson et al., 1994)
+> - **Locality and horizon**: Bathgate Hills (55°54′14″N, 3°37′00″W); East Kirkton Limestone, Little Cliff Shale, and Geikie Tuff members of the West Lothian Oil Shale Formation. (Rolfe et al., 1994)
+> - **References**: Clack, 1994, 1998, 2011; Coates, 1993, 1994; Garza et al., 2025; Milner, 1994; Milner & Sequeira, 1994; Paton, 1994; Rolfe et al., 1994; Smithson, 1994; Smithson et al., 1994.
+> - **Comments**: A freshwater lacustrine to terrestrial ecosystem strongly influenced by volcanic activity (hot springs); the assemblage provides a key window into Romer’s Gap and preserves early temnospondyls and stem-amniotes. (Rolfe et al., 1994; Garza et al., 2025)
 
 #### Tula to Venev Horizons, Central part of the Russia platform, Tula, Russia
 > - **Age**: Visean. (Tulian, Aleksinian, Mikhailovian, and Venevian Regional Substages). (Lebedev, 1996; Lebedev et al., 2021)
@@ -3747,6 +3755,29 @@ Waters, C. N., & Davies, S. J. (2006). Carboniferous: extensional basins, advanc
 
 Woodward, A. S. (1891). A microsaurian (*Hylonomus wildi* sp. nov.) from the Lancashire Coal-field. *Geological Magazine*, 8(5), 211–213.
 
+Clack, J. A. (1994). *Silvanerpeton miripedes*, a new anthracosauroid from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 369–376.
+
+Clack, J. A. (1998). A new Early Carboniferous tetrapod with a mélange of crown-group characters. *Nature*, 394, 66–69. https://doi.org/10.1038/27865
+
+Clack, J. A. (2011). A new microsaur from the Early Carboniferous (Viséan) of East Kirkton, Scotland, showing soft tissue evidence. *Special Papers in Palaeontology*, 86, 45–55.
+
+Coates, M. I. (1993). Actinopterygian and acanthodian fishes from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 317–327.
+
+Coates, M. I. (1994). The origin of vertebrate limbs. *Development*, 1994(Supplement), 169–180.
+
+Garza, H. K., Catlos, E. J., Lapen, T. J., Clarke, J. A., & Brookfield, M. E. (2025). New U–Pb constraints and geochemistry of the East Kirkton Quarry, Scotland: implications for early tetrapod evolution in the Carboniferous. *PLoS ONE*, 20(4), e0321714. https://doi.org/10.1371/journal.pone.0321714
+
+Milner, A. C. (1994). The aistopod amphibian from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 363–368.
+
+Milner, A. R., & Sequeira, S. E. K. (1994). The temnospondyl amphibians from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 331–361.
+
+Paton, R. L. (1994). Elasmobranch fishes from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 329–330.
+
+Rolfe, W. D. I., Durant, G. P., Fallick, A. E., Hall, A. J., Large, D. J., Scott, A. C., Smithson, T. R., & Walkden, G. M. (1994). The East Kirkton Limestone, Viséan, West Lothian, Scotland: an introduction and stratigraphy. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 177–188.
+
+Smithson, T. R. (1994). *Eldeceeon rolfei*, a new reptiliomorph from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 377–382.
+
+Smithson, T. R., Carroll, R. L., Panchen, A. L., & Andrews, S. M. (1994). *Westlothiana lizziae* from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 387–412.
 
 
 
