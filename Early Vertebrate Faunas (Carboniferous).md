@@ -8,6 +8,9 @@
 <img width="957" height="899" alt="Snipaste_2026-01-22_13-55-33" src="https://github.com/user-attachments/assets/988657d3-7466-4276-a191-69ca0fe46fcb" />
 <img width="1044" height="781" alt="Snipaste_2026-01-22_17-29-57" src="https://github.com/user-attachments/assets/0993701d-e570-4508-8c34-709dd2016a61" />
 
+
+#### Westphalian A: late Bashkirian; Westphalian B: early Moscovian; Westphalian C: middle Moscovian; Westphalian D: late Moscovian
+
 ## Mississipian
 ### Tournaisian, Early Mississipian, Carboniferous
 #### Sunbury Shale, Ohio, USA
@@ -3778,6 +3781,7 @@ Rolfe, W. D. I., Durant, G. P., Fallick, A. E., Hall, A. J., Large, D. J., Scott
 Smithson, T. R. (1994). *Eldeceeon rolfei*, a new reptiliomorph from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 377–382.
 
 Smithson, T. R., Carroll, R. L., Panchen, A. L., & Andrews, S. M. (1994). *Westlothiana lizziae* from the Viséan of East Kirkton, West Lothian, Scotland. *Transactions of the Royal Society of Edinburgh: Earth Sciences*, 84(3–4), 387–412.
+
 
 
 
