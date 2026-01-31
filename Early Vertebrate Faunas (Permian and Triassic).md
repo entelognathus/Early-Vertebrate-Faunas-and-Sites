@@ -1526,6 +1526,13 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**: Thies, D. 1982. A eoselachian shark tooth from the lower Triassic of the Kocaeli (=Bithynian) Peninsula, W Turkey. N.Jb. Geol. Palaont. Mh.5:272-278.
 > - **Comments**: Permian and Triassic vertebrates from Turkey are poorly known.From the Middle-Late Permian actinopterygians and tetrapod footprints are known(Gandetal.2011;HHoşgöretal.,submitted) whereas chondrichthyes are known from the Lower Triassic (Thies, 1982) and phytosaurs from the Late Triassic (Buffetaut et al., 1988).
 
+#### Jabal Safra, Oman Mountains, Sultanate of Oman
+> - **Age**: Spathian, upper Olenekian, Lower Triassic
+> - **Taxa**: *Omanoselache halli*, cf. *Omanoselache* sp., *Safrodus tozeri*, *Safrodus* cf. *tozeri*, *Polyfaciodus pandus*, cf. *Polyfaciodus pandus*, cf. *Amelacanthus* sp.
+> - **Locality and horizon**: Jabal Safra, Oman Mountains, Sultanate of Oman, early Triassic
+> - **References**: Koot et al., 2014. New hybodontiform and neoselachian sharks from the Lower Triassic of Oman
+> - **Comments**: The fauna is dominated by Neoselachii, whereas other Early Triassic faunas are hybodont-dominated.
+
 ## MIDDLE Triassic: 
 ### Anisian（安尼期）, Middle Triassic
 #### Ermaying Formation（二马营组）， North China
@@ -3867,6 +3874,7 @@ Zou, X. D., Balini, M., Jiang, D. Y., Tintori, A., Sun, Z. Y., & Sun, Y. L. (201
 <img width="474" height="433" alt="Snipaste_2026-01-20_17-11-22" src="https://github.com/user-attachments/assets/de18ddd5-793f-47a4-ab73-2299545d3a6f" />
 <img width="2060" height="1645" alt="Snipaste_2026-01-20_17-12-02" src="https://github.com/user-attachments/assets/0c4ac666-8295-42d2-98a7-313cf1a58317" />
 <img width="1221" height="743" alt="image" src="https://github.com/user-attachments/assets/d703cc9c-7e30-4206-b244-3a1271448d0d" 
+
 
 
 
