@@ -1451,10 +1451,11 @@ Hopson, 1996
 #### Arcadia Formation, Queensland, Australia
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
->> - Chondrichthyes:
 >> - Actinopterygii: *Saurichthys giga*.
 >> - Sarcopterygii: *Aphelodus anapes*, *Namatozodia pitikanta*, *Ptychoceratodus phillipsi*
->> - Tetrapoda: *Acerastea wadeae*, *Arcadia	myriadens*, *Capulomala	arcadiaensis*, *Keratobrachyops australis*, *Lapillopsis	nana*, *Nanolania anatopretia*, Plagiobatrachus australis, Rewana	quadricuneata, Tirraturhinus smisseni, Warrenisuchus	aliciae, Watsonisuchus	gunganj, W. rewanensis, Xenobrachyops	allos, Trematosauridae	indet., Eomurruna	yurrgensis, Kadimakara	australiensis, Kalisuchus	rewanensis, Kudnu mackinlayi, Dicynodontia	indet.
+>> - Amphibians: *Acerastea wadeae*, *Arcadia	myriadens*, *Capulomala	arcadiaensis*, *Keratobrachyops australis*, *Lapillopsis	nana*, *Nanolania anatopretia*, *Plagiobatrachus australis*, *Rewana	quadricuneata*, *Tirraturhinus smisseni*, *Warrenisuchus	aliciae*, *Watsonisuchus	gunganj*, *W. rewanensis*, *Xenobrachyops*	allos, Trematosauridae	indet.,
+>> - Reptiles: *Eomurruna	yurrgensis*, *Kadimakara	australiensis*, *Kalisuchus	rewanensis*, *Kudnu mackinlayi*,
+>> - Synaspids: Dicynodontia	indet.
 > - **Locality and horizon**: Arcadia Formation, Rewan Group, Queensland, Australia. -24.46  148.62
 > - **References**:
 > - **Comments**:
