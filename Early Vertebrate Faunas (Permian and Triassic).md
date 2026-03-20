@@ -1454,8 +1454,8 @@ Hopson, 1996
 >> - Chondrichthyes:
 >> - Actinopterygii: *Saurichthys giga*.
 >> - Sarcopterygii: *Aphelodus anapes*, *Namatozodia pitikanta*, *Ptychoceratodus phillipsi*
->> - Tetrapoda: Acerastea wadeae, Arcadia	myriadens, Capulomala	arcadiaensis, Keratobrachyops australis, Lapillopsis	nana, Nanolania anatopretia, Plagiobatrachus australis, Rewana	quadricuneata, Tirraturhinus smisseni, Warrenisuchus	aliciae, Watsonisuchus	gunganj, W. rewanensis, Xenobrachyops	allos, Trematosauridae	indet., Eomurruna	yurrgensis, Kadimakara	australiensis, Kalisuchus	rewanensis, Kudnu mackinlayi, Dicynodontia	indet.
-> - **Locality and horizon**: Arcadia Formation, Queensland, Australia.
+>> - Tetrapoda: *Acerastea wadeae*, Arcadia	myriadens, Capulomala	arcadiaensis, Keratobrachyops australis, Lapillopsis	nana, Nanolania anatopretia, Plagiobatrachus australis, Rewana	quadricuneata, Tirraturhinus smisseni, Warrenisuchus	aliciae, Watsonisuchus	gunganj, W. rewanensis, Xenobrachyops	allos, Trematosauridae	indet., Eomurruna	yurrgensis, Kadimakara	australiensis, Kalisuchus	rewanensis, Kudnu mackinlayi, Dicynodontia	indet.
+> - **Locality and horizon**: Arcadia Formation, Rewan Group, Queensland, Australia. -24.46  148.62
 > - **References**:
 > - **Comments**:
 > - https://en.wikipedia.org/wiki/Arcadia_Formation,_Australia
