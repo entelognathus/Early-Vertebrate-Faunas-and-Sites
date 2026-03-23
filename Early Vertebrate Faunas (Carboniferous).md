@@ -920,17 +920,6 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **References**: Brauckmann et al., 2003; Hampe & Heidtke, 1997; Heidtke, 1996; Schultze, 1995.
 > - **Comments**: A Konservat-Lagerstätte preserving vertebrates in siderite concretions within fine-grained lagoonal or interdistributary bay deposits; *Acanthodes sippeli* is the dominant vertebrate. (Heidtke, 1996; Hampe & Heidtke, 1997)
 
-#### Joggins Formation, Cumberland Group, Joggins Fossil Cliffs, Nova Scotia, Canada
-> - **Age**: Bashkirian (Calder et al., 2006; Utting et al., 2010; Carpenter et al., 2015)
-> - **Taxa**:
->> - Tetrapoda: *Hylonomus lyelli*, *Protoclepsydrops haplous*, *Dendrerpeton acadianum*, *Dendrerpeton confusum*, *Dendrerpeton helogenes*, *Calligenethlon watsoni*, *Asaphestera platyris*, *Steenerpeton silvae*, *Leiocephalikon problematicum*, *Trachystegos megalodon*, *Hylerpeton dawsoni*, *Ricnodon* sp. (Steen, 1934; Carroll, 1964; Milner, 1996; Holmes et al., 1998; Calder et al., 2006; Mann et al., 2020)
->> - Chondrichthyes: *Ageleodus* sp., *Xenacanthus* sp., *Ctenacanthus* sp., *Gyracanthus* sp. (Carpenter et al., 2015)
->> - Sarcopterygii: *Megalichthys* sp., *Rhizodopsis* sp., *Sagenodus* sp., *Strepsodus* sp. (Carpenter et al., 2015)
->> - Actinopterygii: *Haplolepis* sp. (Carpenter et al., 2015)
-> - **Locality and horizon**: Joggins Fossil Cliffs (45°42′35″N, 64°26′09″W), eastern shore of Chignecto Bay; Joggins Formation, Cumberland Group. Fossils derive from erect lycopsid tree stumps (Division 4), bituminous limestones, and the Hebert sandstone beds. (Logan, 1845; Davies et al., 2005; Calder et al., 2006; Mann et al., 2020)
-> - **References**: Calder et al., 2006; Carpenter et al., 2015; Carroll, 1964; Davies et al., 2005; Holmes et al., 1998; Logan, 1845; Mann et al., 2020; Milner, 1996; Steen, 1934; Utting et al., 2010.
-> - **Comments**: A UNESCO World Heritage Site (“Coal Age Galápagos”). The formation records cyclic paralic deposition in a rapidly subsiding basin, ranging from brackish bays to coastal rainforests and alluvial plains. It is globally significant for preserving terrestrial tetrapods within hollowed erect lycopsid trunks, providing the earliest definitive records of amniotes (*Hylonomus*) and stem-synapsids (*Protoclepsydrops*). Aquatic facies yield diverse, euryhaline fish assemblages. (Calder et al., 2006; Carpenter et al., 2015; Mann et al., 2020)
-
 #### Wamsutta Formation, Lantern North, Plainville, Massachusetts, USA
 > - **Age**: Late Bashkirian (Knecht et al., 2024)
 > - **Taxa**:
@@ -1087,9 +1076,23 @@ The Granton or Muirhouse Shrimp Beds are exposed on the southern shore of the Fi
 > - **Comments**: Mixed assemblage deposited in an estuarine or marginal-marine setting, indicated by the co-occurrence of terrestrial/freshwater tetrapods and lungfish with marine chondrichthyans and algal oncolites. (Johnson & Thayer, 2009; Thayer, 1985)
 
 ### Moscovian,Middle Pennsylvanian, Carboniferous
+
+#### Joggins Formation, Cumberland Group, Joggins Fossil Cliffs, Nova Scotia, Canada
+> - **Age**: 
+> - **Taxa**:
+>> - Tetrapoda: *Hylonomus lyelli*, *Protoclepsydrops haplous*, *Dendrerpeton acadianum*, *Dendrerpeton confusum*, *Dendrerpeton helogenes*, *Calligenethlon watsoni*, *Asaphestera platyris*, *Steenerpeton silvae*, *Leiocephalikon problematicum*, *Trachystegos megalodon*, *Hylerpeton dawsoni*, *Ricnodon* sp. (Steen, 1934; Carroll, 1964; Milner, 1996; Holmes et al., 1998; Calder et al., 2006; Mann et al., 2020)
+>> - Chondrichthyes: *Ageleodus* sp., *Xenacanthus* sp., *Ctenacanthus* sp., *Gyracanthus* sp. (Carpenter et al., 2015)
+>> - Sarcopterygii: *Megalichthys* sp., *Rhizodopsis* sp., *Sagenodus* sp., *Strepsodus* sp. (Carpenter et al., 2015)
+>> - Actinopterygii: *Haplolepis* sp. (Carpenter et al., 2015)
+> - **Locality and horizon**: Joggins Fossil Cliffs (45°42′35″N, 64°26′09″W), eastern shore of Chignecto Bay; Joggins Formation, Cumberland Group. Fossils derive from erect lycopsid tree stumps (Division 4), bituminous limestones, and the Hebert sandstone beds. (Logan, 1845; Davies et al., 2005; Calder et al., 2006; Mann et al., 2020)
+> - **References**: Calder et al., 2006; Carpenter et al., 2015; Carroll, 1964; Davies et al., 2005; Holmes et al., 1998; Logan, 1845; Mann et al., 2020; Milner, 1996; Steen, 1934; Utting et al., 2010.
+> - **Comments**: A UNESCO World Heritage Site (“Coal Age Galápagos”). The formation records cyclic paralic deposition in a rapidly subsiding basin, ranging from brackish bays to coastal rainforests and alluvial plains. It is globally significant for preserving terrestrial tetrapods within hollowed erect lycopsid trunks, providing the earliest definitive records of amniotes (*Hylonomus*) and stem-synapsids (*Protoclepsydrops*). Aquatic facies yield diverse, euryhaline fish assemblages. (Calder et al., 2006; Carpenter et al., 2015; Mann et al., 2020)
+> - Bashkirian (Calder et al., 2006; Utting et al., 2010; Carpenter et al., 2015)
+
+
 #### Upper Freeport Coal (Diamond Mine), Linton, Jefferson County, Ohio, USA
 > - **Age**: Late Moscovian(Hook & Baird, 1986; Mann et al., 2019)
-> - **Taxa**:
+> - **Taxa**: Moscovian.
 >> - Chondrichthyes: *Orthacanthus adamas* (syn. *O. gracilis*), *Orthacanthus lintonensis* (syn. *Diplodus gracilis*), *Xenacanthus* sp. (Hook & Baird, 1986; Babcock, 2024)
 >> - Actinopterygii: *Haplolepis corrugata* (syn. *Eurylepis striolatus*), *Parahaplolepis tuberculata*, *Microhaplolepis ovoidea*, *Pyritocephalus lineatus*, *Elonichthys* sp. (Newberry, 1857; Westoll, 1944; Babcock, 2024)
 >> - Sarcopterygii: *Rhabdoderma elegans*, *Sagenodus serratus*, *Conchopoma* sp., *Megalichthys* sp. (Hook & Baird, 1986; Newberry, 1873)
