@@ -1487,8 +1487,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**: 
 
-
-
+![oo_1484519](https://github.com/user-attachments/assets/4e5df359-082c-425d-b05f-c7f320d0ff71)
 
 #### Kzyl-Sai and Rassypnaya locality, Orenburg, Russia
 > - **Age**: Spathian, late Olenekian, Early Triassic.
