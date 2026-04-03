@@ -1487,6 +1487,9 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **References**:
 > - **Comments**: 
 
+
+
+
 #### Kzyl-Sai and Rassypnaya locality, Orenburg, Russia
 > - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**: the temnospondyl Parotosuchus orenburgensis, the archosauriform Chasmatosuchus magnus (=‘Jaikosuchus magnus’; the non-archosauriform archosauromorph Vritramimosaurus dzerzhinskii, and the therocephalian Silphedosuchus orenburgensis. Garjainia prima, Garjainia triplicostata (‘Vjushkovia triplicostata’ von Huene, 1960)
