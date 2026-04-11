@@ -1510,7 +1510,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - https://en.wikipedia.org/wiki/Cynognathus_Assemblage_Zone
 > - Based on tentative biostratigraphic correlations, the Cynognathus Assemblage Zone is considered to have been emplaced from approximately 249 to 244 Ma, in the later part of the Early Triassic and early part of the Middle Triassic.
 > - Subzone A: The Langbergia-Garjainia Subzone (Subzone A) is the oldest subzone in the Cynognathus Assemblage Zone. Olenekian.
-> - Subzone B: The Trirachodon-Kannemeyeria Subzone (Subzone B) corresponds to traditional conceptions of the Cynognathus Assemblage Zone. Early Anisian.
+> - Subzone B: The Trirachodon-Kannemeyeria Subzone (Subzone B) corresponds to traditional conceptions of the Cynognathus Assemblage Zone. Early and Middle Anisian
 > - Subzone C: The Cricodon-Ufudocyclops Subzone (Subzone C) is the youngest subzone, and has the most restricted exposures and fossil content. Late Anisian.
 
 #### Czatkowice quarry, Krakow Upland, Poland
@@ -1581,6 +1581,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 >> - Batrachosuchus browni, Jammerbergia formops, Laidleria gracilis, Microposaurus casei, Paracyclotosaurus morganorum, Vanastega plurimidens, Xenotosuchus africanus
 >> - Bolotridon frerensis, Cricodon metabolus, Cricodon kannemeyeri, Cynognathus crateronotus, Diademodon tetragonus, Guttigomphus avilionis, Impidens hancoxi, Lumkuia fuzzi, Kannemeyeria simocephalus, Kombuisia frerensis, Shansiodon sp., Ufudocyclops mukanelai, Bauria cynops, Microgomphodon oligocynus, Eohyosaurus wolvaardti, Erythrosuchus africanus, Euparkeria capensis, Howesia browni, Mesosuchus browni, Myocephalus crassidens, Palacrodon browni, Teratophon spinigenis, Theledectes perforatus, Thelephon contritus, Thelerpeton oppressus
 > - **Locality and horizon**: Subzones B and C, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa.
+> - Subzone B, early and middle Anisian; Subzone C, late Anisian.
 > - **References**:
 > - **Comments**:
 
