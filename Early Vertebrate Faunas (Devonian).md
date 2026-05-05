@@ -933,22 +933,50 @@ Mandageria fairfaxi
 #### Kellwasserkalk Formation, Bad Wildungen, Hessen, Germany
 > - **Age**: late Frasnian. 
 > - **Taxa**:
->- Arthrodira: *Aspidichthys ingens*; *Belosteus elegans*; *Belosteus major*; *Brachydeirus bicarinatus*;*Brachydeirus carinatus*; *Brachydeirus gracilis*; *Brachydeirus grandis*; *Brachydeirus magnus*; *Brachydeirus minor*; *Brachyosteus dietrichi*; *Braunosteus schmidti*; *Cyrtosteus inflatus*; *Enseosteus hermanni*; *Enseosteus jaekeli*; *Enseosteus marocanensis*; *Enseosteus pachyostoides*; *Erromenosteus brachyrostris*; *Erromenosteus concavus*; *Erromenosteus diensti*; *Erromenosteus inflatus*; *Erromenosteus koeneni*; *Erromenosteus lucifer*; *Erromenosteus platycephalus*; *Hadrosteus rapax*; *Leptosteus bickensis*; *Microsteus angusticeps*; *Microsteus dubius*; *Microsteus gracilis*; *Oxyosteus magnus*; *Oxyosteus rostratus*; *Pachyosteus bulla*; *Parabelosteus acuticeps*; *Parabelosteus pusillus*; *Parabelosteus tuberculatus*; *Pholidosteus friedeli*; *Pholidosteus laevior*; *Rhinosteus parvulus*; *Rhinosteus traquairi*; *Rhinosteus tuberculatus*; *Synauchenia coalescens*; *Tapinosteus heintzi*; *Trematosteus fontanellus*; *Walterosteus grossi*
->- Rhenanida: *Jagorina pandora*
->- Ptyctodontida: *Rhynchodus tetrodon*; *R. eximius*; *R. wildungensis*
->- Petalichthyida: *Epipetalichthys wildungensis*
->- Antiarcha: *Lepadolepis stensioei*
->- Acanthodii: *Homacanthus jaekeli*
->- Chondrichthyes: *Protacrodus vetustus*; *'Cladodus' wildungensis*; *'C.' hassiacus*
->- Actinopterygii: *Moythomasia laevigata*; *M. striata*
->- Sarcopterygii: *Onychodus jaekeli*; *Diplocercides jaekeli*; *D. kayseri*; *Chirodipterus wildungensis*; *Devonosteus proteus*; ? *Glyptopomus traquairi* 
+>>- Arthrodira: *Aspidichthys ingens*; *Belosteus elegans*; *Belosteus major*; *Brachydeirus bicarinatus*;*Brachydeirus carinatus*; *Brachydeirus gracilis*; *Brachydeirus grandis*; *Brachydeirus magnus*; *Brachydeirus minor*; *Brachyosteus dietrichi*; *Braunosteus schmidti*; *Cyrtosteus inflatus*; *Enseosteus hermanni*; *Enseosteus jaekeli*; *Enseosteus marocanensis*; *Enseosteus pachyostoides*; *Erromenosteus brachyrostris*; *Erromenosteus concavus*; *Erromenosteus diensti*; *Erromenosteus inflatus*; *Erromenosteus koeneni*; *Erromenosteus lucifer*; *Erromenosteus platycephalus*; *Hadrosteus rapax*; *Leptosteus bickensis*; *Microsteus angusticeps*; *Microsteus dubius*; *Microsteus gracilis*; *Oxyosteus magnus*; *Oxyosteus rostratus*; *Pachyosteus bulla*; *Parabelosteus acuticeps*; *Parabelosteus pusillus*; *Parabelosteus tuberculatus*; *Pholidosteus friedeli*; *Pholidosteus laevior*; *Rhinosteus parvulus*; *Rhinosteus traquairi*; *Rhinosteus tuberculatus*; *Synauchenia coalescens*; *Tapinosteus heintzi*; *Trematosteus fontanellus*; *Walterosteus grossi*
+>>- Rhenanida: *Jagorina pandora*
+>>- Ptyctodontida: *Rhynchodus tetrodon*; *R. eximius*; *R. wildungensis*
+>>- Petalichthyida: *Epipetalichthys wildungensis*
+>>- Antiarcha: *Lepadolepis stensioei*
+>>- Acanthodii: *Homacanthus jaekeli*
+>>- Chondrichthyes: *Protacrodus vetustus*; *'Cladodus' wildungensis*; *'C.' hassiacus*
+>>- Actinopterygii: *Moythomasia laevigata*; *M. striata*
+>>- Sarcopterygii: *Onychodus jaekeli*; *Diplocercides jaekeli*; *D. kayseri*; *Chirodipterus wildungensis*; *Devonosteus proteus*; ? *Glyptopomus traquairi* 
 > - **Locality and horizon**: Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
 > - **References**:
 > - **Comments**: Bad Wildungen fauna.  conodont Zone 13 (bogartensis).
 > 
 
+####  Kellwasser facies, eastern Anti-Atlas (Tafilalt and Mader), Morocco
+> - **Age**:late Frasnian. 
+> - **Taxa**: 
+> - **Locality and horizon**: 1– Ouidane Chebbi, 2– Achguig South, 3– Achguig, 4– Khorb el Atil, 5– Achguig Tahtani, 6– Hassi Tis serdimine, 7– Hassi Nebech, 8– Bou El Kikhe, 9– Jebel Bou Ifarherioun, 10– Mech Irdane, 11– Oued Talilit, 12– Lahmida, 13– Mimsmarn, 14– Ait ou Nebgui. Kellwasser facies, eastern Anti-Atlas (Tafilalt and Mader), Morocco
+> - **References**:
+> - **Comments**: Sahara Craton. conodont Zone 13 (bogartensis).
 
-La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
+
+#### La Serre C section, Montagne Noire, France 
+> - **Age**: late Frasnian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+
+#### Holy Cross Mountains, Poland
+> - **Age**: late Frasnian
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
+#### Iran.
+> - **Age**: late Frasnian
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+
 
 ***Englewood Formation, South Dakota School of Mines V873, USA***: Frasnian
 > - *Cladodus eriensis*, *Cladodus springeri*
