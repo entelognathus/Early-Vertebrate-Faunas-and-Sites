@@ -922,8 +922,17 @@ Mandageria fairfaxi
 > - Actinopterygii: *Cheirolepis canadensis*
 > - Sarcopterygii: *Miguashaia bureaui*; *Scaumenacia curta*; *Fleurantia denticulata*; *Holoptychius jarviki*; *Quebecius quebecensis*; Holoptychiidae gen. et sp. indet.; *Eusthenopteron foordi*; Osteolepiformes indet.; *Callistiopterus clappi*; *Elpistostege watsoni*
 
-***Bad Wildungen fauna***: late Frasnian. 
-> Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
+
+#### Formation, Locality
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
+>
+#### Kellwasserkalk Formation, Bad Wildungen, Hessen, Germany
+> - **Age**: late Frasnian. 
+> - **Taxa**:
 >- Arthrodira: *Aspidichthys ingens*; *Belosteus elegans*; *Belosteus major*; *Brachydeirus bicarinatus*;*Brachydeirus carinatus*; *Brachydeirus gracilis*; *Brachydeirus grandis*; *Brachydeirus magnus*; *Brachydeirus minor*; *Brachyosteus dietrichi*; *Braunosteus schmidti*; *Cyrtosteus inflatus*; *Enseosteus hermanni*; *Enseosteus jaekeli*; *Enseosteus marocanensis*; *Enseosteus pachyostoides*; *Erromenosteus brachyrostris*; *Erromenosteus concavus*; *Erromenosteus diensti*; *Erromenosteus inflatus*; *Erromenosteus koeneni*; *Erromenosteus lucifer*; *Erromenosteus platycephalus*; *Hadrosteus rapax*; *Leptosteus bickensis*; *Microsteus angusticeps*; *Microsteus dubius*; *Microsteus gracilis*; *Oxyosteus magnus*; *Oxyosteus rostratus*; *Pachyosteus bulla*; *Parabelosteus acuticeps*; *Parabelosteus pusillus*; *Parabelosteus tuberculatus*; *Pholidosteus friedeli*; *Pholidosteus laevior*; *Rhinosteus parvulus*; *Rhinosteus traquairi*; *Rhinosteus tuberculatus*; *Synauchenia coalescens*; *Tapinosteus heintzi*; *Trematosteus fontanellus*; *Walterosteus grossi*
 >- Rhenanida: *Jagorina pandora*
 >- Ptyctodontida: *Rhynchodus tetrodon*; *R. eximius*; *R. wildungensis*
@@ -933,6 +942,11 @@ Mandageria fairfaxi
 >- Chondrichthyes: *Protacrodus vetustus*; *'Cladodus' wildungensis*; *'C.' hassiacus*
 >- Actinopterygii: *Moythomasia laevigata*; *M. striata*
 >- Sarcopterygii: *Onychodus jaekeli*; *Diplocercides jaekeli*; *D. kayseri*; *Chirodipterus wildungensis*; *Devonosteus proteus*; ? *Glyptopomus traquairi* 
+> - **Locality and horizon**: Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone) 51.0867, 9.1317
+> - **References**:
+> - **Comments**: Bad Wildungen fauna.  conodont Zone 13 (bogartensis).
+> 
+
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
