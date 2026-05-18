@@ -1497,7 +1497,7 @@ The Gogolin beds (Upper Buntsandstein) of Upper Silesia, Poland, yield fossils o
 > - **Comments**: Both the Fedorovkian and Gamian gorizonts are dated as latest Early Triassic (late Olenekian) in age, based on the occurrence of the index genus for the Yarengian (the temnospondyl Parotosuchus) in strata containing biostratigraphically informative ammonites and miospores. Yarengian Supergorizont. 
 
 #### Subzone A, Burgerdorp Formation, Takastad Subgroup, Karoo Supergroup, Karoo Basin, South Africa
-> - **Age**: Olenekian, Late Early Triassic. 
+> - **Age**: Spathian, late Olenekian, Early Triassic.
 > - **Taxa**:
 >> - Chondrichthyans: *Lissodus tumidoclavus*; *Polyacrodus* sp.;
 >> - Actinopterygians: *Saurichththys*sp.,
