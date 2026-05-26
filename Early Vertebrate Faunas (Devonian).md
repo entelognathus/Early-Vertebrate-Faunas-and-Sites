@@ -424,7 +424,7 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 
 
 ***Taemas-Buchan fauna***: Emsian, 407.6, 393.3
-> Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
+> Taemas Formation, Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
 
 > - *Turinia* sp. cf. *T. australiensis* Basden, 1999
 > - *Cheiracanthoides comptus* Giffin, 1980; *Cheiracanthoides* sp. cf. *C. wangi* [Basden, 2001]; Taemasacanthus erroli Long, 1986; Taemasacanthus porca Lindley, 2000; Taemasacanthus narrengullenensis Lindley, 2002a; Taemasacanthus cooradigbeensis Lindley, 2002a; Cavanacanthus warrooensis Lindley, 2000; Cambaracanthus goodhopensis Lindley, 2000; Nostolepis guangxiensis Wang, 1992 [Basden, 2001]; Nostolepoides platymarginata Burrow, 1997 [Basden, 2001]; Trundlelepis cervicostulata Burrow, 1997 [Basden, 2001]; Gomphonchus? bogongensis Burrow, 1997 [Basden, 2001]
@@ -434,6 +434,10 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - Buchanosteus confertituberculatus Young, 1979; Parabuchanosteus murrumbidgeensis White and Toombs, 1972; buchanosteid n. sp. [ridged ornament] ANU 49387 [skull, braincase]; buchanosteid n. sp. [anterior nasal openings] ANU V2418 [rostral capsule]; Burrinjucosteus asymmetricus White, 1978; Goodradigbeeon australianum White, 1978; Taemasosteus novaustrocambricus White, 1952; Toombsosteus denisoni White, 1978; Arenipiscis westolli Young, 1981; Errolosteus goodradigbeensis Young, 1981; Williamsaspis bedfordi White, 1952; Cavanosteus australis (McCoy) Young, 2004a; Cathlesichthys weejasperensis Young, 2004b; Dhanguura johnstoni Young, 2004b; Bimbianga burrinjuckensis Young, 2005; ?holonematid n. g. [?Bimbianga sp. 2] ANU V2933 [SO plate]; Elvaspis tuberculata Young, 2009; Elvaspis whitei Young, 2009; small brachythoracid n. g. ANU 49384 [complete skeletons]; brachythoracid n.g. 1‘highly arched’ (Young, 2009, p. 76) ANU V114 [PNu plate]; brachythoracid n.g. 2 [long para-articular process] ANU V156 [PNu plate]; brachythoracid n.g. 3 [MD contacts vertebral column] ANU V3118 [MD plate]; brachythoracid n.g. 4 [MD rounded carinal process; ANU V1059, 2386, 2403, 35332]; ?heterostiid n.g. [long cheek] ANU V79 [SO plate]; ?Antineosteus n.sp. ANU V1970 [SO plate]; ?Atlantidosteus n.sp. ANU V2946 [SO plate]; ‘coccosteid’ [lacking median spine] ANU V2899 [MD plate]; ‘coccosteid’ [posterior median spine] sp. 1 ANU V124, 1209, 2447 [MD plates]; ‘coccosteid’ [smooth posterior median spine] sp. 2 ANU V 3244 [MD]; ‘coccosteid’ [no spine; posterior carinal process] ANU V1863 [MD]
 > - Weejasperaspis gavini White, 1978; weejasperaspid n.g. [long spinal] ANU V38 [shoulder girdle]; Brindabellaspis stensioi Young, 1980; brindabellaspid n.g. [with spines] ANU V1062, 1264, 1883, 2925 [shoulder girdles, spines]; Murrindalaspis wallacei Long and Young, 1988; rhenanid n.g. ANU V1077 [skull and braincase]; Notopetalichthys hillsi Woodward, 1941; Wijdeaspis warrooensis Young, 1978; Shearsbyaspis oepiki Young, 1985; Lunaspis sp. Young, 1985; petalichthyid n.g. ANU V2859 [skull and braincase]; ptyctodontid n.g. Young, 1976; ?ptyctodontid n. g. ANU V2902 [skull and braincase]; placoderm n.g. [reverse neckjoint articulation] ANU V2392 [ADL plate]; placoderm n.g. [indet. bone] ANU V3123 [shoulder girdle plate]
 > - new genus and species [‘fish vertebrae’; Zapaznik and Johnston, 1984]; Ohioaspis tumulosa Giffi n, 1980
+
+> - **References**:
+> - **Comments**: Taemas Limestone.
+
 
 **Campbellton Formation, basal Atholville beds, early Emsian, Campbellton, northern New Brunswick, Canada**
 > - **Age**: Early Emsian
