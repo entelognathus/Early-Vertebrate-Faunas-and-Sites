@@ -739,9 +739,8 @@ Gauja stage (late Givetian)
 
 > - *Bothriolepis bindareei* Long, 1983, *Briagakeous warrenti* (Long, 1983).  
 
-***Merriganowry fauna***, upper Givetian, 384.37, 382.7 
-> Merriganowry Shale Member, near Cowra, New South Wales, Australia.
-
+***Merriganowry fauna***, late Givetian, 384.37, 382.7 
+> Merriganowry Shale Member, Dulladerry Volcanics, near Cowra, New South Wales, Australia.
 > - Merriganowry Shale Member overlies the Hervey Group.
 > - *Cowralepis mclachlani* Ritchie, 2005.
 
