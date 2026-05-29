@@ -567,26 +567,25 @@ Megalichthyinae, tristichopterids (‘Eusthenopteridae’ in Long et al., 2018),
 
 #### Pärnu Formation, Baltic states.
 > - **Age**: early Eifelian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Taxa**: Gyroptychius latvicus Vorobyeva, 1981 
+> - **Locality and horizon**: Pärnu Formation, Baltic states.
 > - **References**:
-> - **Comments**:Pärnu Regional Stage fauna
+> - **Comments**: Pärnu Regional Stage fauna
 
 #### Narva Formation, Baltic states.
-> - **Age**: early Eifelian.
-> - **Taxa**:
-> - **Locality and horizon**:
+> - **Age**: late Eifelian.
+> - **Taxa**: Gyroptychius grossi Vorobyeva, 1981 
+> - **Locality and horizon**: Narva Formation, Baltic states.
 > - **References**:
-> - **Comments**:Narva Regional Stage fauna
+> - **Comments**: Narva Regional Stage fauna
 
 #### Aruküla Formation, Baltic states.
 > - **Age**: late Eifelian.
-> - **Taxa**:
-> - **Locality and horizon**: Aruküla Formation, Baltic.
+> - **Taxa**: Gyroptychius milleri Jarvik, 1948; Gyroptychius pauli Vorobyeva, 1977
+> - **Locality and horizon**: Aruküla Formation, Baltic states.
 > - **References**:
 > - **Comments**:Aruküla Formation fauna. Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
 and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fig. 3, Mark-Kurik and Poldvere, 2012), The Aruküla RSs is in early Givetian. In (Plink-Björklund, 2012), the Aruküla RSs was also put in early Givetian.  
-
 
 
 ****Hatchery Creek fauna****, Eifelian;
@@ -598,7 +597,7 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 > - cf. *Kenichthys* [‘Gyroptychius’ australis Young & Gorter 1981]; osteolepiform gen. et. sp. nov. 2 (Hunt 2008); osteolepiform gen. et. sp. nov. 3 (Hunt 2008); ?onychodontid indet. (Hunt 2008)
 > - Placodermi: *Edgellaspis gorteri* Hunt & Young 2011; *Denisonosteus weejasperensis* Young & Gorter 1981; cf. *Denisonosteus* sp. nov. (Hunt 2005); coccosteomorph cf. *Coccosteus* (Hunt 2008); *Sherbonaspis hillsi* Young & Gorter 1981; cf. *Sherbonaspis* sp. nov. (Hunt 2005); *Monarolepis verrucosa* (Young & Gorter) Young 1988
 
-****Arukula Formation, Latvia, Vidrizhi-10 well****, Eifelian
+
 
 
 ****Upninkai Formation, Dvoriki-2 well, Kaliningrad region, Russia****, Eifelian-Givetian
@@ -629,17 +628,12 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 **Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: 
 > Givetian, Middle Devonian 
 
-***Burtnieki Formation fauna***: 
-> lower Givetian
-> Burtnieki Formation, Baltic.
-
-
-1. Gyroptychius elgae Vorobyeva, 1977 | Burtnieki Stage (middle Givetian)
-2. Gyroptychius grossi Vorobyeva, 1981 | Narva Stage (late Eifelian)
-3. Gyroptychius latvicus Vorobyeva, 1981 | Pärnu Stage (early Eifelian)
-4. Gyroptychius milleri Jarvik, 1948 | Aruküla Stage (early Givitian)
-5. Gyroptychius pauli Vorobyeva, 1977 | Aruküla Stage (early Givetian)
-Gauja stage (late Givetian)
+#### Burtnieki Formation, Baltic states.
+> - **Age**: early Givetian.
+> - **Taxa**: Gyroptychius elgae Vorobyeva, 1977 
+> - **Locality and horizon**: Burtnieki Formation, Baltic states.
+> - **References**:
+> - **Comments**: Burtnieki Formation fauna.
 
 **Rousay Formation fauna**: early Givetian
 > Rousay Formation (comprising Upper Roysay, Middle Rousay, Lower Rousay) and underlying Upper Stromness Flagstone.
@@ -656,9 +650,13 @@ Gauja stage (late Givetian)
 > Comprising *Tristichopterus alatus* Egerton, 1861; *Watsonosteus fletti*, *Microbrachius dicki*.
 
 
-***Gauja Formation fauna***: upper Givetian, 384.4, 382.7
-> Gauja Formation, Lode Quarry, Latvia.
-> - Used to be of Late Devonian age.
+#### Gauja Formation, Baltic states.
+> - **Age**: late Givetian. 384.4, 382.7
+> - **Taxa**: 
+> - **Locality and horizon**: Gauja Formation, Baltic states. Lode Quarry, Latvia.
+> - **References**:
+> - **Comments**: Gauja Formation fauna. Used to be of Late Devonian age.
+
 
 | Clade         |                           | taxa                          |
 |---------------|---------------------------|-------------------------------|
