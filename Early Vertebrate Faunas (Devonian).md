@@ -565,15 +565,29 @@ Megalichthyinae, tristichopterids (‘Eusthenopteridae’ in Long et al., 2018),
 > - Actinopterygii  *Cheirolepis trailli*
 > - Sarcopterygii   *Dipterus valenciennesi*, *Pentlandia macroptera* (note: middle Givetian, 384.99, 387.30 (Jude et al., 2014)), *Glyptolepis paucidens*, *G. leptopterus*, *Osteolepis macrolepidotus*, *Gyroptychius agassizi*
 
-***Pärnu Regional Stage fauna***: 
-> lower Eifelian.
+#### Pärnu Formation, Baltic states.
+> - **Age**: early Eifelian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:Pärnu Regional Stage fauna
 
+#### Narva Formation, Baltic states.
+> - **Age**: early Eifelian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:Narva Regional Stage fauna
 
-***Aruküla Formation fauna***: 
-> upper Eifeilian 
-> Aruküla Formation, Baltic.
--> Comment: Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
+#### Aruküla Formation, Baltic states.
+> - **Age**: late Eifelian.
+> - **Taxa**:
+> - **Locality and horizon**: Aruküla Formation, Baltic.
+> - **References**:
+> - **Comments**:Aruküla Formation fauna. Further study of Devonian deposits in the Baltic area produced two positions for the Eifelian/Givetian boundary: either between the Narva and Aruküla RSs or the Aruküla  
 and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fig. 3, Mark-Kurik and Poldvere, 2012), The Aruküla RSs is in early Givetian. In (Plink-Björklund, 2012), the Aruküla RSs was also put in early Givetian.  
+
+
 
 ****Hatchery Creek fauna****, Eifelian;
 > Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia. MAV3,
@@ -585,6 +599,8 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 > - Placodermi: *Edgellaspis gorteri* Hunt & Young 2011; *Denisonosteus weejasperensis* Young & Gorter 1981; cf. *Denisonosteus* sp. nov. (Hunt 2005); coccosteomorph cf. *Coccosteus* (Hunt 2008); *Sherbonaspis hillsi* Young & Gorter 1981; cf. *Sherbonaspis* sp. nov. (Hunt 2005); *Monarolepis verrucosa* (Young & Gorter) Young 1988
 
 ****Arukula Formation, Latvia, Vidrizhi-10 well****, Eifelian
+
+
 ****Upninkai Formation, Dvoriki-2 well, Kaliningrad region, Russia****, Eifelian-Givetian
 ***Wurungulepis fauna***, upper Eifelian;
 > Broken River Formation, Queensland, Australia. MAV4
