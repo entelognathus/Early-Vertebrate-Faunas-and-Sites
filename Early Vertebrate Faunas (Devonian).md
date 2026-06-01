@@ -301,11 +301,12 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 > - *Anarthraspis chamberlini*, *Anarthraspis montana*, *Bryantolepis brachycephala*, *Bryantolepis crista*, *Onchus peracutus*, *Onchus penetrans*
 > - *Simblaspis* sp., *Aethaspis* sp. 
 
-***lower Grassy Flat Member of Water Canyon Formation fauna***: Emsian, 407.6, 393.3
-> the lower Grassy Flat Member of the Water Canyon Formation, the Sandy Member of Sevy Dolomite, Cherty Argillaceous Unit; USA.
-
-> - *Bryantolepis williamsi* Elliott and Carr, 2009; 
-
+#### Grassy Flat Member, Water Canyon Formation
+> - **Age**: Emsian. 407.6, 393.3
+> - **Taxa**: Aethaspis major, Aethaspis utahensis, *Bryantolepis williamsi* Elliott and Carr, 2009; Allocryptaspis utahensis; Bryantonchus peracutus; Cacheacanthus utahensis; Cardipeltis wallacii; Cephalaspis brevirostris; Lechriaspis patula; Nodocosta denisoni; Oreaspis dunklei; Pinnacanthus inequistriatus; Protaspis bucheri; Protaspis dorfi; Protaspis priscillae; Protaspis tenuistriatus; Ptychodictyon americanum; Sevyacanthus elliotti; Simblaspis cachensis
+> - **Locality and horizon**: the lower Grassy Flat Member of the Water Canyon Formation, the Sandy Member of Sevy Dolomite, Cherty Argillaceous Unit; USA.
+> - **References**:
+> - **Comments**:
 
 ***Kemeri Regional Stage fauna***: Pragian to lower Emsian, 410.8, 400.45
 > - *Actinolepis spinosa* Mark-Kurik, 1985
