@@ -626,9 +626,27 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 > Givetian, Middle Devonian.
 > - [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 
-**Delaware Formation, Fish fauna of the Bone Beds, central Ohio, USA**: 
-> Givetian, Middle Devonian 
+#### Columbus Limestone, Ohio, USA
+> - **Age**:Eifelian
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**:
 
+#### Columbus Limestone, Ohio, USA
+> - **Age**:Eifelian, Middle Devonian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Columbus Bone Bed.
+
+#### Delaware Limestone, Ohio, USA 
+> - **Age**: Givetian, Middle Devonian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+> - 
 #### Burtnieki Formation, Baltic states.
 > - **Age**: early Givetian.
 > - **Taxa**: Gyroptychius elgae Vorobyeva, 1977 
