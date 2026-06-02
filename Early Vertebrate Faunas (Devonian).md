@@ -1,6 +1,6 @@
 # Early Vertebrate Faunas and Sites
 
-#### Formation, 
+#### Formation, Locality
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -800,6 +800,15 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 
 
 ## Late Devonian
+### Frasnian, Late Devonian
+#### Formation, Locality
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
 ***Bergisch-Gladbach fauna***: lower Frasnian, 382.7, 379.2
 > Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
 
@@ -1041,6 +1050,13 @@ Glyptolepis sp. or Holoptychius sp.
 Osteolepididae
 Osteolepis sp.
 
+### Famenniian, Late Devonian
+#### Formation, Locality
+> - **Age**:
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 ***Cleveland Shale fauna***: upper Famennian. 
 > The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
@@ -1114,6 +1130,16 @@ The arthrodires comprise
 ***Catskill Formation fauna***: Famennian.
 > Catskill Formation; Red Hill, Pennsylvania, USA.
 > - Apatorhynchus opistheretmus(Friedman and Daeschler, 2006) Late Devonian, Famennian (Fa2b).
+
+#### Tugenevo beds/Dankoc-Lebedyan beds, central Devonian field, Oryol, Metsensk district, Russia
+> - **Age**: middle Famennian
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: Zadonckian/Plavsk regional stage
+
+
+
 
 ***Huron shale, Ohio shale, Appalachian Basin, USA***: Famennian
 > - **Age**:Famennian
