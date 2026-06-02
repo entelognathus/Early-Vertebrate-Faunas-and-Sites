@@ -1203,6 +1203,7 @@ The Foreknobs is divided into the following Members, in ascending order: Mallow 
 > - **References**: Schultze et al., 2021
 > - **Comments**: The Dyer Formation preserves a critical late Famennian fauna where "Carboniferous-type" taxa (e.g., Psephodus, Orodus, Ctenacanthus) coexist with typical Late Devonian forms (Dunkleosteus). This demonstrates that many Carboniferous vertebrate lineages originated before the Hangenberg Crisis, blurring the Devonian-Carboniferous faunal boundary.
 
+<img width="1427" height="1503" alt="Snipaste_2026-06-02_14-10-38" src="https://github.com/user-attachments/assets/3e8e13f6-66e8-449b-9bbc-7e02605f895c" />
 
 
 **References**
