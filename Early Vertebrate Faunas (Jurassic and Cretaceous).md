@@ -1,4 +1,6 @@
 # Early Vertebrate Faunas and Sites
+
+#### Formation, site
 > - **Age**:
 > - **Taxa**:
 > - **Locality and horizon**:
@@ -8,8 +10,32 @@
 # Jurassic
 ## Early Jurassic
 ### Hettangian
+#### Dull Purplish Beds/Shawan Member, Lufeng Formation, Yunnan, China
+> - **Age**: Hettangian, Early Jurassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+#### Lufeng Formation, Yunnan, China
+> - **Age**: Hettangian to Sinemurian, Early Jurassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: formerly Lower Lufeng Series.
+
 ### Sinemurian
+#### Dark Red Beds/Zhangjia'ao Member, Lufeng Formation, Yunnan, China
+> - **Age**: Sinemurian, Early Jurassic.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
+
 ### Pliensbachian
+
+
 ### Toarcian
 
 
