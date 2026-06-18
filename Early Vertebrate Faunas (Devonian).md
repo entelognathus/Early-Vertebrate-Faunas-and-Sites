@@ -569,9 +569,12 @@ Megalichthyinae, tristichopterids (‘Eusthenopteridae’ in Long et al., 2018),
 **Qujing Formation, Zhaotong, Yunnan**
 > late Eifelian, Middle Devonian.
 
-***Svalbard Grey Hoek to Wijde Formations fauna***: 
-> Eifelian. 
-> Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
+#### Grey Hoek Formation, Svalbard
+> - **Age**: Eifelian. 
+> - **Taxa**: Euleptaspidid A,  *Arctonema crassum* Ørvig, 1969
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 ***Achanarras fish beds***: upper Eifelian, 389.6, 387.7
 > Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
@@ -665,6 +668,14 @@ and Burtnieki RSs (Sorokin 1981) (Mark-Kurik and Poldvere, 2012). But in the (Fi
 > - **References**:
 > - **Comments**: 
 > - 
+
+#### Wijde Bay Formation, Svalbard
+> - **Age**: Givetian.
+> - **Taxa**:
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
+
 #### Burtnieki Formation, Baltic states.
 > - **Age**: early Givetian.
 > - **Taxa**: Gyroptychius elgae Vorobyeva, 1977 
