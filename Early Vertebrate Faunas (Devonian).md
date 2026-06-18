@@ -332,29 +332,47 @@ Horizons: Xishancun, Xiun, Guijiatun, and Xujiachong formations in Qujing, Yunna
 >> - The Norsk Polarinstitutt geological map describes three members for the Wood Bay Formation, viz., from base to top: the [Austfjorden], [Dicksonfjorden] and [Verdalen] members (Dallmann *et al*. 2002; Blomeier *et al*. 2003a).
 >> - The Austfjorden Member roughly corresponds to the Sigurdfjellet (early Pragian) and Kapp Kjeldsen (late Pragian) faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
 
-##### Early Pragian (lower part of Austfjorden Member, Sigurdfjellet faunal division，Assemblage 1 in Pernègre and Blieck, 2016)
+##### lower part of Austfjorden Member, Sigurdfjellet faunal division，Assemblage 1 in Pernègre and Blieck, 2016, Wood Bay Formation
+> - **Age**: Early Pragian.
+> - **Taxa**: 
 > - - Pteraspidiforms: *Doryaspis arctica* Pernègre, 2002; *Gigantaspis minima* Pernègre & Goujet, 2007; *Xylaspis prima* (Pernègre, 2003); *Woodfjordaspis felixi* Pernègre, 2006
 >   - Osteostracans：*Boreaspis rostrata* Stensiö, 1927; *Boreaspis intermedia* Wängsjö, 1952; *Boreaspis ceratops* Wängsjö, 1952; *Boreaspis ginsburgi* Janvier, 1977; *Cephalaspis curta* Wängsjö, 1952; *Norselaspis glacialis* Janvier, 1981; *Axinaspis whitei* Wängsjö, 1952; *Diademaspis* sp.
 >   - Placoderms：*Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp.
 >   - crown gnathostomes: *Powichthys spitsbergensis* Clément and Janvier, 2004.
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
-##### Late Pragian (upper part of Austfjorden Member, Kapp Kjeldsen faunal division，Assemblages 2, 3, and 6 in Pernègre and Blieck, 2016)
->> - - Pteraspidiforms: *Doryaspis arctica* Pernègre, 2002; _*Doryaspis nathorsti*_ (Lankester, 1884); *Doryaspis groenhorgensis* Pernègre, 2005; *Doryaspis lyktensis* (Heintz, 1960); *Gigantaspis isachseni* Heintz, 1962; *Gigantaspis bocki* Heintz, 1962; *Gigantaspis laticephala* (Blieck & Goujet, 1983).
->>   - Osteostracans：*Diademaspis poplinae* Janvier, 1985; *Parameteoraspis moythomasi* (Wängsjö, 1952); *Nectaspis areolata* Wängsjö, 1952; Hildenaspis sp.
->>  - Placoderms：*Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
->>   - crown gnathostomes: *Porolepis spitsbergensis* Jarvik, 1937
+##### upper part of Austfjorden Member, Kapp Kjeldsen faunal division，Assemblages 2, 3, and 6 in Pernègre and Blieck, 2016, Wood Bay Formation
+> - **Age**: Late Pragian.
+> - **Taxa**:
+>> - Pteraspidiforms: *Doryaspis arctica* Pernègre, 2002; *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis groenhorgensis* Pernègre, 2005; *Doryaspis lyktensis* (Heintz, 1960); *Gigantaspis isachseni* Heintz, 1962; *Gigantaspis bocki* Heintz, 1962; *Gigantaspis laticephala* (Blieck & Goujet, 1983).
+>> - Osteostracans：*Diademaspis poplinae* Janvier, 1985; *Parameteoraspis moythomasi* (Wängsjö, 1952); *Nectaspis areolata* Wängsjö, 1952; Hildenaspis sp.
+>> - Placoderms：*Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+>>  - crown gnathostomes: *Porolepis spitsbergensis* Jarvik, 1937
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
-##### Early Emsian (Dicksonfjorden Member, Keltiefjellet faunal division, Assemblages 4, 5, 7, 8 in Pernègre and Blieck, 2016)
-> - - Pteraspidiforms: *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis lyktensis* (Heintz, 1960); *Doryaspis* sp.
->   - Osteostracans：*Parameteoraspis lanternaria* (Wängsjö, 1952); *Parameteoraspis oblonga* (Stensiö, 1927); *Parameteoraspis* sp.; *Diademaspis poplinae* Janvier, 1985; *Nectaspis peltata* Wängsjö, 1952.
->   - Placoderms：*Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp.
+##### Dicksonfjorden Member, Keltiefjellet faunal division, Assemblages 4, 5, 7, 8 in Pernègre and Blieck, 2016, Wood Bay Formation
+> - **Age**: Early Emsian.
+> - **Taxa**:
+>> - Pteraspidiforms: *Doryaspis nathorsti* (Lankester, 1884); *Doryaspis lyktensis* (Heintz, 1960); *Doryaspis* sp.
+>> - Osteostracans：*Parameteoraspis lanternaria* (Wängsjö, 1952); *Parameteoraspis oblonga* (Stensiö, 1927); *Parameteoraspis* sp.; *Diademaspis poplinae* Janvier, 1985; *Nectaspis peltata* Wängsjö, 1952.
+>> - Placoderms：*Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp.
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
-##### Late Emsian (Verdalen Member, Stjørdalen faunal division): *Doryaspis minor* (Heintz, 1960); *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+##### Verdalen Member, Stjørdalen faunal division, Wood Bay Formation
+> - **Age**: Late Emsian.
+> - **Taxa**: *Doryaspis minor* (Heintz, 1960); *Amaltheolepis winsnesi* Ørvig, 1969; *Herasmius granulatus* Ørvig, 1969; *Heimenia ensis* Ørvig, 1969; Euleptaspidid B.
+>> - 
+> - **Locality and horizon**:
+> - **References**:
+> - **Comments**: 
 
 > The data in the table below from Cloutier and Lelievre (1998), many errors to be checked.
-
-> http://www.paleofile.com/Fish/Fish%20lists/Agnatha.asp
-
 
 | Clade          |  Formation      | taxa                                 |
 |----------------|-----------------|--------------------------------------|
